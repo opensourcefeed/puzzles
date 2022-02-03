@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5003b36.css",
-    "main.js": "/static/js/main.313cd09d.js",
-    "static/media/start.mp3": "/static/media/start.75616da9ff09cec0b3fe.mp3",
-    "static/media/passed.mp3": "/static/media/passed.fd2c2fea27379cbc44da.mp3",
-    "static/media/word-enter.mp3": "/static/media/word-enter.5f1fee46481f6a9e2585.mp3",
+    "main.css": "/static/css/main.9308132c.css",
+    "main.js": "/static/js/main.8cd715a7.js",
+    "static/media/passed.mp3": "/static/media/passed.6ea9e94402f6a7784316.mp3",
     "static/media/words-dict-curated5.txt": "/static/media/words-dict-curated5.f0d63bd58ff9bd05cfa3.txt",
-    "static/media/lost.mp3": "/static/media/lost.6b2eb1aa1ffcec110107.mp3",
+    "static/media/start.mp3": "/static/media/start.3d8bc5d81d43cb363d94.mp3",
+    "static/media/word-enter.mp3": "/static/media/word-enter.74c265da64d4d7892ac1.mp3",
+    "static/media/lost.mp3": "/static/media/lost.27a5351096e3b7ccea1c.mp3",
+    "static/media/error.mp3": "/static/media/error.12f3c90e6c61ac0fb54b.mp3",
     "static/media/words-source-curated5.txt": "/static/media/words-source-curated5.3e1b1e84a41d4909c769.txt",
     "index.html": "/index.html",
-    "main.a5003b36.css.map": "/static/css/main.a5003b36.css.map",
-    "main.313cd09d.js.map": "/static/js/main.313cd09d.js.map"
+    "main.9308132c.css.map": "/static/css/main.9308132c.css.map",
+    "main.8cd715a7.js.map": "/static/js/main.8cd715a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5003b36.css",
-    "static/js/main.313cd09d.js"
+    "static/css/main.9308132c.css",
+    "static/js/main.8cd715a7.js"
   ]
 }
