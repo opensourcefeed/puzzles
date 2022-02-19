@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4d2182da.css",
-    "main.js": "/static/js/main.5ec3dc65.js",
+    "main.js": "/static/js/main.d4c5960f.js",
     "static/media/passed.mp3": "/static/media/passed.6ea9e94402f6a7784316.mp3",
     "static/media/words-dict-curated5.txt": "/static/media/words-dict-curated5.f0d63bd58ff9bd05cfa3.txt",
     "static/media/start.mp3": "/static/media/start.3d8bc5d81d43cb363d94.mp3",
@@ -11,10 +11,10 @@
     "static/media/words-source-curated5.txt": "/static/media/words-source-curated5.3e1b1e84a41d4909c769.txt",
     "index.html": "/index.html",
     "main.4d2182da.css.map": "/static/css/main.4d2182da.css.map",
-    "main.5ec3dc65.js.map": "/static/js/main.5ec3dc65.js.map"
+    "main.d4c5960f.js.map": "/static/js/main.d4c5960f.js.map"
   },
   "entrypoints": [
     "static/css/main.4d2182da.css",
-    "static/js/main.5ec3dc65.js"
+    "static/js/main.d4c5960f.js"
   ]
 }
