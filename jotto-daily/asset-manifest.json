@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1125e964.css",
-    "main.js": "/static/js/main.09bebafe.js",
+    "main.js": "/static/js/main.9189a5a5.js",
     "static/media/passed.mp3": "/static/media/passed.6ea9e94402f6a7784316.mp3",
     "static/media/words-dict-curated5.txt": "/static/media/words-dict-curated5.f0d63bd58ff9bd05cfa3.txt",
     "static/media/start.mp3": "/static/media/start.3d8bc5d81d43cb363d94.mp3",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.1125e964.css",
-    "static/js/main.09bebafe.js"
+    "static/js/main.9189a5a5.js"
   ]
 }
