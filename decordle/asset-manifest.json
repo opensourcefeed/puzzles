@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.10180ef3.css",
-    "main.js": "/static/js/main.ef3e9378.js",
+    "main.css": "/static/css/main.168a6359.css",
+    "main.js": "/static/js/main.511dbdf5.js",
+    "static/media/words-dict-curated5.txt": "/static/media/words-dict-curated5.643c0b2dbac506d45a6d.txt",
     "static/media/passed.mp3": "/static/media/passed.6ea9e94402f6a7784316.mp3",
-    "static/media/words-dict-curated5.txt": "/static/media/words-dict-curated5.f0d63bd58ff9bd05cfa3.txt",
     "static/media/start.mp3": "/static/media/start.3d8bc5d81d43cb363d94.mp3",
     "static/media/word-enter.mp3": "/static/media/word-enter.74c265da64d4d7892ac1.mp3",
+    "static/media/words-source-curated5.txt": "/static/media/words-source-curated5.778bc99a2d61e2946e11.txt",
     "static/media/lost.mp3": "/static/media/lost.27a5351096e3b7ccea1c.mp3",
     "static/media/error.mp3": "/static/media/error.12f3c90e6c61ac0fb54b.mp3",
-    "static/media/words-source-curated5.txt": "/static/media/words-source-curated5.3e1b1e84a41d4909c769.txt",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.10180ef3.css",
-    "static/js/main.ef3e9378.js"
+    "static/css/main.168a6359.css",
+    "static/js/main.511dbdf5.js"
   ]
 }
