@@ -12,6 +12,7 @@
   <meta property="og:image" content="https://www.opensourcefeed.org/puzzles/jotto-digital/preview.jpg" />
   <meta name="image" content="https://www.opensourcefeed.org/puzzles/jotto-digital/preview.jpg" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="manifest" href="manifest.json">
   <style>
     .common-bg {
       background-color: #0A2061 !important;
@@ -124,6 +125,13 @@
   <script>function gtag() { dataLayer.push(arguments) } window.dataLayer = window.dataLayer || [], gtag("js", new Date), gtag("config", "UA-140248750-1")</script>
   <script
     type="text/javascript">!function (t, e, n, c, a, r, s) { t[n] = t[n] || function () { (t[n].q = t[n].q || []).push(arguments) }, (r = e.createElement(c)).async = 1, r.src = "https://www.clarity.ms/tag/57t32bv59c", (s = e.getElementsByTagName(c)[0]).parentNode.insertBefore(r, s) }(window, document, "clarity", "script")</script>
-</body>
+  <script>
+    if (!navigator.serviceWorker.controller) {
+      navigator.serviceWorker.register("/sw.js").then(function (reg) {
+        console.log("Service worker has been registered for scope: " + reg.scope);
+      });
+    }
+  </script>
+  </body>
 
 </html>
