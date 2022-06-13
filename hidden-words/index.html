@@ -19,19 +19,36 @@
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
-            background-size: cover
+            background-size: cover;
+            background-color: #f2d0b8;
         }
 
         body {
             overflow-y: hidden;
             overscroll-behavior: contain
         }
+
+        .header-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            text-align: center;
+            width: 100%;
+            z-index: -1
+        }
+
+        .header-bg img {
+            max-width: 540px;
+            width: 100%
+        }
     </style>
-    <script defer="defer" src="static/js/main.28e2580a.js"></script>
-    <link href="static/css/main.1e31888b.css" rel="stylesheet">
+    <script defer="defer" src="static/js/main.f1035ca7.js"></script>
+    <link href="static/css/main.246d690e.css" rel="stylesheet">
 </head>
 
-<body><noscript>You need to enable JavaScript to run this app.</noscript>
+<body>
+    <div class="header-bg"><img src="top-frame.png" class="top-frame" /></div><noscript>You need to enable JavaScript to
+        run this app.</noscript>
     <div id="root"></div>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140248750-1"></script>
     <script>function gtag() { dataLayer.push(arguments) } window.dataLayer = window.dataLayer || [], gtag("js", new Date), gtag("config", "UA-140248750-1")</script>
