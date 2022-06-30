@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.484bf66a.css",
+    "main.js": "/static/js/main.dec028db.js",
+    "static/js/27.089908ad.chunk.js": "/static/js/27.089908ad.chunk.js",
+    "static/media/level-clear.mp3": "/static/media/level-clear.37b45d4b4b0828435ef4.mp3",
+    "static/media/grid.jpg": "/static/media/grid.5ed14f2d86828ab51736.jpg",
+    "static/media/level-start.mp3": "/static/media/level-start.3d8bc5d81d43cb363d94.mp3",
+    "static/media/treasure.png": "/static/media/treasure.fcb574ee388a11422667.png",
+    "static/media/valid-word.mp3": "/static/media/valid-word.74c265da64d4d7892ac1.mp3",
+    "static/media/invalid-word.mp3": "/static/media/invalid-word.12f3c90e6c61ac0fb54b.mp3",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.484bf66a.css",
+    "static/js/main.dec028db.js"
+  ]
+}
