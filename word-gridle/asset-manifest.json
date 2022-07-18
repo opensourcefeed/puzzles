@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.655aeb2f.css",
-    "main.js": "/static/js/main.610d7fe9.js",
+    "main.css": "/static/css/main.5cfa0af9.css",
+    "main.js": "/static/js/main.44986a05.js",
     "static/js/27.089908ad.chunk.js": "/static/js/27.089908ad.chunk.js",
-    "static/media/level-clear.mp3": "/static/media/level-clear.37b45d4b4b0828435ef4.mp3",
     "static/media/level-start.mp3": "/static/media/level-start.3d8bc5d81d43cb363d94.mp3",
+    "static/media/level-clear.mp3": "/static/media/level-clear.1c378142a7e79ad76984.mp3",
     "static/media/treasure.png": "/static/media/treasure.fcb574ee388a11422667.png",
     "static/media/correct-word.mp3": "/static/media/correct-word.1ecb3d0de1b6683d5c38.mp3",
     "static/media/valid-word.mp3": "/static/media/valid-word.74c265da64d4d7892ac1.mp3",
     "static/media/level-failed.mp3": "/static/media/level-failed.27a5351096e3b7ccea1c.mp3",
+    "static/media/star-rating.mp3": "/static/media/star-rating.39c75d3fe1729ac3b886.mp3",
     "static/media/invalid-word.mp3": "/static/media/invalid-word.12f3c90e6c61ac0fb54b.mp3",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.655aeb2f.css",
-    "static/js/main.610d7fe9.js"
+    "static/css/main.5cfa0af9.css",
+    "static/js/main.44986a05.js"
   ]
 }
