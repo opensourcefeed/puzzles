@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.428f738d.css",
-    "main.js": "/static/js/main.e63e6509.js",
+    "main.css": "/static/css/main.31f0e583.css",
+    "main.js": "/static/js/main.1a77b33c.js",
     "static/media/words-dict-curated5.txt": "/static/media/words-dict-curated5.643c0b2dbac506d45a6d.txt",
     "static/media/passed.mp3": "/static/media/passed.6ea9e94402f6a7784316.mp3",
     "static/media/start.mp3": "/static/media/start.3d8bc5d81d43cb363d94.mp3",
+    "static/media/correct-word.mp3": "/static/media/correct-word.1ecb3d0de1b6683d5c38.mp3",
     "static/media/word-enter.mp3": "/static/media/word-enter.74c265da64d4d7892ac1.mp3",
     "static/media/words-source-curated5.txt": "/static/media/words-source-curated5.778bc99a2d61e2946e11.txt",
     "static/media/lost.mp3": "/static/media/lost.27a5351096e3b7ccea1c.mp3",
@@ -12,7 +13,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.428f738d.css",
-    "static/js/main.e63e6509.js"
+    "static/css/main.31f0e583.css",
+    "static/js/main.1a77b33c.js"
   ]
 }
