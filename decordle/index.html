@@ -35,6 +35,18 @@
             width: 100%
         }
     </style>
+        <script>
+        setTimeout(() => {
+            if (window.top != window.self) {
+                try {
+                    window.top.location.assign('https://www.opensourcefeed.org/puzzles/decordle?source=iframe')
+                } catch (e) {
+                    console.log(e);
+                    document.write('Please visit the <a href="https://www.opensourcefeed.org/puzzles/decordle?source=iframe">official decordle website</a> for better gaming experience')
+                }
+            }
+        }, 1000);
+        </script>
     <script defer="defer" src="static/js/main.780ff5d0.js"></script>
     <link href="static/css/main.e7e5dd97.css" rel="stylesheet">
 </head>
@@ -55,15 +67,6 @@
                 alt="Get it on Google Play"
                 src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" /></a>
     </div>
-    <script>
-        if (window.top != window.self) {
-            try {
-                window.top.location.assign('https://www.opensourcefeed.org/puzzles/decordle?source=iframe')
-            } catch (e) {
-                document.write('Please visit the <a href="https://www.opensourcefeed.org/puzzles/decordle?source=iframe">official decordle website</a> for better gaming experience')
-            }
-        }
-    </script>
 </body>
 
 </html>
