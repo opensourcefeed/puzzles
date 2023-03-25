@@ -67,13 +67,16 @@
       list-style-type: none;
       padding-left: 0;
     }
+
     .sub {
       font-weight: normal;
       font-size: 0.8rem;
     }
+
     p a {
       color: #fff;
     }
+
     .banner {
       text-align: center;
       margin-top: 2rem;
@@ -81,6 +84,32 @@
       border-top: 2px solid #fff8;
       color: #fff;
       font-weight: bold;
+    }
+
+    .games {
+      display: flex;
+      justify-content: center;
+    }
+
+    .game {
+      max-width: 320px;
+      box-shadow: 0px 5px 25px 0px rgb(0 0 0 / 20%);
+      padding: 1rem;
+      background-color: #0008;
+    }
+
+    .game h3 {
+      color: white;
+    }
+
+    .game p {
+      color: #eee;
+    }
+
+    a .game,
+    a:visited .game,
+    a:hover .game {
+      text-decoration: none;
     }
   </style>
 </head>
@@ -94,31 +123,39 @@
       <div class="menu-section">
         <p>Choose a difficulty level to proceed</p>
         <div class="menu">
-          <a class="button" href="../wordle-unlimited/?source=landing">Wordle Unlimited<div class="sub">One Word</div>
+          <a class="button" target="_blank" href="../wordle-unlimited/?source=landing">Wordle Unlimited<div class="sub">
+              One Word</div>
           </a>
-          <a class="button" href="../jotto-daily/?source=landing">Wordle Daily<div class="sub">One Word</div>
-          </a>
-          <a class="button" href="../dordle-unlimited/?source=landing">Dordle Unlimited<div class="sub">Two Words
+          <a class="button" target="_blank" href="../jotto-daily/?source=landing">Wordle Daily<div class="sub">One Word
             </div>
           </a>
-          <a class="button" href="../decordle-unlimited/?source=landing">Decordle Unlimited<div class="sub">10 Words
+          <a class="button" target="_blank" href="../dordle-unlimited/?source=landing">Dordle Unlimited<div class="sub">
+              Two Words
             </div>
           </a>
-          <a class="button" href="../decordle/?source=landing">Decordle Daily<div class="sub">10 Words</div>
+          <a class="button" target="_blank" href="../decordle-unlimited/?source=landing">Decordle Unlimited<div
+              class="sub">10 Words
+            </div>
+          </a>
+          <a class="button" target="_blank" href="../decordle/?source=landing">Decordle Daily<div class="sub">10 Words
+            </div>
           </a>
 
-          <a class="button" href="../word-gridle/?source=landing">Word Gridle<div class="sub">Form the words & fill the
+          <a class="button" target="_blank" href="../word-gridle/?source=landing">Word Gridle<div class="sub">Form the
+              words & fill the
               grid - Daily</div>
           </a>
-          <a class="button" href="../gridle-unlimited/?source=landing">Word Gridle Unlimited<div class="sub">Form the words
+          <a class="button" target="_blank" href="../gridle-unlimited/?source=landing">Word Gridle Unlimited<div
+              class="sub">Form the
+              words
               & fill the grid</div>
           </a>
+          <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="tahrikstudio" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
           <div class="banner">
-            You may also get it on Google Play<br/>
+            You may also get it on Google Play<br />
             <a
               href='https://play.google.com/store/apps/details?id=org.tahrik.wordle&utm_source=web&utm_campaign=bottom-banner&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img
-                alt='Get it on Google Play'
-                width="270" height="105"
+                alt='Get it on Google Play' width="270" height="105"
                 src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' /></a>
           </div>
           <script async
@@ -131,19 +168,31 @@
             (adsbygoogle = window.adsbygoogle || []).push({});
           </script>
           <div class="external-buttons">
-            <p>Original Implementations</p>
-            <a class="button" href="https://www.nytimes.com/games/wordle/index.html">Wordle</a>
-            <a class="button" href="https://zaratustra.itch.io/dordle">Dordle</a>
-            <a class="button" href="https://www.quordle.com/#/">Quordle</a>
-            <a class="button" href="https://octordle.com">Octordle</a>
-            <a class="button" href="https://www.opensourcefeed.org/puzzles/decordle/">Decordle</a>
-            <a class="button" href="https://www.sedecordle.com/">Sedecordle</a>
-            <a class="button" href="https://duotrigordle.com/?">Duotrigordle</a>
-            <a class="button" href="https://worldle.teuteuf.fr/">Worldle</a>
-            <a class="button" href="https://www.mathler.com/">Mathler</a>
-            <a class="button" href="https://vegeta897.github.io/wordle-peaks">Wordle Peaks</a>
+            <h2>Original Implementations</h2>
+            <div class="games">
+              <a href="https://foximax.com/" target="_blank">
+                <div class="game">
+                  <img src="assets/foximax.png" />
+                  <h3>FoxiMax</h3>
+                  <p>Guess the letters to find hidden word. If the letter is not present in
+                    the word, you'll have to find one more word. Total 8 attempts will be available in this puzzle.
+                  </p>
+                </div>
+              </a>
+            </div>
+            <a class="button" target="_blank" href="https://www.nytimes.com/games/wordle/index.html">Wordle</a>
+            <a class="button" target="_blank" href="https://zaratustra.itch.io/dordle">Dordle</a>
+            <a class="button" target="_blank" href="https://www.quordle.com/#/">Quordle</a>
+            <a class="button" target="_blank" href="https://octordle.com">Octordle</a>
+            <a class="button" target="_blank" href="https://www.opensourcefeed.org/puzzles/decordle/">Decordle</a>
+            <a class="button" target="_blank" href="https://www.sedecordle.com/">Sedecordle</a>
+            <a class="button" target="_blank" href="https://duotrigordle.com/?">Duotrigordle</a>
+            <a class="button" target="_blank" href="https://worldle.teuteuf.fr/">Worldle</a>
+            <a class="button" target="_blank" href="https://www.mathler.com/">Mathler</a>
+            <a class="button" target="_blank" href="https://vegeta897.github.io/wordle-peaks">Wordle Peaks</a>
           </div>
-          <p>If you like to have a new puzzle added in the above list, let us know <a href="mail:contact.opensourcefeed@gmail.com">contact.opensourcefeed@gmail.com</a></p>
+          <p>If you like to have a new puzzle added in the above list, let us know <a
+              href="mail:contact.opensourcefeed@gmail.com">contact.opensourcefeed@gmail.com</a></p>
         </div>
       </div>
     </div>
