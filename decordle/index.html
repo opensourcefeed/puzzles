@@ -39,10 +39,10 @@
         setTimeout(() => {
             if (window.top != window.self) {
                 try {
-                    window.top.location.assign('https://www.opensourcefeed.org/puzzles/decordle?utm_source=iframe')
+                    window.top.location.assign('https://www.opensourcefeed.org/decordle/')
                 } catch (e) {
                     console.log(e);
-                    document.write('Please visit the <a href="https://www.opensourcefeed.org/puzzles/decordle?utm_source=iframe" target="_blank">official decordle website</a> for better gaming experience')
+                    document.write('Please visit the <a href="https://www.opensourcefeed.org/decordle/" target="_blank">official decordle website</a> for better gaming experience')
                 }
             }
         }, 1000);
