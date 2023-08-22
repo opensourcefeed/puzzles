@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f0009a11.css",
-    "main.js": "/static/js/main.f1e101fc.js",
+    "main.js": "/static/js/main.647d250d.js",
     "static/js/27.2236e296.chunk.js": "/static/js/27.2236e296.chunk.js",
     "static/media/level-start.mp3": "/static/media/level-start.3d8bc5d81d43cb363d94.mp3",
     "static/media/level-clear.mp3": "/static/media/level-clear.1c378142a7e79ad76984.mp3",
@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.f0009a11.css",
-    "static/js/main.f1e101fc.js"
+    "static/js/main.647d250d.js"
   ]
 }
