@@ -55,6 +55,19 @@
                 alt="Get it on Google Play"
                 src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
                 width="240" height="93" /></a></div>
+
+    <script>
+        setTimeout(() => {
+            if (window.top != window.self) {
+                try {
+                    window.top.location.assign('https://www.opensourcefeed.org/decordle/')
+                } catch (e) {
+                    console.log(e);
+                    document.write('Please visit the <a href="https://www.opensourcefeed.org/decordle?utm_source=iframe" target="_blank">official decordle website</a> for better gaming experience')
+                }
+            }
+        }, 1000);
+    </script>
 </body>
 
 </html>
