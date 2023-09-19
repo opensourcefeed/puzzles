@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.633abb0f.css",
-    "main.js": "/static/js/main.dd200fe0.js",
+    "main.css": "/static/css/main.dd12a40b.css",
+    "main.js": "/static/js/main.25da3f2c.js",
     "static/media/words-dict-curated5.txt": "/static/media/words-dict-curated5.9b1e3ac03be329164f18.txt",
     "static/media/passed.mp3": "/static/media/passed.6ea9e94402f6a7784316.mp3",
     "static/media/start.mp3": "/static/media/start.3d8bc5d81d43cb363d94.mp3",
@@ -13,7 +13,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.633abb0f.css",
-    "static/js/main.dd200fe0.js"
+    "static/css/main.dd12a40b.css",
+    "static/js/main.25da3f2c.js"
   ]
 }
