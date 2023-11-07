@@ -14,16 +14,47 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="manifest" href="manifest.json">
   <style>
+    html, body {
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
     .common-bg {
-      background-color: #D8315B !important;
+      background-color: #100575 !important;
+      background: linear-gradient(#072a2c, #064563);
       font-family: sans-serif;
     }
 
     .menu-container {
-      max-width: 540px;
+      max-width: 968px;
       margin: auto;
       text-align: center;
       padding-top: 0;
+      color: white;
+    }
+
+    .intro {
+      color: white;
+      margin: auto;
+      margin-top: 3rem;
+      border-top: 1px solid #8882;
+      text-align: center;
+      background-color: #eee;
+      color: black;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+
+    .intro .blocks {
+      display: flex;
+      flex-flow: wrap;
+      justify-content: center;
+    }
+
+    .intro .blocks > div {
+      width: 300px;
+      border: 1px solid #0002;
+      margin: 1rem;
+      padding: 1rem;
     }
 
     .menu-container .external-buttons {
@@ -36,7 +67,7 @@
 
     .logo {
       font-size: 3rem;
-      padding-top: 3rem;
+      padding-top: 1rem;
       color: white;
       font-weight: bold;
     }
@@ -52,10 +83,12 @@
       color: black;
       display: block;
       text-decoration: none;
+      max-width: 512px;
+      margin: 1rem auto;
     }
 
     .button.special {
-      background-color: #ff007c;
+      background-color: #1100ff;
       color: white;
     }
 
@@ -112,6 +145,71 @@
     a:hover .game {
       text-decoration: none;
     }
+
+    .listing {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    figure {
+      padding: 1rem;
+      border-radius: 1rem;
+      position: relative;
+      width: 192px;
+    }
+
+    figure img {
+      border-radius: 1rem;
+      transition: opacity 0.2s;
+      width: 192px;
+    }
+
+    figure img:hover {
+      opacity: 0.5;
+    }
+
+    figure h3 {
+      font-weight: normal;
+    }
+
+    figcaption {
+      background-color: #0008;
+      padding: 0rem 0.5rem;
+      line-height: 0.5rem;
+      color: white;
+      font-size: 1rem;
+      display: block;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    footer {
+      text-align: center;
+      height: 3rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      color: #eee;
+      border-top: 1px solid #8882;
+      margin-top: 2rem;
+    }
+
+    @media (max-width: 720px) {
+      figure {
+        margin: 10px;
+      }
+      figure, figure img {
+        width: 128px;
+      }
+      figcaption {
+        width: 96px;
+        line-height: 0rem;
+      }
+    }
+
   </style>
 </head>
 
@@ -120,10 +218,9 @@
     <div class="menu-container">
       <div class="logo-section">
         <h1 class="logo">Jotto Digital</h1>
-        <p>Word finding puzzles</p>
       </div>
       <div class="menu-section">
-        <p>Choose a difficulty level to proceed</p>
+        <p>Choose a game to proceed</p>
         <div class="menu">
           <a class="button" href="../wordle-unlimited">Wordle Unlimited<div class="sub">
               One Word</div>
@@ -150,8 +247,16 @@
               words
               & fill the grid</div>
           </a>
-          <a class="button" href="../word-plant">Word Plant (BETA)<div class="sub">Discover word and grow a plant</div>
-        </a>
+          <div class="listing">
+            <a href="https://www.opensourcefeed.org/word-plant">
+              <figure>
+                <img src="assets/word-plant.jpg" alt="word plant featured image">
+                <figcaption>
+                  <h3>Word Plant</h3>
+                </figcaption>
+              </figure>
+            </a>
+          </div>
           <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Ko-fi', '#29abe0', 'J3J2Q47RJ');kofiwidget2.draw();</script> 
           <div class="banner">
             You may also get it on Google Play<br />
@@ -171,18 +276,25 @@
           </script>
           <div class="external-buttons">
             <h2>Original Implementations</h2>
-            <div class="games">
-              <a href="https://foximax.com/" target="_blank">
-                <div class="game">
-                  <img src="assets/foximax.png" />
-                  <h3>FoxiMax</h3>
-                  <p>Guess the letters to find hidden word. If the letter is not present in
-                    the word, you'll have to find one more word. Total 8 attempts will be available in this puzzle.
-                  </p>
-                </div>
+            <div class="listing">
+              <a href="https://foximax.com/">
+                <figure>
+                  <img src="assets/foximax.png" alt="Guess the letters to find hidden word. If the letter is not present in
+                            the word, you'll have to find one more word. Total 8 attempts will be available in this puzzle.">
+                  <figcaption>
+                    <h3>FoxiMax</h3>
+                  </figcaption>
+                </figure>
+              </a>
+              <a href="https://www.nytimes.com/games/wordle/index.html">
+                <figure>
+                  <img src="assets/wordle-icon.png" alt="The original wordle game currently owned by The Newyork Times">
+                  <figcaption>
+                    <h3>Wordle</h3>
+                  </figcaption>
+                </figure>
               </a>
             </div>
-            <a class="button" target="_blank" href="https://www.nytimes.com/games/wordle/index.html">Wordle</a>
             <a class="button" target="_blank" href="https://zaratustra.itch.io/dordle">Dordle</a>
             <a class="button" target="_blank" href="https://www.quordle.com/#/">Quordle</a>
             <a class="button" target="_blank" href="https://octordle.com">Octordle</a>
@@ -209,6 +321,31 @@
   <script
     type="text/javascript">!function (t, e, n, c, a, r, s) { t[n] = t[n] || function () { (t[n].q = t[n].q || []).push(arguments) }, (r = e.createElement(c)).async = 1, r.src = "https://www.clarity.ms/tag/57t32bv59c", (s = e.getElementsByTagName(c)[0]).parentNode.insertBefore(r, s) }(window, document, "clarity", "script")</script>
 
-</body>
+    <div class="intro">
+      <h2>Key Benefits</h2>
+      <div class="blocks">
+        <div>
+          <h3>Enhanced Cognitive Skills</h3>
+          <p>Engage in our puzzle games to boost your analytical thinking, problem-solving abilities, and critical
+            reasoning.
+            Train your brain to think faster and more effectively.</p>
+        </div>
+        <div>
+          <h3>Expanded Vocabulary</h3>
+          <p>Word-based puzzles and challenges in our games will help you learn new words, improve your vocabulary, and
+            enhance your language skills. Have fun while you expand your lexicon!</p>
+        </div>
+        <div>
+          <h3>Memory Enhancement</h3>
+          <p>Playing memory-focused puzzles can sharpen your recall abilities and concentration. Watch your memory become
+            more
+            reliable and your attention span improve.</p>
+        </div>
+      </div>
+    </div>
+    <footer>
+      &copy; Tahrik Studio 2023
+    </footer>
+    </body>
 
 </html>
