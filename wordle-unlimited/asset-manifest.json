@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.56fdd08b.css",
-    "main.js": "/static/js/main.ae4105b0.js",
+    "main.css": "/static/css/main.b47c0970.css",
+    "main.js": "/static/js/main.3318c433.js",
     "static/js/371.04e18840.chunk.js": "/static/js/371.04e18840.chunk.js",
     "static/media/words-dict-curated5.txt": "/static/media/words-dict-curated5.643c0b2dbac506d45a6d.txt",
     "static/media/passed.mp3": "/static/media/passed.6ea9e94402f6a7784316.mp3",
     "static/media/start.mp3": "/static/media/start.3d8bc5d81d43cb363d94.mp3",
-    "static/media/kofi_s_tag_dark.png": "/static/media/kofi_s_tag_dark.f92ed3c86b31578eb7d8.png",
     "static/media/word-enter.mp3": "/static/media/word-enter.74c265da64d4d7892ac1.mp3",
     "static/media/words-source-curated5.txt": "/static/media/words-source-curated5.778bc99a2d61e2946e11.txt",
     "static/media/lost.mp3": "/static/media/lost.27a5351096e3b7ccea1c.mp3",
@@ -14,7 +13,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.56fdd08b.css",
-    "static/js/main.ae4105b0.js"
+    "static/css/main.b47c0970.css",
+    "static/js/main.3318c433.js"
   ]
 }
