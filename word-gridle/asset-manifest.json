@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d0befb56.css",
-    "main.js": "/static/js/main.ccfe3f01.js",
+    "main.js": "/static/js/main.a9cee0be.js",
     "static/media/level-start.mp3": "/static/media/level-start.3d8bc5d81d43cb363d94.mp3",
     "static/media/level-clear.mp3": "/static/media/level-clear.1c378142a7e79ad76984.mp3",
     "static/media/treasure.png": "/static/media/treasure.fcb574ee388a11422667.png",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.d0befb56.css",
-    "static/js/main.ccfe3f01.js"
+    "static/js/main.a9cee0be.js"
   ]
 }
