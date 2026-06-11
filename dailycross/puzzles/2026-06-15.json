@@ -1,0 +1,17 @@
+{
+  "id": "dailycross-2026-06-15",
+  "date": "2026-06-15",
+  "title": "Colors and Shapes",
+  "words": [
+    {"clue": "Color of the sky", "answer": "BLUE", "row": 0, "col": 0, "direction": "across"},
+    {"clue": "Color of grass", "answer": "GREEN", "row": 0, "col": 0, "direction": "down"},
+    {"clue": "Round shape", "answer": "CIRCLE", "row": 4, "col": 1, "direction": "across"},
+    {"clue": "Color of fire", "answer": "RED", "row": 2, "col": 5, "direction": "down"},
+    {"clue": "Three-sided shape", "answer": "TRIANGLE", "row": 7, "col": 0, "direction": "across"},
+    {"clue": "Color of sunshine", "answer": "YELLOW", "row": 3, "col": 8, "direction": "down"},
+    {"clue": "Four equal sides", "answer": "SQUARE", "row": 9, "col": 2, "direction": "across"},
+    {"clue": "Color of night", "answer": "BLACK", "row": 1, "col": 10, "direction": "down"},
+    {"clue": "Long rectangle shape", "answer": "RECTANGLE", "row": 11, "col": 1, "direction": "across"},
+    {"clue": "Color of snow", "answer": "WHITE", "row": 6, "col": 7, "direction": "down"}
+  ]
+}

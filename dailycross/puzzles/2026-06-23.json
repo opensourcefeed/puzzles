@@ -1,0 +1,17 @@
+{
+  "id": "dailycross-2026-06-23",
+  "date": "2026-06-23",
+  "title": "Countries and Places",
+  "words": [
+    {"clue": "Land of pyramids", "answer": "EGYPT", "row": 0, "col": 0, "direction": "across"},
+    {"clue": "Capital is Paris", "answer": "FRANCE", "row": 0, "col": 0, "direction": "down"},
+    {"clue": "Big island country", "answer": "JAPAN", "row": 4, "col": 1, "direction": "across"},
+    {"clue": "Home of kangaroos", "answer": "AUSTRALIA", "row": 2, "col": 5, "direction": "down"},
+    {"clue": "Has Great Wall", "answer": "CHINA", "row": 7, "col": 0, "direction": "across"},
+    {"clue": "Capital is London", "answer": "ENGLAND", "row": 3, "col": 8, "direction": "down"},
+    {"clue": "Statue of Liberty here", "answer": "AMERICA", "row": 9, "col": 2, "direction": "across"},
+    {"clue": "City with canals", "answer": "VENICE", "row": 1, "col": 10, "direction": "down"},
+    {"clue": "Taj Mahal location", "answer": "INDIA", "row": 11, "col": 1, "direction": "across"},
+    {"clue": "Berlin is capital", "answer": "GERMANY", "row": 6, "col": 7, "direction": "down"}
+  ]
+}

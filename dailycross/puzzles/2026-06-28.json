@@ -1,0 +1,17 @@
+{
+  "id": "dailycross-2026-06-28",
+  "date": "2026-06-28",
+  "title": "Math and Numbers",
+  "words": [
+    {"clue": "Addition result", "answer": "SUM", "row": 0, "col": 0, "direction": "across"},
+    {"clue": "Subtraction result", "answer": "DIFFERENCE", "row": 0, "col": 0, "direction": "down"},
+    {"clue": "Multiplication symbol", "answer": "TIMES", "row": 4, "col": 1, "direction": "across"},
+    {"clue": "Division symbol", "answer": "DIVIDE", "row": 2, "col": 5, "direction": "down"},
+    {"clue": "Number before ten", "answer": "NINE", "row": 7, "col": 0, "direction": "across"},
+    {"clue": "Half of ten", "answer": "FIVE", "row": 3, "col": 8, "direction": "down"},
+    {"clue": "Shape with four sides", "answer": "SQUARE", "row": 9, "col": 2, "direction": "across"},
+    {"clue": "Number after nine", "answer": "TEN", "row": 1, "col": 10, "direction": "down"},
+    {"clue": "Zero plus zero", "answer": "ZERO", "row": 11, "col": 1, "direction": "across"},
+    {"clue": "Counting numbers", "answer": "NUMBERS", "row": 6, "col": 7, "direction": "down"}
+  ]
+}

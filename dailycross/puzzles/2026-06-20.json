@@ -1,0 +1,17 @@
+{
+  "id": "dailycross-2026-06-20",
+  "date": "2026-06-20",
+  "title": "Jobs and Professions",
+  "words": [
+    {"clue": "Teaches students", "answer": "TEACHER", "row": 0, "col": 0, "direction": "across"},
+    {"clue": "Helps sick people", "answer": "DOCTOR", "row": 0, "col": 0, "direction": "down"},
+    {"clue": "Fights fires", "answer": "FIREFIGHTER", "row": 4, "col": 1, "direction": "across"},
+    {"clue": "Flies planes", "answer": "PILOT", "row": 2, "col": 5, "direction": "down"},
+    {"clue": "Cooks food", "answer": "CHEF", "row": 7, "col": 0, "direction": "across"},
+    {"clue": "Arrests criminals", "answer": "POLICE", "row": 3, "col": 8, "direction": "down"},
+    {"clue": "Delivers mail", "answer": "POSTMAN", "row": 9, "col": 2, "direction": "across"},
+    {"clue": "Builds houses", "answer": "BUILDER", "row": 1, "col": 10, "direction": "down"},
+    {"clue": "Grows crops", "answer": "FARMER", "row": 11, "col": 1, "direction": "across"},
+    {"clue": "Drives buses", "answer": "DRIVER", "row": 6, "col": 7, "direction": "down"}
+  ]
+}

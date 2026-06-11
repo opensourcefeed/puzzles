@@ -1,0 +1,137 @@
+{
+  "version": "1.0",
+  "description": "Question bank for grade 5 crossword puzzles - easy difficulty",
+  "totalQuestions": 100,
+  "categories": {
+    "animals": [
+      { "clue": "A pet that says meow", "answer": "CAT" },
+      { "clue": "A pet that barks", "answer": "DOG" },
+      { "clue": "Big gray animal with trunk", "answer": "ELEPHANT" },
+      { "clue": "Tallest land animal", "answer": "GIRAFFE" },
+      { "clue": "King of the jungle", "answer": "LION" },
+      { "clue": "Black and white bear", "answer": "PANDA" },
+      { "clue": "Fastest land animal", "answer": "CHEETAH" },
+      { "clue": "Largest ocean animal", "answer": "WHALE" },
+      { "clue": "Bird that cannot fly", "answer": "PENGUIN" },
+      { "clue": "Farm animal that gives milk", "answer": "COW" }
+    ],
+    "food": [
+      { "clue": "Red fruit that keeps doctor away", "answer": "APPLE" },
+      { "clue": "Yellow curved fruit", "answer": "BANANA" },
+      { "clue": "Orange citrus fruit", "answer": "ORANGE" },
+      { "clue": "White dairy drink", "answer": "MILK" },
+      { "clue": "Frozen sweet treat", "answer": "ICECREAM" },
+      { "clue": "Bread with filling", "answer": "SANDWICH" },
+      { "clue": "Round Italian food", "answer": "PIZZA" },
+      { "clue": "Sweet baked dessert", "answer": "CAKE" },
+      { "clue": "Breakfast egg dish", "answer": "OMELET" },
+      { "clue": "Green vegetable rabbits love", "answer": "CARROT" }
+    ],
+    "school": [
+      { "clue": "Place where you learn", "answer": "SCHOOL" },
+      { "clue": "You write with this", "answer": "PENCIL" },
+      { "clue": "You read stories in this", "answer": "BOOK" },
+      { "clue": "Teacher writes on this", "answer": "BOARD" },
+      { "clue": "You sit at this", "answer": "DESK" },
+      { "clue": "Carries your books", "answer": "BACKPACK" },
+      { "clue": "Art class tool", "answer": "BRUSH" },
+      { "clue": "Math calculation tool", "answer": "CALCULATOR" },
+      { "clue": "Paper fastener", "answer": "STAPLER" },
+      { "clue": "Marks mistakes in red", "answer": "CORRECTION" }
+    ],
+    "nature": [
+      { "clue": "Falls from clouds", "answer": "RAIN" },
+      { "clue": "Frozen water", "answer": "ICE" },
+      { "clue": "Bright sky object at night", "answer": "STAR" },
+      { "clue": "Our planet", "answer": "EARTH" },
+      { "clue": "Hot ball in sky", "answer": "SUN" },
+      { "clue": "White sky fluff", "answer": "CLOUD" },
+      { "clue": "Colorful sky arc after rain", "answer": "RAINBOW" },
+      { "clue": "Tree part that falls", "answer": "LEAF" },
+      { "clue": "Flower powder", "answer": "POLLEN" },
+      { "clue": "Underground plant part", "answer": "ROOT" }
+    ],
+    "body": [
+      { "clue": "You see with these", "answer": "EYES" },
+      { "clue": "You hear with these", "answer": "EARS" },
+      { "clue": "You smell with this", "answer": "NOSE" },
+      { "clue": "You eat with this", "answer": "MOUTH" },
+      { "clue": "You walk on these", "answer": "FEET" },
+      { "clue": "You hold with these", "answer": "HANDS" },
+      { "clue": "Top of your head hair", "answer": "HAIR" },
+      { "clue": "Arm bend point", "answer": "ELBOW" },
+      { "clue": "Hand end parts", "answer": "FINGERS" },
+      { "clue": "Foot end parts", "answer": "TOES" }
+    ],
+    "colors": [
+      { "clue": "Sky color", "answer": "BLUE" },
+      { "clue": "Grass color", "answer": "GREEN" },
+      { "clue": "Sun color", "answer": "YELLOW" },
+      { "clue": "Blood color", "answer": "RED" },
+      { "clue": "Snow color", "answer": "WHITE" },
+      { "clue": "Night color", "answer": "BLACK" },
+      { "clue": "Mix of red and blue", "answer": "PURPLE" },
+      { "clue": "Mix of red and yellow", "answer": "ORANGE" },
+      { "clue": "Chocolate color", "answer": "BROWN" },
+      { "clue": "Pink flower color", "answer": "ROSE" }
+    ],
+    "shapes": [
+      { "clue": "Round shape", "answer": "CIRCLE" },
+      { "clue": "Three sides", "answer": "TRIANGLE" },
+      { "clue": "Four equal sides", "answer": "SQUARE" },
+      { "clue": "Long rectangle", "answer": "RECTANGLE" },
+      { "clue": "Ball shape", "answer": "SPHERE" },
+      { "clue": "Box shape", "answer": "CUBE" },
+      { "clue": "Egg shape", "answer": "OVAL" },
+      { "clue": "Star points", "answer": "POINTS" },
+      { "clue": "Diamond shape", "answer": "RHOMBUS" },
+      { "clue": "Half circle", "answer": "SEMICIRCLE" }
+    ],
+    "time": [
+      { "clue": "Seven days", "answer": "WEEK" },
+      { "clue": "Twelve months", "answer": "YEAR" },
+      { "clue": "Sixty minutes", "answer": "HOUR" },
+      { "clue": "Start of day", "answer": "MORNING" },
+      { "clue": "Middle of day", "answer": "NOON" },
+      { "clue": "End of day", "answer": "NIGHT" },
+      { "clue": "Day before today", "answer": "YESTERDAY" },
+      { "clue": "Day after today", "answer": "TOMORROW" },
+      { "clue": "Thirty or thirty-one days", "answer": "MONTH" },
+      { "clue": "Today is this", "answer": "PRESENT" }
+    ],
+    "clothing": [
+      { "clue": "Worn on feet", "answer": "SOCKS" },
+      { "clue": "Worn on head", "answer": "HAT" },
+      { "clue": "Winter outerwear", "answer": "COAT" },
+      { "clue": "Tells time on wrist", "answer": "WATCH" },
+      { "clue": "Worn on hands", "answer": "GLOVES" },
+      { "clue": "Holds pants up", "answer": "BELT" },
+      { "clue": "Neck warmer", "answer": "SCARF" },
+      { "clue": "Rain protection", "answer": "UMBRELLA" },
+      { "clue": "Leg covering", "answer": "PANTS" },
+      { "clue": "Carries things", "answer": "BAG" }
+    ],
+    "sports": [
+      { "clue": "Kicked in soccer", "answer": "BALL" },
+      { "clue": "Hit with racket", "answer": "TENNIS" },
+      { "clue": "Run on this", "answer": "TRACK" },
+      { "clue": "Swim eye wear", "answer": "GOGGLES" },
+      { "clue": "Basket sport", "answer": "BASKETBALL" },
+      { "clue": "Baseball hitter", "answer": "BAT" },
+      { "clue": "Ice glide sport", "answer": "SKATING" },
+      { "clue": "Game score unit", "answer": "POINT" },
+      { "clue": "Team kick sport", "answer": "SOCCER" },
+      { "clue": "Water vessel", "answer": "BOAT" }
+    ]
+  },
+  "metadata": {
+    "difficulty": "grade-5-easy",
+    "wordLengthRange": {
+      "min": 3,
+      "max": 12
+    },
+    "averageWordLength": 6,
+    "createdDate": "2026-06-10",
+    "lastUpdated": "2026-06-10"
+  }
+}

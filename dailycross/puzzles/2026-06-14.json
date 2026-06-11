@@ -1,0 +1,77 @@
+{
+  "id": "dailycross-2026-06-14",
+  "date": "2026-06-14",
+  "title": "Weather and Seasons",
+  "words": [
+    {
+      "clue": "Water falling from sky",
+      "answer": "RAIN",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Frozen rain",
+      "answer": "SNOW",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Very windy storm",
+      "answer": "HURRICANE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Hot season",
+      "answer": "SUMMER",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Cold season with snow",
+      "answer": "WINTER",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Bright ball in sky",
+      "answer": "SUN",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "White fluffy things in sky",
+      "answer": "CLOUDS",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Season when leaves fall",
+      "answer": "FALL",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Season when flowers bloom",
+      "answer": "SPRING",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Lightning causes this sound",
+      "answer": "THUNDER",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/puzzles/dailycross/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="DailyCross — A daily crossword puzzle for developers. Solve clues, build streaks, and challenge your coding vocabulary." />
+    <meta name="keywords" content="crossword, daily puzzle, developer, coding, programming, word game" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="DailyCross — Developer Crossword" />
+    <meta property="og:description" content="A daily crossword puzzle for developers. Solve clues, build streaks, and challenge your coding vocabulary." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://opensourcefeed.org/puzzles/dailycross/" />
+    <meta property="og:image" content="https://opensourcefeed.org/puzzles/dailycross/og-image.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="DailyCross — Developer Crossword" />
+    <meta name="twitter:description" content="A daily crossword puzzle for developers. Solve clues, build streaks, and challenge your coding vocabulary." />
+    <link rel="canonical" href="https://opensourcefeed.org/puzzles/dailycross/" />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Game",
+      "name": "DailyCross",
+      "description": "A daily crossword puzzle for developers. Solve clues, build streaks, and challenge your coding vocabulary.",
+      "url": "https://opensourcefeed.org/puzzles/dailycross/",
+      "genre": ["Puzzle", "Word Game", "Educational"],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Developers"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+    </script>
+    <title>DailyCross — Developer Crossword</title>
+    <script>
+      // Apply theme before React mounts to prevent flash
+      (function() {
+        var stored = localStorage.getItem('dailycross-theme');
+        var preference = stored === 'light' || stored === 'dark' || stored === 'system' ? stored : 'system';
+        var isDark = preference === 'dark' || (preference === 'system' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        var theme = isDark ? 'dark' : 'light';
+        document.documentElement.dataset.theme = theme;
+        document.documentElement.dataset.themePreference = preference;
+      })();
+    </script>
+    <style>
+      /* Loading skeleton — shown before React hydrates */
+      .loading-skeleton {
+        position: fixed;
+        inset: 0;
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        background: #f7efe2;
+        transition: opacity 0.4s ease;
+      }
+      [data-theme="dark"] .loading-skeleton,
+      .loading-skeleton.dark {
+        background: #0f1724;
+      }
+      .loading-skeleton--hidden {
+        opacity: 0;
+        pointer-events: none;
+      }
+      .loading-skeleton-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.6rem 1rem;
+        background: rgba(255,255,255,0.7);
+        border-bottom: 1px solid rgba(255,255,255,0.4);
+        backdrop-filter: blur(24px);
+      }
+      @media (prefers-color-scheme: dark) {
+        .loading-skeleton-header {
+          background: rgba(15,23,36,0.88);
+          border-color: rgba(148,163,184,0.18);
+        }
+      }
+      .loading-skeleton-title {
+        width: 140px;
+        height: 28px;
+        border-radius: 6px;
+        background: linear-gradient(90deg, #e2d5c0 25%, #f0e6d6 50%, #e2d5c0 75%);
+        background-size: 200% 100%;
+        animation: shimmer 1.5s ease-in-out infinite;
+      }
+      @media (prefers-color-scheme: dark) {
+        .loading-skeleton-title {
+          background: linear-gradient(90deg, #1d2a3a 25%, #2a3a4e 50%, #1d2a3a 75%);
+          background-size: 200% 100%;
+        }
+      }
+      .loading-skeleton-stats {
+        display: flex;
+        gap: 8px;
+      }
+      .loading-skeleton-stat {
+        width: 80px;
+        height: 40px;
+        border-radius: 12px;
+        background: linear-gradient(90deg, #e2d5c0 25%, #f0e6d6 50%, #e2d5c0 75%);
+        background-size: 200% 100%;
+        animation: shimmer 1.5s ease-in-out infinite;
+      }
+      @media (prefers-color-scheme: dark) {
+        .loading-skeleton-stat {
+          background: linear-gradient(90deg, #1d2a3a 25%, #2a3a4e 50%, #1d2a3a 75%);
+          background-size: 200% 100%;
+        }
+      }
+      .loading-skeleton-body {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+      }
+      .loading-skeleton-grid {
+        display: grid;
+        grid-template-columns: repeat(5, 48px);
+        gap: 3px;
+        padding: 8px;
+        background: rgba(255,255,255,0.5);
+        border-radius: 16px;
+        border: 1px solid rgba(255,255,255,0.4);
+      }
+      @media (prefers-color-scheme: dark) {
+        .loading-skeleton-grid {
+          background: rgba(15,23,36,0.5);
+          border-color: rgba(148,163,184,0.18);
+        }
+      }
+      @media (max-width: 767px) {
+        .loading-skeleton-grid {
+          grid-template-columns: repeat(5, 32px);
+        }
+      }
+      .loading-skeleton-cell {
+        aspect-ratio: 1;
+        border-radius: 4px;
+        background: linear-gradient(90deg, #e2d5c0 25%, #f0e6d6 50%, #e2d5c0 75%);
+        background-size: 200% 100%;
+        animation: shimmer 1.5s ease-in-out infinite;
+        border: 2px solid rgba(100,116,139,0.3);
+      }
+      .loading-skeleton-cell--blank {
+        border: none;
+        background: transparent;
+        animation: none;
+      }
+      @media (prefers-color-scheme: dark) {
+        .loading-skeleton-cell {
+          background: linear-gradient(90deg, #1d2a3a 25%, #2a3a4e 50%, #1d2a3a 75%);
+          background-size: 200% 100%;
+          border-color: rgba(148,163,184,0.2);
+        }
+      }
+      .loading-skeleton-footer {
+        display: flex;
+        justify-content: center;
+        padding: 0.5rem 1rem 1rem;
+      }
+      .loading-skeleton-clue {
+        width: 80%;
+        max-width: 400px;
+        height: 60px;
+        border-radius: 16px;
+        background: linear-gradient(90deg, #e2d5c0 25%, #f0e6d6 50%, #e2d5c0 75%);
+        background-size: 200% 100%;
+        animation: shimmer 1.5s ease-in-out infinite;
+        border: 1px solid rgba(255,255,255,0.4);
+      }
+      @media (prefers-color-scheme: dark) {
+        .loading-skeleton-clue {
+          background: linear-gradient(90deg, #1d2a3a 25%, #2a3a4e 50%, #1d2a3a 75%);
+          background-size: 200% 100%;
+          border-color: rgba(148,163,184,0.18);
+        }
+      }
+      @keyframes shimmer {
+        0% { background-position: 200% 0; }
+        100% { background-position: -200% 0; }
+      }
+    </style>
+    <script type="module" crossorigin src="/puzzles/dailycross/assets/index-B5OaypdO.js"></script>
+    <link rel="stylesheet" crossorigin href="/puzzles/dailycross/assets/index-aLxshjlZ.css">
+  </head>
+  <body>
+    <div id="loading-skeleton" class="loading-skeleton">
+      <div class="loading-skeleton-header">
+        <div class="loading-skeleton-title"></div>
+        <div class="loading-skeleton-stats">
+          <div class="loading-skeleton-stat"></div>
+          <div class="loading-skeleton-stat"></div>
+        </div>
+      </div>
+      <div class="loading-skeleton-body">
+        <div class="loading-skeleton-grid">
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+          <div class="loading-skeleton-cell"></div>
+        </div>
+      </div>
+      <div class="loading-skeleton-footer">
+        <div class="loading-skeleton-clue"></div>
+      </div>
+    </div>
+    <div id="root"></div>
+    <script>
+      // Hide loading skeleton once React mounts
+      window.addEventListener('load', function() {
+        setTimeout(function() {
+          var skeleton = document.getElementById('loading-skeleton');
+          if (skeleton) {
+            skeleton.classList.add('loading-skeleton--hidden');
+            setTimeout(function() { skeleton.remove(); }, 500);
+          }
+        }, 100);
+      });
+    </script>
+  </body>
+</html>

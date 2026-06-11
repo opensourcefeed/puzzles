@@ -1,0 +1,17 @@
+{
+  "id": "dailycross-2026-06-19",
+  "date": "2026-06-19",
+  "title": "Clothing and Accessories",
+  "words": [
+    {"clue": "Worn on feet", "answer": "SOCKS", "row": 0, "col": 0, "direction": "across"},
+    {"clue": "Worn on head", "answer": "HAT", "row": 0, "col": 0, "direction": "down"},
+    {"clue": "Worn in winter", "answer": "COAT", "row": 3, "col": 1, "direction": "across"},
+    {"clue": "Tells time", "answer": "WATCH", "row": 1, "col": 4, "direction": "down"},
+    {"clue": "Worn on hands", "answer": "GLOVES", "row": 5, "col": 0, "direction": "across"},
+    {"clue": "Holds pants up", "answer": "BELT", "row": 2, "col": 6, "direction": "down"},
+    {"clue": "Worn around neck", "answer": "SCARF", "row": 7, "col": 1, "direction": "across"},
+    {"clue": "Protects from rain", "answer": "UMBRELLA", "row": 3, "col": 8, "direction": "down"},
+    {"clue": "Worn on legs", "answer": "PANTS", "row": 9, "col": 0, "direction": "across"},
+    {"clue": "Carries your things", "answer": "BAG", "row": 6, "col": 10, "direction": "down"}
+  ]
+}
