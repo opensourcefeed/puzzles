@@ -1,17 +1,78 @@
 {
   "id": "dailycross-2026-06-24",
   "date": "2026-06-24",
-  "title": "Time and Calendar",
+  "title": "24 June 2026",
   "words": [
-    {"clue": "Seven days make this", "answer": "WEEK", "row": 0, "col": 0, "direction": "across"},
-    {"clue": "Twelve months make this", "answer": "YEAR", "row": 0, "col": 0, "direction": "down"},
-    {"clue": "First day of week", "answer": "SUNDAY", "row": 3, "col": 1, "direction": "across"},
-    {"clue": "Sixty minutes", "answer": "HOUR", "row": 1, "col": 5, "direction": "down"},
-    {"clue": "Today before yesterday", "answer": "TOMORROW", "row": 5, "col": 0, "direction": "across"},
-    {"clue": "Yesterday after today", "answer": "YESTERDAY", "row": 2, "col": 7, "direction": "down"},
-    {"clue": "Middle of the day", "answer": "NOON", "row": 7, "col": 1, "direction": "across"},
-    {"clue": "Start of the day", "answer": "MORNING", "row": 3, "col": 9, "direction": "down"},
-    {"clue": "End of the day", "answer": "NIGHT", "row": 9, "col": 0, "direction": "across"},
-    {"clue": "Thirty or thirty-one days", "answer": "MONTH", "row": 6, "col": 8, "direction": "down"}
-  ]
+    {
+      "clue": "Seven days make this",
+      "answer": "WEEK",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Twelve months make this",
+      "answer": "YEAR",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "First day of week",
+      "answer": "SUNDAY",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Sixty minutes",
+      "answer": "HOUR",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Today before yesterday",
+      "answer": "TOMORROW",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Yesterday after today",
+      "answer": "YESTERDAY",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Middle of the day",
+      "answer": "NOON",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Start of the day",
+      "answer": "MORNING",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "End of the day",
+      "answer": "NIGHT",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Thirty or thirty-one days",
+      "answer": "MONTH",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    }
+  ],
+  "dayNumber": 13
 }

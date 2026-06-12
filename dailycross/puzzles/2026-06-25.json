@@ -1,17 +1,78 @@
 {
   "id": "dailycross-2026-06-25",
   "date": "2026-06-25",
-  "title": "Technology and Computers",
+  "title": "25 June 2026",
   "words": [
-    {"clue": "You type on this", "answer": "KEYBOARD", "row": 0, "col": 0, "direction": "across"},
-    {"clue": "Shows pictures", "answer": "SCREEN", "row": 0, "col": 0, "direction": "down"},
-    {"clue": "Clicks with hand", "answer": "MOUSE", "row": 4, "col": 1, "direction": "across"},
-    {"clue": "Stores information", "answer": "MEMORY", "row": 2, "col": 5, "direction": "down"},
-    {"clue": "Sends emails", "answer": "INTERNET", "row": 7, "col": 0, "direction": "across"},
-    {"clue": "Small computer chip", "answer": "CPU", "row": 3, "col": 8, "direction": "down"},
-    {"clue": "Portable computer", "answer": "LAPTOP", "row": 9, "col": 2, "direction": "across"},
-    {"clue": "Connects to network", "answer": "WIFI", "row": 1, "col": 10, "direction": "down"},
-    {"clue": "Takes photos", "answer": "CAMERA", "row": 11, "col": 1, "direction": "across"},
-    {"clue": "Makes calls", "answer": "PHONE", "row": 6, "col": 7, "direction": "down"}
-  ]
+    {
+      "clue": "You type on this",
+      "answer": "KEYBOARD",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Shows pictures",
+      "answer": "SCREEN",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Clicks with hand",
+      "answer": "MOUSE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Stores information",
+      "answer": "MEMORY",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Sends emails",
+      "answer": "INTERNET",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Small computer chip",
+      "answer": "CPU",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Portable computer",
+      "answer": "LAPTOP",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Connects to network",
+      "answer": "WIFI",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Takes photos",
+      "answer": "CAMERA",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Makes calls",
+      "answer": "PHONE",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "dayNumber": 14
 }

@@ -1,17 +1,78 @@
 {
   "id": "dailycross-2026-06-29",
   "date": "2026-06-29",
-  "title": "Art and Creativity",
+  "title": "29 June 2026",
   "words": [
-    {"clue": "Draw with this", "answer": "PENCIL", "row": 0, "col": 0, "direction": "across"},
-    {"clue": "Paint with this", "answer": "BRUSH", "row": 0, "col": 0, "direction": "down"},
-    {"clue": "Color on paper", "answer": "CRAYON", "row": 4, "col": 1, "direction": "across"},
-    {"clue": "Make art with clay", "answer": "SCULPTURE", "row": 2, "col": 5, "direction": "down"},
-    {"clue": "Picture you paint", "answer": "PAINTING", "row": 7, "col": 0, "direction": "across"},
-    {"clue": "Person who paints", "answer": "ARTIST", "row": 3, "col": 8, "direction": "down"},
-    {"clue": "Mix colors here", "answer": "PALETTE", "row": 9, "col": 2, "direction": "across"},
-    {"clue": "Frame for pictures", "answer": "FRAME", "row": 1, "col": 10, "direction": "down"},
-    {"clue": "Create something new", "answer": "CREATE", "row": 11, "col": 1, "direction": "across"},
-    {"clue": "Beautiful artwork", "answer": "MASTERPIECE", "row": 6, "col": 7, "direction": "down"}
-  ]
+    {
+      "clue": "Draw with this",
+      "answer": "PENCIL",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Paint with this",
+      "answer": "BRUSH",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Color on paper",
+      "answer": "CRAYON",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Make art with clay",
+      "answer": "SCULPTURE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Picture you paint",
+      "answer": "PAINTING",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who paints",
+      "answer": "ARTIST",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Mix colors here",
+      "answer": "PALETTE",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Frame for pictures",
+      "answer": "FRAME",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Create something new",
+      "answer": "CREATE",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Beautiful artwork",
+      "answer": "MASTERPIECE",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "dayNumber": 18
 }

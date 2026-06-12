@@ -1,17 +1,78 @@
 {
   "id": "dailycross-2026-06-18",
   "date": "2026-06-18",
-  "title": "Transportation",
+  "title": "18 June 2026",
   "words": [
-    {"clue": "Flies in the sky", "answer": "PLANE", "row": 0, "col": 0, "direction": "across"},
-    {"clue": "Runs on tracks", "answer": "TRAIN", "row": 0, "col": 0, "direction": "down"},
-    {"clue": "Has two wheels", "answer": "BICYCLE", "row": 4, "col": 1, "direction": "across"},
-    {"clue": "Sails on water", "answer": "BOAT", "row": 2, "col": 5, "direction": "down"},
-    {"clue": "Drives on roads", "answer": "CAR", "row": 7, "col": 0, "direction": "across"},
-    {"clue": "Big truck for goods", "answer": "LORRY", "row": 3, "col": 8, "direction": "down"},
-    {"clue": "Stops at stations", "answer": "BUS", "row": 9, "col": 2, "direction": "across"},
-    {"clue": "Goes underground", "answer": "SUBWAY", "row": 1, "col": 10, "direction": "down"},
-    {"clue": "You ride this horse", "answer": "SADDLE", "row": 11, "col": 1, "direction": "across"},
-    {"clue": "Stops for passengers", "answer": "STATION", "row": 6, "col": 7, "direction": "down"}
-  ]
+    {
+      "clue": "Flies in the sky",
+      "answer": "PLANE",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Runs on tracks",
+      "answer": "TRAIN",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Has two wheels",
+      "answer": "BICYCLE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Sails on water",
+      "answer": "BOAT",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Drives on roads",
+      "answer": "CAR",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Big truck for goods",
+      "answer": "LORRY",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Stops at stations",
+      "answer": "BUS",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Goes underground",
+      "answer": "SUBWAY",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "You ride this horse",
+      "answer": "SADDLE",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Stops for passengers",
+      "answer": "STATION",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "dayNumber": 7
 }

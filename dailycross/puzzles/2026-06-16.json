@@ -1,17 +1,78 @@
 {
   "id": "dailycross-2026-06-16",
   "date": "2026-06-16",
-  "title": "Body Parts",
+  "title": "16 June 2026",
   "words": [
-    {"clue": "You see with these", "answer": "EYES", "row": 0, "col": 0, "direction": "across"},
-    {"clue": "You hear with these", "answer": "EARS", "row": 0, "col": 0, "direction": "down"},
-    {"clue": "You smell with this", "answer": "NOSE", "row": 4, "col": 1, "direction": "across"},
-    {"clue": "You eat with this", "answer": "MOUTH", "row": 2, "col": 5, "direction": "down"},
-    {"clue": "You walk on these", "answer": "FEET", "row": 7, "col": 0, "direction": "across"},
-    {"clue": "You hold things with these", "answer": "HANDS", "row": 3, "col": 8, "direction": "down"},
-    {"clue": "Between neck and waist", "answer": "TORSO", "row": 9, "col": 2, "direction": "across"},
-    {"clue": "On top of your head", "answer": "HAIR", "row": 1, "col": 10, "direction": "down"},
-    {"clue": "Bendable arm part", "answer": "ELBOW", "row": 11, "col": 1, "direction": "across"},
-    {"clue": "End of fingers", "answer": "NAILS", "row": 6, "col": 7, "direction": "down"}
-  ]
+    {
+      "clue": "You see with these",
+      "answer": "EYES",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You hear with these",
+      "answer": "EARS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You smell with this",
+      "answer": "NOSE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "You eat with this",
+      "answer": "MOUTH",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "You walk on these",
+      "answer": "FEET",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You hold things with these",
+      "answer": "HANDS",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Between neck and waist",
+      "answer": "TORSO",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "On top of your head",
+      "answer": "HAIR",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Bendable arm part",
+      "answer": "ELBOW",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "End of fingers",
+      "answer": "NAILS",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "dayNumber": 5
 }

@@ -1,17 +1,78 @@
 {
   "id": "dailycross-2026-06-17",
   "date": "2026-06-17",
-  "title": "House and Home",
+  "title": "17 June 2026",
   "words": [
-    {"clue": "You sleep in this", "answer": "BED", "row": 0, "col": 0, "direction": "across"},
-    {"clue": "You cook in this room", "answer": "KITCHEN", "row": 0, "col": 0, "direction": "down"},
-    {"clue": "You sit on this", "answer": "CHAIR", "row": 4, "col": 1, "direction": "across"},
-    {"clue": "Opens to let you in", "answer": "DOOR", "row": 2, "col": 5, "direction": "down"},
-    {"clue": "You watch this for shows", "answer": "TELEVISION", "row": 7, "col": 0, "direction": "across"},
-    {"clue": "Lets light into room", "answer": "WINDOW", "row": 3, "col": 8, "direction": "down"},
-    {"clue": "You eat meals here", "answer": "TABLE", "row": 9, "col": 2, "direction": "across"},
-    {"clue": "Keeps food cold", "answer": "FRIDGE", "row": 1, "col": 10, "direction": "down"},
-    {"clue": "You wash in this room", "answer": "BATHROOM", "row": 11, "col": 1, "direction": "across"},
-    {"clue": "Covers the floor", "answer": "RUG", "row": 6, "col": 7, "direction": "down"}
-  ]
+    {
+      "clue": "You sleep in this",
+      "answer": "BED",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You cook in this room",
+      "answer": "KITCHEN",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You sit on this",
+      "answer": "CHAIR",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Opens to let you in",
+      "answer": "DOOR",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "You watch this for shows",
+      "answer": "TELEVISION",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Lets light into room",
+      "answer": "WINDOW",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You eat meals here",
+      "answer": "TABLE",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Keeps food cold",
+      "answer": "FRIDGE",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "You wash in this room",
+      "answer": "BATHROOM",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Covers the floor",
+      "answer": "RUG",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "dayNumber": 6
 }

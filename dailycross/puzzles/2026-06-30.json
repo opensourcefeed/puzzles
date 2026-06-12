@@ -1,17 +1,78 @@
 {
   "id": "dailycross-2026-06-30",
   "date": "2026-06-30",
-  "title": "Adventure and Exploration",
+  "title": "30 June 2026",
   "words": [
-    {"clue": "Climb this high place", "answer": "MOUNTAIN", "row": 0, "col": 0, "direction": "across"},
-    {"clue": "Walk through forest", "answer": "HIKING", "row": 0, "col": 0, "direction": "down"},
-    {"clue": "Travel by sea", "answer": "SAILING", "row": 4, "col": 1, "direction": "across"},
-    {"clue": "Find new places", "answer": "EXPLORE", "row": 2, "col": 5, "direction": "down"},
-    {"clue": "Sleep outside", "answer": "CAMPING", "row": 7, "col": 0, "direction": "across"},
-    {"clue": "Use this to find way", "answer": "MAP", "row": 3, "col": 8, "direction": "down"},
-    {"clue": "Carry your things", "answer": "BACKPACK", "row": 9, "col": 2, "direction": "across"},
-    {"clue": "Look far away", "answer": "BINOCULARS", "row": 1, "col": 10, "direction": "down"},
-    {"clue": "Sleep in tent", "answer": "CAMP", "row": 11, "col": 1, "direction": "across"},
-    {"clue": "Go on journey", "answer": "TRAVEL", "row": 6, "col": 7, "direction": "down"}
-  ]
+    {
+      "clue": "Climb this high place",
+      "answer": "MOUNTAIN",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Walk through forest",
+      "answer": "HIKING",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Travel by sea",
+      "answer": "SAILING",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Find new places",
+      "answer": "EXPLORE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Sleep outside",
+      "answer": "CAMPING",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Use this to find way",
+      "answer": "MAP",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Carry your things",
+      "answer": "BACKPACK",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Look far away",
+      "answer": "BINOCULARS",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Sleep in tent",
+      "answer": "CAMP",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Go on journey",
+      "answer": "TRAVEL",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "dayNumber": 19
 }
