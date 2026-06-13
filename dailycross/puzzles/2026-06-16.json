@@ -4,73 +4,73 @@
   "title": "16 June 2026",
   "words": [
     {
-      "clue": "You see with these",
-      "answer": "EYES",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You hear with these",
-      "answer": "EARS",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "You smell with this",
-      "answer": "NOSE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You eat with this",
-      "answer": "MOUTH",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You walk on these",
-      "answer": "FEET",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You hold things with these",
-      "answer": "HANDS",
+      "clue": "Break concrete with this",
+      "answer": "JACKHAMMER",
       "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Between neck and waist",
-      "answer": "TORSO",
-      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "On top of your head",
-      "answer": "HAIR",
+      "clue": "Cook food fast with waves",
+      "answer": "MICROWAVE",
       "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where buses arrive",
+      "answer": "TERMINAL",
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Bendable arm part",
-      "answer": "ELBOW",
-      "row": 11,
+      "clue": "Very tall natural land feature",
+      "answer": "MOUNTAIN",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Vitamin that helps with immunity",
+      "answer": "VITAMINC",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Sharp point on a rose stem",
+      "answer": "THORN",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Fingered string instrument",
+      "answer": "BANJO",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Underwater mountain chain",
+      "answer": "RIDGE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Game console by Microsoft",
+      "answer": "XBOX",
+      "row": 0,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "End of fingers",
-      "answer": "NAILS",
-      "row": 6,
-      "col": 7,
+      "clue": "Small picture on a phone screen",
+      "answer": "ICON",
+      "row": 2,
+      "col": 12,
       "direction": "down"
     }
   ],

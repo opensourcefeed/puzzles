@@ -4,74 +4,67 @@
   "title": "25 July 2026",
   "words": [
     {
-      "clue": "Long rectangle",
-      "answer": "RECTANGLE",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Rain protection",
-      "answer": "UMBRELLA",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
+      "clue": "Powder that makes a plant grow",
+      "answer": "FERTILIZER",
       "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Run on this",
-      "answer": "TRACK",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Thirty or thirty-one days",
-      "answer": "MONTH",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "White sky fluff",
-      "answer": "CLOUD",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You hold with these",
-      "answer": "HANDS",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Water vessel",
-      "answer": "BOAT",
-      "row": 0,
+      "clue": "Wireless earbuds by Apple",
+      "answer": "AIRPODS",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Carries things",
-      "answer": "BAG",
-      "row": 0,
+      "clue": "Getting money back when you return something",
+      "answer": "REFUND",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "What plants breathe out",
+      "answer": "OXYGEN",
+      "row": 7,
       "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Cuts men's hair",
+      "answer": "BARBER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Red ocean algae",
+      "answer": "ALGAE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to celebrate science",
+      "answer": "STEM",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Blood vessel that carries blood back",
+      "answer": "VEIN",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Ice crystals falling from sky",
+      "answer": "SNOW",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 44

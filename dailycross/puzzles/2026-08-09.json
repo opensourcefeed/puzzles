@@ -4,59 +4,73 @@
   "title": "9 August 2026",
   "words": [
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Swim eye wear",
-      "answer": "GOGGLES",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Night color",
-      "answer": "BLACK",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Game score unit",
-      "answer": "POINT",
+      "clue": "Mother's side of the family",
+      "answer": "MATERNAL",
       "row": 7,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Middle of day",
-      "answer": "NOON",
-      "row": 5,
+      "clue": "Ocean between America and Europe",
+      "answer": "ATLANTIC",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong wind storm",
+      "answer": "TORNADO",
+      "row": 7,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "You sit at this",
-      "answer": "DESK",
-      "row": 1,
-      "col": 7,
+      "clue": "Feeling very interested",
+      "answer": "CURIOUS",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "You read stories in this",
-      "answer": "BOOK",
+      "clue": "Large ocean wave from earthquake",
+      "answer": "TSUNAMI",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Breakfast grain meal",
+      "answer": "CEREAL",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Dissolves in water to make a solution",
+      "answer": "SOLUTE",
       "row": 0,
-      "col": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that runs on tracks",
+      "answer": "TRAIN",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Red fruit that keeps doctor away",
+      "answer": "APPLE",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Joint between thigh and calf",
+      "answer": "KNEE",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     }
   ],

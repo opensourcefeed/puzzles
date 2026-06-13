@@ -4,74 +4,60 @@
   "title": "1 July 2026",
   "words": [
     {
-      "clue": "Round shape",
-      "answer": "CIRCLE",
-      "row": 3,
-      "col": 4,
+      "clue": "Feeling kind and caring",
+      "answer": "COMPASSION",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Neck warmer",
-      "answer": "SCARF",
-      "row": 2,
+      "clue": "Feeling impatient",
+      "answer": "IMPATIENT",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Leg covering",
-      "answer": "PANTS",
-      "row": 2,
+      "clue": "Studies plants",
+      "answer": "BOTANIST",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "You store clothes in this",
+      "answer": "CLOSET",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Silent aircraft with no engine",
+      "answer": "GLIDER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Night color",
-      "answer": "BLACK",
-      "row": 7,
+      "clue": "Small bone in the middle ear",
+      "answer": "ANVIL",
+      "row": 1,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 0,
-      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Top of your head hair",
-      "answer": "HAIR",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Twelve months",
-      "answer": "YEAR",
+      "clue": "Mountain country in the Himalayas",
+      "answer": "NEPAL",
       "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You sit at this",
-      "answer": "DESK",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
-      "row": 6,
-      "col": 10,
+      "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "Muslim holiday after Ramadan",
+      "answer": "EID",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 20

@@ -4,74 +4,67 @@
   "title": "21 June 2026",
   "words": [
     {
-      "clue": "Read for fun",
-      "answer": "READING",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Draw pictures",
-      "answer": "DRAWING",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Play music",
-      "answer": "SINGING",
+      "clue": "Chalk is made from this soft rock",
+      "answer": "LIMESTONE",
       "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Ride a bike",
-      "answer": "CYCLING",
-      "row": 2,
-      "col": 5,
+      "clue": "Country with Bangkok",
+      "answer": "THAILAND",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Jump in water",
-      "answer": "SWIMMING",
-      "row": 7,
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Your male parent",
+      "answer": "FATHER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who sells goods",
+      "answer": "VENDOR",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Stir soup with this",
+      "answer": "LADLE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Build houses with this hard block",
+      "answer": "BRICK",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Glass is made from melted sand",
+      "answer": "SAND",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Round fruit that is green or red",
+      "answer": "PEAR",
+      "row": 8,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Take photos",
-      "answer": "PHOTOGRAPHY",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Grow plants",
-      "answer": "GARDENING",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Write stories",
-      "answer": "WRITING",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Cook meals",
-      "answer": "COOKING",
-      "row": 11,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Dance to music",
-      "answer": "DANCING",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
     }
   ],
   "dayNumber": 10

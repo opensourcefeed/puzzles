@@ -4,60 +4,74 @@
   "title": "11 August 2026",
   "words": [
     {
-      "clue": "Paper fastener",
-      "answer": "STAPLER",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Flower powder",
-      "answer": "POLLEN",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow curved fruit",
-      "answer": "BANANA",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
+      "clue": "Travels to discover new places",
+      "answer": "EXPLORER",
       "row": 3,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Grass color",
-      "answer": "GREEN",
-      "row": 4,
+      "clue": "A broken bone",
+      "answer": "FRACTURE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Deep ocean trench",
+      "answer": "MARIANA",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Round Italian food",
-      "answer": "PIZZA",
+      "clue": "Path electricity flows through",
+      "answer": "CIRCUIT",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Temporary care for a child",
+      "answer": "FOSTER",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Windows are made of this clear material",
+      "answer": "GLASS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean coral reef builder",
+      "answer": "CORAL",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Printer makes copies on this",
+      "answer": "PAPER",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "You walk through this",
+      "answer": "DOOR",
+      "row": 6,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "You hang a fan from this",
+      "answer": "FAN",
       "row": 1,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Largest ocean animal",
-      "answer": "WHALE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Foot end parts",
-      "answer": "TOES",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
     }
   ],
   "dayNumber": 61

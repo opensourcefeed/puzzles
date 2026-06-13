@@ -4,73 +4,66 @@
   "title": "17 June 2026",
   "words": [
     {
-      "clue": "You sleep in this",
-      "answer": "BED",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You cook in this room",
-      "answer": "KITCHEN",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "You sit on this",
-      "answer": "CHAIR",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Opens to let you in",
-      "answer": "DOOR",
+      "clue": "Country known for tacos",
+      "answer": "MEXICO",
       "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You watch this for shows",
-      "answer": "TELEVISION",
-      "row": 7,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Lets light into room",
-      "answer": "WINDOW",
-      "row": 3,
+      "clue": "Invisible power that attracts metal",
+      "answer": "MAGNET",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Game console by Nintendo",
+      "answer": "SWITCH",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Warsaw",
+      "answer": "POLAND",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "You eat meals here",
-      "answer": "TABLE",
-      "row": 9,
-      "col": 2,
+      "clue": "Country with Madrid",
+      "answer": "SPAIN",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Keeps food cold",
-      "answer": "FRIDGE",
-      "row": 1,
+      "clue": "Falls from clouds",
+      "answer": "RAIN",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean fish that swims in schools",
+      "answer": "TUNA",
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "You wash in this room",
-      "answer": "BATHROOM",
-      "row": 11,
-      "col": 1,
+      "clue": "Stage between caterpillar and butterfly",
+      "answer": "PUPA",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Covers the floor",
-      "answer": "RUG",
-      "row": 6,
-      "col": 7,
+      "clue": "You see with these",
+      "answer": "EYES",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     }
   ],

@@ -4,73 +4,59 @@
   "title": "19 July 2026",
   "words": [
     {
-      "clue": "Bread with filling",
-      "answer": "SANDWICH",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Green vegetable rabbits love",
-      "answer": "CARROT",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow curved fruit",
-      "answer": "BANANA",
+      "clue": "Small wind instrument held sideways",
+      "answer": "RECORDER",
       "row": 4,
-      "col": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You walk on these",
-      "answer": "FEET",
-      "row": 0,
+      "clue": "Feeling full of hope",
+      "answer": "HOPEFUL",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling nervous before a test",
+      "answer": "NERVOUS",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Writes books",
+      "answer": "AUTHOR",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You open to let in light",
+      "answer": "WINDOW",
+      "row": 4,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Sweet baked dessert",
-      "answer": "CAKE",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Underground plant part",
-      "answer": "ROOT",
-      "row": 4,
-      "col": 2,
+      "clue": "Organ that breaks down fats",
+      "answer": "LIVER",
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Farm animal that gives milk",
-      "answer": "COW",
-      "row": 3,
-      "col": 4,
+      "clue": "Sweet brown dessert topping",
+      "answer": "FUDGE",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A pet that says meow",
-      "answer": "CAT",
+      "clue": "Keep bugs away from food",
+      "answer": "NET",
       "row": 6,
-      "col": 0,
+      "col": 9,
       "direction": "across"
     }
   ],

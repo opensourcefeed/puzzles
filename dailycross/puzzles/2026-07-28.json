@@ -4,73 +4,59 @@
   "title": "28 July 2026",
   "words": [
     {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
+      "clue": "Place where you mail letters",
+      "answer": "POSTOFFICE",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 0,
-      "col": 4,
+      "clue": "Vaccine protects you from this",
+      "answer": "DISEASE",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Ball shape",
-      "answer": "SPHERE",
+      "clue": "Teaches dogs new skills",
+      "answer": "TRAINER",
       "row": 2,
-      "col": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You hold with these",
-      "answer": "HANDS",
+      "clue": "Game played with racket and yellow ball",
+      "answer": "TENNIS",
       "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Arm bend point",
-      "answer": "ELBOW",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Falls from clouds",
-      "answer": "RAIN",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You smell with this",
-      "answer": "NOSE",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A pet that barks",
-      "answer": "DOG",
+      "clue": "Largest country in the world",
+      "answer": "RUSSIA",
       "row": 6,
-      "col": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Longest bone in the human body",
+      "answer": "FEMUR",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A pet that says meow",
-      "answer": "CAT",
+      "clue": "A share of ownership in a company",
+      "answer": "STOCK",
       "row": 0,
-      "col": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you keep your money",
+      "answer": "BANK",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     }
   ],

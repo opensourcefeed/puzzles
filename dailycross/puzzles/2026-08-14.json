@@ -4,74 +4,67 @@
   "title": "14 August 2026",
   "words": [
     {
-      "clue": "Half circle",
-      "answer": "SEMICIRCLE",
-      "row": 6,
+      "clue": "Ocean animal with stinging tentacles",
+      "answer": "JELLYFISH",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Long rectangle",
-      "answer": "RECTANGLE",
-      "row": 4,
-      "col": 4,
+      "clue": "Giving money to charity",
+      "answer": "DONATION",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Bird that cannot fly",
-      "answer": "PENGUIN",
-      "row": 5,
+      "clue": "Move dirt with this",
+      "answer": "TRACTOR",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Your aunt's child",
+      "answer": "COUSIN",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "You keep jewelry in this box",
+      "answer": "COFFER",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Holds napkins on the table",
+      "answer": "NAPKIN",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Part of the eye that sees color",
+      "answer": "CONE",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Team kick sport",
-      "answer": "SOCCER",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Hit with racket",
-      "answer": "TENNIS",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Four equal sides",
-      "answer": "SQUARE",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Snow color",
-      "answer": "WHITE",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Night color",
-      "answer": "BLACK",
-      "row": 11,
+      "clue": "Change from solid to liquid",
+      "answer": "MELT",
+      "row": 3,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on feet",
-      "answer": "SOCKS",
-      "row": 0,
-      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Egg shape",
-      "answer": "OVAL",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
+      "clue": "Small bed for growing vegetables",
+      "answer": "PLOT",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "dayNumber": 64

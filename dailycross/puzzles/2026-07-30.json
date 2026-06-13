@@ -4,60 +4,67 @@
   "title": "30 July 2026",
   "words": [
     {
-      "clue": "Math calculation tool",
-      "answer": "CALCULATOR",
-      "row": 2,
-      "col": 1,
+      "clue": "Animals that eat only meat",
+      "answer": "CARNIVORE",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Marks mistakes in red",
-      "answer": "CORRECTION",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Bread with filling",
-      "answer": "SANDWICH",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 1,
+      "clue": "Carries your books",
+      "answer": "BACKPACK",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "Flower powder",
-      "answer": "POLLEN",
-      "row": 9,
+      "clue": "Sport played on ice with sticks",
+      "answer": "HOCKEY",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Round Italian food",
-      "answer": "PIZZA",
-      "row": 7,
-      "col": 9,
+      "clue": "Sharp tool for slicing bread",
+      "answer": "SLICER",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A pet that says meow",
-      "answer": "CAT",
-      "row": 2,
-      "col": 1,
+      "clue": "Leg covering",
+      "answer": "PANTS",
+      "row": 5,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Eat soup with this",
+      "answer": "SPOON",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Most populated country",
+      "answer": "CHINA",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Farm animal that gives milk",
+      "answer": "COW",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 49

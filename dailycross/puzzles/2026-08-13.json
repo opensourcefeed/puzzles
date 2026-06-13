@@ -4,67 +4,60 @@
   "title": "13 August 2026",
   "words": [
     {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Today is this",
-      "answer": "PRESENT",
+      "clue": "Feeling very surprised",
+      "answer": "ASTONISHED",
       "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Swim eye wear",
-      "answer": "GOGGLES",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Flower powder",
-      "answer": "POLLEN",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Chocolate color",
-      "answer": "BROWN",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Winter outerwear",
-      "answer": "COAT",
-      "row": 9,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Pink flower color",
-      "answer": "ROSE",
-      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Carries things",
-      "answer": "BAG",
-      "row": 7,
+      "clue": "You hang a mirror on this",
+      "answer": "DRESSER",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Room where you watch TV",
+      "answer": "LIVING",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Group of people related by blood",
+      "answer": "FAMILY",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Narrow body of water between lands",
+      "answer": "STRAIT",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Blow leaves with this",
+      "answer": "BLOWER",
+      "row": 9,
       "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "Place where you get a haircut",
+      "answer": "SALON",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Salty snack often eaten with dip",
+      "answer": "CHIPS",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 63

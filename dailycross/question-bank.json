@@ -1,127 +1,4257 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "description": "Question bank for grade 5 crossword puzzles - easy difficulty",
-  "totalQuestions": 100,
+  "totalQuestions": 1047,
   "categories": {
     "animals": [
-      { "clue": "A pet that says meow", "answer": "CAT" },
-      { "clue": "A pet that barks", "answer": "DOG" },
-      { "clue": "Big gray animal with trunk", "answer": "ELEPHANT" },
-      { "clue": "Tallest land animal", "answer": "GIRAFFE" },
-      { "clue": "King of the jungle", "answer": "LION" },
-      { "clue": "Black and white bear", "answer": "PANDA" },
-      { "clue": "Fastest land animal", "answer": "CHEETAH" },
-      { "clue": "Largest ocean animal", "answer": "WHALE" },
-      { "clue": "Bird that cannot fly", "answer": "PENGUIN" },
-      { "clue": "Farm animal that gives milk", "answer": "COW" }
+      {
+        "clue": "A pet that says meow",
+        "answer": "CAT"
+      },
+      {
+        "clue": "A pet that barks",
+        "answer": "DOG"
+      },
+      {
+        "clue": "Big gray animal with trunk",
+        "answer": "ELEPHANT"
+      },
+      {
+        "clue": "Tallest land animal",
+        "answer": "GIRAFFE"
+      },
+      {
+        "clue": "King of the jungle",
+        "answer": "LION"
+      },
+      {
+        "clue": "Black and white bear",
+        "answer": "PANDA"
+      },
+      {
+        "clue": "Fastest land animal",
+        "answer": "CHEETAH"
+      },
+      {
+        "clue": "Largest ocean animal",
+        "answer": "WHALE"
+      },
+      {
+        "clue": "Bird that cannot fly",
+        "answer": "PENGUIN"
+      },
+      {
+        "clue": "Farm animal that gives milk",
+        "answer": "COW"
+      },
+      {
+        "clue": "Large animal people ride",
+        "answer": "HORSE"
+      },
+      {
+        "clue": "Striped horse-like animal",
+        "answer": "ZEBRA"
+      },
+      {
+        "clue": "Insect that makes honey",
+        "answer": "BEE"
+      },
+      {
+        "clue": "Australian animal that hops",
+        "answer": "KANGAROO"
+      },
+      {
+        "clue": "Animal that says oink",
+        "answer": "PIG"
+      }
     ],
     "food": [
-      { "clue": "Red fruit that keeps doctor away", "answer": "APPLE" },
-      { "clue": "Yellow curved fruit", "answer": "BANANA" },
-      { "clue": "Orange citrus fruit", "answer": "ORANGE" },
-      { "clue": "White dairy drink", "answer": "MILK" },
-      { "clue": "Frozen sweet treat", "answer": "ICECREAM" },
-      { "clue": "Bread with filling", "answer": "SANDWICH" },
-      { "clue": "Round Italian food", "answer": "PIZZA" },
-      { "clue": "Sweet baked dessert", "answer": "CAKE" },
-      { "clue": "Breakfast egg dish", "answer": "OMELET" },
-      { "clue": "Green vegetable rabbits love", "answer": "CARROT" }
+      {
+        "clue": "Red fruit that keeps doctor away",
+        "answer": "APPLE"
+      },
+      {
+        "clue": "Yellow curved fruit",
+        "answer": "BANANA"
+      },
+      {
+        "clue": "Orange citrus fruit",
+        "answer": "ORANGE"
+      },
+      {
+        "clue": "White dairy drink",
+        "answer": "MILK"
+      },
+      {
+        "clue": "Frozen sweet treat",
+        "answer": "ICECREAM"
+      },
+      {
+        "clue": "Bread with filling",
+        "answer": "SANDWICH"
+      },
+      {
+        "clue": "Round Italian food",
+        "answer": "PIZZA"
+      },
+      {
+        "clue": "Sweet baked dessert",
+        "answer": "CAKE"
+      },
+      {
+        "clue": "Breakfast egg dish",
+        "answer": "OMELET"
+      },
+      {
+        "clue": "Green vegetable rabbits love",
+        "answer": "CARROT"
+      },
+      {
+        "clue": "Round fruit that is green or red",
+        "answer": "PEAR"
+      },
+      {
+        "clue": "Breakfast grain meal",
+        "answer": "CEREAL"
+      },
+      {
+        "clue": "Salty snack often eaten with dip",
+        "answer": "CHIPS"
+      },
+      {
+        "clue": "Sweet brown dessert topping",
+        "answer": "FUDGE"
+      },
+      {
+        "clue": "Juicy summer fruit with seeds",
+        "answer": "WATERMELON"
+      }
     ],
     "school": [
-      { "clue": "Place where you learn", "answer": "SCHOOL" },
-      { "clue": "You write with this", "answer": "PENCIL" },
-      { "clue": "You read stories in this", "answer": "BOOK" },
-      { "clue": "Teacher writes on this", "answer": "BOARD" },
-      { "clue": "You sit at this", "answer": "DESK" },
-      { "clue": "Carries your books", "answer": "BACKPACK" },
-      { "clue": "Art class tool", "answer": "BRUSH" },
-      { "clue": "Math calculation tool", "answer": "CALCULATOR" },
-      { "clue": "Paper fastener", "answer": "STAPLER" },
-      { "clue": "Marks mistakes in red", "answer": "CORRECTION" }
+      {
+        "clue": "Place where you learn",
+        "answer": "SCHOOL"
+      },
+      {
+        "clue": "You write with this",
+        "answer": "PENCIL"
+      },
+      {
+        "clue": "You read stories in this",
+        "answer": "BOOK"
+      },
+      {
+        "clue": "Teacher writes on this",
+        "answer": "BOARD"
+      },
+      {
+        "clue": "You sit at this",
+        "answer": "DESK"
+      },
+      {
+        "clue": "Carries your books",
+        "answer": "BACKPACK"
+      },
+      {
+        "clue": "Art class tool",
+        "answer": "BRUSH"
+      },
+      {
+        "clue": "Math calculation tool",
+        "answer": "CALCULATOR"
+      },
+      {
+        "clue": "Holds papers together",
+        "answer": "STAPLER"
+      },
+      {
+        "clue": "Removes pencil marks",
+        "answer": "ERASER"
+      },
+      {
+        "clue": "Subject about numbers",
+        "answer": "MATH"
+      },
+      {
+        "clue": "Subject about the past",
+        "answer": "HISTORY"
+      },
+      {
+        "clue": "Subject about the world",
+        "answer": "GEOGRAPHY"
+      },
+      {
+        "clue": "Portable computer for class",
+        "answer": "LAPTOP"
+      },
+      {
+        "clue": "Breaks between classes",
+        "answer": "RECESS"
+      }
     ],
     "nature": [
-      { "clue": "Falls from clouds", "answer": "RAIN" },
-      { "clue": "Frozen water", "answer": "ICE" },
-      { "clue": "Bright sky object at night", "answer": "STAR" },
-      { "clue": "Our planet", "answer": "EARTH" },
-      { "clue": "Hot ball in sky", "answer": "SUN" },
-      { "clue": "White sky fluff", "answer": "CLOUD" },
-      { "clue": "Colorful sky arc after rain", "answer": "RAINBOW" },
-      { "clue": "Tree part that falls", "answer": "LEAF" },
-      { "clue": "Flower powder", "answer": "POLLEN" },
-      { "clue": "Underground plant part", "answer": "ROOT" }
+      {
+        "clue": "Falls from clouds",
+        "answer": "RAIN"
+      },
+      {
+        "clue": "Frozen water",
+        "answer": "ICE"
+      },
+      {
+        "clue": "Bright sky object at night",
+        "answer": "STAR"
+      },
+      {
+        "clue": "Our planet",
+        "answer": "EARTH"
+      },
+      {
+        "clue": "Hot ball in sky",
+        "answer": "SUN"
+      },
+      {
+        "clue": "White sky fluff",
+        "answer": "CLOUD"
+      },
+      {
+        "clue": "Colorful sky arc after rain",
+        "answer": "RAINBOW"
+      },
+      {
+        "clue": "Tree part that falls in autumn",
+        "answer": "LEAF"
+      },
+      {
+        "clue": "Tiny seed powder from flowers",
+        "answer": "POLLEN"
+      },
+      {
+        "clue": "Underground plant part",
+        "answer": "ROOT"
+      },
+      {
+        "clue": "Colorful garden bloom",
+        "answer": "FLOWER"
+      },
+      {
+        "clue": "Tall plant with a trunk",
+        "answer": "TREE"
+      },
+      {
+        "clue": "Small river of water",
+        "answer": "STREAM"
+      },
+      {
+        "clue": "Large body of salt water",
+        "answer": "OCEAN"
+      },
+      {
+        "clue": "Giant rock that comes from space",
+        "answer": "METEOR"
+      }
     ],
     "body": [
-      { "clue": "You see with these", "answer": "EYES" },
-      { "clue": "You hear with these", "answer": "EARS" },
-      { "clue": "You smell with this", "answer": "NOSE" },
-      { "clue": "You eat with this", "answer": "MOUTH" },
-      { "clue": "You walk on these", "answer": "FEET" },
-      { "clue": "You hold with these", "answer": "HANDS" },
-      { "clue": "Top of your head hair", "answer": "HAIR" },
-      { "clue": "Arm bend point", "answer": "ELBOW" },
-      { "clue": "Hand end parts", "answer": "FINGERS" },
-      { "clue": "Foot end parts", "answer": "TOES" }
+      {
+        "clue": "You see with these",
+        "answer": "EYES"
+      },
+      {
+        "clue": "You hear with these",
+        "answer": "EARS"
+      },
+      {
+        "clue": "You smell with this",
+        "answer": "NOSE"
+      },
+      {
+        "clue": "You eat with this",
+        "answer": "MOUTH"
+      },
+      {
+        "clue": "You walk on these",
+        "answer": "FEET"
+      },
+      {
+        "clue": "You hold with these",
+        "answer": "HANDS"
+      },
+      {
+        "clue": "Grows on top of your head",
+        "answer": "HAIR"
+      },
+      {
+        "clue": "Arm bend point",
+        "answer": "ELBOW"
+      },
+      {
+        "clue": "Hand end parts",
+        "answer": "FINGERS"
+      },
+      {
+        "clue": "Foot end parts",
+        "answer": "TOES"
+      },
+      {
+        "clue": "Pumps blood through your body",
+        "answer": "HEART"
+      },
+      {
+        "clue": "You breathe with these",
+        "answer": "LUNGS"
+      },
+      {
+        "clue": "Joint between thigh and calf",
+        "answer": "KNEE"
+      },
+      {
+        "clue": "Stomach entrance",
+        "answer": "BELLY"
+      },
+      {
+        "clue": "Top part of your arm",
+        "answer": "SHOULDER"
+      }
     ],
     "colors": [
-      { "clue": "Sky color", "answer": "BLUE" },
-      { "clue": "Grass color", "answer": "GREEN" },
-      { "clue": "Sun color", "answer": "YELLOW" },
-      { "clue": "Blood color", "answer": "RED" },
-      { "clue": "Snow color", "answer": "WHITE" },
-      { "clue": "Night color", "answer": "BLACK" },
-      { "clue": "Mix of red and blue", "answer": "PURPLE" },
-      { "clue": "Mix of red and yellow", "answer": "ORANGE" },
-      { "clue": "Chocolate color", "answer": "BROWN" },
-      { "clue": "Pink flower color", "answer": "ROSE" }
+      {
+        "clue": "Sky color",
+        "answer": "BLUE"
+      },
+      {
+        "clue": "Grass color",
+        "answer": "GREEN"
+      },
+      {
+        "clue": "Sun color",
+        "answer": "YELLOW"
+      },
+      {
+        "clue": "Blood color",
+        "answer": "RED"
+      },
+      {
+        "clue": "Snow color",
+        "answer": "WHITE"
+      },
+      {
+        "clue": "Night color",
+        "answer": "BLACK"
+      },
+      {
+        "clue": "Mix of red and blue",
+        "answer": "PURPLE"
+      },
+      {
+        "clue": "Mix of red and yellow",
+        "answer": "PEACH"
+      },
+      {
+        "clue": "Chocolate color",
+        "answer": "BROWN"
+      },
+      {
+        "clue": "Light purple flower color",
+        "answer": "LAVENDER"
+      },
+      {
+        "clue": "Metal gray color",
+        "answer": "SILVER"
+      },
+      {
+        "clue": "Shiny yellow metal",
+        "answer": "GOLD"
+      },
+      {
+        "clue": "Dark blue like the deep sea",
+        "answer": "NAVY"
+      },
+      {
+        "clue": "Light red color",
+        "answer": "PINK"
+      },
+      {
+        "clue": "Color of ash and smoke",
+        "answer": "GRAY"
+      }
     ],
     "shapes": [
-      { "clue": "Round shape", "answer": "CIRCLE" },
-      { "clue": "Three sides", "answer": "TRIANGLE" },
-      { "clue": "Four equal sides", "answer": "SQUARE" },
-      { "clue": "Long rectangle", "answer": "RECTANGLE" },
-      { "clue": "Ball shape", "answer": "SPHERE" },
-      { "clue": "Box shape", "answer": "CUBE" },
-      { "clue": "Egg shape", "answer": "OVAL" },
-      { "clue": "Star points", "answer": "POINTS" },
-      { "clue": "Diamond shape", "answer": "RHOMBUS" },
-      { "clue": "Half circle", "answer": "SEMICIRCLE" }
+      {
+        "clue": "Round shape",
+        "answer": "CIRCLE"
+      },
+      {
+        "clue": "Three sides",
+        "answer": "TRIANGLE"
+      },
+      {
+        "clue": "Four equal sides",
+        "answer": "SQUARE"
+      },
+      {
+        "clue": "Four sides with right angles",
+        "answer": "RECTANGLE"
+      },
+      {
+        "clue": "Ball shape in 3D",
+        "answer": "SPHERE"
+      },
+      {
+        "clue": "Box shape in 3D",
+        "answer": "CUBE"
+      },
+      {
+        "clue": "Egg shape",
+        "answer": "OVAL"
+      },
+      {
+        "clue": "Pointed weapon shape",
+        "answer": "ARROW"
+      },
+      {
+        "clue": "Diamond shape",
+        "answer": "RHOMBUS"
+      },
+      {
+        "clue": "Half of a circle",
+        "answer": "SEMICIRCLE"
+      },
+      {
+        "clue": "Five-sided shape",
+        "answer": "PENTAGON"
+      },
+      {
+        "clue": "Six-sided shape",
+        "answer": "HEXAGON"
+      },
+      {
+        "clue": "Eight-sided shape",
+        "answer": "OCTAGON"
+      },
+      {
+        "clue": "Arrowhead shape",
+        "answer": "DIAMOND"
+      },
+      {
+        "clue": "Long and skinny oval",
+        "answer": "ELLIPSE"
+      }
     ],
     "time": [
-      { "clue": "Seven days", "answer": "WEEK" },
-      { "clue": "Twelve months", "answer": "YEAR" },
-      { "clue": "Sixty minutes", "answer": "HOUR" },
-      { "clue": "Start of day", "answer": "MORNING" },
-      { "clue": "Middle of day", "answer": "NOON" },
-      { "clue": "End of day", "answer": "NIGHT" },
-      { "clue": "Day before today", "answer": "YESTERDAY" },
-      { "clue": "Day after today", "answer": "TOMORROW" },
-      { "clue": "Thirty or thirty-one days", "answer": "MONTH" },
-      { "clue": "Today is this", "answer": "PRESENT" }
+      {
+        "clue": "Seven days",
+        "answer": "WEEK"
+      },
+      {
+        "clue": "Twelve months",
+        "answer": "YEAR"
+      },
+      {
+        "clue": "Sixty minutes",
+        "answer": "HOUR"
+      },
+      {
+        "clue": "Start of day before noon",
+        "answer": "MORNING"
+      },
+      {
+        "clue": "Middle of day",
+        "answer": "NOON"
+      },
+      {
+        "clue": "Time after sunset",
+        "answer": "NIGHT"
+      },
+      {
+        "clue": "Day before today",
+        "answer": "YESTERDAY"
+      },
+      {
+        "clue": "Day after today",
+        "answer": "TOMORROW"
+      },
+      {
+        "clue": "Thirty or thirty-one days",
+        "answer": "MONTH"
+      },
+      {
+        "clue": "Calendar shows the date",
+        "answer": "TODAY"
+      },
+      {
+        "clue": "Sixty seconds",
+        "answer": "MINUTE"
+      },
+      {
+        "clue": "Twenty-four hours",
+        "answer": "DAY"
+      },
+      {
+        "clue": "Time the sun rises",
+        "answer": "DAWN"
+      },
+      {
+        "clue": "Time the sun sets",
+        "answer": "DUSK"
+      },
+      {
+        "clue": "First month of the year",
+        "answer": "JANUARY"
+      }
     ],
     "clothing": [
-      { "clue": "Worn on feet", "answer": "SOCKS" },
-      { "clue": "Worn on head", "answer": "HAT" },
-      { "clue": "Winter outerwear", "answer": "COAT" },
-      { "clue": "Tells time on wrist", "answer": "WATCH" },
-      { "clue": "Worn on hands", "answer": "GLOVES" },
-      { "clue": "Holds pants up", "answer": "BELT" },
-      { "clue": "Neck warmer", "answer": "SCARF" },
-      { "clue": "Rain protection", "answer": "UMBRELLA" },
-      { "clue": "Leg covering", "answer": "PANTS" },
-      { "clue": "Carries things", "answer": "BAG" }
+      {
+        "clue": "Worn on feet",
+        "answer": "SOCKS"
+      },
+      {
+        "clue": "Worn on head",
+        "answer": "HAT"
+      },
+      {
+        "clue": "Winter outerwear",
+        "answer": "COAT"
+      },
+      {
+        "clue": "Tells time on wrist",
+        "answer": "WATCH"
+      },
+      {
+        "clue": "Worn on hands in winter",
+        "answer": "GLOVES"
+      },
+      {
+        "clue": "Holds pants up",
+        "answer": "BELT"
+      },
+      {
+        "clue": "Wraps around neck for warmth",
+        "answer": "SCARF"
+      },
+      {
+        "clue": "Protects from rain",
+        "answer": "UMBRELLA"
+      },
+      {
+        "clue": "Leg covering",
+        "answer": "PANTS"
+      },
+      {
+        "clue": "Small bag for money",
+        "answer": "PURSE"
+      },
+      {
+        "clue": "Worn on foot inside shoe",
+        "answer": "SHOE"
+      },
+      {
+        "clue": "Worn around wrist as accessory",
+        "answer": "BRACELET"
+      },
+      {
+        "clue": "Summer top for boys",
+        "answer": "SHIRT"
+      },
+      {
+        "clue": "Swimwear for the beach",
+        "answer": "BATHING"
+      },
+      {
+        "clue": "Worn on the finger",
+        "answer": "RING"
+      }
     ],
     "sports": [
-      { "clue": "Kicked in soccer", "answer": "BALL" },
-      { "clue": "Hit with racket", "answer": "TENNIS" },
-      { "clue": "Run on this", "answer": "TRACK" },
-      { "clue": "Swim eye wear", "answer": "GOGGLES" },
-      { "clue": "Basket sport", "answer": "BASKETBALL" },
-      { "clue": "Baseball hitter", "answer": "BAT" },
-      { "clue": "Ice glide sport", "answer": "SKATING" },
-      { "clue": "Game score unit", "answer": "POINT" },
-      { "clue": "Team kick sport", "answer": "SOCCER" },
-      { "clue": "Water vessel", "answer": "BOAT" }
+      {
+        "clue": "Kicked in soccer",
+        "answer": "BALL"
+      },
+      {
+        "clue": "Game played with racket and yellow ball",
+        "answer": "TENNIS"
+      },
+      {
+        "clue": "Running path around a field",
+        "answer": "TRACK"
+      },
+      {
+        "clue": "Swim eye wear",
+        "answer": "GOGGLES"
+      },
+      {
+        "clue": "Game with hoop and net",
+        "answer": "BASKETBALL"
+      },
+      {
+        "clue": "Baseball hitter's tool",
+        "answer": "BAT"
+      },
+      {
+        "clue": "Gliding on ice",
+        "answer": "SKATING"
+      },
+      {
+        "clue": "Score unit in a game",
+        "answer": "POINT"
+      },
+      {
+        "clue": "Team sport played with feet",
+        "answer": "SOCCER"
+      },
+      {
+        "clue": "Paddling through water",
+        "answer": "SWIMMING"
+      },
+      {
+        "clue": "Riding a bicycle",
+        "answer": "CYCLING"
+      },
+      {
+        "clue": "Game played with shuttlecock",
+        "answer": "BADMINTON"
+      },
+      {
+        "clue": "Sport where you throw a long metal stick",
+        "answer": "JAVELIN"
+      },
+      {
+        "clue": "Sport of bending and stretching",
+        "answer": "YOGA"
+      },
+      {
+        "clue": "Sport played on ice with sticks",
+        "answer": "HOCKEY"
+      }
+    ],
+    "transport": [
+      {
+        "clue": "Vehicle with four wheels and an engine",
+        "answer": "CAR"
+      },
+      {
+        "clue": "Large public road vehicle",
+        "answer": "BUS"
+      },
+      {
+        "clue": "Vehicle that runs on tracks",
+        "answer": "TRAIN"
+      },
+      {
+        "clue": "Two-wheeled vehicle you pedal",
+        "answer": "BICYCLE"
+      },
+      {
+        "clue": "Flying vehicle with wings",
+        "answer": "AIRPLANE"
+      },
+      {
+        "clue": "Large water vehicle",
+        "answer": "SHIP"
+      },
+      {
+        "clue": "Vehicle that carries goods",
+        "answer": "TRUCK"
+      },
+      {
+        "clue": "Two-wheeled motor vehicle",
+        "answer": "MOTORCYCLE"
+      },
+      {
+        "clue": "Small rowing water vehicle",
+        "answer": "BOAT"
+      },
+      {
+        "clue": "Silent aircraft with no engine",
+        "answer": "GLIDER"
+      },
+      {
+        "clue": "Emergency vehicle with siren",
+        "answer": "AMBULANCE"
+      },
+      {
+        "clue": "Vehicle that moves on snow",
+        "answer": "SLED"
+      },
+      {
+        "clue": "Horse-drawn carriage",
+        "answer": "WAGON"
+      },
+      {
+        "clue": "Vehicle with two wheels and a motor",
+        "answer": "SCOOTER"
+      },
+      {
+        "clue": "Underground train system",
+        "answer": "SUBWAY"
+      }
+    ],
+    "weather": [
+      {
+        "clue": "Strong wind storm",
+        "answer": "TORNADO"
+      },
+      {
+        "clue": "Frozen rain from sky",
+        "answer": "HAIL"
+      },
+      {
+        "clue": "Flash of light in storm",
+        "answer": "LIGHTNING"
+      },
+      {
+        "clue": "Loud sound after lightning",
+        "answer": "THUNDER"
+      },
+      {
+        "clue": "Strong circular wind over ocean",
+        "answer": "HURRICANE"
+      },
+      {
+        "clue": "Gentle movement of air",
+        "answer": "BREEZE"
+      },
+      {
+        "clue": "Heavy snowstorm with wind",
+        "answer": "BLIZZARD"
+      },
+      {
+        "clue": "Water drops on grass in morning",
+        "answer": "DEW"
+      },
+      {
+        "clue": "Thick fog that limits sight",
+        "answer": "MIST"
+      },
+      {
+        "clue": "Measure of how hot or cold",
+        "answer": "TEMPERATURE"
+      },
+      {
+        "clue": "Long period without rain",
+        "answer": "DROUGHT"
+      },
+      {
+        "clue": "Violent wind that spins",
+        "answer": "CYCLONE"
+      },
+      {
+        "clue": "Ice crystals falling from sky",
+        "answer": "SNOW"
+      },
+      {
+        "clue": "Large ocean wave from earthquake",
+        "answer": "TSUNAMI"
+      },
+      {
+        "clue": "Weather scale for temperature",
+        "answer": "CELSIUS"
+      }
+    ],
+    "music": [
+      {
+        "clue": "String instrument with six strings",
+        "answer": "GUITAR"
+      },
+      {
+        "clue": "Large black and white keyboard",
+        "answer": "PIANO"
+      },
+      {
+        "clue": "Percussion instrument you hit",
+        "answer": "DRUM"
+      },
+      {
+        "clue": "Small string instrument played with bow",
+        "answer": "VIOLIN"
+      },
+      {
+        "clue": "Pipe instrument you blow into",
+        "answer": "FLUTE"
+      },
+      {
+        "clue": "Brass instrument with slide",
+        "answer": "TROMBONE"
+      },
+      {
+        "clue": "Group of singers together",
+        "answer": "CHOIR"
+      },
+      {
+        "clue": "Words of a song",
+        "answer": "LYRICS"
+      },
+      {
+        "clue": "Speed of music",
+        "answer": "TEMPO"
+      },
+      {
+        "clue": "Person who leads an orchestra",
+        "answer": "CONDUCTOR"
+      },
+      {
+        "clue": "Large group of musicians",
+        "answer": "ORCHESTRA"
+      },
+      {
+        "clue": "Fingered string instrument",
+        "answer": "BANJO"
+      },
+      {
+        "clue": "Small wind instrument held sideways",
+        "answer": "RECORDER"
+      },
+      {
+        "clue": "Song that celebrates a country",
+        "answer": "ANTHEM"
+      },
+      {
+        "clue": "Set of words and music together",
+        "answer": "SONG"
+      }
+    ],
+    "space": [
+      {
+        "clue": "Earth's natural satellite",
+        "answer": "MOON"
+      },
+      {
+        "clue": "Red planet in our solar system",
+        "answer": "MARS"
+      },
+      {
+        "clue": "Planet with rings around it",
+        "answer": "SATURN"
+      },
+      {
+        "clue": "Bright object moving through space",
+        "answer": "COMET"
+      },
+      {
+        "clue": "Path of a planet around the sun",
+        "answer": "ORBIT"
+      },
+      {
+        "clue": "Vehicle that flies to space",
+        "answer": "ROCKET"
+      },
+      {
+        "clue": "Person who travels to space",
+        "answer": "ASTRONAUT"
+      },
+      {
+        "clue": "Tool used to see far stars",
+        "answer": "TELESCOPE"
+      },
+      {
+        "clue": "Group of stars in the sky",
+        "answer": "GALAXY"
+      },
+      {
+        "clue": "Cloud of gas and dust in space",
+        "answer": "NEBULA"
+      },
+      {
+        "clue": "Relating to the sun",
+        "answer": "SOLAR"
+      },
+      {
+        "clue": "Large round object in space",
+        "answer": "PLANET"
+      },
+      {
+        "clue": "Seventh planet from the sun",
+        "answer": "URANUS"
+      },
+      {
+        "clue": "Space rock that hits Earth",
+        "answer": "METEORITE"
+      },
+      {
+        "clue": "Closest planet to the sun",
+        "answer": "MERCURY"
+      }
+    ],
+    "geography": [
+      {
+        "clue": "Large landmass on Earth",
+        "answer": "CONTINENT"
+      },
+      {
+        "clue": "Body of water surrounded by land",
+        "answer": "LAKE"
+      },
+      {
+        "clue": "Very tall natural land feature",
+        "answer": "MOUNTAIN"
+      },
+      {
+        "clue": "Dry sandy area with little water",
+        "answer": "DESERT"
+      },
+      {
+        "clue": "Large flowing body of water",
+        "answer": "RIVER"
+      },
+      {
+        "clue": "Deep valley with steep sides",
+        "answer": "CANYON"
+      },
+      {
+        "clue": "Hot wet forest near equator",
+        "answer": "JUNGLE"
+      },
+      {
+        "clue": "Large frozen area of ice",
+        "answer": "GLACIER"
+      },
+      {
+        "clue": "Small piece of land in water",
+        "answer": "ISLAND"
+      },
+      {
+        "clue": "Area where river meets ocean",
+        "answer": "DELTA"
+      },
+      {
+        "clue": "Flat high area of land",
+        "answer": "PLATEAU"
+      },
+      {
+        "clue": "Narrow body of water between lands",
+        "answer": "STRAIT"
+      },
+      {
+        "clue": "Large grassy plain with few trees",
+        "answer": "SAVANNA"
+      },
+      {
+        "clue": "Underground cave formation",
+        "answer": "CAVE"
+      },
+      {
+        "clue": "Ring-shaped coral reef",
+        "answer": "ATOLL"
+      }
+    ],
+    "science": [
+      {
+        "clue": "What all matter is made of",
+        "answer": "ATOM"
+      },
+      {
+        "clue": "Force that pulls things to Earth",
+        "answer": "GRAVITY"
+      },
+      {
+        "clue": "Scientists use this to experiment",
+        "answer": "LAB"
+      },
+      {
+        "clue": "Microscope sees these tiny living things",
+        "answer": "GERMS"
+      },
+      {
+        "clue": "Change from solid to liquid",
+        "answer": "MELT"
+      },
+      {
+        "clue": "Change from liquid to gas",
+        "answer": "EVAPORATE"
+      },
+      {
+        "clue": "Change from gas to liquid",
+        "answer": "CONDENSE"
+      },
+      {
+        "clue": "Animals that eat only plants",
+        "answer": "HERBIVORE"
+      },
+      {
+        "clue": "Animals that eat only meat",
+        "answer": "CARNIVORE"
+      },
+      {
+        "clue": "A push or a pull on an object",
+        "answer": "FORCE"
+      },
+      {
+        "clue": "Tool that measures temperature",
+        "answer": "THERMOMETER"
+      },
+      {
+        "clue": "Light bounces off this",
+        "answer": "REFLECT"
+      },
+      {
+        "clue": "Magnifying tool for small things",
+        "answer": "MICROSCOPE"
+      },
+      {
+        "clue": "Size of something",
+        "answer": "VOLUME"
+      },
+      {
+        "clue": "How heavy something is",
+        "answer": "WEIGHT"
+      },
+      {
+        "clue": "Water in gas form",
+        "answer": "VAPOR"
+      },
+      {
+        "clue": "Magnet attracts this metal",
+        "answer": "IRON"
+      },
+      {
+        "clue": "Moving energy of objects",
+        "answer": "MOTION"
+      },
+      {
+        "clue": "How fast something moves",
+        "answer": "SPEED"
+      },
+      {
+        "clue": "Loop of water from sky to ground and back",
+        "answer": "CYCLE"
+      },
+      {
+        "clue": "Living thing that makes its own food",
+        "answer": "PLANT"
+      },
+      {
+        "clue": "Path electricity flows through",
+        "answer": "CIRCUIT"
+      },
+      {
+        "clue": "Material that blocks electricity",
+        "answer": "INSULATOR"
+      },
+      {
+        "clue": "Bones inside your body",
+        "answer": "SKELETON"
+      },
+      {
+        "clue": "How hot or cold something is",
+        "answer": "HEAT"
+      },
+      {
+        "clue": "Energy that travels in waves",
+        "answer": "SOUND"
+      },
+      {
+        "clue": "Invisible power that attracts metal",
+        "answer": "MAGNET"
+      },
+      {
+        "clue": "What plants breathe in",
+        "answer": "CARBON"
+      },
+      {
+        "clue": "What plants breathe out",
+        "answer": "OXYGEN"
+      },
+      {
+        "clue": "Process plants use to make food",
+        "answer": "PHOTOSYNTHESIS"
+      },
+      {
+        "clue": "Tiny living thing you need a microscope to see",
+        "answer": "BACTERIA"
+      },
+      {
+        "clue": "Stage between caterpillar and butterfly",
+        "answer": "PUPA"
+      },
+      {
+        "clue": "Thin layer around a cell",
+        "answer": "MEMBRANE"
+      },
+      {
+        "clue": "Center of a cell",
+        "answer": "NUCLEUS"
+      },
+      {
+        "clue": "Mixture of metals",
+        "answer": "ALLOY"
+      },
+      {
+        "clue": "How high or low a sound is",
+        "answer": "PITCH"
+      },
+      {
+        "clue": "Path of an object around another",
+        "answer": "REVOLVE"
+      },
+      {
+        "clue": "Spinning on an axis",
+        "answer": "ROTATE"
+      },
+      {
+        "clue": "Smallest unit of life",
+        "answer": "CELL"
+      },
+      {
+        "clue": "Dissolves in water to make a solution",
+        "answer": "SOLUTE"
+      },
+      {
+        "clue": "Two or more atoms bonded together",
+        "answer": "MOLECULE"
+      },
+      {
+        "clue": "Frog's early stage in water",
+        "answer": "TADPOLE"
+      },
+      {
+        "clue": "Lizard that changes color",
+        "answer": "CHAMELEON"
+      },
+      {
+        "clue": "Bear that lives in the Arctic",
+        "answer": "POLAR"
+      },
+      {
+        "clue": "Marsupial that carries baby in pouch",
+        "answer": "WALLABY"
+      },
+      {
+        "clue": "Insect that glows at night",
+        "answer": "FIREFLY"
+      },
+      {
+        "clue": "Measures how much matter is in something",
+        "answer": "MASS"
+      },
+      {
+        "clue": "Unit of electric current",
+        "answer": "AMP"
+      },
+      {
+        "clue": "Unit of electric resistance",
+        "answer": "OHM"
+      },
+      {
+        "clue": "What we call animals that eat plants and meat",
+        "answer": "OMNIVORE"
+      },
+      {
+        "clue": "Light volcanic rock that floats",
+        "answer": "PUMICE"
+      },
+      {
+        "clue": "Part of the body that digests food",
+        "answer": "STOMACH"
+      },
+      {
+        "clue": "Organ that filters blood",
+        "answer": "KIDNEY"
+      },
+      {
+        "clue": "Organ that breaks down fats",
+        "answer": "LIVER"
+      },
+      {
+        "clue": "Green pigment in plants",
+        "answer": "CHLOROPHYLL"
+      },
+      {
+        "clue": "Sweet liquid bees collect from flowers",
+        "answer": "NECTAR"
+      },
+      {
+        "clue": "Direction the sun rises",
+        "answer": "EAST"
+      },
+      {
+        "clue": "Longest bone in the human body",
+        "answer": "FEMUR"
+      },
+      {
+        "clue": "Small bone in the middle ear",
+        "answer": "ANVIL"
+      },
+      {
+        "clue": "Hard outer covering of an insect",
+        "answer": "EXOSKELETON"
+      },
+      {
+        "clue": "Animal that sleeps all winter",
+        "answer": "HIBERNATE"
+      },
+      {
+        "clue": "Change from solid to gas",
+        "answer": "SUBLIME"
+      },
+      {
+        "clue": "Electricity that flows one way",
+        "answer": "DIRECT"
+      },
+      {
+        "clue": "Electricity that changes direction",
+        "answer": "ALTERNATING"
+      },
+      {
+        "clue": "What a caterpillar becomes",
+        "answer": "BUTTERFLY"
+      },
+      {
+        "clue": "What a tadpole becomes",
+        "answer": "FROG"
+      },
+      {
+        "clue": "What an egg becomes",
+        "answer": "CHICK"
+      },
+      {
+        "clue": "Tiny air sacs in the lungs",
+        "answer": "ALVEOLI"
+      },
+      {
+        "clue": "Part of the eye that sees color",
+        "answer": "CONE"
+      },
+      {
+        "clue": "Part of the eye that sees in dim light",
+        "answer": "ROD"
+      },
+      {
+        "clue": "Powder that makes a plant grow",
+        "answer": "FERTILIZER"
+      },
+      {
+        "clue": "Bacteria that turns milk into yogurt",
+        "answer": "CULTURE"
+      },
+      {
+        "clue": "Scientists study this type of rock",
+        "answer": "IGNEOUS"
+      },
+      {
+        "clue": "Rock formed from layers of sediment",
+        "answer": "SEDIMENTARY"
+      },
+      {
+        "clue": "Rock changed by heat and pressure",
+        "answer": "METAMORPHIC"
+      },
+      {
+        "clue": "Fingerprint on a door",
+        "answer": "LATENT"
+      },
+      {
+        "clue": "Blood vessel that carries blood away",
+        "answer": "ARTERY"
+      },
+      {
+        "clue": "Blood vessel that carries blood back",
+        "answer": "VEIN"
+      },
+      {
+        "clue": "Tiny blood vessels in the body",
+        "answer": "CAPILLARY"
+      }
+    ],
+    "technology": [
+      {
+        "clue": "Handheld device for calls and apps",
+        "answer": "PHONE"
+      },
+      {
+        "clue": "Machine that processes information",
+        "answer": "COMPUTER"
+      },
+      {
+        "clue": "Screen that shows images",
+        "answer": "MONITOR"
+      },
+      {
+        "clue": "You type on this",
+        "answer": "KEYBOARD"
+      },
+      {
+        "clue": "You click with this",
+        "answer": "MOUSE"
+      },
+      {
+        "clue": "Printer makes copies on this",
+        "answer": "PAPER"
+      },
+      {
+        "clue": "Computer brain",
+        "answer": "PROCESSOR"
+      },
+      {
+        "clue": "Stores your files",
+        "answer": "MEMORY"
+      },
+      {
+        "clue": "Wireless internet connection",
+        "answer": "WIFI"
+      },
+      {
+        "clue": "Website address",
+        "answer": "URL"
+      },
+      {
+        "clue": "Global network of computers",
+        "answer": "INTERNET"
+      },
+      {
+        "clue": "Email folder for new messages",
+        "answer": "INBOX"
+      },
+      {
+        "clue": "Secret code for security",
+        "answer": "PASSWORD"
+      },
+      {
+        "clue": "Small picture on a phone screen",
+        "answer": "ICON"
+      },
+      {
+        "clue": "Set of computer instructions",
+        "answer": "SOFTWARE"
+      },
+      {
+        "clue": "Video recording device",
+        "answer": "CAMERA"
+      },
+      {
+        "clue": "Head-worn audio device",
+        "answer": "HEADPHONES"
+      },
+      {
+        "clue": "Flat mobile device without keyboard",
+        "answer": "TABLET"
+      },
+      {
+        "clue": "Digital book reader",
+        "answer": "EREADER"
+      },
+      {
+        "clue": "Portable phone charger",
+        "answer": "POWERBANK"
+      },
+      {
+        "clue": "Computer virus protection",
+        "answer": "ANTIVIRUS"
+      },
+      {
+        "clue": "Social media photo app",
+        "answer": "INSTAGRAM"
+      },
+      {
+        "clue": "Video sharing website",
+        "answer": "YOUTUBE"
+      },
+      {
+        "clue": "Popular search engine",
+        "answer": "GOOGLE"
+      },
+      {
+        "clue": "Robot that vacuums floors",
+        "answer": "ROOMBA"
+      },
+      {
+        "clue": "Wireless earbuds by Apple",
+        "answer": "AIRPODS"
+      },
+      {
+        "clue": "Smart speaker from Amazon",
+        "answer": "ECHO"
+      },
+      {
+        "clue": "Smart speaker from Google",
+        "answer": "NEST"
+      },
+      {
+        "clue": "Fitness tracking wristband",
+        "answer": "FITBIT"
+      },
+      {
+        "clue": "Virtual reality headset",
+        "answer": "HEADSET"
+      },
+      {
+        "clue": "Game console by Sony",
+        "answer": "PLAYSTATION"
+      },
+      {
+        "clue": "Game console by Microsoft",
+        "answer": "XBOX"
+      },
+      {
+        "clue": "Game console by Nintendo",
+        "answer": "SWITCH"
+      },
+      {
+        "clue": "Online building game",
+        "answer": "MINECRAFT"
+      },
+      {
+        "clue": "Online game creation platform",
+        "answer": "ROBLOX"
+      },
+      {
+        "clue": "Pen for drawing on tablets",
+        "answer": "STYLUS"
+      },
+      {
+        "clue": "Device that copies paper to computer",
+        "answer": "SCANNER"
+      },
+      {
+        "clue": "Output device that makes sound",
+        "answer": "SPEAKER"
+      },
+      {
+        "clue": "Connects computer to monitor",
+        "answer": "CABLE"
+      },
+      {
+        "clue": "Short-range wireless technology",
+        "answer": "BLUETOOTH"
+      },
+      {
+        "clue": "USB storage device",
+        "answer": "DRIVE"
+      },
+      {
+        "clue": "Digital watch with apps",
+        "answer": "SMARTWATCH"
+      },
+      {
+        "clue": "Set of instructions for a computer",
+        "answer": "PROGRAM"
+      },
+      {
+        "clue": "Tiny computer for hobby projects",
+        "answer": "RASPBERRY"
+      },
+      {
+        "clue": "3D printing machine",
+        "answer": "PRINTER"
+      },
+      {
+        "clue": "Digital money",
+        "answer": "BITCOIN"
+      },
+      {
+        "clue": "Apple's cloud storage",
+        "answer": "ICLOUD"
+      },
+      {
+        "clue": "Video call software",
+        "answer": "ZOOM"
+      },
+      {
+        "clue": "Messaging app with green bubbles",
+        "answer": "WHATSAPP"
+      },
+      {
+        "clue": "Social media for short messages",
+        "answer": "TWITTER"
+      },
+      {
+        "clue": "Photo editing software",
+        "answer": "PHOTOSHOP"
+      },
+      {
+        "clue": "Microsoft word processor",
+        "answer": "WORD"
+      },
+      {
+        "clue": "Microsoft spreadsheet program",
+        "answer": "EXCEL"
+      },
+      {
+        "clue": "Microsoft presentation program",
+        "answer": "POWERPOINT"
+      },
+      {
+        "clue": "Microsoft operating system",
+        "answer": "WINDOWS"
+      },
+      {
+        "clue": "Apple computer operating system",
+        "answer": "MACOS"
+      },
+      {
+        "clue": "Google mobile operating system",
+        "answer": "ANDROID"
+      },
+      {
+        "clue": "Apple mobile operating system",
+        "answer": "IOS"
+      },
+      {
+        "clue": "Global positioning system",
+        "answer": "GPS"
+      },
+      {
+        "clue": "Smallest unit of computer data",
+        "answer": "BIT"
+      },
+      {
+        "clue": "Unit of digital information",
+        "answer": "BYTE"
+      },
+      {
+        "clue": "Online file storage service",
+        "answer": "DROPBOX"
+      },
+      {
+        "clue": "Electric car company",
+        "answer": "TESLA"
+      }
+    ],
+    "occupations": [
+      {
+        "clue": "Teaches students at school",
+        "answer": "TEACHER"
+      },
+      {
+        "clue": "Flies airplanes",
+        "answer": "PILOT"
+      },
+      {
+        "clue": "Helps sick people at hospital",
+        "answer": "DOCTOR"
+      },
+      {
+        "clue": "Takes care of teeth",
+        "answer": "DENTIST"
+      },
+      {
+        "clue": "Animal doctor",
+        "answer": "VET"
+      },
+      {
+        "clue": "Puts out fires",
+        "answer": "FIREFIGHTER"
+      },
+      {
+        "clue": "Protects the community",
+        "answer": "POLICE"
+      },
+      {
+        "clue": "Designs buildings",
+        "answer": "ARCHITECT"
+      },
+      {
+        "clue": "Builds with wood",
+        "answer": "CARPENTER"
+      },
+      {
+        "clue": "Repairs pipes and water",
+        "answer": "PLUMBER"
+      },
+      {
+        "clue": "Fixes electrical wires",
+        "answer": "ELECTRICIAN"
+      },
+      {
+        "clue": "Head cook in a restaurant",
+        "answer": "CHEF"
+      },
+      {
+        "clue": "Serves food at tables",
+        "answer": "WAITER"
+      },
+      {
+        "clue": "Grows crops on a farm",
+        "answer": "FARMER"
+      },
+      {
+        "clue": "Drives a vehicle for hire",
+        "answer": "DRIVER"
+      },
+      {
+        "clue": "Delivers mail to homes",
+        "answer": "MAILMAN"
+      },
+      {
+        "clue": "Works at a store checkout",
+        "answer": "CLERK"
+      },
+      {
+        "clue": "Manages money in a bank",
+        "answer": "BANKER"
+      },
+      {
+        "clue": "Writes for newspapers",
+        "answer": "JOURNALIST"
+      },
+      {
+        "clue": "Takes photographs",
+        "answer": "PHOTOGRAPHER"
+      },
+      {
+        "clue": "Performs in movies or plays",
+        "answer": "ACTOR"
+      },
+      {
+        "clue": "Performs songs on stage",
+        "answer": "SINGER"
+      },
+      {
+        "clue": "Performs dance",
+        "answer": "DANCER"
+      },
+      {
+        "clue": "Creates paintings or drawings",
+        "answer": "ARTIST"
+      },
+      {
+        "clue": "Writes books",
+        "answer": "AUTHOR"
+      },
+      {
+        "clue": "Presents news on television",
+        "answer": "ANCHOR"
+      },
+      {
+        "clue": "Forecasts the weather",
+        "answer": "METEOROLOGIST"
+      },
+      {
+        "clue": "Studies ancient artifacts",
+        "answer": "ARCHAEOLOGIST"
+      },
+      {
+        "clue": "Studies stars and planets",
+        "answer": "ASTRONOMER"
+      },
+      {
+        "clue": "Studies ocean life",
+        "answer": "MARINE"
+      },
+      {
+        "clue": "Studies rocks and Earth",
+        "answer": "GEOLOGIST"
+      },
+      {
+        "clue": "Studies insects",
+        "answer": "ENTOMOLOGIST"
+      },
+      {
+        "clue": "Studies ecosystems",
+        "answer": "ECOLOGIST"
+      },
+      {
+        "clue": "Trains athletes",
+        "answer": "COACH"
+      },
+      {
+        "clue": "Referee in baseball",
+        "answer": "UMPIRE"
+      },
+      {
+        "clue": "Works in a library",
+        "answer": "LIBRARIAN"
+      },
+      {
+        "clue": "Performs lab experiments",
+        "answer": "RESEARCHER"
+      },
+      {
+        "clue": "Creates new things",
+        "answer": "INVENTOR"
+      },
+      {
+        "clue": "Travels to discover new places",
+        "answer": "EXPLORER"
+      },
+      {
+        "clue": "Catches fish for a living",
+        "answer": "FISHERMAN"
+      },
+      {
+        "clue": "Works with wood to make furniture",
+        "answer": "WOODWORKER"
+      },
+      {
+        "clue": "Repairs cars and engines",
+        "answer": "MECHANIC"
+      },
+      {
+        "clue": "Fixes computer problems",
+        "answer": "TECHNICIAN"
+      },
+      {
+        "clue": "Builds roads and bridges",
+        "answer": "ENGINEER"
+      },
+      {
+        "clue": "Prepares medicine for patients",
+        "answer": "PHARMACIST"
+      },
+      {
+        "clue": "Examines your eyes",
+        "answer": "OPTOMETRIST"
+      },
+      {
+        "clue": "Cuts men's hair",
+        "answer": "BARBER"
+      },
+      {
+        "clue": "Cuts women's hair",
+        "answer": "HAIRDRESSER"
+      },
+      {
+        "clue": "Cares for children at home",
+        "answer": "NANNY"
+      },
+      {
+        "clue": "Guards a building",
+        "answer": "GUARD"
+      },
+      {
+        "clue": "Leads tours for visitors",
+        "answer": "TOURGUIDE"
+      },
+      {
+        "clue": "Captain of a ship",
+        "answer": "CAPTAIN"
+      },
+      {
+        "clue": "Decorates rooms and houses",
+        "answer": "DECORATOR"
+      },
+      {
+        "clue": "Creates computer software",
+        "answer": "DEVELOPER"
+      },
+      {
+        "clue": "Creates cartoons and animations",
+        "answer": "ANIMATOR"
+      },
+      {
+        "clue": "Creates fashion and clothes",
+        "answer": "DESIGNER"
+      },
+      {
+        "clue": "Does experiments for a living",
+        "answer": "SCIENTIST"
+      },
+      {
+        "clue": "Studies plants",
+        "answer": "BOTANIST"
+      },
+      {
+        "clue": "Protects a park or forest",
+        "answer": "RANGER"
+      },
+      {
+        "clue": "Cleans schools and offices",
+        "answer": "JANITOR"
+      },
+      {
+        "clue": "Organizes weddings and events",
+        "answer": "PLANNER"
+      },
+      {
+        "clue": "Teaches dogs new skills",
+        "answer": "TRAINER"
+      },
+      {
+        "clue": "Makes pots out of clay",
+        "answer": "POTTER"
+      }
+    ],
+    "countries": [
+      {
+        "clue": "Largest country in the world",
+        "answer": "RUSSIA"
+      },
+      {
+        "clue": "Most populated country",
+        "answer": "CHINA"
+      },
+      {
+        "clue": "Second most populated country",
+        "answer": "INDIA"
+      },
+      {
+        "clue": "Land of the rising sun",
+        "answer": "JAPAN"
+      },
+      {
+        "clue": "Country of kangaroos",
+        "answer": "AUSTRALIA"
+      },
+      {
+        "clue": "Country of maple leaves",
+        "answer": "CANADA"
+      },
+      {
+        "clue": "Country of the Eiffel Tower",
+        "answer": "FRANCE"
+      },
+      {
+        "clue": "Country of the Colosseum",
+        "answer": "ITALY"
+      },
+      {
+        "clue": "Country of the Leaning Tower",
+        "answer": "PISA"
+      },
+      {
+        "clue": "Country known for tacos",
+        "answer": "MEXICO"
+      },
+      {
+        "clue": "Country of the Amazon River",
+        "answer": "BRAZIL"
+      },
+      {
+        "clue": "Country with Berlin",
+        "answer": "GERMANY"
+      },
+      {
+        "clue": "Country with London",
+        "answer": "ENGLAND"
+      },
+      {
+        "clue": "Country with Cairo",
+        "answer": "EGYPT"
+      },
+      {
+        "clue": "Country of the Andes mountains",
+        "answer": "PERU"
+      },
+      {
+        "clue": "Country known for windmills",
+        "answer": "NETHERLANDS"
+      },
+      {
+        "clue": "Country known for tulips",
+        "answer": "HOLLAND"
+      },
+      {
+        "clue": "Country with Athens",
+        "answer": "GREECE"
+      },
+      {
+        "clue": "Country with Madrid",
+        "answer": "SPAIN"
+      },
+      {
+        "clue": "Country with Lisbon",
+        "answer": "PORTUGAL"
+      },
+      {
+        "clue": "Country with Dublin",
+        "answer": "IRELAND"
+      },
+      {
+        "clue": "Country with Stockholm",
+        "answer": "SWEDEN"
+      },
+      {
+        "clue": "Country with Oslo",
+        "answer": "NORWAY"
+      },
+      {
+        "clue": "Country with Helsinki",
+        "answer": "FINLAND"
+      },
+      {
+        "clue": "Country with Copenhagen",
+        "answer": "DENMARK"
+      },
+      {
+        "clue": "Country with Warsaw",
+        "answer": "POLAND"
+      },
+      {
+        "clue": "Country with Vienna",
+        "answer": "AUSTRIA"
+      },
+      {
+        "clue": "Country with Brussels",
+        "answer": "BELGIUM"
+      },
+      {
+        "clue": "Country with Budapest",
+        "answer": "HUNGARY"
+      },
+      {
+        "clue": "Country with Seoul",
+        "answer": "KOREA"
+      },
+      {
+        "clue": "Country with Bangkok",
+        "answer": "THAILAND"
+      },
+      {
+        "clue": "Country with Hanoi",
+        "answer": "VIETNAM"
+      },
+      {
+        "clue": "Country with Manila",
+        "answer": "PHILIPPINES"
+      },
+      {
+        "clue": "Country with Jakarta",
+        "answer": "INDONESIA"
+      },
+      {
+        "clue": "Country with Kuala Lumpur",
+        "answer": "MALAYSIA"
+      },
+      {
+        "clue": "Country with Singapore city",
+        "answer": "SINGAPORE"
+      },
+      {
+        "clue": "Country with Istanbul",
+        "answer": "TURKEY"
+      },
+      {
+        "clue": "Country with Nairobi",
+        "answer": "KENYA"
+      },
+      {
+        "clue": "Country known for coffee",
+        "answer": "COLOMBIA"
+      },
+      {
+        "clue": "Country known for tango",
+        "answer": "ARGENTINA"
+      },
+      {
+        "clue": "Island country in the Caribbean",
+        "answer": "CUBA"
+      },
+      {
+        "clue": "Island country near India",
+        "answer": "SRI"
+      },
+      {
+        "clue": "Mountain country in the Himalayas",
+        "answer": "NEPAL"
+      },
+      {
+        "clue": "Country of the Sahara Desert",
+        "answer": "MOROCCO"
+      },
+      {
+        "clue": "Country of the Nile River",
+        "answer": "SUDAN"
+      },
+      {
+        "clue": "Country of kiwi birds",
+        "answer": "NEW"
+      },
+      {
+        "clue": "Country known for watches",
+        "answer": "SWISS"
+      },
+      {
+        "clue": "Small country in Europe",
+        "answer": "LUXEMBOURG"
+      },
+      {
+        "clue": "Island country in Asia",
+        "answer": "TAIWAN"
+      }
+    ],
+    "holidays": [
+      {
+        "clue": "December 25 celebration",
+        "answer": "CHRISTMAS"
+      },
+      {
+        "clue": "October 31 celebration",
+        "answer": "HALLOWEEN"
+      },
+      {
+        "clue": "February 14 celebration",
+        "answer": "VALENTINE"
+      },
+      {
+        "clue": "US independence celebration on July 4",
+        "answer": "INDEPENDENCE"
+      },
+      {
+        "clue": "Turkey dinner day in November",
+        "answer": "THANKSGIVING"
+      },
+      {
+        "clue": "Celebration with eggs and bunny",
+        "answer": "EASTER"
+      },
+      {
+        "clue": "Celebration of a new year",
+        "answer": "NEWYEAR"
+      },
+      {
+        "clue": "March celebration with leprechauns",
+        "answer": "PATRICK"
+      },
+      {
+        "clue": "Day to honor mothers in May",
+        "answer": "MOTHERS"
+      },
+      {
+        "clue": "Day to honor fathers in June",
+        "answer": "FATHERS"
+      },
+      {
+        "clue": "Harvest celebration",
+        "answer": "HARVEST"
+      },
+      {
+        "clue": "December Jewish festival of lights",
+        "answer": "HANUKKAH"
+      },
+      {
+        "clue": "Muslim holiday after Ramadan",
+        "answer": "EID"
+      },
+      {
+        "clue": "Hindu festival of lights",
+        "answer": "DIWALI"
+      },
+      {
+        "clue": "Chinese new year symbol",
+        "answer": "DRAGON"
+      },
+      {
+        "clue": "Celebration of our planet",
+        "answer": "EARTHDAY"
+      },
+      {
+        "clue": "September celebration of workers",
+        "answer": "LABORDAY"
+      },
+      {
+        "clue": "November celebration of veterans",
+        "answer": "VETERANS"
+      },
+      {
+        "clue": "February celebration of presidents",
+        "answer": "PRESIDENTS"
+      },
+      {
+        "clue": "Martin Luther King Day",
+        "answer": "MLK"
+      },
+      {
+        "clue": "Mexican Day of the Dead",
+        "answer": "DIA"
+      },
+      {
+        "clue": "April 1 prank day",
+        "answer": "APRILFOOLS"
+      },
+      {
+        "clue": "Memorial Day remembers soldiers",
+        "answer": "MEMORIAL"
+      },
+      {
+        "clue": "Day to honor grandparents",
+        "answer": "GRANDPARENTS"
+      },
+      {
+        "clue": "Day to plant trees",
+        "answer": "ARBOR"
+      },
+      {
+        "clue": "Juneteenth celebration",
+        "answer": "JUNETEENTH"
+      },
+      {
+        "clue": "Day to honor the flag",
+        "answer": "FLAGDAY"
+      },
+      {
+        "clue": "Day to honor teachers",
+        "answer": "TEACHERS"
+      },
+      {
+        "clue": "Day to honor nurses",
+        "answer": "NURSES"
+      },
+      {
+        "clue": "Jewish New Year",
+        "answer": "ROSH"
+      },
+      {
+        "clue": "Day of atonement in Judaism",
+        "answer": "KIPPUR"
+      },
+      {
+        "clue": "Buddha's birthday celebration",
+        "answer": "BUDDHA"
+      },
+      {
+        "clue": "Winter solstice celebration",
+        "answer": "YULE"
+      },
+      {
+        "clue": "Day of the dead celebration",
+        "answer": "ALLSAINTS"
+      },
+      {
+        "clue": "Queen's celebration in UK",
+        "answer": "JUBILEE"
+      },
+      {
+        "clue": "August independence of India",
+        "answer": "AUGUST"
+      },
+      {
+        "clue": "Day to honor first responders",
+        "answer": "FIRST"
+      },
+      {
+        "clue": "Take your child to work day",
+        "answer": "TAKE"
+      },
+      {
+        "clue": "Read across America day",
+        "answer": "READ"
+      },
+      {
+        "clue": "Spirit day wear purple",
+        "answer": "SPIRIT"
+      },
+      {
+        "clue": "Day to celebrate the arts",
+        "answer": "ARTS"
+      },
+      {
+        "clue": "Day to celebrate science",
+        "answer": "STEM"
+      },
+      {
+        "clue": "World environment day",
+        "answer": "WORLD"
+      },
+      {
+        "clue": "Day to go outside and play",
+        "answer": "PLAY"
+      },
+      {
+        "clue": "World book day",
+        "answer": "BOOKDAY"
+      },
+      {
+        "clue": "Random acts of kindness day",
+        "answer": "KINDNESS"
+      },
+      {
+        "clue": "World smile day",
+        "answer": "SMILE"
+      },
+      {
+        "clue": "World joke day",
+        "answer": "JOKE"
+      },
+      {
+        "clue": "International hug day",
+        "answer": "HUG"
+      },
+      {
+        "clue": "Thanksgiving in US",
+        "answer": "THANK"
+      }
+    ],
+    "kitchen": [
+      {
+        "clue": "Cook food in this",
+        "answer": "POT"
+      },
+      {
+        "clue": "Fry eggs in this",
+        "answer": "PAN"
+      },
+      {
+        "clue": "Cut vegetables with this",
+        "answer": "KNIFE"
+      },
+      {
+        "clue": "Eat soup with this",
+        "answer": "SPOON"
+      },
+      {
+        "clue": "Eat pasta with this",
+        "answer": "FORK"
+      },
+      {
+        "clue": "Drink from this",
+        "answer": "CUP"
+      },
+      {
+        "clue": "Pour milk from this",
+        "answer": "JUG"
+      },
+      {
+        "clue": "Bake cookies on this",
+        "answer": "TRAY"
+      },
+      {
+        "clue": "Mix ingredients in this",
+        "answer": "BOWL"
+      },
+      {
+        "clue": "Grate cheese with this",
+        "answer": "GRATER"
+      },
+      {
+        "clue": "Peel potatoes with this",
+        "answer": "PEELER"
+      },
+      {
+        "clue": "Open cans with this",
+        "answer": "OPENER"
+      },
+      {
+        "clue": "Toast bread in this",
+        "answer": "TOASTER"
+      },
+      {
+        "clue": "Blend fruits in this",
+        "answer": "BLENDER"
+      },
+      {
+        "clue": "Mix cake batter with this",
+        "answer": "MIXER"
+      },
+      {
+        "clue": "Cook food in the oven in this",
+        "answer": "ROASTER"
+      },
+      {
+        "clue": "Boil water in this",
+        "answer": "KETTLE"
+      },
+      {
+        "clue": "Make coffee in this",
+        "answer": "COFFEEPOT"
+      },
+      {
+        "clue": "Store leftovers in this",
+        "answer": "CONTAINER"
+      },
+      {
+        "clue": "Pack lunch in this",
+        "answer": "LUNCHBOX"
+      },
+      {
+        "clue": "Carry groceries in these",
+        "answer": "BAGS"
+      },
+      {
+        "clue": "Wipe counters with this",
+        "answer": "SPONGE"
+      },
+      {
+        "clue": "Dry dishes with this",
+        "answer": "TOWEL"
+      },
+      {
+        "clue": "Keep food cold in this",
+        "answer": "FRIDGE"
+      },
+      {
+        "clue": "Freeze food in this",
+        "answer": "FREEZER"
+      },
+      {
+        "clue": "Cook food fast with waves",
+        "answer": "MICROWAVE"
+      },
+      {
+        "clue": "Big box for baking",
+        "answer": "OVEN"
+      },
+      {
+        "clue": "Top of the oven for cooking",
+        "answer": "STOVE"
+      },
+      {
+        "clue": "Flat cooking surface",
+        "answer": "GRILL"
+      },
+      {
+        "clue": "Wear this to protect clothes",
+        "answer": "APRON"
+      },
+      {
+        "clue": "Keeps hands safe from heat",
+        "answer": "MITT"
+      },
+      {
+        "clue": "Stir soup with this",
+        "answer": "LADLE"
+      },
+      {
+        "clue": "Flip pancakes with this",
+        "answer": "SPATULA"
+      },
+      {
+        "clue": "Roll dough with this",
+        "answer": "ROLLER"
+      },
+      {
+        "clue": "Cut pizza with this",
+        "answer": "CUTTER"
+      },
+      {
+        "clue": "Whisk eggs with this",
+        "answer": "WHISK"
+      },
+      {
+        "clue": "Drain pasta with this",
+        "answer": "COLANDER"
+      },
+      {
+        "clue": "Measure ingredients with this",
+        "answer": "SCALE"
+      },
+      {
+        "clue": "Time your cooking with this",
+        "answer": "TIMER"
+      },
+      {
+        "clue": "Keep drinks cold in this",
+        "answer": "COOLER"
+      },
+      {
+        "clue": "Serve food on this",
+        "answer": "PLATE"
+      },
+      {
+        "clue": "Drink coffee from this",
+        "answer": "MUG"
+      },
+      {
+        "clue": "Store spices in this",
+        "answer": "JAR"
+      },
+      {
+        "clue": "Pour dressing from this",
+        "answer": "BOTTLE"
+      },
+      {
+        "clue": "Squeeze lemons with this",
+        "answer": "SQUEEZER"
+      },
+      {
+        "clue": "Hang utensils on this",
+        "answer": "RACK"
+      },
+      {
+        "clue": "Drain vegetables in this",
+        "answer": "STRAINER"
+      },
+      {
+        "clue": "Mash potatoes with this",
+        "answer": "MASHER"
+      },
+      {
+        "clue": "Press garlic with this",
+        "answer": "PRESS"
+      },
+      {
+        "clue": "Scoop ice cream with this",
+        "answer": "SCOOPER"
+      },
+      {
+        "clue": "Keep bugs away from food",
+        "answer": "NET"
+      },
+      {
+        "clue": "Store dry food in this",
+        "answer": "CANISTER"
+      },
+      {
+        "clue": "Hold paper towels on this",
+        "answer": "HOLDER"
+      },
+      {
+        "clue": "Hold knives on this",
+        "answer": "BLOCK"
+      },
+      {
+        "clue": "Table surface for food prep",
+        "answer": "COUNTER"
+      },
+      {
+        "clue": "Wash dishes in this",
+        "answer": "SINK"
+      },
+      {
+        "clue": "Machine that washes dishes",
+        "answer": "DISHWASHER"
+      },
+      {
+        "clue": "Sharp tool for slicing bread",
+        "answer": "SLICER"
+      },
+      {
+        "clue": "Holds napkins on the table",
+        "answer": "NAPKIN"
+      }
+    ],
+    "furniture": [
+      {
+        "clue": "You sleep on this",
+        "answer": "BED"
+      },
+      {
+        "clue": "You sit on this with a back",
+        "answer": "CHAIR"
+      },
+      {
+        "clue": "You eat meals on this",
+        "answer": "TABLE"
+      },
+      {
+        "clue": "You store clothes in this",
+        "answer": "CLOSET"
+      },
+      {
+        "clue": "You sit on this with cushions",
+        "answer": "SOFA"
+      },
+      {
+        "clue": "You put books on this",
+        "answer": "SHELF"
+      },
+      {
+        "clue": "You keep dishes in this",
+        "answer": "CUPBOARD"
+      },
+      {
+        "clue": "You store clothes folded in this",
+        "answer": "DRAWER"
+      },
+      {
+        "clue": "You lay on this on the floor",
+        "answer": "RUG"
+      },
+      {
+        "clue": "You sit on in the living room",
+        "answer": "COUCH"
+      },
+      {
+        "clue": "You hang clothes in this",
+        "answer": "WARDROBE"
+      },
+      {
+        "clue": "You prop your feet on this",
+        "answer": "OTTOMAN"
+      },
+      {
+        "clue": "You rock in this on the porch",
+        "answer": "ROCKER"
+      },
+      {
+        "clue": "You lean back in this",
+        "answer": "RECLINER"
+      },
+      {
+        "clue": "You hang a mirror on this",
+        "answer": "DRESSER"
+      },
+      {
+        "clue": "You store blankets in this",
+        "answer": "CHEST"
+      },
+      {
+        "clue": "You put a TV on this",
+        "answer": "STAND"
+      },
+      {
+        "clue": "You sit on a tall one at a counter",
+        "answer": "STOOL"
+      },
+      {
+        "clue": "You put flowers in this",
+        "answer": "VASE"
+      },
+      {
+        "clue": "You put a clock on this",
+        "answer": "MANTEL"
+      },
+      {
+        "clue": "You put a mattress on this",
+        "answer": "FRAME"
+      },
+      {
+        "clue": "You hang a picture on this",
+        "answer": "HOOK"
+      },
+      {
+        "clue": "You sit on to put on shoes",
+        "answer": "BENCH"
+      },
+      {
+        "clue": "Bedside table for a lamp",
+        "answer": "NIGHTSTAND"
+      },
+      {
+        "clue": "You lock your valuables in this",
+        "answer": "SAFE"
+      },
+      {
+        "clue": "You keep blankets in this trunk",
+        "answer": "TRUNK"
+      },
+      {
+        "clue": "Overhead surface of a room",
+        "answer": "CEILING"
+      },
+      {
+        "clue": "You open to let in light",
+        "answer": "WINDOW"
+      },
+      {
+        "clue": "You walk through this",
+        "answer": "DOOR"
+      },
+      {
+        "clue": "You cover the floor with this",
+        "answer": "CARPET"
+      },
+      {
+        "clue": "Fireplace area",
+        "answer": "HEARTH"
+      },
+      {
+        "clue": "You store toys in this",
+        "answer": "BOX"
+      },
+      {
+        "clue": "Underground room for wine",
+        "answer": "CELLAR"
+      },
+      {
+        "clue": "Food storage room",
+        "answer": "PANTRY"
+      },
+      {
+        "clue": "You put keys in this by the door",
+        "answer": "DISH"
+      },
+      {
+        "clue": "You put a doormat on this",
+        "answer": "FLOOR"
+      },
+      {
+        "clue": "You hang a fan from this",
+        "answer": "FAN"
+      },
+      {
+        "clue": "Vertical surface of a room",
+        "answer": "WALL"
+      },
+      {
+        "clue": "You put your feet on this rest",
+        "answer": "FOOTREST"
+      },
+      {
+        "clue": "You put a laptop on this desk",
+        "answer": "LAPDESK"
+      },
+      {
+        "clue": "You keep jewelry in this box",
+        "answer": "COFFER"
+      },
+      {
+        "clue": "You keep important papers in this",
+        "answer": "FILE"
+      },
+      {
+        "clue": "Hanging light fixture",
+        "answer": "LAMP"
+      }
+    ],
+    "tools": [
+      {
+        "clue": "Hit nails with this",
+        "answer": "HAMMER"
+      },
+      {
+        "clue": "Turn screws with this",
+        "answer": "SCREWDRIVER"
+      },
+      {
+        "clue": "Cut wood with this",
+        "answer": "SAW"
+      },
+      {
+        "clue": "Measure length with this",
+        "answer": "RULER"
+      },
+      {
+        "clue": "Tighten bolts with this",
+        "answer": "WRENCH"
+      },
+      {
+        "clue": "Drill holes with this",
+        "answer": "DRILL"
+      },
+      {
+        "clue": "Sand surfaces smooth with this",
+        "answer": "SANDER"
+      },
+      {
+        "clue": "Check if surface is flat",
+        "answer": "LEVEL"
+      },
+      {
+        "clue": "Clamp wood together with this",
+        "answer": "CLAMP"
+      },
+      {
+        "clue": "Cut wires with this",
+        "answer": "PLIERS"
+      },
+      {
+        "clue": "Measure angles with this",
+        "answer": "PROTRACTOR"
+      },
+      {
+        "clue": "Draw circles with this",
+        "answer": "COMPASS"
+      },
+      {
+        "clue": "Cut paper with this",
+        "answer": "SCISSORS"
+      },
+      {
+        "clue": "Glue things together",
+        "answer": "ADHESIVE"
+      },
+      {
+        "clue": "Stick things with this",
+        "answer": "TAPE"
+      },
+      {
+        "clue": "Punch holes in paper",
+        "answer": "PUNCH"
+      },
+      {
+        "clue": "Light a fire with this",
+        "answer": "LIGHTER"
+      },
+      {
+        "clue": "Cut grass with this",
+        "answer": "MOWER"
+      },
+      {
+        "clue": "Rake leaves with this",
+        "answer": "RAKE"
+      },
+      {
+        "clue": "Shovel snow with this",
+        "answer": "SHOVEL"
+      },
+      {
+        "clue": "Chop wood with this",
+        "answer": "AXE"
+      },
+      {
+        "clue": "Weed the garden with this",
+        "answer": "HOE"
+      },
+      {
+        "clue": "Water plants with this",
+        "answer": "HOSE"
+      },
+      {
+        "clue": "Climb up high with this",
+        "answer": "LADDER"
+      },
+      {
+        "clue": "Blow leaves with this",
+        "answer": "BLOWER"
+      },
+      {
+        "clue": "Trim bushes with this",
+        "answer": "SHEARS"
+      },
+      {
+        "clue": "Dig holes with this",
+        "answer": "SPADE"
+      },
+      {
+        "clue": "Carve wood with this",
+        "answer": "CHISEL"
+      },
+      {
+        "clue": "Smooth wood with a plane",
+        "answer": "PLANE"
+      },
+      {
+        "clue": "Sharpen knives on this",
+        "answer": "STONE"
+      },
+      {
+        "clue": "Test electrical current",
+        "answer": "METER"
+      },
+      {
+        "clue": "Join metals with this",
+        "answer": "WELDER"
+      },
+      {
+        "clue": "Grind metal with this",
+        "answer": "GRINDER"
+      },
+      {
+        "clue": "Spray paint with this",
+        "answer": "SPRAYER"
+      },
+      {
+        "clue": "Fill gaps with this",
+        "answer": "CAULK"
+      },
+      {
+        "clue": "Mix paint with this stick",
+        "answer": "STIR"
+      },
+      {
+        "clue": "Lift heavy objects",
+        "answer": "CRANE"
+      },
+      {
+        "clue": "Move dirt with this",
+        "answer": "TRACTOR"
+      },
+      {
+        "clue": "Break concrete with this",
+        "answer": "JACKHAMMER"
+      },
+      {
+        "clue": "Pry open boxes with this",
+        "answer": "CROWBAR"
+      },
+      {
+        "clue": "Cut metal with this",
+        "answer": "HACKSAW"
+      },
+      {
+        "clue": "Polish metal with a buffer",
+        "answer": "BUFFER"
+      },
+      {
+        "clue": "Test battery with a tester",
+        "answer": "TESTER"
+      },
+      {
+        "clue": "Hold pipe while cutting",
+        "answer": "VISE"
+      },
+      {
+        "clue": "Turn nuts with a socket",
+        "answer": "SOCKET"
+      },
+      {
+        "clue": "Remove broken screws",
+        "answer": "EXTRACTOR"
+      },
+      {
+        "clue": "Magnifying lens",
+        "answer": "MAGNIFIER"
+      },
+      {
+        "clue": "Cut glass with this",
+        "answer": "GLASSCUTTER"
+      },
+      {
+        "clue": "Paint small areas with a brush",
+        "answer": "PAINTBRUSH"
+      }
+    ],
+    "materials": [
+      {
+        "clue": "Build houses with this hard block",
+        "answer": "BRICK"
+      },
+      {
+        "clue": "Build walls with this gray mix",
+        "answer": "CONCRETE"
+      },
+      {
+        "clue": "Windows are made of this clear material",
+        "answer": "GLASS"
+      },
+      {
+        "clue": "Floors are often made of this",
+        "answer": "WOOD"
+      },
+      {
+        "clue": "Pipes are made of this reddish metal",
+        "answer": "COPPER"
+      },
+      {
+        "clue": "Soda cans are made of this",
+        "answer": "ALUMINUM"
+      },
+      {
+        "clue": "T-shirts are made of this soft fiber",
+        "answer": "COTTON"
+      },
+      {
+        "clue": "Wool comes from this fluffy animal",
+        "answer": "SHEEP"
+      },
+      {
+        "clue": "Silk comes from a silkworm",
+        "answer": "SILKWORM"
+      },
+      {
+        "clue": "Leather comes from animal skin",
+        "answer": "HIDE"
+      },
+      {
+        "clue": "Plastic is made from petroleum",
+        "answer": "PETROLEUM"
+      },
+      {
+        "clue": "Paper is made from wood pulp",
+        "answer": "PULP"
+      },
+      {
+        "clue": "Tires are made from this bouncy material",
+        "answer": "RUBBER"
+      },
+      {
+        "clue": "Bags are made from this woven material",
+        "answer": "CLOTH"
+      },
+      {
+        "clue": "Ropes are made from strong fibers",
+        "answer": "FIBER"
+      },
+      {
+        "clue": "Bones contain this mineral",
+        "answer": "CALCIUM"
+      },
+      {
+        "clue": "Pencils contain this slippery mineral",
+        "answer": "GRAPHITE"
+      },
+      {
+        "clue": "Chalk is made from this soft rock",
+        "answer": "LIMESTONE"
+      },
+      {
+        "clue": "Crayons are made from this",
+        "answer": "WAX"
+      },
+      {
+        "clue": "Glue is made from gelatin",
+        "answer": "GELATIN"
+      },
+      {
+        "clue": "Soap is made from animal fat",
+        "answer": "FAT"
+      },
+      {
+        "clue": "Ink is made from dye",
+        "answer": "DYE"
+      },
+      {
+        "clue": "Glass is made from melted sand",
+        "answer": "SAND"
+      },
+      {
+        "clue": "Steel is made from iron ore",
+        "answer": "ORE"
+      },
+      {
+        "clue": "Roofs are covered with this flat material",
+        "answer": "TILE"
+      },
+      {
+        "clue": "Sidewalks are made of this",
+        "answer": "CEMENT"
+      },
+      {
+        "clue": "Roads are paved with this black material",
+        "answer": "ASPHALT"
+      },
+      {
+        "clue": "Bowls are made of this moldable material",
+        "answer": "CLAY"
+      },
+      {
+        "clue": "Furniture is padded with this soft material",
+        "answer": "FOAM"
+      },
+      {
+        "clue": "Pillows are filled with soft feathers",
+        "answer": "FEATHER"
+      },
+      {
+        "clue": "Mattresses have metal coils",
+        "answer": "SPRING"
+      },
+      {
+        "clue": "Shoes are made of this animal skin",
+        "answer": "LEATHER"
+      },
+      {
+        "clue": "Buttons are often made of this",
+        "answer": "PLASTIC"
+      },
+      {
+        "clue": "Frying pans have a non-stick coating",
+        "answer": "NONSTICK"
+      },
+      {
+        "clue": "Baking pans are made of this metal",
+        "answer": "TIN"
+      },
+      {
+        "clue": "Batteries contain this metal",
+        "answer": "ZINC"
+      },
+      {
+        "clue": "Light bulbs have a thin filament",
+        "answer": "FILAMENT"
+      },
+      {
+        "clue": "Guitar strings are made of this",
+        "answer": "NYLON"
+      },
+      {
+        "clue": "Raincoats are made of this waterproof material",
+        "answer": "VINYL"
+      },
+      {
+        "clue": "Sneakers are made of this heavy cloth",
+        "answer": "CANVAS"
+      },
+      {
+        "clue": "Flags are made of this synthetic fiber",
+        "answer": "POLYESTER"
+      },
+      {
+        "clue": "Fine china is made of this",
+        "answer": "PORCELAIN"
+      },
+      {
+        "clue": "Stainless steel resists rust",
+        "answer": "STAINLESS"
+      },
+      {
+        "clue": "Fiberglass is used for insulation",
+        "answer": "FIBERGLASS"
+      },
+      {
+        "clue": "Baskets are woven from this vine",
+        "answer": "RATTAN"
+      },
+      {
+        "clue": "Cardboard is thick paper",
+        "answer": "CARDBOARD"
+      },
+      {
+        "clue": "Cork comes from tree bark",
+        "answer": "CORK"
+      }
+    ],
+    "family": [
+      {
+        "clue": "Your male parent",
+        "answer": "FATHER"
+      },
+      {
+        "clue": "Your female parent",
+        "answer": "MOTHER"
+      },
+      {
+        "clue": "Your male sibling",
+        "answer": "BROTHER"
+      },
+      {
+        "clue": "Your female sibling",
+        "answer": "SISTER"
+      },
+      {
+        "clue": "Your father's father",
+        "answer": "GRANDFATHER"
+      },
+      {
+        "clue": "Your father's mother",
+        "answer": "GRANDMOTHER"
+      },
+      {
+        "clue": "Your sister's son",
+        "answer": "NEPHEW"
+      },
+      {
+        "clue": "Your brother's daughter",
+        "answer": "NIECE"
+      },
+      {
+        "clue": "Your mother's sister",
+        "answer": "AUNT"
+      },
+      {
+        "clue": "Your father's brother",
+        "answer": "UNCLE"
+      },
+      {
+        "clue": "Your aunt's child",
+        "answer": "COUSIN"
+      },
+      {
+        "clue": "Your mother's new husband",
+        "answer": "STEPFATHER"
+      },
+      {
+        "clue": "Your father's new wife",
+        "answer": "STEPMOTHER"
+      },
+      {
+        "clue": "Your brother from a different parent",
+        "answer": "STEPBROTHER"
+      },
+      {
+        "clue": "The person you marry",
+        "answer": "SPOUSE"
+      },
+      {
+        "clue": "A man on his wedding day",
+        "answer": "GROOM"
+      },
+      {
+        "clue": "A woman on her wedding day",
+        "answer": "BRIDE"
+      },
+      {
+        "clue": "Your son's son",
+        "answer": "GRANDSON"
+      },
+      {
+        "clue": "Your daughter's daughter",
+        "answer": "GRANDDAUGHTER"
+      },
+      {
+        "clue": "A child with no siblings",
+        "answer": "ONLY"
+      },
+      {
+        "clue": "Brother or sister",
+        "answer": "SIBLING"
+      },
+      {
+        "clue": "Your child's child",
+        "answer": "GRANDCHILD"
+      },
+      {
+        "clue": "Two children born at the same time",
+        "answer": "TWIN"
+      },
+      {
+        "clue": "Three children born at once",
+        "answer": "TRIPLET"
+      },
+      {
+        "clue": "Family name passed down",
+        "answer": "SURNAME"
+      },
+      {
+        "clue": "Your first given name",
+        "answer": "GIVEN"
+      },
+      {
+        "clue": "A family group",
+        "answer": "CLAN"
+      },
+      {
+        "clue": "Parents and their children",
+        "answer": "NUCLEAR"
+      },
+      {
+        "clue": "Extended family includes everyone",
+        "answer": "EXTENDED"
+      },
+      {
+        "clue": "Family member from long ago",
+        "answer": "ANCESTOR"
+      },
+      {
+        "clue": "Future family generations",
+        "answer": "DESCENDANT"
+      },
+      {
+        "clue": "Legally related but not by blood",
+        "answer": "ADOPTED"
+      },
+      {
+        "clue": "Become part of a family by law",
+        "answer": "ADOPT"
+      },
+      {
+        "clue": "Temporary care for a child",
+        "answer": "FOSTER"
+      },
+      {
+        "clue": "Pair of married people",
+        "answer": "COUPLE"
+      },
+      {
+        "clue": "Date you were born",
+        "answer": "BIRTHDAY"
+      },
+      {
+        "clue": "Celebration of a marriage",
+        "answer": "WEDDING"
+      },
+      {
+        "clue": "Years you have been married",
+        "answer": "ANNIVERSARY"
+      },
+      {
+        "clue": "Group of people related by blood",
+        "answer": "FAMILY"
+      },
+      {
+        "clue": "Your spouse's mother",
+        "answer": "MOTHERINLAW"
+      },
+      {
+        "clue": "Your spouse's father",
+        "answer": "FATHERINLAW"
+      },
+      {
+        "clue": "Your sister's husband",
+        "answer": "BROTHERINLAW"
+      },
+      {
+        "clue": "Your brother's wife",
+        "answer": "SISTERINLAW"
+      },
+      {
+        "clue": "Your child's spouse",
+        "answer": "CHILDINLAW"
+      },
+      {
+        "clue": "Newborn baby",
+        "answer": "INFANT"
+      },
+      {
+        "clue": "Teenager 13-19 years old",
+        "answer": "TEENAGER"
+      },
+      {
+        "clue": "Person who lives next door",
+        "answer": "NEIGHBOR"
+      },
+      {
+        "clue": "Family tree diagram",
+        "answer": "PEDIGREE"
+      },
+      {
+        "clue": "Mother's side of the family",
+        "answer": "MATERNAL"
+      },
+      {
+        "clue": "Father's side of the family",
+        "answer": "PATERNAL"
+      },
+      {
+        "clue": "Line of family descent",
+        "answer": "LINEAGE"
+      },
+      {
+        "clue": "Child whose parents have died",
+        "answer": "ORPHAN"
+      },
+      {
+        "clue": "Protector of a child",
+        "answer": "GUARDIAN"
+      },
+      {
+        "clue": "Written family history",
+        "answer": "GENEALOGY"
+      },
+      {
+        "clue": "Quality passed down in families",
+        "answer": "TRAIT"
+      }
+    ],
+    "buildings": [
+      {
+        "clue": "Place where you live",
+        "answer": "HOUSE"
+      },
+      {
+        "clue": "Tall building in a city",
+        "answer": "SKYSCRAPER"
+      },
+      {
+        "clue": "Place where sick people go",
+        "answer": "HOSPITAL"
+      },
+      {
+        "clue": "Place where you watch movies",
+        "answer": "THEATER"
+      },
+      {
+        "clue": "Place where athletes play",
+        "answer": "STADIUM"
+      },
+      {
+        "clue": "Place where you buy food",
+        "answer": "GROCERY"
+      },
+      {
+        "clue": "Place where you buy medicine",
+        "answer": "PHARMACY"
+      },
+      {
+        "clue": "Place where you mail letters",
+        "answer": "POSTOFFICE"
+      },
+      {
+        "clue": "Place where birds are kept",
+        "answer": "AVIARY"
+      },
+      {
+        "clue": "Place where fish are kept",
+        "answer": "AQUARIUM"
+      },
+      {
+        "clue": "Place where animals are kept",
+        "answer": "ZOO"
+      },
+      {
+        "clue": "Place where you park your car",
+        "answer": "GARAGE"
+      },
+      {
+        "clue": "Place where you cook meals",
+        "answer": "KITCHEN"
+      },
+      {
+        "clue": "Place where you eat meals",
+        "answer": "DINING"
+      },
+      {
+        "clue": "Place where you sleep",
+        "answer": "BEDROOM"
+      },
+      {
+        "clue": "Place where you take a bath",
+        "answer": "BATHROOM"
+      },
+      {
+        "clue": "Room where you watch TV",
+        "answer": "LIVING"
+      },
+      {
+        "clue": "Room where you work at home",
+        "answer": "OFFICE"
+      },
+      {
+        "clue": "Storage space under the roof",
+        "answer": "ATTIC"
+      },
+      {
+        "clue": "Room below your house",
+        "answer": "BASEMENT"
+      },
+      {
+        "clue": "Place where Christians pray",
+        "answer": "CHURCH"
+      },
+      {
+        "clue": "Place where Muslims pray",
+        "answer": "MOSQUE"
+      },
+      {
+        "clue": "Place where Jews pray",
+        "answer": "SYNAGOGUE"
+      },
+      {
+        "clue": "Place where kings and queens live",
+        "answer": "PALACE"
+      },
+      {
+        "clue": "Place where prisoners stay",
+        "answer": "JAIL"
+      },
+      {
+        "clue": "Place where firefighters work",
+        "answer": "FIREHOUSE"
+      },
+      {
+        "clue": "Place where police work",
+        "answer": "PRECINCT"
+      },
+      {
+        "clue": "Place where the mayor works",
+        "answer": "TOWNHALL"
+      },
+      {
+        "clue": "Place where a king rules",
+        "answer": "CASTLE"
+      },
+      {
+        "clue": "Place where buses arrive",
+        "answer": "TERMINAL"
+      },
+      {
+        "clue": "Place where airplanes land",
+        "answer": "AIRPORT"
+      },
+      {
+        "clue": "Place where ships dock",
+        "answer": "PORT"
+      },
+      {
+        "clue": "Place where boats park",
+        "answer": "MARINA"
+      },
+      {
+        "clue": "Place where you shop",
+        "answer": "MALL"
+      },
+      {
+        "clue": "Place where you eat out",
+        "answer": "RESTAURANT"
+      },
+      {
+        "clue": "Place where you get coffee",
+        "answer": "CAFE"
+      },
+      {
+        "clue": "Place where you bake bread",
+        "answer": "BAKERY"
+      },
+      {
+        "clue": "Place where you see art",
+        "answer": "MUSEUM"
+      },
+      {
+        "clue": "Place where scientists work",
+        "answer": "LABORATORY"
+      },
+      {
+        "clue": "Place where a doctor works",
+        "answer": "CLINIC"
+      },
+      {
+        "clue": "Place where you get a haircut",
+        "answer": "SALON"
+      },
+      {
+        "clue": "Place where you work out",
+        "answer": "GYM"
+      },
+      {
+        "clue": "Place where you swim",
+        "answer": "POOL"
+      },
+      {
+        "clue": "Place where a concert is held",
+        "answer": "ARENA"
+      },
+      {
+        "clue": "Place where a circus performs",
+        "answer": "BIGTOP"
+      },
+      {
+        "clue": "Place where a dog sleeps",
+        "answer": "KENNEL"
+      },
+      {
+        "clue": "Place where a horse lives",
+        "answer": "STABLE"
+      },
+      {
+        "clue": "Place where a cow lives",
+        "answer": "BARN"
+      },
+      {
+        "clue": "Place where tools are kept",
+        "answer": "SHED"
+      },
+      {
+        "clue": "Place where justice is decided",
+        "answer": "COURT"
+      },
+      {
+        "clue": "Place where a play is performed",
+        "answer": "STAGE"
+      },
+      {
+        "clue": "Place where you get ice cream",
+        "answer": "PARLOR"
+      },
+      {
+        "clue": "Place where a fair is held",
+        "answer": "FAIRGROUND"
+      }
+    ],
+    "plants": [
+      {
+        "clue": "Colorful part of a plant that makes seeds",
+        "answer": "PETAL"
+      },
+      {
+        "clue": "Small plant with a soft stem",
+        "answer": "HERB"
+      },
+      {
+        "clue": "Plant that lives for many years",
+        "answer": "PERENNIAL"
+      },
+      {
+        "clue": "Plant that lives for one season",
+        "answer": "ANNUAL"
+      },
+      {
+        "clue": "Sharp point on a rose stem",
+        "answer": "THORN"
+      },
+      {
+        "clue": "Seed container of a plant",
+        "answer": "POD"
+      },
+      {
+        "clue": "Type of plant with cones",
+        "answer": "CONIFER"
+      },
+      {
+        "clue": "Plant that grows on walls",
+        "answer": "MOSS"
+      },
+      {
+        "clue": "Plant that climbs up trellises",
+        "answer": "VINE"
+      },
+      {
+        "clue": "Dry fruit that contains seeds",
+        "answer": "NUT"
+      },
+      {
+        "clue": "Male part of a flower",
+        "answer": "STAMEN"
+      },
+      {
+        "clue": "Female part of a flower",
+        "answer": "PISTIL"
+      },
+      {
+        "clue": "Top of the pistil that catches pollen",
+        "answer": "STIGMA"
+      },
+      {
+        "clue": "Part of flower that holds the seeds",
+        "answer": "OVARY"
+      },
+      {
+        "clue": "Brightly colored garden flower",
+        "answer": "TULIP"
+      },
+      {
+        "clue": "Yellow spring flower",
+        "answer": "DAFFODIL"
+      },
+      {
+        "clue": "Fragrant white spring flower",
+        "answer": "LILY"
+      },
+      {
+        "clue": "Red flower given on Valentine's",
+        "answer": "ROSE"
+      },
+      {
+        "clue": "Sun-loving tall yellow flower",
+        "answer": "SUNFLOWER"
+      },
+      {
+        "clue": "Small blue wildflower",
+        "answer": "VIOLET"
+      },
+      {
+        "clue": "Garden tool for digging",
+        "answer": "TROWEL"
+      },
+      {
+        "clue": "Garden tool for cutting branches",
+        "answer": "PRUNER"
+      },
+      {
+        "clue": "Decayed plants used as fertilizer",
+        "answer": "COMPOST"
+      },
+      {
+        "clue": "Watering tool with a spray head",
+        "answer": "SPRINKLER"
+      },
+      {
+        "clue": "Fabric that blocks weeds",
+        "answer": "MULCH"
+      },
+      {
+        "clue": "Garden path material",
+        "answer": "GRAVEL"
+      },
+      {
+        "clue": "Fence for plants to climb",
+        "answer": "TRELLIS"
+      },
+      {
+        "clue": "Protects plants from cold",
+        "answer": "GREENHOUSE"
+      },
+      {
+        "clue": "Small bed for growing vegetables",
+        "answer": "PLOT"
+      },
+      {
+        "clue": "Water-filled garden feature",
+        "answer": "POND"
+      },
+      {
+        "clue": "Garden decoration statue",
+        "answer": "GNOME"
+      },
+      {
+        "clue": "Garden border plant",
+        "answer": "HEDGE"
+      },
+      {
+        "clue": "Vegetable that grows on a vine",
+        "answer": "SQUASH"
+      },
+      {
+        "clue": "Long green garden vegetable",
+        "answer": "CUCUMBER"
+      },
+      {
+        "clue": "Red salad vegetable",
+        "answer": "TOMATO"
+      },
+      {
+        "clue": "Leafy green vegetable",
+        "answer": "SPINACH"
+      },
+      {
+        "clue": "Crunchy green vegetable with stalks",
+        "answer": "CELERY"
+      },
+      {
+        "clue": "Purple vegetable that grows on ground",
+        "answer": "EGGPLANT"
+      },
+      {
+        "clue": "Round green vegetable from pod",
+        "answer": "PEA"
+      },
+      {
+        "clue": "Yellow vegetable on a cob",
+        "answer": "CORN"
+      },
+      {
+        "clue": "Round white vegetable",
+        "answer": "ONION"
+      },
+      {
+        "clue": "Brown vegetable that grows in dirt",
+        "answer": "POTATO"
+      },
+      {
+        "clue": "Spicy root used in cooking",
+        "answer": "GINGER"
+      },
+      {
+        "clue": "Plant used for flavoring food",
+        "answer": "BASIL"
+      },
+      {
+        "clue": "Aromatic plant used in tea",
+        "answer": "MINT"
+      },
+      {
+        "clue": "Fern plant with feathery leaves",
+        "answer": "FERN"
+      },
+      {
+        "clue": "Benches made from this material",
+        "answer": "WICKER"
+      },
+      {
+        "clue": "Fallen leaves that rot",
+        "answer": "LITTER"
+      }
+    ],
+    "emotions": [
+      {
+        "clue": "Feeling very glad",
+        "answer": "HAPPY"
+      },
+      {
+        "clue": "Feeling very sad",
+        "answer": "SAD"
+      },
+      {
+        "clue": "Feeling scared",
+        "answer": "AFRAID"
+      },
+      {
+        "clue": "Feeling angry",
+        "answer": "MAD"
+      },
+      {
+        "clue": "Feeling surprised",
+        "answer": "SHOCKED"
+      },
+      {
+        "clue": "Feeling calm and peaceful",
+        "answer": "SERENE"
+      },
+      {
+        "clue": "Feeling very tired",
+        "answer": "EXHAUSTED"
+      },
+      {
+        "clue": "Feeling excited about something",
+        "answer": "EAGER"
+      },
+      {
+        "clue": "Feeling worried about something",
+        "answer": "ANXIOUS"
+      },
+      {
+        "clue": "Feeling alone and wanting company",
+        "answer": "LONELY"
+      },
+      {
+        "clue": "Feeling thankful for something",
+        "answer": "GRATEFUL"
+      },
+      {
+        "clue": "Feeling very proud",
+        "answer": "PROUD"
+      },
+      {
+        "clue": "Feeling embarrassed",
+        "answer": "ASHAMED"
+      },
+      {
+        "clue": "Feeling sure about something",
+        "answer": "CONFIDENT"
+      },
+      {
+        "clue": "Feeling uncertain",
+        "answer": "UNSURE"
+      },
+      {
+        "clue": "Feeling let down",
+        "answer": "DISAPPOINTED"
+      },
+      {
+        "clue": "Feeling funny",
+        "answer": "AMUSED"
+      },
+      {
+        "clue": "Feeling very interested",
+        "answer": "CURIOUS"
+      },
+      {
+        "clue": "Feeling not interested at all",
+        "answer": "BORED"
+      },
+      {
+        "clue": "Feeling like you want to sleep",
+        "answer": "SLEEPY"
+      },
+      {
+        "clue": "Feeling full of energy",
+        "answer": "ENERGETIC"
+      },
+      {
+        "clue": "Feeling nervous before a test",
+        "answer": "NERVOUS"
+      },
+      {
+        "clue": "Feeling jealous of someone",
+        "answer": "JEALOUS"
+      },
+      {
+        "clue": "Feeling kind and caring",
+        "answer": "COMPASSION"
+      },
+      {
+        "clue": "Feeling strongly about a cause",
+        "answer": "PASSION"
+      },
+      {
+        "clue": "Feeling upset with yourself",
+        "answer": "GUILTY"
+      },
+      {
+        "clue": "Feeling understanding of someone",
+        "answer": "EMPATHY"
+      },
+      {
+        "clue": "Feeling impatient",
+        "answer": "IMPATIENT"
+      },
+      {
+        "clue": "Feeling able to wait",
+        "answer": "PATIENT"
+      },
+      {
+        "clue": "Feeling pessimistic",
+        "answer": "PESSIMISTIC"
+      },
+      {
+        "clue": "Feeling optimistic",
+        "answer": "OPTIMISTIC"
+      },
+      {
+        "clue": "Feeling shy around others",
+        "answer": "TIMID"
+      },
+      {
+        "clue": "Feeling brave and fearless",
+        "answer": "COURAGEOUS"
+      },
+      {
+        "clue": "Feeling apathetic",
+        "answer": "APATHETIC"
+      },
+      {
+        "clue": "Feeling deep love",
+        "answer": "AFFECTION"
+      },
+      {
+        "clue": "Feeling pleasure",
+        "answer": "DELIGHT"
+      },
+      {
+        "clue": "Feeling confused",
+        "answer": "PERPLEXED"
+      },
+      {
+        "clue": "Feeling full of hope",
+        "answer": "HOPEFUL"
+      },
+      {
+        "clue": "Feeling uneasy",
+        "answer": "UNEASY"
+      },
+      {
+        "clue": "Feeling joyful and light",
+        "answer": "CHEERFUL"
+      },
+      {
+        "clue": "Feeling sad without energy",
+        "answer": "DEPRESSED"
+      },
+      {
+        "clue": "Feeling very surprised",
+        "answer": "ASTONISHED"
+      },
+      {
+        "clue": "Feeling disgusted",
+        "answer": "DISGUSTED"
+      }
+    ],
+    "ocean": [
+      {
+        "clue": "Intelligent ocean mammal",
+        "answer": "DOLPHIN"
+      },
+      {
+        "clue": "Eight-armed ocean creature",
+        "answer": "OCTOPUS"
+      },
+      {
+        "clue": "Ocean animal with stinging tentacles",
+        "answer": "JELLYFISH"
+      },
+      {
+        "clue": "Colorful ocean fish with stripes",
+        "answer": "CLOWNFISH"
+      },
+      {
+        "clue": "Large ocean fish with sharp teeth",
+        "answer": "SHARK"
+      },
+      {
+        "clue": "Sea star with five arms",
+        "answer": "STARFISH"
+      },
+      {
+        "clue": "Ocean animal with a shell",
+        "answer": "TURTLE"
+      },
+      {
+        "clue": "Small ocean crustacean",
+        "answer": "SHRIMP"
+      },
+      {
+        "clue": "Ocean animal with pincers",
+        "answer": "CRAB"
+      },
+      {
+        "clue": "Ocean mollusk with a spiral shell",
+        "answer": "SNAIL"
+      },
+      {
+        "clue": "Ocean animal that looks like a plant",
+        "answer": "ANEMONE"
+      },
+      {
+        "clue": "Ocean mammal with tusks",
+        "answer": "WALRUS"
+      },
+      {
+        "clue": "Ocean bird that dives for fish",
+        "answer": "SEAGULL"
+      },
+      {
+        "clue": "Ocean fish that can inflate",
+        "answer": "PUFFER"
+      },
+      {
+        "clue": "Ocean animal with a hard shell",
+        "answer": "LOBSTER"
+      },
+      {
+        "clue": "Very small floating ocean plants",
+        "answer": "PLANKTON"
+      },
+      {
+        "clue": "Ocean plant that grows in forests",
+        "answer": "KELP"
+      },
+      {
+        "clue": "Ocean coral reef builder",
+        "answer": "CORAL"
+      },
+      {
+        "clue": "Ocean fish that swims in schools",
+        "answer": "TUNA"
+      },
+      {
+        "clue": "Flat round ocean fish",
+        "answer": "FLOUNDER"
+      },
+      {
+        "clue": "Ocean fish with a long body",
+        "answer": "EEL"
+      },
+      {
+        "clue": "Ocean creature that buries in sand",
+        "answer": "CLAM"
+      },
+      {
+        "clue": "Ocean creature with two shells",
+        "answer": "MUSSEL"
+      },
+      {
+        "clue": "Ocean creature that makes pearls",
+        "answer": "OYSTER"
+      },
+      {
+        "clue": "Ocean fish with hammer-shaped head",
+        "answer": "HAMMERHEAD"
+      },
+      {
+        "clue": "Ocean fish with a sword-like bill",
+        "answer": "SWORDFISH"
+      },
+      {
+        "clue": "Ocean current that warms Europe",
+        "answer": "GULF"
+      },
+      {
+        "clue": "Ocean between America and Europe",
+        "answer": "ATLANTIC"
+      },
+      {
+        "clue": "Ocean between America and Asia",
+        "answer": "PACIFIC"
+      },
+      {
+        "clue": "Ocean around India",
+        "answer": "INDIAN"
+      },
+      {
+        "clue": "Ocean around Antarctica",
+        "answer": "SOUTHERN"
+      },
+      {
+        "clue": "Ocean north of America",
+        "answer": "ARCTIC"
+      },
+      {
+        "clue": "Deep ocean trench",
+        "answer": "MARIANA"
+      },
+      {
+        "clue": "Underwater mountain chain",
+        "answer": "RIDGE"
+      },
+      {
+        "clue": "Place where a river meets the ocean",
+        "answer": "ESTUARY"
+      },
+      {
+        "clue": "Red ocean algae",
+        "answer": "ALGAE"
+      },
+      {
+        "clue": "Ocean creature with horseshoe shape",
+        "answer": "HORSESHOE"
+      },
+      {
+        "clue": "Rocky ocean feature from seafloor",
+        "answer": "SEAMOUNT"
+      },
+      {
+        "clue": "Ocean zone where sunlight reaches",
+        "answer": "SUNLIGHT"
+      }
+    ],
+    "money": [
+      {
+        "clue": "Paper money used in the US",
+        "answer": "DOLLAR"
+      },
+      {
+        "clue": "Metal coins and paper bills",
+        "answer": "CURRENCY"
+      },
+      {
+        "clue": "Coin worth 100 cents",
+        "answer": "QUARTER"
+      },
+      {
+        "clue": "Coin worth 10 cents",
+        "answer": "DIME"
+      },
+      {
+        "clue": "Coin worth 5 cents",
+        "answer": "NICKEL"
+      },
+      {
+        "clue": "Coin worth 1 cent",
+        "answer": "PENNY"
+      },
+      {
+        "clue": "Place where you keep your money",
+        "answer": "BANK"
+      },
+      {
+        "clue": "Machine that gives you cash",
+        "answer": "ATM"
+      },
+      {
+        "clue": "Card that lets you buy now and pay later",
+        "answer": "CREDIT"
+      },
+      {
+        "clue": "Card that takes money from your account",
+        "answer": "DEBIT"
+      },
+      {
+        "clue": "Money you earn from working",
+        "answer": "INCOME"
+      },
+      {
+        "clue": "Money you spend",
+        "answer": "EXPENSE"
+      },
+      {
+        "clue": "Money you save for the future",
+        "answer": "SAVINGS"
+      },
+      {
+        "clue": "Money you borrow",
+        "answer": "LOAN"
+      },
+      {
+        "clue": "Extra money you pay on a loan",
+        "answer": "INTEREST"
+      },
+      {
+        "clue": "Plan for how to spend your money",
+        "answer": "BUDGET"
+      },
+      {
+        "clue": "Money a government collects from you",
+        "answer": "TAX"
+      },
+      {
+        "clue": "A person who sells goods",
+        "answer": "VENDOR"
+      },
+      {
+        "clue": "Money a business makes after costs",
+        "answer": "PROFIT"
+      },
+      {
+        "clue": "Money a business loses",
+        "answer": "LOSS"
+      },
+      {
+        "clue": "Amount of money something costs",
+        "answer": "PRICE"
+      },
+      {
+        "clue": "Getting money back when you return something",
+        "answer": "REFUND"
+      },
+      {
+        "clue": "When prices go up over time",
+        "answer": "INFLATION"
+      },
+      {
+        "clue": "A share of ownership in a company",
+        "answer": "STOCK"
+      },
+      {
+        "clue": "A market where stocks are traded",
+        "answer": "EXCHANGE"
+      },
+      {
+        "clue": "Money paid to workers per hour",
+        "answer": "WAGE"
+      },
+      {
+        "clue": "Money paid to workers per year",
+        "answer": "SALARY"
+      },
+      {
+        "clue": "Extra money paid for good work",
+        "answer": "BONUS"
+      },
+      {
+        "clue": "Document showing what you earned",
+        "answer": "PAYSTUB"
+      },
+      {
+        "clue": "A check written to someone",
+        "answer": "CHEQUE"
+      },
+      {
+        "clue": "A piece of paper proving payment",
+        "answer": "RECEIPT"
+      },
+      {
+        "clue": "A card that stores value",
+        "answer": "GIFTCARD"
+      },
+      {
+        "clue": "A jar where you put spare change",
+        "answer": "PIGGY"
+      },
+      {
+        "clue": "Giving money to charity",
+        "answer": "DONATION"
+      },
+      {
+        "clue": "Putting money into a business",
+        "answer": "INVESTMENT"
+      },
+      {
+        "clue": "A small unit of money",
+        "answer": "CENT"
+      },
+      {
+        "clue": "British paper money unit",
+        "answer": "POUND"
+      },
+      {
+        "clue": "European money unit",
+        "answer": "EURO"
+      }
+    ],
+    "health": [
+      {
+        "clue": "Regular exercise keeps you this",
+        "answer": "HEALTHY"
+      },
+      {
+        "clue": "Fruits and vegetables are good for your health",
+        "answer": "NUTRITION"
+      },
+      {
+        "clue": "How much you weigh compared to your height",
+        "answer": "BMI"
+      },
+      {
+        "clue": "The food you eat each day",
+        "answer": "DIET"
+      },
+      {
+        "clue": "Clear liquid that your body needs",
+        "answer": "WATER"
+      },
+      {
+        "clue": "Moving your body to stay fit",
+        "answer": "EXERCISE"
+      },
+      {
+        "clue": "Sleeping helps you rest and recover",
+        "answer": "REST"
+      },
+      {
+        "clue": "Bathroom break is good for this",
+        "answer": "HYGIENE"
+      },
+      {
+        "clue": "Vaccine protects you from this",
+        "answer": "DISEASE"
+      },
+      {
+        "clue": "When your body fights an infection",
+        "answer": "FEVER"
+      },
+      {
+        "clue": "A cold causes this",
+        "answer": "COUGH"
+      },
+      {
+        "clue": "Low body temperature from cold",
+        "answer": "SHIVER"
+      },
+      {
+        "clue": "A shot that prevents illness",
+        "answer": "VACCINE"
+      },
+      {
+        "clue": "Tiny germ that causes colds",
+        "answer": "VIRUS"
+      },
+      {
+        "clue": "Medicine that kills bacteria",
+        "answer": "ANTIBIOTIC"
+      },
+      {
+        "clue": "Medicine that relieves pain",
+        "answer": "PAINKILLER"
+      },
+      {
+        "clue": "A small cut on your skin",
+        "answer": "SCRAPE"
+      },
+      {
+        "clue": "A deep cut that bleeds",
+        "answer": "WOUND"
+      },
+      {
+        "clue": "A broken bone",
+        "answer": "FRACTURE"
+      },
+      {
+        "clue": "Redness and swelling from injury",
+        "answer": "INFLAMMATION"
+      },
+      {
+        "clue": "A doctor who does surgery",
+        "answer": "SURGEON"
+      },
+      {
+        "clue": "A doctor for mental health",
+        "answer": "PSYCHOLOGIST"
+      },
+      {
+        "clue": "A special diet for allergies",
+        "answer": "GLUTEN"
+      },
+      {
+        "clue": "Trouble breathing condition",
+        "answer": "ASTHMA"
+      },
+      {
+        "clue": "Can't see well condition",
+        "answer": "MYOPIA"
+      },
+      {
+        "clue": "Can't hear well condition",
+        "answer": "HEARINGLOSS"
+      },
+      {
+        "clue": "Food allergy condition",
+        "answer": "ALLERGY"
+      },
+      {
+        "clue": "A test to check your blood",
+        "answer": "BLOODTEST"
+      },
+      {
+        "clue": "Machine that takes pictures of bones",
+        "answer": "XRAY"
+      },
+      {
+        "clue": "Machine that takes pictures of organs",
+        "answer": "ULTRASOUND"
+      },
+      {
+        "clue": "Machine that checks heart rhythm",
+        "answer": "EKG"
+      },
+      {
+        "clue": "Device that helps you breathe",
+        "answer": "INHALER"
+      },
+      {
+        "clue": "Device that helps you see",
+        "answer": "GLASSES"
+      },
+      {
+        "clue": "Device that helps you hear",
+        "answer": "HEARINGAID"
+      },
+      {
+        "clue": "Bandage that sticks to skin",
+        "answer": "BANDAID"
+      },
+      {
+        "clue": "Cloth used to stop bleeding",
+        "answer": "GAUZE"
+      },
+      {
+        "clue": "Liquid used to clean a wound",
+        "answer": "ANTISEPTIC"
+      },
+      {
+        "clue": "Vitamin that helps with vision",
+        "answer": "VITAMINA"
+      },
+      {
+        "clue": "Vitamin that helps with bones",
+        "answer": "VITAMIND"
+      },
+      {
+        "clue": "Vitamin that helps with immunity",
+        "answer": "VITAMINC"
+      },
+      {
+        "clue": "A mineral that helps with muscles",
+        "answer": "POTASSIUM"
+      },
+      {
+        "clue": "A protein that builds muscle",
+        "answer": "PROTEIN"
+      },
+      {
+        "clue": "A nutrient that gives you energy",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "clue": "A unit of energy in food",
+        "answer": "CALORIE"
+      }
     ]
   },
   "metadata": {
@@ -131,7 +4261,7 @@
       "max": 12
     },
     "averageWordLength": 6,
-    "createdDate": "2026-06-10",
-    "lastUpdated": "2026-06-10"
+    "createdDate": "2026-06-13",
+    "lastUpdated": "2026-06-13"
   }
 }

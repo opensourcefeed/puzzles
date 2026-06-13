@@ -4,74 +4,60 @@
   "title": "28 June 2026",
   "words": [
     {
-      "clue": "Addition result",
-      "answer": "SUM",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Subtraction result",
-      "answer": "DIFFERENCE",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Multiplication symbol",
-      "answer": "TIMES",
+      "clue": "Photo editing software",
+      "answer": "PHOTOSHOP",
       "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Division symbol",
-      "answer": "DIVIDE",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Number before ten",
-      "answer": "NINE",
-      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Half of ten",
-      "answer": "FIVE",
-      "row": 3,
-      "col": 8,
+      "clue": "November celebration of veterans",
+      "answer": "VETERANS",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Shape with four sides",
-      "answer": "SQUARE",
-      "row": 9,
+      "clue": "You hang clothes in this",
+      "answer": "WARDROBE",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Number after nine",
-      "answer": "TEN",
-      "row": 1,
-      "col": 10,
+      "clue": "Flat high area of land",
+      "answer": "PLATEAU",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Zero plus zero",
-      "answer": "ZERO",
-      "row": 11,
-      "col": 1,
+      "clue": "Start of day before noon",
+      "answer": "MORNING",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Fabric that blocks weeds",
+      "answer": "MULCH",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Island country in the Caribbean",
+      "answer": "CUBA",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Counting numbers",
-      "answer": "NUMBERS",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
+      "clue": "How much you weigh compared to your height",
+      "answer": "BMI",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 17

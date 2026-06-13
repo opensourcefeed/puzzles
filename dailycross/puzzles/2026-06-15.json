@@ -4,74 +4,74 @@
   "title": "15 June 2026",
   "words": [
     {
-      "clue": "Color of the sky",
-      "answer": "BLUE",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Color of grass",
-      "answer": "GREEN",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Round shape",
-      "answer": "CIRCLE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Color of fire",
-      "answer": "RED",
+      "clue": "Squeeze lemons with this",
+      "answer": "SQUEEZER",
       "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Three-sided shape",
-      "answer": "TRIANGLE",
-      "row": 7,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Color of sunshine",
-      "answer": "YELLOW",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Four equal sides",
-      "answer": "SQUARE",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Color of night",
-      "answer": "BLACK",
-      "row": 1,
+      "clue": "Flying vehicle with wings",
+      "answer": "AIRPLANE",
+      "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Long rectangle shape",
-      "answer": "RECTANGLE",
-      "row": 11,
-      "col": 1,
+      "clue": "Country with Helsinki",
+      "answer": "FINLAND",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Color of snow",
-      "answer": "WHITE",
-      "row": 6,
+      "clue": "Polish metal with a buffer",
+      "answer": "BUFFER",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies ocean life",
+      "answer": "MARINE",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Dry sandy area with little water",
+      "answer": "DESERT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You put a doormat on this",
+      "answer": "FLOOR",
+      "row": 4,
       "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "You put books on this",
+      "answer": "SHELF",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "You lock your valuables in this",
+      "answer": "SAFE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Sweet baked dessert",
+      "answer": "CAKE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 4

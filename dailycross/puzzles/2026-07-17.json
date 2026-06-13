@@ -4,74 +4,74 @@
   "title": "17 July 2026",
   "words": [
     {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Frozen sweet treat",
-      "answer": "ICECREAM",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Ice glide sport",
-      "answer": "SKATING",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on hands",
-      "answer": "GLOVES",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Red fruit that keeps doctor away",
-      "answer": "APPLE",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Grass color",
-      "answer": "GREEN",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Leg covering",
-      "answer": "PANTS",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Sky color",
-      "answer": "BLUE",
+      "clue": "Short-range wireless technology",
+      "answer": "BLUETOOTH",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Winter outerwear",
-      "answer": "COAT",
-      "row": 6,
+      "clue": "Studies rocks and Earth",
+      "answer": "GEOLOGIST",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Screen that shows images",
+      "answer": "MONITOR",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Tires are made from this bouncy material",
+      "answer": "RUBBER",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "What plants breathe in",
+      "answer": "CARBON",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Electric car company",
+      "answer": "TESLA",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Teacher writes on this",
+      "answer": "BOARD",
+      "row": 5,
       "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "Box shape in 3D",
+      "answer": "CUBE",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Keeps hands safe from heat",
+      "answer": "MITT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Money paid to workers per hour",
+      "answer": "WAGE",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 36

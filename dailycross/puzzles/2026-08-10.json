@@ -4,74 +4,74 @@
   "title": "10 August 2026",
   "words": [
     {
-      "clue": "Half circle",
-      "answer": "SEMICIRCLE",
-      "row": 4,
+      "clue": "Two-wheeled motor vehicle",
+      "answer": "MOTORCYCLE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
+      "clue": "Game with hoop and net",
+      "answer": "BASKETBALL",
       "row": 3,
-      "col": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Worn on hands",
-      "answer": "GLOVES",
-      "row": 3,
-      "col": 8,
+      "clue": "Builds with wood",
+      "answer": "CARPENTER",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Ball shape",
-      "answer": "SPHERE",
-      "row": 7,
+      "clue": "September celebration of workers",
+      "answer": "LABORDAY",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Takes care of teeth",
+      "answer": "DENTIST",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "First month of the year",
+      "answer": "JANUARY",
+      "row": 10,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Four equal sides",
-      "answer": "SQUARE",
+      "clue": "Ocean animal with a shell",
+      "answer": "TURTLE",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant used for flavoring food",
+      "answer": "BASIL",
       "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on feet",
-      "answer": "SOCKS",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit at this",
-      "answer": "DESK",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Twelve months",
-      "answer": "YEAR",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on head",
-      "answer": "HAT",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Blood color",
-      "answer": "RED",
-      "row": 7,
       "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Guitar strings are made of this",
+      "answer": "NYLON",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Soap is made from animal fat",
+      "answer": "FAT",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 60

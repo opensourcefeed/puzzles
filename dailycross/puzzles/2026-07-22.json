@@ -4,73 +4,66 @@
   "title": "22 July 2026",
   "words": [
     {
-      "clue": "Today is this",
-      "answer": "PRESENT",
-      "row": 3,
+      "clue": "December 25 celebration",
+      "answer": "CHRISTMAS",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ball shape",
-      "answer": "SPHERE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Green vegetable rabbits love",
-      "answer": "CARROT",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet baked dessert",
-      "answer": "CAKE",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Falls from clouds",
-      "answer": "RAIN",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Foot end parts",
-      "answer": "TOES",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Water vessel",
-      "answer": "BOAT",
+      "clue": "Place where sick people go",
+      "answer": "HOSPITAL",
       "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Country of the Sahara Desert",
+      "answer": "MOROCCO",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Bright sky object at night",
-      "answer": "STAR",
+      "clue": "Place where you see art",
+      "answer": "MUSEUM",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Boil water in this",
+      "answer": "KETTLE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Underground room for wine",
+      "answer": "CELLAR",
       "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Farm animal that gives milk",
-      "answer": "COW",
-      "row": 5,
-      "col": 0,
+      "clue": "Peel potatoes with this",
+      "answer": "PEELER",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Speed of music",
+      "answer": "TEMPO",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A pet that says meow",
-      "answer": "CAT",
+      "clue": "Drill holes with this",
+      "answer": "DRILL",
       "row": 5,
-      "col": 8,
+      "col": 11,
       "direction": "down"
     }
   ],

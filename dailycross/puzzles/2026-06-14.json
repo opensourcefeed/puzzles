@@ -4,73 +4,66 @@
   "title": "14 June 2026",
   "words": [
     {
-      "clue": "Water falling from sky",
-      "answer": "RAIN",
-      "row": 0,
+      "clue": "Your child's child",
+      "answer": "GRANDCHILD",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Frozen rain",
-      "answer": "SNOW",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Very windy storm",
-      "answer": "HURRICANE",
-      "row": 4,
+      "clue": "Country of kangaroos",
+      "answer": "AUSTRALIA",
+      "row": 1,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Hot season",
-      "answer": "SUMMER",
+      "clue": "Person who travels to space",
+      "answer": "ASTRONAUT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to honor teachers",
+      "answer": "TEACHERS",
       "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Cold season with snow",
-      "answer": "WINTER",
-      "row": 7,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Bright ball in sky",
-      "answer": "SUN",
-      "row": 3,
-      "col": 8,
+      "clue": "Feeling pleasure",
+      "answer": "DELIGHT",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "White fluffy things in sky",
-      "answer": "CLOUDS",
+      "clue": "Eight-sided shape",
+      "answer": "OCTAGON",
       "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Climb up high with this",
+      "answer": "LADDER",
+      "row": 0,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Season when leaves fall",
-      "answer": "FALL",
-      "row": 1,
-      "col": 10,
+      "clue": "Place where a doctor works",
+      "answer": "CLINIC",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Season when flowers bloom",
-      "answer": "SPRING",
-      "row": 11,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Lightning causes this sound",
-      "answer": "THUNDER",
-      "row": 6,
-      "col": 7,
+      "clue": "Coin worth 5 cents",
+      "answer": "NICKEL",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     }
   ],

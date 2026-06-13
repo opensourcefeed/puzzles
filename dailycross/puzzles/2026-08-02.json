@@ -4,60 +4,74 @@
   "title": "2 August 2026",
   "words": [
     {
-      "clue": "Half circle",
-      "answer": "SEMICIRCLE",
-      "row": 1,
-      "col": 0,
+      "clue": "Feeling full of energy",
+      "answer": "ENERGETIC",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 1,
+      "clue": "You type on this",
+      "answer": "KEYBOARD",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where fish are kept",
+      "answer": "AQUARIUM",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Flower powder",
-      "answer": "POLLEN",
-      "row": 3,
+      "clue": "Tiny air sacs in the lungs",
+      "answer": "ALVEOLI",
+      "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Ball shape",
-      "answer": "SPHERE",
-      "row": 1,
-      "col": 0,
+      "clue": "Country with Dublin",
+      "answer": "IRELAND",
+      "row": 2,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 6,
-      "col": 3,
+      "clue": "Your female parent",
+      "answer": "MOTHER",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "You hear with these",
-      "answer": "EARS",
-      "row": 3,
-      "col": 10,
+      "clue": "Place where a concert is held",
+      "answer": "ARENA",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Smart speaker from Google",
+      "answer": "NEST",
+      "row": 7,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
+      "clue": "A pet that says meow",
+      "answer": "CAT",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Baseball hitter's tool",
+      "answer": "BAT",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 52

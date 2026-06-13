@@ -4,74 +4,74 @@
   "title": "30 June 2026",
   "words": [
     {
-      "clue": "Climb this high place",
-      "answer": "MOUNTAIN",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Walk through forest",
-      "answer": "HIKING",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Travel by sea",
-      "answer": "SAILING",
+      "clue": "Small country in Europe",
+      "answer": "LUXEMBOURG",
       "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Find new places",
-      "answer": "EXPLORE",
+      "clue": "Animal that sleeps all winter",
+      "answer": "HIBERNATE",
       "row": 2,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sleep outside",
-      "answer": "CAMPING",
-      "row": 7,
-      "col": 0,
+      "clue": "You lean back in this",
+      "answer": "RECLINER",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Use this to find way",
-      "answer": "MAP",
-      "row": 3,
+      "clue": "Hold paper towels on this",
+      "answer": "HOLDER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Carve wood with this",
+      "answer": "CHISEL",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Extra money paid for good work",
+      "answer": "BONUS",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Horse-drawn carriage",
+      "answer": "WAGON",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Group of singers together",
+      "answer": "CHOIR",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Carry your things",
-      "answer": "BACKPACK",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Look far away",
-      "answer": "BINOCULARS",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Sleep in tent",
-      "answer": "CAMP",
-      "row": 11,
+      "clue": "Money you borrow",
+      "answer": "LOAN",
+      "row": 4,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Go on journey",
-      "answer": "TRAVEL",
+      "clue": "Cut wood with this",
+      "answer": "SAW",
       "row": 6,
-      "col": 7,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 19

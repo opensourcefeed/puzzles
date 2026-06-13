@@ -4,73 +4,66 @@
   "title": "25 June 2026",
   "words": [
     {
-      "clue": "You type on this",
-      "answer": "KEYBOARD",
-      "row": 0,
+      "clue": "Computer virus protection",
+      "answer": "ANTIVIRUS",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Shows pictures",
-      "answer": "SCREEN",
-      "row": 0,
-      "col": 0,
+      "clue": "Teenager 13-19 years old",
+      "answer": "TEENAGER",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Clicks with hand",
-      "answer": "MOUSE",
-      "row": 4,
+      "clue": "Memorial Day remembers soldiers",
+      "answer": "MEMORIAL",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Stores information",
-      "answer": "MEMORY",
+      "clue": "Long and skinny oval",
+      "answer": "ELLIPSE",
       "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Sends emails",
-      "answer": "INTERNET",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Small computer chip",
-      "answer": "CPU",
-      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Portable computer",
-      "answer": "LAPTOP",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Connects to network",
-      "answer": "WIFI",
-      "row": 1,
-      "col": 10,
+      "clue": "Keep drinks cold in this",
+      "answer": "COOLER",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Takes photos",
-      "answer": "CAMERA",
-      "row": 11,
-      "col": 1,
+      "clue": "You store blankets in this",
+      "answer": "CHEST",
+      "row": 7,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Makes calls",
-      "answer": "PHONE",
-      "row": 6,
+      "clue": "Country of the Leaning Tower",
+      "answer": "PISA",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Roofs are covered with this flat material",
+      "answer": "TILE",
+      "row": 5,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Fry eggs in this",
+      "answer": "PAN",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     }
   ],

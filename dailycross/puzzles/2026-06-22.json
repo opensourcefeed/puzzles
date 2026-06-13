@@ -4,74 +4,60 @@
   "title": "22 June 2026",
   "words": [
     {
-      "clue": "Has black and white keys",
-      "answer": "PIANO",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You strum this",
-      "answer": "GUITAR",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "You hit with sticks",
-      "answer": "DRUMS",
+      "clue": "Moving your body to stay fit",
+      "answer": "EXERCISE",
       "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Blow into this",
-      "answer": "FLUTE",
+      "clue": "Tiny living thing you need a microscope to see",
+      "answer": "BACTERIA",
       "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "String instrument",
-      "answer": "VIOLIN",
+      "clue": "Family tree diagram",
+      "answer": "PEDIGREE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean between America and Asia",
+      "answer": "PACIFIC",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Vegetable that grows on a vine",
+      "answer": "SQUASH",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Round white vegetable",
+      "answer": "ONION",
       "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Storage space under the roof",
+      "answer": "ATTIC",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Brass instrument",
-      "answer": "TRUMPET",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Group of musicians",
-      "answer": "BAND",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Written music",
-      "answer": "SCORE",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Musical sound",
-      "answer": "NOTE",
-      "row": 11,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who sings",
-      "answer": "SINGER",
-      "row": 6,
+      "clue": "Wool comes from this fluffy animal",
+      "answer": "SHEEP",
+      "row": 0,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 11

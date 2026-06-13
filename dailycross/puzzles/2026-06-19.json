@@ -4,74 +4,67 @@
   "title": "19 June 2026",
   "words": [
     {
-      "clue": "Worn on feet",
-      "answer": "SOCKS",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on head",
-      "answer": "HAT",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn in winter",
-      "answer": "COAT",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Tells time",
-      "answer": "WATCH",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on hands",
-      "answer": "GLOVES",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Holds pants up",
-      "answer": "BELT",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn around neck",
-      "answer": "SCARF",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Protects from rain",
-      "answer": "UMBRELLA",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on legs",
-      "answer": "PANTS",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Carries your things",
-      "answer": "BAG",
+      "clue": "Magnifying tool for small things",
+      "answer": "MICROSCOPE",
       "row": 6,
-      "col": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Creates fashion and clothes",
+      "answer": "DESIGNER",
+      "row": 4,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "Teaches students at school",
+      "answer": "TEACHER",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Video sharing website",
+      "answer": "YOUTUBE",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Guards a building",
+      "answer": "GUARD",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Your brother's daughter",
+      "answer": "NIECE",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "USB storage device",
+      "answer": "DRIVE",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Cloth used to stop bleeding",
+      "answer": "GAUZE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Time the sun sets",
+      "answer": "DUSK",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 8

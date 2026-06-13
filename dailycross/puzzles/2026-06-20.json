@@ -4,74 +4,67 @@
   "title": "20 June 2026",
   "words": [
     {
-      "clue": "Teaches students",
-      "answer": "TEACHER",
-      "row": 0,
+      "clue": "Day of the dead celebration",
+      "answer": "ALLSAINTS",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Helps sick people",
-      "answer": "DOCTOR",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Fights fires",
-      "answer": "FIREFIGHTER",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Flies planes",
-      "answer": "PILOT",
+      "clue": "Random acts of kindness day",
+      "answer": "KINDNESS",
       "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Cooks food",
-      "answer": "CHEF",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Arrests criminals",
-      "answer": "POLICE",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Delivers mail",
-      "answer": "POSTMAN",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Builds houses",
-      "answer": "BUILDER",
+      "clue": "Weather scale for temperature",
+      "answer": "CELSIUS",
       "row": 1,
-      "col": 10,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Grows crops",
-      "answer": "FARMER",
-      "row": 11,
+      "clue": "Path of an object around another",
+      "answer": "REVOLVE",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Colorful garden bloom",
+      "answer": "FLOWER",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you learn",
+      "answer": "SCHOOL",
+      "row": 1,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Drives buses",
-      "answer": "DRIVER",
-      "row": 6,
-      "col": 7,
+      "clue": "Newborn baby",
+      "answer": "INFANT",
+      "row": 0,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Aromatic plant used in tea",
+      "answer": "MINT",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Country of kiwi birds",
+      "answer": "NEW",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 9

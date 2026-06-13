@@ -4,60 +4,60 @@
   "title": "5 August 2026",
   "words": [
     {
-      "clue": "Marks mistakes in red",
-      "answer": "CORRECTION",
-      "row": 1,
+      "clue": "Repairs pipes and water",
+      "answer": "PLUMBER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
+      "clue": "Room where you work at home",
+      "answer": "OFFICE",
       "row": 0,
-      "col": 7,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Flower powder",
-      "answer": "POLLEN",
+      "clue": "Garden path material",
+      "answer": "GRAVEL",
       "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You hold with these",
-      "answer": "HANDS",
+      "clue": "Serves food at tables",
+      "answer": "WAITER",
       "row": 3,
-      "col": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Grass color",
-      "answer": "GREEN",
+      "clue": "Worn on feet",
+      "answer": "SOCKS",
       "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Cut grass with this",
+      "answer": "MOWER",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Foot end parts",
-      "answer": "TOES",
-      "row": 6,
-      "col": 5,
+      "clue": "Body of water surrounded by land",
+      "answer": "LAKE",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to celebrate the arts",
+      "answer": "ARTS",
+      "row": 9,
+      "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "You hear with these",
-      "answer": "EARS",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A pet that says meow",
-      "answer": "CAT",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
     }
   ],
   "dayNumber": 55

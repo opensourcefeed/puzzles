@@ -4,73 +4,59 @@
   "title": "10 July 2026",
   "words": [
     {
-      "clue": "Marks mistakes in red",
-      "answer": "CORRECTION",
+      "clue": "February 14 celebration",
+      "answer": "VALENTINE",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Red fruit that keeps doctor away",
-      "answer": "APPLE",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You hold with these",
-      "answer": "HANDS",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "You smell with this",
-      "answer": "NOSE",
-      "row": 2,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
+      "clue": "Silk comes from a silkworm",
+      "answer": "SILKWORM",
       "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Eight-armed ocean creature",
+      "answer": "OCTOPUS",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where a play is performed",
+      "answer": "STAGE",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Underground plant part",
-      "answer": "ROOT",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "King of the jungle",
-      "answer": "LION",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Foot end parts",
-      "answer": "TOES",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Farm animal that gives milk",
-      "answer": "COW",
+      "clue": "Art class tool",
+      "answer": "BRUSH",
       "row": 4,
-      "col": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Cut vegetables with this",
+      "answer": "KNIFE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Bowls are made of this moldable material",
+      "answer": "CLAY",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very sad",
+      "answer": "SAD",
+      "row": 0,
+      "col": 1,
       "direction": "across"
     }
   ],

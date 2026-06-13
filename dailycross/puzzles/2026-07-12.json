@@ -4,60 +4,74 @@
   "title": "12 July 2026",
   "words": [
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
-      "row": 2,
+      "clue": "Remove broken screws",
+      "answer": "EXTRACTOR",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ice glide sport",
-      "answer": "SKATING",
+      "clue": "Microsoft operating system",
+      "answer": "WINDOWS",
       "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Leg covering",
-      "answer": "PANTS",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You hold with these",
-      "answer": "HANDS",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Tree part that falls",
-      "answer": "LEAF",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet baked dessert",
-      "answer": "CAKE",
-      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Top of your head hair",
-      "answer": "HAIR",
-      "row": 6,
-      "col": 1,
+      "clue": "Subject about the past",
+      "answer": "HISTORY",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Device that helps you breathe",
+      "answer": "INHALER",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Worn on head",
-      "answer": "HAT",
-      "row": 4,
-      "col": 1,
+      "clue": "Place where a king rules",
+      "answer": "CASTLE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Card that lets you buy now and pay later",
+      "answer": "CREDIT",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean around India",
+      "answer": "INDIAN",
+      "row": 2,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Team sport played with feet",
+      "answer": "SOCCER",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Two children born at the same time",
+      "answer": "TWIN",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Hot ball in sky",
+      "answer": "SUN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 31

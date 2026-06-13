@@ -4,66 +4,73 @@
   "title": "18 July 2026",
   "words": [
     {
-      "clue": "Long rectangle",
-      "answer": "RECTANGLE",
-      "row": 2,
-      "col": 0,
+      "clue": "Medicine that kills bacteria",
+      "answer": "ANTIBIOTIC",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Three sides",
-      "answer": "TRIANGLE",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Tree part that falls",
-      "answer": "LEAF",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "White dairy drink",
-      "answer": "MILK",
-      "row": 0,
+      "clue": "Medicine that relieves pain",
+      "answer": "PAINKILLER",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A pet that says meow",
-      "answer": "CAT",
+      "clue": "Magnifying lens",
+      "answer": "MAGNIFIER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Social media photo app",
+      "answer": "INSTAGRAM",
       "row": 0,
-      "col": 1,
-      "direction": "across"
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "Baseball hitter",
-      "answer": "BAT",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
-      "row": 6,
+      "clue": "Light bulbs have a thin filament",
+      "answer": "FILAMENT",
+      "row": 8,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Performs songs on stage",
+      "answer": "SINGER",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Orange citrus fruit",
+      "answer": "ORANGE",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "You put keys in this by the door",
+      "answer": "DISH",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Smart speaker from Amazon",
+      "answer": "ECHO",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Pour milk from this",
+      "answer": "JUG",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     }
   ],

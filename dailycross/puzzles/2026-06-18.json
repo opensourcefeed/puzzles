@@ -4,74 +4,67 @@
   "title": "18 June 2026",
   "words": [
     {
-      "clue": "Flies in the sky",
-      "answer": "PLANE",
-      "row": 0,
+      "clue": "Feeling very tired",
+      "answer": "EXHAUSTED",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Runs on tracks",
-      "answer": "TRAIN",
+      "clue": "Country with Singapore city",
+      "answer": "SINGAPORE",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Has two wheels",
-      "answer": "BICYCLE",
-      "row": 4,
-      "col": 1,
+      "clue": "Messaging app with green bubbles",
+      "answer": "WHATSAPP",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A unit of energy in food",
+      "answer": "CALORIE",
+      "row": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Sails on water",
-      "answer": "BOAT",
+      "clue": "Ocean fish that can inflate",
+      "answer": "PUFFER",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Shovel snow with this",
+      "answer": "SHOVEL",
       "row": 2,
       "col": 5,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Drives on roads",
-      "answer": "CAR",
-      "row": 7,
+      "clue": "How fast something moves",
+      "answer": "SPEED",
+      "row": 2,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Big truck for goods",
-      "answer": "LORRY",
-      "row": 3,
-      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Stops at stations",
-      "answer": "BUS",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Goes underground",
-      "answer": "SUBWAY",
-      "row": 1,
-      "col": 10,
+      "clue": "Day to plant trees",
+      "answer": "ARBOR",
+      "row": 7,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "You ride this horse",
-      "answer": "SADDLE",
-      "row": 11,
+      "clue": "The food you eat each day",
+      "answer": "DIET",
+      "row": 8,
       "col": 1,
       "direction": "across"
-    },
-    {
-      "clue": "Stops for passengers",
-      "answer": "STATION",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
     }
   ],
   "dayNumber": 7

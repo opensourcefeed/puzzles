@@ -4,74 +4,67 @@
   "title": "27 June 2026",
   "words": [
     {
-      "clue": "Planet we live on",
-      "answer": "EARTH",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Center of atom",
-      "answer": "NUCLEUS",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Green plant part",
-      "answer": "LEAF",
-      "row": 4,
+      "clue": "Store leftovers in this",
+      "answer": "CONTAINER",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "H2O is this",
-      "answer": "WATER",
-      "row": 2,
+      "clue": "Cook food in the oven in this",
+      "answer": "ROASTER",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Force that pulls down",
-      "answer": "GRAVITY",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Energy from sun",
-      "answer": "LIGHT",
-      "row": 3,
+      "clue": "Device that helps you see",
+      "answer": "GLASSES",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Living thing",
-      "answer": "ORGANISM",
+      "clue": "A piece of paper proving payment",
+      "answer": "RECEIPT",
       "row": 9,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Breathing gas",
-      "answer": "OXYGEN",
-      "row": 1,
+      "clue": "Place where a horse lives",
+      "answer": "STABLE",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very glad",
+      "answer": "HAPPY",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Small living cell",
-      "answer": "CELL",
-      "row": 11,
-      "col": 1,
+      "clue": "Carry groceries in these",
+      "answer": "BAGS",
+      "row": 2,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Study of life",
-      "answer": "BIOLOGY",
-      "row": 6,
-      "col": 7,
+      "clue": "What a tadpole becomes",
+      "answer": "FROG",
+      "row": 3,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Wireless internet connection",
+      "answer": "WIFI",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 16

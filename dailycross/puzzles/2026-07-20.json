@@ -4,74 +4,67 @@
   "title": "20 July 2026",
   "words": [
     {
-      "clue": "Long rectangle",
-      "answer": "RECTANGLE",
-      "row": 4,
+      "clue": "Feeling brave and fearless",
+      "answer": "COURAGEOUS",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Bread with filling",
-      "answer": "SANDWICH",
-      "row": 3,
-      "col": 4,
+      "clue": "Pry open boxes with this",
+      "answer": "CROWBAR",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 4,
+      "clue": "Output device that makes sound",
+      "answer": "SPEAKER",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling calm and peaceful",
+      "answer": "SERENE",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Child whose parents have died",
+      "answer": "ORPHAN",
+      "row": 5,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 9,
-      "col": 3,
+      "clue": "Stores your files",
+      "answer": "MEMORY",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Team kick sport",
-      "answer": "SOCCER",
+      "clue": "Small blue wildflower",
+      "answer": "VIOLET",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Your first given name",
+      "answer": "GIVEN",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Clear liquid that your body needs",
+      "answer": "WATER",
       "row": 0,
-      "col": 8,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Neck warmer",
-      "answer": "SCARF",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Kicked in soccer",
-      "answer": "BALL",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Falls from clouds",
-      "answer": "RAIN",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Underground plant part",
-      "answer": "ROOT",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "You smell with this",
-      "answer": "NOSE",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
     }
   ],
   "dayNumber": 39

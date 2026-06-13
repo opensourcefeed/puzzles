@@ -4,74 +4,67 @@
   "title": "26 July 2026",
   "words": [
     {
-      "clue": "Bread with filling",
-      "answer": "SANDWICH",
-      "row": 2,
-      "col": 3,
+      "clue": "When prices go up over time",
+      "answer": "INFLATION",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Team kick sport",
-      "answer": "SOCCER",
+      "clue": "Country with Kuala Lumpur",
+      "answer": "MALAYSIA",
       "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Holds papers together",
+      "answer": "STAPLER",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Keep food cold in this",
+      "answer": "FRIDGE",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Largest ocean animal",
-      "answer": "WHALE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Red fruit that keeps doctor away",
-      "answer": "APPLE",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Game score unit",
-      "answer": "POINT",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Kicked in soccer",
-      "answer": "BALL",
+      "clue": "Deep valley with steep sides",
+      "answer": "CANYON",
       "row": 5,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Tree part that falls",
-      "answer": "LEAF",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
+      "clue": "A cold causes this",
+      "answer": "COUGH",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Water vessel",
-      "answer": "BOAT",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
+      "clue": "Yellow vegetable on a cob",
+      "answer": "CORN",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
     },
     {
-      "clue": "Blood color",
-      "answer": "RED",
+      "clue": "Fern plant with feathery leaves",
+      "answer": "FERN",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Tree part that falls in autumn",
+      "answer": "LEAF",
       "row": 0,
       "col": 6,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 45

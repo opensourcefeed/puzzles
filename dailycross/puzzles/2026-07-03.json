@@ -4,74 +4,60 @@
   "title": "3 July 2026",
   "words": [
     {
-      "clue": "Math calculation tool",
-      "answer": "CALCULATOR",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Bird that cannot fly",
-      "answer": "PENGUIN",
+      "clue": "Ocean fish with a sword-like bill",
+      "answer": "SWORDFISH",
       "row": 6,
-      "col": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow curved fruit",
-      "answer": "BANANA",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Frozen water",
-      "answer": "ICE",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Blood color",
-      "answer": "RED",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
+      "clue": "Pack lunch in this",
+      "answer": "LUNCHBOX",
       "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "March celebration with leprechauns",
+      "answer": "PATRICK",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Planet with rings around it",
+      "answer": "SATURN",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Manages money in a bank",
+      "answer": "BANKER",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Percussion instrument you hit",
+      "answer": "DRUM",
+      "row": 0,
       "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "Machine that checks heart rhythm",
+      "answer": "EKG",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 22

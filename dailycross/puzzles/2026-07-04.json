@@ -4,73 +4,66 @@
   "title": "4 July 2026",
   "words": [
     {
-      "clue": "Flower powder",
-      "answer": "POLLEN",
-      "row": 4,
-      "col": 3,
+      "clue": "Large landmass on Earth",
+      "answer": "CONTINENT",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ball shape",
-      "answer": "SPHERE",
-      "row": 3,
+      "clue": "Online file storage service",
+      "answer": "DROPBOX",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Helps sick people at hospital",
+      "answer": "DOCTOR",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Yellow curved fruit",
-      "answer": "BANANA",
-      "row": 2,
+      "clue": "Cut pizza with this",
+      "answer": "CUTTER",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Game score unit",
-      "answer": "POINT",
-      "row": 6,
+      "clue": "Trains athletes",
+      "answer": "COACH",
+      "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Neck warmer",
-      "answer": "SCARF",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Thirty or thirty-one days",
-      "answer": "MONTH",
-      "row": 5,
+      "clue": "Arm bend point",
+      "answer": "ELBOW",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 2,
-      "col": 8,
+      "clue": "Part of the eye that sees in dim light",
+      "answer": "ROD",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Middle of day",
-      "answer": "NOON",
-      "row": 4,
-      "col": 8,
+      "clue": "Insect that makes honey",
+      "answer": "BEE",
+      "row": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Seven days",
-      "answer": "WEEK",
+      "clue": "Frozen water",
+      "answer": "ICE",
       "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
-      "row": 7,
-      "col": 0,
+      "col": 5,
       "direction": "down"
     }
   ],

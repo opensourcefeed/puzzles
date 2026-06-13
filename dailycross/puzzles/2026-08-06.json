@@ -4,74 +4,67 @@
   "title": "6 August 2026",
   "words": [
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with this",
-      "answer": "PENCIL",
+      "clue": "Place where Jews pray",
+      "answer": "SYNAGOGUE",
       "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Breakfast egg dish",
-      "answer": "OMELET",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Largest ocean animal",
-      "answer": "WHALE",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Arm bend point",
-      "answer": "ELBOW",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on feet",
-      "answer": "SOCKS",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
-      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "White dairy drink",
-      "answer": "MILK",
-      "row": 3,
-      "col": 8,
+      "clue": "Heavy snowstorm with wind",
+      "answer": "BLIZZARD",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Buttons are often made of this",
+      "answer": "PLASTIC",
+      "row": 1,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Large frozen area of ice",
+      "answer": "GLACIER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Sixty seconds",
+      "answer": "MINUTE",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Sidewalks are made of this",
+      "answer": "CEMENT",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Top of the oven for cooking",
+      "answer": "STOVE",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where tools are kept",
+      "answer": "SHED",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Apple mobile operating system",
+      "answer": "IOS",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 56

@@ -4,73 +4,59 @@
   "title": "13 June 2026",
   "words": [
     {
-      "clue": "Math calculation tool",
-      "answer": "CALCULATOR",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You write with this",
-      "answer": "PENCIL",
+      "clue": "Plant that lives for many years",
+      "answer": "PERENNIAL",
       "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix of red and blue",
-      "answer": "PURPLE",
-      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Round Italian food",
-      "answer": "PIZZA",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You read stories in this",
-      "answer": "BOOK",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Underground plant part",
-      "answer": "ROOT",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Blood color",
-      "answer": "RED",
-      "row": 5,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Frozen water",
-      "answer": "ICE",
+      "clue": "Tiny computer for hobby projects",
+      "answer": "RASPBERRY",
       "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Change from gas to liquid",
+      "answer": "CONDENSE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Light bounces off this",
+      "answer": "REFLECT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Change from solid to gas",
+      "answer": "SUBLIME",
+      "row": 5,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Baseball hitter",
-      "answer": "BAT",
-      "row": 4,
-      "col": 2,
+      "clue": "Ocean mammal with tusks",
+      "answer": "WALRUS",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Holds pants up",
+      "answer": "BELT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Subject about numbers",
+      "answer": "MATH",
+      "row": 5,
+      "col": 10,
       "direction": "down"
     }
   ],

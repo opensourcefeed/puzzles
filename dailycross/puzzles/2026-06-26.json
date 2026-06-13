@@ -4,74 +4,60 @@
   "title": "26 June 2026",
   "words": [
     {
-      "clue": "When you're happy",
-      "answer": "JOY",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "When you're sad",
-      "answer": "SORROW",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "When you're scared",
-      "answer": "FEAR",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "When you're mad",
-      "answer": "ANGER",
+      "clue": "Sun-loving tall yellow flower",
+      "answer": "SUNFLOWER",
       "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A mineral that helps with muscles",
+      "answer": "POTASSIUM",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Feeling loved",
-      "answer": "HAPPINESS",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried",
-      "answer": "ANXIOUS",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling calm",
-      "answer": "PEACE",
-      "row": 9,
+      "clue": "Person who leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 0,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling excited",
-      "answer": "THRILL",
-      "row": 1,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Feeling proud",
-      "answer": "PRIDE",
-      "row": 11,
-      "col": 1,
+      "clue": "Day to honor mothers in May",
+      "answer": "MOTHERS",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Feeling surprised",
-      "answer": "SHOCK",
-      "row": 6,
+      "clue": "Ocean bird that dives for fish",
+      "answer": "SEAGULL",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling alone and wanting company",
+      "answer": "LONELY",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Mix cake batter with this",
+      "answer": "MIXER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Bear that lives in the Arctic",
+      "answer": "POLAR",
+      "row": 0,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 15

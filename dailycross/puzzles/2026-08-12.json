@@ -4,60 +4,74 @@
   "title": "12 August 2026",
   "words": [
     {
-      "clue": "Frozen sweet treat",
-      "answer": "ICECREAM",
-      "row": 3,
+      "clue": "Place where scientists work",
+      "answer": "LABORATORY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 1,
-      "col": 4,
+      "clue": "Machine that washes dishes",
+      "answer": "DISHWASHER",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Green vegetable rabbits love",
-      "answer": "CARROT",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Four equal sides",
-      "answer": "SQUARE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Bright sky object at night",
-      "answer": "STAR",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Foot end parts",
-      "answer": "TOES",
-      "row": 0,
+      "clue": "Material that blocks electricity",
+      "answer": "INSULATOR",
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Frozen water",
-      "answer": "ICE",
-      "row": 1,
-      "col": 2,
+      "clue": "Space rock that hits Earth",
+      "answer": "METEORITE",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Very small floating ocean plants",
+      "answer": "PLANKTON",
+      "row": 4,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Money you save for the future",
+      "answer": "SAVINGS",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Virtual reality headset",
+      "answer": "HEADSET",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Open cans with this",
+      "answer": "OPENER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Mixture of metals",
+      "answer": "ALLOY",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Unit of electric current",
+      "answer": "AMP",
+      "row": 6,
+      "col": 10,
+      "direction": "across"
     }
   ],
   "dayNumber": 62

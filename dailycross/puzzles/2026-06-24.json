@@ -4,72 +4,72 @@
   "title": "24 June 2026",
   "words": [
     {
-      "clue": "Seven days make this",
-      "answer": "WEEK",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Twelve months make this",
-      "answer": "YEAR",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "First day of week",
-      "answer": "SUNDAY",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Today before yesterday",
-      "answer": "TOMORROW",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Yesterday after today",
+      "clue": "Day before today",
       "answer": "YESTERDAY",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Middle of the day",
-      "answer": "NOON",
-      "row": 7,
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Start of the day",
-      "answer": "MORNING",
+      "clue": "Device that copies paper to computer",
+      "answer": "SCANNER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Harvest celebration",
+      "answer": "HARVEST",
       "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Time your cooking with this",
+      "answer": "TIMER",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Small bag for money",
+      "answer": "PURSE",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Land of the rising sun",
+      "answer": "JAPAN",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Worn on foot inside shoe",
+      "answer": "SHOE",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Country of the Andes mountains",
+      "answer": "PERU",
+      "row": 8,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "End of the day",
-      "answer": "NIGHT",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
+      "clue": "Leather comes from animal skin",
+      "answer": "HIDE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     },
     {
-      "clue": "Thirty or thirty-one days",
-      "answer": "MONTH",
-      "row": 6,
+      "clue": "Feeling angry",
+      "answer": "MAD",
+      "row": 4,
       "col": 8,
       "direction": "down"
     }

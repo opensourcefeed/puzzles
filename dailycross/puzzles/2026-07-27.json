@@ -4,73 +4,73 @@
   "title": "27 July 2026",
   "words": [
     {
-      "clue": "Basket sport",
-      "answer": "BASKETBALL",
+      "clue": "Future family generations",
+      "answer": "DESCENDANT",
       "row": 6,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
+      "clue": "Metal coins and paper bills",
+      "answer": "CURRENCY",
       "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat round ocean fish",
+      "answer": "FLOUNDER",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Bread with filling",
-      "answer": "SANDWICH",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
+      "clue": "Two-wheeled vehicle you pedal",
+      "answer": "BICYCLE",
       "row": 3,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Bird that cannot fly",
-      "answer": "PENGUIN",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 8,
-      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Mix of red and yellow",
-      "answer": "ORANGE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Bright sky object at night",
-      "answer": "STAR",
+      "clue": "Leafy green vegetable",
+      "answer": "SPINACH",
       "row": 3,
-      "col": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Bones contain this mineral",
+      "answer": "CALCIUM",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "You hear with these",
-      "answer": "EARS",
+      "clue": "Feeling shy around others",
+      "answer": "TIMID",
       "row": 0,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Water in gas form",
+      "answer": "VAPOR",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean creature that buries in sand",
+      "answer": "CLAM",
+      "row": 8,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Thick fog that limits sight",
+      "answer": "MIST",
+      "row": 8,
+      "col": 12,
       "direction": "down"
     }
   ],

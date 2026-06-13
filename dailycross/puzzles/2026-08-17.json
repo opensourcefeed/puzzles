@@ -4,73 +4,73 @@
   "title": "17 August 2026",
   "words": [
     {
-      "clue": "Marks mistakes in red",
-      "answer": "CORRECTION",
-      "row": 3,
+      "clue": "Feeling optimistic",
+      "answer": "OPTIMISTIC",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
+      "clue": "Lizard that changes color",
+      "answer": "CHAMELEON",
       "row": 3,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Hit with racket",
-      "answer": "TENNIS",
-      "row": 3,
+      "clue": "Freeze food in this",
+      "answer": "FREEZER",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Roads are paved with this black material",
+      "answer": "ASPHALT",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Swim eye wear",
+      "answer": "GOGGLES",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 3,
+      "clue": "Brown vegetable that grows in dirt",
+      "answer": "POTATO",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to honor first responders",
+      "answer": "FIRST",
+      "row": 7,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Snow color",
-      "answer": "WHITE",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Black and white bear",
-      "answer": "PANDA",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Night color",
-      "answer": "BLACK",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Bright sky object at night",
-      "answer": "STAR",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Box shape",
-      "answer": "CUBE",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Water vessel",
-      "answer": "BOAT",
+      "clue": "Pointed weapon shape",
+      "answer": "ARROW",
       "row": 1,
-      "col": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Unit of electric resistance",
+      "answer": "OHM",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     }
   ],

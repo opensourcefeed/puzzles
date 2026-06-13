@@ -4,59 +4,66 @@
   "title": "4 August 2026",
   "words": [
     {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 3,
-      "col": 0,
+      "clue": "Ocean around Antarctica",
+      "answer": "SOUTHERN",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Start of day",
-      "answer": "MORNING",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow curved fruit",
-      "answer": "BANANA",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Largest ocean animal",
-      "answer": "WHALE",
+      "clue": "A protein that builds muscle",
+      "answer": "PROTEIN",
       "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Pink flower color",
-      "answer": "ROSE",
-      "row": 1,
+      "clue": "Violent wind that spins",
+      "answer": "CYCLONE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Turn nuts with a socket",
+      "answer": "SOCKET",
+      "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "You sit at this",
-      "answer": "DESK",
-      "row": 2,
-      "col": 2,
+      "clue": "You click with this",
+      "answer": "MOUSE",
+      "row": 6,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sweet baked dessert",
-      "answer": "CAKE",
-      "row": 7,
-      "col": 6,
+      "clue": "Pipe instrument you blow into",
+      "answer": "FLUTE",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 5,
-      "col": 4,
+      "clue": "Hanging light fixture",
+      "answer": "LAMP",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Stick things with this",
+      "answer": "TAPE",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal doctor",
+      "answer": "VET",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     }
   ],

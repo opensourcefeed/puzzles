@@ -4,74 +4,74 @@
   "title": "23 June 2026",
   "words": [
     {
-      "clue": "Land of pyramids",
-      "answer": "EGYPT",
-      "row": 0,
-      "col": 0,
+      "clue": "Person who lives next door",
+      "answer": "NEIGHBOR",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Capital is Paris",
-      "answer": "FRANCE",
-      "row": 0,
-      "col": 0,
+      "clue": "Two or more atoms bonded together",
+      "answer": "MOLECULE",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Big island country",
-      "answer": "JAPAN",
-      "row": 4,
-      "col": 1,
+      "clue": "Repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Digital book reader",
+      "answer": "EREADER",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Home of kangaroos",
-      "answer": "AUSTRALIA",
+      "clue": "Metal gray color",
+      "answer": "SILVER",
       "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Has Great Wall",
-      "answer": "CHINA",
-      "row": 7,
+      "clue": "Place where you eat meals",
+      "answer": "DINING",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Popular search engine",
+      "answer": "GOOGLE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Capital is London",
-      "answer": "ENGLAND",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Statue of Liberty here",
-      "answer": "AMERICA",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "City with canals",
-      "answer": "VENICE",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Taj Mahal location",
-      "answer": "INDIA",
-      "row": 11,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Berlin is capital",
-      "answer": "GERMANY",
+      "clue": "Works at a store checkout",
+      "answer": "CLERK",
       "row": 6,
-      "col": 7,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Bright object moving through space",
+      "answer": "COMET",
+      "row": 3,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "Mix ingredients in this",
+      "answer": "BOWL",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 12
