@@ -1,78 +1,57 @@
 {
   "id": "dailycross-2026-07-23",
   "date": "2026-07-23",
-  "title": "23 July 2026",
+  "title": "2026-07-23",
   "words": [
     {
-      "clue": "Grind metal with this",
-      "answer": "GRINDER",
-      "row": 6,
+      "clue": "Does experiments for a living",
+      "answer": "SCIENTIST",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling understanding of someone",
-      "answer": "EMPATHY",
-      "row": 6,
-      "col": 5,
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Six-sided shape",
-      "answer": "HEXAGON",
-      "row": 9,
-      "col": 2,
+      "clue": "Open cans with this",
+      "answer": "OPENER",
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Delivers mail to homes",
-      "answer": "MAILMAN",
+      "clue": "Special diet food",
+      "answer": "GRAIN",
       "row": 0,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Scoop ice cream with this",
-      "answer": "SCOOPER",
-      "row": 6,
-      "col": 7,
+      "clue": "You sit at this",
+      "answer": "DESK",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Hit nails with this",
-      "answer": "HAMMER",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Breakfast egg dish",
-      "answer": "OMELET",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Cares for children at home",
-      "answer": "NANNY",
+      "clue": "Wanting things fast",
+      "answer": "RUSH",
       "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where you get coffee",
-      "answer": "CAFE",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Unit of digital information",
-      "answer": "BYTE",
-      "row": 0,
-      "col": 6,
+      "clue": "Ocean animal with pincers",
+      "answer": "CRAB",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "dayNumber": 42
+  "dayNumber": 41
 }

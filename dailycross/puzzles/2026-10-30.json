@@ -1,64 +1,57 @@
 {
   "id": "dailycross-2026-10-30",
   "date": "2026-10-30",
-  "title": "30 October 2026",
+  "title": "2026-10-30",
   "words": [
     {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Breakfast grain meal",
-      "answer": "CEREAL",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden path material",
-      "answer": "GRAVEL",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Works at a store checkout",
-      "answer": "CLERK",
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
       "row": 5,
-      "col": 7,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "Colorful part of a plant that makes seeds",
-      "answer": "PETAL",
-      "row": 0,
+      "clue": "Leafy green vegetable",
+      "answer": "SPINACH",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Head cook in a restaurant",
-      "answer": "CHEF",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
+      "clue": "What plants breathe out",
+      "answer": "OXYGEN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "Thick fog that limits sight",
-      "answer": "MIST",
-      "row": 2,
+      "clue": "Sea flower animal",
+      "answer": "FLOWER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling uneasy",
+      "answer": "UNEASY",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Ocean fish with a long body",
-      "answer": "EEL",
-      "row": 5,
-      "col": 9,
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Light bulb wire",
+      "answer": "WIRE",
+      "row": 8,
+      "col": 2,
       "direction": "down"
     }
   ],
-  "dayNumber": 141
+  "dayNumber": 140
 }

@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-07-19",
   "date": "2026-07-19",
-  "title": "19 July 2026",
+  "title": "2026-07-19",
   "words": [
     {
-      "clue": "Small wind instrument held sideways",
-      "answer": "RECORDER",
-      "row": 4,
+      "clue": "Yellow spring flower",
+      "answer": "DAFFODIL",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling full of hope",
-      "answer": "HOPEFUL",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling nervous before a test",
-      "answer": "NERVOUS",
-      "row": 3,
+      "clue": "Leafy green vegetable",
+      "answer": "SPINACH",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Writes books",
-      "answer": "AUTHOR",
-      "row": 8,
+      "clue": "Decorates rooms",
+      "answer": "PAINTER",
+      "row": 4,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "You open to let in light",
-      "answer": "WINDOW",
-      "row": 4,
-      "col": 9,
+      "clue": "Start of day before noon",
+      "answer": "MORNING",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Organ that breaks down fats",
-      "answer": "LIVER",
-      "row": 6,
-      "col": 4,
+      "clue": "Cook food in the oven in this",
+      "answer": "ROASTER",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Sweet brown dessert topping",
-      "answer": "FUDGE",
-      "row": 0,
+      "clue": "What plants breathe in",
+      "answer": "CARBON",
+      "row": 1,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Keep bugs away from food",
-      "answer": "NET",
+      "clue": "Protects a park or forest",
+      "answer": "RANGER",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Loop of water from sky to ground and back",
+      "answer": "CYCLE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Makes clothes",
+      "answer": "SEWER",
       "row": 6,
-      "col": 9,
+      "col": 7,
       "direction": "across"
     }
   ],
-  "dayNumber": 38
+  "dayNumber": 37
 }

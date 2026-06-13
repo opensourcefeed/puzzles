@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2027-05-29",
   "date": "2027-05-29",
-  "title": "29 May 2027",
+  "title": "2027-05-29",
   "words": [
     {
-      "clue": "Bedside table for a lamp",
-      "answer": "NIGHTSTAND",
+      "clue": "Math calculation tool",
+      "answer": "CALCULATOR",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tiny blood vessels in the body",
-      "answer": "CAPILLARY",
+      "clue": "Frozen sweet treat",
+      "answer": "ICECREAM",
       "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny air sacs in the lungs",
-      "answer": "ALVEOLI",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Blend fruits in this",
-      "answer": "BLENDER",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Blood vessel that carries blood away",
-      "answer": "ARTERY",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sun color",
-      "answer": "YELLOW",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "August independence of India",
-      "answer": "AUGUST",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Energy that travels in waves",
-      "answer": "SOUND",
-      "row": 1,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "World environment day",
-      "answer": "WORLD",
-      "row": 0,
+      "clue": "Volcano erupts with this",
+      "answer": "ERUPTION",
+      "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Flies airplanes",
-      "answer": "PILOT",
-      "row": 3,
+      "clue": "Cut paper with this",
+      "answer": "SCISSORS",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where fish are kept",
+      "answer": "AQUARIUM",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong wind storm",
+      "answer": "TORNADO",
+      "row": 0,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Grass color",
+      "answer": "GREEN",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Money you spend",
+      "answer": "COST",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     }
   ],
-  "dayNumber": 352
+  "dayNumber": 351
 }

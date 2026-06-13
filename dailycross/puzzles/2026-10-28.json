@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-10-28",
   "date": "2026-10-28",
-  "title": "28 October 2026",
+  "title": "2026-10-28",
   "words": [
     {
-      "clue": "Head-worn audio device",
-      "answer": "HEADPHONES",
-      "row": 3,
+      "clue": "Game with hoop and net",
+      "answer": "BASKETBALL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Brass instrument with slide",
-      "answer": "TROMBONE",
-      "row": 1,
-      "col": 6,
+      "clue": "Three sides",
+      "answer": "TRIANGLE",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Random acts of kindness day",
-      "answer": "KINDNESS",
-      "row": 0,
-      "col": 3,
+      "clue": "Country with Brussels",
+      "answer": "BELGIUM",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Teaches dogs new skills",
-      "answer": "TRAINER",
-      "row": 1,
-      "col": 6,
+      "clue": "Country with Helsinki",
+      "answer": "FINLAND",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Food allergy condition",
-      "answer": "ALLERGY",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Light volcanic rock that floats",
-      "answer": "PUMICE",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that moves on snow",
-      "answer": "SLED",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Glass is made from melted sand",
-      "answer": "SAND",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Store spices in this",
-      "answer": "JAR",
-      "row": 0,
+      "clue": "Green vegetable rabbits love",
+      "answer": "CARROT",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A pet that says meow",
-      "answer": "CAT",
-      "row": 1,
-      "col": 4,
+      "clue": "What plants breathe in",
+      "answer": "CARBON",
+      "row": 9,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Hold paper towels on this",
+      "answer": "HOLDER",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Creates paintings or drawings",
+      "answer": "ARTIST",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Black and white bear",
+      "answer": "PANDA",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
     }
   ],
-  "dayNumber": 139
+  "dayNumber": 138
 }

@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-05-03",
   "date": "2027-05-03",
-  "title": "3 May 2027",
+  "title": "2027-05-03",
   "words": [
     {
-      "clue": "A piece of paper proving payment",
-      "answer": "RECEIPT",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "String instrument with six strings",
-      "answer": "GUITAR",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving energy of objects",
-      "answer": "MOTION",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Brown vegetable that grows in dirt",
-      "answer": "POTATO",
+      "clue": "Travels to discover new places",
+      "answer": "EXPLORER",
       "row": 5,
-      "col": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Size of something",
-      "answer": "VOLUME",
-      "row": 4,
-      "col": 2,
+      "clue": "Pack lunch in this",
+      "answer": "LUNCHBOX",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Email folder for new messages",
-      "answer": "INBOX",
-      "row": 4,
-      "col": 6,
+      "clue": "Large ocean wave from earthquake",
+      "answer": "TSUNAMI",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Summer top for boys",
-      "answer": "SHIRT",
+      "clue": "Studies bugs",
+      "answer": "CATCHER",
       "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Cut pizza with this",
+      "answer": "CUTTER",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You keep blankets in this trunk",
+      "answer": "TRUNK",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Sharp point on a rose stem",
+      "answer": "THORN",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Lift heavy things",
+      "answer": "HOIST",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Unit of electric current",
+      "answer": "WATT",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Floors are often made of this",
+      "answer": "WOOD",
+      "row": 7,
       "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "Test electrical current",
-      "answer": "METER",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
     }
   ],
-  "dayNumber": 326
+  "dayNumber": 325
 }

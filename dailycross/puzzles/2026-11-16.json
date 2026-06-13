@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-11-16",
   "date": "2026-11-16",
-  "title": "16 November 2026",
+  "title": "2026-11-16",
   "words": [
     {
-      "clue": "A mineral that helps with muscles",
-      "answer": "POTASSIUM",
+      "clue": "Country with Dublin",
+      "answer": "IRELAND",
       "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
-      "row": 0,
       "col": 2,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Animals that eat only plants",
-      "answer": "HERBIVORE",
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
       "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "November celebration of veterans",
-      "answer": "VETERANS",
-      "row": 2,
-      "col": 9,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Device that helps you see",
-      "answer": "GLASSES",
-      "row": 9,
-      "col": 5,
+      "clue": "Mattresses have metal coils",
+      "answer": "SPRING",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Flies airplanes",
-      "answer": "PILOT",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Thirty or thirty-one days",
-      "answer": "MONTH",
+      "clue": "Temperature scale",
+      "answer": "SCALE",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country known for watches",
-      "answer": "SWISS",
-      "row": 5,
-      "col": 11,
+      "clue": "Our planet",
+      "answer": "EARTH",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "USB storage device",
-      "answer": "DRIVE",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
+      "clue": "Day to honor first responders",
+      "answer": "FIRST",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
     },
     {
-      "clue": "How much you weigh compared to your height",
-      "answer": "BMI",
-      "row": 6,
-      "col": 0,
+      "clue": "Drill holes with this",
+      "answer": "DRILL",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Plant that grows on walls",
+      "answer": "MOSS",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     }
   ],
-  "dayNumber": 158
+  "dayNumber": 157
 }

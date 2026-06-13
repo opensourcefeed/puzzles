@@ -1,0 +1,59 @@
+{
+  "id": "journey-level-24",
+  "level": 24,
+  "title": "Level 24",
+  "words": [
+    {
+      "clue": "Country with Warsaw",
+      "answer": "POLAND",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Keep food cold in this",
+      "answer": "FRIDGE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Windows are made of this clear material",
+      "answer": "GLASS",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Cloth to stop bleeding",
+      "answer": "CLOTH",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "You breathe with these",
+      "answer": "LUNGS",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Worn on feet",
+      "answer": "SOCKS",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 7,
+  "targetWords": 8,
+  "difficulty": "easy"
+}

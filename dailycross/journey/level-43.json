@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-43",
+  "level": 43,
+  "title": "Level 43",
+  "words": [
+    {
+      "clue": "Make coffee in this",
+      "answer": "COFFEEPOT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "November celebration of veterans",
+      "answer": "VETERANS",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Kuala Lumpur",
+      "answer": "MALAYSIA",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you take a bath",
+      "answer": "BATHROOM",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a horse lives",
+      "answer": "STABLE",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Celebration with eggs and bunny",
+      "answer": "EASTER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Spicy root used in cooking",
+      "answer": "GINGER",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Team sport played with feet",
+      "answer": "SOCCER",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Salty snack often eaten with dip",
+      "answer": "CHIPS",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "How hot or cold something is",
+      "answer": "HEAT",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 11,
+  "difficulty": "medium"
+}

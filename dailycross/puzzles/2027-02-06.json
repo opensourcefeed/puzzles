@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2027-02-06",
   "date": "2027-02-06",
-  "title": "6 February 2027",
+  "title": "2027-02-06",
   "words": [
     {
-      "clue": "Silk comes from a silkworm",
-      "answer": "SILKWORM",
+      "clue": "Cook food in the oven in this",
+      "answer": "ROASTER",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Science building",
+      "answer": "SCHOOL",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling uncertain",
+      "answer": "UNSURE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Istanbul",
+      "answer": "TURKEY",
       "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Toast bread in this",
-      "answer": "TOASTER",
+      "clue": "Vision vitamin",
+      "answer": "CARROT",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Presents news on television",
+      "answer": "ANCHOR",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Whisk eggs with this",
+      "answer": "WHISK",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Mexican dead day",
+      "answer": "SKULL",
       "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Red swollen skin",
+      "answer": "RASH",
+      "row": 5,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Electric car brand",
+      "answer": "CAR",
+      "row": 2,
       "col": 7,
       "direction": "down"
-    },
-    {
-      "clue": "Blow leaves with this",
-      "answer": "BLOWER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Breakfast grain meal",
-      "answer": "CEREAL",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sun color",
-      "answer": "YELLOW",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden border plant",
-      "answer": "HEDGE",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Thick fog that limits sight",
-      "answer": "MIST",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
     }
   ],
-  "dayNumber": 240
+  "dayNumber": 239
 }

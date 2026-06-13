@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-12-29",
   "date": "2026-12-29",
-  "title": "29 December 2026",
+  "title": "2026-12-29",
   "words": [
     {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Family member from long ago",
-      "answer": "ANCESTOR",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Large ocean wave from earthquake",
-      "answer": "TSUNAMI",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where Muslims pray",
-      "answer": "MOSQUE",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You put a doormat on this",
-      "answer": "FLOOR",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You put books on this",
-      "answer": "SHELF",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet brown dessert topping",
-      "answer": "FUDGE",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you get coffee",
-      "answer": "CAFE",
-      "row": 7,
+      "clue": "Head-worn audio device",
+      "answer": "HEADPHONES",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small unit of money",
-      "answer": "CENT",
-      "row": 2,
-      "col": 8,
+      "clue": "Computer virus protection",
+      "answer": "ANTIVIRUS",
+      "row": 1,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Cook food in the oven in this",
+      "answer": "ROASTER",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Three babies born together",
+      "answer": "TRIPLE",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Grassy African plain",
+      "answer": "GRASS",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where you throw a long stick",
+      "answer": "THROW",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Small plant with a soft stem",
+      "answer": "HERB",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Temp care for child",
+      "answer": "CARE",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean animal with pincers",
+      "answer": "CRAB",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "dayNumber": 201
+  "dayNumber": 200
 }

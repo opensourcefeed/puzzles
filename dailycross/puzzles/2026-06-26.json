@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-06-26",
   "date": "2026-06-26",
-  "title": "26 June 2026",
+  "title": "2026-06-26",
   "words": [
     {
-      "clue": "Sun-loving tall yellow flower",
-      "answer": "SUNFLOWER",
-      "row": 2,
+      "clue": "Place where firefighters work",
+      "answer": "FIREHOUSE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Three sides",
+      "answer": "TRIANGLE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Sea star with five arms",
+      "answer": "STARFISH",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Mix of red and blue",
+      "answer": "PURPLE",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Works at a store checkout",
+      "answer": "CLERK",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Loop of water from sky to ground and back",
+      "answer": "CYCLE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A mineral that helps with muscles",
-      "answer": "POTASSIUM",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to honor mothers in May",
-      "answer": "MOTHERS",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean bird that dives for fish",
-      "answer": "SEAGULL",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling alone and wanting company",
-      "answer": "LONELY",
+      "clue": "Underwater mountain chain",
+      "answer": "RIDGE",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Mix cake batter with this",
-      "answer": "MIXER",
-      "row": 7,
-      "col": 4,
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Bear that lives in the Arctic",
-      "answer": "POLAR",
-      "row": 0,
-      "col": 7,
+      "clue": "A family group",
+      "answer": "CLAN",
+      "row": 6,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Country of the Leaning Tower",
+      "answer": "PISA",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "dayNumber": 15
+  "dayNumber": 14
 }

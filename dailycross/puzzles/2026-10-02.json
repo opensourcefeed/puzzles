@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-10-02",
   "date": "2026-10-02",
-  "title": "2 October 2026",
+  "title": "2026-10-02",
   "words": [
     {
-      "clue": "Place where Jews pray",
-      "answer": "SYNAGOGUE",
+      "clue": "Spinning on an axis",
+      "answer": "ROTATE",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Gentle movement of air",
+      "answer": "BREEZE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You store clothes folded in this",
+      "answer": "DRAWER",
       "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Cover for garden soil",
+      "answer": "COVER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling jealous of someone",
-      "answer": "JEALOUS",
-      "row": 0,
-      "col": 3,
+      "clue": "Coin worth 1 cent",
+      "answer": "PENNY",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Country with Nairobi",
-      "answer": "KENYA",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Raincoats are made of this waterproof material",
-      "answer": "VINYL",
-      "row": 4,
-      "col": 5,
+      "clue": "Purple garden vegetable",
+      "answer": "PLUM",
+      "row": 3,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Land of the rising sun",
-      "answer": "JAPAN",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you swim",
-      "answer": "POOL",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewish New Year",
-      "answer": "ROSH",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where animals are kept",
-      "answer": "ZOO",
-      "row": 4,
+      "clue": "You hang a picture on this",
+      "answer": "HOOK",
+      "row": 3,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean creature that buries in sand",
+      "answer": "CLAM",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall plant with a trunk",
+      "answer": "TREE",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Card with money on it",
+      "answer": "CARD",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     }
   ],
-  "dayNumber": 113
+  "dayNumber": 112
 }

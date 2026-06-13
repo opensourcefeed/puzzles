@@ -373,6 +373,10 @@
       {
         "clue": "Color of ash and smoke",
         "answer": "GRAY"
+      },
+      {
+        "clue": "Mix of red and yellow",
+        "answer": "ORANGE"
       }
     ],
     "shapes": [
@@ -409,32 +413,28 @@
         "answer": "ARROW"
       },
       {
-        "clue": "Diamond shape",
-        "answer": "RHOMBUS"
-      },
-      {
-        "clue": "Half of a circle",
-        "answer": "SEMICIRCLE"
-      },
-      {
-        "clue": "Five-sided shape",
-        "answer": "PENTAGON"
-      },
-      {
-        "clue": "Six-sided shape",
-        "answer": "HEXAGON"
-      },
-      {
-        "clue": "Eight-sided shape",
-        "answer": "OCTAGON"
-      },
-      {
         "clue": "Arrowhead shape",
         "answer": "DIAMOND"
       },
       {
-        "clue": "Long and skinny oval",
-        "answer": "ELLIPSE"
+        "clue": "Half circle shape",
+        "answer": "DOME"
+      },
+      {
+        "clue": "Diamond shape",
+        "answer": "SLANT"
+      },
+      {
+        "clue": "Five sided shape",
+        "answer": "POINT"
+      },
+      {
+        "clue": "Six sided shape",
+        "answer": "EDGE"
+      },
+      {
+        "clue": "Eight sided shape",
+        "answer": "STOP"
       }
     ],
     "time": [
@@ -621,6 +621,10 @@
       {
         "clue": "Sport played on ice with sticks",
         "answer": "HOCKEY"
+      },
+      {
+        "clue": "Sport where you throw a long stick",
+        "answer": "THROW"
       }
     ],
     "transport": [
@@ -727,14 +731,6 @@
         "answer": "TEMPERATURE"
       },
       {
-        "clue": "Long period without rain",
-        "answer": "DROUGHT"
-      },
-      {
-        "clue": "Violent wind that spins",
-        "answer": "CYCLONE"
-      },
-      {
         "clue": "Ice crystals falling from sky",
         "answer": "SNOW"
       },
@@ -743,8 +739,16 @@
         "answer": "TSUNAMI"
       },
       {
-        "clue": "Weather scale for temperature",
-        "answer": "CELSIUS"
+        "clue": "Temperature scale",
+        "answer": "SCALE"
+      },
+      {
+        "clue": "No rain for a long time",
+        "answer": "DRY"
+      },
+      {
+        "clue": "Spinning wind storm",
+        "answer": "WIND"
       }
     ],
     "music": [
@@ -769,24 +773,12 @@
         "answer": "FLUTE"
       },
       {
-        "clue": "Brass instrument with slide",
-        "answer": "TROMBONE"
-      },
-      {
         "clue": "Group of singers together",
         "answer": "CHOIR"
       },
       {
         "clue": "Words of a song",
         "answer": "LYRICS"
-      },
-      {
-        "clue": "Speed of music",
-        "answer": "TEMPO"
-      },
-      {
-        "clue": "Person who leads an orchestra",
-        "answer": "CONDUCTOR"
       },
       {
         "clue": "Large group of musicians",
@@ -807,6 +799,18 @@
       {
         "clue": "Set of words and music together",
         "answer": "SONG"
+      },
+      {
+        "clue": "Brass instrument with slide",
+        "answer": "HORN"
+      },
+      {
+        "clue": "Music speed",
+        "answer": "BEAT"
+      },
+      {
+        "clue": "Orchestra leader",
+        "answer": "LEADER"
       }
     ],
     "space": [
@@ -847,14 +851,6 @@
         "answer": "GALAXY"
       },
       {
-        "clue": "Cloud of gas and dust in space",
-        "answer": "NEBULA"
-      },
-      {
-        "clue": "Relating to the sun",
-        "answer": "SOLAR"
-      },
-      {
         "clue": "Large round object in space",
         "answer": "PLANET"
       },
@@ -863,12 +859,20 @@
         "answer": "URANUS"
       },
       {
-        "clue": "Space rock that hits Earth",
-        "answer": "METEORITE"
-      },
-      {
         "clue": "Closest planet to the sun",
         "answer": "MERCURY"
+      },
+      {
+        "clue": "Cloud of gas in space",
+        "answer": "CLOUD"
+      },
+      {
+        "clue": "Space rock that hits Earth",
+        "answer": "ROCK"
+      },
+      {
+        "clue": "Relating to the sun",
+        "answer": "DAY"
       }
     ],
     "geography": [
@@ -917,20 +921,20 @@
         "answer": "PLATEAU"
       },
       {
-        "clue": "Narrow body of water between lands",
-        "answer": "STRAIT"
-      },
-      {
-        "clue": "Large grassy plain with few trees",
-        "answer": "SAVANNA"
-      },
-      {
         "clue": "Underground cave formation",
         "answer": "CAVE"
       },
       {
-        "clue": "Ring-shaped coral reef",
-        "answer": "ATOLL"
+        "clue": "Round coral island",
+        "answer": "RING"
+      },
+      {
+        "clue": "Narrow water passage",
+        "answer": "GAP"
+      },
+      {
+        "clue": "Grassy African plain",
+        "answer": "GRASS"
       }
     ],
     "science": [
@@ -955,40 +959,8 @@
         "answer": "MELT"
       },
       {
-        "clue": "Change from liquid to gas",
-        "answer": "EVAPORATE"
-      },
-      {
-        "clue": "Change from gas to liquid",
-        "answer": "CONDENSE"
-      },
-      {
-        "clue": "Animals that eat only plants",
-        "answer": "HERBIVORE"
-      },
-      {
-        "clue": "Animals that eat only meat",
-        "answer": "CARNIVORE"
-      },
-      {
         "clue": "A push or a pull on an object",
         "answer": "FORCE"
-      },
-      {
-        "clue": "Tool that measures temperature",
-        "answer": "THERMOMETER"
-      },
-      {
-        "clue": "Light bounces off this",
-        "answer": "REFLECT"
-      },
-      {
-        "clue": "Magnifying tool for small things",
-        "answer": "MICROSCOPE"
-      },
-      {
-        "clue": "Size of something",
-        "answer": "VOLUME"
       },
       {
         "clue": "How heavy something is",
@@ -1019,14 +991,6 @@
         "answer": "PLANT"
       },
       {
-        "clue": "Path electricity flows through",
-        "answer": "CIRCUIT"
-      },
-      {
-        "clue": "Material that blocks electricity",
-        "answer": "INSULATOR"
-      },
-      {
         "clue": "Bones inside your body",
         "answer": "SKELETON"
       },
@@ -1051,36 +1015,8 @@
         "answer": "OXYGEN"
       },
       {
-        "clue": "Process plants use to make food",
-        "answer": "PHOTOSYNTHESIS"
-      },
-      {
-        "clue": "Tiny living thing you need a microscope to see",
-        "answer": "BACTERIA"
-      },
-      {
-        "clue": "Stage between caterpillar and butterfly",
-        "answer": "PUPA"
-      },
-      {
-        "clue": "Thin layer around a cell",
-        "answer": "MEMBRANE"
-      },
-      {
-        "clue": "Center of a cell",
-        "answer": "NUCLEUS"
-      },
-      {
-        "clue": "Mixture of metals",
-        "answer": "ALLOY"
-      },
-      {
         "clue": "How high or low a sound is",
         "answer": "PITCH"
-      },
-      {
-        "clue": "Path of an object around another",
-        "answer": "REVOLVE"
       },
       {
         "clue": "Spinning on an axis",
@@ -1091,14 +1027,6 @@
         "answer": "CELL"
       },
       {
-        "clue": "Dissolves in water to make a solution",
-        "answer": "SOLUTE"
-      },
-      {
-        "clue": "Two or more atoms bonded together",
-        "answer": "MOLECULE"
-      },
-      {
         "clue": "Frog's early stage in water",
         "answer": "TADPOLE"
       },
@@ -1107,36 +1035,8 @@
         "answer": "CHAMELEON"
       },
       {
-        "clue": "Bear that lives in the Arctic",
-        "answer": "POLAR"
-      },
-      {
-        "clue": "Marsupial that carries baby in pouch",
-        "answer": "WALLABY"
-      },
-      {
-        "clue": "Insect that glows at night",
-        "answer": "FIREFLY"
-      },
-      {
         "clue": "Measures how much matter is in something",
         "answer": "MASS"
-      },
-      {
-        "clue": "Unit of electric current",
-        "answer": "AMP"
-      },
-      {
-        "clue": "Unit of electric resistance",
-        "answer": "OHM"
-      },
-      {
-        "clue": "What we call animals that eat plants and meat",
-        "answer": "OMNIVORE"
-      },
-      {
-        "clue": "Light volcanic rock that floats",
-        "answer": "PUMICE"
       },
       {
         "clue": "Part of the body that digests food",
@@ -1151,44 +1051,12 @@
         "answer": "LIVER"
       },
       {
-        "clue": "Green pigment in plants",
-        "answer": "CHLOROPHYLL"
-      },
-      {
         "clue": "Sweet liquid bees collect from flowers",
         "answer": "NECTAR"
       },
       {
         "clue": "Direction the sun rises",
         "answer": "EAST"
-      },
-      {
-        "clue": "Longest bone in the human body",
-        "answer": "FEMUR"
-      },
-      {
-        "clue": "Small bone in the middle ear",
-        "answer": "ANVIL"
-      },
-      {
-        "clue": "Hard outer covering of an insect",
-        "answer": "EXOSKELETON"
-      },
-      {
-        "clue": "Animal that sleeps all winter",
-        "answer": "HIBERNATE"
-      },
-      {
-        "clue": "Change from solid to gas",
-        "answer": "SUBLIME"
-      },
-      {
-        "clue": "Electricity that flows one way",
-        "answer": "DIRECT"
-      },
-      {
-        "clue": "Electricity that changes direction",
-        "answer": "ALTERNATING"
       },
       {
         "clue": "What a caterpillar becomes",
@@ -1203,40 +1071,12 @@
         "answer": "CHICK"
       },
       {
-        "clue": "Tiny air sacs in the lungs",
-        "answer": "ALVEOLI"
-      },
-      {
         "clue": "Part of the eye that sees color",
         "answer": "CONE"
       },
       {
         "clue": "Part of the eye that sees in dim light",
         "answer": "ROD"
-      },
-      {
-        "clue": "Powder that makes a plant grow",
-        "answer": "FERTILIZER"
-      },
-      {
-        "clue": "Bacteria that turns milk into yogurt",
-        "answer": "CULTURE"
-      },
-      {
-        "clue": "Scientists study this type of rock",
-        "answer": "IGNEOUS"
-      },
-      {
-        "clue": "Rock formed from layers of sediment",
-        "answer": "SEDIMENTARY"
-      },
-      {
-        "clue": "Rock changed by heat and pressure",
-        "answer": "METAMORPHIC"
-      },
-      {
-        "clue": "Fingerprint on a door",
-        "answer": "LATENT"
       },
       {
         "clue": "Blood vessel that carries blood away",
@@ -1247,8 +1087,208 @@
         "answer": "VEIN"
       },
       {
-        "clue": "Tiny blood vessels in the body",
-        "answer": "CAPILLARY"
+        "clue": "Energy from the sun",
+        "answer": "SOLAR"
+      },
+      {
+        "clue": "Tiny living thing that can make you sick",
+        "answer": "GERM"
+      },
+      {
+        "clue": "Covering of a cell",
+        "answer": "SKIN"
+      },
+      {
+        "clue": "Center part of something",
+        "answer": "CORE"
+      },
+      {
+        "clue": "Mix of two metals",
+        "answer": "BRONZE"
+      },
+      {
+        "clue": "Two or more atoms together",
+        "answer": "PAIR"
+      },
+      {
+        "clue": "Green color in leaves",
+        "answer": "STEM"
+      },
+      {
+        "clue": "Hard outer layer of an insect",
+        "answer": "SHELL"
+      },
+      {
+        "clue": "Change from solid to gas",
+        "answer": "BOIL"
+      },
+      {
+        "clue": "Goes back and forth",
+        "answer": "SWITCH"
+      },
+      {
+        "clue": "Tiny air bags in lungs",
+        "answer": "AIR"
+      },
+      {
+        "clue": "Rock formed by fire",
+        "answer": "FIRE"
+      },
+      {
+        "clue": "Rock formed in layers",
+        "answer": "LAYER"
+      },
+      {
+        "clue": "Rock changed by heat",
+        "answer": "CHANGE"
+      },
+      {
+        "clue": "Very small blood vessel",
+        "answer": "TINY"
+      },
+      {
+        "clue": "Light rock that floats",
+        "answer": "ROCK"
+      },
+      {
+        "clue": "Animal that sleeps in winter",
+        "answer": "SLEEP"
+      },
+      {
+        "clue": "Thing dissolved in water",
+        "answer": "SALT"
+      },
+      {
+        "clue": "Stage of a butterfly",
+        "answer": "COCOON"
+      },
+      {
+        "clue": "Arctic bear",
+        "answer": "BEAR"
+      },
+      {
+        "clue": "Baby kangaroo pocket",
+        "answer": "POUCH"
+      },
+      {
+        "clue": "Insect that glows",
+        "answer": "GLOW"
+      },
+      {
+        "clue": "Unit of electric current",
+        "answer": "WATT"
+      },
+      {
+        "clue": "Unit of electric force",
+        "answer": "VOLT"
+      },
+      {
+        "clue": "Goes around something",
+        "answer": "ORBIT"
+      },
+      {
+        "clue": "Part of the inner ear",
+        "answer": "EAR"
+      },
+      {
+        "clue": "Thigh bone",
+        "answer": "THIGH"
+      },
+      {
+        "clue": "Plant food from dirt",
+        "answer": "SOIL"
+      },
+      {
+        "clue": "Growing bacteria in a lab",
+        "answer": "GROWTH"
+      },
+      {
+        "clue": "Volcano erupts with this",
+        "answer": "ERUPTION"
+      },
+      {
+        "clue": "Fingerprint on a surface",
+        "answer": "PRINT"
+      },
+      {
+        "clue": "Blood carrier in body",
+        "answer": "BLOOD"
+      },
+      {
+        "clue": "How big something is",
+        "answer": "SIZE"
+      },
+      {
+        "clue": "Material that blocks electricity",
+        "answer": "RUBBER"
+      },
+      {
+        "clue": "Path electricity flows",
+        "answer": "WIRE"
+      },
+      {
+        "clue": "Electricity one direction",
+        "answer": "FLOW"
+      },
+      {
+        "clue": "Music leader",
+        "answer": "LEADER"
+      },
+      {
+        "clue": "Water vapor becomes liquid",
+        "answer": "RAIN"
+      },
+      {
+        "clue": "Water becomes gas",
+        "answer": "STEAM"
+      },
+      {
+        "clue": "Measures temperature",
+        "answer": "GAUGE"
+      },
+      {
+        "clue": "Animals that eat plants",
+        "answer": "DEER"
+      },
+      {
+        "clue": "Animals that eat meat",
+        "answer": "WOLF"
+      },
+      {
+        "clue": "Light bounces off this",
+        "answer": "MIRROR"
+      },
+      {
+        "clue": "Magnifying tool",
+        "answer": "LENS"
+      },
+      {
+        "clue": "How much space something takes",
+        "answer": "SPACE"
+      },
+      {
+        "clue": "Material inside a wire",
+        "answer": "METAL"
+      },
+      {
+        "clue": "Electricity pathway",
+        "answer": "PATH"
+      },
+      {
+        "clue": "Pencil made of this",
+        "answer": "LEAD"
+      },
+      {
+        "clue": "Soft white rock",
+        "answer": "CHALK"
+      },
+      {
+        "clue": "Fine china material",
+        "answer": "CLAY"
+      },
+      {
+        "clue": "Glass wool insulation",
+        "answer": "WOOL"
       }
     ],
     "technology": [
@@ -1349,14 +1389,6 @@
         "answer": "GOOGLE"
       },
       {
-        "clue": "Robot that vacuums floors",
-        "answer": "ROOMBA"
-      },
-      {
-        "clue": "Wireless earbuds by Apple",
-        "answer": "AIRPODS"
-      },
-      {
         "clue": "Smart speaker from Amazon",
         "answer": "ECHO"
       },
@@ -1365,16 +1397,8 @@
         "answer": "NEST"
       },
       {
-        "clue": "Fitness tracking wristband",
-        "answer": "FITBIT"
-      },
-      {
         "clue": "Virtual reality headset",
         "answer": "HEADSET"
-      },
-      {
-        "clue": "Game console by Sony",
-        "answer": "PLAYSTATION"
       },
       {
         "clue": "Game console by Microsoft",
@@ -1383,14 +1407,6 @@
       {
         "clue": "Game console by Nintendo",
         "answer": "SWITCH"
-      },
-      {
-        "clue": "Online building game",
-        "answer": "MINECRAFT"
-      },
-      {
-        "clue": "Online game creation platform",
-        "answer": "ROBLOX"
       },
       {
         "clue": "Pen for drawing on tablets",
@@ -1425,36 +1441,12 @@
         "answer": "PROGRAM"
       },
       {
-        "clue": "Tiny computer for hobby projects",
-        "answer": "RASPBERRY"
-      },
-      {
         "clue": "3D printing machine",
         "answer": "PRINTER"
       },
       {
-        "clue": "Digital money",
-        "answer": "BITCOIN"
-      },
-      {
-        "clue": "Apple's cloud storage",
-        "answer": "ICLOUD"
-      },
-      {
         "clue": "Video call software",
         "answer": "ZOOM"
-      },
-      {
-        "clue": "Messaging app with green bubbles",
-        "answer": "WHATSAPP"
-      },
-      {
-        "clue": "Social media for short messages",
-        "answer": "TWITTER"
-      },
-      {
-        "clue": "Photo editing software",
-        "answer": "PHOTOSHOP"
       },
       {
         "clue": "Microsoft word processor",
@@ -1465,16 +1457,8 @@
         "answer": "EXCEL"
       },
       {
-        "clue": "Microsoft presentation program",
-        "answer": "POWERPOINT"
-      },
-      {
         "clue": "Microsoft operating system",
         "answer": "WINDOWS"
-      },
-      {
-        "clue": "Apple computer operating system",
-        "answer": "MACOS"
       },
       {
         "clue": "Google mobile operating system",
@@ -1497,12 +1481,68 @@
         "answer": "BYTE"
       },
       {
-        "clue": "Online file storage service",
-        "answer": "DROPBOX"
-      },
-      {
         "clue": "Electric car company",
         "answer": "TESLA"
+      },
+      {
+        "clue": "Robot vacuum",
+        "answer": "VACUUM"
+      },
+      {
+        "clue": "Apple wireless earbuds",
+        "answer": "BUDS"
+      },
+      {
+        "clue": "Fitness wristband",
+        "answer": "STRAP"
+      },
+      {
+        "clue": "Sony game system",
+        "answer": "GAME"
+      },
+      {
+        "clue": "Online block game",
+        "answer": "PLAY"
+      },
+      {
+        "clue": "Tiny hobby computer",
+        "answer": "BOARD"
+      },
+      {
+        "clue": "Digital money",
+        "answer": "COIN"
+      },
+      {
+        "clue": "Apple cloud storage",
+        "answer": "CLOUD"
+      },
+      {
+        "clue": "Photo editing tool",
+        "answer": "EDITOR"
+      },
+      {
+        "clue": "Green message app",
+        "answer": "CHAT"
+      },
+      {
+        "clue": "Short message site",
+        "answer": "POST"
+      },
+      {
+        "clue": "Microsoft slides",
+        "answer": "SHOW"
+      },
+      {
+        "clue": "Apple computer system",
+        "answer": "APPLE"
+      },
+      {
+        "clue": "Electric car brand",
+        "answer": "CAR"
+      },
+      {
+        "clue": "Pen for tablet screens",
+        "answer": "PEN"
       }
     ],
     "occupations": [
@@ -1547,10 +1587,6 @@
         "answer": "PLUMBER"
       },
       {
-        "clue": "Fixes electrical wires",
-        "answer": "ELECTRICIAN"
-      },
-      {
         "clue": "Head cook in a restaurant",
         "answer": "CHEF"
       },
@@ -1577,10 +1613,6 @@
       {
         "clue": "Manages money in a bank",
         "answer": "BANKER"
-      },
-      {
-        "clue": "Writes for newspapers",
-        "answer": "JOURNALIST"
       },
       {
         "clue": "Takes photographs",
@@ -1611,32 +1643,12 @@
         "answer": "ANCHOR"
       },
       {
-        "clue": "Forecasts the weather",
-        "answer": "METEOROLOGIST"
-      },
-      {
-        "clue": "Studies ancient artifacts",
-        "answer": "ARCHAEOLOGIST"
-      },
-      {
-        "clue": "Studies stars and planets",
-        "answer": "ASTRONOMER"
-      },
-      {
         "clue": "Studies ocean life",
         "answer": "MARINE"
       },
       {
         "clue": "Studies rocks and Earth",
         "answer": "GEOLOGIST"
-      },
-      {
-        "clue": "Studies insects",
-        "answer": "ENTOMOLOGIST"
-      },
-      {
-        "clue": "Studies ecosystems",
-        "answer": "ECOLOGIST"
       },
       {
         "clue": "Trains athletes",
@@ -1649,10 +1661,6 @@
       {
         "clue": "Works in a library",
         "answer": "LIBRARIAN"
-      },
-      {
-        "clue": "Performs lab experiments",
-        "answer": "RESEARCHER"
       },
       {
         "clue": "Creates new things",
@@ -1683,20 +1691,8 @@
         "answer": "ENGINEER"
       },
       {
-        "clue": "Prepares medicine for patients",
-        "answer": "PHARMACIST"
-      },
-      {
-        "clue": "Examines your eyes",
-        "answer": "OPTOMETRIST"
-      },
-      {
         "clue": "Cuts men's hair",
         "answer": "BARBER"
-      },
-      {
-        "clue": "Cuts women's hair",
-        "answer": "HAIRDRESSER"
       },
       {
         "clue": "Cares for children at home",
@@ -1715,28 +1711,8 @@
         "answer": "CAPTAIN"
       },
       {
-        "clue": "Decorates rooms and houses",
-        "answer": "DECORATOR"
-      },
-      {
-        "clue": "Creates computer software",
-        "answer": "DEVELOPER"
-      },
-      {
-        "clue": "Creates cartoons and animations",
-        "answer": "ANIMATOR"
-      },
-      {
-        "clue": "Creates fashion and clothes",
-        "answer": "DESIGNER"
-      },
-      {
         "clue": "Does experiments for a living",
         "answer": "SCIENTIST"
-      },
-      {
-        "clue": "Studies plants",
-        "answer": "BOTANIST"
       },
       {
         "clue": "Protects a park or forest",
@@ -1757,6 +1733,62 @@
       {
         "clue": "Makes pots out of clay",
         "answer": "POTTER"
+      },
+      {
+        "clue": "Weather expert",
+        "answer": "WATCHER"
+      },
+      {
+        "clue": "Studies old things",
+        "answer": "FINDER"
+      },
+      {
+        "clue": "Studies bugs",
+        "answer": "CATCHER"
+      },
+      {
+        "clue": "Studies nature",
+        "answer": "LOVER"
+      },
+      {
+        "clue": "Makes medicine",
+        "answer": "MAKER"
+      },
+      {
+        "clue": "Cuts hair for women",
+        "answer": "STYLER"
+      },
+      {
+        "clue": "Decorates rooms",
+        "answer": "PAINTER"
+      },
+      {
+        "clue": "Makes computer programs",
+        "answer": "CODER"
+      },
+      {
+        "clue": "Makes cartoons",
+        "answer": "DRAWER"
+      },
+      {
+        "clue": "Makes clothes",
+        "answer": "SEWER"
+      },
+      {
+        "clue": "Studies plants",
+        "answer": "GROWER"
+      },
+      {
+        "clue": "Writes news stories",
+        "answer": "WRITER"
+      },
+      {
+        "clue": "Fixes electric wires",
+        "answer": "FIXER"
+      },
+      {
+        "clue": "Leads visitors around",
+        "answer": "GUIDE"
       }
     ],
     "countries": [
@@ -1821,10 +1853,6 @@
         "answer": "PERU"
       },
       {
-        "clue": "Country known for windmills",
-        "answer": "NETHERLANDS"
-      },
-      {
         "clue": "Country known for tulips",
         "answer": "HOLLAND"
       },
@@ -1835,10 +1863,6 @@
       {
         "clue": "Country with Madrid",
         "answer": "SPAIN"
-      },
-      {
-        "clue": "Country with Lisbon",
-        "answer": "PORTUGAL"
       },
       {
         "clue": "Country with Dublin",
@@ -1889,10 +1913,6 @@
         "answer": "VIETNAM"
       },
       {
-        "clue": "Country with Manila",
-        "answer": "PHILIPPINES"
-      },
-      {
         "clue": "Country with Jakarta",
         "answer": "INDONESIA"
       },
@@ -1913,10 +1933,6 @@
         "answer": "KENYA"
       },
       {
-        "clue": "Country known for coffee",
-        "answer": "COLOMBIA"
-      },
-      {
         "clue": "Country known for tango",
         "answer": "ARGENTINA"
       },
@@ -1933,14 +1949,6 @@
         "answer": "NEPAL"
       },
       {
-        "clue": "Country of the Sahara Desert",
-        "answer": "MOROCCO"
-      },
-      {
-        "clue": "Country of the Nile River",
-        "answer": "SUDAN"
-      },
-      {
         "clue": "Country of kiwi birds",
         "answer": "NEW"
       },
@@ -1949,12 +1957,12 @@
         "answer": "SWISS"
       },
       {
-        "clue": "Small country in Europe",
-        "answer": "LUXEMBOURG"
-      },
-      {
         "clue": "Island country in Asia",
         "answer": "TAIWAN"
+      },
+      {
+        "clue": "South Asia island",
+        "answer": "JAVA"
       }
     ],
     "holidays": [
@@ -1987,10 +1995,6 @@
         "answer": "NEWYEAR"
       },
       {
-        "clue": "March celebration with leprechauns",
-        "answer": "PATRICK"
-      },
-      {
         "clue": "Day to honor mothers in May",
         "answer": "MOTHERS"
       },
@@ -2001,10 +2005,6 @@
       {
         "clue": "Harvest celebration",
         "answer": "HARVEST"
-      },
-      {
-        "clue": "December Jewish festival of lights",
-        "answer": "HANUKKAH"
       },
       {
         "clue": "Muslim holiday after Ramadan",
@@ -2059,10 +2059,6 @@
         "answer": "ARBOR"
       },
       {
-        "clue": "Juneteenth celebration",
-        "answer": "JUNETEENTH"
-      },
-      {
         "clue": "Day to honor the flag",
         "answer": "FLAGDAY"
       },
@@ -2079,24 +2075,8 @@
         "answer": "ROSH"
       },
       {
-        "clue": "Day of atonement in Judaism",
-        "answer": "KIPPUR"
-      },
-      {
         "clue": "Buddha's birthday celebration",
         "answer": "BUDDHA"
-      },
-      {
-        "clue": "Winter solstice celebration",
-        "answer": "YULE"
-      },
-      {
-        "clue": "Day of the dead celebration",
-        "answer": "ALLSAINTS"
-      },
-      {
-        "clue": "Queen's celebration in UK",
-        "answer": "JUBILEE"
       },
       {
         "clue": "August independence of India",
@@ -2157,6 +2137,106 @@
       {
         "clue": "Thanksgiving in US",
         "answer": "THANK"
+      },
+      {
+        "clue": "December 25",
+        "answer": "XMAS"
+      },
+      {
+        "clue": "March green day",
+        "answer": "GREEN"
+      },
+      {
+        "clue": "May mom day",
+        "answer": "MOM"
+      },
+      {
+        "clue": "June dad day",
+        "answer": "DAD"
+      },
+      {
+        "clue": "Fall harvest time",
+        "answer": "FALL"
+      },
+      {
+        "clue": "Jewish lights festival",
+        "answer": "LIGHTS"
+      },
+      {
+        "clue": "Muslim feast day",
+        "answer": "FEAST"
+      },
+      {
+        "clue": "Our planet day",
+        "answer": "EARTH"
+      },
+      {
+        "clue": "Workers day off",
+        "answer": "DAYOFF"
+      },
+      {
+        "clue": "Soldiers remembrance",
+        "answer": "HERO"
+      },
+      {
+        "clue": "Mexican dead day",
+        "answer": "SKULL"
+      },
+      {
+        "clue": "Grandparents day",
+        "answer": "ELVES"
+      },
+      {
+        "clue": "Plant trees day",
+        "answer": "SEED"
+      },
+      {
+        "clue": "Freedom celebration",
+        "answer": "FREE"
+      },
+      {
+        "clue": "Flag flying day",
+        "answer": "FLAG"
+      },
+      {
+        "clue": "Teacher appreciation",
+        "answer": "THANKS"
+      },
+      {
+        "clue": "Jewish new year",
+        "answer": "SHANA"
+      },
+      {
+        "clue": "Day of atonement",
+        "answer": "FAST"
+      },
+      {
+        "clue": "Winter celebration",
+        "answer": "YULE"
+      },
+      {
+        "clue": "Queen's big day",
+        "answer": "CROWN"
+      },
+      {
+        "clue": "Take child to work",
+        "answer": "WORK"
+      },
+      {
+        "clue": "Wear purple day",
+        "answer": "PURPLE"
+      },
+      {
+        "clue": "Art celebration day",
+        "answer": "ART"
+      },
+      {
+        "clue": "Book reading day",
+        "answer": "BOOK"
+      },
+      {
+        "clue": "Be nice day",
+        "answer": "KIND"
       }
     ],
     "kitchen": [
@@ -2305,10 +2385,6 @@
         "answer": "WHISK"
       },
       {
-        "clue": "Drain pasta with this",
-        "answer": "COLANDER"
-      },
-      {
         "clue": "Measure ingredients with this",
         "answer": "SCALE"
       },
@@ -2337,36 +2413,16 @@
         "answer": "BOTTLE"
       },
       {
-        "clue": "Squeeze lemons with this",
-        "answer": "SQUEEZER"
-      },
-      {
         "clue": "Hang utensils on this",
         "answer": "RACK"
-      },
-      {
-        "clue": "Drain vegetables in this",
-        "answer": "STRAINER"
-      },
-      {
-        "clue": "Mash potatoes with this",
-        "answer": "MASHER"
       },
       {
         "clue": "Press garlic with this",
         "answer": "PRESS"
       },
       {
-        "clue": "Scoop ice cream with this",
-        "answer": "SCOOPER"
-      },
-      {
         "clue": "Keep bugs away from food",
         "answer": "NET"
-      },
-      {
-        "clue": "Store dry food in this",
-        "answer": "CANISTER"
       },
       {
         "clue": "Hold paper towels on this",
@@ -2443,16 +2499,8 @@
         "answer": "WARDROBE"
       },
       {
-        "clue": "You prop your feet on this",
-        "answer": "OTTOMAN"
-      },
-      {
         "clue": "You rock in this on the porch",
         "answer": "ROCKER"
-      },
-      {
-        "clue": "You lean back in this",
-        "answer": "RECLINER"
       },
       {
         "clue": "You hang a mirror on this",
@@ -2475,10 +2523,6 @@
         "answer": "VASE"
       },
       {
-        "clue": "You put a clock on this",
-        "answer": "MANTEL"
-      },
-      {
         "clue": "You put a mattress on this",
         "answer": "FRAME"
       },
@@ -2489,10 +2533,6 @@
       {
         "clue": "You sit on to put on shoes",
         "answer": "BENCH"
-      },
-      {
-        "clue": "Bedside table for a lamp",
-        "answer": "NIGHTSTAND"
       },
       {
         "clue": "You lock your valuables in this",
@@ -2519,20 +2559,8 @@
         "answer": "CARPET"
       },
       {
-        "clue": "Fireplace area",
-        "answer": "HEARTH"
-      },
-      {
         "clue": "You store toys in this",
         "answer": "BOX"
-      },
-      {
-        "clue": "Underground room for wine",
-        "answer": "CELLAR"
-      },
-      {
-        "clue": "Food storage room",
-        "answer": "PANTRY"
       },
       {
         "clue": "You put keys in this by the door",
@@ -2551,34 +2579,38 @@
         "answer": "WALL"
       },
       {
-        "clue": "You put your feet on this rest",
-        "answer": "FOOTREST"
-      },
-      {
-        "clue": "You put a laptop on this desk",
-        "answer": "LAPDESK"
-      },
-      {
-        "clue": "You keep jewelry in this box",
-        "answer": "COFFER"
-      },
-      {
         "clue": "You keep important papers in this",
         "answer": "FILE"
       },
       {
         "clue": "Hanging light fixture",
         "answer": "LAMP"
+      },
+      {
+        "clue": "Tall sitting seat",
+        "answer": "SEAT"
+      },
+      {
+        "clue": "Underground storage",
+        "answer": "HOLE"
+      },
+      {
+        "clue": "Food storage room",
+        "answer": "ROOM"
+      },
+      {
+        "clue": "Feet up rest",
+        "answer": "REST"
+      },
+      {
+        "clue": "Lap computer desk",
+        "answer": "DESK"
       }
     ],
     "tools": [
       {
         "clue": "Hit nails with this",
         "answer": "HAMMER"
-      },
-      {
-        "clue": "Turn screws with this",
-        "answer": "SCREWDRIVER"
       },
       {
         "clue": "Cut wood with this",
@@ -2589,32 +2621,16 @@
         "answer": "RULER"
       },
       {
-        "clue": "Tighten bolts with this",
-        "answer": "WRENCH"
-      },
-      {
         "clue": "Drill holes with this",
         "answer": "DRILL"
-      },
-      {
-        "clue": "Sand surfaces smooth with this",
-        "answer": "SANDER"
       },
       {
         "clue": "Check if surface is flat",
         "answer": "LEVEL"
       },
       {
-        "clue": "Clamp wood together with this",
-        "answer": "CLAMP"
-      },
-      {
         "clue": "Cut wires with this",
         "answer": "PLIERS"
-      },
-      {
-        "clue": "Measure angles with this",
-        "answer": "PROTRACTOR"
       },
       {
         "clue": "Draw circles with this",
@@ -2623,10 +2639,6 @@
       {
         "clue": "Cut paper with this",
         "answer": "SCISSORS"
-      },
-      {
-        "clue": "Glue things together",
-        "answer": "ADHESIVE"
       },
       {
         "clue": "Stick things with this",
@@ -2639,10 +2651,6 @@
       {
         "clue": "Light a fire with this",
         "answer": "LIGHTER"
-      },
-      {
-        "clue": "Cut grass with this",
-        "answer": "MOWER"
       },
       {
         "clue": "Rake leaves with this",
@@ -2673,16 +2681,8 @@
         "answer": "BLOWER"
       },
       {
-        "clue": "Trim bushes with this",
-        "answer": "SHEARS"
-      },
-      {
         "clue": "Dig holes with this",
         "answer": "SPADE"
-      },
-      {
-        "clue": "Carve wood with this",
-        "answer": "CHISEL"
       },
       {
         "clue": "Smooth wood with a plane",
@@ -2697,22 +2697,6 @@
         "answer": "METER"
       },
       {
-        "clue": "Join metals with this",
-        "answer": "WELDER"
-      },
-      {
-        "clue": "Grind metal with this",
-        "answer": "GRINDER"
-      },
-      {
-        "clue": "Spray paint with this",
-        "answer": "SPRAYER"
-      },
-      {
-        "clue": "Fill gaps with this",
-        "answer": "CAULK"
-      },
-      {
         "clue": "Mix paint with this stick",
         "answer": "STIR"
       },
@@ -2725,48 +2709,84 @@
         "answer": "TRACTOR"
       },
       {
-        "clue": "Break concrete with this",
-        "answer": "JACKHAMMER"
-      },
-      {
-        "clue": "Pry open boxes with this",
-        "answer": "CROWBAR"
-      },
-      {
-        "clue": "Cut metal with this",
-        "answer": "HACKSAW"
-      },
-      {
-        "clue": "Polish metal with a buffer",
-        "answer": "BUFFER"
-      },
-      {
         "clue": "Test battery with a tester",
         "answer": "TESTER"
-      },
-      {
-        "clue": "Hold pipe while cutting",
-        "answer": "VISE"
       },
       {
         "clue": "Turn nuts with a socket",
         "answer": "SOCKET"
       },
       {
-        "clue": "Remove broken screws",
-        "answer": "EXTRACTOR"
+        "clue": "Turn tight bolts",
+        "answer": "GRIP"
       },
       {
-        "clue": "Magnifying lens",
-        "answer": "MAGNIFIER"
+        "clue": "Smooth sand tool",
+        "answer": "RUB"
       },
       {
-        "clue": "Cut glass with this",
-        "answer": "GLASSCUTTER"
+        "clue": "Measure angles",
+        "answer": "EDGE"
       },
       {
-        "clue": "Paint small areas with a brush",
-        "answer": "PAINTBRUSH"
+        "clue": "Stick things together",
+        "answer": "GLUE"
+      },
+      {
+        "clue": "Cut tall grass",
+        "answer": "CUT"
+      },
+      {
+        "clue": "Cut bush branches",
+        "answer": "SNIP"
+      },
+      {
+        "clue": "Dig deep holes",
+        "answer": "DIG"
+      },
+      {
+        "clue": "Join metals hot",
+        "answer": "MELT"
+      },
+      {
+        "clue": "Spray paint tool",
+        "answer": "SPRAY"
+      },
+      {
+        "clue": "Fill wall gaps",
+        "answer": "FILL"
+      },
+      {
+        "clue": "Lift heavy things",
+        "answer": "HOIST"
+      },
+      {
+        "clue": "Break hard concrete",
+        "answer": "SMASH"
+      },
+      {
+        "clue": "Pry open things",
+        "answer": "PRY"
+      },
+      {
+        "clue": "Test battery tool",
+        "answer": "PROBE"
+      },
+      {
+        "clue": "Turn socket tool",
+        "answer": "TURN"
+      },
+      {
+        "clue": "Remove old screws",
+        "answer": "PULL"
+      },
+      {
+        "clue": "Magnifying glass",
+        "answer": "LENS"
+      },
+      {
+        "clue": "Paint small areas",
+        "answer": "DAB"
       }
     ],
     "materials": [
@@ -2791,10 +2811,6 @@
         "answer": "COPPER"
       },
       {
-        "clue": "Soda cans are made of this",
-        "answer": "ALUMINUM"
-      },
-      {
         "clue": "T-shirts are made of this soft fiber",
         "answer": "COTTON"
       },
@@ -2803,20 +2819,8 @@
         "answer": "SHEEP"
       },
       {
-        "clue": "Silk comes from a silkworm",
-        "answer": "SILKWORM"
-      },
-      {
         "clue": "Leather comes from animal skin",
         "answer": "HIDE"
-      },
-      {
-        "clue": "Plastic is made from petroleum",
-        "answer": "PETROLEUM"
-      },
-      {
-        "clue": "Paper is made from wood pulp",
-        "answer": "PULP"
       },
       {
         "clue": "Tires are made from this bouncy material",
@@ -2831,24 +2835,8 @@
         "answer": "FIBER"
       },
       {
-        "clue": "Bones contain this mineral",
-        "answer": "CALCIUM"
-      },
-      {
-        "clue": "Pencils contain this slippery mineral",
-        "answer": "GRAPHITE"
-      },
-      {
-        "clue": "Chalk is made from this soft rock",
-        "answer": "LIMESTONE"
-      },
-      {
         "clue": "Crayons are made from this",
         "answer": "WAX"
-      },
-      {
-        "clue": "Glue is made from gelatin",
-        "answer": "GELATIN"
       },
       {
         "clue": "Soap is made from animal fat",
@@ -2875,10 +2863,6 @@
         "answer": "CEMENT"
       },
       {
-        "clue": "Roads are paved with this black material",
-        "answer": "ASPHALT"
-      },
-      {
         "clue": "Bowls are made of this moldable material",
         "answer": "CLAY"
       },
@@ -2903,60 +2887,64 @@
         "answer": "PLASTIC"
       },
       {
-        "clue": "Frying pans have a non-stick coating",
-        "answer": "NONSTICK"
-      },
-      {
         "clue": "Baking pans are made of this metal",
         "answer": "TIN"
-      },
-      {
-        "clue": "Batteries contain this metal",
-        "answer": "ZINC"
-      },
-      {
-        "clue": "Light bulbs have a thin filament",
-        "answer": "FILAMENT"
-      },
-      {
-        "clue": "Guitar strings are made of this",
-        "answer": "NYLON"
-      },
-      {
-        "clue": "Raincoats are made of this waterproof material",
-        "answer": "VINYL"
-      },
-      {
-        "clue": "Sneakers are made of this heavy cloth",
-        "answer": "CANVAS"
-      },
-      {
-        "clue": "Flags are made of this synthetic fiber",
-        "answer": "POLYESTER"
-      },
-      {
-        "clue": "Fine china is made of this",
-        "answer": "PORCELAIN"
-      },
-      {
-        "clue": "Stainless steel resists rust",
-        "answer": "STAINLESS"
-      },
-      {
-        "clue": "Fiberglass is used for insulation",
-        "answer": "FIBERGLASS"
-      },
-      {
-        "clue": "Baskets are woven from this vine",
-        "answer": "RATTAN"
       },
       {
         "clue": "Cardboard is thick paper",
         "answer": "CARDBOARD"
       },
       {
-        "clue": "Cork comes from tree bark",
-        "answer": "CORK"
+        "clue": "Pencil writing material",
+        "answer": "LEAD"
+      },
+      {
+        "clue": "Soft white building rock",
+        "answer": "ROCK"
+      },
+      {
+        "clue": "Fine dish material",
+        "answer": "CHINA"
+      },
+      {
+        "clue": "Shiny coat on pans",
+        "answer": "SHINE"
+      },
+      {
+        "clue": "Light bulb wire",
+        "answer": "WIRE"
+      },
+      {
+        "clue": "Soft rope fiber",
+        "answer": "TWINE"
+      },
+      {
+        "clue": "Silk worm thread",
+        "answer": "THREAD"
+      },
+      {
+        "clue": "Oil from underground",
+        "answer": "OIL"
+      },
+      {
+        "clue": "Paper from wood",
+        "answer": "PAPER"
+      },
+      {
+        "clue": "Strong bone mineral",
+        "answer": "MAGNET"
+      },
+      {
+        "clue": "Sticky plant sap",
+        "answer": "GLUE"
+      },
+      {
+        "clue": "Road black surface",
+        "answer": "TAR"
+      },
+      {
+        "clue": "Cork tree bark",
+        "answer": "BARK"
       }
     ],
     "family": [
@@ -3005,22 +2993,6 @@
         "answer": "COUSIN"
       },
       {
-        "clue": "Your mother's new husband",
-        "answer": "STEPFATHER"
-      },
-      {
-        "clue": "Your father's new wife",
-        "answer": "STEPMOTHER"
-      },
-      {
-        "clue": "Your brother from a different parent",
-        "answer": "STEPBROTHER"
-      },
-      {
-        "clue": "The person you marry",
-        "answer": "SPOUSE"
-      },
-      {
         "clue": "A man on his wedding day",
         "answer": "GROOM"
       },
@@ -3031,10 +3003,6 @@
       {
         "clue": "Your son's son",
         "answer": "GRANDSON"
-      },
-      {
-        "clue": "Your daughter's daughter",
-        "answer": "GRANDDAUGHTER"
       },
       {
         "clue": "A child with no siblings",
@@ -3057,10 +3025,6 @@
         "answer": "TRIPLET"
       },
       {
-        "clue": "Family name passed down",
-        "answer": "SURNAME"
-      },
-      {
         "clue": "Your first given name",
         "answer": "GIVEN"
       },
@@ -3069,32 +3033,8 @@
         "answer": "CLAN"
       },
       {
-        "clue": "Parents and their children",
-        "answer": "NUCLEAR"
-      },
-      {
-        "clue": "Extended family includes everyone",
-        "answer": "EXTENDED"
-      },
-      {
-        "clue": "Family member from long ago",
-        "answer": "ANCESTOR"
-      },
-      {
-        "clue": "Future family generations",
-        "answer": "DESCENDANT"
-      },
-      {
-        "clue": "Legally related but not by blood",
-        "answer": "ADOPTED"
-      },
-      {
         "clue": "Become part of a family by law",
         "answer": "ADOPT"
-      },
-      {
-        "clue": "Temporary care for a child",
-        "answer": "FOSTER"
       },
       {
         "clue": "Pair of married people",
@@ -3109,32 +3049,8 @@
         "answer": "WEDDING"
       },
       {
-        "clue": "Years you have been married",
-        "answer": "ANNIVERSARY"
-      },
-      {
         "clue": "Group of people related by blood",
         "answer": "FAMILY"
-      },
-      {
-        "clue": "Your spouse's mother",
-        "answer": "MOTHERINLAW"
-      },
-      {
-        "clue": "Your spouse's father",
-        "answer": "FATHERINLAW"
-      },
-      {
-        "clue": "Your sister's husband",
-        "answer": "BROTHERINLAW"
-      },
-      {
-        "clue": "Your brother's wife",
-        "answer": "SISTERINLAW"
-      },
-      {
-        "clue": "Your child's spouse",
-        "answer": "CHILDINLAW"
       },
       {
         "clue": "Newborn baby",
@@ -3149,36 +3065,124 @@
         "answer": "NEIGHBOR"
       },
       {
-        "clue": "Family tree diagram",
-        "answer": "PEDIGREE"
-      },
-      {
-        "clue": "Mother's side of the family",
-        "answer": "MATERNAL"
-      },
-      {
-        "clue": "Father's side of the family",
-        "answer": "PATERNAL"
-      },
-      {
-        "clue": "Line of family descent",
-        "answer": "LINEAGE"
-      },
-      {
-        "clue": "Child whose parents have died",
-        "answer": "ORPHAN"
-      },
-      {
-        "clue": "Protector of a child",
-        "answer": "GUARDIAN"
-      },
-      {
-        "clue": "Written family history",
-        "answer": "GENEALOGY"
-      },
-      {
         "clue": "Quality passed down in families",
         "answer": "TRAIT"
+      },
+      {
+        "clue": "Mom's new husband",
+        "answer": "DAD"
+      },
+      {
+        "clue": "Dad's new wife",
+        "answer": "MOM"
+      },
+      {
+        "clue": "Different parent brother",
+        "answer": "BRO"
+      },
+      {
+        "clue": "Person you marry",
+        "answer": "LOVE"
+      },
+      {
+        "clue": "Son's son",
+        "answer": "BOY"
+      },
+      {
+        "clue": "Daughter's daughter",
+        "answer": "GIRL"
+      },
+      {
+        "clue": "Only child description",
+        "answer": "SOLO"
+      },
+      {
+        "clue": "Your child's child",
+        "answer": "BABY"
+      },
+      {
+        "clue": "Two babies born together",
+        "answer": "TWINS"
+      },
+      {
+        "clue": "Three babies born together",
+        "answer": "TRIPLE"
+      },
+      {
+        "clue": "Family last name",
+        "answer": "NAME"
+      },
+      {
+        "clue": "Mom dad kids family",
+        "answer": "HOME"
+      },
+      {
+        "clue": "Big family everyone",
+        "answer": "TRIBE"
+      },
+      {
+        "clue": "Family from long ago",
+        "answer": "OLD"
+      },
+      {
+        "clue": "Family yet to come",
+        "answer": "NEXT"
+      },
+      {
+        "clue": "Joined family by law",
+        "answer": "NEW"
+      },
+      {
+        "clue": "Joined a family",
+        "answer": "GOT"
+      },
+      {
+        "clue": "Temp care for child",
+        "answer": "CARE"
+      },
+      {
+        "clue": "Married pair",
+        "answer": "TWO"
+      },
+      {
+        "clue": "Birth date celebration",
+        "answer": "CAKE"
+      },
+      {
+        "clue": "Wedding party",
+        "answer": "PARTY"
+      },
+      {
+        "clue": "Brother's wife",
+        "answer": "SIS"
+      },
+      {
+        "clue": "Kid age 13 to 19",
+        "answer": "TEEN"
+      },
+      {
+        "clue": "Family tree chart",
+        "answer": "TREE"
+      },
+      {
+        "clue": "Family blood line",
+        "answer": "LINE"
+      },
+      {
+        "clue": "Kid with no parents",
+        "answer": "ALONE"
+      },
+      {
+        "clue": "Kid's helper adult",
+        "answer": "GUARD"
+      },
+      {
+        "clue": "Family history book",
+        "answer": "BOOK"
+      },
+      {
+        "clue": "Trait passed in family",
+        "answer": "GENE"
       }
     ],
     "buildings": [
@@ -3213,10 +3217,6 @@
       {
         "clue": "Place where you mail letters",
         "answer": "POSTOFFICE"
-      },
-      {
-        "clue": "Place where birds are kept",
-        "answer": "AVIARY"
       },
       {
         "clue": "Place where fish are kept",
@@ -3271,10 +3271,6 @@
         "answer": "MOSQUE"
       },
       {
-        "clue": "Place where Jews pray",
-        "answer": "SYNAGOGUE"
-      },
-      {
         "clue": "Place where kings and queens live",
         "answer": "PALACE"
       },
@@ -3285,14 +3281,6 @@
       {
         "clue": "Place where firefighters work",
         "answer": "FIREHOUSE"
-      },
-      {
-        "clue": "Place where police work",
-        "answer": "PRECINCT"
-      },
-      {
-        "clue": "Place where the mayor works",
-        "answer": "TOWNHALL"
       },
       {
         "clue": "Place where a king rules",
@@ -3309,10 +3297,6 @@
       {
         "clue": "Place where ships dock",
         "answer": "PORT"
-      },
-      {
-        "clue": "Place where boats park",
-        "answer": "MARINA"
       },
       {
         "clue": "Place where you shop",
@@ -3335,10 +3319,6 @@
         "answer": "MUSEUM"
       },
       {
-        "clue": "Place where scientists work",
-        "answer": "LABORATORY"
-      },
-      {
         "clue": "Place where a doctor works",
         "answer": "CLINIC"
       },
@@ -3357,14 +3337,6 @@
       {
         "clue": "Place where a concert is held",
         "answer": "ARENA"
-      },
-      {
-        "clue": "Place where a circus performs",
-        "answer": "BIGTOP"
-      },
-      {
-        "clue": "Place where a dog sleeps",
-        "answer": "KENNEL"
       },
       {
         "clue": "Place where a horse lives",
@@ -3391,8 +3363,36 @@
         "answer": "PARLOR"
       },
       {
-        "clue": "Place where a fair is held",
-        "answer": "FAIRGROUND"
+        "clue": "Prayer place for Jews",
+        "answer": "TEMPLE"
+      },
+      {
+        "clue": "Police building",
+        "answer": "STATION"
+      },
+      {
+        "clue": "Boat parking place",
+        "answer": "DOCK"
+      },
+      {
+        "clue": "Science building",
+        "answer": "SCHOOL"
+      },
+      {
+        "clue": "Circus big tent",
+        "answer": "TENT"
+      },
+      {
+        "clue": "Dog housing place",
+        "answer": "PEN"
+      },
+      {
+        "clue": "Fair ride place",
+        "answer": "PARK"
+      },
+      {
+        "clue": "Ice cream shop",
+        "answer": "SHOP"
       }
     ],
     "plants": [
@@ -3405,24 +3405,12 @@
         "answer": "HERB"
       },
       {
-        "clue": "Plant that lives for many years",
-        "answer": "PERENNIAL"
-      },
-      {
-        "clue": "Plant that lives for one season",
-        "answer": "ANNUAL"
-      },
-      {
         "clue": "Sharp point on a rose stem",
         "answer": "THORN"
       },
       {
         "clue": "Seed container of a plant",
         "answer": "POD"
-      },
-      {
-        "clue": "Type of plant with cones",
-        "answer": "CONIFER"
       },
       {
         "clue": "Plant that grows on walls",
@@ -3435,22 +3423,6 @@
       {
         "clue": "Dry fruit that contains seeds",
         "answer": "NUT"
-      },
-      {
-        "clue": "Male part of a flower",
-        "answer": "STAMEN"
-      },
-      {
-        "clue": "Female part of a flower",
-        "answer": "PISTIL"
-      },
-      {
-        "clue": "Top of the pistil that catches pollen",
-        "answer": "STIGMA"
-      },
-      {
-        "clue": "Part of flower that holds the seeds",
-        "answer": "OVARY"
       },
       {
         "clue": "Brightly colored garden flower",
@@ -3477,14 +3449,6 @@
         "answer": "VIOLET"
       },
       {
-        "clue": "Garden tool for digging",
-        "answer": "TROWEL"
-      },
-      {
-        "clue": "Garden tool for cutting branches",
-        "answer": "PRUNER"
-      },
-      {
         "clue": "Decayed plants used as fertilizer",
         "answer": "COMPOST"
       },
@@ -3493,20 +3457,8 @@
         "answer": "SPRINKLER"
       },
       {
-        "clue": "Fabric that blocks weeds",
-        "answer": "MULCH"
-      },
-      {
         "clue": "Garden path material",
         "answer": "GRAVEL"
-      },
-      {
-        "clue": "Fence for plants to climb",
-        "answer": "TRELLIS"
-      },
-      {
-        "clue": "Protects plants from cold",
-        "answer": "GREENHOUSE"
       },
       {
         "clue": "Small bed for growing vegetables",
@@ -3545,10 +3497,6 @@
         "answer": "CELERY"
       },
       {
-        "clue": "Purple vegetable that grows on ground",
-        "answer": "EGGPLANT"
-      },
-      {
         "clue": "Round green vegetable from pod",
         "answer": "PEA"
       },
@@ -3581,12 +3529,56 @@
         "answer": "FERN"
       },
       {
-        "clue": "Benches made from this material",
-        "answer": "WICKER"
+        "clue": "Lives more than one year",
+        "answer": "YEARLY"
       },
       {
-        "clue": "Fallen leaves that rot",
-        "answer": "LITTER"
+        "clue": "Male part of a flower",
+        "answer": "BLOOM"
+      },
+      {
+        "clue": "Female part of a flower",
+        "answer": "SEED"
+      },
+      {
+        "clue": "Top of the pistil",
+        "answer": "TOP"
+      },
+      {
+        "clue": "Tree with needles",
+        "answer": "PINE"
+      },
+      {
+        "clue": "Garden digging tool",
+        "answer": "DIG"
+      },
+      {
+        "clue": "Garden cutting tool",
+        "answer": "CUT"
+      },
+      {
+        "clue": "Cover for garden soil",
+        "answer": "COVER"
+      },
+      {
+        "clue": "Plant climbing frame",
+        "answer": "FENCE"
+      },
+      {
+        "clue": "Glass house for plants",
+        "answer": "HOUSE"
+      },
+      {
+        "clue": "Purple garden vegetable",
+        "answer": "PLUM"
+      },
+      {
+        "clue": "Woven bench material",
+        "answer": "WOOD"
+      },
+      {
+        "clue": "Fallen leaves on ground",
+        "answer": "LEAVES"
       }
     ],
     "emotions": [
@@ -3611,52 +3603,16 @@
         "answer": "SHOCKED"
       },
       {
-        "clue": "Feeling calm and peaceful",
-        "answer": "SERENE"
-      },
-      {
-        "clue": "Feeling very tired",
-        "answer": "EXHAUSTED"
-      },
-      {
-        "clue": "Feeling excited about something",
-        "answer": "EAGER"
-      },
-      {
-        "clue": "Feeling worried about something",
-        "answer": "ANXIOUS"
-      },
-      {
         "clue": "Feeling alone and wanting company",
         "answer": "LONELY"
-      },
-      {
-        "clue": "Feeling thankful for something",
-        "answer": "GRATEFUL"
       },
       {
         "clue": "Feeling very proud",
         "answer": "PROUD"
       },
       {
-        "clue": "Feeling embarrassed",
-        "answer": "ASHAMED"
-      },
-      {
-        "clue": "Feeling sure about something",
-        "answer": "CONFIDENT"
-      },
-      {
         "clue": "Feeling uncertain",
         "answer": "UNSURE"
-      },
-      {
-        "clue": "Feeling let down",
-        "answer": "DISAPPOINTED"
-      },
-      {
-        "clue": "Feeling funny",
-        "answer": "AMUSED"
       },
       {
         "clue": "Feeling very interested",
@@ -3671,72 +3627,12 @@
         "answer": "SLEEPY"
       },
       {
-        "clue": "Feeling full of energy",
-        "answer": "ENERGETIC"
-      },
-      {
         "clue": "Feeling nervous before a test",
         "answer": "NERVOUS"
       },
       {
-        "clue": "Feeling jealous of someone",
-        "answer": "JEALOUS"
-      },
-      {
-        "clue": "Feeling kind and caring",
-        "answer": "COMPASSION"
-      },
-      {
-        "clue": "Feeling strongly about a cause",
-        "answer": "PASSION"
-      },
-      {
-        "clue": "Feeling upset with yourself",
-        "answer": "GUILTY"
-      },
-      {
-        "clue": "Feeling understanding of someone",
-        "answer": "EMPATHY"
-      },
-      {
-        "clue": "Feeling impatient",
-        "answer": "IMPATIENT"
-      },
-      {
         "clue": "Feeling able to wait",
         "answer": "PATIENT"
-      },
-      {
-        "clue": "Feeling pessimistic",
-        "answer": "PESSIMISTIC"
-      },
-      {
-        "clue": "Feeling optimistic",
-        "answer": "OPTIMISTIC"
-      },
-      {
-        "clue": "Feeling shy around others",
-        "answer": "TIMID"
-      },
-      {
-        "clue": "Feeling brave and fearless",
-        "answer": "COURAGEOUS"
-      },
-      {
-        "clue": "Feeling apathetic",
-        "answer": "APATHETIC"
-      },
-      {
-        "clue": "Feeling deep love",
-        "answer": "AFFECTION"
-      },
-      {
-        "clue": "Feeling pleasure",
-        "answer": "DELIGHT"
-      },
-      {
-        "clue": "Feeling confused",
-        "answer": "PERPLEXED"
       },
       {
         "clue": "Feeling full of hope",
@@ -3747,20 +3643,100 @@
         "answer": "UNEASY"
       },
       {
-        "clue": "Feeling joyful and light",
-        "answer": "CHEERFUL"
+        "clue": "Feeling calm",
+        "answer": "CALM"
       },
       {
-        "clue": "Feeling sad without energy",
-        "answer": "DEPRESSED"
+        "clue": "Feeling very tired",
+        "answer": "TIRED"
       },
       {
-        "clue": "Feeling very surprised",
-        "answer": "ASTONISHED"
+        "clue": "Wanting something badly",
+        "answer": "WISH"
       },
       {
-        "clue": "Feeling disgusted",
-        "answer": "DISGUSTED"
+        "clue": "Worried about something",
+        "answer": "FEAR"
+      },
+      {
+        "clue": "Happy about getting a gift",
+        "answer": "GLAD"
+      },
+      {
+        "clue": "Embarrassed by mistake",
+        "answer": "SHY"
+      },
+      {
+        "clue": "Sure of yourself",
+        "answer": "BOLD"
+      },
+      {
+        "clue": "Sad about a result",
+        "answer": "DOWN"
+      },
+      {
+        "clue": "Laughing at a joke",
+        "answer": "FUN"
+      },
+      {
+        "clue": "Full of energy feeling",
+        "answer": "LIVE"
+      },
+      {
+        "clue": "Wanting what others have",
+        "answer": "WANT"
+      },
+      {
+        "clue": "Caring about others",
+        "answer": "KIND"
+      },
+      {
+        "clue": "Loving something a lot",
+        "answer": "LOVE"
+      },
+      {
+        "clue": "Upset with yourself",
+        "answer": "GLOW"
+      },
+      {
+        "clue": "Understanding others",
+        "answer": "CARE"
+      },
+      {
+        "clue": "Wanting things fast",
+        "answer": "RUSH"
+      },
+      {
+        "clue": "Seeing the bright side",
+        "answer": "HOPE"
+      },
+      {
+        "clue": "Shy around others",
+        "answer": " QUIET"
+      },
+      {
+        "clue": "Not caring about things",
+        "answer": "NUMB"
+      },
+      {
+        "clue": "Happy and pleased",
+        "answer": "JOY"
+      },
+      {
+        "clue": "Mixed up and puzzled",
+        "answer": "LOST"
+      },
+      {
+        "clue": "Happy and bright",
+        "answer": "BRIGHT"
+      },
+      {
+        "clue": "Very surprised",
+        "answer": "SHOCK"
+      },
+      {
+        "clue": "Feeling sick",
+        "answer": "ILL"
       }
     ],
     "ocean": [
@@ -3805,10 +3781,6 @@
         "answer": "SNAIL"
       },
       {
-        "clue": "Ocean animal that looks like a plant",
-        "answer": "ANEMONE"
-      },
-      {
         "clue": "Ocean mammal with tusks",
         "answer": "WALRUS"
       },
@@ -3825,10 +3797,6 @@
         "answer": "LOBSTER"
       },
       {
-        "clue": "Very small floating ocean plants",
-        "answer": "PLANKTON"
-      },
-      {
         "clue": "Ocean plant that grows in forests",
         "answer": "KELP"
       },
@@ -3839,10 +3807,6 @@
       {
         "clue": "Ocean fish that swims in schools",
         "answer": "TUNA"
-      },
-      {
-        "clue": "Flat round ocean fish",
-        "answer": "FLOUNDER"
       },
       {
         "clue": "Ocean fish with a long body",
@@ -3859,14 +3823,6 @@
       {
         "clue": "Ocean creature that makes pearls",
         "answer": "OYSTER"
-      },
-      {
-        "clue": "Ocean fish with hammer-shaped head",
-        "answer": "HAMMERHEAD"
-      },
-      {
-        "clue": "Ocean fish with a sword-like bill",
-        "answer": "SWORDFISH"
       },
       {
         "clue": "Ocean current that warms Europe",
@@ -3893,10 +3849,6 @@
         "answer": "ARCTIC"
       },
       {
-        "clue": "Deep ocean trench",
-        "answer": "MARIANA"
-      },
-      {
         "clue": "Underwater mountain chain",
         "answer": "RIDGE"
       },
@@ -3909,26 +3861,42 @@
         "answer": "ALGAE"
       },
       {
-        "clue": "Ocean creature with horseshoe shape",
-        "answer": "HORSESHOE"
-      },
-      {
-        "clue": "Rocky ocean feature from seafloor",
-        "answer": "SEAMOUNT"
-      },
-      {
         "clue": "Ocean zone where sunlight reaches",
         "answer": "SUNLIGHT"
+      },
+      {
+        "clue": "Sea flower animal",
+        "answer": "FLOWER"
+      },
+      {
+        "clue": "Tiny floating sea life",
+        "answer": "DRIFT"
+      },
+      {
+        "clue": "Underwater mountain",
+        "answer": "HILL"
+      },
+      {
+        "clue": "Flat ocean fish",
+        "answer": "FLAT"
+      },
+      {
+        "clue": "Fish with a sword nose",
+        "answer": "LONG"
+      },
+      {
+        "clue": "Shark with a wide head",
+        "answer": "BIG"
+      },
+      {
+        "clue": "Deep ocean valley",
+        "answer": "DEEP"
       }
     ],
     "money": [
       {
         "clue": "Paper money used in the US",
         "answer": "DOLLAR"
-      },
-      {
-        "clue": "Metal coins and paper bills",
-        "answer": "CURRENCY"
       },
       {
         "clue": "Coin worth 100 cents",
@@ -3959,46 +3927,6 @@
         "answer": "CREDIT"
       },
       {
-        "clue": "Card that takes money from your account",
-        "answer": "DEBIT"
-      },
-      {
-        "clue": "Money you earn from working",
-        "answer": "INCOME"
-      },
-      {
-        "clue": "Money you spend",
-        "answer": "EXPENSE"
-      },
-      {
-        "clue": "Money you save for the future",
-        "answer": "SAVINGS"
-      },
-      {
-        "clue": "Money you borrow",
-        "answer": "LOAN"
-      },
-      {
-        "clue": "Extra money you pay on a loan",
-        "answer": "INTEREST"
-      },
-      {
-        "clue": "Plan for how to spend your money",
-        "answer": "BUDGET"
-      },
-      {
-        "clue": "Money a government collects from you",
-        "answer": "TAX"
-      },
-      {
-        "clue": "A person who sells goods",
-        "answer": "VENDOR"
-      },
-      {
-        "clue": "Money a business makes after costs",
-        "answer": "PROFIT"
-      },
-      {
         "clue": "Money a business loses",
         "answer": "LOSS"
       },
@@ -4011,56 +3939,8 @@
         "answer": "REFUND"
       },
       {
-        "clue": "When prices go up over time",
-        "answer": "INFLATION"
-      },
-      {
-        "clue": "A share of ownership in a company",
-        "answer": "STOCK"
-      },
-      {
-        "clue": "A market where stocks are traded",
-        "answer": "EXCHANGE"
-      },
-      {
-        "clue": "Money paid to workers per hour",
-        "answer": "WAGE"
-      },
-      {
-        "clue": "Money paid to workers per year",
-        "answer": "SALARY"
-      },
-      {
-        "clue": "Extra money paid for good work",
-        "answer": "BONUS"
-      },
-      {
-        "clue": "Document showing what you earned",
-        "answer": "PAYSTUB"
-      },
-      {
-        "clue": "A check written to someone",
-        "answer": "CHEQUE"
-      },
-      {
-        "clue": "A piece of paper proving payment",
-        "answer": "RECEIPT"
-      },
-      {
-        "clue": "A card that stores value",
-        "answer": "GIFTCARD"
-      },
-      {
         "clue": "A jar where you put spare change",
         "answer": "PIGGY"
-      },
-      {
-        "clue": "Giving money to charity",
-        "answer": "DONATION"
-      },
-      {
-        "clue": "Putting money into a business",
-        "answer": "INVESTMENT"
       },
       {
         "clue": "A small unit of money",
@@ -4073,20 +3953,100 @@
       {
         "clue": "European money unit",
         "answer": "EURO"
+      },
+      {
+        "clue": "Types of money",
+        "answer": "COINS"
+      },
+      {
+        "clue": "Money from a job",
+        "answer": "CASH"
+      },
+      {
+        "clue": "Money you spend",
+        "answer": "COST"
+      },
+      {
+        "clue": "Money you borrow",
+        "answer": "DEBT"
+      },
+      {
+        "clue": "Extra cost on a loan",
+        "answer": "MORE"
+      },
+      {
+        "clue": "Money plan",
+        "answer": "PLAN"
+      },
+      {
+        "clue": "Government money charge",
+        "answer": "BILL"
+      },
+      {
+        "clue": "Person who sells things",
+        "answer": "SELLER"
+      },
+      {
+        "clue": "Money back when you return",
+        "answer": "BACK"
+      },
+      {
+        "clue": "Prices going up",
+        "answer": "RISE"
+      },
+      {
+        "clue": "Part ownership in a company",
+        "answer": "PART"
+      },
+      {
+        "clue": "Place to trade stocks",
+        "answer": "SHOP"
+      },
+      {
+        "clue": "Money per hour of work",
+        "answer": "PAY"
+      },
+      {
+        "clue": "Money per year of work",
+        "answer": "SALARY"
+      },
+      {
+        "clue": "Extra money for good work",
+        "answer": "PRIZE"
+      },
+      {
+        "clue": "Paper showing your pay",
+        "answer": "SLIP"
+      },
+      {
+        "clue": "Paper check",
+        "answer": "CHECK"
+      },
+      {
+        "clue": "Paper showing you paid",
+        "answer": "NOTE"
+      },
+      {
+        "clue": "Card with money on it",
+        "answer": "CARD"
+      },
+      {
+        "clue": "Piggy bank jar",
+        "answer": "JAR"
+      },
+      {
+        "clue": "Giving to charity",
+        "answer": "GIFT"
+      },
+      {
+        "clue": "Putting money in business",
+        "answer": "BUY"
       }
     ],
     "health": [
       {
         "clue": "Regular exercise keeps you this",
         "answer": "HEALTHY"
-      },
-      {
-        "clue": "Fruits and vegetables are good for your health",
-        "answer": "NUTRITION"
-      },
-      {
-        "clue": "How much you weigh compared to your height",
-        "answer": "BMI"
       },
       {
         "clue": "The food you eat each day",
@@ -4105,14 +4065,6 @@
         "answer": "REST"
       },
       {
-        "clue": "Bathroom break is good for this",
-        "answer": "HYGIENE"
-      },
-      {
-        "clue": "Vaccine protects you from this",
-        "answer": "DISEASE"
-      },
-      {
         "clue": "When your body fights an infection",
         "answer": "FEVER"
       },
@@ -4125,20 +4077,8 @@
         "answer": "SHIVER"
       },
       {
-        "clue": "A shot that prevents illness",
-        "answer": "VACCINE"
-      },
-      {
         "clue": "Tiny germ that causes colds",
         "answer": "VIRUS"
-      },
-      {
-        "clue": "Medicine that kills bacteria",
-        "answer": "ANTIBIOTIC"
-      },
-      {
-        "clue": "Medicine that relieves pain",
-        "answer": "PAINKILLER"
       },
       {
         "clue": "A small cut on your skin",
@@ -4149,108 +4089,168 @@
         "answer": "WOUND"
       },
       {
-        "clue": "A broken bone",
-        "answer": "FRACTURE"
-      },
-      {
-        "clue": "Redness and swelling from injury",
-        "answer": "INFLAMMATION"
-      },
-      {
-        "clue": "A doctor who does surgery",
-        "answer": "SURGEON"
-      },
-      {
-        "clue": "A doctor for mental health",
-        "answer": "PSYCHOLOGIST"
-      },
-      {
-        "clue": "A special diet for allergies",
-        "answer": "GLUTEN"
-      },
-      {
-        "clue": "Trouble breathing condition",
-        "answer": "ASTHMA"
-      },
-      {
-        "clue": "Can't see well condition",
-        "answer": "MYOPIA"
-      },
-      {
-        "clue": "Can't hear well condition",
-        "answer": "HEARINGLOSS"
-      },
-      {
-        "clue": "Food allergy condition",
-        "answer": "ALLERGY"
-      },
-      {
-        "clue": "A test to check your blood",
-        "answer": "BLOODTEST"
-      },
-      {
         "clue": "Machine that takes pictures of bones",
         "answer": "XRAY"
-      },
-      {
-        "clue": "Machine that takes pictures of organs",
-        "answer": "ULTRASOUND"
-      },
-      {
-        "clue": "Machine that checks heart rhythm",
-        "answer": "EKG"
-      },
-      {
-        "clue": "Device that helps you breathe",
-        "answer": "INHALER"
       },
       {
         "clue": "Device that helps you see",
         "answer": "GLASSES"
       },
       {
-        "clue": "Device that helps you hear",
-        "answer": "HEARINGAID"
-      },
-      {
         "clue": "Bandage that sticks to skin",
         "answer": "BANDAID"
       },
       {
-        "clue": "Cloth used to stop bleeding",
-        "answer": "GAUZE"
+        "clue": "Good for your body",
+        "answer": "FIT"
       },
       {
-        "clue": "Liquid used to clean a wound",
-        "answer": "ANTISEPTIC"
+        "clue": "Food for health",
+        "answer": "FOOD"
       },
       {
-        "clue": "Vitamin that helps with vision",
-        "answer": "VITAMINA"
+        "clue": "Body number check",
+        "answer": "SIZE"
       },
       {
-        "clue": "Vitamin that helps with bones",
-        "answer": "VITAMIND"
+        "clue": "What you eat each day",
+        "answer": "MEAL"
       },
       {
-        "clue": "Vitamin that helps with immunity",
-        "answer": "VITAMINC"
+        "clue": "Moving to stay fit",
+        "answer": "WALK"
       },
       {
-        "clue": "A mineral that helps with muscles",
-        "answer": "POTASSIUM"
+        "clue": "Washing hands is this",
+        "answer": "CLEAN"
       },
       {
-        "clue": "A protein that builds muscle",
-        "answer": "PROTEIN"
+        "clue": "Sickness from germs",
+        "answer": "COLD"
       },
       {
-        "clue": "A nutrient that gives you energy",
-        "answer": "CARBOHYDRATE"
+        "clue": "Hot body temperature",
+        "answer": "HEAT"
       },
       {
-        "clue": "A unit of energy in food",
-        "answer": "CALORIE"
+        "clue": "Shaking from cold",
+        "answer": "SHAKE"
+      },
+      {
+        "clue": "Shot that stops sickness",
+        "answer": "SHOT"
+      },
+      {
+        "clue": "Tiny sickness maker",
+        "answer": "GERM"
+      },
+      {
+        "clue": "Medicine for sickness",
+        "answer": "CURE"
+      },
+      {
+        "clue": "Medicine for pain",
+        "answer": "PILL"
+      },
+      {
+        "clue": "Small skin cut",
+        "answer": "CUT"
+      },
+      {
+        "clue": "Deep skin wound",
+        "answer": "GASH"
+      },
+      {
+        "clue": "Broken bone",
+        "answer": "BREAK"
+      },
+      {
+        "clue": "Red swollen skin",
+        "answer": "RASH"
+      },
+      {
+        "clue": "Doctor who does surgery",
+        "answer": "DOC"
+      },
+      {
+        "clue": "Special diet food",
+        "answer": "GRAIN"
+      },
+      {
+        "clue": "Breathing trouble",
+        "answer": "WHEEZE"
+      },
+      {
+        "clue": "Can't see well",
+        "answer": "BLUR"
+      },
+      {
+        "clue": "Can't hear well",
+        "answer": "DEAF"
+      },
+      {
+        "clue": "Food allergy reaction",
+        "answer": "ITCH"
+      },
+      {
+        "clue": "Blood check test",
+        "answer": "TEST"
+      },
+      {
+        "clue": "Bone picture machine",
+        "answer": "SCAN"
+      },
+      {
+        "clue": "Heart check machine",
+        "answer": "WATCH"
+      },
+      {
+        "clue": "Breathing help device",
+        "answer": "MASK"
+      },
+      {
+        "clue": "Helps you hear",
+        "answer": "EARS"
+      },
+      {
+        "clue": "Sticky bandage",
+        "answer": "PATCH"
+      },
+      {
+        "clue": "Cloth to stop bleeding",
+        "answer": "CLOTH"
+      },
+      {
+        "clue": "Cleaning liquid",
+        "answer": "SOAP"
+      },
+      {
+        "clue": "Vision vitamin",
+        "answer": "CARROT"
+      },
+      {
+        "clue": "Bone vitamin",
+        "answer": "MILK"
+      },
+      {
+        "clue": "Fruit vitamin",
+        "answer": "CITRUS"
+      },
+      {
+        "clue": "Muscle mineral",
+        "answer": "SALT"
+      },
+      {
+        "clue": "Muscle building food",
+        "answer": "MEAT"
+      },
+      {
+        "clue": "Energy food nutrient",
+        "answer": "RICE"
+      },
+      {
+        "clue": "Food energy unit",
+        "answer": "CAL"
       }
     ]
   },

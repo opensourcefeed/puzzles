@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-10-29",
   "date": "2026-10-29",
-  "title": "29 October 2026",
+  "title": "2026-10-29",
   "words": [
     {
-      "clue": "Future family generations",
-      "answer": "DESCENDANT",
-      "row": 2,
-      "col": 0,
+      "clue": "Feeling very interested",
+      "answer": "CURIOUS",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Large group of musicians",
-      "answer": "ORCHESTRA",
+      "clue": "Celebration of a marriage",
+      "answer": "WEDDING",
       "row": 0,
-      "col": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Messaging app with green bubbles",
-      "answer": "WHATSAPP",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Thin layer around a cell",
-      "answer": "MEMBRANE",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat high area of land",
-      "answer": "PLATEAU",
-      "row": 5,
+      "clue": "Growing bacteria in a lab",
+      "answer": "GROWTH",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "You store clothes folded in this",
-      "answer": "DRAWER",
-      "row": 0,
-      "col": 4,
+      "clue": "Place where you learn",
+      "answer": "SCHOOL",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies ocean life",
+      "answer": "MARINE",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Grass color",
-      "answer": "GREEN",
-      "row": 3,
+      "clue": "Place where a play is performed",
+      "answer": "STAGE",
+      "row": 5,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Drill holes with this",
-      "answer": "DRILL",
+      "clue": "Extra money for good work",
+      "answer": "PRIZE",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Small bag for money",
+      "answer": "PURSE",
       "row": 7,
-      "col": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Muscle building food",
+      "answer": "MEAT",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where ships dock",
+      "answer": "PORT",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     }
   ],
-  "dayNumber": 140
+  "dayNumber": 139
 }

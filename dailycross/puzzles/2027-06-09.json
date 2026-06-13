@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2027-06-09",
   "date": "2027-06-09",
-  "title": "9 June 2027",
+  "title": "2027-06-09",
   "words": [
     {
-      "clue": "Feeling full of energy",
-      "answer": "ENERGETIC",
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
       "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Sharp point on a rose stem",
+      "answer": "THORN",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Material that blocks electricity",
-      "answer": "INSULATOR",
+      "clue": "Country with Nairobi",
+      "answer": "KENYA",
       "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sharpen knives on this",
+      "answer": "STONE",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Drain pasta with this",
-      "answer": "COLANDER",
-      "row": 6,
+      "clue": "Foot end parts",
+      "answer": "TOES",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "December 25",
+      "answer": "XMAS",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Large water vehicle",
+      "answer": "SHIP",
+      "row": 9,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Swim eye wear",
-      "answer": "GOGGLES",
-      "row": 8,
-      "col": 4,
+      "clue": "You sit on this with cushions",
+      "answer": "SOFA",
+      "row": 9,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Cleans schools and offices",
-      "answer": "JANITOR",
+      "clue": "Roofs are covered with this flat material",
+      "answer": "TILE",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Start of day before noon",
-      "answer": "MORNING",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Pipe instrument you blow into",
-      "answer": "FLUTE",
-      "row": 3,
       "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "Score unit in a game",
-      "answer": "POINT",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "World smile day",
-      "answer": "SMILE",
-      "row": 9,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Animal doctor",
-      "answer": "VET",
-      "row": 13,
-      "col": 4,
-      "direction": "across"
     }
   ],
-  "dayNumber": 363
+  "dayNumber": 362
 }

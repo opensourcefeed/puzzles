@@ -1,0 +1,143 @@
+{
+  "id": "journey-level-137",
+  "level": 137,
+  "title": "Level 137",
+  "words": [
+    {
+      "clue": "Long green garden vegetable",
+      "answer": "CUCUMBER",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Closest planet to the sun",
+      "answer": "MERCURY",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where airplanes land",
+      "answer": "AIRPORT",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Repairs pipes and water",
+      "answer": "PLUMBER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean animal with a hard shell",
+      "answer": "LOBSTER",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Device that copies paper to computer",
+      "answer": "SCANNER",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Breakfast grain meal",
+      "answer": "CEREAL",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Underground train system",
+      "answer": "SUBWAY",
+      "row": 9,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Spirit day wear purple",
+      "answer": "SPIRIT",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Green vegetable rabbits love",
+      "answer": "CARROT",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "You store clothes folded in this",
+      "answer": "DRAWER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Fruit vitamin",
+      "answer": "CITRUS",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Stage of a butterfly",
+      "answer": "COCOON",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Loop of water from sky to ground and back",
+      "answer": "CYCLE",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You put a TV on this",
+      "answer": "STAND",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Calendar shows the date",
+      "answer": "TODAY",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A push or a pull on an object",
+      "answer": "FORCE",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Windows are made of this clear material",
+      "answer": "GLASS",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Day of atonement",
+      "answer": "FAST",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 19,
+  "targetWords": 23,
+  "difficulty": "hard"
+}

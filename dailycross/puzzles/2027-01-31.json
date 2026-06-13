@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-01-31",
   "date": "2027-01-31",
-  "title": "31 January 2027",
+  "title": "2027-01-31",
   "words": [
     {
-      "clue": "Math calculation tool",
-      "answer": "CALCULATOR",
-      "row": 4,
-      "col": 0,
+      "clue": "Leads tours for visitors",
+      "answer": "TOURGUIDE",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling kind and caring",
-      "answer": "COMPASSION",
-      "row": 0,
-      "col": 6,
+      "clue": "Teaches students at school",
+      "answer": "TEACHER",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Microsoft operating system",
-      "answer": "WINDOWS",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor fathers in June",
-      "answer": "FATHERS",
+      "clue": "Cut wires with this",
+      "answer": "PLIERS",
       "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Stockholm",
-      "answer": "SWEDEN",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Tires are made from this bouncy material",
-      "answer": "RUBBER",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Egg shape",
-      "answer": "OVAL",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Unit of electric resistance",
-      "answer": "OHM",
-      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Chop wood with this",
-      "answer": "AXE",
-      "row": 7,
-      "col": 2,
+      "clue": "Coin worth 5 cents",
+      "answer": "NICKEL",
+      "row": 8,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Underground train system",
+      "answer": "SUBWAY",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Goes back and forth",
+      "answer": "SWITCH",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Writes books",
+      "answer": "AUTHOR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Boil water in this",
+      "answer": "KETTLE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Group of people related by blood",
+      "answer": "FAMILY",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Be nice day",
+      "answer": "KIND",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "dayNumber": 234
+  "dayNumber": 233
 }

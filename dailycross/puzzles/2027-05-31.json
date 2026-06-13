@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-05-31",
   "date": "2027-05-31",
-  "title": "31 May 2027",
+  "title": "2027-05-31",
   "words": [
     {
-      "clue": "Line of family descent",
-      "answer": "LINEAGE",
-      "row": 5,
-      "col": 1,
+      "clue": "Memorial Day remembers soldiers",
+      "answer": "MEMORIAL",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Celebration of a new year",
-      "answer": "NEWYEAR",
+      "clue": "Decayed plants used as fertilizer",
+      "answer": "COMPOST",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Mattresses have metal coils",
+      "answer": "SPRING",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to honor nurses",
+      "answer": "NURSES",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Flies airplanes",
+      "answer": "PILOT",
       "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Microsoft spreadsheet program",
+      "answer": "EXCEL",
+      "row": 7,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Country with Budapest",
-      "answer": "HUNGARY",
+      "clue": "Stomach entrance",
+      "answer": "BELLY",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Top of the oven for cooking",
+      "answer": "STOVE",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Grassy African plain",
+      "answer": "GRASS",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Fall harvest time",
+      "answer": "FALL",
       "row": 2,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Path electricity flows through",
-      "answer": "CIRCUIT",
-      "row": 7,
-      "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "Referee in baseball",
-      "answer": "UMPIRE",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Your father's brother",
-      "answer": "UNCLE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Seoul",
-      "answer": "KOREA",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Wraps around neck for warmth",
-      "answer": "SCARF",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet baked dessert",
-      "answer": "CAKE",
-      "row": 7,
-      "col": 0,
-      "direction": "down"
     }
   ],
-  "dayNumber": 354
+  "dayNumber": 353
 }

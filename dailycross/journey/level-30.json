@@ -1,0 +1,59 @@
+{
+  "id": "journey-level-30",
+  "level": 30,
+  "title": "Level 30",
+  "words": [
+    {
+      "clue": "Cardboard is thick paper",
+      "answer": "CARDBOARD",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Decayed plants used as fertilizer",
+      "answer": "COMPOST",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Seventh planet from the sun",
+      "answer": "URANUS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Pair of married people",
+      "answer": "COUPLE",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Water in gas form",
+      "answer": "VAPOR",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Microsoft spreadsheet program",
+      "answer": "EXCEL",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Large animal people ride",
+      "answer": "HORSE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 7,
+  "targetWords": 9,
+  "difficulty": "easy"
+}

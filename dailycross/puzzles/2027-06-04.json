@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2027-06-04",
   "date": "2027-06-04",
-  "title": "4 June 2027",
+  "title": "2027-06-04",
   "words": [
     {
-      "clue": "Your mother's new husband",
-      "answer": "STEPFATHER",
-      "row": 4,
+      "clue": "Game played with shuttlecock",
+      "answer": "BADMINTON",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "November celebration of veterans",
-      "answer": "VETERANS",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where athletes play",
-      "answer": "STADIUM",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you sleep",
-      "answer": "BEDROOM",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Breaks between classes",
-      "answer": "RECESS",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Female part of a flower",
-      "answer": "PISTIL",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You breathe with these",
-      "answer": "LUNGS",
+      "clue": "Big gray animal with trunk",
+      "answer": "ELEPHANT",
       "row": 0,
-      "col": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Large public road vehicle",
-      "answer": "BUS",
-      "row": 5,
-      "col": 4,
+      "clue": "Holds papers together",
+      "answer": "STAPLER",
+      "row": 4,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Sport where you throw a long metal stick",
+      "answer": "JAVELIN",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you buy food",
+      "answer": "GROCERY",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling able to wait",
+      "answer": "PATIENT",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Game played with racket and yellow ball",
+      "answer": "TENNIS",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a concert is held",
+      "answer": "ARENA",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Colorful part of a plant that makes seeds",
+      "answer": "PETAL",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Water becomes gas",
+      "answer": "STEAM",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "dayNumber": 358
+  "dayNumber": 357
 }

@@ -1,0 +1,59 @@
+{
+  "id": "journey-level-21",
+  "level": 21,
+  "title": "Level 21",
+  "words": [
+    {
+      "clue": "Random acts of kindness day",
+      "answer": "KINDNESS",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where athletes play",
+      "answer": "STADIUM",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Boil water in this",
+      "answer": "KETTLE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you bake bread",
+      "answer": "BAKERY",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Pumps blood through your body",
+      "answer": "HEART",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Country of the Colosseum",
+      "answer": "ITALY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Apple computer system",
+      "answer": "APPLE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 7,
+  "targetWords": 8,
+  "difficulty": "easy"
+}

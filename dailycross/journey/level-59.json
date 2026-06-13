@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-59",
+  "level": 59,
+  "title": "Level 59",
+  "words": [
+    {
+      "clue": "Large landmass on Earth",
+      "answer": "CONTINENT",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You keep dishes in this",
+      "answer": "CUPBOARD",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Celebration of our planet",
+      "answer": "EARTHDAY",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Creates new things",
+      "answer": "INVENTOR",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Buttons are often made of this",
+      "answer": "PLASTIC",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Organizes weddings and events",
+      "answer": "PLANNER",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Presents news on television",
+      "answer": "ANCHOR",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean mammal with tusks",
+      "answer": "WALRUS",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Hit nails with this",
+      "answer": "HAMMER",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Build houses with this hard block",
+      "answer": "BRICK",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Apple cloud storage",
+      "answer": "CLOUD",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Half circle shape",
+      "answer": "DOME",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 13,
+  "difficulty": "medium"
+}

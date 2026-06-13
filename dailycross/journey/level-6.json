@@ -1,0 +1,45 @@
+{
+  "id": "journey-level-6",
+  "level": 6,
+  "title": "Level 6",
+  "words": [
+    {
+      "clue": "Country of kangaroos",
+      "answer": "AUSTRALIA",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Budapest",
+      "answer": "HUNGARY",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Rock changed by heat",
+      "answer": "CHANGE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Drives a vehicle for hire",
+      "answer": "DRIVER",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Wraps around neck for warmth",
+      "answer": "SCARF",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 5,
+  "targetWords": 6,
+  "difficulty": "easy"
+}

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-07-12",
   "date": "2026-07-12",
-  "title": "12 July 2026",
+  "title": "2026-07-12",
   "words": [
     {
-      "clue": "Remove broken screws",
-      "answer": "EXTRACTOR",
+      "clue": "Long green garden vegetable",
+      "answer": "CUCUMBER",
       "row": 5,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Microsoft operating system",
-      "answer": "WINDOWS",
+      "clue": "Toast bread in this",
+      "answer": "TOASTER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Brussels",
+      "answer": "BELGIUM",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies plants",
+      "answer": "GROWER",
       "row": 1,
       "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Subject about the past",
-      "answer": "HISTORY",
-      "row": 7,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Device that helps you breathe",
-      "answer": "INHALER",
-      "row": 2,
-      "col": 4,
+      "clue": "Rock changed by heat",
+      "answer": "CHANGE",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Place where a king rules",
-      "answer": "CASTLE",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
+      "clue": "Cover for garden soil",
+      "answer": "COVER",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "Card that lets you buy now and pay later",
-      "answer": "CREDIT",
+      "clue": "Horse-drawn carriage",
+      "answer": "WAGON",
       "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean around India",
-      "answer": "INDIAN",
-      "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Team sport played with feet",
-      "answer": "SOCCER",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Two children born at the same time",
-      "answer": "TWIN",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
+      "clue": "Freedom celebration",
+      "answer": "FREE",
       "row": 0,
-      "col": 5,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "Family tree chart",
+      "answer": "TREE",
+      "row": 3,
+      "col": 10,
+      "direction": "across"
     }
   ],
-  "dayNumber": 31
+  "dayNumber": 30
 }

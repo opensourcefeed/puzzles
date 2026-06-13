@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-44",
+  "level": 44,
+  "title": "Level 44",
+  "words": [
+    {
+      "clue": "Place where you mail letters",
+      "answer": "POSTOFFICE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Toast bread in this",
+      "answer": "TOASTER",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Words of a song",
+      "answer": "LYRICS",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport played on ice with sticks",
+      "answer": "HOCKEY",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Card that lets you buy now and pay later",
+      "answer": "CREDIT",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful part of a plant that makes seeds",
+      "answer": "PETAL",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sharp point on a rose stem",
+      "answer": "THORN",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Ropes are made from strong fibers",
+      "answer": "FIBER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a concert is held",
+      "answer": "ARENA",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A jar where you put spare change",
+      "answer": "PIGGY",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 11,
+  "difficulty": "medium"
+}

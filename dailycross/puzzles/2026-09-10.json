@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-09-10",
   "date": "2026-09-10",
-  "title": "10 September 2026",
+  "title": "2026-09-10",
   "words": [
     {
-      "clue": "Does experiments for a living",
-      "answer": "SCIENTIST",
-      "row": 3,
+      "clue": "Pair of married people",
+      "answer": "COUPLE",
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Small river of water",
-      "answer": "STREAM",
-      "row": 2,
-      "col": 7,
+      "clue": "Vehicle that flies to space",
+      "answer": "ROCKET",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Wipe counters with this",
-      "answer": "SPONGE",
-      "row": 3,
-      "col": 9,
+      "clue": "Wear this to protect clothes",
+      "answer": "APRON",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Fitness tracking wristband",
-      "answer": "FITBIT",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Living thing that makes its own food",
-      "answer": "PLANT",
-      "row": 7,
+      "clue": "Medicine for sickness",
+      "answer": "CURE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Dry dishes with this",
-      "answer": "TOWEL",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
+      "clue": "Can't see well",
+      "answer": "BLUR",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "When your body fights an infection",
-      "answer": "FEVER",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you live",
-      "answer": "HOUSE",
+      "clue": "Change from solid to liquid",
+      "answer": "MELT",
       "row": 0,
-      "col": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Relating to the sun",
-      "answer": "SOLAR",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
+      "clue": "Measures how much matter is in something",
+      "answer": "MASS",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "Hang utensils on this",
-      "answer": "RACK",
-      "row": 6,
-      "col": 2,
+      "clue": "Worn on foot inside shoe",
+      "answer": "SHOE",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "dayNumber": 91
+  "dayNumber": 90
 }

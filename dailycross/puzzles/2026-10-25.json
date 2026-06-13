@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-10-25",
   "date": "2026-10-25",
-  "title": "25 October 2026",
+  "title": "2026-10-25",
   "words": [
     {
-      "clue": "Works with wood to make furniture",
-      "answer": "WOODWORKER",
-      "row": 6,
+      "clue": "Large landmass on Earth",
+      "answer": "CONTINENT",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Worn on hands in winter",
+      "answer": "GLOVES",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Most populated country",
+      "answer": "CHINA",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Color of ash and smoke",
+      "answer": "GRAY",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Watering tool with a spray head",
-      "answer": "SPRINKLER",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Gentle movement of air",
-      "answer": "BREEZE",
+      "clue": "Path electricity flows",
+      "answer": "WIRE",
       "row": 5,
-      "col": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Money plan",
+      "answer": "PLAN",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Your male parent",
-      "answer": "FATHER",
-      "row": 11,
+      "clue": "What all matter is made of",
+      "answer": "ATOM",
+      "row": 7,
       "col": 2,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "You sit on a tall one at a counter",
-      "answer": "STOOL",
+      "clue": "Muscle building food",
+      "answer": "MEAT",
       "row": 4,
-      "col": 6,
-      "direction": "across"
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "Fill gaps with this",
-      "answer": "CAULK",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "When your body fights an infection",
-      "answer": "FEVER",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Small bone in the middle ear",
-      "answer": "ANVIL",
-      "row": 0,
+      "clue": "You see with these",
+      "answer": "EYES",
+      "row": 5,
       "col": 10,
       "direction": "down"
-    },
-    {
-      "clue": "Island country in the Caribbean",
-      "answer": "CUBA",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
     }
   ],
-  "dayNumber": 136
+  "dayNumber": 135
 }

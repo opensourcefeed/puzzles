@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-02-11",
   "date": "2027-02-11",
-  "title": "11 February 2027",
+  "title": "2027-02-11",
   "words": [
     {
-      "clue": "Flash of light in storm",
-      "answer": "LIGHTNING",
-      "row": 3,
-      "col": 3,
+      "clue": "Tall building in a city",
+      "answer": "SKYSCRAPER",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Person who leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Swimwear for the beach",
-      "answer": "BATHING",
-      "row": 0,
+      "clue": "Designs buildings",
+      "answer": "ARCHITECT",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Deep valley with steep sides",
-      "answer": "CANYON",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling uneasy",
-      "answer": "UNEASY",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Pipe instrument you blow into",
-      "answer": "FLUTE",
-      "row": 2,
-      "col": 3,
+      "clue": "Person who lives next door",
+      "answer": "NEIGHBOR",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Large animal people ride",
-      "answer": "HORSE",
-      "row": 8,
+      "clue": "Device that helps you see",
+      "answer": "GLASSES",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling surprised",
+      "answer": "SHOCKED",
+      "row": 9,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Printer makes copies on this",
-      "answer": "PAPER",
+      "clue": "Ocean fish that can inflate",
+      "answer": "PUFFER",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "European money unit",
-      "answer": "EURO",
-      "row": 6,
-      "col": 3,
+      "clue": "Country with Stockholm",
+      "answer": "SWEDEN",
+      "row": 5,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Mix ingredients in this",
-      "answer": "BOWL",
+      "clue": "Build houses with this hard block",
+      "answer": "BRICK",
       "row": 0,
-      "col": 12,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Cut bush branches",
+      "answer": "SNIP",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "dayNumber": 245
+  "dayNumber": 244
 }

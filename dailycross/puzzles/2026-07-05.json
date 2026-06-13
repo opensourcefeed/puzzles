@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-07-05",
   "date": "2026-07-05",
-  "title": "5 July 2026",
+  "title": "2026-07-05",
   "words": [
     {
-      "clue": "Performs lab experiments",
-      "answer": "RESEARCHER",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling uncertain",
-      "answer": "UNSURE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Small string instrument played with bow",
-      "answer": "VIOLIN",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You hold with these",
-      "answer": "HANDS",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Pumps blood through your body",
-      "answer": "HEART",
+      "clue": "Place where you eat out",
+      "answer": "RESTAURANT",
       "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You breathe with these",
-      "answer": "LUNGS",
-      "row": 6,
-      "col": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "White dairy drink",
-      "answer": "MILK",
-      "row": 0,
-      "col": 1,
+      "clue": "You hang clothes in this",
+      "answer": "WARDROBE",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "You hear with these",
-      "answer": "EARS",
-      "row": 8,
+      "clue": "Teaches dogs new skills",
+      "answer": "TRAINER",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Output device that makes sound",
+      "answer": "SPEAKER",
+      "row": 3,
       "col": 4,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Vertical surface of a room",
-      "answer": "WALL",
+      "clue": "Feeling full of hope",
+      "answer": "HOPEFUL",
       "row": 7,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant climbing frame",
+      "answer": "FENCE",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Largest ocean animal",
+      "answer": "WHALE",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Loop of water from sky to ground and back",
+      "answer": "CYCLE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Makes computer programs",
+      "answer": "CODER",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Joint between thigh and calf",
+      "answer": "KNEE",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     }
   ],
-  "dayNumber": 24
+  "dayNumber": 23
 }

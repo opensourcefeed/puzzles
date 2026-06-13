@@ -1,0 +1,59 @@
+{
+  "id": "journey-level-18",
+  "level": 18,
+  "title": "Level 18",
+  "words": [
+    {
+      "clue": "Lizard that changes color",
+      "answer": "CHAMELEON",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Day before today",
+      "answer": "YESTERDAY",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Device that copies paper to computer",
+      "answer": "SCANNER",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Performs songs on stage",
+      "answer": "SINGER",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport played on ice with sticks",
+      "answer": "HOCKEY",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Deep valley with steep sides",
+      "answer": "CANYON",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Peel potatoes with this",
+      "answer": "PEELER",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 7,
+  "targetWords": 7,
+  "difficulty": "easy"
+}

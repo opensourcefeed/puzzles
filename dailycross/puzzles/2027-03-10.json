@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-03-10",
   "date": "2027-03-10",
-  "title": "10 March 2027",
+  "title": "2027-03-10",
   "words": [
     {
-      "clue": "Tool used to see far stars",
-      "answer": "TELESCOPE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Animals that eat only plants",
-      "answer": "HERBIVORE",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Gliding on ice",
-      "answer": "SKATING",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Room where you watch TV",
-      "answer": "LIVING",
+      "clue": "Leads tours for visitors",
+      "answer": "TOURGUIDE",
       "row": 7,
-      "col": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Climb up high with this",
-      "answer": "LADDER",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Planet with rings around it",
-      "answer": "SATURN",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Most populated country",
-      "answer": "CHINA",
-      "row": 5,
+      "clue": "Feeling able to wait",
+      "answer": "PATIENT",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Winter outerwear",
-      "answer": "COAT",
+      "clue": "You cover the floor with this",
+      "answer": "CARPET",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Holds napkins on the table",
+      "answer": "NAPKIN",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You store blankets in this",
+      "answer": "CHEST",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to honor first responders",
+      "answer": "FIRST",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Trains athletes",
+      "answer": "COACH",
+      "row": 9,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat cooking surface",
+      "answer": "GRILL",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Animal that says oink",
-      "answer": "PIG",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
+      "clue": "Mexican dead day",
+      "answer": "SKULL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Coin worth 1 cent",
+      "answer": "PENNY",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "dayNumber": 272
+  "dayNumber": 271
 }

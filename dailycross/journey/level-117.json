@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-117",
+  "level": 117,
+  "title": "Level 117",
+  "words": [
+    {
+      "clue": "Game played with shuttlecock",
+      "answer": "BADMINTON",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Catches fish for a living",
+      "answer": "FISHERMAN",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Travels to discover new places",
+      "answer": "EXPLORER",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Bread with filling",
+      "answer": "SANDWICH",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Tallest land animal",
+      "answer": "GIRAFFE",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Helsinki",
+      "answer": "FINLAND",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Celebration of a new year",
+      "answer": "NEWYEAR",
+      "row": 1,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Two-wheeled vehicle you pedal",
+      "answer": "BICYCLE",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Sea flower animal",
+      "answer": "FLOWER",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Protects the community",
+      "answer": "POLICE",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Pen for drawing on tablets",
+      "answer": "STYLUS",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Five sided shape",
+      "answer": "POINT",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Art class tool",
+      "answer": "BRUSH",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 21,
+  "difficulty": "hard"
+}

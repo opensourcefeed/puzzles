@@ -1,0 +1,136 @@
+{
+  "id": "journey-level-95",
+  "level": 95,
+  "title": "Level 95",
+  "words": [
+    {
+      "clue": "Carries your books",
+      "answer": "BACKPACK",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Virtual reality headset",
+      "answer": "HEADSET",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Light a fire with this",
+      "answer": "LIGHTER",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "String instrument with six strings",
+      "answer": "GUITAR",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Words of a song",
+      "answer": "LYRICS",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean creature with two shells",
+      "answer": "MUSSEL",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Istanbul",
+      "answer": "TURKEY",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Garden path material",
+      "answer": "GRAVEL",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean mammal with tusks",
+      "answer": "WALRUS",
+      "row": 8,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Wool comes from this fluffy animal",
+      "answer": "SHEEP",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny floating sea life",
+      "answer": "DRIFT",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where a concert is held",
+      "answer": "ARENA",
+      "row": 10,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Test battery tool",
+      "answer": "PROBE",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean mollusk with a spiral shell",
+      "answer": "SNAIL",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Large ocean fish with sharp teeth",
+      "answer": "SHARK",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Mountain country in the Himalayas",
+      "answer": "NEPAL",
+      "row": 9,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Purple garden vegetable",
+      "answer": "PLUM",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Energy food nutrient",
+      "answer": "RICE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 18,
+  "targetWords": 18,
+  "difficulty": "hard"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "journey-level-38",
+  "level": 38,
+  "title": "Level 38",
+  "words": [
+    {
+      "clue": "Output device that makes sound",
+      "answer": "SPEAKER",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Virtual reality headset",
+      "answer": "HEADSET",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Low body temperature from cold",
+      "answer": "SHIVER",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Sixty seconds",
+      "answer": "MINUTE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Stockholm",
+      "answer": "SWEDEN",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Sharp tool for slicing bread",
+      "answer": "SLICER",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Photo editing tool",
+      "answer": "EDITOR",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "World smile day",
+      "answer": "SMILE",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Types of money",
+      "answer": "COINS",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 9,
+  "targetWords": 10,
+  "difficulty": "medium"
+}

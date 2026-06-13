@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2027-05-17",
   "date": "2027-05-17",
-  "title": "17 May 2027",
+  "title": "2027-05-17",
   "words": [
     {
-      "clue": "World book day",
-      "answer": "BOOKDAY",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling able to wait",
-      "answer": "PATIENT",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A shot that prevents illness",
-      "answer": "VACCINE",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A special diet for allergies",
-      "answer": "GLUTEN",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Hold knives on this",
-      "answer": "BLOCK",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix ingredients in this",
-      "answer": "BOWL",
-      "row": 3,
+      "clue": "Fixes computer problems",
+      "answer": "TECHNICIAN",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You sit on this with cushions",
-      "answer": "SOFA",
+      "clue": "Game with hoop and net",
+      "answer": "BASKETBALL",
       "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Shoes are made of this animal skin",
+      "answer": "LEATHER",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a doctor works",
+      "answer": "CLINIC",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Stores your files",
+      "answer": "MEMORY",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Leads visitors around",
+      "answer": "GUIDE",
+      "row": 3,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Direction the sun rises",
+      "answer": "EAST",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Sixty minutes",
+      "answer": "HOUR",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you swim",
+      "answer": "POOL",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Brass instrument with slide",
+      "answer": "HORN",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "dayNumber": 340
+  "dayNumber": 339
 }

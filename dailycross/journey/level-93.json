@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-93",
+  "level": 93,
+  "title": "Level 93",
+  "words": [
+    {
+      "clue": "Fixes computer problems",
+      "answer": "TECHNICIAN",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "What a caterpillar becomes",
+      "answer": "BUTTERFLY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Device that copies paper to computer",
+      "answer": "SCANNER",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "First month of the year",
+      "answer": "JANUARY",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Sidewalks are made of this",
+      "answer": "CEMENT",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Warsaw",
+      "answer": "POLAND",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong bone mineral",
+      "answer": "MAGNET",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Energy that travels in waves",
+      "answer": "SOUND",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you get coffee",
+      "answer": "CAFE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Winter outerwear",
+      "answer": "COAT",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 17,
+  "difficulty": "hard"
+}

@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-09-01",
   "date": "2026-09-01",
-  "title": "1 September 2026",
+  "title": "2026-09-01",
   "words": [
     {
-      "clue": "Protects plants from cold",
-      "answer": "GREENHOUSE",
+      "clue": "What a caterpillar becomes",
+      "answer": "BUTTERFLY",
       "row": 5,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Place where a fair is held",
-      "answer": "FAIRGROUND",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "You put your feet on this rest",
-      "answer": "FOOTREST",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut paper with this",
-      "answer": "SCISSORS",
+      "clue": "Travels to discover new places",
+      "answer": "EXPLORER",
       "row": 5,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Place where airplanes land",
-      "answer": "AIRPORT",
+      "clue": "Place where you cook meals",
+      "answer": "KITCHEN",
       "row": 3,
-      "col": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Intelligent ocean mammal",
+      "answer": "DOLPHIN",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A check written to someone",
-      "answer": "CHEQUE",
-      "row": 0,
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
+      "row": 6,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Grass color",
-      "answer": "GREEN",
-      "row": 2,
+      "clue": "Bandage that sticks to skin",
+      "answer": "BANDAID",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Lift heavy objects",
-      "answer": "CRANE",
-      "row": 6,
-      "col": 8,
+      "clue": "Room where you watch TV",
+      "answer": "LIVING",
+      "row": 10,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A pet that barks",
-      "answer": "DOG",
-      "row": 10,
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Measures temperature",
+      "answer": "GAUGE",
+      "row": 2,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Digital money",
+      "answer": "COIN",
+      "row": 7,
+      "col": 8,
       "direction": "across"
     }
   ],
-  "dayNumber": 82
+  "dayNumber": 81
 }

@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-11-09",
   "date": "2026-11-09",
-  "title": "9 November 2026",
+  "title": "2026-11-09",
   "words": [
     {
-      "clue": "Parents and their children",
-      "answer": "NUCLEAR",
+      "clue": "Teaches dogs new skills",
+      "answer": "TRAINER",
       "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Garden tool for digging",
-      "answer": "TROWEL",
+      "clue": "Bandage that sticks to skin",
+      "answer": "BANDAID",
       "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Trim bushes with this",
-      "answer": "SHEARS",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Spirit day wear purple",
-      "answer": "SPIRIT",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of the Amazon River",
-      "answer": "BRAZIL",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling shy around others",
-      "answer": "TIMID",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut vegetables with this",
-      "answer": "KNIFE",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet baked dessert",
-      "answer": "CAKE",
-      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Water plants with this",
-      "answer": "HOSE",
-      "row": 5,
+      "clue": "Feeling very interested",
+      "answer": "CURIOUS",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Silk worm thread",
+      "answer": "THREAD",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Striped horse-like animal",
+      "answer": "ZEBRA",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Apple cloud storage",
+      "answer": "CLOUD",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Underground storage",
+      "answer": "HOLE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport of bending and stretching",
+      "answer": "YOGA",
+      "row": 6,
       "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 151
+  "dayNumber": 150
 }

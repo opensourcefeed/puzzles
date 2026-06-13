@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-11-14",
   "date": "2026-11-14",
-  "title": "14 November 2026",
+  "title": "2026-11-14",
   "words": [
     {
-      "clue": "Gliding on ice",
-      "answer": "SKATING",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Digital book reader",
-      "answer": "EREADER",
-      "row": 0,
+      "clue": "Person who travels to space",
+      "answer": "ASTRONAUT",
+      "row": 4,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Wireless earbuds by Apple",
-      "answer": "AIRPODS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "August independence of India",
-      "answer": "AUGUST",
-      "row": 8,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Yellow curved fruit",
-      "answer": "BANANA",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Blood vessel that carries blood away",
-      "answer": "ARTERY",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Mix of red and yellow",
-      "answer": "PEACH",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You store blankets in this",
-      "answer": "CHEST",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "You hear with these",
-      "answer": "EARS",
+      "clue": "Frozen sweet treat",
+      "answer": "ICECREAM",
       "row": 0,
-      "col": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Smallest unit of life",
-      "answer": "CELL",
+      "clue": "Top of the oven for cooking",
+      "answer": "STOVE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Types of money",
+      "answer": "COINS",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Male part of a flower",
+      "answer": "BLOOM",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Pointed weapon shape",
+      "answer": "ARROW",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Game console by Microsoft",
+      "answer": "XBOX",
       "row": 7,
       "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "How hot or cold something is",
+      "answer": "HEAT",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "dayNumber": 156
+  "dayNumber": 155
 }

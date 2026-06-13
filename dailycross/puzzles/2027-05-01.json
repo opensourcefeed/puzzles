@@ -1,78 +1,57 @@
 {
   "id": "dailycross-2027-05-01",
   "date": "2027-05-01",
-  "title": "1 May 2027",
+  "title": "2027-05-01",
   "words": [
     {
-      "clue": "Ocean fish with hammer-shaped head",
-      "answer": "HAMMERHEAD",
+      "clue": "Move dirt with this",
+      "answer": "TRACTOR",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Shovel snow with this",
+      "answer": "SHOVEL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Mix of two metals",
+      "answer": "BRONZE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Connects computer to monitor",
+      "answer": "CABLE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Light red color",
+      "answer": "PINK",
       "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Animals that eat only meat",
-      "answer": "CARNIVORE",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving your body to stay fit",
-      "answer": "EXERCISE",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with London",
-      "answer": "ENGLAND",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean fish that can inflate",
-      "answer": "PUFFER",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Carve wood with this",
-      "answer": "CHISEL",
+      "clue": "Center part of something",
+      "answer": "CORE",
       "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Arm bend point",
-      "answer": "ELBOW",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Horse-drawn carriage",
-      "answer": "WAGON",
-      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How hot or cold something is",
-      "answer": "HEAT",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Seven days",
-      "answer": "WEEK",
-      "row": 2,
-      "col": 0,
+      "clue": "Family history book",
+      "answer": "BOOK",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "dayNumber": 324
+  "dayNumber": 323
 }

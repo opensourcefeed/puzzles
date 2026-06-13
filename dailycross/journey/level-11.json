@@ -1,0 +1,52 @@
+{
+  "id": "journey-level-11",
+  "level": 11,
+  "title": "Level 11",
+  "words": [
+    {
+      "clue": "Global network of computers",
+      "answer": "INTERNET",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Teaches dogs new skills",
+      "answer": "TRAINER",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Drives a vehicle for hire",
+      "answer": "DRIVER",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Boil water in this",
+      "answer": "KETTLE",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Shiny coat on pans",
+      "answer": "SHINE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Pencil made of this",
+      "answer": "LEAD",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 6,
+  "targetWords": 6,
+  "difficulty": "easy"
+}

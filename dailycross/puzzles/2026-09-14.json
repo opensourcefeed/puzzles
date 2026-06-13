@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-09-14",
   "date": "2026-09-14",
-  "title": "14 September 2026",
+  "title": "2026-09-14",
   "words": [
     {
-      "clue": "Feeling sure about something",
-      "answer": "CONFIDENT",
-      "row": 5,
-      "col": 0,
+      "clue": "Subject about the world",
+      "answer": "GEOGRAPHY",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Global network of computers",
-      "answer": "INTERNET",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Light volcanic rock that floats",
-      "answer": "PUMICE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Running path around a field",
-      "answer": "TRACK",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Garden border plant",
-      "answer": "HEDGE",
-      "row": 11,
+      "clue": "Four sides with right angles",
+      "answer": "RECTANGLE",
+      "row": 1,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Measure ingredients with this",
-      "answer": "SCALE",
-      "row": 6,
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Global positioning system",
-      "answer": "GPS",
-      "row": 0,
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Mix of red and yellow",
+      "answer": "ORANGE",
+      "row": 3,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Stores your files",
+      "answer": "MEMORY",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Makes pots out of clay",
+      "answer": "POTTER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Wireless internet connection",
+      "answer": "WIFI",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Understanding others",
+      "answer": "CARE",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 95
+  "dayNumber": 94
 }

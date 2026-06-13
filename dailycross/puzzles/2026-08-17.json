@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-08-17",
   "date": "2026-08-17",
-  "title": "17 August 2026",
+  "title": "2026-08-17",
   "words": [
     {
-      "clue": "Feeling optimistic",
-      "answer": "OPTIMISTIC",
-      "row": 6,
+      "clue": "Set of computer instructions",
+      "answer": "SOFTWARE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Lizard that changes color",
-      "answer": "CHAMELEON",
-      "row": 3,
-      "col": 4,
+      "clue": "Mix of red and yellow",
+      "answer": "PEACH",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Freeze food in this",
-      "answer": "FREEZER",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Roads are paved with this black material",
-      "answer": "ASPHALT",
-      "row": 4,
+      "clue": "Types of money",
+      "answer": "COINS",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Swim eye wear",
-      "answer": "GOGGLES",
-      "row": 0,
-      "col": 6,
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Country of the Colosseum",
+      "answer": "ITALY",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Brown vegetable that grows in dirt",
-      "answer": "POTATO",
+      "clue": "Large black and white keyboard",
+      "answer": "PIANO",
       "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor first responders",
-      "answer": "FIRST",
-      "row": 7,
-      "col": 8,
+      "clue": "Temp care for child",
+      "answer": "CARE",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Pointed weapon shape",
-      "answer": "ARROW",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Unit of electric resistance",
-      "answer": "OHM",
+      "clue": "Small bed for growing vegetables",
+      "answer": "PLOT",
       "row": 4,
-      "col": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Family yet to come",
+      "answer": "NEXT",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     }
   ],
-  "dayNumber": 67
+  "dayNumber": 66
 }

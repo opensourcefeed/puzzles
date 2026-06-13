@@ -1,0 +1,45 @@
+{
+  "id": "journey-level-10",
+  "level": 10,
+  "title": "Level 10",
+  "words": [
+    {
+      "clue": "Australian animal that hops",
+      "answer": "KANGAROO",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where you throw a long stick",
+      "answer": "THROW",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Hold knives on this",
+      "answer": "BLOCK",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Loop of water from sky to ground and back",
+      "answer": "CYCLE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You hold with these",
+      "answer": "HANDS",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 5,
+  "targetWords": 6,
+  "difficulty": "easy"
+}

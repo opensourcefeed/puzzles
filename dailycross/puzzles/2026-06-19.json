@@ -1,71 +1,57 @@
 {
   "id": "dailycross-2026-06-19",
   "date": "2026-06-19",
-  "title": "19 June 2026",
+  "title": "2026-06-19",
   "words": [
     {
-      "clue": "Magnifying tool for small things",
-      "answer": "MICROSCOPE",
-      "row": 6,
+      "clue": "Social media photo app",
+      "answer": "INSTAGRAM",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Creates fashion and clothes",
-      "answer": "DESIGNER",
-      "row": 4,
-      "col": 5,
+      "clue": "Ocean between America and Europe",
+      "answer": "ATLANTIC",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Video sharing website",
-      "answer": "YOUTUBE",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Guards a building",
-      "answer": "GUARD",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Your brother's daughter",
-      "answer": "NIECE",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "USB storage device",
-      "answer": "DRIVE",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Cloth used to stop bleeding",
-      "answer": "GAUZE",
+      "clue": "Game played with racket and yellow ball",
+      "answer": "TENNIS",
       "row": 0,
-      "col": 9,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Time the sun sets",
-      "answer": "DUSK",
+      "clue": "Blow leaves with this",
+      "answer": "BLOWER",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Studies ocean life",
+      "answer": "MARINE",
       "row": 2,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Serves food at tables",
+      "answer": "WAITER",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean mollusk with a spiral shell",
+      "answer": "SNAIL",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     }
   ],
-  "dayNumber": 8
+  "dayNumber": 7
 }

@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2027-03-29",
   "date": "2027-03-29",
-  "title": "29 March 2027",
+  "title": "2027-03-29",
   "words": [
     {
-      "clue": "Bedside table for a lamp",
-      "answer": "NIGHTSTAND",
-      "row": 4,
-      "col": 0,
+      "clue": "Portable phone charger",
+      "answer": "POWERBANK",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Paint small areas with a brush",
-      "answer": "PAINTBRUSH",
+      "clue": "Paddling through water",
+      "answer": "SWIMMING",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Brass instrument with slide",
-      "answer": "TROMBONE",
-      "row": 4,
-      "col": 6,
+      "clue": "First month of the year",
+      "answer": "JANUARY",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Weather scale for temperature",
-      "answer": "CELSIUS",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport played on ice with sticks",
-      "answer": "HOCKEY",
-      "row": 6,
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
+      "row": 5,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Hindu festival of lights",
-      "answer": "DIWALI",
+      "clue": "Country with Warsaw",
+      "answer": "POLAND",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Orange citrus fruit",
+      "answer": "ORANGE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling uncertain",
+      "answer": "UNSURE",
       "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Stores your files",
-      "answer": "MEMORY",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Pointed weapon shape",
-      "answer": "ARROW",
-      "row": 9,
-      "col": 7,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Shiny yellow metal",
-      "answer": "GOLD",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Round green vegetable from pod",
-      "answer": "PEA",
-      "row": 0,
-      "col": 4,
+      "clue": "Place where you keep your money",
+      "answer": "BANK",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 291
+  "dayNumber": 290
 }

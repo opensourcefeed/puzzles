@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-01-14",
   "date": "2027-01-14",
-  "title": "14 January 2027",
+  "title": "2027-01-14",
   "words": [
     {
-      "clue": "Feeling joyful and light",
-      "answer": "CHEERFUL",
-      "row": 5,
+      "clue": "Strong circular wind over ocean",
+      "answer": "HURRICANE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Scientists study this type of rock",
-      "answer": "IGNEOUS",
-      "row": 2,
-      "col": 3,
+      "clue": "Gliding on ice",
+      "answer": "SKATING",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Document showing what you earned",
-      "answer": "PAYSTUB",
+      "clue": "Screen that shows images",
+      "answer": "MONITOR",
       "row": 0,
-      "col": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Top of the pistil that catches pollen",
-      "answer": "STIGMA",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Small blue wildflower",
-      "answer": "VIOLET",
-      "row": 7,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean animal with a shell",
-      "answer": "TURTLE",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Round Italian food",
-      "answer": "PIZZA",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Relating to the sun",
-      "answer": "SOLAR",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Roofs are covered with this flat material",
-      "answer": "TILE",
-      "row": 2,
+      "clue": "Sidewalks are made of this",
+      "answer": "CEMENT",
+      "row": 0,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where you get coffee",
-      "answer": "CAFE",
-      "row": 5,
-      "col": 0,
+      "clue": "Green vegetable rabbits love",
+      "answer": "CARROT",
+      "row": 0,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Energy from the sun",
+      "answer": "SOLAR",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "How fast something moves",
+      "answer": "SPEED",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Smart speaker from Amazon",
+      "answer": "ECHO",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Thing dissolved in water",
+      "answer": "SALT",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
     }
   ],
-  "dayNumber": 217
+  "dayNumber": 216
 }

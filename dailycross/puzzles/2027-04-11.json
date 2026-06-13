@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2027-04-11",
   "date": "2027-04-11",
-  "title": "11 April 2027",
+  "title": "2027-04-11",
   "words": [
     {
-      "clue": "Country of kangaroos",
-      "answer": "AUSTRALIA",
-      "row": 4,
-      "col": 0,
+      "clue": "Computer virus protection",
+      "answer": "ANTIVIRUS",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Emergency vehicle with siren",
-      "answer": "AMBULANCE",
-      "row": 1,
+      "clue": "Place where you buy medicine",
+      "answer": "PHARMACY",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean animal with a shell",
+      "answer": "TURTLE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Leads visitors around",
+      "answer": "GUIDE",
+      "row": 8,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Glue things together",
-      "answer": "ADHESIVE",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
-      "row": 9,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Regular exercise keeps you this",
-      "answer": "HEALTHY",
+      "clue": "Test electrical current",
+      "answer": "METER",
       "row": 6,
-      "col": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Underground train system",
-      "answer": "SUBWAY",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Plant that lives for one season",
-      "answer": "ANNUAL",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Stores your files",
-      "answer": "MEMORY",
+      "clue": "You keep blankets in this trunk",
+      "answer": "TRUNK",
       "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Understanding others",
+      "answer": "CARE",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Arctic bear",
+      "answer": "BEAR",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "How big something is",
+      "answer": "SIZE",
+      "row": 7,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You store blankets in this",
-      "answer": "CHEST",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on foot inside shoe",
-      "answer": "SHOE",
-      "row": 11,
-      "col": 2,
+      "clue": "Coin worth 10 cents",
+      "answer": "DIME",
+      "row": 10,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 304
+  "dayNumber": 303
 }

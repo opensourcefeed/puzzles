@@ -1,0 +1,73 @@
+{
+  "id": "journey-level-36",
+  "level": 36,
+  "title": "Level 36",
+  "words": [
+    {
+      "clue": "Machine that processes information",
+      "answer": "COMPUTER",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Three children born at once",
+      "answer": "TRIPLET",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean bird that dives for fish",
+      "answer": "SEAGULL",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Small blue wildflower",
+      "answer": "VIOLET",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You cover the floor with this",
+      "answer": "CARPET",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "You eat with this",
+      "answer": "MOUTH",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Queen's big day",
+      "answer": "CROWN",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Thigh bone",
+      "answer": "THIGH",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A man on his wedding day",
+      "answer": "GROOM",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 9,
+  "targetWords": 10,
+  "difficulty": "medium"
+}

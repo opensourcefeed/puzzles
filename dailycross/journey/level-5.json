@@ -1,0 +1,45 @@
+{
+  "id": "journey-level-5",
+  "level": 5,
+  "title": "Level 5",
+  "words": [
+    {
+      "clue": "Small wind instrument held sideways",
+      "answer": "RECORDER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Berlin",
+      "answer": "GERMANY",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Climb up high with this",
+      "answer": "LADDER",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Deep valley with steep sides",
+      "answer": "CANYON",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "You write with this",
+      "answer": "PENCIL",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 5,
+  "targetWords": 6,
+  "difficulty": "easy"
+}

@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-05-10",
   "date": "2027-05-10",
-  "title": "10 May 2027",
+  "title": "2027-05-10",
   "words": [
     {
-      "clue": "Machine that washes dishes",
-      "answer": "DISHWASHER",
-      "row": 3,
+      "clue": "Small river of water",
+      "answer": "STREAM",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Room below your house",
-      "answer": "BASEMENT",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Two or more atoms bonded together",
-      "answer": "MOLECULE",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Store dry food in this",
-      "answer": "CANISTER",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to honor mothers in May",
-      "answer": "MOTHERS",
+      "clue": "Room where you work at home",
+      "answer": "OFFICE",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Output device that makes sound",
-      "answer": "SPEAKER",
+      "clue": "Coin worth 5 cents",
+      "answer": "NICKEL",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Country of the Eiffel Tower",
+      "answer": "FRANCE",
       "row": 1,
-      "col": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Place where ships dock",
-      "answer": "PORT",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Box shape in 3D",
-      "answer": "CUBE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Water drops on grass in morning",
-      "answer": "DEW",
+      "clue": "Jewish new year",
+      "answer": "SHANA",
       "row": 5,
-      "col": 12,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Mountain country in the Himalayas",
+      "answer": "NEPAL",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Full of energy feeling",
+      "answer": "LIVE",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Pencil writing material",
+      "answer": "LEAD",
+      "row": 6,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "dayNumber": 333
+  "dayNumber": 332
 }

@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-06-30",
   "date": "2026-06-30",
-  "title": "30 June 2026",
+  "title": "2026-06-30",
   "words": [
     {
-      "clue": "Small country in Europe",
-      "answer": "LUXEMBOURG",
+      "clue": "Ocean around Antarctica",
+      "answer": "SOUTHERN",
       "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Virtual reality headset",
+      "answer": "HEADSET",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Four equal sides",
+      "answer": "SQUARE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You store clothes folded in this",
+      "answer": "DRAWER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Mexican dead day",
+      "answer": "SKULL",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Large flowing body of water",
+      "answer": "RIVER",
+      "row": 9,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Animal that sleeps all winter",
-      "answer": "HIBERNATE",
-      "row": 2,
+      "clue": "Makes medicine",
+      "answer": "MAKER",
+      "row": 6,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "You lean back in this",
-      "answer": "RECLINER",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Hold paper towels on this",
-      "answer": "HOLDER",
+      "clue": "Sticky bandage",
+      "answer": "PATCH",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Carve wood with this",
-      "answer": "CHISEL",
-      "row": 2,
-      "col": 5,
+      "clue": "Energy food nutrient",
+      "answer": "RICE",
+      "row": 10,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Extra money paid for good work",
-      "answer": "BONUS",
+      "clue": "Worn on foot inside shoe",
+      "answer": "SHOE",
       "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Horse-drawn carriage",
-      "answer": "WAGON",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Group of singers together",
-      "answer": "CHOIR",
-      "row": 6,
       "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "Money you borrow",
-      "answer": "LOAN",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut wood with this",
-      "answer": "SAW",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
     }
   ],
-  "dayNumber": 19
+  "dayNumber": 18
 }

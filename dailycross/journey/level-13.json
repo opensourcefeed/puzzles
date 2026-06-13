@@ -1,0 +1,59 @@
+{
+  "id": "journey-level-13",
+  "level": 13,
+  "title": "Level 13",
+  "words": [
+    {
+      "clue": "Subject about the world",
+      "answer": "GEOGRAPHY",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Captain of a ship",
+      "answer": "CAPTAIN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling surprised",
+      "answer": "SHOCKED",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong bone mineral",
+      "answer": "MAGNET",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Peel potatoes with this",
+      "answer": "PEELER",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Sixty seconds",
+      "answer": "MINUTE",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Connects computer to monitor",
+      "answer": "CABLE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 7,
+  "targetWords": 7,
+  "difficulty": "easy"
+}

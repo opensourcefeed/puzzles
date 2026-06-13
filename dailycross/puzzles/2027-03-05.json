@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-03-05",
   "date": "2027-03-05",
-  "title": "5 March 2027",
+  "title": "2027-03-05",
   "words": [
     {
-      "clue": "Large landmass on Earth",
-      "answer": "CONTINENT",
-      "row": 2,
-      "col": 1,
+      "clue": "Top part of your arm",
+      "answer": "SHOULDER",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where police work",
-      "answer": "PRECINCT",
-      "row": 0,
+      "clue": "Device that copies paper to computer",
+      "answer": "SCANNER",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Chocolate color",
+      "answer": "BROWN",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Place where athletes play",
-      "answer": "STADIUM",
-      "row": 1,
+      "clue": "Loop of water from sky to ground and back",
+      "answer": "CYCLE",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Cook food in the oven in this",
-      "answer": "ROASTER",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Silent aircraft with no engine",
-      "answer": "GLIDER",
-      "row": 4,
-      "col": 5,
+      "clue": "Energy that travels in waves",
+      "answer": "SOUND",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Thanksgiving in US",
-      "answer": "THANK",
-      "row": 7,
+      "clue": "A woman on her wedding day",
+      "answer": "BRIDE",
+      "row": 4,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Quality passed down in families",
-      "answer": "TRAIT",
-      "row": 5,
-      "col": 9,
+      "clue": "Cares for children at home",
+      "answer": "NANNY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Round white vegetable",
+      "answer": "ONION",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Path of a planet around the sun",
-      "answer": "ORBIT",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
+      "clue": "Day to plant trees",
+      "answer": "ARBOR",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     },
     {
-      "clue": "Place where tools are kept",
-      "answer": "SHED",
-      "row": 6,
-      "col": 0,
+      "clue": "Only child description",
+      "answer": "SOLO",
+      "row": 3,
+      "col": 5,
       "direction": "across"
     }
   ],
-  "dayNumber": 267
+  "dayNumber": 266
 }

@@ -1,0 +1,136 @@
+{
+  "id": "journey-level-134",
+  "level": 134,
+  "title": "Level 134",
+  "words": [
+    {
+      "clue": "Large group of musicians",
+      "answer": "ORCHESTRA",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Flat high area of land",
+      "answer": "PLATEAU",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you cook meals",
+      "answer": "KITCHEN",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Leafy green vegetable",
+      "answer": "SPINACH",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Virtual reality headset",
+      "answer": "HEADSET",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Invisible power that attracts metal",
+      "answer": "MAGNET",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Material that blocks electricity",
+      "answer": "RUBBER",
+      "row": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Makes pots out of clay",
+      "answer": "POTTER",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Hindu festival of lights",
+      "answer": "DIWALI",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Soft white rock",
+      "answer": "CHALK",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Our planet",
+      "answer": "EARTH",
+      "row": 8,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Energy from the sun",
+      "answer": "SOLAR",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "How much space something takes",
+      "answer": "SPACE",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Shaking from cold",
+      "answer": "SHAKE",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Food allergy reaction",
+      "answer": "ITCH",
+      "row": 5,
+      "col": 11,
+      "direction": "across"
+    },
+    {
+      "clue": "Ice cream shop",
+      "answer": "SHOP",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Wanting something badly",
+      "answer": "WISH",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 18,
+  "targetWords": 23,
+  "difficulty": "hard"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-84",
+  "level": 84,
+  "title": "Level 84",
+  "words": [
+    {
+      "clue": "Words of a song",
+      "answer": "LYRICS",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Video recording device",
+      "answer": "CAMERA",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Blood vessel that carries blood away",
+      "answer": "ARTERY",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Invisible power that attracts metal",
+      "answer": "MAGNET",
+      "row": 7,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Large flowing body of water",
+      "answer": "RIVER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Windows are made of this clear material",
+      "answer": "GLASS",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny germ that causes colds",
+      "answer": "VIRUS",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Mexican dead day",
+      "answer": "SKULL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Seoul",
+      "answer": "KOREA",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Smart speaker from Google",
+      "answer": "NEST",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Bright sky object at night",
+      "answer": "STAR",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Two or more atoms together",
+      "answer": "PAIR",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 16,
+  "difficulty": "medium"
+}

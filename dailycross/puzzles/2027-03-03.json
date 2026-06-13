@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-03-03",
   "date": "2027-03-03",
-  "title": "3 March 2027",
+  "title": "2027-03-03",
   "words": [
     {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
-      "row": 6,
-      "col": 0,
+      "clue": "Make coffee in this",
+      "answer": "COFFEEPOT",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Top part of your arm",
-      "answer": "SHOULDER",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Heavy snowstorm with wind",
-      "answer": "BLIZZARD",
+      "clue": "November celebration of veterans",
+      "answer": "VETERANS",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Center of a cell",
-      "answer": "NUCLEUS",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Path electricity flows through",
-      "answer": "CIRCUIT",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 0,
+      "clue": "Place where you watch movies",
+      "answer": "THEATER",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Amount of money something costs",
-      "answer": "PRICE",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Flies airplanes",
-      "answer": "PILOT",
-      "row": 4,
+      "clue": "Celebration of a marriage",
+      "answer": "WEDDING",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Speed of music",
-      "answer": "TEMPO",
-      "row": 0,
-      "col": 3,
+      "clue": "Feeling able to wait",
+      "answer": "PATIENT",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Land of the rising sun",
-      "answer": "JAPAN",
+      "clue": "Tallest land animal",
+      "answer": "GIRAFFE",
       "row": 4,
       "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Makes pots out of clay",
+      "answer": "POTTER",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Microscope sees these tiny living things",
+      "answer": "GERMS",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "How much space something takes",
+      "answer": "SPACE",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
     }
   ],
-  "dayNumber": 265
+  "dayNumber": 264
 }

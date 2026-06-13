@@ -1,0 +1,59 @@
+{
+  "id": "journey-level-16",
+  "level": 16,
+  "title": "Level 16",
+  "words": [
+    {
+      "clue": "What a caterpillar becomes",
+      "answer": "BUTTERFLY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Yellow spring flower",
+      "answer": "DAFFODIL",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Light a fire with this",
+      "answer": "LIGHTER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Sixty seconds",
+      "answer": "MINUTE",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Metal gray color",
+      "answer": "SILVER",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Night color",
+      "answer": "BLACK",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Grandparents day",
+      "answer": "ELVES",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 7,
+  "targetWords": 7,
+  "difficulty": "easy"
+}

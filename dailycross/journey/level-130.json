@@ -1,0 +1,122 @@
+{
+  "id": "journey-level-130",
+  "level": 130,
+  "title": "Level 130",
+  "words": [
+    {
+      "clue": "Builds with wood",
+      "answer": "CARPENTER",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Large landmass on Earth",
+      "answer": "CONTINENT",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Very tall natural land feature",
+      "answer": "MOUNTAIN",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Kuala Lumpur",
+      "answer": "MALAYSIA",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Flying vehicle with wings",
+      "answer": "AIRPLANE",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Microsoft operating system",
+      "answer": "WINDOWS",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Presents news on television",
+      "answer": "ANCHOR",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Breakfast grain meal",
+      "answer": "CEREAL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Protects the community",
+      "answer": "POLICE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "You breathe with these",
+      "answer": "LUNGS",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A cold causes this",
+      "answer": "COUGH",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to plant trees",
+      "answer": "ARBOR",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Leg covering",
+      "answer": "PANTS",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Yellow vegetable on a cob",
+      "answer": "CORN",
+      "row": 10,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "You walk through this",
+      "answer": "DOOR",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 16,
+  "targetWords": 22,
+  "difficulty": "hard"
+}

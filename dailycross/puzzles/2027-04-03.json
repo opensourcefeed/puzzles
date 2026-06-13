@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-04-03",
   "date": "2027-04-03",
-  "title": "3 April 2027",
+  "title": "2027-04-03",
   "words": [
     {
-      "clue": "Ocean fish with hammer-shaped head",
-      "answer": "HAMMERHEAD",
+      "clue": "Math calculation tool",
+      "answer": "CALCULATOR",
       "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Written family history",
-      "answer": "GENEALOGY",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean zone where sunlight reaches",
-      "answer": "SUNLIGHT",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Lisbon",
-      "answer": "PORTUGAL",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor the flag",
-      "answer": "FLAGDAY",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Spray paint with this",
-      "answer": "SPRAYER",
-      "row": 3,
       "col": 1,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Ring-shaped coral reef",
-      "answer": "ATOLL",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Storage space under the roof",
-      "answer": "ATTIC",
-      "row": 9,
+      "clue": "Tool used to see far stars",
+      "answer": "TELESCOPE",
+      "row": 4,
       "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "Feeling full of hope",
+      "answer": "HOPEFUL",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "You cover the floor with this",
+      "answer": "CARPET",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "Ocean mollusk with a spiral shell",
       "answer": "SNAIL",
-      "row": 0,
-      "col": 6,
+      "row": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "What all matter is made of",
-      "answer": "ATOM",
-      "row": 8,
+      "clue": "Path of a planet around the sun",
+      "answer": "ORBIT",
+      "row": 0,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You hold with these",
+      "answer": "HANDS",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Helps you hear",
+      "answer": "EARS",
+      "row": 8,
+      "col": 9,
       "direction": "across"
     }
   ],
-  "dayNumber": 296
+  "dayNumber": 295
 }

@@ -1,0 +1,66 @@
+{
+  "id": "journey-level-29",
+  "level": 29,
+  "title": "Level 29",
+  "words": [
+    {
+      "clue": "Set of computer instructions",
+      "answer": "SOFTWARE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Decorates rooms",
+      "answer": "PAINTER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Police building",
+      "answer": "STATION",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Sweet liquid bees collect from flowers",
+      "answer": "NECTAR",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Stockholm",
+      "answer": "SWEDEN",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Shy around others",
+      "answer": " QUIET",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 8,
+  "targetWords": 9,
+  "difficulty": "easy"
+}

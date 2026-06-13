@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2027-01-27",
   "date": "2027-01-27",
-  "title": "27 January 2027",
+  "title": "2027-01-27",
   "words": [
     {
-      "clue": "Tall building in a city",
-      "answer": "SKYSCRAPER",
-      "row": 1,
-      "col": 0,
+      "clue": "Delivers mail to homes",
+      "answer": "MAILMAN",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Space rock that hits Earth",
-      "answer": "METEORITE",
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Mattresses have metal coils",
+      "answer": "SPRING",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that filters blood",
-      "answer": "KIDNEY",
-      "row": 6,
+      "clue": "Country with Athens",
+      "answer": "GREECE",
+      "row": 2,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Chocolate color",
-      "answer": "BROWN",
+      "clue": "Paper from wood",
+      "answer": "PAPER",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Area where river meets ocean",
+      "answer": "DELTA",
       "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where ships dock",
+      "answer": "PORT",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You smell with this",
+      "answer": "NOSE",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant food from dirt",
+      "answer": "SOIL",
+      "row": 4,
       "col": 10,
       "direction": "down"
-    },
-    {
-      "clue": "Keeps hands safe from heat",
-      "answer": "MITT",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean animal with pincers",
-      "answer": "CRAB",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Money a government collects from you",
-      "answer": "TAX",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
     }
   ],
-  "dayNumber": 230
+  "dayNumber": 229
 }

@@ -1,0 +1,143 @@
+{
+  "id": "journey-level-111",
+  "level": 111,
+  "title": "Level 111",
+  "words": [
+    {
+      "clue": "Ocean animal with stinging tentacles",
+      "answer": "JELLYFISH",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where firefighters work",
+      "answer": "FIREHOUSE",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Flying vehicle with wings",
+      "answer": "AIRPLANE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Secret code for security",
+      "answer": "PASSWORD",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Small piece of land in water",
+      "answer": "ISLAND",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Cut pizza with this",
+      "answer": "CUTTER",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Goes around something",
+      "answer": "ORBIT",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where a play is performed",
+      "answer": "STAGE",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Trains athletes",
+      "answer": "COACH",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Brightly colored garden flower",
+      "answer": "TULIP",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Mountain country in the Himalayas",
+      "answer": "NEPAL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Energy that travels in waves",
+      "answer": "SOUND",
+      "row": 10,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Most populated country",
+      "answer": "CHINA",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Pumps blood through your body",
+      "answer": "HEART",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Test battery tool",
+      "answer": "PROBE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Arctic bear",
+      "answer": "BEAR",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Measures how much matter is in something",
+      "answer": "MASS",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Light rock that floats",
+      "answer": "ROCK",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Card with money on it",
+      "answer": "CARD",
+      "row": 10,
+      "col": 13,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 19,
+  "targetWords": 20,
+  "difficulty": "hard"
+}

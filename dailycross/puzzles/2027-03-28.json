@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2027-03-28",
   "date": "2027-03-28",
-  "title": "28 March 2027",
+  "title": "2027-03-28",
   "words": [
     {
-      "clue": "Digital watch with apps",
-      "answer": "SMARTWATCH",
-      "row": 6,
-      "col": 0,
+      "clue": "Colorful ocean fish with stripes",
+      "answer": "CLOWNFISH",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Stainless steel resists rust",
-      "answer": "STAINLESS",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Machine that processes information",
-      "answer": "COMPUTER",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A market where stocks are traded",
-      "answer": "EXCHANGE",
-      "row": 2,
+      "clue": "Feeling nervous before a test",
+      "answer": "NERVOUS",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Place where you buy food",
-      "answer": "GROCERY",
-      "row": 4,
-      "col": 3,
+      "clue": "Feeling able to wait",
+      "answer": "PATIENT",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where kings and queens live",
+      "answer": "PALACE",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Sixty seconds",
-      "answer": "MINUTE",
-      "row": 10,
+      "clue": "Shovel snow with this",
+      "answer": "SHOVEL",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Hold paper towels on this",
+      "answer": "HOLDER",
+      "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Trim bushes with this",
-      "answer": "SHEARS",
-      "row": 13,
-      "col": 4,
+      "clue": "Measures temperature",
+      "answer": "GAUGE",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Group of singers together",
-      "answer": "CHOIR",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Batteries contain this metal",
-      "answer": "ZINC",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A family group",
-      "answer": "CLAN",
+      "clue": "Wraps around neck for warmth",
+      "answer": "SCARF",
       "row": 4,
-      "col": 2,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "Calendar shows the date",
+      "answer": "TODAY",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny germ that causes colds",
+      "answer": "VIRUS",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "dayNumber": 290
+  "dayNumber": 289
 }

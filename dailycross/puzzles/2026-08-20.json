@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-08-20",
   "date": "2026-08-20",
-  "title": "20 August 2026",
+  "title": "2026-08-20",
   "words": [
     {
-      "clue": "Animals that eat only plants",
-      "answer": "HERBIVORE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Plastic is made from petroleum",
-      "answer": "PETROLEUM",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Thin layer around a cell",
-      "answer": "MEMBRANE",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Glue things together",
-      "answer": "ADHESIVE",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Machine that processes information",
-      "answer": "COMPUTER",
-      "row": 4,
+      "clue": "Place where firefighters work",
+      "answer": "FIREHOUSE",
+      "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Day after today",
-      "answer": "TOMORROW",
-      "row": 14,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Berlin",
-      "answer": "GERMANY",
-      "row": 8,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Connects computer to monitor",
-      "answer": "CABLE",
+      "clue": "Memorial Day remembers soldiers",
+      "answer": "MEMORIAL",
       "row": 0,
-      "col": 9,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Cork comes from tree bark",
-      "answer": "CORK",
-      "row": 5,
-      "col": 9,
+      "clue": "Swim eye wear",
+      "answer": "GOGGLES",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Hold pipe while cutting",
-      "answer": "VISE",
-      "row": 12,
+      "clue": "Table surface for food prep",
+      "answer": "COUNTER",
+      "row": 4,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Game console by Nintendo",
+      "answer": "SWITCH",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Underwater mountain",
+      "answer": "HILL",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal doctor",
+      "answer": "VET",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Good for your body",
+      "answer": "FIT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "dayNumber": 70
+  "dayNumber": 69
 }

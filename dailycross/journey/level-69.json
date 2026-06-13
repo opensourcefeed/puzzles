@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-69",
+  "level": 69,
+  "title": "Level 69",
+  "words": [
+    {
+      "clue": "Captain of a ship",
+      "answer": "CAPTAIN",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Digital book reader",
+      "answer": "EREADER",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to honor fathers in June",
+      "answer": "FATHERS",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Rock changed by heat",
+      "answer": "CHANGE",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Performs songs on stage",
+      "answer": "SINGER",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Spicy root used in cooking",
+      "answer": "GINGER",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Garden path material",
+      "answer": "GRAVEL",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "March green day",
+      "answer": "GREEN",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Large flowing body of water",
+      "answer": "RIVER",
+      "row": 10,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A cold causes this",
+      "answer": "COUGH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Sharpen knives on this",
+      "answer": "STONE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 14,
+  "difficulty": "medium"
+}

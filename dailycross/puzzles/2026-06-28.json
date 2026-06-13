@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-06-28",
   "date": "2026-06-28",
-  "title": "28 June 2026",
+  "title": "2026-06-28",
   "words": [
     {
-      "clue": "Photo editing software",
-      "answer": "PHOTOSHOP",
-      "row": 4,
-      "col": 0,
+      "clue": "Ocean around Antarctica",
+      "answer": "SOUTHERN",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "November celebration of veterans",
-      "answer": "VETERANS",
-      "row": 2,
-      "col": 3,
+      "clue": "Place where sick people go",
+      "answer": "HOSPITAL",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You hang clothes in this",
-      "answer": "WARDROBE",
-      "row": 7,
+      "clue": "Eight-armed ocean creature",
+      "answer": "OCTOPUS",
+      "row": 3,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat high area of land",
-      "answer": "PLATEAU",
-      "row": 4,
-      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Start of day before noon",
-      "answer": "MORNING",
+      "clue": "Ocean bird that dives for fish",
+      "answer": "SEAGULL",
       "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Fabric that blocks weeds",
-      "answer": "MULCH",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Island country in the Caribbean",
-      "answer": "CUBA",
-      "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "How much you weigh compared to your height",
-      "answer": "BMI",
+      "clue": "Riding a bicycle",
+      "answer": "CYCLING",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Robot vacuum",
+      "answer": "VACUUM",
       "row": 9,
       "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Wedding party",
+      "answer": "PARTY",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Cloud of gas in space",
+      "answer": "CLOUD",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Smart speaker from Google",
+      "answer": "NEST",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
-  "dayNumber": 17
+  "dayNumber": 16
 }

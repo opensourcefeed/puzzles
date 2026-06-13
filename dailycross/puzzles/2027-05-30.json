@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-05-30",
   "date": "2027-05-30",
-  "title": "30 May 2027",
+  "title": "2027-05-30",
   "words": [
     {
-      "clue": "First month of the year",
-      "answer": "JANUARY",
-      "row": 5,
+      "clue": "Room below your house",
+      "answer": "BASEMENT",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to honor teachers",
+      "answer": "TEACHERS",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Paddling through water",
+      "answer": "SWIMMING",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Oslo",
+      "answer": "NORWAY",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a doctor works",
+      "answer": "CLINIC",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Sharp point on a rose stem",
+      "answer": "THORN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "You click with this",
+      "answer": "MOUSE",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Salty snack often eaten with dip",
+      "answer": "CHIPS",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Organizes weddings and events",
-      "answer": "PLANNER",
+      "clue": "Paper from wood",
+      "answer": "PAPER",
       "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 8,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Cut pizza with this",
-      "answer": "CUTTER",
-      "row": 6,
-      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Living thing that makes its own food",
-      "answer": "PLANT",
-      "row": 3,
+      "clue": "Bags are made from this woven material",
+      "answer": "CLOTH",
+      "row": 0,
       "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "Organ that breaks down fats",
-      "answer": "LIVER",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Connects computer to monitor",
-      "answer": "CABLE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Roofs are covered with this flat material",
-      "answer": "TILE",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Underground plant part",
-      "answer": "ROOT",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
     }
   ],
-  "dayNumber": 353
+  "dayNumber": 352
 }

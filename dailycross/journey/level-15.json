@@ -1,0 +1,52 @@
+{
+  "id": "journey-level-15",
+  "level": 15,
+  "title": "Level 15",
+  "words": [
+    {
+      "clue": "Teaches students at school",
+      "answer": "TEACHER",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Takes care of teeth",
+      "answer": "DENTIST",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Repairs pipes and water",
+      "answer": "PLUMBER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Your aunt's child",
+      "answer": "COUSIN",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 6,
+  "targetWords": 7,
+  "difficulty": "easy"
+}

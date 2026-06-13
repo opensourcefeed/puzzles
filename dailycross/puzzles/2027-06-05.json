@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-06-05",
   "date": "2027-06-05",
-  "title": "5 June 2027",
+  "title": "2027-06-05",
   "words": [
     {
-      "clue": "Intelligent ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 4,
-      "col": 1,
+      "clue": "Bones inside your body",
+      "answer": "SKELETON",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "You store clothes in this",
-      "answer": "CLOSET",
+      "clue": "Top part of your arm",
+      "answer": "SHOULDER",
       "row": 3,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Country of the Eiffel Tower",
-      "answer": "FRANCE",
+      "clue": "Microsoft operating system",
+      "answer": "WINDOWS",
       "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Helsinki",
+      "answer": "FINLAND",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Your male parent",
+      "answer": "FATHER",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where a horse lives",
+      "answer": "STABLE",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "What plants breathe in",
-      "answer": "CARBON",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Grate cheese with this",
-      "answer": "GRATER",
-      "row": 8,
+      "clue": "Breathing trouble",
+      "answer": "WHEEZE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Deep valley with steep sides",
-      "answer": "CANYON",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Thanksgiving in US",
-      "answer": "THANK",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean fish that swims in schools",
-      "answer": "TUNA",
-      "row": 5,
-      "col": 8,
+      "clue": "Large ocean fish with sharp teeth",
+      "answer": "SHARK",
+      "row": 7,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Coin worth 10 cents",
-      "answer": "DIME",
+      "clue": "The food you eat each day",
+      "answer": "DIET",
       "row": 4,
-      "col": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Winter celebration",
+      "answer": "YULE",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "dayNumber": 359
+  "dayNumber": 358
 }

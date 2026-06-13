@@ -1,0 +1,52 @@
+{
+  "id": "journey-level-9",
+  "level": 9,
+  "title": "Level 9",
+  "words": [
+    {
+      "clue": "Country with Jakarta",
+      "answer": "INDONESIA",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling nervous before a test",
+      "answer": "NERVOUS",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Intelligent ocean mammal",
+      "answer": "DOLPHIN",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You cover the floor with this",
+      "answer": "CARPET",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Breaks between classes",
+      "answer": "RECESS",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Apple computer system",
+      "answer": "APPLE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 6,
+  "targetWords": 6,
+  "difficulty": "easy"
+}

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-04-01",
   "date": "2027-04-01",
-  "title": "1 April 2027",
+  "title": "2027-04-01",
   "words": [
     {
-      "clue": "Feeling very surprised",
-      "answer": "ASTONISHED",
-      "row": 4,
+      "clue": "Long green garden vegetable",
+      "answer": "CUCUMBER",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "When prices go up over time",
-      "answer": "INFLATION",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Set of computer instructions",
-      "answer": "SOFTWARE",
-      "row": 4,
+      "clue": "Country with Berlin",
+      "answer": "GERMANY",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Digital money",
-      "answer": "BITCOIN",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Food allergy condition",
-      "answer": "ALLERGY",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Performs in movies or plays",
-      "answer": "ACTOR",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant used for flavoring food",
-      "answer": "BASIL",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Tells time on wrist",
-      "answer": "WATCH",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Paper is made from wood pulp",
-      "answer": "PULP",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Baseball hitter's tool",
-      "answer": "BAT",
+      "clue": "Feeling scared",
+      "answer": "AFRAID",
       "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Garden border plant",
+      "answer": "HEDGE",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "You eat with this",
+      "answer": "MOUTH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Winter celebration",
+      "answer": "YULE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Lap computer desk",
+      "answer": "DESK",
+      "row": 5,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Arctic bear",
+      "answer": "BEAR",
+      "row": 7,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Unit of digital information",
+      "answer": "BYTE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 294
+  "dayNumber": 293
 }

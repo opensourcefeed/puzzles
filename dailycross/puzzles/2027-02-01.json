@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-02-01",
   "date": "2027-02-01",
-  "title": "1 February 2027",
+  "title": "2027-02-01",
   "words": [
     {
-      "clue": "Creates computer software",
-      "answer": "DEVELOPER",
-      "row": 5,
+      "clue": "Set of computer instructions",
+      "answer": "SOFTWARE",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sea star with five arms",
-      "answer": "STARFISH",
-      "row": 2,
-      "col": 8,
+      "clue": "Flying vehicle with wings",
+      "answer": "AIRPLANE",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Four equal sides",
-      "answer": "SQUARE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of maple leaves",
-      "answer": "CANADA",
-      "row": 3,
-      "col": 2,
+      "clue": "Output device that makes sound",
+      "answer": "SPEAKER",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Works at a store checkout",
-      "answer": "CLERK",
-      "row": 3,
+      "clue": "Country with Oslo",
+      "answer": "NORWAY",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Cares for children at home",
-      "answer": "NANNY",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
+      "clue": "Dry sandy area with little water",
+      "answer": "DESERT",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "Joint between thigh and calf",
-      "answer": "KNEE",
-      "row": 7,
+      "clue": "Prayer place for Jews",
+      "answer": "TEMPLE",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "What a tadpole becomes",
-      "answer": "FROG",
-      "row": 6,
-      "col": 8,
+      "clue": "Lives more than one year",
+      "answer": "YEARLY",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A pet that barks",
-      "answer": "DOG",
-      "row": 5,
-      "col": 10,
+      "clue": "Our planet",
+      "answer": "EARTH",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Animals that eat plants",
+      "answer": "DEER",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     }
   ],
-  "dayNumber": 235
+  "dayNumber": 234
 }

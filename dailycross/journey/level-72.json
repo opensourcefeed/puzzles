@@ -1,0 +1,108 @@
+{
+  "id": "journey-level-72",
+  "level": 72,
+  "title": "Level 72",
+  "words": [
+    {
+      "clue": "Catches fish for a living",
+      "answer": "FISHERMAN",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Cook food fast with waves",
+      "answer": "MICROWAVE",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where athletes play",
+      "answer": "STADIUM",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Captain of a ship",
+      "answer": "CAPTAIN",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Worn on hands in winter",
+      "answer": "GLOVES",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Stores your files",
+      "answer": "MEMORY",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Silk worm thread",
+      "answer": "THREAD",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Breathing trouble",
+      "answer": "WHEEZE",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Breakfast egg dish",
+      "answer": "OMELET",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Orange citrus fruit",
+      "answer": "ORANGE",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Energy from the sun",
+      "answer": "SOLAR",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where you throw a long stick",
+      "answer": "THROW",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Fixes electric wires",
+      "answer": "FIXER",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Printer makes copies on this",
+      "answer": "PAPER",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 14,
+  "targetWords": 15,
+  "difficulty": "medium"
+}

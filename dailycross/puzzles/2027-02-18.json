@@ -1,78 +1,50 @@
 {
   "id": "dailycross-2027-02-18",
   "date": "2027-02-18",
-  "title": "18 February 2027",
+  "title": "2027-02-18",
   "words": [
     {
-      "clue": "Protects plants from cold",
-      "answer": "GREENHOUSE",
+      "clue": "Paper money used in the US",
+      "answer": "DOLLAR",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Pair of married people",
+      "answer": "COUPLE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong bone mineral",
+      "answer": "MAGNET",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Arm bend point",
+      "answer": "ELBOW",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Your first given name",
+      "answer": "GIVEN",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
+      "clue": "Five sided shape",
+      "answer": "POINT",
       "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Gentle movement of air",
-      "answer": "BREEZE",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Ball shape in 3D",
-      "answer": "SPHERE",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling not interested at all",
-      "answer": "BORED",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Running path around a field",
-      "answer": "TRACK",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Magnet attracts this metal",
-      "answer": "IRON",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Big box for baking",
-      "answer": "OVEN",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Rake leaves with this",
-      "answer": "RAKE",
-      "row": 0,
-      "col": 8,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "dayNumber": 252
+  "dayNumber": 251
 }

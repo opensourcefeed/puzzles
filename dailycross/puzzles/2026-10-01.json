@@ -1,64 +1,64 @@
 {
   "id": "dailycross-2026-10-01",
   "date": "2026-10-01",
-  "title": "1 October 2026",
+  "title": "2026-10-01",
   "words": [
     {
-      "clue": "April 1 prank day",
-      "answer": "APRILFOOLS",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Soda cans are made of this",
-      "answer": "ALUMINUM",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where sick people go",
-      "answer": "HOSPITAL",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Card that lets you buy now and pay later",
-      "answer": "CREDIT",
+      "clue": "Teaches students at school",
+      "answer": "TEACHER",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Water in gas form",
-      "answer": "VAPOR",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Amount of money something costs",
-      "answer": "PRICE",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on the finger",
-      "answer": "RING",
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
       "row": 5,
-      "col": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Closest planet to the sun",
+      "answer": "MERCURY",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Two-wheeled vehicle you pedal",
+      "answer": "BICYCLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Berlin",
+      "answer": "GERMANY",
+      "row": 10,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Moving energy of objects",
+      "answer": "MOTION",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant climbing frame",
+      "answer": "FENCE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A small unit of money",
+      "answer": "CENT",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
     }
   ],
-  "dayNumber": 112
+  "dayNumber": 111
 }

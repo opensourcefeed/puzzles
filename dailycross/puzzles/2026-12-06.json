@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-12-06",
   "date": "2026-12-06",
-  "title": "6 December 2026",
+  "title": "2026-12-06",
   "words": [
     {
-      "clue": "Portable phone charger",
-      "answer": "POWERBANK",
-      "row": 3,
-      "col": 3,
+      "clue": "Computer virus protection",
+      "answer": "ANTIVIRUS",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Studies plants",
-      "answer": "BOTANIST",
+      "clue": "Takes care of teeth",
+      "answer": "DENTIST",
       "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Set of instructions for a computer",
+      "answer": "PROGRAM",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Country with London",
-      "answer": "ENGLAND",
+      "clue": "Performs dance",
+      "answer": "DANCER",
       "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Bacteria that turns milk into yogurt",
-      "answer": "CULTURE",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Long and skinny oval",
-      "answer": "ELLIPSE",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Glue is made from gelatin",
-      "answer": "GELATIN",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Holds napkins on the table",
-      "answer": "NAPKIN",
-      "row": 1,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "World joke day",
-      "answer": "JOKE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Direction the sun rises",
-      "answer": "EAST",
-      "row": 6,
-      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
-      "row": 1,
-      "col": 1,
+      "clue": "Our planet",
+      "answer": "EARTH",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Shiny coat on pans",
+      "answer": "SHINE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you shop",
+      "answer": "MALL",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Apple wireless earbuds",
+      "answer": "BUDS",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Your mother's sister",
+      "answer": "AUNT",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 178
+  "dayNumber": 177
 }

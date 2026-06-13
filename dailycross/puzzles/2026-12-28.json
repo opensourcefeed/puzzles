@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-12-28",
   "date": "2026-12-28",
-  "title": "28 December 2026",
+  "title": "2026-12-28",
   "words": [
     {
-      "clue": "Protects plants from cold",
-      "answer": "GREENHOUSE",
-      "row": 5,
+      "clue": "Catches fish for a living",
+      "answer": "FISHERMAN",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Strong circular wind over ocean",
-      "answer": "HURRICANE",
-      "row": 4,
+      "clue": "Computer brain",
+      "answer": "PROCESSOR",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Chinese new year symbol",
+      "answer": "DRAGON",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling disgusted",
-      "answer": "DISGUSTED",
-      "row": 2,
-      "col": 0,
+      "clue": "Newborn baby",
+      "answer": "INFANT",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Cares for children at home",
+      "answer": "NANNY",
+      "row": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Very tall natural land feature",
-      "answer": "MOUNTAIN",
-      "row": 11,
-      "col": 4,
+      "clue": "Upset with yourself",
+      "answer": "GLOW",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Protector of a child",
-      "answer": "GUARDIAN",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean animal with a shell",
-      "answer": "TURTLE",
-      "row": 0,
+      "clue": "Grows on top of your head",
+      "answer": "HAIR",
+      "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Helps sick people at hospital",
-      "answer": "DOCTOR",
-      "row": 9,
-      "col": 5,
+      "clue": "Bone picture machine",
+      "answer": "SCAN",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Turn socket tool",
+      "answer": "TURN",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Place where a concert is held",
-      "answer": "ARENA",
-      "row": 4,
+      "clue": "Muscle building food",
+      "answer": "MEAT",
+      "row": 2,
       "col": 11,
       "direction": "down"
-    },
-    {
-      "clue": "Organ that breaks down fats",
-      "answer": "LIVER",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "European money unit",
-      "answer": "EURO",
-      "row": 5,
-      "col": 9,
-      "direction": "across"
     }
   ],
-  "dayNumber": 200
+  "dayNumber": 199
 }

@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2027-05-11",
   "date": "2027-05-11",
-  "title": "11 May 2027",
+  "title": "2027-05-11",
   "words": [
     {
-      "clue": "Day of the dead celebration",
-      "answer": "ALLSAINTS",
-      "row": 5,
-      "col": 0,
+      "clue": "Builds with wood",
+      "answer": "CARPENTER",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Path of an object around another",
-      "answer": "REVOLVE",
+      "clue": "Subject about the world",
+      "answer": "GEOGRAPHY",
       "row": 1,
-      "col": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Pen for drawing on tablets",
-      "answer": "STYLUS",
-      "row": 8,
+      "clue": "Ocean mammal with tusks",
+      "answer": "WALRUS",
+      "row": 1,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on hands in winter",
-      "answer": "GLOVES",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Quality passed down in families",
-      "answer": "TRAIT",
-      "row": 3,
-      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Guitar strings are made of this",
-      "answer": "NYLON",
-      "row": 7,
+      "clue": "Path of a planet around the sun",
+      "answer": "ORBIT",
+      "row": 5,
       "col": 6,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 10,
+      "clue": "Water in gas form",
+      "answer": "VAPOR",
+      "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Worn on the finger",
-      "answer": "RING",
+      "clue": "Paper check",
+      "answer": "CHECK",
       "row": 0,
-      "col": 4,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "Clear liquid that your body needs",
+      "answer": "WATER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Smart speaker from Amazon",
+      "answer": "ECHO",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "dayNumber": 334
+  "dayNumber": 333
 }

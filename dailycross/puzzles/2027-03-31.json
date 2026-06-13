@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2027-03-31",
   "date": "2027-03-31",
-  "title": "31 March 2027",
+  "title": "2027-03-31",
   "words": [
     {
-      "clue": "Putting money into a business",
-      "answer": "INVESTMENT",
+      "clue": "Place where sick people go",
+      "answer": "HOSPITAL",
       "row": 5,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Tiny computer for hobby projects",
-      "answer": "RASPBERRY",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
+      "clue": "Creates new things",
+      "answer": "INVENTOR",
       "row": 5,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
+      "clue": "Set of instructions for a computer",
+      "answer": "PROGRAM",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling surprised",
+      "answer": "SHOCKED",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Diamond shape",
+      "answer": "SLANT",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Largest ocean animal",
+      "answer": "WHALE",
       "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Scoop ice cream with this",
-      "answer": "SCOOPER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Electricity that flows one way",
-      "answer": "DIRECT",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that carries goods",
-      "answer": "TRUCK",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep cut that bleeds",
-      "answer": "WOUND",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Head cook in a restaurant",
-      "answer": "CHEF",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you swim",
-      "answer": "POOL",
+      "clue": "Wedding party",
+      "answer": "PARTY",
       "row": 3,
-      "col": 5,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Smart speaker from Google",
+      "answer": "NEST",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
     }
   ],
-  "dayNumber": 293
+  "dayNumber": 292
 }

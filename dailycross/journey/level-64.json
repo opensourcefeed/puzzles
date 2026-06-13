@@ -1,0 +1,66 @@
+{
+  "id": "journey-level-64",
+  "level": 64,
+  "title": "Level 64",
+  "words": [
+    {
+      "clue": "Country with Helsinki",
+      "answer": "FINLAND",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Loud sound after lightning",
+      "answer": "THUNDER",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Hanoi",
+      "answer": "VIETNAM",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Device that copies paper to computer",
+      "answer": "SCANNER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Pen for drawing on tablets",
+      "answer": "STYLUS",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Striped horse-like animal",
+      "answer": "ZEBRA",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Red ocean algae",
+      "answer": "ALGAE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Wraps around neck for warmth",
+      "answer": "SCARF",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 8,
+  "targetWords": 13,
+  "difficulty": "medium"
+}

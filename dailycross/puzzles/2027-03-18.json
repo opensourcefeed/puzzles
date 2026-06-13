@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-03-18",
   "date": "2027-03-18",
-  "title": "18 March 2027",
+  "title": "2027-03-18",
   "words": [
     {
-      "clue": "Fixes computer problems",
-      "answer": "TECHNICIAN",
-      "row": 3,
+      "clue": "Top part of your arm",
+      "answer": "SHOULDER",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Volcano erupts with this",
+      "answer": "ERUPTION",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "You hang a mirror on this",
+      "answer": "DRESSER",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Gentle movement of air",
+      "answer": "BREEZE",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "April 1 prank day",
-      "answer": "APRILFOOLS",
+      "clue": "Chocolate color",
+      "answer": "BROWN",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean coral reef builder",
+      "answer": "CORAL",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper showing you paid",
+      "answer": "NOTE",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to celebrate science",
+      "answer": "STEM",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Photo editing software",
-      "answer": "PHOTOSHOP",
-      "row": 2,
-      "col": 3,
+      "clue": "Tree with needles",
+      "answer": "PINE",
+      "row": 6,
+      "col": 5,
       "direction": "down"
-    },
-    {
-      "clue": "Online file storage service",
-      "answer": "DROPBOX",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "3D printing machine",
-      "answer": "PRINTER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Legally related but not by blood",
-      "answer": "ADOPTED",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Tighten bolts with this",
-      "answer": "WRENCH",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Tall plant with a trunk",
-      "answer": "TREE",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Small bed for growing vegetables",
-      "answer": "PLOT",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
     }
   ],
-  "dayNumber": 280
+  "dayNumber": 279
 }

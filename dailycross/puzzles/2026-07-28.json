@@ -1,64 +1,64 @@
 {
   "id": "dailycross-2026-07-28",
   "date": "2026-07-28",
-  "title": "28 July 2026",
+  "title": "2026-07-28",
   "words": [
     {
-      "clue": "Place where you mail letters",
-      "answer": "POSTOFFICE",
-      "row": 2,
+      "clue": "Short-range wireless technology",
+      "answer": "BLUETOOTH",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vaccine protects you from this",
-      "answer": "DISEASE",
+      "clue": "Microsoft operating system",
+      "answer": "WINDOWS",
       "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Teacher appreciation",
+      "answer": "THANKS",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Teaches dogs new skills",
-      "answer": "TRAINER",
+      "clue": "Brightly colored garden flower",
+      "answer": "TULIP",
       "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "You breathe with these",
+      "answer": "LUNGS",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Red fruit that keeps doctor away",
+      "answer": "APPLE",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Percussion instrument you hit",
+      "answer": "DRUM",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Game played with racket and yellow ball",
-      "answer": "TENNIS",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Largest country in the world",
-      "answer": "RUSSIA",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Longest bone in the human body",
-      "answer": "FEMUR",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A share of ownership in a company",
-      "answer": "STOCK",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you keep your money",
-      "answer": "BANK",
-      "row": 6,
-      "col": 1,
+      "clue": "A family group",
+      "answer": "CLAN",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     }
   ],
-  "dayNumber": 47
+  "dayNumber": 46
 }

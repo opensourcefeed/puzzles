@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-11-26",
   "date": "2026-11-26",
-  "title": "26 November 2026",
+  "title": "2026-11-26",
   "words": [
     {
-      "clue": "Store leftovers in this",
-      "answer": "CONTAINER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who travels to space",
-      "answer": "ASTRONAUT",
+      "clue": "Room below your house",
+      "answer": "BASEMENT",
       "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Fruits and vegetables are good for your health",
-      "answer": "NUTRITION",
-      "row": 8,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
+      "clue": "Place where athletes play",
+      "answer": "STADIUM",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "August independence of India",
+      "answer": "AUGUST",
       "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Start of day before noon",
-      "answer": "MORNING",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Sharp tool for slicing bread",
-      "answer": "SLICER",
-      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Join metals with this",
-      "answer": "WELDER",
-      "row": 0,
-      "col": 8,
+      "clue": "Country of the Amazon River",
+      "answer": "BRAZIL",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Top of the oven for cooking",
-      "answer": "STOVE",
+      "clue": "Our planet",
+      "answer": "EARTH",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Guards a building",
+      "answer": "GUARD",
       "row": 1,
-      "col": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Farm animal that gives milk",
-      "answer": "COW",
+      "clue": "Percussion instrument you hit",
+      "answer": "DRUM",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Machine that checks heart rhythm",
-      "answer": "EKG",
-      "row": 4,
-      "col": 8,
+      "clue": "Water vapor becomes liquid",
+      "answer": "RAIN",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 168
+  "dayNumber": 167
 }

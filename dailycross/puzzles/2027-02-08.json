@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2027-02-08",
   "date": "2027-02-08",
-  "title": "8 February 2027",
+  "title": "2027-02-08",
   "words": [
     {
-      "clue": "Feeling optimistic",
-      "answer": "OPTIMISTIC",
-      "row": 5,
-      "col": 0,
+      "clue": "Store leftovers in this",
+      "answer": "CONTAINER",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Studies plants",
-      "answer": "BOTANIST",
+      "clue": "Builds roads and bridges",
+      "answer": "ENGINEER",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Frozen sweet treat",
+      "answer": "ICECREAM",
       "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Extended family includes everyone",
-      "answer": "EXTENDED",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you cook meals",
-      "answer": "KITCHEN",
-      "row": 2,
-      "col": 9,
+      "clue": "Three children born at once",
+      "answer": "TRIPLET",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Six-sided shape",
-      "answer": "HEXAGON",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sneakers are made of this heavy cloth",
-      "answer": "CANVAS",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Fingerprint on a door",
-      "answer": "LATENT",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "How fast something moves",
-      "answer": "SPEED",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Yellow vegetable on a cob",
-      "answer": "CORN",
+      "clue": "Country with Vienna",
+      "answer": "AUSTRIA",
       "row": 5,
-      "col": 9,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Soap is made from animal fat",
-      "answer": "FAT",
-      "row": 1,
-      "col": 1,
+      "clue": "World book day",
+      "answer": "BOOKDAY",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Sidewalks are made of this",
+      "answer": "CEMENT",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Egg shape",
+      "answer": "OVAL",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Apple wireless earbuds",
+      "answer": "BUDS",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 242
+  "dayNumber": 241
 }

@@ -1,78 +1,50 @@
 {
   "id": "dailycross-2026-10-14",
   "date": "2026-10-14",
-  "title": "14 October 2026",
+  "title": "2026-10-14",
   "words": [
     {
-      "clue": "Game with hoop and net",
-      "answer": "BASKETBALL",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny computer for hobby projects",
-      "answer": "RASPBERRY",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Store dry food in this",
-      "answer": "CANISTER",
-      "row": 2,
+      "clue": "Cloth to stop bleeding",
+      "answer": "CLOTH",
+      "row": 4,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where fish are kept",
-      "answer": "AQUARIUM",
-      "row": 8,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Pillows are filled with soft feathers",
-      "answer": "FEATHER",
+      "clue": "Mountain country in the Himalayas",
+      "answer": "NEPAL",
       "row": 0,
-      "col": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Flip pancakes with this",
-      "answer": "SPATULA",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Invisible power that attracts metal",
-      "answer": "MAGNET",
+      "clue": "Path electricity flows",
+      "answer": "WIRE",
       "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Extra money paid for good work",
-      "answer": "BONUS",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Sleeping helps you rest and recover",
-      "answer": "REST",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Website address",
-      "answer": "URL",
-      "row": 8,
-      "col": 6,
+      "clue": "Six sided shape",
+      "answer": "EDGE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Island country in the Caribbean",
+      "answer": "CUBA",
+      "row": 4,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Can't see well",
+      "answer": "BLUR",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
     }
   ],
-  "dayNumber": 125
+  "dayNumber": 124
 }

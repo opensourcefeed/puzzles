@@ -1,0 +1,122 @@
+{
+  "id": "journey-level-87",
+  "level": 87,
+  "title": "Level 87",
+  "words": [
+    {
+      "clue": "Country with Jakarta",
+      "answer": "INDONESIA",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "What a caterpillar becomes",
+      "answer": "BUTTERFLY",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Random acts of kindness day",
+      "answer": "KINDNESS",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Riding a bicycle",
+      "answer": "CYCLING",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "3D printing machine",
+      "answer": "PRINTER",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Performs songs on stage",
+      "answer": "SINGER",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Pipes are made of this reddish metal",
+      "answer": "COPPER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Pour dressing from this",
+      "answer": "BOTTLE",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Printer makes copies on this",
+      "answer": "PAPER",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Country of the Colosseum",
+      "answer": "ITALY",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Garden border plant",
+      "answer": "HEDGE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Break hard concrete",
+      "answer": "SMASH",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean coral reef builder",
+      "answer": "CORAL",
+      "row": 10,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Small bed for growing vegetables",
+      "answer": "PLOT",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Two or more atoms together",
+      "answer": "PAIR",
+      "row": 0,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Place to trade stocks",
+      "answer": "SHOP",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 16,
+  "targetWords": 17,
+  "difficulty": "medium"
+}

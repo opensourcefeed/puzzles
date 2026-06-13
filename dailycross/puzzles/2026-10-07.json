@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-10-07",
   "date": "2026-10-07",
-  "title": "7 October 2026",
+  "title": "2026-10-07",
   "words": [
     {
-      "clue": "Tall building in a city",
-      "answer": "SKYSCRAPER",
+      "clue": "Subject about the world",
+      "answer": "GEOGRAPHY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Moving your body to stay fit",
+      "answer": "EXERCISE",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "September celebration of workers",
+      "answer": "LABORDAY",
       "row": 5,
-      "col": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Cook food fast with waves",
-      "answer": "MICROWAVE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
+      "clue": "You store clothes in this",
+      "answer": "CLOSET",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "Drain vegetables in this",
-      "answer": "STRAINER",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Large frozen area of ice",
-      "answer": "GLACIER",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Marsupial that carries baby in pouch",
-      "answer": "WALLABY",
+      "clue": "Feeling uncertain",
+      "answer": "UNSURE",
       "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Crunchy green vegetable with stalks",
-      "answer": "CELERY",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Fallen leaves that rot",
-      "answer": "LITTER",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Stir soup with this",
-      "answer": "LADLE",
-      "row": 8,
-      "col": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Your mother's sister",
-      "answer": "AUNT",
-      "row": 8,
-      "col": 2,
+      "clue": "Country with Oslo",
+      "answer": "NORWAY",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where Christians pray",
+      "answer": "CHURCH",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall sitting seat",
+      "answer": "SEAT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Electricity pathway",
+      "answer": "PATH",
+      "row": 9,
+      "col": 3,
       "direction": "down"
     }
   ],
-  "dayNumber": 118
+  "dayNumber": 117
 }

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-04-07",
   "date": "2027-04-07",
-  "title": "7 April 2027",
+  "title": "2027-04-07",
   "words": [
     {
-      "clue": "Juneteenth celebration",
-      "answer": "JUNETEENTH",
+      "clue": "Day after today",
+      "answer": "TOMORROW",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean animal with a hard shell",
+      "answer": "LOBSTER",
       "row": 4,
-      "col": 0,
-      "direction": "across"
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "Ocean between America and Europe",
-      "answer": "ATLANTIC",
+      "clue": "Small ocean crustacean",
+      "answer": "SHRIMP",
       "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Wireless earbuds by Apple",
-      "answer": "AIRPODS",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Serves food at tables",
-      "answer": "WAITER",
-      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Creates paintings or drawings",
-      "answer": "ARTIST",
-      "row": 1,
+      "clue": "Brown vegetable that grows in dirt",
+      "answer": "POTATO",
+      "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Mattresses have metal coils",
-      "answer": "SPRING",
-      "row": 0,
+      "clue": "Breaks between classes",
+      "answer": "RECESS",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "You rock in this on the porch",
+      "answer": "ROCKER",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Cut pizza with this",
-      "answer": "CUTTER",
+      "clue": "Water vapor becomes liquid",
+      "answer": "RAIN",
       "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Mix cake batter with this",
-      "answer": "MIXER",
-      "row": 7,
-      "col": 8,
+      "clue": "Birth date celebration",
+      "answer": "CAKE",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You put keys in this by the door",
-      "answer": "DISH",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Stage between caterpillar and butterfly",
-      "answer": "PUPA",
-      "row": 1,
-      "col": 3,
+      "clue": "Fern plant with feathery leaves",
+      "answer": "FERN",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 300
+  "dayNumber": 299
 }

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-09-24",
   "date": "2026-09-24",
-  "title": "24 September 2026",
+  "title": "2026-09-24",
   "words": [
     {
-      "clue": "Change from solid to gas",
-      "answer": "SUBLIME",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Diamond shape",
-      "answer": "RHOMBUS",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Freeze food in this",
-      "answer": "FREEZER",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling able to wait",
-      "answer": "PATIENT",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Sun color",
-      "answer": "YELLOW",
+      "clue": "Colorful sky arc after rain",
+      "answer": "RAINBOW",
       "row": 5,
-      "col": 5,
-      "direction": "down"
+      "col": 1,
+      "direction": "across"
     },
     {
-      "clue": "Keep food cold in this",
-      "answer": "FRIDGE",
+      "clue": "Teaches students at school",
+      "answer": "TEACHER",
       "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Game played with racket and yellow ball",
-      "answer": "TENNIS",
-      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Small bag for money",
-      "answer": "PURSE",
+      "clue": "Tallest land animal",
+      "answer": "GIRAFFE",
       "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Light red color",
-      "answer": "PINK",
-      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Baseball hitter's tool",
-      "answer": "BAT",
+      "clue": "Country with Helsinki",
+      "answer": "FINLAND",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "T-shirts are made of this soft fiber",
+      "answer": "COTTON",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Coin worth 1 cent",
+      "answer": "PENNY",
       "row": 2,
-      "col": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Bags are made from this woven material",
+      "answer": "CLOTH",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Underground plant part",
+      "answer": "ROOT",
+      "row": 9,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Small plant with a soft stem",
+      "answer": "HERB",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     }
   ],
-  "dayNumber": 105
+  "dayNumber": 104
 }

@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-94",
+  "level": 94,
+  "title": "Level 94",
+  "words": [
+    {
+      "clue": "Subject about the world",
+      "answer": "GEOGRAPHY",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "February 14 celebration",
+      "answer": "VALENTINE",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Australian animal that hops",
+      "answer": "KANGAROO",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Travels to discover new places",
+      "answer": "EXPLORER",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Heavy snowstorm with wind",
+      "answer": "BLIZZARD",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Three children born at once",
+      "answer": "TRIPLET",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Presents news on television",
+      "answer": "ANCHOR",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Prayer place for Jews",
+      "answer": "TEMPLE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Mix of two metals",
+      "answer": "BRONZE",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very glad",
+      "answer": "HAPPY",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Brass instrument with slide",
+      "answer": "HORN",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 17,
+  "difficulty": "hard"
+}

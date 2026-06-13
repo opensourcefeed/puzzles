@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-09-25",
   "date": "2026-09-25",
-  "title": "25 September 2026",
+  "title": "2026-09-25",
   "words": [
     {
-      "clue": "Animals that eat only meat",
-      "answer": "CARNIVORE",
-      "row": 3,
-      "col": 1,
+      "clue": "Riding a bicycle",
+      "answer": "CYCLING",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Memorial Day remembers soldiers",
-      "answer": "MEMORIAL",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Dublin",
-      "answer": "IRELAND",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You put a clock on this",
-      "answer": "MANTEL",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A cold causes this",
-      "answer": "COUGH",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to plant trees",
-      "answer": "ARBOR",
-      "row": 6,
+      "clue": "Loud sound after lightning",
+      "answer": "THUNDER",
+      "row": 1,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You write with this",
+      "answer": "PENCIL",
+      "row": 6,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Large ocean fish with sharp teeth",
-      "answer": "SHARK",
+      "clue": "Pour dressing from this",
+      "answer": "BOTTLE",
       "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A jar where you put spare change",
+      "answer": "PIGGY",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Cloth to stop bleeding",
+      "answer": "CLOTH",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You read stories in this",
-      "answer": "BOOK",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Plant that grows on walls",
-      "answer": "MOSS",
-      "row": 2,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Foot end parts",
-      "answer": "TOES",
-      "row": 0,
+      "clue": "Part ownership in a company",
+      "answer": "PART",
+      "row": 7,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Magnifying tool",
+      "answer": "LENS",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
     }
   ],
-  "dayNumber": 106
+  "dayNumber": 105
 }

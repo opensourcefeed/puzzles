@@ -1,0 +1,129 @@
+{
+  "id": "journey-level-128",
+  "level": 128,
+  "title": "Level 128",
+  "words": [
+    {
+      "clue": "Flash of light in storm",
+      "answer": "LIGHTNING",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Subject about the world",
+      "answer": "GEOGRAPHY",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Cardboard is thick paper",
+      "answer": "CARDBOARD",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Microsoft operating system",
+      "answer": "WINDOWS",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong wind storm",
+      "answer": "TORNADO",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Group of stars in the sky",
+      "answer": "GALAXY",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Your male parent",
+      "answer": "FATHER",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Photo editing tool",
+      "answer": "EDITOR",
+      "row": 12,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny seed powder from flowers",
+      "answer": "POLLEN",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Deep valley with steep sides",
+      "answer": "CANYON",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "You eat meals on this",
+      "answer": "TABLE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Heart check machine",
+      "answer": "WATCH",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Whisk eggs with this",
+      "answer": "WHISK",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Aromatic plant used in tea",
+      "answer": "MINT",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Red flower given on Valentine's",
+      "answer": "ROSE",
+      "row": 10,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Person you marry",
+      "answer": "LOVE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Woven bench material",
+      "answer": "WOOD",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 17,
+  "targetWords": 22,
+  "difficulty": "hard"
+}

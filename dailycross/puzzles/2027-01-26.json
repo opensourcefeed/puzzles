@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-01-26",
   "date": "2027-01-26",
-  "title": "26 January 2027",
+  "title": "2027-01-26",
   "words": [
     {
-      "clue": "Fiberglass is used for insulation",
-      "answer": "FIBERGLASS",
-      "row": 5,
+      "clue": "Bread with filling",
+      "answer": "SANDWICH",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather expert",
+      "answer": "WATCHER",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Game console by Nintendo",
+      "answer": "SWITCH",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Pair of married people",
+      "answer": "COUPLE",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Orchestra leader",
+      "answer": "LEADER",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Creates paintings or drawings",
+      "answer": "ARTIST",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where the mayor works",
-      "answer": "TOWNHALL",
+      "clue": "Jewish lights festival",
+      "answer": "LIGHTS",
       "row": 0,
-      "col": 7,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
-      "row": 5,
+      "clue": "Cares for children at home",
+      "answer": "NANNY",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Performs dance",
-      "answer": "DANCER",
-      "row": 3,
-      "col": 5,
+      "clue": "Drill holes with this",
+      "answer": "DRILL",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Top of the oven for cooking",
-      "answer": "STOVE",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where justice is decided",
-      "answer": "COURT",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on the finger",
-      "answer": "RING",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Steel is made from iron ore",
-      "answer": "ORE",
-      "row": 3,
-      "col": 3,
+      "clue": "Small plant with a soft stem",
+      "answer": "HERB",
+      "row": 5,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "dayNumber": 229
+  "dayNumber": 228
 }

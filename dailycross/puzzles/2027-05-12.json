@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2027-05-12",
   "date": "2027-05-12",
-  "title": "12 May 2027",
+  "title": "2027-05-12",
   "words": [
     {
-      "clue": "Place where a fair is held",
-      "answer": "FAIRGROUND",
-      "row": 1,
-      "col": 2,
+      "clue": "Tool used to see far stars",
+      "answer": "TELESCOPE",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 0,
-      "col": 8,
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Cook food fast with waves",
-      "answer": "MICROWAVE",
-      "row": 0,
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Light purple flower color",
-      "answer": "LAVENDER",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Loud sound after lightning",
-      "answer": "THUNDER",
+      "clue": "Stage of a butterfly",
+      "answer": "COCOON",
       "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You put a mattress on this",
-      "answer": "FRAME",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean creature that buries in sand",
-      "answer": "CLAM",
-      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Smart speaker from Amazon",
-      "answer": "ECHO",
-      "row": 2,
+      "clue": "Removes pencil marks",
+      "answer": "ERASER",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong bone mineral",
+      "answer": "MAGNET",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You eat with this",
+      "answer": "MOUTH",
+      "row": 0,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Smallest unit of life",
-      "answer": "CELL",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Soap is made from animal fat",
-      "answer": "FAT",
-      "row": 3,
-      "col": 6,
+      "clue": "Large body of salt water",
+      "answer": "OCEAN",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "dayNumber": 335
+  "dayNumber": 334
 }

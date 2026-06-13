@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2026-08-31",
   "date": "2026-08-31",
-  "title": "31 August 2026",
+  "title": "2026-08-31",
   "words": [
     {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
-      "row": 2,
-      "col": 3,
+      "clue": "September celebration of workers",
+      "answer": "LABORDAY",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Pencils contain this slippery mineral",
-      "answer": "GRAPHITE",
+      "clue": "Underground train system",
+      "answer": "SUBWAY",
       "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful garden bloom",
+      "answer": "FLOWER",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Extra money for good work",
+      "answer": "PRIZE",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Feeling jealous of someone",
-      "answer": "JEALOUS",
+      "clue": "A jar where you put spare change",
+      "answer": "PIGGY",
       "row": 0,
-      "col": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Presents news on television",
-      "answer": "ANCHOR",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Celebration with eggs and bunny",
-      "answer": "EASTER",
-      "row": 5,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "How heavy something is",
-      "answer": "WEIGHT",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "World smile day",
-      "answer": "SMILE",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "You put flowers in this",
-      "answer": "VASE",
-      "row": 1,
+      "clue": "Art class tool",
+      "answer": "BRUSH",
+      "row": 2,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Space rock that hits Earth",
+      "answer": "ROCK",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Underwater mountain",
+      "answer": "HILL",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Small bed for growing vegetables",
+      "answer": "PLOT",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "dayNumber": 81
+  "dayNumber": 80
 }

@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-10-13",
   "date": "2026-10-13",
-  "title": "13 October 2026",
+  "title": "2026-10-13",
   "words": [
     {
-      "clue": "Place where you mail letters",
-      "answer": "POSTOFFICE",
-      "row": 2,
-      "col": 1,
+      "clue": "Emergency vehicle with siren",
+      "answer": "AMBULANCE",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where athletes play",
-      "answer": "STADIUM",
-      "row": 2,
-      "col": 3,
+      "clue": "Leafy green vegetable",
+      "answer": "SPINACH",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Cut metal with this",
-      "answer": "HACKSAW",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "First month of the year",
-      "answer": "JANUARY",
-      "row": 5,
+      "clue": "Weather expert",
+      "answer": "WATCHER",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 3,
+      "clue": "Pumps blood through your body",
+      "answer": "HEART",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Fine dish material",
+      "answer": "CHINA",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Dark blue like the deep sea",
+      "answer": "NAVY",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Place where birds are kept",
-      "answer": "AVIARY",
+      "clue": "Boat parking place",
+      "answer": "DOCK",
       "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Planet with rings around it",
-      "answer": "SATURN",
-      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where Christians pray",
-      "answer": "CHURCH",
-      "row": 0,
-      "col": 4,
+      "clue": "Purple garden vegetable",
+      "answer": "PLUM",
+      "row": 2,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Muslim holiday after Ramadan",
-      "answer": "EID",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
+      "clue": "Time the sun sets",
+      "answer": "DUSK",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Earth's natural satellite",
+      "answer": "MOON",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "dayNumber": 124
+  "dayNumber": 123
 }

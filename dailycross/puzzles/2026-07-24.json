@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-07-24",
   "date": "2026-07-24",
-  "title": "24 July 2026",
+  "title": "2026-07-24",
   "words": [
     {
-      "clue": "Machine that takes pictures of organs",
-      "answer": "ULTRASOUND",
-      "row": 6,
+      "clue": "First month of the year",
+      "answer": "JANUARY",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Holds napkins on the table",
+      "answer": "NAPKIN",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Diamond shape",
+      "answer": "SLANT",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Striped horse-like animal",
+      "answer": "ZEBRA",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Night color",
+      "answer": "BLACK",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Cut vegetables with this",
+      "answer": "KNIFE",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Works in a library",
-      "answer": "LIBRARIAN",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "Set of computer instructions",
-      "answer": "SOFTWARE",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Arrowhead shape",
-      "answer": "DIAMOND",
+      "clue": "Thick fog that limits sight",
+      "answer": "MIST",
       "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Light a fire with this",
-      "answer": "LIGHTER",
-      "row": 6,
-      "col": 1,
+      "col": 11,
       "direction": "down"
-    },
-    {
-      "clue": "Blend fruits in this",
-      "answer": "BLENDER",
-      "row": 13,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Sun color",
-      "answer": "YELLOW",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean north of America",
-      "answer": "ARCTIC",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "How hot or cold something is",
-      "answer": "HEAT",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Crayons are made from this",
-      "answer": "WAX",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
     }
   ],
-  "dayNumber": 43
+  "dayNumber": 42
 }

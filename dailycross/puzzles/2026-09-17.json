@@ -1,64 +1,57 @@
 {
   "id": "dailycross-2026-09-17",
   "date": "2026-09-17",
-  "title": "17 September 2026",
+  "title": "2026-09-17",
   "words": [
     {
-      "clue": "Online building game",
-      "answer": "MINECRAFT",
+      "clue": "Very tall natural land feature",
+      "answer": "MOUNTAIN",
       "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling disgusted",
-      "answer": "DISGUSTED",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean zone where sunlight reaches",
-      "answer": "SUNLIGHT",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you cook meals",
-      "answer": "KITCHEN",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Small ocean crustacean",
-      "answer": "SHRIMP",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant that climbs up trellises",
-      "answer": "VINE",
-      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large public road vehicle",
-      "answer": "BUS",
-      "row": 0,
+      "clue": "Country with Copenhagen",
+      "answer": "DENMARK",
+      "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Machine that gives you cash",
-      "answer": "ATM",
-      "row": 4,
+      "clue": "Three children born at once",
+      "answer": "TRIPLET",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Song that celebrates a country",
+      "answer": "ANTHEM",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where justice is decided",
+      "answer": "COURT",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Family last name",
+      "answer": "NAME",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Head cook in a restaurant",
+      "answer": "CHEF",
+      "row": 0,
       "col": 8,
       "direction": "down"
     }
   ],
-  "dayNumber": 98
+  "dayNumber": 97
 }

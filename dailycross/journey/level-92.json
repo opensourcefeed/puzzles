@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-92",
+  "level": 92,
+  "title": "Level 92",
+  "words": [
+    {
+      "clue": "Game with hoop and net",
+      "answer": "BASKETBALL",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Device that copies paper to computer",
+      "answer": "SCANNER",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you watch movies",
+      "answer": "THEATER",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Regular exercise keeps you this",
+      "answer": "HEALTHY",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Gentle movement of air",
+      "answer": "BREEZE",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Popular search engine",
+      "answer": "GOOGLE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Giant rock that comes from space",
+      "answer": "METEOR",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very glad",
+      "answer": "HAPPY",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Cares for children at home",
+      "answer": "NANNY",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A cold causes this",
+      "answer": "COUGH",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Male part of a flower",
+      "answer": "BLOOM",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Garden decoration statue",
+      "answer": "GNOME",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Smallest unit of life",
+      "answer": "CELL",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 17,
+  "difficulty": "hard"
+}

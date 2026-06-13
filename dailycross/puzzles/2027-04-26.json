@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-04-26",
   "date": "2027-04-26",
-  "title": "26 April 2027",
+  "title": "2027-04-26",
   "words": [
     {
-      "clue": "December 25 celebration",
-      "answer": "CHRISTMAS",
-      "row": 5,
+      "clue": "Swim eye wear",
+      "answer": "GOGGLES",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Video recording device",
+      "answer": "CAMERA",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful garden bloom",
+      "answer": "FLOWER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You store clothes in this",
+      "answer": "CLOSET",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You type on this",
-      "answer": "KEYBOARD",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Gliding on ice",
-      "answer": "SKATING",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Turn nuts with a socket",
-      "answer": "SOCKET",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Ring-shaped coral reef",
-      "answer": "ATOLL",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Mixture of metals",
-      "answer": "ALLOY",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Large flowing body of water",
-      "answer": "RIVER",
-      "row": 5,
+      "clue": "Arm bend point",
+      "answer": "ELBOW",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Bowls are made of this moldable material",
-      "answer": "CLAY",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Joint between thigh and calf",
-      "answer": "KNEE",
-      "row": 10,
-      "col": 3,
+      "clue": "Day to plant trees",
+      "answer": "ARBOR",
+      "row": 6,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Falls from clouds",
-      "answer": "RAIN",
-      "row": 1,
-      "col": 3,
+      "clue": "Washing hands is this",
+      "answer": "CLEAN",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Wear this to protect clothes",
+      "answer": "APRON",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "dayNumber": 319
+  "dayNumber": 318
 }

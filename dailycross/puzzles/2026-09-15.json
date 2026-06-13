@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-09-15",
   "date": "2026-09-15",
-  "title": "15 September 2026",
+  "title": "2026-09-15",
   "words": [
     {
-      "clue": "Math calculation tool",
-      "answer": "CALCULATOR",
-      "row": 5,
-      "col": 2,
+      "clue": "Game with hoop and net",
+      "answer": "BASKETBALL",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A test to check your blood",
-      "answer": "BLOODTEST",
-      "row": 4,
+      "clue": "Juicy summer fruit with seeds",
+      "answer": "WATERMELON",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Kuala Lumpur",
+      "answer": "MALAYSIA",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You open to let in light",
+      "answer": "WINDOW",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Boat parking place",
+      "answer": "DOCK",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Family last name",
+      "answer": "NAME",
+      "row": 5,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Drain vegetables in this",
-      "answer": "STRAINER",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
+      "clue": "King of the jungle",
+      "answer": "LION",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "Place where you buy medicine",
-      "answer": "PHARMACY",
+      "clue": "Day to celebrate science",
+      "answer": "STEM",
       "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Country with Budapest",
-      "answer": "HUNGARY",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Can't see well condition",
-      "answer": "MYOPIA",
-      "row": 3,
+      "clue": "Percussion instrument you hit",
+      "answer": "DRUM",
+      "row": 6,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Tighten bolts with this",
-      "answer": "WRENCH",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Measures how much matter is in something",
-      "answer": "MASS",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Read across America day",
-      "answer": "READ",
-      "row": 5,
-      "col": 11,
-      "direction": "across"
-    },
-    {
-      "clue": "You smell with this",
-      "answer": "NOSE",
-      "row": 9,
-      "col": 9,
       "direction": "across"
     }
   ],
-  "dayNumber": 96
+  "dayNumber": 95
 }

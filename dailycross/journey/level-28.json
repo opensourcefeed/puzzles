@@ -1,0 +1,66 @@
+{
+  "id": "journey-level-28",
+  "level": 28,
+  "title": "Level 28",
+  "words": [
+    {
+      "clue": "Machine that processes information",
+      "answer": "COMPUTER",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Part of the body that digests food",
+      "answer": "STOMACH",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Mix of red and blue",
+      "answer": "PURPLE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where Muslims pray",
+      "answer": "MOSQUE",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny germ that causes colds",
+      "answer": "VIRUS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Pipe instrument you blow into",
+      "answer": "FLUTE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Snow color",
+      "answer": "WHITE",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 8,
+  "targetWords": 9,
+  "difficulty": "easy"
+}

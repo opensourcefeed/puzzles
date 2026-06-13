@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2027-02-23",
   "date": "2027-02-23",
-  "title": "23 February 2027",
+  "title": "2027-02-23",
   "words": [
     {
-      "clue": "Does experiments for a living",
-      "answer": "SCIENTIST",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Travels to discover new places",
-      "answer": "EXPLORER",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Repairs cars and engines",
-      "answer": "MECHANIC",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Decayed plants used as fertilizer",
-      "answer": "COMPOST",
-      "row": 9,
+      "clue": "April 1 prank day",
+      "answer": "APRILFOOLS",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "You put a laptop on this desk",
-      "answer": "LAPDESK",
+      "clue": "Does experiments for a living",
+      "answer": "SCIENTIST",
       "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Australian animal that hops",
+      "answer": "KANGAROO",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong wind storm",
+      "answer": "TORNADO",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Blow leaves with this",
+      "answer": "BLOWER",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Seventh planet from the sun",
+      "answer": "URANUS",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Ocean around India",
-      "answer": "INDIAN",
-      "row": 3,
-      "col": 5,
+      "clue": "Blood vessel that carries blood away",
+      "answer": "ARTERY",
+      "row": 7,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Grate cheese with this",
-      "answer": "GRATER",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Fitness tracking wristband",
-      "answer": "FITBIT",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You keep important papers in this",
-      "answer": "FILE",
-      "row": 7,
-      "col": 8,
+      "clue": "Serve food on this",
+      "answer": "PLATE",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 257
+  "dayNumber": 256
 }

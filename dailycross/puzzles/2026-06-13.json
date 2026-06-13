@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-06-13",
   "date": "2026-06-13",
-  "title": "13 June 2026",
+  "title": "2026-06-13",
   "words": [
     {
-      "clue": "Plant that lives for many years",
-      "answer": "PERENNIAL",
-      "row": 2,
+      "clue": "Press garlic with this",
+      "answer": "PRESS",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tiny computer for hobby projects",
-      "answer": "RASPBERRY",
-      "row": 1,
-      "col": 7,
+      "clue": "Sticky bandage",
+      "answer": "PATCH",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Change from gas to liquid",
-      "answer": "CONDENSE",
+      "clue": "Sweet brown dessert topping",
+      "answer": "FUDGE",
       "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Light bounces off this",
-      "answer": "REFLECT",
-      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Change from solid to gas",
-      "answer": "SUBLIME",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean mammal with tusks",
-      "answer": "WALRUS",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Holds pants up",
-      "answer": "BELT",
-      "row": 5,
+      "clue": "Bags are made from this woven material",
+      "answer": "CLOTH",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Subject about numbers",
-      "answer": "MATH",
-      "row": 5,
-      "col": 10,
+      "clue": "Frozen rain from sky",
+      "answer": "HAIL",
+      "row": 7,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "You keep important papers in this",
+      "answer": "FILE",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Ice cream shop",
+      "answer": "SHOP",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "You hang a picture on this",
+      "answer": "HOOK",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Full of energy feeling",
+      "answer": "LIVE",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "dayNumber": 2
+  "dayNumber": 1
 }

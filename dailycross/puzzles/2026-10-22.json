@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-10-22",
   "date": "2026-10-22",
-  "title": "22 October 2026",
+  "title": "2026-10-22",
   "words": [
     {
-      "clue": "Place where scientists work",
-      "answer": "LABORATORY",
+      "clue": "Place where a river meets the ocean",
+      "answer": "ESTUARY",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who leads an orchestra",
-      "answer": "CONDUCTOR",
+      "clue": "Feeling able to wait",
+      "answer": "PATIENT",
       "row": 4,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Date you were born",
-      "answer": "BIRTHDAY",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Change from gas to liquid",
-      "answer": "CONDENSE",
-      "row": 11,
-      "col": 2,
+      "clue": "Mix of red and yellow",
+      "answer": "ORANGE",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Bird that cannot fly",
-      "answer": "PENGUIN",
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Break hard concrete",
+      "answer": "SMASH",
       "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Your sister's son",
-      "answer": "NEPHEW",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean fish that can inflate",
-      "answer": "PUFFER",
+      "clue": "Helps you hear",
+      "answer": "EARS",
       "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Guitar strings are made of this",
-      "answer": "NYLON",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Percussion instrument you hit",
-      "answer": "DRUM",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A family group",
-      "answer": "CLAN",
-      "row": 8,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Understanding others",
+      "answer": "CARE",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Subject about numbers",
+      "answer": "MATH",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],
-  "dayNumber": 133
+  "dayNumber": 132
 }

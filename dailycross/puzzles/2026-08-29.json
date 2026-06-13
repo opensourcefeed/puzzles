@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-08-29",
   "date": "2026-08-29",
-  "title": "29 August 2026",
+  "title": "2026-08-29",
   "words": [
     {
-      "clue": "Creates computer software",
-      "answer": "DEVELOPER",
-      "row": 4,
-      "col": 1,
+      "clue": "Ocean zone where sunlight reaches",
+      "answer": "SUNLIGHT",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Secret code for security",
-      "answer": "PASSWORD",
-      "row": 4,
-      "col": 7,
+      "clue": "Loud sound after lightning",
+      "answer": "THUNDER",
+      "row": 5,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Money paid to workers per year",
-      "answer": "SALARY",
-      "row": 2,
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Brussels",
+      "answer": "BELGIUM",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Chinese new year symbol",
+      "answer": "DRAGON",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You write with this",
-      "answer": "PENCIL",
+      "clue": "Time after sunset",
+      "answer": "NIGHT",
       "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You rock in this on the porch",
-      "answer": "ROCKER",
-      "row": 6,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Smooth wood with a plane",
-      "answer": "PLANE",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Loop of water from sky to ground and back",
-      "answer": "CYCLE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Quality passed down in families",
-      "answer": "TRAIT",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on this with a back",
-      "answer": "CHAIR",
+      "clue": "Red swollen skin",
+      "answer": "RASH",
       "row": 2,
-      "col": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Hanging light fixture",
+      "answer": "LAMP",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Carry groceries in these",
+      "answer": "BAGS",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Grows on top of your head",
-      "answer": "HAIR",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
+      "clue": "Be nice day",
+      "answer": "KIND",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
     }
   ],
-  "dayNumber": 79
+  "dayNumber": 78
 }

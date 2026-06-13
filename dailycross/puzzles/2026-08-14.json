@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-08-14",
   "date": "2026-08-14",
-  "title": "14 August 2026",
+  "title": "2026-08-14",
   "words": [
     {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
+      "clue": "Portable phone charger",
+      "answer": "POWERBANK",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Giving money to charity",
-      "answer": "DONATION",
-      "row": 0,
-      "col": 6,
+      "clue": "Overhead surface of a room",
+      "answer": "CEILING",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Move dirt with this",
-      "answer": "TRACTOR",
-      "row": 3,
+      "clue": "Feeling nervous before a test",
+      "answer": "NERVOUS",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Peel potatoes with this",
+      "answer": "PEELER",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Ball shape in 3D",
+      "answer": "SPHERE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "August independence of India",
+      "answer": "AUGUST",
+      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "You keep jewelry in this box",
-      "answer": "COFFER",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Holds napkins on the table",
-      "answer": "NAPKIN",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Part of the eye that sees color",
-      "answer": "CONE",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Change from solid to liquid",
-      "answer": "MELT",
-      "row": 3,
-      "col": 3,
+      "clue": "Chinese new year symbol",
+      "answer": "DRAGON",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Small bed for growing vegetables",
       "answer": "PLOT",
       "row": 7,
-      "col": 3,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Worn on the finger",
+      "answer": "RING",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Breathing help device",
+      "answer": "MASK",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
     }
   ],
-  "dayNumber": 64
+  "dayNumber": 63
 }

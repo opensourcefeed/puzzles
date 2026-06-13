@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-08-06",
   "date": "2026-08-06",
-  "title": "6 August 2026",
+  "title": "2026-08-06",
   "words": [
     {
-      "clue": "Place where Jews pray",
-      "answer": "SYNAGOGUE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Heavy snowstorm with wind",
-      "answer": "BLIZZARD",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
-      "row": 1,
+      "clue": "Does experiments for a living",
+      "answer": "SCIENTIST",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Large frozen area of ice",
-      "answer": "GLACIER",
-      "row": 5,
-      "col": 6,
+      "clue": "Four sides with right angles",
+      "answer": "RECTANGLE",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Sixty seconds",
-      "answer": "MINUTE",
-      "row": 9,
+      "clue": "Start of day before noon",
+      "answer": "MORNING",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
+      "row": 2,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Sidewalks are made of this",
-      "answer": "CEMENT",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Top of the oven for cooking",
-      "answer": "STOVE",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where tools are kept",
-      "answer": "SHED",
-      "row": 7,
-      "col": 7,
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
+      "row": 0,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Apple mobile operating system",
-      "answer": "IOS",
-      "row": 3,
-      "col": 0,
+      "clue": "T-shirts are made of this soft fiber",
+      "answer": "COTTON",
+      "row": 4,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Card that lets you buy now and pay later",
+      "answer": "CREDIT",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Salty snack often eaten with dip",
+      "answer": "CHIPS",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "How hot or cold something is",
+      "answer": "HEAT",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Mom's new husband",
+      "answer": "DAD",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "dayNumber": 56
+  "dayNumber": 55
 }

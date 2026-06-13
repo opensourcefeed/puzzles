@@ -1,0 +1,66 @@
+{
+  "id": "journey-level-26",
+  "level": 26,
+  "title": "Level 26",
+  "words": [
+    {
+      "clue": "Shoes are made of this animal skin",
+      "answer": "LEATHER",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Makes pots out of clay",
+      "answer": "POTTER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Writes books",
+      "answer": "AUTHOR",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Your male parent",
+      "answer": "FATHER",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Your brother's daughter",
+      "answer": "NIECE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Your first given name",
+      "answer": "GIVEN",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Handheld device for calls and apps",
+      "answer": "PHONE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Large flowing body of water",
+      "answer": "RIVER",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 8,
+  "targetWords": 8,
+  "difficulty": "easy"
+}

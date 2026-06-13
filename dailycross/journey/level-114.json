@@ -1,0 +1,129 @@
+{
+  "id": "journey-level-114",
+  "level": 114,
+  "title": "Level 114",
+  "words": [
+    {
+      "clue": "Tool used to see far stars",
+      "answer": "TELESCOPE",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Builds roads and bridges",
+      "answer": "ENGINEER",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Teaches students at school",
+      "answer": "TEACHER",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong wind storm",
+      "answer": "TORNADO",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "You open to let in light",
+      "answer": "WINDOW",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Buddha's birthday celebration",
+      "answer": "BUDDHA",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Warsaw",
+      "answer": "POLAND",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean creature with two shells",
+      "answer": "MUSSEL",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Pen for drawing on tablets",
+      "answer": "STYLUS",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Athens",
+      "answer": "GREECE",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Most populated country",
+      "answer": "CHINA",
+      "row": 10,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Sharpen knives on this",
+      "answer": "STONE",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Coin worth 1 cent",
+      "answer": "PENNY",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Large black and white keyboard",
+      "answer": "PIANO",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Money from a job",
+      "answer": "CASH",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Round coral island",
+      "answer": "RING",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Eight sided shape",
+      "answer": "STOP",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 17,
+  "targetWords": 20,
+  "difficulty": "hard"
+}

@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-02-05",
   "date": "2027-02-05",
-  "title": "5 February 2027",
+  "title": "2027-02-05",
   "words": [
     {
-      "clue": "Computer brain",
-      "answer": "PROCESSOR",
-      "row": 5,
-      "col": 0,
+      "clue": "Top part of your arm",
+      "answer": "SHOULDER",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Violent wind that spins",
-      "answer": "CYCLONE",
-      "row": 5,
+      "clue": "Subject about the past",
+      "answer": "HISTORY",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Bones contain this mineral",
-      "answer": "CALCIUM",
-      "row": 7,
-      "col": 3,
+      "clue": "Frog's early stage in water",
+      "answer": "TADPOLE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Cuts hair for women",
+      "answer": "STYLER",
+      "row": 1,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Grind metal with this",
-      "answer": "GRINDER",
+      "clue": "Group of stars in the sky",
+      "answer": "GALAXY",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Studies plants",
+      "answer": "GROWER",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Email folder for new messages",
+      "answer": "INBOX",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Water vapor becomes liquid",
+      "answer": "RAIN",
       "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Size of something",
-      "answer": "VOLUME",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes in this",
-      "answer": "CLOSET",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Card that takes money from your account",
-      "answer": "DEBIT",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Hold pipe while cutting",
-      "answer": "VISE",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "International hug day",
-      "answer": "HUG",
-      "row": 6,
-      "col": 8,
+      "clue": "Percussion instrument you hit",
+      "answer": "DRUM",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     }
   ],
-  "dayNumber": 239
+  "dayNumber": 238
 }

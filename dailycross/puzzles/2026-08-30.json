@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-08-30",
   "date": "2026-08-30",
-  "title": "30 August 2026",
+  "title": "2026-08-30",
   "words": [
     {
-      "clue": "Place where you eat out",
-      "answer": "RESTAURANT",
-      "row": 6,
-      "col": 0,
+      "clue": "Day before today",
+      "answer": "YESTERDAY",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Feeling sad without energy",
-      "answer": "DEPRESSED",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where firefighters work",
-      "answer": "FIREHOUSE",
+      "clue": "Australian animal that hops",
+      "answer": "KANGAROO",
       "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor fathers in June",
-      "answer": "FATHERS",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "T-shirts are made of this soft fiber",
-      "answer": "COTTON",
-      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Become part of a family by law",
-      "answer": "ADOPT",
-      "row": 11,
+      "clue": "Day to honor mothers in May",
+      "answer": "MOTHERS",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Your aunt's child",
+      "answer": "COUSIN",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Protects the community",
+      "answer": "POLICE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean coral reef builder",
+      "answer": "CORAL",
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Garden decoration statue",
-      "answer": "GNOME",
-      "row": 1,
-      "col": 6,
+      "clue": "Holds pants up",
+      "answer": "BELT",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Eat pasta with this",
-      "answer": "FORK",
-      "row": 4,
-      "col": 0,
+      "clue": "Place where you swim",
+      "answer": "POOL",
+      "row": 6,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "Box shape in 3D",
+      "answer": "CUBE",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "dayNumber": 80
+  "dayNumber": 79
 }

@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-02-21",
   "date": "2027-02-21",
-  "title": "21 February 2027",
+  "title": "2027-02-21",
   "words": [
     {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where buses arrive",
-      "answer": "TERMINAL",
-      "row": 4,
+      "clue": "Bandage that sticks to skin",
+      "answer": "BANDAID",
+      "row": 3,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Soda cans are made of this",
-      "answer": "ALUMINUM",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a river meets the ocean",
-      "answer": "ESTUARY",
-      "row": 4,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Holds papers together",
-      "answer": "STAPLER",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Harvest celebration",
-      "answer": "HARVEST",
-      "row": 2,
+      "clue": "Feeling very interested",
+      "answer": "CURIOUS",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Baskets are woven from this vine",
-      "answer": "RATTAN",
-      "row": 8,
-      "col": 6,
+      "clue": "Mix of red and yellow",
+      "answer": "ORANGE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Underground train system",
+      "answer": "SUBWAY",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A woman on her wedding day",
-      "answer": "BRIDE",
-      "row": 0,
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Brown vegetable that grows in dirt",
+      "answer": "POTATO",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You sit on in the living room",
-      "answer": "COUCH",
-      "row": 2,
-      "col": 4,
+      "clue": "Makes computer programs",
+      "answer": "CODER",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Soft rope fiber",
+      "answer": "TWINE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Worn on feet",
+      "answer": "SOCKS",
+      "row": 6,
+      "col": 8,
       "direction": "across"
     }
   ],
-  "dayNumber": 255
+  "dayNumber": 254
 }

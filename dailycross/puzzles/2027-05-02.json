@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2027-05-02",
   "date": "2027-05-02",
-  "title": "2 May 2027",
+  "title": "2027-05-02",
   "words": [
     {
-      "clue": "Center of a cell",
-      "answer": "NUCLEUS",
-      "row": 6,
-      "col": 0,
+      "clue": "Ocean between America and Europe",
+      "answer": "ATLANTIC",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Bones contain this mineral",
-      "answer": "CALCIUM",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Frog's early stage in water",
-      "answer": "TADPOLE",
+      "clue": "Country with Kuala Lumpur",
+      "answer": "MALAYSIA",
       "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden tool for cutting branches",
-      "answer": "PRUNER",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Words of a song",
-      "answer": "LYRICS",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Electricity that flows one way",
-      "answer": "DIRECT",
-      "row": 7,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Fallen leaves that rot",
-      "answer": "LITTER",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
+      "clue": "Riding a bicycle",
+      "answer": "CYCLING",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "Raincoats are made of this waterproof material",
-      "answer": "VINYL",
-      "row": 4,
+      "clue": "World book day",
+      "answer": "BOOKDAY",
+      "row": 3,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Sharpen knives on this",
-      "answer": "STONE",
-      "row": 0,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Round fruit that is green or red",
-      "answer": "PEAR",
-      "row": 2,
-      "col": 8,
+      "clue": "Manages money in a bank",
+      "answer": "BANKER",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Measure length with this",
+      "answer": "RULER",
+      "row": 3,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "Wear this to protect clothes",
+      "answer": "APRON",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Change from solid to liquid",
+      "answer": "MELT",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
     }
   ],
-  "dayNumber": 325
+  "dayNumber": 324
 }

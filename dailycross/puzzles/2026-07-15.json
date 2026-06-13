@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-07-15",
   "date": "2026-07-15",
-  "title": "15 July 2026",
+  "title": "2026-07-15",
   "words": [
     {
-      "clue": "Flash of light in storm",
-      "answer": "LIGHTNING",
+      "clue": "Cook food fast with waves",
+      "answer": "MICROWAVE",
       "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A market where stocks are traded",
-      "answer": "EXCHANGE",
-      "row": 2,
-      "col": 6,
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Country with Athens",
-      "answer": "GREECE",
-      "row": 5,
+      "clue": "T-shirts are made of this soft fiber",
+      "answer": "COTTON",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling uncertain",
+      "answer": "UNSURE",
+      "row": 0,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Country of maple leaves",
-      "answer": "CANADA",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Moving energy of objects",
-      "answer": "MOTION",
-      "row": 0,
+      "clue": "Mix of red and yellow",
+      "answer": "ORANGE",
+      "row": 9,
       "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that filters blood",
-      "answer": "KIDNEY",
-      "row": 3,
-      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Floors are often made of this",
-      "answer": "WOOD",
+      "clue": "Studies ocean life",
+      "answer": "MARINE",
       "row": 1,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A family group",
-      "answer": "CLAN",
-      "row": 4,
-      "col": 3,
+      "clue": "Your sister's son",
+      "answer": "NEPHEW",
+      "row": 5,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "King of the jungle",
-      "answer": "LION",
-      "row": 7,
+      "clue": "Country known for watches",
+      "answer": "SWISS",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Microscope sees these tiny living things",
+      "answer": "GERMS",
+      "row": 3,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A child with no siblings",
-      "answer": "ONLY",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
     }
   ],
-  "dayNumber": 34
+  "dayNumber": 33
 }

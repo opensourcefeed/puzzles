@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-04-08",
   "date": "2027-04-08",
-  "title": "8 April 2027",
+  "title": "2027-04-08",
   "words": [
     {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 5,
+      "clue": "Holds papers together",
+      "answer": "STAPLER",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Your aunt's child",
+      "answer": "COUSIN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Helps sick people at hospital",
+      "answer": "DOCTOR",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Drain vegetables in this",
-      "answer": "STRAINER",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Freeze food in this",
-      "answer": "FREEZER",
-      "row": 5,
+      "clue": "Jewish lights festival",
+      "answer": "LIGHTS",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Device that copies paper to computer",
-      "answer": "SCANNER",
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling like you want to sleep",
+      "answer": "SLEEPY",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Wraps around neck for warmth",
+      "answer": "SCARF",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Read across America day",
+      "answer": "READ",
       "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A shot that prevents illness",
-      "answer": "VACCINE",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden path material",
-      "answer": "GRAVEL",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor nurses",
-      "answer": "NURSES",
-      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Island country in Asia",
-      "answer": "TAIWAN",
-      "row": 0,
-      "col": 2,
+      "clue": "Leather comes from animal skin",
+      "answer": "HIDE",
+      "row": 10,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Microsoft word processor",
-      "answer": "WORD",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
+      "clue": "Ocean fish that swims in schools",
+      "answer": "TUNA",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "dayNumber": 301
+  "dayNumber": 300
 }

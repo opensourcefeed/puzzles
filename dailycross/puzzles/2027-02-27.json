@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2027-02-27",
   "date": "2027-02-27",
-  "title": "27 February 2027",
+  "title": "2027-02-27",
   "words": [
     {
-      "clue": "Builds with wood",
-      "answer": "CARPENTER",
+      "clue": "Short-range wireless technology",
+      "answer": "BLUETOOTH",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Creates fashion and clothes",
-      "answer": "DESIGNER",
-      "row": 1,
-      "col": 4,
+      "clue": "Frozen sweet treat",
+      "answer": "ICECREAM",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Country with Helsinki",
-      "answer": "FINLAND",
-      "row": 4,
-      "col": 3,
+      "clue": "Place where a horse lives",
+      "answer": "STABLE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Wipe counters with this",
+      "answer": "SPONGE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Arm bend point",
+      "answer": "ELBOW",
+      "row": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Sweet liquid bees collect from flowers",
-      "answer": "NECTAR",
-      "row": 0,
+      "clue": "Microscope sees these tiny living things",
+      "answer": "GERMS",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Cloth to stop bleeding",
+      "answer": "CLOTH",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Soft white building rock",
+      "answer": "ROCK",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Narrow water passage",
+      "answer": "GAP",
+      "row": 7,
       "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "Large round object in space",
-      "answer": "PLANET",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Small ocean crustacean",
-      "answer": "SHRIMP",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "World joke day",
-      "answer": "JOKE",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
     }
   ],
-  "dayNumber": 261
+  "dayNumber": 260
 }

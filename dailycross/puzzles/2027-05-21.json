@@ -1,78 +1,50 @@
 {
   "id": "dailycross-2027-05-21",
   "date": "2027-05-21",
-  "title": "21 May 2027",
+  "title": "2027-05-21",
   "words": [
     {
-      "clue": "Creates computer software",
-      "answer": "DEVELOPER",
-      "row": 3,
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
-      "row": 2,
-      "col": 5,
+      "clue": "Protects the community",
+      "answer": "POLICE",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Video sharing website",
-      "answer": "YOUTUBE",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who sells goods",
-      "answer": "VENDOR",
+      "clue": "Silent aircraft with no engine",
+      "answer": "GLIDER",
       "row": 3,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Buddha's birthday celebration",
-      "answer": "BUDDHA",
-      "row": 6,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Spirit day wear purple",
-      "answer": "SPIRIT",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Holds napkins on the table",
-      "answer": "NAPKIN",
+      "clue": "Our planet",
+      "answer": "EARTH",
       "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Chocolate color",
-      "answer": "BROWN",
-      "row": 6,
-      "col": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "You keep important papers in this",
-      "answer": "FILE",
+      "clue": "Spinning wind storm",
+      "answer": "WIND",
       "row": 0,
-      "col": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Subject about numbers",
-      "answer": "MATH",
+      "clue": "Paper showing you paid",
+      "answer": "NOTE",
       "row": 5,
-      "col": 6,
+      "col": 1,
       "direction": "across"
     }
   ],
-  "dayNumber": 344
+  "dayNumber": 343
 }

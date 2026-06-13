@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2027-05-06",
   "date": "2027-05-06",
-  "title": "6 May 2027",
+  "title": "2027-05-06",
   "words": [
     {
-      "clue": "Person who lives next door",
-      "answer": "NEIGHBOR",
-      "row": 3,
-      "col": 0,
+      "clue": "Head-worn audio device",
+      "answer": "HEADPHONES",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "What we call animals that eat plants and meat",
-      "answer": "OMNIVORE",
+      "clue": "September celebration of workers",
+      "answer": "LABORDAY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Pillows are filled with soft feathers",
+      "answer": "FEATHER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Pour dressing from this",
+      "answer": "BOTTLE",
       "row": 3,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Lives more than one year",
+      "answer": "YEARLY",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Amount of money something costs",
+      "answer": "PRICE",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Roads are paved with this black material",
-      "answer": "ASPHALT",
-      "row": 0,
-      "col": 4,
+      "clue": "March green day",
+      "answer": "GREEN",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
+      "clue": "Light red color",
+      "answer": "PINK",
       "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Apple computer operating system",
-      "answer": "MACOS",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Punch holes in paper",
-      "answer": "PUNCH",
-      "row": 1,
+      "clue": "Fragrant white spring flower",
+      "answer": "LILY",
+      "row": 7,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Your first given name",
-      "answer": "GIVEN",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You put keys in this by the door",
-      "answer": "DISH",
-      "row": 6,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "You put flowers in this",
-      "answer": "VASE",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You sleep on this",
-      "answer": "BED",
+      "clue": "Two children born at the same time",
+      "answer": "TWIN",
       "row": 5,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     }
   ],
-  "dayNumber": 329
+  "dayNumber": 328
 }

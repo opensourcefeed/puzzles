@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-83",
+  "level": 83,
+  "title": "Level 83",
+  "words": [
+    {
+      "clue": "Carries your books",
+      "answer": "BACKPACK",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Warsaw",
+      "answer": "POLAND",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean creature with two shells",
+      "answer": "MUSSEL",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Teacher appreciation",
+      "answer": "THANKS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Moving energy of objects",
+      "answer": "MOTION",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Time your cooking with this",
+      "answer": "TIMER",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You eat meals on this",
+      "answer": "TABLE",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sharpen knives on this",
+      "answer": "STONE",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Time the sun rises",
+      "answer": "DAWN",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant that grows on walls",
+      "answer": "MOSS",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 16,
+  "difficulty": "medium"
+}

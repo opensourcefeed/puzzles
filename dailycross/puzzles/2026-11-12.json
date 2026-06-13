@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-11-12",
   "date": "2026-11-12",
-  "title": "12 November 2026",
+  "title": "2026-11-12",
   "words": [
     {
-      "clue": "Your father's new wife",
-      "answer": "STEPMOTHER",
-      "row": 6,
-      "col": 0,
+      "clue": "Catches fish for a living",
+      "answer": "FISHERMAN",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Medicine that kills bacteria",
-      "answer": "ANTIBIOTIC",
+      "clue": "Place where you buy medicine",
+      "answer": "PHARMACY",
       "row": 4,
-      "col": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Short-range wireless technology",
-      "answer": "BLUETOOTH",
+      "clue": "You keep dishes in this",
+      "answer": "CUPBOARD",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Song that celebrates a country",
+      "answer": "ANTHEM",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Photo editing tool",
+      "answer": "EDITOR",
       "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Feeling very tired",
-      "answer": "EXHAUSTED",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Set of computer instructions",
-      "answer": "SOFTWARE",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "You prop your feet on this",
-      "answer": "OTTOMAN",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Studies ocean life",
-      "answer": "MARINE",
-      "row": 9,
+      "clue": "Card that lets you buy now and pay later",
+      "answer": "CREDIT",
+      "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Electric car company",
-      "answer": "TESLA",
-      "row": 4,
+      "clue": "Paper check",
+      "answer": "CHECK",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Microsoft spreadsheet program",
+      "answer": "EXCEL",
+      "row": 1,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "What an egg becomes",
-      "answer": "CHICK",
-      "row": 13,
-      "col": 6,
-      "direction": "across"
+      "clue": "Email folder for new messages",
+      "answer": "INBOX",
+      "row": 8,
+      "col": 7,
+      "direction": "down"
     },
     {
-      "clue": "Measures how much matter is in something",
-      "answer": "MASS",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
+      "clue": "You read stories in this",
+      "answer": "BOOK",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
-  "dayNumber": 154
+  "dayNumber": 153
 }

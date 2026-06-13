@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-03-13",
   "date": "2027-03-13",
-  "title": "13 March 2027",
+  "title": "2027-03-13",
   "words": [
     {
-      "clue": "Feeling disgusted",
-      "answer": "DISGUSTED",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Jakarta",
-      "answer": "INDONESIA",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Light bounces off this",
-      "answer": "REFLECT",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where airplanes land",
-      "answer": "AIRPORT",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of paper proving payment",
-      "answer": "RECEIPT",
+      "clue": "September celebration of workers",
+      "answer": "LABORDAY",
       "row": 5,
-      "col": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling surprised",
-      "answer": "SHOCKED",
+      "clue": "Repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you sleep",
+      "answer": "BEDROOM",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Cleans schools and offices",
+      "answer": "JANITOR",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Nairobi",
+      "answer": "KENYA",
       "row": 2,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "T-shirts are made of this soft fiber",
-      "answer": "COTTON",
-      "row": 7,
-      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Check if surface is flat",
-      "answer": "LEVEL",
+      "clue": "Earth's natural satellite",
+      "answer": "MOON",
       "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Vertical surface of a room",
+      "answer": "WALL",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall sitting seat",
+      "answer": "SEAT",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Muslim holiday after Ramadan",
+      "answer": "EID",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Connects computer to monitor",
-      "answer": "CABLE",
+      "clue": "Art celebration day",
+      "answer": "ART",
       "row": 2,
-      "col": 0,
-      "direction": "down"
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "dayNumber": 275
+  "dayNumber": 274
 }

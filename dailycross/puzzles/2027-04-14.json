@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-04-14",
   "date": "2027-04-14",
-  "title": "14 April 2027",
+  "title": "2027-04-14",
   "words": [
     {
-      "clue": "Stainless steel resists rust",
-      "answer": "STAINLESS",
-      "row": 2,
+      "clue": "You type on this",
+      "answer": "KEYBOARD",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Removes pencil marks",
+      "answer": "ERASER",
+      "row": 3,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Very small floating ocean plants",
-      "answer": "PLANKTON",
-      "row": 1,
-      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A broken bone",
-      "answer": "FRACTURE",
-      "row": 0,
-      "col": 4,
+      "clue": "Performs in movies or plays",
+      "answer": "ACTOR",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A protein that builds muscle",
-      "answer": "PROTEIN",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Vegetable that grows on a vine",
-      "answer": "SQUASH",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Tighten bolts with this",
-      "answer": "WRENCH",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Water in gas form",
-      "answer": "VAPOR",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to plant trees",
-      "answer": "ARBOR",
+      "clue": "Kid with no parents",
+      "answer": "ALONE",
       "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Seeing the bright side",
+      "answer": "HOPE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Boat parking place",
+      "answer": "DOCK",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Green message app",
+      "answer": "CHAT",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Light bulb wire",
+      "answer": "WIRE",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Garden border plant",
-      "answer": "HEDGE",
-      "row": 7,
-      "col": 9,
-      "direction": "across"
+      "clue": "Tree part that falls in autumn",
+      "answer": "LEAF",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "dayNumber": 307
+  "dayNumber": 306
 }

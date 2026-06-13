@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-08-11",
   "date": "2026-08-11",
-  "title": "11 August 2026",
+  "title": "2026-08-11",
   "words": [
     {
-      "clue": "Travels to discover new places",
-      "answer": "EXPLORER",
-      "row": 3,
-      "col": 1,
+      "clue": "Juicy summer fruit with seeds",
+      "answer": "WATERMELON",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A broken bone",
-      "answer": "FRACTURE",
+      "clue": "February celebration of presidents",
+      "answer": "PRESIDENTS",
       "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Computer brain",
+      "answer": "PROCESSOR",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Deep ocean trench",
-      "answer": "MARIANA",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Path electricity flows through",
-      "answer": "CIRCUIT",
+      "clue": "Moving your body to stay fit",
+      "answer": "EXERCISE",
       "row": 8,
-      "col": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Temporary care for a child",
-      "answer": "FOSTER",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Windows are made of this clear material",
-      "answer": "GLASS",
+      "clue": "Flip pancakes with this",
+      "answer": "SPATULA",
       "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 10,
-      "col": 8,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Printer makes copies on this",
-      "answer": "PAPER",
+      "clue": "Sea flower animal",
+      "answer": "FLOWER",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Pen for drawing on tablets",
+      "answer": "STYLUS",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Stick things together",
+      "answer": "GLUE",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Twelve months",
+      "answer": "YEAR",
       "row": 0,
-      "col": 1,
+      "col": 13,
       "direction": "down"
     },
     {
       "clue": "You walk through this",
       "answer": "DOOR",
-      "row": 6,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "You hang a fan from this",
-      "answer": "FAN",
-      "row": 1,
-      "col": 0,
+      "row": 7,
+      "col": 8,
       "direction": "across"
     }
   ],
-  "dayNumber": 61
+  "dayNumber": 60
 }

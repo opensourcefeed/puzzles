@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-70",
+  "level": 70,
+  "title": "Level 70",
+  "words": [
+    {
+      "clue": "Game with hoop and net",
+      "answer": "BASKETBALL",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Strong circular wind over ocean",
+      "answer": "HURRICANE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Riding a bicycle",
+      "answer": "CYCLING",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling not interested at all",
+      "answer": "BORED",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Dry dishes with this",
+      "answer": "TOWEL",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Cover for garden soil",
+      "answer": "COVER",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Studies nature",
+      "answer": "LOVER",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Apple cloud storage",
+      "answer": "CLOUD",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant used for flavoring food",
+      "answer": "BASIL",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Upset with yourself",
+      "answer": "GLOW",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Mom dad kids family",
+      "answer": "HOME",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 14,
+  "difficulty": "medium"
+}

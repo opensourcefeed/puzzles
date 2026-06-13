@@ -1,0 +1,122 @@
+{
+  "id": "journey-level-125",
+  "level": 125,
+  "title": "Level 125",
+  "words": [
+    {
+      "clue": "What a caterpillar becomes",
+      "answer": "BUTTERFLY",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "February 14 celebration",
+      "answer": "VALENTINE",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Leads tours for visitors",
+      "answer": "TOURGUIDE",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies rocks and Earth",
+      "answer": "GEOLOGIST",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Table surface for food prep",
+      "answer": "COUNTER",
+      "row": 8,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "You write with this",
+      "answer": "PENCIL",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "You open to let in light",
+      "answer": "WINDOW",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Popular search engine",
+      "answer": "GOOGLE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Coin worth 5 cents",
+      "answer": "NICKEL",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Red ocean algae",
+      "answer": "ALGAE",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Types of money",
+      "answer": "COINS",
+      "row": 10,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "What an egg becomes",
+      "answer": "CHICK",
+      "row": 10,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies nature",
+      "answer": "LOVER",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "You sit on this with cushions",
+      "answer": "SOFA",
+      "row": 11,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Moving to stay fit",
+      "answer": "WALK",
+      "row": 14,
+      "col": 9,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 16,
+  "targetWords": 22,
+  "difficulty": "hard"
+}

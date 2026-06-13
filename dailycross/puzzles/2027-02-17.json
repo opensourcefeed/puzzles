@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-02-17",
   "date": "2027-02-17",
-  "title": "17 February 2027",
+  "title": "2027-02-17",
   "words": [
     {
-      "clue": "Social media photo app",
-      "answer": "INSTAGRAM",
+      "clue": "Your child's child",
+      "answer": "GRANDCHILD",
       "row": 2,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Bones inside your body",
-      "answer": "SKELETON",
+      "clue": "Yellow spring flower",
+      "answer": "DAFFODIL",
       "row": 2,
-      "col": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Change from gas to liquid",
-      "answer": "CONDENSE",
-      "row": 4,
-      "col": 0,
+      "clue": "Team sport played with feet",
+      "answer": "SOCCER",
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Closest planet to the sun",
-      "answer": "MERCURY",
+      "clue": "You sit on in the living room",
+      "answer": "COUCH",
       "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Loop of water from sky to ground and back",
-      "answer": "CYCLE",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
       "clue": "Measure ingredients with this",
       "answer": "SCALE",
-      "row": 2,
-      "col": 11,
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Light red color",
-      "answer": "PINK",
-      "row": 9,
-      "col": 2,
+      "clue": "Lift heavy things",
+      "answer": "HOIST",
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Money paid to workers per hour",
-      "answer": "WAGE",
+      "clue": "Makes computer programs",
+      "answer": "CODER",
       "row": 4,
-      "col": 10,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You smell with this",
-      "answer": "NOSE",
-      "row": 4,
-      "col": 2,
+      "clue": "Whisk eggs with this",
+      "answer": "WHISK",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Family tree chart",
+      "answer": "TREE",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "dayNumber": 251
+  "dayNumber": 250
 }

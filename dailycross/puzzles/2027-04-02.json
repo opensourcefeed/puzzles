@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2027-04-02",
   "date": "2027-04-02",
-  "title": "2 April 2027",
+  "title": "2027-04-02",
   "words": [
     {
-      "clue": "Powder that makes a plant grow",
-      "answer": "FERTILIZER",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of kangaroos",
-      "answer": "AUSTRALIA",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Frying pans have a non-stick coating",
-      "answer": "NONSTICK",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Social media for short messages",
-      "answer": "TWITTER",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling very interested",
-      "answer": "CURIOUS",
-      "row": 3,
+      "clue": "Bread with filling",
+      "answer": "SANDWICH",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling understanding of someone",
-      "answer": "EMPATHY",
-      "row": 5,
+      "clue": "Blood vessel that carries blood away",
+      "answer": "ARTERY",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you learn",
+      "answer": "SCHOOL",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Flies airplanes",
+      "answer": "PILOT",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Mountain country in the Himalayas",
+      "answer": "NEPAL",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny hobby computer",
+      "answer": "BOARD",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Giant rock that comes from space",
-      "answer": "METEOR",
+      "clue": "Shot that stops sickness",
+      "answer": "SHOT",
       "row": 1,
-      "col": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Mix paint with this stick",
-      "answer": "STIR",
+      "clue": "Machine that gives you cash",
+      "answer": "ATM",
       "row": 8,
-      "col": 7,
+      "col": 5,
       "direction": "down"
     }
   ],
-  "dayNumber": 295
+  "dayNumber": 294
 }

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-12-15",
   "date": "2026-12-15",
-  "title": "15 December 2026",
+  "title": "2026-12-15",
   "words": [
     {
-      "clue": "Feeling impatient",
-      "answer": "IMPATIENT",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Builds with wood",
-      "answer": "CARPENTER",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
-      "row": 8,
+      "clue": "Secret code for security",
+      "answer": "PASSWORD",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who lives next door",
-      "answer": "NEIGHBOR",
-      "row": 6,
-      "col": 8,
+      "clue": "Light a fire with this",
+      "answer": "LIGHTER",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Money you spend",
-      "answer": "EXPENSE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Intelligent ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 2,
+      "clue": "Colorful garden bloom",
+      "answer": "FLOWER",
+      "row": 4,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Climb up high with this",
-      "answer": "LADDER",
-      "row": 7,
-      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Longest bone in the human body",
-      "answer": "FEMUR",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Yellow vegetable on a cob",
-      "answer": "CORN",
-      "row": 8,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "You sleep on this",
-      "answer": "BED",
-      "row": 12,
+      "clue": "Press garlic with this",
+      "answer": "PRESS",
+      "row": 9,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Summer top for boys",
+      "answer": "SHIRT",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Energy that travels in waves",
+      "answer": "SOUND",
+      "row": 9,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean mollusk with a spiral shell",
+      "answer": "SNAIL",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Area where river meets ocean",
+      "answer": "DELTA",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Thick fog that limits sight",
+      "answer": "MIST",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "dayNumber": 187
+  "dayNumber": 186
 }

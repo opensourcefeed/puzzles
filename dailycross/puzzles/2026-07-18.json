@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-07-18",
   "date": "2026-07-18",
-  "title": "18 July 2026",
+  "title": "2026-07-18",
   "words": [
     {
-      "clue": "Medicine that kills bacteria",
-      "answer": "ANTIBIOTIC",
-      "row": 3,
-      "col": 2,
+      "clue": "Strong circular wind over ocean",
+      "answer": "HURRICANE",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Medicine that relieves pain",
-      "answer": "PAINKILLER",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Magnifying lens",
-      "answer": "MAGNIFIER",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Social media photo app",
-      "answer": "INSTAGRAM",
+      "clue": "Shoes are made of this animal skin",
+      "answer": "LEATHER",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Light bulbs have a thin filament",
-      "answer": "FILAMENT",
-      "row": 8,
-      "col": 5,
+      "clue": "Swimwear for the beach",
+      "answer": "BATHING",
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Performs songs on stage",
-      "answer": "SINGER",
+      "clue": "Breakfast grain meal",
+      "answer": "CEREAL",
       "row": 0,
-      "col": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper check",
+      "answer": "CHECK",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Your brother's daughter",
+      "answer": "NIECE",
+      "row": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
+      "clue": "Makes medicine",
+      "answer": "MAKER",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Quality passed down in families",
+      "answer": "TRAIT",
       "row": 6,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "You put keys in this by the door",
-      "answer": "DISH",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Smart speaker from Amazon",
-      "answer": "ECHO",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Pour milk from this",
-      "answer": "JUG",
+      "clue": "What an egg becomes",
+      "answer": "CHICK",
       "row": 4,
       "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 37
+  "dayNumber": 36
 }

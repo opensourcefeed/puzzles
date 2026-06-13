@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-07-27",
   "date": "2026-07-27",
-  "title": "27 July 2026",
+  "title": "2026-07-27",
   "words": [
     {
-      "clue": "Future family generations",
-      "answer": "DESCENDANT",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Metal coins and paper bills",
-      "answer": "CURRENCY",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat round ocean fish",
-      "answer": "FLOUNDER",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Bones contain this mineral",
-      "answer": "CALCIUM",
-      "row": 12,
+      "clue": "Country with London",
+      "answer": "ENGLAND",
+      "row": 1,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Feeling shy around others",
-      "answer": "TIMID",
+      "clue": "Light a fire with this",
+      "answer": "LIGHTER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Breakfast grain meal",
+      "answer": "CEREAL",
       "row": 0,
-      "col": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Water in gas form",
-      "answer": "VAPOR",
-      "row": 8,
+      "clue": "Group of people related by blood",
+      "answer": "FAMILY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ocean creature that buries in sand",
-      "answer": "CLAM",
-      "row": 8,
-      "col": 9,
+      "clue": "Feeling very glad",
+      "answer": "HAPPY",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Thick fog that limits sight",
-      "answer": "MIST",
-      "row": 8,
-      "col": 12,
+      "clue": "Spray paint tool",
+      "answer": "SPRAY",
+      "row": 3,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Your brother's daughter",
+      "answer": "NIECE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft white rock",
+      "answer": "CHALK",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Seeing the bright side",
+      "answer": "HOPE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "dayNumber": 46
+  "dayNumber": 45
 }

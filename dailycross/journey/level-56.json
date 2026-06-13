@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-56",
+  "level": 56,
+  "title": "Level 56",
+  "words": [
+    {
+      "clue": "Place where you mail letters",
+      "answer": "POSTOFFICE",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Day before today",
+      "answer": "YESTERDAY",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Your son's son",
+      "answer": "GRANDSON",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Celebration of a new year",
+      "answer": "NEWYEAR",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You rock in this on the porch",
+      "answer": "ROCKER",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Nairobi",
+      "answer": "KENYA",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Your brother's daughter",
+      "answer": "NIECE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Leads visitors around",
+      "answer": "GUIDE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Rock formed in layers",
+      "answer": "LAYER",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 12,
+  "difficulty": "medium"
+}

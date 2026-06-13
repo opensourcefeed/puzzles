@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-10-12",
   "date": "2026-10-12",
-  "title": "12 October 2026",
+  "title": "2026-10-12",
   "words": [
     {
-      "clue": "December Jewish festival of lights",
-      "answer": "HANUKKAH",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling pleasure",
-      "answer": "DELIGHT",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Device that helps you breathe",
-      "answer": "INHALER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
+      "clue": "Overhead surface of a room",
+      "answer": "CEILING",
       "row": 4,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Giant rock that comes from space",
-      "answer": "METEOR",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Largest country in the world",
-      "answer": "RUSSIA",
-      "row": 2,
-      "col": 9,
+      "clue": "Flat high area of land",
+      "answer": "PLATEAU",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Clamp wood together with this",
-      "answer": "CLAMP",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
+      "clue": "Round shape",
+      "answer": "CIRCLE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "Place where a cow lives",
-      "answer": "BARN",
-      "row": 7,
+      "clue": "Newborn baby",
+      "answer": "INFANT",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Pointed weapon shape",
+      "answer": "ARROW",
+      "row": 6,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Frozen water",
-      "answer": "ICE",
+      "clue": "Big family everyone",
+      "answer": "TRIBE",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Punch holes in paper",
+      "answer": "PUNCH",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Top of the oven for cooking",
+      "answer": "STOVE",
       "row": 0,
-      "col": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Digital money",
+      "answer": "COIN",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Two or more atoms together",
+      "answer": "PAIR",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "dayNumber": 123
+  "dayNumber": 122
 }

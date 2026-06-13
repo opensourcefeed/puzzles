@@ -1,71 +1,57 @@
 {
   "id": "dailycross-2026-08-04",
   "date": "2026-08-04",
-  "title": "4 August 2026",
+  "title": "2026-08-04",
   "words": [
     {
-      "clue": "Ocean around Antarctica",
-      "answer": "SOUTHERN",
-      "row": 4,
-      "col": 3,
+      "clue": "Moving your body to stay fit",
+      "answer": "EXERCISE",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A protein that builds muscle",
-      "answer": "PROTEIN",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Violent wind that spins",
-      "answer": "CYCLONE",
-      "row": 0,
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Turn nuts with a socket",
-      "answer": "SOCKET",
-      "row": 7,
-      "col": 5,
+      "clue": "Wear this to protect clothes",
+      "answer": "APRON",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "You click with this",
-      "answer": "MOUSE",
-      "row": 6,
-      "col": 6,
+      "clue": "You put a doormat on this",
+      "answer": "FLOOR",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Pipe instrument you blow into",
-      "answer": "FLUTE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Hanging light fixture",
-      "answer": "LAMP",
-      "row": 6,
+      "clue": "Bright object moving through space",
+      "answer": "COMET",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Stick things with this",
-      "answer": "TAPE",
-      "row": 10,
-      "col": 3,
+      "clue": "Seeing the bright side",
+      "answer": "HOPE",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Animal doctor",
-      "answer": "VET",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
+      "clue": "You sit at this",
+      "answer": "DESK",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "dayNumber": 54
+  "dayNumber": 53
 }

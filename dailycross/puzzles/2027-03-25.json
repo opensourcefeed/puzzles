@@ -1,71 +1,57 @@
 {
   "id": "dailycross-2027-03-25",
   "date": "2027-03-25",
-  "title": "25 March 2027",
+  "title": "2027-03-25",
   "words": [
     {
-      "clue": "Your mother's new husband",
-      "answer": "STEPFATHER",
-      "row": 2,
+      "clue": "Game played with shuttlecock",
+      "answer": "BADMINTON",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Paddling through water",
-      "answer": "SWIMMING",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Pillows are filled with soft feathers",
-      "answer": "FEATHER",
-      "row": 2,
+      "clue": "Flash of light in storm",
+      "answer": "LIGHTNING",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "String instrument with six strings",
-      "answer": "GUITAR",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Keep food cold in this",
-      "answer": "FRIDGE",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "You sit at this",
-      "answer": "DESK",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean plant that grows in forests",
-      "answer": "KELP",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Bright sky object at night",
-      "answer": "STAR",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Dry fruit that contains seeds",
-      "answer": "NUT",
+      "clue": "Breakfast grain meal",
+      "answer": "CEREAL",
       "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Country of the Amazon River",
+      "answer": "BRAZIL",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Nairobi",
+      "answer": "KENYA",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You put a TV on this",
+      "answer": "STAND",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Tall sitting seat",
+      "answer": "SEAT",
+      "row": 1,
       "col": 6,
       "direction": "down"
     }
   ],
-  "dayNumber": 287
+  "dayNumber": 286
 }

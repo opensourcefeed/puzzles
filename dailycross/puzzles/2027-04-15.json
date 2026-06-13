@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2027-04-15",
   "date": "2027-04-15",
-  "title": "15 April 2027",
+  "title": "2027-04-15",
   "words": [
     {
-      "clue": "Feeling deep love",
-      "answer": "AFFECTION",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "February 14 celebration",
-      "answer": "VALENTINE",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you throw a long metal stick",
-      "answer": "JAVELIN",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Toast bread in this",
-      "answer": "TOASTER",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Bathroom break is good for this",
-      "answer": "HYGIENE",
-      "row": 12,
+      "clue": "April 1 prank day",
+      "answer": "APRILFOOLS",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Light volcanic rock that floats",
-      "answer": "PUMICE",
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sport of bending and stretching",
-      "answer": "YOGA",
-      "row": 6,
-      "col": 8,
+      "clue": "Climb up high with this",
+      "answer": "LADDER",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Fern plant with feathery leaves",
-      "answer": "FERN",
-      "row": 7,
+      "clue": "Country of the Amazon River",
+      "answer": "BRAZIL",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Unit of digital information",
-      "answer": "BYTE",
-      "row": 11,
-      "col": 1,
+      "clue": "Performs songs on stage",
+      "answer": "SINGER",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You breathe with these",
+      "answer": "LUNGS",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Prices going up",
+      "answer": "RISE",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Box shape in 3D",
+      "answer": "CUBE",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "dayNumber": 308
+  "dayNumber": 307
 }

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-07-17",
   "date": "2026-07-17",
-  "title": "17 July 2026",
+  "title": "2026-07-17",
   "words": [
     {
-      "clue": "Short-range wireless technology",
-      "answer": "BLUETOOTH",
-      "row": 3,
-      "col": 0,
+      "clue": "Gliding on ice",
+      "answer": "SKATING",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Studies rocks and Earth",
-      "answer": "GEOLOGIST",
-      "row": 2,
+      "clue": "Place where you watch movies",
+      "answer": "THEATER",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Decorates rooms",
+      "answer": "PAINTER",
+      "row": 9,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Screen that shows images",
-      "answer": "MONITOR",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Tires are made from this bouncy material",
-      "answer": "RUBBER",
-      "row": 8,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "What plants breathe in",
-      "answer": "CARBON",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Electric car company",
-      "answer": "TESLA",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Teacher writes on this",
-      "answer": "BOARD",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Box shape in 3D",
-      "answer": "CUBE",
+      "clue": "Grows crops on a farm",
+      "answer": "FARMER",
       "row": 5,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Blow leaves with this",
+      "answer": "BLOWER",
+      "row": 11,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Keeps hands safe from heat",
-      "answer": "MITT",
+      "clue": "You cover the floor with this",
+      "answer": "CARPET",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You put a mattress on this",
+      "answer": "FRAME",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean animal with pincers",
+      "answer": "CRAB",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Winter celebration",
+      "answer": "YULE",
       "row": 0,
       "col": 7,
       "direction": "down"
-    },
-    {
-      "clue": "Money paid to workers per hour",
-      "answer": "WAGE",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
     }
   ],
-  "dayNumber": 36
+  "dayNumber": 35
 }

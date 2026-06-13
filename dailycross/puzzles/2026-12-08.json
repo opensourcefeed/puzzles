@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-12-08",
   "date": "2026-12-08",
-  "title": "8 December 2026",
+  "title": "2026-12-08",
   "words": [
     {
-      "clue": "Glue things together",
-      "answer": "ADHESIVE",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Bangkok",
-      "answer": "THAILAND",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to honor the flag",
-      "answer": "FLAGDAY",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of paper proving payment",
-      "answer": "RECEIPT",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny seed powder from flowers",
-      "answer": "POLLEN",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
+      "clue": "Builds roads and bridges",
+      "answer": "ENGINEER",
       "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Output device that makes sound",
+      "answer": "SPEAKER",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
-      "row": 6,
-      "col": 7,
+      "clue": "A small cut on your skin",
+      "answer": "SCRAPE",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Feeling very sad",
-      "answer": "SAD",
-      "row": 6,
+      "clue": "Lift heavy objects",
+      "answer": "CRANE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sharpen knives on this",
+      "answer": "STONE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Garden decoration statue",
+      "answer": "GNOME",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Water becomes gas",
+      "answer": "STEAM",
+      "row": 0,
       "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Place where you keep your money",
+      "answer": "BANK",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Mix paint with this stick",
+      "answer": "STIR",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Underground cave formation",
+      "answer": "CAVE",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "dayNumber": 180
+  "dayNumber": 179
 }

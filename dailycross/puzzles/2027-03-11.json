@@ -1,78 +1,57 @@
 {
   "id": "dailycross-2027-03-11",
   "date": "2027-03-11",
-  "title": "11 March 2027",
+  "title": "2027-03-11",
   "words": [
     {
-      "clue": "Feeling sure about something",
-      "answer": "CONFIDENT",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Short-range wireless technology",
-      "answer": "BLUETOOTH",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Subject about the past",
-      "answer": "HISTORY",
+      "clue": "Vegetable that grows on a vine",
+      "answer": "SQUASH",
       "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Blend fruits in this",
-      "answer": "BLENDER",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Game played with racket and yellow ball",
-      "answer": "TENNIS",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Red fruit that keeps doctor away",
-      "answer": "APPLE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Small bone in the middle ear",
-      "answer": "ANVIL",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Madrid",
-      "answer": "SPAIN",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Nairobi",
-      "answer": "KENYA",
-      "row": 11,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Bowls are made of this moldable material",
-      "answer": "CLAY",
+      "clue": "Place where you see art",
+      "answer": "MUSEUM",
       "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Video recording device",
+      "answer": "CAMERA",
+      "row": 7,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A cold causes this",
+      "answer": "COUGH",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You sit on in the living room",
+      "answer": "COUCH",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You put keys in this by the door",
+      "answer": "DISH",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "dayNumber": 273
+  "dayNumber": 272
 }

@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2026-06-20",
   "date": "2026-06-20",
-  "title": "20 June 2026",
+  "title": "2026-06-20",
   "words": [
     {
-      "clue": "Day of the dead celebration",
-      "answer": "ALLSAINTS",
-      "row": 3,
+      "clue": "Place where sick people go",
+      "answer": "HOSPITAL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Random acts of kindness day",
-      "answer": "KINDNESS",
-      "row": 2,
-      "col": 5,
+      "clue": "Yellow spring flower",
+      "answer": "DAFFODIL",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Weather scale for temperature",
-      "answer": "CELSIUS",
-      "row": 1,
+      "clue": "Blend fruits in this",
+      "answer": "BLENDER",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Virtual reality headset",
+      "answer": "HEADSET",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Cook food in the oven in this",
+      "answer": "ROASTER",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Path of an object around another",
-      "answer": "REVOLVE",
-      "row": 7,
+      "clue": "Bird that cannot fly",
+      "answer": "PENGUIN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Drives a vehicle for hire",
+      "answer": "DRIVER",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Bone vitamin",
+      "answer": "MILK",
+      "row": 11,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Colorful garden bloom",
-      "answer": "FLOWER",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 1,
+      "clue": "May mom day",
+      "answer": "MOM",
+      "row": 3,
       "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Newborn baby",
-      "answer": "INFANT",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Aromatic plant used in tea",
-      "answer": "MINT",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of kiwi birds",
-      "answer": "NEW",
-      "row": 9,
-      "col": 6,
       "direction": "across"
     }
   ],
-  "dayNumber": 9
+  "dayNumber": 8
 }

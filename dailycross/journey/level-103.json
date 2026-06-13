@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-103",
+  "level": 103,
+  "title": "Level 103",
+  "words": [
+    {
+      "clue": "Leads tours for visitors",
+      "answer": "TOURGUIDE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Jakarta",
+      "answer": "INDONESIA",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Cardboard is thick paper",
+      "answer": "CARDBOARD",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where buses arrive",
+      "answer": "TERMINAL",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Cut paper with this",
+      "answer": "SCISSORS",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Subject about the past",
+      "answer": "HISTORY",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Tires are made from this bouncy material",
+      "answer": "RUBBER",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Stomach entrance",
+      "answer": "BELLY",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean coral reef builder",
+      "answer": "CORAL",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Country known for watches",
+      "answer": "SWISS",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Middle of day",
+      "answer": "NOON",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Green color in leaves",
+      "answer": "STEM",
+      "row": 9,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Microsoft slides",
+      "answer": "SHOW",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 19,
+  "difficulty": "hard"
+}

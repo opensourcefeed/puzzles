@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-11-27",
   "date": "2026-11-27",
-  "title": "27 November 2026",
+  "title": "2026-11-27",
   "words": [
     {
-      "clue": "Computer brain",
-      "answer": "PROCESSOR",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal that sleeps all winter",
-      "answer": "HIBERNATE",
+      "clue": "Juicy summer fruit with seeds",
+      "answer": "WATERMELON",
       "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Chalk is made from this soft rock",
-      "answer": "LIMESTONE",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Moving your body to stay fit",
-      "answer": "EXERCISE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
-      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Worn on hands in winter",
-      "answer": "GLOVES",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Keep drinks cold in this",
-      "answer": "COOLER",
-      "row": 0,
+      "clue": "Ocean around Antarctica",
+      "answer": "SOUTHERN",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "World environment day",
-      "answer": "WORLD",
-      "row": 2,
-      "col": 7,
+      "clue": "Day to honor mothers in May",
+      "answer": "MOTHERS",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Writes books",
+      "answer": "AUTHOR",
+      "row": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A pet that barks",
-      "answer": "DOG",
+      "clue": "Shovel snow with this",
+      "answer": "SHOVEL",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Pipe instrument you blow into",
+      "answer": "FLUTE",
       "row": 7,
-      "col": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Storage space under the roof",
+      "answer": "ATTIC",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper showing you paid",
+      "answer": "NOTE",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "dayNumber": 169
+  "dayNumber": 168
 }

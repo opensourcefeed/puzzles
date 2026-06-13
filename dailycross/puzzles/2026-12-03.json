@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-12-03",
   "date": "2026-12-03",
-  "title": "3 December 2026",
+  "title": "2026-12-03",
   "words": [
     {
-      "clue": "Lizard that changes color",
-      "answer": "CHAMELEON",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor teachers",
-      "answer": "TEACHERS",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Build walls with this gray mix",
-      "answer": "CONCRETE",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Scoop ice cream with this",
-      "answer": "SCOOPER",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Microsoft operating system",
-      "answer": "WINDOWS",
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
       "row": 7,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Cloud of gas and dust in space",
-      "answer": "NEBULA",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut wires with this",
-      "answer": "PLIERS",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Deep valley with steep sides",
-      "answer": "CANYON",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You keep important papers in this",
-      "answer": "FILE",
-      "row": 3,
+      "clue": "Police building",
+      "answer": "STATION",
+      "row": 6,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Vertical surface of a room",
-      "answer": "WALL",
-      "row": 7,
-      "col": 10,
+      "clue": "Sixty seconds",
+      "answer": "MINUTE",
+      "row": 10,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Country with Warsaw",
+      "answer": "POLAND",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Manages money in a bank",
+      "answer": "BANKER",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Spirit day wear purple",
+      "answer": "SPIRIT",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Climb up high with this",
+      "answer": "LADDER",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Clear liquid that your body needs",
+      "answer": "WATER",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Makes clothes",
+      "answer": "SEWER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "dayNumber": 175
+  "dayNumber": 174
 }

@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-45",
+  "level": 45,
+  "title": "Level 45",
+  "words": [
+    {
+      "clue": "Studies rocks and Earth",
+      "answer": "GEOLOGIST",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Emergency vehicle with siren",
+      "answer": "AMBULANCE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Toast bread in this",
+      "answer": "TOASTER",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Tallest land animal",
+      "answer": "GIRAFFE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you cook meals",
+      "answer": "KITCHEN",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Writes books",
+      "answer": "AUTHOR",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Presents news on television",
+      "answer": "ANCHOR",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Red ocean algae",
+      "answer": "ALGAE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Makes medicine",
+      "answer": "MAKER",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Bone picture machine",
+      "answer": "SCAN",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 11,
+  "difficulty": "medium"
+}

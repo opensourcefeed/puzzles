@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-08-16",
   "date": "2026-08-16",
-  "title": "16 August 2026",
+  "title": "2026-08-16",
   "words": [
     {
-      "clue": "Written family history",
-      "answer": "GENEALOGY",
-      "row": 7,
+      "clue": "Catches fish for a living",
+      "answer": "FISHERMAN",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vitamin that helps with bones",
-      "answer": "VITAMIND",
-      "row": 4,
-      "col": 4,
+      "clue": "December 25 celebration",
+      "answer": "CHRISTMAS",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You put a laptop on this desk",
-      "answer": "LAPDESK",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Line of family descent",
-      "answer": "LINEAGE",
+      "clue": "Loud sound after lightning",
+      "answer": "THUNDER",
       "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Group of stars in the sky",
-      "answer": "GALAXY",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Money you earn from working",
-      "answer": "INCOME",
-      "row": 0,
+      "clue": "Mix of red and yellow",
+      "answer": "ORANGE",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Ring-shaped coral reef",
-      "answer": "ATOLL",
+      "clue": "Group of stars in the sky",
+      "answer": "GALAXY",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Buddha's birthday celebration",
+      "answer": "BUDDHA",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Yellow vegetable on a cob",
+      "answer": "CORN",
       "row": 3,
       "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "A woman on her wedding day",
-      "answer": "BRIDE",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Area where river meets ocean",
-      "answer": "DELTA",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
     }
   ],
-  "dayNumber": 66
+  "dayNumber": 65
 }

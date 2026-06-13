@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-63",
+  "level": 63,
+  "title": "Level 63",
+  "words": [
+    {
+      "clue": "Make coffee in this",
+      "answer": "COFFEEPOT",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "You keep dishes in this",
+      "answer": "CUPBOARD",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Flip pancakes with this",
+      "answer": "SPATULA",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Set of instructions for a computer",
+      "answer": "PROGRAM",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Coin worth 5 cents",
+      "answer": "NICKEL",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Breaks between classes",
+      "answer": "RECESS",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Country of the Colosseum",
+      "answer": "ITALY",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Eat soup with this",
+      "answer": "SPOON",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a concert is held",
+      "answer": "ARENA",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A jar where you put spare change",
+      "answer": "PIGGY",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Garden border plant",
+      "answer": "HEDGE",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Punch holes in paper",
+      "answer": "PUNCH",
+      "row": 9,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Country known for watches",
+      "answer": "SWISS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 13,
+  "difficulty": "medium"
+}

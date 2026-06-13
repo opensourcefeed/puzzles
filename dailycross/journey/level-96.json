@@ -1,0 +1,108 @@
+{
+  "id": "journey-level-96",
+  "level": 96,
+  "title": "Level 96",
+  "words": [
+    {
+      "clue": "Ocean animal with stinging tentacles",
+      "answer": "JELLYFISH",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very interested",
+      "answer": "CURIOUS",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Three children born at once",
+      "answer": "TRIPLET",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Captain of a ship",
+      "answer": "CAPTAIN",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Subject about the past",
+      "answer": "HISTORY",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Large frozen area of ice",
+      "answer": "GLACIER",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Ball shape in 3D",
+      "answer": "SPHERE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Cuts hair for women",
+      "answer": "STYLER",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Underwater mountain chain",
+      "answer": "RIDGE",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Large flowing body of water",
+      "answer": "RIVER",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal that sleeps in winter",
+      "answer": "SLEEP",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Measures temperature",
+      "answer": "GAUGE",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Money you spend",
+      "answer": "COST",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 14,
+  "targetWords": 18,
+  "difficulty": "hard"
+}

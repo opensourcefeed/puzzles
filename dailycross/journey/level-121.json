@@ -1,0 +1,150 @@
+{
+  "id": "journey-level-121",
+  "level": 121,
+  "title": "Level 121",
+  "words": [
+    {
+      "clue": "Place where airplanes land",
+      "answer": "AIRPORT",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
+      "row": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Gliding on ice",
+      "answer": "SKATING",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you watch movies",
+      "answer": "THEATER",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies plants",
+      "answer": "GROWER",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Goes back and forth",
+      "answer": "SWITCH",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Helps sick people at hospital",
+      "answer": "DOCTOR",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Test battery with a tester",
+      "answer": "TESTER",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Presents news on television",
+      "answer": "ANCHOR",
+      "row": 9,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Paper money used in the US",
+      "answer": "DOLLAR",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Land of the rising sun",
+      "answer": "JAPAN",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Salty snack often eaten with dip",
+      "answer": "CHIPS",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep cut that bleeds",
+      "answer": "WOUND",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny germ that causes colds",
+      "answer": "VIRUS",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Set of words and music together",
+      "answer": "SONG",
+      "row": 4,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Card with money on it",
+      "answer": "CARD",
+      "row": 13,
+      "col": 11,
+      "direction": "across"
+    },
+    {
+      "clue": "Family yet to come",
+      "answer": "NEXT",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The food you eat each day",
+      "answer": "DIET",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Microsoft slides",
+      "answer": "SHOW",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Sticky plant sap",
+      "answer": "GLUE",
+      "row": 11,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 20,
+  "targetWords": 21,
+  "difficulty": "hard"
+}

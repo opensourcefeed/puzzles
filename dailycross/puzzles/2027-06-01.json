@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-06-01",
   "date": "2027-06-01",
-  "title": "1 June 2027",
+  "title": "2027-06-01",
   "words": [
     {
-      "clue": "Person who leads an orchestra",
-      "answer": "CONDUCTOR",
+      "clue": "Place where sick people go",
+      "answer": "HOSPITAL",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where you take a bath",
-      "answer": "BATHROOM",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling jealous of someone",
-      "answer": "JEALOUS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Food allergy condition",
-      "answer": "ALLERGY",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Money a business makes after costs",
-      "answer": "PROFIT",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Chinese new year symbol",
-      "answer": "DRAGON",
-      "row": 3,
+      "clue": "Video sharing website",
+      "answer": "YOUTUBE",
+      "row": 6,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Top of the oven for cooking",
-      "answer": "STOVE",
-      "row": 11,
-      "col": 4,
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Two-wheeled vehicle you pedal",
+      "answer": "BICYCLE",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Place where you live",
-      "answer": "HOUSE",
+      "clue": "Place where Christians pray",
+      "answer": "CHURCH",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean animal with a shell",
+      "answer": "TURTLE",
       "row": 0,
-      "col": 7,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Clear liquid that your body needs",
-      "answer": "WATER",
-      "row": 7,
-      "col": 10,
+      "clue": "You click with this",
+      "answer": "MOUSE",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Cloth to stop bleeding",
+      "answer": "CLOTH",
+      "row": 9,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "You keep blankets in this trunk",
-      "answer": "TRUNK",
-      "row": 2,
-      "col": 5,
+      "clue": "Electricity pathway",
+      "answer": "PATH",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     }
   ],
-  "dayNumber": 355
+  "dayNumber": 354
 }

@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-03-06",
   "date": "2027-03-06",
-  "title": "6 March 2027",
+  "title": "2027-03-06",
   "words": [
     {
-      "clue": "Your child's spouse",
-      "answer": "CHILDINLAW",
+      "clue": "Catches fish for a living",
+      "answer": "FISHERMAN",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Mother's side of the family",
-      "answer": "MATERNAL",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Budapest",
-      "answer": "HUNGARY",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a dog sleeps",
-      "answer": "KENNEL",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling calm and peaceful",
-      "answer": "SERENE",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Microsoft spreadsheet program",
-      "answer": "EXCEL",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Time after sunset",
-      "answer": "NIGHT",
+      "clue": "Day to honor teachers",
+      "answer": "TEACHERS",
       "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Country with Cairo",
-      "answer": "EGYPT",
+      "clue": "Flat high area of land",
+      "answer": "PLATEAU",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
       "row": 5,
-      "col": 0,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Longest bone in the human body",
-      "answer": "FEMUR",
-      "row": 4,
-      "col": 0,
+      "clue": "Organ that filters blood",
+      "answer": "KIDNEY",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Small piece of land in water",
+      "answer": "ISLAND",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Your sister's son",
+      "answer": "NEPHEW",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny germ that causes colds",
+      "answer": "VIRUS",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Thigh bone",
+      "answer": "THIGH",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Thick fog that limits sight",
+      "answer": "MIST",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "dayNumber": 268
+  "dayNumber": 267
 }

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-02-02",
   "date": "2027-02-02",
-  "title": "2 February 2027",
+  "title": "2027-02-02",
   "words": [
     {
-      "clue": "Place where you eat out",
-      "answer": "RESTAURANT",
-      "row": 2,
-      "col": 2,
+      "clue": "Large landmass on Earth",
+      "answer": "CONTINENT",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Catches fish for a living",
-      "answer": "FISHERMAN",
-      "row": 0,
+      "clue": "Teenager 13-19 years old",
+      "answer": "TEENAGER",
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Designs buildings",
-      "answer": "ARCHITECT",
-      "row": 1,
-      "col": 8,
+      "clue": "Light purple flower color",
+      "answer": "LAVENDER",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A card that stores value",
-      "answer": "GIFTCARD",
-      "row": 5,
-      "col": 7,
+      "clue": "Australian animal that hops",
+      "answer": "KANGAROO",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "You prop your feet on this",
-      "answer": "OTTOMAN",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Removes pencil marks",
-      "answer": "ERASER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Roll dough with this",
-      "answer": "ROLLER",
-      "row": 4,
+      "clue": "First month of the year",
+      "answer": "JANUARY",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where a circus performs",
-      "answer": "BIGTOP",
-      "row": 0,
-      "col": 1,
+      "clue": "Tiny seed powder from flowers",
+      "answer": "POLLEN",
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Plant that climbs up trellises",
-      "answer": "VINE",
-      "row": 7,
-      "col": 5,
+      "clue": "Leads visitors around",
+      "answer": "GUIDE",
+      "row": 11,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You sleep on this",
-      "answer": "BED",
+      "clue": "Our planet day",
+      "answer": "EARTH",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Coin worth 1 cent",
+      "answer": "PENNY",
       "row": 0,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     }
   ],
-  "dayNumber": 236
+  "dayNumber": 235
 }

@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2027-04-06",
   "date": "2027-04-06",
-  "title": "6 April 2027",
+  "title": "2027-04-06",
   "words": [
     {
-      "clue": "Works in a library",
-      "answer": "LIBRARIAN",
+      "clue": "Place where you eat out",
+      "answer": "RESTAURANT",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "September celebration of workers",
-      "answer": "LABORDAY",
-      "row": 3,
+      "clue": "Country known for tulips",
+      "answer": "HOLLAND",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "You lean back in this",
-      "answer": "RECLINER",
-      "row": 7,
+      "clue": "Studies ocean life",
+      "answer": "MARINE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Blood vessel that carries blood away",
+      "answer": "ARTERY",
+      "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "World book day",
-      "answer": "BOOKDAY",
+      "clue": "Material that blocks electricity",
+      "answer": "RUBBER",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
-      "row": 0,
+      "clue": "Your brother's daughter",
+      "answer": "NIECE",
+      "row": 6,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Bags are made from this woven material",
+      "answer": "CLOTH",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Connects computer to monitor",
+      "answer": "CABLE",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Fireplace area",
-      "answer": "HEARTH",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
+      "clue": "Green message app",
+      "answer": "CHAT",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "A person who sells goods",
-      "answer": "VENDOR",
+      "clue": "Carry groceries in these",
+      "answer": "BAGS",
       "row": 1,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You put a doormat on this",
-      "answer": "FLOOR",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Wireless internet connection",
-      "answer": "WIFI",
-      "row": 6,
-      "col": 8,
       "direction": "down"
     }
   ],
-  "dayNumber": 299
+  "dayNumber": 298
 }

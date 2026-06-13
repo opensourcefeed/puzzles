@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-01-09",
   "date": "2027-01-09",
-  "title": "9 January 2027",
+  "title": "2027-01-09",
   "words": [
     {
-      "clue": "Computer virus protection",
-      "answer": "ANTIVIRUS",
-      "row": 2,
-      "col": 1,
+      "clue": "Sidewalks are made of this",
+      "answer": "CEMENT",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where fish are kept",
-      "answer": "AQUARIUM",
+      "clue": "Test battery with a tester",
+      "answer": "TESTER",
       "row": 2,
-      "col": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Country with Berlin",
-      "answer": "GERMANY",
-      "row": 0,
+      "clue": "Blood vessel that carries blood away",
+      "answer": "ARTERY",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Studies ocean life",
-      "answer": "MARINE",
-      "row": 4,
-      "col": 6,
+      "clue": "Thanksgiving in US",
+      "answer": "THANK",
+      "row": 3,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Your brother's daughter",
-      "answer": "NIECE",
+      "clue": "You put a TV on this",
+      "answer": "STAND",
       "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Email folder for new messages",
-      "answer": "INBOX",
-      "row": 7,
-      "col": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Punch holes in paper",
-      "answer": "PUNCH",
-      "row": 2,
-      "col": 10,
+      "clue": "Green message app",
+      "answer": "CHAT",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Place where prisoners stay",
-      "answer": "JAIL",
+      "clue": "Path electricity flows",
+      "answer": "WIRE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Flag flying day",
+      "answer": "FLAG",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "White dairy drink",
-      "answer": "MILK",
-      "row": 9,
-      "col": 1,
+      "clue": "Space rock that hits Earth",
+      "answer": "ROCK",
+      "row": 7,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "Day to celebrate the arts",
+      "answer": "ARTS",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "dayNumber": 212
+  "dayNumber": 211
 }

@@ -1,0 +1,45 @@
+{
+  "id": "journey-level-2",
+  "level": 2,
+  "title": "Level 2",
+  "words": [
+    {
+      "clue": "Travels to discover new places",
+      "answer": "EXPLORER",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Two-wheeled vehicle you pedal",
+      "answer": "BICYCLE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Cut wires with this",
+      "answer": "PLIERS",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Brown vegetable that grows in dirt",
+      "answer": "POTATO",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Round shape",
+      "answer": "CIRCLE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 5,
+  "targetWords": 5,
+  "difficulty": "easy"
+}

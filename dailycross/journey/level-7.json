@@ -1,0 +1,45 @@
+{
+  "id": "journey-level-7",
+  "level": 7,
+  "title": "Level 7",
+  "words": [
+    {
+      "clue": "Bones inside your body",
+      "answer": "SKELETON",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Cleans schools and offices",
+      "answer": "JANITOR",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Cut pizza with this",
+      "answer": "CUTTER",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Handheld device for calls and apps",
+      "answer": "PHONE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Sleeping helps you rest and recover",
+      "answer": "REST",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 5,
+  "targetWords": 6,
+  "difficulty": "easy"
+}

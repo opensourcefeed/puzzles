@@ -1,0 +1,73 @@
+{
+  "id": "journey-level-66",
+  "level": 66,
+  "title": "Level 66",
+  "words": [
+    {
+      "clue": "Sport where you throw a long metal stick",
+      "answer": "JAVELIN",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Toast bread in this",
+      "answer": "TOASTER",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Gentle movement of air",
+      "answer": "BREEZE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Turn nuts with a socket",
+      "answer": "SOCKET",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Group of people related by blood",
+      "answer": "FAMILY",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Sharp point on a rose stem",
+      "answer": "THORN",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to plant trees",
+      "answer": "ARBOR",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "World environment day",
+      "answer": "WORLD",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Round coral island",
+      "answer": "RING",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 9,
+  "targetWords": 14,
+  "difficulty": "medium"
+}

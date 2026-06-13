@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-08-01",
   "date": "2026-08-01",
-  "title": "1 August 2026",
+  "title": "2026-08-01",
   "words": [
     {
-      "clue": "Frying pans have a non-stick coating",
-      "answer": "NONSTICK",
-      "row": 3,
+      "clue": "Global network of computers",
+      "answer": "INTERNET",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Scientists study this type of rock",
-      "answer": "IGNEOUS",
-      "row": 3,
-      "col": 6,
+      "clue": "Place where fish are kept",
+      "answer": "AQUARIUM",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Celebration of a new year",
-      "answer": "NEWYEAR",
-      "row": 3,
+      "clue": "Machine that processes information",
+      "answer": "COMPUTER",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You prop your feet on this",
-      "answer": "OTTOMAN",
-      "row": 7,
+      "clue": "Day to honor fathers in June",
+      "answer": "FATHERS",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Invisible power that attracts metal",
+      "answer": "MAGNET",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport played on ice with sticks",
+      "answer": "HOCKEY",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where Muslims pray",
+      "answer": "MOSQUE",
+      "row": 11,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Test battery with a tester",
-      "answer": "TESTER",
-      "row": 4,
-      "col": 8,
+      "clue": "You click with this",
+      "answer": "MOUSE",
+      "row": 7,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "You store clothes folded in this",
-      "answer": "DRAWER",
-      "row": 5,
+      "clue": "Horse-drawn carriage",
+      "answer": "WAGON",
+      "row": 2,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Microscope sees these tiny living things",
-      "answer": "GERMS",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit at this",
-      "answer": "DESK",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Blood color",
-      "answer": "RED",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
     }
   ],
-  "dayNumber": 51
+  "dayNumber": 50
 }

@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-04-12",
   "date": "2027-04-12",
-  "title": "12 April 2027",
+  "title": "2027-04-12",
   "words": [
     {
-      "clue": "Studies stars and planets",
-      "answer": "ASTRONOMER",
-      "row": 3,
+      "clue": "Volcano erupts with this",
+      "answer": "ERUPTION",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Two-wheeled motor vehicle",
-      "answer": "MOTORCYCLE",
+      "clue": "Screen that shows images",
+      "answer": "MONITOR",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Teaches dogs new skills",
+      "answer": "TRAINER",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Mattresses have metal coils",
+      "answer": "SPRING",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Large round object in space",
+      "answer": "PLANET",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Long period without rain",
-      "answer": "DROUGHT",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet liquid bees collect from flowers",
-      "answer": "NECTAR",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix of red and yellow",
-      "answer": "PEACH",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Ropes are made from strong fibers",
-      "answer": "FIBER",
+      "clue": "Team sport played with feet",
+      "answer": "SOCCER",
       "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Oslo",
+      "answer": "NORWAY",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to honor first responders",
+      "answer": "FIRST",
+      "row": 3,
       "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Small picture on a phone screen",
-      "answer": "ICON",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Glass is made from melted sand",
-      "answer": "SAND",
-      "row": 2,
-      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Day to celebrate science",
-      "answer": "STEM",
-      "row": 5,
-      "col": 7,
+      "clue": "Understanding others",
+      "answer": "CARE",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Body of water surrounded by land",
+      "answer": "LAKE",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     }
   ],
-  "dayNumber": 305
+  "dayNumber": 304
 }

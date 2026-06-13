@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-08-18",
   "date": "2026-08-18",
-  "title": "18 August 2026",
+  "title": "2026-08-18",
   "words": [
     {
-      "clue": "Your mother's new husband",
-      "answer": "STEPFATHER",
-      "row": 4,
-      "col": 0,
+      "clue": "Worn around wrist as accessory",
+      "answer": "BRACELET",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Protects from rain",
-      "answer": "UMBRELLA",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Frog's early stage in water",
-      "answer": "TADPOLE",
-      "row": 4,
+      "clue": "Country with Brussels",
+      "answer": "BELGIUM",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Type of plant with cones",
-      "answer": "CONIFER",
+      "clue": "Table surface for food prep",
+      "answer": "COUNTER",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Cuts hair for women",
+      "answer": "STYLER",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Wedding party",
+      "answer": "PARTY",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Plan for how to spend your money",
-      "answer": "BUDGET",
-      "row": 10,
-      "col": 2,
+      "clue": "Lift heavy things",
+      "answer": "HOIST",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that carries goods",
-      "answer": "TRUCK",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Money a government collects from you",
-      "answer": "TAX",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Chop wood with this",
-      "answer": "AXE",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on head",
-      "answer": "HAT",
-      "row": 2,
+      "clue": "Horse-drawn carriage",
+      "answer": "WAGON",
+      "row": 0,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Apple cloud storage",
+      "answer": "CLOUD",
+      "row": 3,
+      "col": 9,
       "direction": "across"
+    },
+    {
+      "clue": "Ocean creature that buries in sand",
+      "answer": "CLAM",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
     }
   ],
-  "dayNumber": 68
+  "dayNumber": 67
 }

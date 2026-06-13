@@ -1,0 +1,45 @@
+{
+  "id": "journey-level-3",
+  "level": 3,
+  "title": "Level 3",
+  "words": [
+    {
+      "clue": "Computer brain",
+      "answer": "PROCESSOR",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Three sides",
+      "answer": "TRIANGLE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "You hang a mirror on this",
+      "answer": "DRESSER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Sharp tool for slicing bread",
+      "answer": "SLICER",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Ropes are made from strong fibers",
+      "answer": "FIBER",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 5,
+  "targetWords": 5,
+  "difficulty": "easy"
+}

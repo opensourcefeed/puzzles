@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-06-12",
   "date": "2027-06-12",
-  "title": "12 June 2027",
+  "title": "2027-06-12",
   "words": [
     {
-      "clue": "Feeling confused",
-      "answer": "PERPLEXED",
+      "clue": "Cook food in the oven in this",
+      "answer": "ROASTER",
       "row": 3,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Feeling very tired",
-      "answer": "EXHAUSTED",
+      "clue": "Studies bugs",
+      "answer": "CATCHER",
       "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Violent wind that spins",
-      "answer": "CYCLONE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling embarrassed",
-      "answer": "ASHAMED",
-      "row": 7,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
-      "row": 3,
-      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "You sit on this with a back",
-      "answer": "CHAIR",
-      "row": 0,
+      "clue": "Shovel snow with this",
+      "answer": "SHOVEL",
+      "row": 6,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Small bone in the middle ear",
-      "answer": "ANVIL",
-      "row": 5,
-      "col": 6,
+      "clue": "Goes back and forth",
+      "answer": "SWITCH",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Running path around a field",
+      "answer": "TRACK",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Chocolate color",
+      "answer": "BROWN",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Most populated country",
-      "answer": "CHINA",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "How much you weigh compared to your height",
-      "answer": "BMI",
-      "row": 3,
+      "clue": "Family tree chart",
+      "answer": "TREE",
+      "row": 2,
       "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Falls from clouds",
+      "answer": "RAIN",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Your mother's sister",
+      "answer": "AUNT",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "dayNumber": 366
+  "dayNumber": 365
 }

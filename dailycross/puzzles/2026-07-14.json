@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-07-14",
   "date": "2026-07-14",
-  "title": "14 July 2026",
+  "title": "2026-07-14",
   "words": [
     {
-      "clue": "Fiberglass is used for insulation",
-      "answer": "FIBERGLASS",
-      "row": 5,
+      "clue": "Math calculation tool",
+      "answer": "CALCULATOR",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Fixes computer problems",
-      "answer": "TECHNICIAN",
+      "clue": "Top part of your arm",
+      "answer": "SHOULDER",
       "row": 0,
-      "col": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Room below your house",
-      "answer": "BASEMENT",
-      "row": 4,
-      "col": 7,
+      "clue": "Australian animal that hops",
+      "answer": "KANGAROO",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Intelligent ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 10,
-      "col": 1,
+      "clue": "Harvest celebration",
+      "answer": "HARVEST",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Spinning on an axis",
-      "answer": "ROTATE",
-      "row": 7,
+      "clue": "Buttons are often made of this",
+      "answer": "PLASTIC",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Creates paintings or drawings",
+      "answer": "ARTIST",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Chinese new year symbol",
+      "answer": "DRAGON",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Male part of a flower",
-      "answer": "STAMEN",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Seventh planet from the sun",
-      "answer": "URANUS",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Punch holes in paper",
-      "answer": "PUNCH",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Earth's natural satellite",
-      "answer": "MOON",
+      "clue": "Electric car company",
+      "answer": "TESLA",
       "row": 6,
-      "col": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Unit of electric current",
+      "answer": "WATT",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "dayNumber": 33
+  "dayNumber": 32
 }

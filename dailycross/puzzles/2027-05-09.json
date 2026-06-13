@@ -1,78 +1,57 @@
 {
   "id": "dailycross-2027-05-09",
   "date": "2027-05-09",
-  "title": "9 May 2027",
+  "title": "2027-05-09",
   "words": [
     {
-      "clue": "Tiny computer for hobby projects",
-      "answer": "RASPBERRY",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Metal coins and paper bills",
-      "answer": "CURRENCY",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Thin layer around a cell",
-      "answer": "MEMBRANE",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Parents and their children",
-      "answer": "NUCLEAR",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean animal with a hard shell",
-      "answer": "LOBSTER",
+      "clue": "Popular search engine",
+      "answer": "GOOGLE",
       "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Country with Vienna",
-      "answer": "AUSTRIA",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Small string instrument played with bow",
-      "answer": "VIOLIN",
+      "clue": "Temperature scale",
+      "answer": "SCALE",
       "row": 0,
-      "col": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Roll dough with this",
-      "answer": "ROLLER",
-      "row": 10,
-      "col": 2,
+      "clue": "Country with Madrid",
+      "answer": "SPAIN",
+      "row": 0,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Day to go outside and play",
-      "answer": "PLAY",
-      "row": 6,
-      "col": 4,
+      "clue": "Yellow vegetable on a cob",
+      "answer": "CORN",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Leather comes from animal skin",
-      "answer": "HIDE",
-      "row": 1,
+      "clue": "Fish with a sword nose",
+      "answer": "LONG",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Not caring about things",
+      "answer": "NUMB",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to celebrate science",
+      "answer": "STEM",
+      "row": 7,
       "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 332
+  "dayNumber": 331
 }

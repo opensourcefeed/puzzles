@@ -1,0 +1,115 @@
+{
+  "id": "journey-level-145",
+  "level": 145,
+  "title": "Level 145",
+  "words": [
+    {
+      "clue": "Juicy summer fruit with seeds",
+      "answer": "WATERMELON",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean animal with a hard shell",
+      "answer": "LOBSTER",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Hand end parts",
+      "answer": "FINGERS",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Digital book reader",
+      "answer": "EREADER",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Delivers mail to homes",
+      "answer": "MAILMAN",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Writes books",
+      "answer": "AUTHOR",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Country of the Amazon River",
+      "answer": "BRAZIL",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Drives a vehicle for hire",
+      "answer": "DRIVER",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Strong bone mineral",
+      "answer": "MAGNET",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Silk worm thread",
+      "answer": "THREAD",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Makes medicine",
+      "answer": "MAKER",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you throw a long stick",
+      "answer": "THROW",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Snow color",
+      "answer": "WHITE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Music speed",
+      "answer": "BEAT",
+      "row": 10,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Full of energy feeling",
+      "answer": "LIVE",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 15,
+  "targetWords": 24,
+  "difficulty": "hard"
+}

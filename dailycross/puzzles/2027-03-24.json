@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2027-03-24",
   "date": "2027-03-24",
-  "title": "24 March 2027",
+  "title": "2027-03-24",
   "words": [
     {
-      "clue": "Extra money you pay on a loan",
-      "answer": "INTEREST",
-      "row": 4,
-      "col": 0,
+      "clue": "February 14 celebration",
+      "answer": "VALENTINE",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where a king rules",
-      "answer": "CASTLE",
-      "row": 2,
+      "clue": "Day after today",
+      "answer": "TOMORROW",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Three sides",
+      "answer": "TRIANGLE",
+      "row": 7,
       "col": 6,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Can't see well condition",
-      "answer": "MYOPIA",
+      "clue": "Place where you see art",
+      "answer": "MUSEUM",
       "row": 0,
-      "col": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You put books on this",
-      "answer": "SHELF",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You lock your valuables in this",
-      "answer": "SAFE",
-      "row": 7,
-      "col": 4,
+      "clue": "Organ that filters blood",
+      "answer": "KIDNEY",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Country of the Leaning Tower",
-      "answer": "PISA",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
+      "clue": "Makes cartoons",
+      "answer": "DRAWER",
       "row": 1,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Plant that grows on walls",
-      "answer": "MOSS",
+      "clue": "Check if surface is flat",
+      "answer": "LEVEL",
       "row": 5,
-      "col": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Moving to stay fit",
+      "answer": "WALK",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Rake leaves with this",
+      "answer": "RAKE",
+      "row": 2,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Ocean fish with a long body",
-      "answer": "EEL",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Farm animal that gives milk",
-      "answer": "COW",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
+      "clue": "Online block game",
+      "answer": "PLAY",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
     }
   ],
-  "dayNumber": 286
+  "dayNumber": 285
 }

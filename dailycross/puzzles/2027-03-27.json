@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-03-27",
   "date": "2027-03-27",
-  "title": "27 March 2027",
+  "title": "2027-03-27",
   "words": [
     {
-      "clue": "Writes for newspapers",
-      "answer": "JOURNALIST",
-      "row": 2,
+      "clue": "Paddling through water",
+      "answer": "SWIMMING",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Machine that washes dishes",
-      "answer": "DISHWASHER",
+      "clue": "Country with Berlin",
+      "answer": "GERMANY",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Swimwear for the beach",
+      "answer": "BATHING",
       "row": 0,
-      "col": 8,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Builds roads and bridges",
-      "answer": "ENGINEER",
+      "clue": "Country with London",
+      "answer": "ENGLAND",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Tallest land animal",
+      "answer": "GIRAFFE",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Studies ocean life",
+      "answer": "MARINE",
       "row": 1,
-      "col": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Family member from long ago",
-      "answer": "ANCESTOR",
+      "clue": "Dry dishes with this",
+      "answer": "TOWEL",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Government money charge",
+      "answer": "BILL",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean current that warms Europe",
+      "answer": "GULF",
       "row": 8,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Your female parent",
-      "answer": "MOTHER",
-      "row": 1,
-      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "USB storage device",
-      "answer": "DRIVE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You hear with these",
-      "answer": "EARS",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Seven days",
-      "answer": "WEEK",
-      "row": 4,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "You store toys in this",
-      "answer": "BOX",
-      "row": 7,
+      "clue": "World joke day",
+      "answer": "JOKE",
+      "row": 3,
       "col": 11,
       "direction": "down"
     }
   ],
-  "dayNumber": 289
+  "dayNumber": 288
 }

@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2027-02-16",
   "date": "2027-02-16",
-  "title": "16 February 2027",
+  "title": "2027-02-16",
   "words": [
     {
-      "clue": "February 14 celebration",
-      "answer": "VALENTINE",
-      "row": 1,
+      "clue": "Move dirt with this",
+      "answer": "TRACTOR",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Studies old things",
+      "answer": "FINDER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Tires are made from this bouncy material",
+      "answer": "RUBBER",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Largest ocean animal",
+      "answer": "WHALE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Thin layer around a cell",
-      "answer": "MEMBRANE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Vitamin that helps with bones",
-      "answer": "VITAMIND",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Temporary care for a child",
-      "answer": "FOSTER",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of the Amazon River",
-      "answer": "BRAZIL",
+      "clue": "Day to honor first responders",
+      "answer": "FIRST",
       "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Sky color",
+      "answer": "BLUE",
+      "row": 7,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Grows crops on a farm",
-      "answer": "FARMER",
-      "row": 0,
-      "col": 1,
+      "clue": "Circus big tent",
+      "answer": "TENT",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Website address",
-      "answer": "URL",
+      "clue": "Falls from clouds",
+      "answer": "RAIN",
       "row": 5,
-      "col": 0,
+      "col": 9,
       "direction": "across"
+    },
+    {
+      "clue": "You walk on these",
+      "answer": "FEET",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Vertical surface of a room",
+      "answer": "WALL",
+      "row": 8,
+      "col": 2,
+      "direction": "down"
     }
   ],
-  "dayNumber": 250
+  "dayNumber": 249
 }

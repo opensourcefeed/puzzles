@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-04-22",
   "date": "2027-04-22",
-  "title": "22 April 2027",
+  "title": "2027-04-22",
   "words": [
     {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
-      "row": 4,
+      "clue": "Place where you eat out",
+      "answer": "RESTAURANT",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling understanding of someone",
-      "answer": "EMPATHY",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling surprised",
-      "answer": "SHOCKED",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Group of people related by blood",
-      "answer": "FAMILY",
+      "clue": "Start of day before noon",
+      "answer": "MORNING",
       "row": 3,
-      "col": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Small ocean crustacean",
-      "answer": "SHRIMP",
-      "row": 1,
-      "col": 6,
+      "clue": "Portable computer for class",
+      "answer": "LAPTOP",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Your female parent",
       "answer": "MOTHER",
-      "row": 2,
-      "col": 3,
+      "row": 3,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "You put a clock on this",
-      "answer": "MANTEL",
-      "row": 3,
+      "clue": "Mountain country in the Himalayas",
+      "answer": "NEPAL",
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "What a tadpole becomes",
-      "answer": "FROG",
-      "row": 0,
-      "col": 4,
+      "clue": "Email folder for new messages",
+      "answer": "INBOX",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Performs in movies or plays",
+      "answer": "ACTOR",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Broken bone",
+      "answer": "BREAK",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Place where you keep your money",
-      "answer": "BANK",
-      "row": 7,
+      "clue": "Smart speaker from Google",
+      "answer": "NEST",
+      "row": 3,
       "col": 2,
-      "direction": "across"
+      "direction": "down"
+    },
+    {
+      "clue": "Money from a job",
+      "answer": "CASH",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "dayNumber": 315
+  "dayNumber": 314
 }

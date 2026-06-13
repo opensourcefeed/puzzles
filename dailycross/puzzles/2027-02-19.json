@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2027-02-19",
   "date": "2027-02-19",
-  "title": "19 February 2027",
+  "title": "2027-02-19",
   "words": [
     {
-      "clue": "Country with Singapore city",
-      "answer": "SINGAPORE",
+      "clue": "Arrowhead shape",
+      "answer": "DIAMOND",
       "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who travels to space",
-      "answer": "ASTRONAUT",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Deep ocean trench",
-      "answer": "MARIANA",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes folded in this",
-      "answer": "DRAWER",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Cuts men's hair",
-      "answer": "BARBER",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean north of America",
-      "answer": "ARCTIC",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Stir soup with this",
-      "answer": "LADLE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The food you eat each day",
-      "answer": "DIET",
-      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Day to celebrate the arts",
-      "answer": "ARTS",
-      "row": 9,
-      "col": 1,
+      "clue": "Planet with rings around it",
+      "answer": "SATURN",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Mix of two metals",
+      "answer": "BRONZE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies old things",
+      "answer": "FINDER",
+      "row": 6,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Drives a vehicle for hire",
+      "answer": "DRIVER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a cow lives",
+      "answer": "BARN",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Family blood line",
+      "answer": "LINE",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Water plants with this",
+      "answer": "HOSE",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "dayNumber": 253
+  "dayNumber": 252
 }

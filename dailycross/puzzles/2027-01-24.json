@@ -1,71 +1,50 @@
 {
   "id": "dailycross-2027-01-24",
   "date": "2027-01-24",
-  "title": "24 January 2027",
+  "title": "2027-01-24",
   "words": [
     {
-      "clue": "Place where a fair is held",
-      "answer": "FAIRGROUND",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Magnifying tool for small things",
-      "answer": "MICROSCOPE",
+      "clue": "Paddling through water",
+      "answer": "SWIMMING",
       "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Change from solid to gas",
-      "answer": "SUBLIME",
-      "row": 6,
-      "col": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Money paid to workers per year",
-      "answer": "SALARY",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "When your body fights an infection",
-      "answer": "FEVER",
+      "clue": "Your father's brother",
+      "answer": "UNCLE",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Measure length with this",
-      "answer": "RULER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that breaks down fats",
-      "answer": "LIVER",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Clamp wood together with this",
-      "answer": "CLAMP",
-      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Smart speaker from Google",
-      "answer": "NEST",
-      "row": 10,
+      "clue": "Break hard concrete",
+      "answer": "SMASH",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Underwater mountain chain",
+      "answer": "RIDGE",
+      "row": 0,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Fitness wristband",
+      "answer": "STRAP",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Water in gas form",
+      "answer": "VAPOR",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 227
+  "dayNumber": 226
 }

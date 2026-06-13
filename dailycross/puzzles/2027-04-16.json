@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2027-04-16",
   "date": "2027-04-16",
-  "title": "16 April 2027",
+  "title": "2027-04-16",
   "words": [
     {
-      "clue": "Feeling very surprised",
-      "answer": "ASTONISHED",
+      "clue": "Country of kangaroos",
+      "answer": "AUSTRALIA",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Plastic is made from petroleum",
-      "answer": "PETROLEUM",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Mother's side of the family",
-      "answer": "MATERNAL",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Light a fire with this",
-      "answer": "LIGHTER",
-      "row": 0,
+      "clue": "Brother or sister",
+      "answer": "SIBLING",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Dissolves in water to make a solution",
-      "answer": "SOLUTE",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Drill holes with this",
-      "answer": "DRILL",
+      "clue": "Flat mobile device without keyboard",
+      "answer": "TABLET",
       "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Clamp wood together with this",
-      "answer": "CLAMP",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a concert is held",
-      "answer": "ARENA",
-      "row": 6,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Baseball hitter's tool",
-      "answer": "BAT",
-      "row": 10,
+      "clue": "Feeling like you want to sleep",
+      "answer": "SLEEPY",
+      "row": 6,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Smallest unit of computer data",
-      "answer": "BIT",
-      "row": 3,
-      "col": 5,
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
+      "row": 6,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Coin worth 1 cent",
+      "answer": "PENNY",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Goes around something",
+      "answer": "ORBIT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Helps you hear",
+      "answer": "EARS",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "dayNumber": 309
+  "dayNumber": 308
 }

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-09-12",
   "date": "2026-09-12",
-  "title": "12 September 2026",
+  "title": "2026-09-12",
   "words": [
     {
-      "clue": "April 1 prank day",
-      "answer": "APRILFOOLS",
-      "row": 3,
-      "col": 1,
+      "clue": "Two-wheeled motor vehicle",
+      "answer": "MOTORCYCLE",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Tall building in a city",
-      "answer": "SKYSCRAPER",
+      "clue": "Feeling full of hope",
+      "answer": "HOPEFUL",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Country of maple leaves",
+      "answer": "CANADA",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Small piece of land in water",
+      "answer": "ISLAND",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "What we call animals that eat plants and meat",
-      "answer": "OMNIVORE",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Shoes are made of this animal skin",
-      "answer": "LEATHER",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Gentle movement of air",
-      "answer": "BREEZE",
-      "row": 8,
-      "col": 8,
+      "clue": "Team sport played with feet",
+      "answer": "SOCCER",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Flies airplanes",
-      "answer": "PILOT",
+      "clue": "Newborn baby",
+      "answer": "INFANT",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Glass house for plants",
+      "answer": "HOUSE",
       "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Largest ocean animal",
-      "answer": "WHALE",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
+      "clue": "Eat soup with this",
+      "answer": "SPOON",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
     },
     {
       "clue": "Press garlic with this",
       "answer": "PRESS",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Seoul",
-      "answer": "KOREA",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean current that warms Europe",
-      "answer": "GULF",
-      "row": 5,
+      "row": 7,
       "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 93
+  "dayNumber": 92
 }

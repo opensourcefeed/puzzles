@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-136",
+  "level": 136,
+  "title": "Level 136",
+  "words": [
+    {
+      "clue": "Short-range wireless technology",
+      "answer": "BLUETOOTH",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Does experiments for a living",
+      "answer": "SCIENTIST",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Builds roads and bridges",
+      "answer": "ENGINEER",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you take a bath",
+      "answer": "BATHROOM",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Frozen sweet treat",
+      "answer": "ICECREAM",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Heavy snowstorm with wind",
+      "answer": "BLIZZARD",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Shoes are made of this animal skin",
+      "answer": "LEATHER",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Country of the Amazon River",
+      "answer": "BRAZIL",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Your sister's son",
+      "answer": "NEPHEW",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to honor nurses",
+      "answer": "NURSES",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Pour dressing from this",
+      "answer": "BOTTLE",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Fine dish material",
+      "answer": "CHINA",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 23,
+  "difficulty": "hard"
+}

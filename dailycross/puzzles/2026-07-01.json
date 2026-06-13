@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-07-01",
   "date": "2026-07-01",
-  "title": "1 July 2026",
+  "title": "2026-07-01",
   "words": [
     {
-      "clue": "Feeling kind and caring",
-      "answer": "COMPASSION",
-      "row": 1,
+      "clue": "Day before today",
+      "answer": "YESTERDAY",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling impatient",
-      "answer": "IMPATIENT",
-      "row": 0,
-      "col": 4,
+      "clue": "Teenager 13-19 years old",
+      "answer": "TEENAGER",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Studies plants",
-      "answer": "BOTANIST",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes in this",
-      "answer": "CLOSET",
-      "row": 6,
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 4,
       "col": 7,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Silent aircraft with no engine",
-      "answer": "GLIDER",
-      "row": 6,
+      "clue": "Large frozen area of ice",
+      "answer": "GLACIER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Small bone in the middle ear",
-      "answer": "ANVIL",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
-      "row": 3,
+      "clue": "Largest country in the world",
+      "answer": "RUSSIA",
+      "row": 10,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Muslim holiday after Ramadan",
-      "answer": "EID",
-      "row": 3,
-      "col": 8,
+      "clue": "Breathing trouble",
+      "answer": "WHEEZE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Buddha's birthday celebration",
+      "answer": "BUDDHA",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "August independence of India",
+      "answer": "AUGUST",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Fall harvest time",
+      "answer": "FALL",
+      "row": 6,
+      "col": 2,
       "direction": "down"
     }
   ],
-  "dayNumber": 20
+  "dayNumber": 19
 }

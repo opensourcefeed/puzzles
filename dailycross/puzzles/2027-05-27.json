@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2027-05-27",
   "date": "2027-05-27",
-  "title": "27 May 2027",
+  "title": "2027-05-27",
   "words": [
     {
-      "clue": "Works in a library",
-      "answer": "LIBRARIAN",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Written family history",
-      "answer": "GENEALOGY",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Part of the body that digests food",
-      "answer": "STOMACH",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Planet with rings around it",
-      "answer": "SATURN",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
+      "clue": "Works with wood to make furniture",
+      "answer": "WOODWORKER",
       "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Black and white bear",
-      "answer": "PANDA",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "You put a doormat on this",
-      "answer": "FLOOR",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Time the sun sets",
-      "answer": "DUSK",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Cork comes from tree bark",
-      "answer": "CORK",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cut wood with this",
-      "answer": "SAW",
-      "row": 7,
-      "col": 4,
+      "clue": "Random acts of kindness day",
+      "answer": "KINDNESS",
+      "row": 2,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Place where you see art",
+      "answer": "MUSEUM",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Helps sick people at hospital",
+      "answer": "DOCTOR",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Pair of married people",
+      "answer": "COUPLE",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Medicine for pain",
+      "answer": "PILL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Prices going up",
+      "answer": "RISE",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Time the sun rises",
+      "answer": "DAWN",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Sleeping helps you rest and recover",
+      "answer": "REST",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Only child description",
+      "answer": "SOLO",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "dayNumber": 350
+  "dayNumber": 349
 }

@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-09-29",
   "date": "2026-09-29",
-  "title": "29 September 2026",
+  "title": "2026-09-29",
   "words": [
     {
-      "clue": "Heavy snowstorm with wind",
-      "answer": "BLIZZARD",
-      "row": 3,
+      "clue": "Decorates rooms",
+      "answer": "PAINTER",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tires are made from this bouncy material",
-      "answer": "RUBBER",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A check written to someone",
-      "answer": "CHEQUE",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Garden decoration statue",
-      "answer": "GNOME",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Coin worth 10 cents",
-      "answer": "DIME",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Middle of day",
-      "answer": "NOON",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on this with cushions",
-      "answer": "SOFA",
+      "clue": "Pillows are filled with soft feathers",
+      "answer": "FEATHER",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Steel is made from iron ore",
-      "answer": "ORE",
-      "row": 1,
+      "clue": "Arrowhead shape",
+      "answer": "DIAMOND",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport played on ice with sticks",
+      "answer": "HOCKEY",
+      "row": 4,
       "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "Second most populated country",
+      "answer": "INDIA",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Measure ingredients with this",
+      "answer": "SCALE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Handheld device for calls and apps",
+      "answer": "PHONE",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Sure of yourself",
+      "answer": "BOLD",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Kid age 13 to 19",
+      "answer": "TEEN",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "dayNumber": 110
+  "dayNumber": 109
 }

@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-07-16",
   "date": "2026-07-16",
-  "title": "16 July 2026",
+  "title": "2026-07-16",
   "words": [
     {
-      "clue": "Microsoft presentation program",
-      "answer": "POWERPOINT",
-      "row": 7,
-      "col": 2,
+      "clue": "Bones inside your body",
+      "answer": "SKELETON",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Make coffee in this",
-      "answer": "COFFEEPOT",
-      "row": 6,
-      "col": 8,
+      "clue": "Virtual reality headset",
+      "answer": "HEADSET",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Loud sound after lightning",
-      "answer": "THUNDER",
-      "row": 7,
-      "col": 11,
+      "clue": "What plants breathe out",
+      "answer": "OXYGEN",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
-      "row": 10,
-      "col": 4,
+      "clue": "Popular search engine",
+      "answer": "GOOGLE",
+      "row": 4,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Fence for plants to climb",
-      "answer": "TRELLIS",
-      "row": 5,
+      "clue": "You write with this",
+      "answer": "PENCIL",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Force that pulls things to Earth",
-      "answer": "GRAVITY",
-      "row": 5,
-      "col": 0,
+      "clue": "Newborn baby",
+      "answer": "INFANT",
+      "row": 6,
+      "col": 8,
       "direction": "across"
-    },
-    {
-      "clue": "Makes pots out of clay",
-      "answer": "POTTER",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
     },
     {
       "clue": "Low body temperature from cold",
       "answer": "SHIVER",
-      "row": 0,
-      "col": 1,
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You hang a picture on this",
-      "answer": "HOOK",
-      "row": 8,
-      "col": 11,
+      "clue": "Guards a building",
+      "answer": "GUARD",
+      "row": 6,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A man on his wedding day",
+      "answer": "GROOM",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "You sit on a tall one at a counter",
+      "answer": "STOOL",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
     }
   ],
-  "dayNumber": 35
+  "dayNumber": 34
 }

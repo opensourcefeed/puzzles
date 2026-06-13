@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-08-02",
   "date": "2026-08-02",
-  "title": "2 August 2026",
+  "title": "2026-08-02",
   "words": [
     {
-      "clue": "Feeling full of energy",
-      "answer": "ENERGETIC",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You type on this",
-      "answer": "KEYBOARD",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where fish are kept",
-      "answer": "AQUARIUM",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny air sacs in the lungs",
-      "answer": "ALVEOLI",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Dublin",
-      "answer": "IRELAND",
+      "clue": "Two-wheeled vehicle you pedal",
+      "answer": "BICYCLE",
       "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Your female parent",
-      "answer": "MOTHER",
-      "row": 9,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where a concert is held",
-      "answer": "ARENA",
+      "clue": "Country with Berlin",
+      "answer": "GERMANY",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Sweet liquid bees collect from flowers",
+      "answer": "NECTAR",
       "row": 0,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Smart speaker from Google",
-      "answer": "NEST",
-      "row": 7,
-      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A pet that says meow",
-      "answer": "CAT",
+      "clue": "Microscope sees these tiny living things",
+      "answer": "GERMS",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You put a TV on this",
+      "answer": "STAND",
       "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Large flowing body of water",
+      "answer": "RIVER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Baseball hitter's tool",
-      "answer": "BAT",
+      "clue": "Feeling very proud",
+      "answer": "PROUD",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where tools are kept",
+      "answer": "SHED",
       "row": 6,
-      "col": 6,
-      "direction": "across"
+      "col": 5,
+      "direction": "down"
     }
   ],
-  "dayNumber": 52
+  "dayNumber": 51
 }

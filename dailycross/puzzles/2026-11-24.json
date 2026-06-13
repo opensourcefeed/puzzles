@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-11-24",
   "date": "2026-11-24",
-  "title": "24 November 2026",
+  "title": "2026-11-24",
   "words": [
     {
-      "clue": "Performs lab experiments",
-      "answer": "RESEARCHER",
-      "row": 3,
-      "col": 0,
+      "clue": "Country with Singapore city",
+      "answer": "SINGAPORE",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Ocean fish with a sword-like bill",
-      "answer": "SWORDFISH",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Family name passed down",
-      "answer": "SURNAME",
-      "row": 3,
+      "clue": "Makes clothes",
+      "answer": "SEWER",
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Place where you park your car",
-      "answer": "GARAGE",
-      "row": 1,
-      "col": 9,
+      "clue": "Extra money for good work",
+      "answer": "PRIZE",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Smooth wood with a plane",
-      "answer": "PLANE",
-      "row": 7,
+      "clue": "Grandparents day",
+      "answer": "ELVES",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Thanksgiving in US",
+      "answer": "THANK",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Washing hands is this",
+      "answer": "CLEAN",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You sit on to put on shoes",
-      "answer": "BENCH",
-      "row": 6,
-      "col": 8,
+      "clue": "Queen's big day",
+      "answer": "CROWN",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a play is performed",
+      "answer": "STAGE",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Underground plant part",
-      "answer": "ROOT",
-      "row": 3,
+      "clue": "Take child to work",
+      "answer": "WORK",
+      "row": 8,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Tree part that falls in autumn",
-      "answer": "LEAF",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
+      "clue": "Unit of digital information",
+      "answer": "BYTE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
     }
   ],
-  "dayNumber": 166
+  "dayNumber": 165
 }

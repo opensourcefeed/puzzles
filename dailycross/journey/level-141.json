@@ -1,0 +1,157 @@
+{
+  "id": "journey-level-141",
+  "level": 141,
+  "title": "Level 141",
+  "words": [
+    {
+      "clue": "Place where buses arrive",
+      "answer": "TERMINAL",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Frozen sweet treat",
+      "answer": "ICECREAM",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Moving your body to stay fit",
+      "answer": "EXERCISE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Tallest land animal",
+      "answer": "GIRAFFE",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very interested",
+      "answer": "CURIOUS",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling like you want to sleep",
+      "answer": "SLEEPY",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Creates paintings or drawings",
+      "answer": "ARTIST",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Popular search engine",
+      "answer": "GOOGLE",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Peel potatoes with this",
+      "answer": "PEELER",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "T-shirts are made of this soft fiber",
+      "answer": "COTTON",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Deep valley with steep sides",
+      "answer": "CANYON",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Score unit in a game",
+      "answer": "POINT",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Land of the rising sun",
+      "answer": "JAPAN",
+      "row": 10,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Dig holes with this",
+      "answer": "SPADE",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Five sided shape",
+      "answer": "POINT",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Mix of red and yellow",
+      "answer": "PEACH",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that runs on tracks",
+      "answer": "TRAIN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Ice cream shop",
+      "answer": "SHOP",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Remove old screws",
+      "answer": "PULL",
+      "row": 7,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Only child description",
+      "answer": "SOLO",
+      "row": 11,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean creature that buries in sand",
+      "answer": "CLAM",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 21,
+  "targetWords": 24,
+  "difficulty": "hard"
+}

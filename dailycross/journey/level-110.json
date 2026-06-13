@@ -1,0 +1,129 @@
+{
+  "id": "journey-level-110",
+  "level": 110,
+  "title": "Level 110",
+  "words": [
+    {
+      "clue": "Yellow spring flower",
+      "answer": "DAFFODIL",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Repairs pipes and water",
+      "answer": "PLUMBER",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "You hang a mirror on this",
+      "answer": "DRESSER",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport played on ice with sticks",
+      "answer": "HOCKEY",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Pen for drawing on tablets",
+      "answer": "STYLUS",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Material that blocks electricity",
+      "answer": "RUBBER",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Small river of water",
+      "answer": "STREAM",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Makes pots out of clay",
+      "answer": "POTTER",
+      "row": 9,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Open cans with this",
+      "answer": "OPENER",
+      "row": 13,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
+      "row": 6,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Windows are made of this clear material",
+      "answer": "GLASS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Garden decoration statue",
+      "answer": "GNOME",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You sit on to put on shoes",
+      "answer": "BENCH",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Mixed up and puzzled",
+      "answer": "LOST",
+      "row": 9,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Trait passed in family",
+      "answer": "GENE",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "You hear with these",
+      "answer": "EARS",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You walk on these",
+      "answer": "FEET",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 17,
+  "targetWords": 20,
+  "difficulty": "hard"
+}

@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-11-10",
   "date": "2026-11-10",
-  "title": "10 November 2026",
+  "title": "2026-11-10",
   "words": [
     {
-      "clue": "Father's side of the family",
-      "answer": "PATERNAL",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Budapest",
-      "answer": "HUNGARY",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where airplanes land",
-      "answer": "AIRPORT",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A unit of energy in food",
-      "answer": "CALORIE",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You put a laptop on this desk",
-      "answer": "LAPDESK",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Mash potatoes with this",
-      "answer": "MASHER",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat mobile device without keyboard",
-      "answer": "TABLET",
-      "row": 2,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Test battery with a tester",
-      "answer": "TESTER",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
-      "row": 7,
+      "clue": "Long green garden vegetable",
+      "answer": "CUCUMBER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Chocolate color",
-      "answer": "BROWN",
+      "clue": "Freeze food in this",
+      "answer": "FREEZER",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Cuts men's hair",
+      "answer": "BARBER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper money used in the US",
+      "answer": "DOLLAR",
       "row": 5,
-      "col": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Washing hands is this",
+      "answer": "CLEAN",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Energy food nutrient",
+      "answer": "RICE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Worried about something",
+      "answer": "FEAR",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Leather comes from animal skin",
+      "answer": "HIDE",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "dayNumber": 152
+  "dayNumber": 151
 }

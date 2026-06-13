@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-11-03",
   "date": "2026-11-03",
-  "title": "3 November 2026",
+  "title": "2026-11-03",
   "words": [
     {
-      "clue": "Half of a circle",
-      "answer": "SEMICIRCLE",
-      "row": 6,
+      "clue": "Cardboard is thick paper",
+      "answer": "CARDBOARD",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Subject about the world",
-      "answer": "GEOGRAPHY",
-      "row": 5,
+      "clue": "Store leftovers in this",
+      "answer": "CONTAINER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather expert",
+      "answer": "WATCHER",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling uneasy",
+      "answer": "UNEASY",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Day after today",
-      "answer": "TOMORROW",
+      "clue": "Colorful garden bloom",
+      "answer": "FLOWER",
       "row": 2,
-      "col": 7,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Travels to discover new places",
-      "answer": "EXPLORER",
+      "clue": "Jewish new year",
+      "answer": "SHANA",
       "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Move dirt with this",
-      "answer": "TRACTOR",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Toast bread in this",
-      "answer": "TOASTER",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Berlin",
-      "answer": "GERMANY",
-      "row": 4,
+      "clue": "Large water vehicle",
+      "answer": "SHIP",
+      "row": 7,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Polish metal with a buffer",
-      "answer": "BUFFER",
-      "row": 0,
-      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Running path around a field",
-      "answer": "TRACK",
-      "row": 10,
+      "clue": "Sky color",
+      "answer": "BLUE",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Small plant with a soft stem",
-      "answer": "HERB",
-      "row": 7,
-      "col": 9,
+      "clue": "Sure of yourself",
+      "answer": "BOLD",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Island country in the Caribbean",
+      "answer": "CUBA",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "dayNumber": 145
+  "dayNumber": 144
 }

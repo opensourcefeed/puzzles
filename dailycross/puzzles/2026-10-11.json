@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-10-11",
   "date": "2026-10-11",
-  "title": "11 October 2026",
+  "title": "2026-10-11",
   "words": [
     {
-      "clue": "Juicy summer fruit with seeds",
-      "answer": "WATERMELON",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Studies rocks and Earth",
-      "answer": "GEOLOGIST",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Google mobile operating system",
-      "answer": "ANDROID",
-      "row": 4,
+      "clue": "Celebration of our planet",
+      "answer": "EARTHDAY",
+      "row": 6,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean between America and Asia",
-      "answer": "PACIFIC",
-      "row": 9,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "String instrument with six strings",
-      "answer": "GUITAR",
-      "row": 5,
+      "clue": "Decayed plants used as fertilizer",
+      "answer": "COMPOST",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "You breathe with these",
-      "answer": "LUNGS",
-      "row": 6,
-      "col": 6,
+      "clue": "Small ocean crustacean",
+      "answer": "SHRIMP",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where you live",
-      "answer": "HOUSE",
-      "row": 0,
+      "clue": "Types of money",
+      "answer": "COINS",
+      "row": 4,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You sit on a tall one at a counter",
+      "answer": "STOOL",
+      "row": 2,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "You walk on these",
-      "answer": "FEET",
-      "row": 11,
+      "clue": "Measure ingredients with this",
+      "answer": "SCALE",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to celebrate science",
+      "answer": "STEM",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Glass is made from melted sand",
+      "answer": "SAND",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Be nice day",
+      "answer": "KIND",
+      "row": 10,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Cork comes from tree bark",
-      "answer": "CORK",
-      "row": 1,
+      "clue": "Hot body temperature",
+      "answer": "HEAT",
+      "row": 4,
       "col": 2,
-      "direction": "across"
+      "direction": "down"
     }
   ],
-  "dayNumber": 122
+  "dayNumber": 121
 }

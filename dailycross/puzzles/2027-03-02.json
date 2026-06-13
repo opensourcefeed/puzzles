@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-03-02",
   "date": "2027-03-02",
-  "title": "2 March 2027",
+  "title": "2027-03-02",
   "words": [
     {
-      "clue": "Giving money to charity",
-      "answer": "DONATION",
-      "row": 6,
-      "col": 0,
+      "clue": "April 1 prank day",
+      "answer": "APRILFOOLS",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Glue is made from gelatin",
-      "answer": "GELATIN",
-      "row": 3,
+      "clue": "Builds with wood",
+      "answer": "CARPENTER",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Eight-armed ocean creature",
-      "answer": "OCTOPUS",
-      "row": 6,
-      "col": 6,
+      "clue": "Toast bread in this",
+      "answer": "TOASTER",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Parents and their children",
-      "answer": "NUCLEAR",
-      "row": 11,
-      "col": 5,
+      "clue": "Sidewalks are made of this",
+      "answer": "CEMENT",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Ocean animal with a hard shell",
-      "answer": "LOBSTER",
-      "row": 5,
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Storage space under the roof",
+      "answer": "ATTIC",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Join metals with this",
-      "answer": "WELDER",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Your sister's son",
-      "answer": "NEPHEW",
-      "row": 0,
-      "col": 6,
+      "clue": "March green day",
+      "answer": "GREEN",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Cut vegetables with this",
-      "answer": "KNIFE",
+      "clue": "Your brother's daughter",
+      "answer": "NIECE",
       "row": 0,
-      "col": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Fern plant with feathery leaves",
-      "answer": "FERN",
-      "row": 7,
-      "col": 10,
+      "clue": "Keeps hands safe from heat",
+      "answer": "MITT",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "dayNumber": 264
+  "dayNumber": 263
 }

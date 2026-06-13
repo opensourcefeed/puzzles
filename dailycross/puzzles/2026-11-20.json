@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-11-20",
   "date": "2026-11-20",
-  "title": "20 November 2026",
+  "title": "2026-11-20",
   "words": [
     {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
-      "row": 3,
-      "col": 3,
+      "clue": "Three children born at once",
+      "answer": "TRIPLET",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling full of hope",
-      "answer": "HOPEFUL",
-      "row": 0,
+      "clue": "Country with Budapest",
+      "answer": "HUNGARY",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Virtual reality headset",
+      "answer": "HEADSET",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Delivers mail to homes",
-      "answer": "MAILMAN",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "T-shirts are made of this soft fiber",
-      "answer": "COTTON",
-      "row": 1,
+      "clue": "Teaches students at school",
+      "answer": "TEACHER",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Temporary care for a child",
-      "answer": "FOSTER",
-      "row": 1,
+      "clue": "Strong bone mineral",
+      "answer": "MAGNET",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Cuts men's hair",
+      "answer": "BARBER",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Large body of salt water",
+      "answer": "OCEAN",
+      "row": 9,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Madrid",
+      "answer": "SPAIN",
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Hindu festival of lights",
-      "answer": "DIWALI",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
+      "clue": "Red fruit that keeps doctor away",
+      "answer": "APPLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
     },
     {
-      "clue": "Pour dressing from this",
-      "answer": "BOTTLE",
-      "row": 5,
+      "clue": "Wanting things fast",
+      "answer": "RUSH",
+      "row": 1,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Smart speaker from Amazon",
-      "answer": "ECHO",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Magnet attracts this metal",
-      "answer": "IRON",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
     }
   ],
-  "dayNumber": 162
+  "dayNumber": 161
 }

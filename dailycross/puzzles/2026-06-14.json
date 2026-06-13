@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-06-14",
   "date": "2026-06-14",
-  "title": "14 June 2026",
+  "title": "2026-06-14",
   "words": [
     {
-      "clue": "Your child's child",
-      "answer": "GRANDCHILD",
+      "clue": "Carries your books",
+      "answer": "BACKPACK",
       "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of kangaroos",
-      "answer": "AUSTRALIA",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who travels to space",
-      "answer": "ASTRONAUT",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to honor teachers",
-      "answer": "TEACHERS",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling pleasure",
-      "answer": "DELIGHT",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Eight-sided shape",
-      "answer": "OCTAGON",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Climb up high with this",
-      "answer": "LADDER",
-      "row": 0,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
-      "row": 3,
+      "clue": "Country with Hanoi",
+      "answer": "VIETNAM",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Coin worth 5 cents",
-      "answer": "NICKEL",
-      "row": 3,
-      "col": 5,
+      "clue": "World book day",
+      "answer": "BOOKDAY",
+      "row": 5,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Three babies born together",
+      "answer": "TRIPLE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Grate cheese with this",
+      "answer": "GRATER",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Writes news stories",
+      "answer": "WRITER",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Muslim feast day",
+      "answer": "FEAST",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "White dairy drink",
+      "answer": "MILK",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Sky color",
+      "answer": "BLUE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Glass wool insulation",
+      "answer": "WOOL",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "dayNumber": 3
+  "dayNumber": 2
 }

@@ -1,0 +1,73 @@
+{
+  "id": "journey-level-41",
+  "level": 41,
+  "title": "Level 41",
+  "words": [
+    {
+      "clue": "Large group of musicians",
+      "answer": "ORCHESTRA",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Light purple flower color",
+      "answer": "LAVENDER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Makes pots out of clay",
+      "answer": "POTTER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Dig holes with this",
+      "answer": "SPADE",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling not interested at all",
+      "answer": "BORED",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Striped horse-like animal",
+      "answer": "ZEBRA",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Paper check",
+      "answer": "CHECK",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Wash dishes in this",
+      "answer": "SINK",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 9,
+  "targetWords": 10,
+  "difficulty": "medium"
+}

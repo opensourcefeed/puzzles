@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-09-16",
   "date": "2026-09-16",
-  "title": "16 September 2026",
+  "title": "2026-09-16",
   "words": [
     {
-      "clue": "Portable phone charger",
-      "answer": "POWERBANK",
-      "row": 6,
+      "clue": "Strong wind storm",
+      "answer": "TORNADO",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
-      "row": 5,
+      "clue": "Happy and bright",
+      "answer": "BRIGHT",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Sidewalks are made of this",
+      "answer": "CEMENT",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Seventh planet from the sun",
+      "answer": "URANUS",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow curved fruit",
-      "answer": "BANANA",
-      "row": 8,
+      "clue": "What plants breathe in",
+      "answer": "CARBON",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Referee in baseball",
-      "answer": "UMPIRE",
-      "row": 4,
-      "col": 3,
+      "clue": "Presents news on television",
+      "answer": "ANCHOR",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that carries goods",
+      "answer": "TRUCK",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Worn on hands in winter",
-      "answer": "GLOVES",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
+      "clue": "You sit on this with a back",
+      "answer": "CHAIR",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "Fill gaps with this",
-      "answer": "CAULK",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A small unit of money",
-      "answer": "CENT",
-      "row": 12,
-      "col": 2,
+      "clue": "Pointed weapon shape",
+      "answer": "ARROW",
+      "row": 1,
+      "col": 6,
       "direction": "across"
     }
   ],
-  "dayNumber": 97
+  "dayNumber": 96
 }

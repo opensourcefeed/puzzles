@@ -1,0 +1,115 @@
+{
+  "id": "journey-level-146",
+  "level": 146,
+  "title": "Level 146",
+  "words": [
+    {
+      "clue": "Head-worn audio device",
+      "answer": "HEADPHONES",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Subject about the world",
+      "answer": "GEOGRAPHY",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Country known for tulips",
+      "answer": "HOLLAND",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you buy food",
+      "answer": "GROCERY",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to honor mothers in May",
+      "answer": "MOTHERS",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "3D printing machine",
+      "answer": "PRINTER",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Pillows are filled with soft feathers",
+      "answer": "FEATHER",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Cleans schools and offices",
+      "answer": "JANITOR",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very interested",
+      "answer": "CURIOUS",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Captain of a ship",
+      "answer": "CAPTAIN",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Stage of a butterfly",
+      "answer": "COCOON",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean north of America",
+      "answer": "ARCTIC",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Underwater mountain chain",
+      "answer": "RIDGE",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Fixes electric wires",
+      "answer": "FIXER",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Card with money on it",
+      "answer": "CARD",
+      "row": 9,
+      "col": 10,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 15,
+  "targetWords": 24,
+  "difficulty": "hard"
+}

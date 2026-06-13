@@ -1,0 +1,108 @@
+{
+  "id": "journey-level-81",
+  "level": 81,
+  "title": "Level 81",
+  "words": [
+    {
+      "clue": "Large group of musicians",
+      "answer": "ORCHESTRA",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling full of hope",
+      "answer": "HOPEFUL",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Workers day off",
+      "answer": "DAYOFF",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Roll dough with this",
+      "answer": "ROLLER",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Stockholm",
+      "answer": "SWEDEN",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Giant rock that comes from space",
+      "answer": "METEOR",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Shovel snow with this",
+      "answer": "SHOVEL",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Queen's big day",
+      "answer": "CROWN",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Thigh bone",
+      "answer": "THIGH",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Makes medicine",
+      "answer": "MAKER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewish new year",
+      "answer": "SHANA",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Stick things with this",
+      "answer": "TAPE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Mix paint with this stick",
+      "answer": "STIR",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where prisoners stay",
+      "answer": "JAIL",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 14,
+  "targetWords": 16,
+  "difficulty": "medium"
+}

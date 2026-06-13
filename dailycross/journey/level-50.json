@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-50",
+  "level": 50,
+  "title": "Level 50",
+  "words": [
+    {
+      "clue": "Carries your books",
+      "answer": "BACKPACK",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Buttons are often made of this",
+      "answer": "PLASTIC",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Largest country in the world",
+      "answer": "RUSSIA",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Oslo",
+      "answer": "NORWAY",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Keep drinks cold in this",
+      "answer": "COOLER",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling uncertain",
+      "answer": "UNSURE",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Thanksgiving in US",
+      "answer": "THANK",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Ropes are made from strong fibers",
+      "answer": "FIBER",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Muslim feast day",
+      "answer": "FEAST",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Paper check",
+      "answer": "CHECK",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Join metals hot",
+      "answer": "MELT",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Caring about others",
+      "answer": "KIND",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 12,
+  "difficulty": "medium"
+}

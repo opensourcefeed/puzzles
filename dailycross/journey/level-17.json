@@ -1,0 +1,45 @@
+{
+  "id": "journey-level-17",
+  "level": 17,
+  "title": "Level 17",
+  "words": [
+    {
+      "clue": "Part of the body that digests food",
+      "answer": "STOMACH",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Peel potatoes with this",
+      "answer": "PEELER",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Paper from wood",
+      "answer": "PAPER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to plant trees",
+      "answer": "ARBOR",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 5,
+  "targetWords": 7,
+  "difficulty": "easy"
+}

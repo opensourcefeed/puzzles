@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-03-07",
   "date": "2027-03-07",
-  "title": "7 March 2027",
+  "title": "2027-03-07",
   "words": [
     {
-      "clue": "Change from liquid to gas",
-      "answer": "EVAPORATE",
+      "clue": "Digital watch with apps",
+      "answer": "SMARTWATCH",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Memorial Day remembers soldiers",
-      "answer": "MEMORIAL",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Insect that glows at night",
-      "answer": "FIREFLY",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Pry open boxes with this",
-      "answer": "CROWBAR",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Newborn baby",
-      "answer": "INFANT",
+      "clue": "Tool used to see far stars",
+      "answer": "TELESCOPE",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Ocean creature with two shells",
-      "answer": "MUSSEL",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
+      "clue": "Feeling able to wait",
+      "answer": "PATIENT",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
     },
     {
-      "clue": "Fingered string instrument",
-      "answer": "BANJO",
+      "clue": "Lives more than one year",
+      "answer": "YEARLY",
       "row": 3,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Feeling shy around others",
-      "answer": "TIMID",
-      "row": 7,
-      "col": 0,
+      "clue": "Blood vessel that carries blood away",
+      "answer": "ARTERY",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Handheld device for calls and apps",
-      "answer": "PHONE",
-      "row": 1,
-      "col": 5,
+      "clue": "Vehicle that runs on tracks",
+      "answer": "TRAIN",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Dark blue like the deep sea",
-      "answer": "NAVY",
-      "row": 4,
-      "col": 10,
+      "clue": "Winter outerwear",
+      "answer": "COAT",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Small picture on a phone screen",
+      "answer": "ICON",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You sit on this with cushions",
+      "answer": "SOFA",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "dayNumber": 269
+  "dayNumber": 268
 }

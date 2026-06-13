@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2027-02-26",
   "date": "2027-02-26",
-  "title": "26 February 2027",
+  "title": "2027-02-26",
   "words": [
     {
-      "clue": "Half of a circle",
-      "answer": "SEMICIRCLE",
-      "row": 4,
+      "clue": "Country with Hanoi",
+      "answer": "VIETNAM",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tiny living thing you need a microscope to see",
-      "answer": "BACTERIA",
-      "row": 2,
-      "col": 4,
+      "clue": "Frog's early stage in water",
+      "answer": "TADPOLE",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Day to honor mothers in May",
-      "answer": "MOTHERS",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Plan for how to spend your money",
-      "answer": "BUDGET",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "August independence of India",
-      "answer": "AUGUST",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Peel potatoes with this",
-      "answer": "PEELER",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Stomach entrance",
-      "answer": "BELLY",
-      "row": 6,
+      "clue": "Cut wires with this",
+      "answer": "PLIERS",
+      "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Microscope sees these tiny living things",
-      "answer": "GERMS",
+      "clue": "Popular search engine",
+      "answer": "GOOGLE",
       "row": 0,
-      "col": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Ice crystals falling from sky",
-      "answer": "SNOW",
-      "row": 4,
-      "col": 0,
+      "clue": "Sport where you throw a long stick",
+      "answer": "THROW",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Ocean creature that buries in sand",
-      "answer": "CLAM",
-      "row": 5,
-      "col": 6,
+      "clue": "Shaking from cold",
+      "answer": "SHAKE",
+      "row": 3,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "Wanting something badly",
+      "answer": "WISH",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Green color in leaves",
+      "answer": "STEM",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "dayNumber": 260
+  "dayNumber": 259
 }

@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2027-03-30",
   "date": "2027-03-30",
-  "title": "30 March 2027",
+  "title": "2027-03-30",
   "words": [
     {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
+      "clue": "Orange citrus fruit",
+      "answer": "ORANGE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to plant trees",
+      "answer": "ARBOR",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Cover for garden soil",
+      "answer": "COVER",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Apple wireless earbuds",
+      "answer": "BUDS",
       "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Coin worth 100 cents",
-      "answer": "QUARTER",
-      "row": 1,
-      "col": 5,
+      "clue": "Large water vehicle",
+      "answer": "SHIP",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Queen's celebration in UK",
-      "answer": "JUBILEE",
-      "row": 6,
+      "clue": "Bright sky object at night",
+      "answer": "STAR",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft white building rock",
+      "answer": "ROCK",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "You sleep on this",
+      "answer": "BED",
+      "row": 3,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Buddha's birthday celebration",
-      "answer": "BUDDHA",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Performs songs on stage",
-      "answer": "SINGER",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Fabric that blocks weeds",
-      "answer": "MULCH",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a play is performed",
-      "answer": "STAGE",
-      "row": 1,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Hang utensils on this",
-      "answer": "RACK",
-      "row": 6,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Set of words and music together",
-      "answer": "SONG",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
     }
   ],
-  "dayNumber": 292
+  "dayNumber": 291
 }

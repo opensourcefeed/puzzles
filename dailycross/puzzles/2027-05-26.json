@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-05-26",
   "date": "2027-05-26",
-  "title": "26 May 2027",
+  "title": "2027-05-26",
   "words": [
     {
-      "clue": "Feeling impatient",
-      "answer": "IMPATIENT",
-      "row": 5,
+      "clue": "Top part of your arm",
+      "answer": "SHOULDER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Pry open boxes with this",
-      "answer": "CROWBAR",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Screen that shows images",
-      "answer": "MONITOR",
+      "clue": "Start of day before noon",
+      "answer": "MORNING",
       "row": 2,
       "col": 2,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Cut wires with this",
-      "answer": "PLIERS",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
+      "clue": "Place where a doctor works",
+      "answer": "CLINIC",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "Feeling scared",
-      "answer": "AFRAID",
-      "row": 1,
+      "clue": "Whisk eggs with this",
+      "answer": "WHISK",
+      "row": 0,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Printer makes copies on this",
-      "answer": "PAPER",
+      "clue": "Ocean coral reef builder",
+      "answer": "CORAL",
       "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean plant that grows in forests",
-      "answer": "KELP",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Read across America day",
-      "answer": "READ",
-      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Paper is made from wood pulp",
-      "answer": "PULP",
-      "row": 9,
+      "clue": "Place where you get coffee",
+      "answer": "CAFE",
+      "row": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Money you borrow",
+      "answer": "DEBT",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Tall plant with a trunk",
+      "answer": "TREE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Vertical surface of a room",
+      "answer": "WALL",
+      "row": 0,
       "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 349
+  "dayNumber": 348
 }

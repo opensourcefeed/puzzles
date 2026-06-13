@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-60",
+  "level": 60,
+  "title": "Level 60",
+  "words": [
+    {
+      "clue": "Two-wheeled motor vehicle",
+      "answer": "MOTORCYCLE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Cardboard is thick paper",
+      "answer": "CARDBOARD",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Emergency vehicle with siren",
+      "answer": "AMBULANCE",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Hand end parts",
+      "answer": "FINGERS",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies bugs",
+      "answer": "CATCHER",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Your female parent",
+      "answer": "MOTHER",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that flies to space",
+      "answer": "ROCKET",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Makes pots out of clay",
+      "answer": "POTTER",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Coin worth 1 cent",
+      "answer": "PENNY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Red ocean algae",
+      "answer": "ALGAE",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Score unit in a game",
+      "answer": "POINT",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you live",
+      "answer": "HOUSE",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 13,
+  "difficulty": "medium"
+}

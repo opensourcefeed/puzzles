@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2026-11-25",
   "date": "2026-11-25",
-  "title": "25 November 2026",
+  "title": "2026-11-25",
   "words": [
     {
-      "clue": "February celebration of presidents",
-      "answer": "PRESIDENTS",
+      "clue": "Builds with wood",
+      "answer": "CARPENTER",
       "row": 4,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Flash of light in storm",
-      "answer": "LIGHTNING",
+      "clue": "Place where you take a bath",
+      "answer": "BATHROOM",
       "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Protects from rain",
-      "answer": "UMBRELLA",
-      "row": 0,
+      "clue": "Set of instructions for a computer",
+      "answer": "PROGRAM",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "White sky fluff",
-      "answer": "CLOUD",
+      "clue": "Place where you buy food",
+      "answer": "GROCERY",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you learn",
+      "answer": "SCHOOL",
       "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean plant that grows in forests",
-      "answer": "KELP",
-      "row": 3,
-      "col": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Plant that climbs up trellises",
-      "answer": "VINE",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Stick things with this",
-      "answer": "TAPE",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "What a tadpole becomes",
-      "answer": "FROG",
+      "clue": "Sharp tool for slicing bread",
+      "answer": "SLICER",
       "row": 11,
-      "col": 1,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Money a government collects from you",
-      "answer": "TAX",
-      "row": 2,
+      "clue": "Round white vegetable",
+      "answer": "ONION",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Tells time on wrist",
+      "answer": "WATCH",
+      "row": 6,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Part of the eye that sees color",
+      "answer": "CONE",
+      "row": 0,
+      "col": 7,
       "direction": "across"
     }
   ],
-  "dayNumber": 167
+  "dayNumber": 166
 }

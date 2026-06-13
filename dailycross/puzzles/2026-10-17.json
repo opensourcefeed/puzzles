@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-10-17",
   "date": "2026-10-17",
-  "title": "17 October 2026",
+  "title": "2026-10-17",
   "words": [
     {
-      "clue": "Place where you eat out",
-      "answer": "RESTAURANT",
-      "row": 3,
+      "clue": "Sun-loving tall yellow flower",
+      "answer": "SUNFLOWER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Three sides",
-      "answer": "TRIANGLE",
+      "clue": "Device that helps you see",
+      "answer": "GLASSES",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Moving energy of objects",
+      "answer": "MOTION",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Hit nails with this",
+      "answer": "HAMMER",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Pair of married people",
+      "answer": "COUPLE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Keep drinks cold in this",
+      "answer": "COOLER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
       "row": 3,
       "col": 3,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Creates new things",
-      "answer": "INVENTOR",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Vegetable that grows on a vine",
-      "answer": "SQUASH",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a circus performs",
-      "answer": "BIGTOP",
+      "clue": "Country with Madrid",
+      "answer": "SPAIN",
       "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that carries goods",
-      "answer": "TRUCK",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor first responders",
-      "answer": "FIRST",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Hold pipe while cutting",
-      "answer": "VISE",
-      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You smell with this",
-      "answer": "NOSE",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Bowls are made of this moldable material",
-      "answer": "CLAY",
-      "row": 9,
+      "clue": "Wanting something badly",
+      "answer": "WISH",
+      "row": 7,
       "col": 2,
       "direction": "across"
     }
   ],
-  "dayNumber": 128
+  "dayNumber": 127
 }

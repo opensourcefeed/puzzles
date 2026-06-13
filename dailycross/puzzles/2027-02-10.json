@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-02-10",
   "date": "2027-02-10",
-  "title": "10 February 2027",
+  "title": "2027-02-10",
   "words": [
     {
-      "clue": "Game with hoop and net",
-      "answer": "BASKETBALL",
+      "clue": "Place where firefighters work",
+      "answer": "FIREHOUSE",
       "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Colorful ocean fish with stripes",
+      "answer": "CLOWNFISH",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Lizard that changes color",
+      "answer": "CHAMELEON",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Presents news on television",
+      "answer": "ANCHOR",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Cut pizza with this",
+      "answer": "CUTTER",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Fence for plants to climb",
-      "answer": "TRELLIS",
+      "clue": "Muslim feast day",
+      "answer": "FEAST",
       "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling pleasure",
-      "answer": "DELIGHT",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "What plants breathe out",
-      "answer": "OXYGEN",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Holds napkins on the table",
-      "answer": "NAPKIN",
-      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You put a clock on this",
-      "answer": "MANTEL",
-      "row": 0,
-      "col": 8,
+      "clue": "Country with Cairo",
+      "answer": "EGYPT",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Place where boats park",
-      "answer": "MARINA",
-      "row": 2,
-      "col": 4,
+      "clue": "Birth date celebration",
+      "answer": "CAKE",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Card that lets you buy now and pay later",
-      "answer": "CREDIT",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
+      "clue": "Turn socket tool",
+      "answer": "TURN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
     }
   ],
-  "dayNumber": 244
+  "dayNumber": 243
 }

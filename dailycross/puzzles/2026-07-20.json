@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-07-20",
   "date": "2026-07-20",
-  "title": "20 July 2026",
+  "title": "2026-07-20",
   "words": [
     {
-      "clue": "Feeling brave and fearless",
-      "answer": "COURAGEOUS",
-      "row": 5,
+      "clue": "September celebration of workers",
+      "answer": "LABORDAY",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Pry open boxes with this",
-      "answer": "CROWBAR",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Output device that makes sound",
-      "answer": "SPEAKER",
+      "clue": "Ocean between America and Europe",
+      "answer": "ATLANTIC",
       "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Feeling calm and peaceful",
-      "answer": "SERENE",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Child whose parents have died",
-      "answer": "ORPHAN",
-      "row": 5,
+      "clue": "Serves food at tables",
+      "answer": "WAITER",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Stores your files",
-      "answer": "MEMORY",
-      "row": 8,
+      "clue": "Strong bone mineral",
+      "answer": "MAGNET",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Small blue wildflower",
-      "answer": "VIOLET",
-      "row": 6,
+      "clue": "Science building",
+      "answer": "SCHOOL",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Handheld device for calls and apps",
+      "answer": "PHONE",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Your first given name",
-      "answer": "GIVEN",
-      "row": 10,
-      "col": 5,
+      "clue": "Medicine for pain",
+      "answer": "PILL",
+      "row": 3,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Clear liquid that your body needs",
-      "answer": "WATER",
+      "clue": "Medicine for sickness",
+      "answer": "CURE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Carry groceries in these",
+      "answer": "BAGS",
       "row": 0,
-      "col": 9,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "dayNumber": 39
+  "dayNumber": 38
 }

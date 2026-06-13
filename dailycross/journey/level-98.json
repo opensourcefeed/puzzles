@@ -1,0 +1,122 @@
+{
+  "id": "journey-level-98",
+  "level": 98,
+  "title": "Level 98",
+  "words": [
+    {
+      "clue": "Works in a library",
+      "answer": "LIBRARIAN",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you take a bath",
+      "answer": "BATHROOM",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Day after today",
+      "answer": "TOMORROW",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where fish are kept",
+      "answer": "AQUARIUM",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat high area of land",
+      "answer": "PLATEAU",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Blood vessel that carries blood away",
+      "answer": "ARTERY",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Four equal sides",
+      "answer": "SQUARE",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Giant rock that comes from space",
+      "answer": "METEOR",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who sells things",
+      "answer": "SELLER",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Water becomes gas",
+      "answer": "STEAM",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft rope fiber",
+      "answer": "TWINE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean mollusk with a spiral shell",
+      "answer": "SNAIL",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Path electricity flows",
+      "answer": "WIRE",
+      "row": 10,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a cow lives",
+      "answer": "BARN",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Apple wireless earbuds",
+      "answer": "BUDS",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 16,
+  "targetWords": 18,
+  "difficulty": "hard"
+}

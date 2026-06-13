@@ -1,0 +1,59 @@
+{
+  "id": "journey-level-22",
+  "level": 22,
+  "title": "Level 22",
+  "words": [
+    {
+      "clue": "What a caterpillar becomes",
+      "answer": "BUTTERFLY",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Country known for tango",
+      "answer": "ARGENTINA",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Studies bugs",
+      "answer": "CATCHER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Spinning on an axis",
+      "answer": "ROTATE",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Crunchy green vegetable with stalks",
+      "answer": "CELERY",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies old things",
+      "answer": "FINDER",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 7,
+  "targetWords": 8,
+  "difficulty": "easy"
+}

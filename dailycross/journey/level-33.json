@@ -1,0 +1,66 @@
+{
+  "id": "journey-level-33",
+  "level": 33,
+  "title": "Level 33",
+  "words": [
+    {
+      "clue": "Country with Jakarta",
+      "answer": "INDONESIA",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Leads tours for visitors",
+      "answer": "TOURGUIDE",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Large ocean wave from earthquake",
+      "answer": "TSUNAMI",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean between America and Asia",
+      "answer": "PACIFIC",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sweet liquid bees collect from flowers",
+      "answer": "NECTAR",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Pour dressing from this",
+      "answer": "BOTTLE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Connects computer to monitor",
+      "answer": "CABLE",
+      "row": 5,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Shaking from cold",
+      "answer": "SHAKE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 8,
+  "targetWords": 9,
+  "difficulty": "medium"
+}

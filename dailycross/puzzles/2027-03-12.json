@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-03-12",
   "date": "2027-03-12",
-  "title": "12 March 2027",
+  "title": "2027-03-12",
   "words": [
-    {
-      "clue": "Head-worn audio device",
-      "answer": "HEADPHONES",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
     {
       "clue": "Cardboard is thick paper",
       "answer": "CARDBOARD",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat round ocean fish",
-      "answer": "FLOUNDER",
       "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Global network of computers",
-      "answer": "INTERNET",
-      "row": 6,
-      "col": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Cut paper with this",
-      "answer": "SCISSORS",
+      "clue": "Does experiments for a living",
+      "answer": "SCIENTIST",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where buses arrive",
+      "answer": "TERMINAL",
       "row": 0,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Set of instructions for a computer",
-      "answer": "PROGRAM",
-      "row": 4,
-      "col": 4,
+      "clue": "Worn around wrist as accessory",
+      "answer": "BRACELET",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Underground room for wine",
-      "answer": "CELLAR",
+      "clue": "Ocean creature with two shells",
+      "answer": "MUSSEL",
       "row": 8,
-      "col": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Second most populated country",
-      "answer": "INDIA",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Apple computer operating system",
-      "answer": "MACOS",
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
       "row": 0,
-      "col": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Top of the oven for cooking",
+      "answer": "STOVE",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Cloth to stop bleeding",
+      "answer": "CLOTH",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Nairobi",
+      "answer": "KENYA",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Time the sun rises",
+      "answer": "DAWN",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 274
+  "dayNumber": 273
 }

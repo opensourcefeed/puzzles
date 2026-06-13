@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-06-10",
   "date": "2027-06-10",
-  "title": "10 June 2027",
+  "title": "2027-06-10",
   "words": [
     {
-      "clue": "Paint small areas with a brush",
-      "answer": "PAINTBRUSH",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean between America and Europe",
-      "answer": "ATLANTIC",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling strongly about a cause",
-      "answer": "PASSION",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
+      "clue": "Repairs cars and engines",
+      "answer": "MECHANIC",
       "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Light a fire with this",
+      "answer": "LIGHTER",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Glue is made from gelatin",
-      "answer": "GELATIN",
+      "clue": "Protects the community",
+      "answer": "POLICE",
       "row": 0,
-      "col": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Yellow curved fruit",
-      "answer": "BANANA",
-      "row": 7,
+      "clue": "Coin worth 1 cent",
+      "answer": "PENNY",
+      "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "You open to let in light",
-      "answer": "WINDOW",
-      "row": 5,
-      "col": 10,
+      "clue": "Your father's brother",
+      "answer": "UNCLE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Eat soup with this",
+      "answer": "SPOON",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Feeling very proud",
-      "answer": "PROUD",
-      "row": 9,
-      "col": 8,
+      "clue": "Part ownership in a company",
+      "answer": "PART",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Direction the sun rises",
+      "answer": "EAST",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Insect that makes honey",
-      "answer": "BEE",
-      "row": 10,
-      "col": 5,
+      "clue": "Place where ships dock",
+      "answer": "PORT",
+      "row": 5,
+      "col": 9,
       "direction": "across"
     }
   ],
-  "dayNumber": 364
+  "dayNumber": 363
 }

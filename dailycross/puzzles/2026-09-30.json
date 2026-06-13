@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-09-30",
   "date": "2026-09-30",
-  "title": "30 September 2026",
+  "title": "2026-09-30",
   "words": [
     {
-      "clue": "Machine that takes pictures of organs",
-      "answer": "ULTRASOUND",
+      "clue": "Sea star with five arms",
+      "answer": "STARFISH",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cardboard is thick paper",
-      "answer": "CARDBOARD",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Shoes are made of this animal skin",
-      "answer": "LEATHER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Manages money in a bank",
-      "answer": "BANKER",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Shovel snow with this",
-      "answer": "SHOVEL",
+      "clue": "Travels to discover new places",
+      "answer": "EXPLORER",
       "row": 0,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Moving energy of objects",
-      "answer": "MOTION",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
+      "clue": "Room below your house",
+      "answer": "BASEMENT",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
     },
     {
-      "clue": "Newborn baby",
-      "answer": "INFANT",
+      "clue": "Words of a song",
+      "answer": "LYRICS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where Christians pray",
+      "answer": "CHURCH",
       "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Pointed weapon shape",
-      "answer": "ARROW",
-      "row": 10,
-      "col": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Global positioning system",
-      "answer": "GPS",
+      "clue": "British paper money unit",
+      "answer": "POUND",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Green message app",
+      "answer": "CHAT",
+      "row": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Loving something a lot",
+      "answer": "LOVE",
       "row": 0,
       "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 111
+  "dayNumber": 110
 }

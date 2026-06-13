@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-12-16",
   "date": "2026-12-16",
-  "title": "16 December 2026",
+  "title": "2026-12-16",
   "words": [
     {
-      "clue": "Ocean creature with horseshoe shape",
-      "answer": "HORSESHOE",
-      "row": 5,
+      "clue": "Your child's child",
+      "answer": "GRANDCHILD",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
-      "row": 4,
+      "clue": "Yellow spring flower",
+      "answer": "DAFFODIL",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Fence for plants to climb",
-      "answer": "TRELLIS",
-      "row": 4,
+      "clue": "Paper money used in the US",
+      "answer": "DOLLAR",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Become part of a family by law",
+      "answer": "ADOPT",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Stores your files",
-      "answer": "MEMORY",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Sixty seconds",
-      "answer": "MINUTE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Four equal sides",
-      "answer": "SQUARE",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Trouble breathing condition",
-      "answer": "ASTHMA",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Song that celebrates a country",
-      "answer": "ANTHEM",
+      "clue": "Round Italian food",
+      "answer": "PIZZA",
       "row": 7,
-      "col": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Summer top for boys",
-      "answer": "SHIRT",
-      "row": 4,
-      "col": 0,
+      "clue": "Arctic bear",
+      "answer": "BEAR",
+      "row": 0,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Small picture on a phone screen",
+      "answer": "ICON",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Path electricity flows",
+      "answer": "WIRE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Smart speaker from Amazon",
+      "answer": "ECHO",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Can't hear well",
+      "answer": "DEAF",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "dayNumber": 188
+  "dayNumber": 187
 }

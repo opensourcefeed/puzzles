@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-12-18",
   "date": "2026-12-18",
-  "title": "18 December 2026",
+  "title": "2026-12-18",
   "words": [
     {
-      "clue": "March celebration with leprechauns",
-      "answer": "PATRICK",
-      "row": 5,
-      "col": 1,
+      "clue": "Place where you mail letters",
+      "answer": "POSTOFFICE",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Path of an object around another",
-      "answer": "REVOLVE",
+      "clue": "Cook food fast with waves",
+      "answer": "MICROWAVE",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Makes pots out of clay",
+      "answer": "POTTER",
       "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "You open to let in light",
-      "answer": "WINDOW",
+      "clue": "Your female sibling",
+      "answer": "SISTER",
       "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Plan for how to spend your money",
-      "answer": "BUDGET",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Your female parent",
-      "answer": "MOTHER",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A woman on her wedding day",
-      "answer": "BRIDE",
-      "row": 6,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a play is performed",
-      "answer": "STAGE",
-      "row": 3,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Paper is made from wood pulp",
-      "answer": "PULP",
-      "row": 1,
-      "col": 2,
+      "clue": "Silent aircraft with no engine",
+      "answer": "GLIDER",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling scared",
+      "answer": "AFRAID",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Wedding party",
+      "answer": "PARTY",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Break hard concrete",
+      "answer": "SMASH",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Striped horse-like animal",
+      "answer": "ZEBRA",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Measure angles",
+      "answer": "EDGE",
+      "row": 6,
+      "col": 9,
       "direction": "across"
     }
   ],
-  "dayNumber": 190
+  "dayNumber": 189
 }

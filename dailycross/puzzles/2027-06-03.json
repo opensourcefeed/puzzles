@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-06-03",
   "date": "2027-06-03",
-  "title": "3 June 2027",
+  "title": "2027-06-03",
   "words": [
     {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Subject about the world",
-      "answer": "GEOGRAPHY",
+      "clue": "Moving your body to stay fit",
+      "answer": "EXERCISE",
       "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Pencils contain this slippery mineral",
-      "answer": "GRAPHITE",
-      "row": 4,
-      "col": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
-      "row": 3,
-      "col": 11,
+      "clue": "Place where airplanes land",
+      "answer": "AIRPORT",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 2,
+      "clue": "Spinning on an axis",
+      "answer": "ROTATE",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Ocean around India",
-      "answer": "INDIAN",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport played on ice with sticks",
-      "answer": "HOCKEY",
-      "row": 7,
-      "col": 7,
+      "clue": "Paper money used in the US",
+      "answer": "DOLLAR",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Colorful garden bloom",
-      "answer": "FLOWER",
+      "clue": "Pumps blood through your body",
+      "answer": "HEART",
       "row": 0,
-      "col": 13,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
+      "clue": "Sport where you throw a long stick",
+      "answer": "THROW",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Lift heavy things",
+      "answer": "HOIST",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Plant that climbs up trellises",
-      "answer": "VINE",
+      "clue": "Money you borrow",
+      "answer": "DEBT",
       "row": 0,
-      "col": 7,
-      "direction": "across"
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Apple mobile operating system",
+      "answer": "IOS",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
     }
   ],
-  "dayNumber": 357
+  "dayNumber": 356
 }

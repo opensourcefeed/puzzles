@@ -1,0 +1,171 @@
+{
+  "id": "journey-level-150",
+  "level": 150,
+  "title": "Level 150",
+  "words": [
+    {
+      "clue": "Builds roads and bridges",
+      "answer": "ENGINEER",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you buy food",
+      "answer": "GROCERY",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Brussels",
+      "answer": "BELGIUM",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Digital book reader",
+      "answer": "EREADER",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Happy and bright",
+      "answer": "BRIGHT",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Mattresses have metal coils",
+      "answer": "SPRING",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Small piece of land in water",
+      "answer": "ISLAND",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Performs dance",
+      "answer": "DANCER",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Manages money in a bank",
+      "answer": "BANKER",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Prayer place for Jews",
+      "answer": "TEMPLE",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Blood carrier in body",
+      "answer": "BLOOD",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Shiny coat on pans",
+      "answer": "SHINE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Makes computer programs",
+      "answer": "CODER",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Wraps around neck for warmth",
+      "answer": "SCARF",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Bone vitamin",
+      "answer": "MILK",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Blood vessel that carries blood back",
+      "answer": "VEIN",
+      "row": 10,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Time the sun rises",
+      "answer": "DAWN",
+      "row": 4,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Moving to stay fit",
+      "answer": "WALK",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Money from a job",
+      "answer": "CASH",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A child with no siblings",
+      "answer": "ONLY",
+      "row": 2,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Glass is made from melted sand",
+      "answer": "SAND",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Cork tree bark",
+      "answer": "BARK",
+      "row": 0,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "You smell with this",
+      "answer": "NOSE",
+      "row": 13,
+      "col": 11,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 23,
+  "targetWords": 25,
+  "difficulty": "hard"
+}

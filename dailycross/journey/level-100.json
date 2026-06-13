@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-100",
+  "level": 100,
+  "title": "Level 100",
+  "words": [
+    {
+      "clue": "Place where fish are kept",
+      "answer": "AQUARIUM",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Pillows are filled with soft feathers",
+      "answer": "FEATHER",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Blend fruits in this",
+      "answer": "BLENDER",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Delivers mail to homes",
+      "answer": "MAILMAN",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Vienna",
+      "answer": "AUSTRIA",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful sky arc after rain",
+      "answer": "RAINBOW",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean creature with two shells",
+      "answer": "MUSSEL",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Blow leaves with this",
+      "answer": "BLOWER",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Your father's brother",
+      "answer": "UNCLE",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Horse-drawn carriage",
+      "answer": "WAGON",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 18,
+  "difficulty": "hard"
+}

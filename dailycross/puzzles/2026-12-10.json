@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-12-10",
   "date": "2026-12-10",
-  "title": "10 December 2026",
+  "title": "2026-12-10",
   "words": [
     {
-      "clue": "Microsoft presentation program",
-      "answer": "POWERPOINT",
-      "row": 3,
+      "clue": "You type on this",
+      "answer": "KEYBOARD",
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Vitamin that helps with immunity",
-      "answer": "VITAMINC",
-      "row": 2,
-      "col": 8,
+      "clue": "Place where athletes play",
+      "answer": "STADIUM",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Celebration of a marriage",
-      "answer": "WEDDING",
-      "row": 3,
+      "clue": "Device that helps you see",
+      "answer": "GLASSES",
+      "row": 4,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Ocean around India",
-      "answer": "INDIAN",
-      "row": 5,
+      "clue": "What plants breathe out",
+      "answer": "OXYGEN",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where justice is decided",
+      "answer": "COURT",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Guards a building",
-      "answer": "GUARD",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Measure length with this",
-      "answer": "RULER",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Smart speaker from Google",
-      "answer": "NEST",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Time the sun rises",
-      "answer": "DAWN",
-      "row": 8,
+      "clue": "Sharp point on a rose stem",
+      "answer": "THORN",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Leather comes from animal skin",
-      "answer": "HIDE",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "How hot or cold something is",
-      "answer": "HEAT",
+      "clue": "Two babies born together",
+      "answer": "TWINS",
       "row": 0,
-      "col": 10,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "dayNumber": 182
+  "dayNumber": 181
 }

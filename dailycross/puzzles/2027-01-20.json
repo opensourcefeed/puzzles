@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2027-01-20",
   "date": "2027-01-20",
-  "title": "20 January 2027",
+  "title": "2027-01-20",
   "words": [
     {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Brother or sister",
-      "answer": "SIBLING",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Brown vegetable that grows in dirt",
-      "answer": "POTATO",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Dry sandy area with little water",
-      "answer": "DESERT",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Istanbul",
-      "answer": "TURKEY",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
-      "row": 3,
+      "clue": "Light purple flower color",
+      "answer": "LAVENDER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Machine that checks heart rhythm",
-      "answer": "EKG",
-      "row": 6,
-      "col": 7,
+      "clue": "Day to honor nurses",
+      "answer": "NURSES",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Cook food in this",
-      "answer": "POT",
-      "row": 4,
-      "col": 5,
+      "clue": "Country of the Amazon River",
+      "answer": "BRAZIL",
+      "row": 7,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Pour dressing from this",
+      "answer": "BOTTLE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewish lights festival",
+      "answer": "LIGHTS",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Types of money",
+      "answer": "COINS",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Drill holes with this",
+      "answer": "DRILL",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Prices going up",
+      "answer": "RISE",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Take your child to work day",
+      "answer": "TAKE",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Sky color",
+      "answer": "BLUE",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
     }
   ],
-  "dayNumber": 223
+  "dayNumber": 222
 }

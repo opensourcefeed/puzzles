@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2027-01-18",
   "date": "2027-01-18",
-  "title": "18 January 2027",
+  "title": "2027-01-18",
   "words": [
     {
-      "clue": "Two or more atoms bonded together",
-      "answer": "MOLECULE",
-      "row": 5,
-      "col": 1,
+      "clue": "Three children born at once",
+      "answer": "TRIPLET",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
-      "row": 5,
+      "clue": "Place where kings and queens live",
+      "answer": "PALACE",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Pen for drawing on tablets",
-      "answer": "STYLUS",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Day of atonement in Judaism",
-      "answer": "KIPPUR",
+      "clue": "Manages money in a bank",
+      "answer": "BANKER",
       "row": 7,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Red ocean algae",
-      "answer": "ALGAE",
-      "row": 1,
-      "col": 8,
+      "clue": "Feeling very proud",
+      "answer": "PROUD",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 1,
-      "col": 5,
+      "clue": "Pointed weapon shape",
+      "answer": "ARROW",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Stir soup with this",
+      "answer": "LADLE",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "You click with this",
-      "answer": "MOUSE",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut grass with this",
-      "answer": "MOWER",
+      "clue": "Smooth wood with a plane",
+      "answer": "PLANE",
       "row": 0,
-      "col": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Tree part that falls in autumn",
-      "answer": "LEAF",
-      "row": 9,
+      "clue": "Plant trees day",
+      "answer": "SEED",
+      "row": 7,
       "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 221
+  "dayNumber": 220
 }

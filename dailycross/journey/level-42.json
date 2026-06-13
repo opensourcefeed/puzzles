@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-42",
+  "level": 42,
+  "title": "Level 42",
+  "words": [
+    {
+      "clue": "Country known for tango",
+      "answer": "ARGENTINA",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Colorful ocean fish with stripes",
+      "answer": "CLOWNFISH",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Teaches students at school",
+      "answer": "TEACHER",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "String instrument with six strings",
+      "answer": "GUITAR",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Four equal sides",
+      "answer": "SQUARE",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Grows crops on a farm",
+      "answer": "FARMER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Deep valley with steep sides",
+      "answer": "CANYON",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Colorful garden bloom",
+      "answer": "FLOWER",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Wedding party",
+      "answer": "PARTY",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Falls from clouds",
+      "answer": "RAIN",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 11,
+  "difficulty": "medium"
+}

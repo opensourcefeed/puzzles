@@ -1,0 +1,136 @@
+{
+  "id": "journey-level-104",
+  "level": 104,
+  "title": "Level 104",
+  "words": [
+    {
+      "clue": "Ocean animal with stinging tentacles",
+      "answer": "JELLYFISH",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Day before today",
+      "answer": "YESTERDAY",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Travels to discover new places",
+      "answer": "EXPLORER",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Swimwear for the beach",
+      "answer": "BATHING",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny seed powder from flowers",
+      "answer": "POLLEN",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Silent aircraft with no engine",
+      "answer": "GLIDER",
+      "row": 6,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Chinese new year symbol",
+      "answer": "DRAGON",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewish lights festival",
+      "answer": "LIGHTS",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Card that lets you buy now and pay later",
+      "answer": "CREDIT",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Prayer place for Jews",
+      "answer": "TEMPLE",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Giant rock that comes from space",
+      "answer": "METEOR",
+      "row": 1,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Organ that breaks down fats",
+      "answer": "LIVER",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "White sky fluff",
+      "answer": "CLOUD",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Summer top for boys",
+      "answer": "SHIRT",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Large water vehicle",
+      "answer": "SHIP",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Seven days",
+      "answer": "WEEK",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Paper showing you paid",
+      "answer": "NOTE",
+      "row": 10,
+      "col": 11,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 18,
+  "targetWords": 19,
+  "difficulty": "hard"
+}

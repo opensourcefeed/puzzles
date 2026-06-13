@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-09-21",
   "date": "2026-09-21",
-  "title": "21 September 2026",
+  "title": "2026-09-21",
   "words": [
     {
-      "clue": "When prices go up over time",
-      "answer": "INFLATION",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Repairs cars and engines",
-      "answer": "MECHANIC",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "What we call animals that eat plants and meat",
-      "answer": "OMNIVORE",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Vitamin that helps with vision",
-      "answer": "VITAMINA",
-      "row": 8,
+      "clue": "Does experiments for a living",
+      "answer": "SCIENTIST",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Device that copies paper to computer",
-      "answer": "SCANNER",
-      "row": 4,
+      "clue": "Flat high area of land",
+      "answer": "PLATEAU",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Material that blocks electricity",
+      "answer": "RUBBER",
+      "row": 6,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "You keep jewelry in this box",
-      "answer": "COFFER",
-      "row": 0,
-      "col": 9,
+      "clue": "Plant used for flavoring food",
+      "answer": "BASIL",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 13,
+      "clue": "Fine dish material",
+      "answer": "CHINA",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Seven days",
+      "answer": "WEEK",
+      "row": 2,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Round fruit that is green or red",
+      "answer": "PEAR",
+      "row": 0,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A share of ownership in a company",
-      "answer": "STOCK",
+      "clue": "Unit of electric current",
+      "answer": "WATT",
       "row": 7,
-      "col": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Twelve months",
+      "answer": "YEAR",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "dayNumber": 102
+  "dayNumber": 101
 }

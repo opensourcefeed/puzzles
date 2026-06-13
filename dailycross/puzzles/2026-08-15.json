@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-08-15",
   "date": "2026-08-15",
-  "title": "15 August 2026",
+  "title": "2026-08-15",
   "words": [
     {
-      "clue": "Strong circular wind over ocean",
-      "answer": "HURRICANE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Stainless steel resists rust",
-      "answer": "STAINLESS",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Flags are made of this synthetic fiber",
-      "answer": "POLYESTER",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Purple vegetable that grows on ground",
-      "answer": "EGGPLANT",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Center of a cell",
-      "answer": "NUCLEUS",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Bathroom break is good for this",
-      "answer": "HYGIENE",
+      "clue": "Flying vehicle with wings",
+      "answer": "AIRPLANE",
       "row": 2,
-      "col": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Fireplace area",
-      "answer": "HEARTH",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
+      "clue": "Country with Vienna",
+      "answer": "AUSTRIA",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
     },
     {
-      "clue": "Money a business makes after costs",
-      "answer": "PROFIT",
-      "row": 7,
+      "clue": "Leafy green vegetable",
+      "answer": "SPINACH",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Breakfast egg dish",
+      "answer": "OMELET",
+      "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Creates paintings or drawings",
-      "answer": "ARTIST",
-      "row": 12,
-      "col": 5,
+      "clue": "Crunchy green vegetable with stalks",
+      "answer": "CELERY",
+      "row": 4,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Large ocean fish with sharp teeth",
-      "answer": "SHARK",
-      "row": 9,
-      "col": 6,
+      "clue": "Wanting things fast",
+      "answer": "RUSH",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Center part of something",
+      "answer": "CORE",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Flag flying day",
+      "answer": "FLAG",
+      "row": 0,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Mix ingredients in this",
+      "answer": "BOWL",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "dayNumber": 65
+  "dayNumber": 64
 }

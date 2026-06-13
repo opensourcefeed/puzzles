@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-06-22",
   "date": "2026-06-22",
-  "title": "22 June 2026",
+  "title": "2026-06-22",
   "words": [
     {
-      "clue": "Moving your body to stay fit",
-      "answer": "EXERCISE",
-      "row": 4,
-      "col": 1,
+      "clue": "Ocean animal with stinging tentacles",
+      "answer": "JELLYFISH",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tiny living thing you need a microscope to see",
-      "answer": "BACTERIA",
-      "row": 2,
-      "col": 5,
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 7,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Family tree diagram",
-      "answer": "PEDIGREE",
+      "clue": "Prayer place for Jews",
+      "answer": "TEMPLE",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you get ice cream",
+      "answer": "PARLOR",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Colorful part of a plant that makes seeds",
+      "answer": "PETAL",
       "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Ocean between America and Asia",
-      "answer": "PACIFIC",
-      "row": 9,
-      "col": 4,
+      "clue": "Sticky bandage",
+      "answer": "PATCH",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Vegetable that grows on a vine",
-      "answer": "SQUASH",
-      "row": 0,
+      "clue": "Grass color",
+      "answer": "GREEN",
+      "row": 8,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Round white vegetable",
-      "answer": "ONION",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
+      "clue": "Tiny floating sea life",
+      "answer": "DRIFT",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "Storage space under the roof",
-      "answer": "ATTIC",
-      "row": 6,
+      "clue": "Light bulb wire",
+      "answer": "WIRE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Wool comes from this fluffy animal",
-      "answer": "SHEEP",
+      "clue": "Day of atonement",
+      "answer": "FAST",
       "row": 0,
-      "col": 7,
-      "direction": "across"
+      "col": 5,
+      "direction": "down"
     }
   ],
-  "dayNumber": 11
+  "dayNumber": 10
 }

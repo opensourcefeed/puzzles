@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-07-31",
   "date": "2026-07-31",
-  "title": "31 July 2026",
+  "title": "2026-07-31",
   "words": [
     {
-      "clue": "Tiny blood vessels in the body",
-      "answer": "CAPILLARY",
-      "row": 6,
-      "col": 0,
+      "clue": "Does experiments for a living",
+      "answer": "SCIENTIST",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Paddling through water",
-      "answer": "SWIMMING",
-      "row": 4,
+      "clue": "Flying vehicle with wings",
+      "answer": "AIRPLANE",
+      "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling scared",
-      "answer": "AFRAID",
+      "clue": "Mattresses have metal coils",
+      "answer": "SPRING",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Island country in Asia",
+      "answer": "TAIWAN",
       "row": 6,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where Christians pray",
-      "answer": "CHURCH",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
-      "row": 4,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Green vegetable rabbits love",
-      "answer": "CARROT",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Grate cheese with this",
-      "answer": "GRATER",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Hindu festival of lights",
-      "answer": "DIWALI",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Amount of money something costs",
-      "answer": "PRICE",
-      "row": 0,
+      "clue": "Time after sunset",
+      "answer": "NIGHT",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Smallest unit of computer data",
-      "answer": "BIT",
-      "row": 2,
-      "col": 4,
+      "clue": "Ice cream shop",
+      "answer": "SHOP",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Circus big tent",
+      "answer": "TENT",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Temp care for child",
+      "answer": "CARE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Digital money",
+      "answer": "COIN",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Magnifying glass",
+      "answer": "LENS",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     }
   ],
-  "dayNumber": 50
+  "dayNumber": 49
 }

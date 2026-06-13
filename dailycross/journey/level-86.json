@@ -1,0 +1,87 @@
+{
+  "id": "journey-level-86",
+  "level": 86,
+  "title": "Level 86",
+  "words": [
+    {
+      "clue": "Ocean bird that dives for fish",
+      "answer": "SEAGULL",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Delivers mail to homes",
+      "answer": "MAILMAN",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where kings and queens live",
+      "answer": "PALACE",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Pair of married people",
+      "answer": "COUPLE",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Pen for drawing on tablets",
+      "answer": "STYLUS",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Night color",
+      "answer": "BLACK",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Serve food on this",
+      "answer": "PLATE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Money from a job",
+      "answer": "CASH",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sky color",
+      "answer": "BLUE",
+      "row": 10,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Sure of yourself",
+      "answer": "BOLD",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 11,
+  "targetWords": 16,
+  "difficulty": "medium"
+}

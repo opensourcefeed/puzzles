@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-11-07",
   "date": "2026-11-07",
-  "title": "7 November 2026",
+  "title": "2026-11-07",
   "words": [
     {
-      "clue": "Break concrete with this",
-      "answer": "JACKHAMMER",
-      "row": 4,
+      "clue": "Does experiments for a living",
+      "answer": "SCIENTIST",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where firefighters work",
+      "answer": "FIREHOUSE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Lizard that changes color",
+      "answer": "CHAMELEON",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Large ocean wave from earthquake",
+      "answer": "TSUNAMI",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Flip pancakes with this",
+      "answer": "SPATULA",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Ocean around Antarctica",
-      "answer": "SOUTHERN",
+      "clue": "Game played with racket and yellow ball",
+      "answer": "TENNIS",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you eat meals",
+      "answer": "DINING",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling uncertain",
-      "answer": "UNSURE",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Money paid to workers per year",
-      "answer": "SALARY",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Lift heavy objects",
-      "answer": "CRANE",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Color of ash and smoke",
-      "answer": "GRAY",
-      "row": 8,
+      "clue": "You put a mattress on this",
+      "answer": "FRAME",
+      "row": 1,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Fern plant with feathery leaves",
-      "answer": "FERN",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Pour milk from this",
-      "answer": "JUG",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
     }
   ],
-  "dayNumber": 149
+  "dayNumber": 148
 }

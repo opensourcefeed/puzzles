@@ -1,0 +1,52 @@
+{
+  "id": "journey-level-23",
+  "level": 23,
+  "title": "Level 23",
+  "words": [
+    {
+      "clue": "Celebration of a marriage",
+      "answer": "WEDDING",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Happy and bright",
+      "answer": "BRIGHT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Fallen leaves on ground",
+      "answer": "LEAVES",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Vegetable that grows on a vine",
+      "answer": "SQUASH",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Fine dish material",
+      "answer": "CHINA",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Card with money on it",
+      "answer": "CARD",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 6,
+  "targetWords": 8,
+  "difficulty": "easy"
+}

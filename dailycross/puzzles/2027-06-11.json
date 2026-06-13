@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2027-06-11",
   "date": "2027-06-11",
-  "title": "11 June 2027",
+  "title": "2027-06-11",
   "words": [
     {
-      "clue": "Computer virus protection",
-      "answer": "ANTIVIRUS",
-      "row": 1,
+      "clue": "Day after today",
+      "answer": "TOMORROW",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Teaches dogs new skills",
-      "answer": "TRAINER",
-      "row": 1,
+      "clue": "Repairs pipes and water",
+      "answer": "PLUMBER",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Bacteria that turns milk into yogurt",
-      "answer": "CULTURE",
+      "clue": "Decorates rooms",
+      "answer": "PAINTER",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Spicy root used in cooking",
+      "answer": "GINGER",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "How fast something moves",
+      "answer": "SPEED",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Makes medicine",
+      "answer": "MAKER",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Polish metal with a buffer",
-      "answer": "BUFFER",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Keep drinks cold in this",
-      "answer": "COOLER",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean animal with a shell",
-      "answer": "TURTLE",
+      "clue": "Quality passed down in families",
+      "answer": "TRAIT",
       "row": 2,
-      "col": 11,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Yellow vegetable on a cob",
-      "answer": "CORN",
-      "row": 5,
+      "clue": "You put a mattress on this",
+      "answer": "FRAME",
+      "row": 0,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Set of words and music together",
+      "answer": "SONG",
+      "row": 8,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Keep bugs away from food",
-      "answer": "NET",
-      "row": 2,
-      "col": 9,
-      "direction": "across"
+      "clue": "Soft white building rock",
+      "answer": "ROCK",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
     }
   ],
-  "dayNumber": 365
+  "dayNumber": 364
 }

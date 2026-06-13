@@ -1,0 +1,45 @@
+{
+  "id": "journey-level-12",
+  "level": 12,
+  "title": "Level 12",
+  "words": [
+    {
+      "clue": "Country with Singapore city",
+      "answer": "SINGAPORE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Volcano erupts with this",
+      "answer": "ERUPTION",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Australian animal that hops",
+      "answer": "KANGAROO",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Closest planet to the sun",
+      "answer": "MERCURY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You store clothes in this",
+      "answer": "CLOSET",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 5,
+  "targetWords": 6,
+  "difficulty": "easy"
+}

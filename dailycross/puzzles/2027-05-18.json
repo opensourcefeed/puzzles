@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-05-18",
   "date": "2027-05-18",
-  "title": "18 May 2027",
+  "title": "2027-05-18",
   "words": [
     {
-      "clue": "Liquid used to clean a wound",
-      "answer": "ANTISEPTIC",
-      "row": 3,
+      "clue": "Person who travels to space",
+      "answer": "ASTRONAUT",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cut paper with this",
-      "answer": "SCISSORS",
-      "row": 3,
+      "clue": "Ocean around Antarctica",
+      "answer": "SOUTHERN",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Place where boats park",
-      "answer": "MARINA",
+      "clue": "Arrowhead shape",
+      "answer": "DIAMOND",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Diamond shape",
+      "answer": "SLANT",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Flat cooking surface",
+      "answer": "GRILL",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Very surprised",
+      "answer": "SHOCK",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Washing hands is this",
+      "answer": "CLEAN",
       "row": 2,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Place where Muslims pray",
-      "answer": "MOSQUE",
-      "row": 6,
+      "clue": "You walk on these",
+      "answer": "FEET",
+      "row": 2,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Card that lets you buy now and pay later",
-      "answer": "CREDIT",
-      "row": 4,
-      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Pipes are made of this reddish metal",
-      "answer": "COPPER",
+      "clue": "Plant trees day",
+      "answer": "SEED",
       "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Brightly colored garden flower",
-      "answer": "TULIP",
-      "row": 9,
-      "col": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Thirty or thirty-one days",
-      "answer": "MONTH",
+      "clue": "Female part of a flower",
+      "answer": "SEED",
       "row": 0,
-      "col": 2,
+      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "Ocean fish with a long body",
-      "answer": "EEL",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
     }
   ],
-  "dayNumber": 341
+  "dayNumber": 340
 }

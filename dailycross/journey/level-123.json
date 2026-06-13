@@ -1,0 +1,129 @@
+{
+  "id": "journey-level-123",
+  "level": 123,
+  "title": "Level 123",
+  "words": [
+    {
+      "clue": "Builds with wood",
+      "answer": "CARPENTER",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where firefighters work",
+      "answer": "FIREHOUSE",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Heavy snowstorm with wind",
+      "answer": "BLIZZARD",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who lives next door",
+      "answer": "NEIGHBOR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "You type on this",
+      "answer": "KEYBOARD",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Tallest land animal",
+      "answer": "GIRAFFE",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle with two wheels and a motor",
+      "answer": "SCOOTER",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "You open to let in light",
+      "answer": "WINDOW",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Grate cheese with this",
+      "answer": "GRATER",
+      "row": 12,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Breathing trouble",
+      "answer": "WHEEZE",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean animal with a shell",
+      "answer": "TURTLE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny seed powder from flowers",
+      "answer": "POLLEN",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Orange citrus fruit",
+      "answer": "ORANGE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Hold paper towels on this",
+      "answer": "HOLDER",
+      "row": 5,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Stage of a butterfly",
+      "answer": "COCOON",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Temperature scale",
+      "answer": "SCALE",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "March green day",
+      "answer": "GREEN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 17,
+  "targetWords": 21,
+  "difficulty": "hard"
+}

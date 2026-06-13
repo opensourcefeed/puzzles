@@ -1,0 +1,87 @@
+{
+  "id": "journey-level-71",
+  "level": 71,
+  "title": "Level 71",
+  "words": [
+    {
+      "clue": "Make coffee in this",
+      "answer": "COFFEEPOT",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Loud sound after lightning",
+      "answer": "THUNDER",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Celebration of a new year",
+      "answer": "NEWYEAR",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Repairs pipes and water",
+      "answer": "PLUMBER",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Grows crops on a farm",
+      "answer": "FARMER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where a doctor works",
+      "answer": "CLINIC",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Island country in Asia",
+      "answer": "TAIWAN",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Three babies born together",
+      "answer": "TRIPLE",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Crunchy green vegetable with stalks",
+      "answer": "CELERY",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Storage space under the roof",
+      "answer": "ATTIC",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Punch holes in paper",
+      "answer": "PUNCH",
+      "row": 6,
+      "col": 10,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 11,
+  "targetWords": 14,
+  "difficulty": "medium"
+}

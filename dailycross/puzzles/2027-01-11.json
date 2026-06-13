@@ -1,78 +1,57 @@
 {
   "id": "dailycross-2027-01-11",
   "date": "2027-01-11",
-  "title": "11 January 2027",
+  "title": "2027-01-11",
   "words": [
     {
-      "clue": "Medicine that kills bacteria",
-      "answer": "ANTIBIOTIC",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Decorates rooms and houses",
-      "answer": "DECORATOR",
+      "clue": "Feeling full of hope",
+      "answer": "HOPEFUL",
       "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Store dry food in this",
-      "answer": "CANISTER",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Protector of a child",
-      "answer": "GUARDIAN",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Small wind instrument held sideways",
-      "answer": "RECORDER",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor teachers",
-      "answer": "TEACHERS",
-      "row": 2,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Swim eye wear",
-      "answer": "GOGGLES",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Drives a vehicle for hire",
-      "answer": "DRIVER",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "World smile day",
-      "answer": "SMILE",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Teacher writes on this",
-      "answer": "BOARD",
-      "row": 0,
-      "col": 11,
+      "clue": "Place where you sleep",
+      "answer": "BEDROOM",
+      "row": 1,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Place where Muslims pray",
+      "answer": "MOSQUE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Video recording device",
+      "answer": "CAMERA",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Mix of two metals",
+      "answer": "BRONZE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Invisible power that attracts metal",
+      "answer": "MAGNET",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Turn tight bolts",
+      "answer": "GRIP",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
     }
   ],
-  "dayNumber": 214
+  "dayNumber": 213
 }

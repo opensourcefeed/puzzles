@@ -1,0 +1,52 @@
+{
+  "id": "journey-level-14",
+  "level": 14,
+  "title": "Level 14",
+  "words": [
+    {
+      "clue": "Machine that washes dishes",
+      "answer": "DISHWASHER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Small ocean crustacean",
+      "answer": "SHRIMP",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "August independence of India",
+      "answer": "AUGUST",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Measure length with this",
+      "answer": "RULER",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Eat soup with this",
+      "answer": "SPOON",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Shaking from cold",
+      "answer": "SHAKE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 6,
+  "targetWords": 7,
+  "difficulty": "easy"
+}

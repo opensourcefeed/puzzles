@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-06-27",
   "date": "2026-06-27",
-  "title": "27 June 2026",
+  "title": "2026-06-27",
   "words": [
     {
-      "clue": "Store leftovers in this",
-      "answer": "CONTAINER",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Cook food in the oven in this",
-      "answer": "ROASTER",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Device that helps you see",
-      "answer": "GLASSES",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of paper proving payment",
-      "answer": "RECEIPT",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a horse lives",
-      "answer": "STABLE",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very glad",
-      "answer": "HAPPY",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Carry groceries in these",
-      "answer": "BAGS",
+      "clue": "Cardboard is thick paper",
+      "answer": "CARDBOARD",
       "row": 2,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "What a tadpole becomes",
-      "answer": "FROG",
-      "row": 3,
+      "clue": "Freeze food in this",
+      "answer": "FREEZER",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Fastest land animal",
+      "answer": "CHEETAH",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Wireless internet connection",
-      "answer": "WIFI",
+      "clue": "Organ that filters blood",
+      "answer": "KIDNEY",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You hear with these",
+      "answer": "EARS",
       "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Small rowing water vehicle",
+      "answer": "BOAT",
+      "row": 7,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Set of words and music together",
+      "answer": "SONG",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     }
   ],
-  "dayNumber": 16
+  "dayNumber": 15
 }

@@ -1,0 +1,115 @@
+{
+  "id": "journey-level-122",
+  "level": 122,
+  "title": "Level 122",
+  "words": [
+    {
+      "clue": "Math calculation tool",
+      "answer": "CALCULATOR",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Frozen sweet treat",
+      "answer": "ICECREAM",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Brother or sister",
+      "answer": "SIBLING",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "What plants breathe in",
+      "answer": "CARBON",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you bake bread",
+      "answer": "BAKERY",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Lives more than one year",
+      "answer": "YEARLY",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Yellow curved fruit",
+      "answer": "BANANA",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Removes pencil marks",
+      "answer": "ERASER",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Big family everyone",
+      "answer": "TRIBE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Coin worth 1 cent",
+      "answer": "PENNY",
+      "row": 5,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Horse-drawn carriage",
+      "answer": "WAGON",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Goes around something",
+      "answer": "ORBIT",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Space rock that hits Earth",
+      "answer": "ROCK",
+      "row": 7,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Dark blue like the deep sea",
+      "answer": "NAVY",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Female part of a flower",
+      "answer": "SEED",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 15,
+  "targetWords": 21,
+  "difficulty": "hard"
+}

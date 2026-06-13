@@ -1,0 +1,52 @@
+{
+  "id": "journey-level-8",
+  "level": 8,
+  "title": "Level 8",
+  "words": [
+    {
+      "clue": "Game played with shuttlecock",
+      "answer": "BADMINTON",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Flip pancakes with this",
+      "answer": "SPATULA",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Two-wheeled vehicle you pedal",
+      "answer": "BICYCLE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you eat meals",
+      "answer": "DINING",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Your aunt's child",
+      "answer": "COUSIN",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A woman on her wedding day",
+      "answer": "BRIDE",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 6,
+  "targetWords": 6,
+  "difficulty": "easy"
+}

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-11-21",
   "date": "2026-11-21",
-  "title": "21 November 2026",
+  "title": "2026-11-21",
   "words": [
     {
-      "clue": "Written family history",
-      "answer": "GENEALOGY",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Colorful ocean fish with stripes",
-      "answer": "CLOWNFISH",
+      "clue": "Tall building in a city",
+      "answer": "SKYSCRAPER",
       "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Four sides with right angles",
-      "answer": "RECTANGLE",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Tighten bolts with this",
-      "answer": "WRENCH",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Oslo",
-      "answer": "NORWAY",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Female part of a flower",
-      "answer": "PISTIL",
-      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sharpen knives on this",
-      "answer": "STONE",
+      "clue": "Country known for tulips",
+      "answer": "HOLLAND",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Cleans schools and offices",
+      "answer": "JANITOR",
       "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Tells time on wrist",
-      "answer": "WATCH",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Unit of electric resistance",
-      "answer": "OHM",
-      "row": 3,
-      "col": 3,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Chinese new year symbol",
+      "answer": "DRAGON",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Country known for tacos",
+      "answer": "MEXICO",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Summer top for boys",
+      "answer": "SHIRT",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewish new year",
+      "answer": "SHANA",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Read across America day",
+      "answer": "READ",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Spinning wind storm",
+      "answer": "WIND",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
-  "dayNumber": 163
+  "dayNumber": 162
 }

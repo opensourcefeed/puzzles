@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-12-14",
   "date": "2026-12-14",
-  "title": "14 December 2026",
+  "title": "2026-12-14",
   "words": [
     {
-      "clue": "Feeling very surprised",
-      "answer": "ASTONISHED",
-      "row": 2,
+      "clue": "Subject about the world",
+      "answer": "GEOGRAPHY",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Online building game",
-      "answer": "MINECRAFT",
-      "row": 1,
-      "col": 5,
+      "clue": "Place where firefighters work",
+      "answer": "FIREHOUSE",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "December 25 celebration",
-      "answer": "CHRISTMAS",
-      "row": 1,
+      "clue": "Teenager 13-19 years old",
+      "answer": "TEENAGER",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Buttons are often made of this",
+      "answer": "PLASTIC",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Regular exercise keeps you this",
-      "answer": "HEALTHY",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Harvest celebration",
-      "answer": "HARVEST",
-      "row": 8,
-      "col": 6,
+      "clue": "Country known for tacos",
+      "answer": "MEXICO",
+      "row": 11,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Place where you sleep",
-      "answer": "BEDROOM",
-      "row": 0,
+      "clue": "Place where a king rules",
+      "answer": "CASTLE",
+      "row": 5,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Spicy root used in cooking",
-      "answer": "GINGER",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 3,
-      "col": 2,
+      "clue": "Heart check machine",
+      "answer": "WATCH",
+      "row": 0,
+      "col": 7,
       "direction": "down"
-    },
-    {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
-      "row": 4,
-      "col": 8,
-      "direction": "across"
     }
   ],
-  "dayNumber": 186
+  "dayNumber": 185
 }

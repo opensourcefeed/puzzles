@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-05-28",
   "date": "2027-05-28",
-  "title": "28 May 2027",
+  "title": "2027-05-28",
   "words": [
     {
-      "clue": "Place where you eat out",
-      "answer": "RESTAURANT",
+      "clue": "Pack lunch in this",
+      "answer": "LUNCHBOX",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You put your feet on this rest",
-      "answer": "FOOTREST",
+      "clue": "Memorial Day remembers soldiers",
+      "answer": "MEMORIAL",
       "row": 1,
-      "col": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Vitamin that helps with vision",
-      "answer": "VITAMINA",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Wipe counters with this",
-      "answer": "SPONGE",
-      "row": 7,
+      "clue": "Place where you sleep",
+      "answer": "BEDROOM",
+      "row": 2,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Your male parent",
-      "answer": "FATHER",
-      "row": 0,
+      "clue": "Google mobile operating system",
+      "answer": "ANDROID",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Loop of water from sky to ground and back",
-      "answer": "CYCLE",
+      "clue": "Small blue wildflower",
+      "answer": "VIOLET",
       "row": 6,
-      "col": 0,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Night color",
-      "answer": "BLACK",
-      "row": 3,
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 0,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Muslim holiday after Ramadan",
-      "answer": "EID",
-      "row": 2,
-      "col": 7,
+      "clue": "Temperature scale",
+      "answer": "SCALE",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Blood color",
-      "answer": "RED",
-      "row": 6,
-      "col": 10,
+      "clue": "Art class tool",
+      "answer": "BRUSH",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Can't see well",
+      "answer": "BLUR",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "You hang a picture on this",
+      "answer": "HOOK",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     }
   ],
-  "dayNumber": 351
+  "dayNumber": 350
 }

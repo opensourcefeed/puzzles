@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-07-29",
   "date": "2026-07-29",
-  "title": "29 July 2026",
+  "title": "2026-07-29",
   "words": [
     {
-      "clue": "Large group of musicians",
-      "answer": "ORCHESTRA",
-      "row": 3,
-      "col": 0,
+      "clue": "Social media photo app",
+      "answer": "INSTAGRAM",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Top part of your arm",
-      "answer": "SHOULDER",
-      "row": 3,
+      "clue": "You hang a mirror on this",
+      "answer": "DRESSER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Harvest celebration",
+      "answer": "HARVEST",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Family member from long ago",
-      "answer": "ANCESTOR",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling surprised",
-      "answer": "SHOCKED",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Three children born at once",
-      "answer": "TRIPLET",
-      "row": 9,
+      "clue": "Pour dressing from this",
+      "answer": "BOTTLE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Mash potatoes with this",
-      "answer": "MASHER",
-      "row": 7,
-      "col": 6,
+      "clue": "Country with Cairo",
+      "answer": "EGYPT",
+      "row": 6,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Wear this to protect clothes",
-      "answer": "APRON",
-      "row": 1,
-      "col": 1,
+      "clue": "Tells time on wrist",
+      "answer": "WATCH",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Stomach entrance",
-      "answer": "BELLY",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Sleeping helps you rest and recover",
-      "answer": "REST",
+      "clue": "Bright object moving through space",
+      "answer": "COMET",
       "row": 0,
-      "col": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Performs in movies or plays",
+      "answer": "ACTOR",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Music speed",
+      "answer": "BEAT",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Plant food from dirt",
+      "answer": "SOIL",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "dayNumber": 48
+  "dayNumber": 47
 }

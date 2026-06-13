@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-09-22",
   "date": "2026-09-22",
-  "title": "22 September 2026",
+  "title": "2026-09-22",
   "words": [
     {
-      "clue": "Ocean bird that dives for fish",
-      "answer": "SEAGULL",
+      "clue": "Head-worn audio device",
+      "answer": "HEADPHONES",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Room where you work at home",
-      "answer": "OFFICE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Fitness tracking wristband",
-      "answer": "FITBIT",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean creature with two shells",
-      "answer": "MUSSEL",
+      "clue": "Portable phone charger",
+      "answer": "POWERBANK",
       "row": 4,
-      "col": 4,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Boil water in this",
-      "answer": "KETTLE",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Blow leaves with this",
-      "answer": "BLOWER",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean mammal with tusks",
-      "answer": "WALRUS",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on foot inside shoe",
-      "answer": "SHOE",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Keep bugs away from food",
-      "answer": "NET",
+      "clue": "Very tall natural land feature",
+      "answer": "MOUNTAIN",
       "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Room below your house",
+      "answer": "BASEMENT",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Garden border plant",
+      "answer": "HEDGE",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Flies airplanes",
+      "answer": "PILOT",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Email folder for new messages",
+      "answer": "INBOX",
+      "row": 3,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Washing hands is this",
+      "answer": "CLEAN",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You sit on a tall one at a counter",
+      "answer": "STOOL",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "dayNumber": 103
+  "dayNumber": 102
 }

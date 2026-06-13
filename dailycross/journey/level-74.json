@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-74",
+  "level": 74,
+  "title": "Level 74",
+  "words": [
+    {
+      "clue": "Two-wheeled motor vehicle",
+      "answer": "MOTORCYCLE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Date you were born",
+      "answer": "BIRTHDAY",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Group of people related by blood",
+      "answer": "FAMILY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You cover the floor with this",
+      "answer": "CARPET",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You store clothes in this",
+      "answer": "CLOSET",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "White sky fluff",
+      "answer": "CLOUD",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Guards a building",
+      "answer": "GUARD",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Top of the oven for cooking",
+      "answer": "STOVE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Breathing help device",
+      "answer": "MASK",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Pencil made of this",
+      "answer": "LEAD",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Mix paint with this stick",
+      "answer": "STIR",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Twelve months",
+      "answer": "YEAR",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 15,
+  "difficulty": "medium"
+}

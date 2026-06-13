@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-04-20",
   "date": "2027-04-20",
-  "title": "20 April 2027",
+  "title": "2027-04-20",
   "words": [
     {
-      "clue": "Digital watch with apps",
-      "answer": "SMARTWATCH",
-      "row": 7,
-      "col": 1,
+      "clue": "Lizard that changes color",
+      "answer": "CHAMELEON",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Feeling sad without energy",
-      "answer": "DEPRESSED",
-      "row": 4,
-      "col": 4,
+      "clue": "Place where airplanes land",
+      "answer": "AIRPORT",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 6,
+      "clue": "Closest planet to the sun",
+      "answer": "MERCURY",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Money you save for the future",
-      "answer": "SAVINGS",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
+      "clue": "Pour dressing from this",
+      "answer": "BOTTLE",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "Flat high area of land",
-      "answer": "PLATEAU",
-      "row": 5,
+      "clue": "Team sport played with feet",
+      "answer": "SOCCER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ocean between America and Asia",
-      "answer": "PACIFIC",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Hanoi",
-      "answer": "VIETNAM",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Newborn baby",
-      "answer": "INFANT",
-      "row": 1,
-      "col": 2,
+      "clue": "Climb up high with this",
+      "answer": "LADDER",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Keep food cold in this",
-      "answer": "FRIDGE",
-      "row": 6,
-      "col": 11,
+      "clue": "Trains athletes",
+      "answer": "COACH",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "You put a TV on this",
-      "answer": "STAND",
-      "row": 7,
-      "col": 1,
+      "clue": "Salty snack often eaten with dip",
+      "answer": "CHIPS",
+      "row": 0,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Ocean fish that swims in schools",
+      "answer": "TUNA",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
     }
   ],
-  "dayNumber": 313
+  "dayNumber": 312
 }

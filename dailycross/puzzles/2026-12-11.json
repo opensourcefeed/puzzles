@@ -1,64 +1,57 @@
 {
   "id": "dailycross-2026-12-11",
   "date": "2026-12-11",
-  "title": "11 December 2026",
+  "title": "2026-12-11",
   "words": [
     {
-      "clue": "Space rock that hits Earth",
-      "answer": "METEORITE",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Magnifying lens",
-      "answer": "MAGNIFIER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Light bulbs have a thin filament",
-      "answer": "FILAMENT",
+      "clue": "Drill holes with this",
+      "answer": "DRILL",
       "row": 1,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Country with Helsinki",
-      "answer": "FINLAND",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Money you save for the future",
-      "answer": "SAVINGS",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Winter outerwear",
-      "answer": "COAT",
+      "clue": "Underwater mountain chain",
+      "answer": "RIDGE",
       "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Weed the garden with this",
-      "answer": "HOE",
-      "row": 2,
-      "col": 8,
+      "clue": "Living thing that makes its own food",
+      "answer": "PLANT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Leather comes from animal skin",
+      "answer": "HIDE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Deep ocean valley",
+      "answer": "DEEP",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Jewish New Year",
+      "answer": "ROSH",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Cook food in this",
+      "answer": "POT",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     }
   ],
-  "dayNumber": 183
+  "dayNumber": 182
 }

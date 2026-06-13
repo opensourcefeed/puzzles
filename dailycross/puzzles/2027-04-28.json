@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-04-28",
   "date": "2027-04-28",
-  "title": "28 April 2027",
+  "title": "2027-04-28",
   "words": [
     {
-      "clue": "Fine china is made of this",
-      "answer": "PORCELAIN",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Creates cartoons and animations",
-      "answer": "ANIMATOR",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut metal with this",
-      "answer": "HACKSAW",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Helsinki",
-      "answer": "FINLAND",
-      "row": 4,
-      "col": 6,
+      "clue": "Police building",
+      "answer": "STATION",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Seventh planet from the sun",
       "answer": "URANUS",
-      "row": 6,
+      "row": 3,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Narrow body of water between lands",
-      "answer": "STRAIT",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Tells time on wrist",
-      "answer": "WATCH",
+      "clue": "Fallen leaves on ground",
+      "answer": "LEAVES",
       "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You write with this",
+      "answer": "PENCIL",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Game played with racket and yellow ball",
+      "answer": "TENNIS",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Special diet food",
+      "answer": "GRAIN",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Magnifying tool",
+      "answer": "LENS",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Leather comes from animal skin",
+      "answer": "HIDE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Garden decoration statue",
-      "answer": "GNOME",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Shiny yellow metal",
-      "answer": "GOLD",
-      "row": 1,
+      "clue": "Red planet in our solar system",
+      "answer": "MARS",
+      "row": 8,
       "col": 2,
-      "direction": "down"
+      "direction": "across"
     }
   ],
-  "dayNumber": 321
+  "dayNumber": 320
 }

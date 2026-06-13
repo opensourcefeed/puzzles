@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2027-01-17",
   "date": "2027-01-17",
-  "title": "17 January 2027",
+  "title": "2027-01-17",
   "words": [
     {
-      "clue": "Creates new things",
-      "answer": "INVENTOR",
+      "clue": "Regular exercise keeps you this",
+      "answer": "HEALTHY",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sport where you throw a long metal stick",
-      "answer": "JAVELIN",
-      "row": 3,
+      "clue": "Country with London",
+      "answer": "ENGLAND",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat high area of land",
+      "answer": "PLATEAU",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Arrowhead shape",
-      "answer": "DIAMOND",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Song that celebrates a country",
-      "answer": "ANTHEM",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Fallen leaves that rot",
-      "answer": "LITTER",
+      "clue": "Game console by Nintendo",
+      "answer": "SWITCH",
       "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 3,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Color of ash and smoke",
-      "answer": "GRAY",
-      "row": 2,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Country of kiwi birds",
-      "answer": "NEW",
-      "row": 8,
-      "col": 4,
+      "clue": "Place where a doctor works",
+      "answer": "CLINIC",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Weed the garden with this",
-      "answer": "HOE",
-      "row": 8,
-      "col": 0,
+      "clue": "Flies airplanes",
+      "answer": "PILOT",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Two babies born together",
+      "answer": "TWINS",
+      "row": 7,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Daughter's daughter",
+      "answer": "GIRL",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
     }
   ],
-  "dayNumber": 220
+  "dayNumber": 219
 }

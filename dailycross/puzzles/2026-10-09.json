@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-10-09",
   "date": "2026-10-09",
-  "title": "9 October 2026",
+  "title": "2026-10-09",
   "words": [
-    {
-      "clue": "Pencils contain this slippery mineral",
-      "answer": "GRAPHITE",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
     {
       "clue": "Cut paper with this",
       "answer": "SCISSORS",
       "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn around wrist as accessory",
-      "answer": "BRACELET",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 1,
-      "col": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Green vegetable rabbits love",
-      "answer": "CARROT",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Protects the community",
-      "answer": "POLICE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Silent aircraft with no engine",
-      "answer": "GLIDER",
+      "clue": "Strong wind storm",
+      "answer": "TORNADO",
       "row": 0,
-      "col": 11,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You eat with this",
-      "answer": "MOUTH",
+      "clue": "Feeling very interested",
+      "answer": "CURIOUS",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Large frozen area of ice",
+      "answer": "GLACIER",
       "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Leafy green vegetable",
+      "answer": "SPINACH",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Two or more atoms together",
+      "answer": "PAIR",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Medicine for sickness",
+      "answer": "CURE",
+      "row": 2,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Ocean current that warms Europe",
-      "answer": "GULF",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
+      "clue": "Sony game system",
+      "answer": "GAME",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "dayNumber": 120
+  "dayNumber": 119
 }

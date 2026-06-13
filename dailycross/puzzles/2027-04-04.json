@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-04-04",
   "date": "2027-04-04",
-  "title": "4 April 2027",
+  "title": "2027-04-04",
   "words": [
     {
-      "clue": "October 31 celebration",
-      "answer": "HALLOWEEN",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "December 25 celebration",
-      "answer": "CHRISTMAS",
+      "clue": "Large ocean wave from earthquake",
+      "answer": "TSUNAMI",
       "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Breakfast egg dish",
-      "answer": "OMELET",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Seventh planet from the sun",
-      "answer": "URANUS",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Bright object moving through space",
-      "answer": "COMET",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Test electrical current",
-      "answer": "METER",
-      "row": 7,
-      "col": 4,
+      "clue": "Celebration of a new year",
+      "answer": "NEWYEAR",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Cut wood with this",
-      "answer": "SAW",
-      "row": 0,
-      "col": 4,
+      "clue": "Place where kings and queens live",
+      "answer": "PALACE",
+      "row": 8,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Global positioning system",
-      "answer": "GPS",
-      "row": 0,
-      "col": 9,
+      "clue": "Material that blocks electricity",
+      "answer": "RUBBER",
+      "row": 4,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Red salad vegetable",
+      "answer": "TOMATO",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Mexican dead day",
+      "answer": "SKULL",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to celebrate the arts",
+      "answer": "ARTS",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Underground cave formation",
+      "answer": "CAVE",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country of kiwi birds",
+      "answer": "NEW",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "dayNumber": 297
+  "dayNumber": 296
 }

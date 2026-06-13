@@ -1,0 +1,66 @@
+{
+  "id": "journey-level-25",
+  "level": 25,
+  "title": "Level 25",
+  "words": [
+    {
+      "clue": "February celebration of presidents",
+      "answer": "PRESIDENTS",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Computer virus protection",
+      "answer": "ANTIVIRUS",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "You type on this",
+      "answer": "KEYBOARD",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Table surface for food prep",
+      "answer": "COUNTER",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "First month of the year",
+      "answer": "JANUARY",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where kings and queens live",
+      "answer": "PALACE",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Getting money back when you return something",
+      "answer": "REFUND",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very proud",
+      "answer": "PROUD",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 8,
+  "targetWords": 8,
+  "difficulty": "easy"
+}

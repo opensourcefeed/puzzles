@@ -1,0 +1,150 @@
+{
+  "id": "journey-level-144",
+  "level": 144,
+  "title": "Level 144",
+  "words": [
+    {
+      "clue": "Portable phone charger",
+      "answer": "POWERBANK",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where buses arrive",
+      "answer": "TERMINAL",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You keep dishes in this",
+      "answer": "CUPBOARD",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling able to wait",
+      "answer": "PATIENT",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Frog's early stage in water",
+      "answer": "TADPOLE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Fastest land animal",
+      "answer": "CHEETAH",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Set of instructions for a computer",
+      "answer": "PROGRAM",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Country known for tulips",
+      "answer": "HOLLAND",
+      "row": 4,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Peel potatoes with this",
+      "answer": "PEELER",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Hindu festival of lights",
+      "answer": "DIWALI",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Studies plants",
+      "answer": "GROWER",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Grows crops on a farm",
+      "answer": "FARMER",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "You open to let in light",
+      "answer": "WINDOW",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Breaks between classes",
+      "answer": "RECESS",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Goes around something",
+      "answer": "ORBIT",
+      "row": 13,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Diamond shape",
+      "answer": "SLANT",
+      "row": 11,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Material inside a wire",
+      "answer": "METAL",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Thirty or thirty-one days",
+      "answer": "MONTH",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewish New Year",
+      "answer": "ROSH",
+      "row": 11,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Water plants with this",
+      "answer": "HOSE",
+      "row": 14,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 20,
+  "targetWords": 24,
+  "difficulty": "hard"
+}

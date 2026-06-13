@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-03-14",
   "date": "2027-03-14",
-  "title": "14 March 2027",
+  "title": "2027-03-14",
   "words": [
     {
-      "clue": "Ocean creature with horseshoe shape",
-      "answer": "HORSESHOE",
+      "clue": "Country with London",
+      "answer": "ENGLAND",
       "row": 5,
-      "col": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Worn around wrist as accessory",
-      "answer": "BRACELET",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean animal that looks like a plant",
-      "answer": "ANEMONE",
+      "clue": "Intelligent ocean mammal",
+      "answer": "DOLPHIN",
       "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Large grassy plain with few trees",
-      "answer": "SAVANNA",
-      "row": 3,
+      "clue": "Organ that filters blood",
+      "answer": "KIDNEY",
+      "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Money a business makes after costs",
-      "answer": "PROFIT",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
+      "clue": "Colorful garden bloom",
+      "answer": "FLOWER",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "World environment day",
-      "answer": "WORLD",
-      "row": 4,
+      "clue": "Crunchy green vegetable with stalks",
+      "answer": "CELERY",
+      "row": 7,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Machine that takes pictures of bones",
-      "answer": "XRAY",
-      "row": 1,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "You walk on these",
-      "answer": "FEET",
-      "row": 9,
-      "col": 6,
+      "clue": "Science building",
+      "answer": "SCHOOL",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Carry groceries in these",
-      "answer": "BAGS",
+      "clue": "Giant rock that comes from space",
+      "answer": "METEOR",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You click with this",
+      "answer": "MOUSE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You eat with this",
+      "answer": "MOUTH",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Change from solid to gas",
+      "answer": "BOIL",
       "row": 0,
       "col": 6,
       "direction": "down"
     }
   ],
-  "dayNumber": 276
+  "dayNumber": 275
 }

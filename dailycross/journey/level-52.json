@@ -1,0 +1,87 @@
+{
+  "id": "journey-level-52",
+  "level": 52,
+  "title": "Level 52",
+  "words": [
+    {
+      "clue": "Game played with shuttlecock",
+      "answer": "BADMINTON",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Repairs pipes and water",
+      "answer": "PLUMBER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Flip pancakes with this",
+      "answer": "SPATULA",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "String instrument with six strings",
+      "answer": "GUITAR",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Underground train system",
+      "answer": "SUBWAY",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Creates paintings or drawings",
+      "answer": "ARTIST",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Hindu festival of lights",
+      "answer": "DIWALI",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Stomach entrance",
+      "answer": "BELLY",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "White sky fluff",
+      "answer": "CLOUD",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Deep skin wound",
+      "answer": "GASH",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Loving something a lot",
+      "answer": "LOVE",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 11,
+  "targetWords": 12,
+  "difficulty": "medium"
+}

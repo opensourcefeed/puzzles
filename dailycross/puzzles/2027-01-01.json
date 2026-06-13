@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-01-01",
   "date": "2027-01-01",
-  "title": "1 January 2027",
+  "title": "2027-01-01",
   "words": [
     {
-      "clue": "Machine that takes pictures of organs",
-      "answer": "ULTRASOUND",
-      "row": 5,
+      "clue": "Big gray animal with trunk",
+      "answer": "ELEPHANT",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling apathetic",
-      "answer": "APATHETIC",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where firefighters work",
-      "answer": "FIREHOUSE",
+      "clue": "Place where athletes play",
+      "answer": "STADIUM",
       "row": 0,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 8,
-      "col": 4,
+      "clue": "Studies bugs",
+      "answer": "CATCHER",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Country of the Eiffel Tower",
+      "answer": "FRANCE",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Device that helps you see",
-      "answer": "GLASSES",
+      "clue": "Your aunt's child",
+      "answer": "COUSIN",
       "row": 4,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Small string instrument played with bow",
-      "answer": "VIOLIN",
-      "row": 1,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Calendar shows the date",
-      "answer": "TODAY",
+      "clue": "Makes pots out of clay",
+      "answer": "POTTER",
       "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Gentle movement of air",
+      "answer": "BREEZE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Drives a vehicle for hire",
+      "answer": "DRIVER",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Land of the rising sun",
+      "answer": "JAPAN",
+      "row": 2,
       "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "A cold causes this",
-      "answer": "COUGH",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Area where river meets ocean",
-      "answer": "DELTA",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of the Andes mountains",
-      "answer": "PERU",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
     }
   ],
-  "dayNumber": 204
+  "dayNumber": 203
 }

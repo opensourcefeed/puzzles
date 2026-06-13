@@ -1,0 +1,73 @@
+{
+  "id": "journey-level-34",
+  "level": 34,
+  "title": "Level 34",
+  "words": [
+    {
+      "clue": "Social media photo app",
+      "answer": "INSTAGRAM",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Small wind instrument held sideways",
+      "answer": "RECORDER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Paddling through water",
+      "answer": "SWIMMING",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "First month of the year",
+      "answer": "JANUARY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "How heavy something is",
+      "answer": "WEIGHT",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Pumps blood through your body",
+      "answer": "HEART",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a play is performed",
+      "answer": "STAGE",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you live",
+      "answer": "HOUSE",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 9,
+  "targetWords": 9,
+  "difficulty": "medium"
+}

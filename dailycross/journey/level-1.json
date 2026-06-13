@@ -1,0 +1,45 @@
+{
+  "id": "journey-level-1",
+  "level": 1,
+  "title": "Level 1",
+  "words": [
+    {
+      "clue": "Build walls with this gray mix",
+      "answer": "CONCRETE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Force that pulls things to Earth",
+      "answer": "GRAVITY",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Subject about the past",
+      "answer": "HISTORY",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Light a fire with this",
+      "answer": "LIGHTER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Pointed weapon shape",
+      "answer": "ARROW",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 5,
+  "targetWords": 5,
+  "difficulty": "easy"
+}

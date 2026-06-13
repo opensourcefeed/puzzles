@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2026-11-28",
   "date": "2026-11-28",
-  "title": "28 November 2026",
+  "title": "2026-11-28",
   "words": [
     {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Flags are made of this synthetic fiber",
-      "answer": "POLYESTER",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Machine that processes information",
-      "answer": "COMPUTER",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Insect that glows at night",
-      "answer": "FIREFLY",
+      "clue": "Place where firefighters work",
+      "answer": "FIREHOUSE",
       "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Bathroom break is good for this",
-      "answer": "HYGIENE",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes in this",
-      "answer": "CLOSET",
-      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Measure ingredients with this",
-      "answer": "SCALE",
+      "clue": "Room below your house",
+      "answer": "BASEMENT",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Studies bugs",
+      "answer": "CATCHER",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Giant rock that comes from space",
+      "answer": "METEOR",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Gentle movement of air",
+      "answer": "BREEZE",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Breathing trouble",
+      "answer": "WHEEZE",
       "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Vegetable that grows on a vine",
+      "answer": "SQUASH",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Works at a store checkout",
+      "answer": "CLERK",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Money you borrow",
+      "answer": "DEBT",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Trait passed in family",
+      "answer": "GENE",
+      "row": 8,
       "col": 1,
       "direction": "down"
-    },
-    {
-      "clue": "Country of the Andes mountains",
-      "answer": "PERU",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Ice crystals falling from sky",
-      "answer": "SNOW",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
     }
   ],
-  "dayNumber": 170
+  "dayNumber": 169
 }

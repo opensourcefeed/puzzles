@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-01-19",
   "date": "2027-01-19",
-  "title": "19 January 2027",
+  "title": "2027-01-19",
   "words": [
     {
-      "clue": "Country with Kuala Lumpur",
-      "answer": "MALAYSIA",
+      "clue": "Country of kangaroos",
+      "answer": "AUSTRALIA",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Frozen sweet treat",
+      "answer": "ICECREAM",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Grandparents day",
+      "answer": "ELVES",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Water becomes gas",
+      "answer": "STEAM",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you live",
+      "answer": "HOUSE",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "How fast something moves",
+      "answer": "SPEED",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
+      "clue": "Twelve months",
+      "answer": "YEAR",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Flip pancakes with this",
-      "answer": "SPATULA",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A protein that builds muscle",
-      "answer": "PROTEIN",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean creature that makes pearls",
-      "answer": "OYSTER",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Getting money back when you return something",
-      "answer": "REFUND",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "You put a mattress on this",
-      "answer": "FRAME",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle with four wheels and an engine",
-      "answer": "CAR",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
-      "row": 1,
-      "col": 5,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "dayNumber": 222
+  "dayNumber": 221
 }

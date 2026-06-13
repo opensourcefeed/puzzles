@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-09-09",
   "date": "2026-09-09",
-  "title": "9 September 2026",
+  "title": "2026-09-09",
   "words": [
     {
-      "clue": "Paint small areas with a brush",
-      "answer": "PAINTBRUSH",
-      "row": 7,
-      "col": 0,
+      "clue": "Math calculation tool",
+      "answer": "CALCULATOR",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Date you were born",
-      "answer": "BIRTHDAY",
-      "row": 7,
-      "col": 5,
+      "clue": "Coin worth 5 cents",
+      "answer": "NICKEL",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "December Jewish festival of lights",
-      "answer": "HANUKKAH",
-      "row": 7,
+      "clue": "Measures temperature",
+      "answer": "GAUGE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "British paper money unit",
+      "answer": "POUND",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Email folder for new messages",
+      "answer": "INBOX",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Flip pancakes with this",
-      "answer": "SPATULA",
-      "row": 13,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Captain of a ship",
-      "answer": "CAPTAIN",
+      "clue": "Large animal people ride",
+      "answer": "HORSE",
       "row": 6,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Pour dressing from this",
-      "answer": "BOTTLE",
-      "row": 10,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where you get ice cream",
-      "answer": "PARLOR",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Spirit day wear purple",
-      "answer": "SPIRIT",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling upset with yourself",
-      "answer": "GUILTY",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle with four wheels and an engine",
-      "answer": "CAR",
-      "row": 0,
+      "clue": "King of the jungle",
+      "answer": "LION",
+      "row": 1,
       "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Magnet attracts this metal",
+      "answer": "IRON",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Underground storage",
+      "answer": "HOLE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You read stories in this",
+      "answer": "BOOK",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     }
   ],
-  "dayNumber": 90
+  "dayNumber": 89
 }

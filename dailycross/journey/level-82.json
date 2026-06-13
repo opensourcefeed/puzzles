@@ -1,0 +1,122 @@
+{
+  "id": "journey-level-82",
+  "level": 82,
+  "title": "Level 82",
+  "words": [
+    {
+      "clue": "What a caterpillar becomes",
+      "answer": "BUTTERFLY",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Tool used to see far stars",
+      "answer": "TELESCOPE",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Make coffee in this",
+      "answer": "COFFEEPOT",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Small wind instrument held sideways",
+      "answer": "RECORDER",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Decayed plants used as fertilizer",
+      "answer": "COMPOST",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Gliding on ice",
+      "answer": "SKATING",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Breakfast grain meal",
+      "answer": "CEREAL",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Country of maple leaves",
+      "answer": "CANADA",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Silk worm thread",
+      "answer": "THREAD",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Turn nuts with a socket",
+      "answer": "SOCKET",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Metal gray color",
+      "answer": "SILVER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Stomach entrance",
+      "answer": "BELLY",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Thanksgiving in US",
+      "answer": "THANK",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You hold with these",
+      "answer": "HANDS",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Turn tight bolts",
+      "answer": "GRIP",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Upset with yourself",
+      "answer": "GLOW",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 16,
+  "targetWords": 16,
+  "difficulty": "medium"
+}

@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-09-08",
   "date": "2026-09-08",
-  "title": "8 September 2026",
+  "title": "2026-09-08",
   "words": [
     {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 5,
-      "col": 0,
+      "clue": "Strong circular wind over ocean",
+      "answer": "HURRICANE",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Baskets are woven from this vine",
-      "answer": "RATTAN",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Protects a park or forest",
-      "answer": "RANGER",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor nurses",
-      "answer": "NURSES",
-      "row": 4,
+      "clue": "Computer brain",
+      "answer": "PROCESSOR",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Performs dance",
-      "answer": "DANCER",
-      "row": 0,
-      "col": 3,
+      "clue": "Ocean between America and Europe",
+      "answer": "ATLANTIC",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "You read stories in this",
-      "answer": "BOOK",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 12,
+      "clue": "Day to honor teachers",
+      "answer": "TEACHERS",
+      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Ocean animal with pincers",
-      "answer": "CRAB",
-      "row": 3,
-      "col": 3,
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Metal gray color",
+      "answer": "SILVER",
+      "row": 8,
+      "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "Giant rock that comes from space",
+      "answer": "METEOR",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where tools are kept",
+      "answer": "SHED",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
     }
   ],
-  "dayNumber": 89
+  "dayNumber": 88
 }

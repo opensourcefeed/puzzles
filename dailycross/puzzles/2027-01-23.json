@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2027-01-23",
   "date": "2027-01-23",
-  "title": "23 January 2027",
+  "title": "2027-01-23",
   "words": [
     {
-      "clue": "Country with Bangkok",
-      "answer": "THAILAND",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with London",
-      "answer": "ENGLAND",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Device that helps you breathe",
-      "answer": "INHALER",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Metal gray color",
-      "answer": "SILVER",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Extra money paid for good work",
-      "answer": "BONUS",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Thirty or thirty-one days",
-      "answer": "MONTH",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Video call software",
-      "answer": "ZOOM",
-      "row": 1,
+      "clue": "Four sides with right angles",
+      "answer": "RECTANGLE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Animal doctor",
-      "answer": "VET",
-      "row": 4,
-      "col": 9,
+      "clue": "Feeling uneasy",
+      "answer": "UNEASY",
+      "row": 3,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "Photo editing tool",
+      "answer": "EDITOR",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Our planet",
+      "answer": "EARTH",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Pumps blood through your body",
+      "answer": "HEART",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Shiny coat on pans",
+      "answer": "SHINE",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Soldiers remembrance",
+      "answer": "HERO",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "European money unit",
+      "answer": "EURO",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Cleaning liquid",
+      "answer": "SOAP",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "dayNumber": 226
+  "dayNumber": 225
 }

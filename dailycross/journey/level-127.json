@@ -1,0 +1,115 @@
+{
+  "id": "journey-level-127",
+  "level": 127,
+  "title": "Level 127",
+  "words": [
+    {
+      "clue": "Game with hoop and net",
+      "answer": "BASKETBALL",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Arrowhead shape",
+      "answer": "DIAMOND",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where Christians pray",
+      "answer": "CHURCH",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Silent aircraft with no engine",
+      "answer": "GLIDER",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Underground train system",
+      "answer": "SUBWAY",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful garden bloom",
+      "answer": "FLOWER",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Cut wires with this",
+      "answer": "PLIERS",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Gentle movement of air",
+      "answer": "BREEZE",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A push or a pull on an object",
+      "answer": "FORCE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Dig holes with this",
+      "answer": "SPADE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Group of singers together",
+      "answer": "CHOIR",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Running path around a field",
+      "answer": "TRACK",
+      "row": 10,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle that carries goods",
+      "answer": "TRUCK",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Money plan",
+      "answer": "PLAN",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 15,
+  "targetWords": 22,
+  "difficulty": "hard"
+}

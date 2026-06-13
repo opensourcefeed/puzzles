@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-03-09",
   "date": "2027-03-09",
-  "title": "9 March 2027",
+  "title": "2027-03-09",
   "words": [
     {
-      "clue": "Chalk is made from this soft rock",
-      "answer": "LIMESTONE",
+      "clue": "Make coffee in this",
+      "answer": "COFFEEPOT",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who travels to space",
+      "answer": "ASTRONAUT",
       "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Moving your body to stay fit",
-      "answer": "EXERCISE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Game console by Nintendo",
-      "answer": "SWITCH",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Spinning on an axis",
-      "answer": "ROTATE",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Room where you work at home",
-      "answer": "OFFICE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Manages money in a bank",
-      "answer": "BANKER",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny germ that causes colds",
-      "answer": "VIRUS",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Raincoats are made of this waterproof material",
-      "answer": "VINYL",
-      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Take your child to work day",
-      "answer": "TAKE",
+      "clue": "Intelligent ocean mammal",
+      "answer": "DOLPHIN",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a doctor works",
+      "answer": "CLINIC",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You open to let in light",
+      "answer": "WINDOW",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
       "row": 0,
       "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "Handheld device for calls and apps",
+      "answer": "PHONE",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Fitness wristband",
+      "answer": "STRAP",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Performs in movies or plays",
+      "answer": "ACTOR",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
     }
   ],
-  "dayNumber": 271
+  "dayNumber": 270
 }

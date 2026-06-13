@@ -1,0 +1,73 @@
+{
+  "id": "journey-level-57",
+  "level": 57,
+  "title": "Level 57",
+  "words": [
+    {
+      "clue": "Place where kings and queens live",
+      "answer": "PALACE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Largest country in the world",
+      "answer": "RUSSIA",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Test battery with a tester",
+      "answer": "TESTER",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Words of a song",
+      "answer": "LYRICS",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Material inside a wire",
+      "answer": "METAL",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A woman on her wedding day",
+      "answer": "BRIDE",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Land of the rising sun",
+      "answer": "JAPAN",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Madrid",
+      "answer": "SPAIN",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Country known for watches",
+      "answer": "SWISS",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 9,
+  "targetWords": 13,
+  "difficulty": "medium"
+}

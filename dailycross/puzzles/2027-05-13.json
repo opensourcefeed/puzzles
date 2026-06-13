@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-05-13",
   "date": "2027-05-13",
-  "title": "13 May 2027",
+  "title": "2027-05-13",
   "words": [
     {
-      "clue": "Machine that takes pictures of organs",
-      "answer": "ULTRASOUND",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Fruits and vegetables are good for your health",
-      "answer": "NUTRITION",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling very interested",
-      "answer": "CURIOUS",
+      "clue": "Tool used to see far stars",
+      "answer": "TELESCOPE",
       "row": 5,
-      "col": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Subject about the past",
-      "answer": "HISTORY",
+      "clue": "Place where you park your car",
+      "answer": "GARAGE",
       "row": 0,
-      "col": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Place where Christians pray",
-      "answer": "CHURCH",
+      "clue": "Silk worm thread",
+      "answer": "THREAD",
       "row": 5,
-      "col": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Open cans with this",
-      "answer": "OPENER",
+      "clue": "What plants breathe out",
+      "answer": "OXYGEN",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
       "row": 9,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Windows are made of this clear material",
-      "answer": "GLASS",
+      "clue": "Clear liquid that your body needs",
+      "answer": "WATER",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Big box for baking",
+      "answer": "OVEN",
       "row": 1,
-      "col": 4,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Magnet attracts this metal",
-      "answer": "IRON",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "International hug day",
-      "answer": "HUG",
+      "clue": "Wanting something badly",
+      "answer": "WISH",
       "row": 7,
-      "col": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sky color",
+      "answer": "BLUE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Jewish New Year",
+      "answer": "ROSH",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     }
   ],
-  "dayNumber": 336
+  "dayNumber": 335
 }

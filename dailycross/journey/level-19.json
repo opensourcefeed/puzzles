@@ -1,0 +1,52 @@
+{
+  "id": "journey-level-19",
+  "level": 19,
+  "title": "Level 19",
+  "words": [
+    {
+      "clue": "Designs buildings",
+      "answer": "ARCHITECT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Video sharing website",
+      "answer": "YOUTUBE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Photo editing tool",
+      "answer": "EDITOR",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Your sister's son",
+      "answer": "NEPHEW",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Warsaw",
+      "answer": "POLAND",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Round Italian food",
+      "answer": "PIZZA",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 6,
+  "targetWords": 7,
+  "difficulty": "easy"
+}

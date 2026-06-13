@@ -1,0 +1,73 @@
+{
+  "id": "journey-level-31",
+  "level": 31,
+  "title": "Level 31",
+  "words": [
+    {
+      "clue": "Sea star with five arms",
+      "answer": "STARFISH",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Teaches dogs new skills",
+      "answer": "TRAINER",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Photo editing tool",
+      "answer": "EDITOR",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean around India",
+      "answer": "INDIAN",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Small string instrument played with bow",
+      "answer": "VIOLIN",
+      "row": 9,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling like you want to sleep",
+      "answer": "SLEEPY",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Istanbul",
+      "answer": "TURKEY",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Pipes are made of this reddish metal",
+      "answer": "COPPER",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Bags are made from this woven material",
+      "answer": "CLOTH",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 9,
+  "targetWords": 9,
+  "difficulty": "medium"
+}

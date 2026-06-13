@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-09-18",
   "date": "2026-09-18",
-  "title": "18 September 2026",
+  "title": "2026-09-18",
   "words": [
     {
-      "clue": "Putting money into a business",
-      "answer": "INVESTMENT",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Fruits and vegetables are good for your health",
-      "answer": "NUTRITION",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Decorates rooms and houses",
-      "answer": "DECORATOR",
+      "clue": "Designs buildings",
+      "answer": "ARCHITECT",
       "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Builds roads and bridges",
-      "answer": "ENGINEER",
-      "row": 2,
-      "col": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Spray paint with this",
-      "answer": "SPRAYER",
+      "clue": "Day to honor fathers in June",
+      "answer": "FATHERS",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Test battery with a tester",
+      "answer": "TESTER",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Pen for drawing on tablets",
+      "answer": "STYLUS",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Yellow curved fruit",
+      "answer": "BANANA",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean animal with a shell",
+      "answer": "TURTLE",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Paper money used in the US",
+      "answer": "DOLLAR",
       "row": 0,
-      "col": 11,
+      "col": 10,
       "direction": "down"
     },
     {
       "clue": "Feeling very proud",
       "answer": "PROUD",
-      "row": 11,
-      "col": 2,
+      "row": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Plant that grows on walls",
-      "answer": "MOSS",
-      "row": 9,
-      "col": 4,
+      "clue": "South Asia island",
+      "answer": "JAVA",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Water plants with this",
-      "answer": "HOSE",
+      "clue": "Money plan",
+      "answer": "PLAN",
       "row": 7,
-      "col": 7,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "dayNumber": 99
+  "dayNumber": 98
 }

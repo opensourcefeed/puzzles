@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-04-09",
   "date": "2027-04-09",
-  "title": "9 April 2027",
+  "title": "2027-04-09",
   "words": [
     {
-      "clue": "Photo editing software",
-      "answer": "PHOTOSHOP",
-      "row": 5,
-      "col": 0,
+      "clue": "Computer brain",
+      "answer": "PROCESSOR",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Feeling joyful and light",
-      "answer": "CHEERFUL",
+      "clue": "Long green garden vegetable",
+      "answer": "CUCUMBER",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Overhead surface of a room",
+      "answer": "CEILING",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Round shape",
+      "answer": "CIRCLE",
       "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
+      "clue": "Words of a song",
+      "answer": "LYRICS",
       "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Protector of a child",
-      "answer": "GUARDIAN",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Cook food in the oven in this",
-      "answer": "ROASTER",
-      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Grass color",
-      "answer": "GREEN",
-      "row": 4,
-      "col": 10,
+      "clue": "Teacher writes on this",
+      "answer": "BOARD",
+      "row": 0,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "What an egg becomes",
-      "answer": "CHICK",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
     },
     {
       "clue": "White dairy drink",
       "answer": "MILK",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Roofs are covered with this flat material",
+      "answer": "TILE",
       "row": 0,
-      "col": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Fry eggs in this",
-      "answer": "PAN",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
+      "clue": "Smart speaker from Amazon",
+      "answer": "ECHO",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
     }
   ],
-  "dayNumber": 302
+  "dayNumber": 301
 }

@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-76",
+  "level": 76,
+  "title": "Level 76",
+  "words": [
+    {
+      "clue": "Ocean animal with stinging tentacles",
+      "answer": "JELLYFISH",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where firefighters work",
+      "answer": "FIREHOUSE",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Cardboard is thick paper",
+      "answer": "CARDBOARD",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "What a caterpillar becomes",
+      "answer": "BUTTERFLY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Secret code for security",
+      "answer": "PASSWORD",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat mobile device without keyboard",
+      "answer": "TABLET",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you learn",
+      "answer": "SCHOOL",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean fish that can inflate",
+      "answer": "PUFFER",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Build houses with this hard block",
+      "answer": "BRICK",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Day to plant trees",
+      "answer": "ARBOR",
+      "row": 10,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Small bed for growing vegetables",
+      "answer": "PLOT",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 15,
+  "difficulty": "medium"
+}

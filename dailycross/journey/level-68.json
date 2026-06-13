@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-68",
+  "level": 68,
+  "title": "Level 68",
+  "words": [
+    {
+      "clue": "Tool used to see far stars",
+      "answer": "TELESCOPE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean animal with stinging tentacles",
+      "answer": "JELLYFISH",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Country known for tango",
+      "answer": "ARGENTINA",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Moving your body to stay fit",
+      "answer": "EXERCISE",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Worn around wrist as accessory",
+      "answer": "BRACELET",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Swim eye wear",
+      "answer": "GOGGLES",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where a doctor works",
+      "answer": "CLINIC",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Group of people related by blood",
+      "answer": "FAMILY",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where a horse lives",
+      "answer": "STABLE",
+      "row": 6,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Mix of red and yellow",
+      "answer": "ORANGE",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that carries goods",
+      "answer": "TRUCK",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Fixes electric wires",
+      "answer": "FIXER",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 14,
+  "difficulty": "medium"
+}

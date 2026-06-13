@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-105",
+  "level": 105,
+  "title": "Level 105",
+  "words": [
+    {
+      "clue": "Works with wood to make furniture",
+      "answer": "WOODWORKER",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Jakarta",
+      "answer": "INDONESIA",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Move dirt with this",
+      "answer": "TRACTOR",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Buttons are often made of this",
+      "answer": "PLASTIC",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling able to wait",
+      "answer": "PATIENT",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you sleep",
+      "answer": "BEDROOM",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "First month of the year",
+      "answer": "JANUARY",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "String instrument with six strings",
+      "answer": "GUITAR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you eat meals",
+      "answer": "DINING",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Sun color",
+      "answer": "YELLOW",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Cairo",
+      "answer": "EGYPT",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Fingered string instrument",
+      "answer": "BANJO",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Guards a building",
+      "answer": "GUARD",
+      "row": 10,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 19,
+  "difficulty": "hard"
+}

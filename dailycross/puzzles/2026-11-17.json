@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-11-17",
   "date": "2026-11-17",
-  "title": "17 November 2026",
+  "title": "2026-11-17",
   "words": [
     {
-      "clue": "Secret code for security",
-      "answer": "PASSWORD",
-      "row": 4,
-      "col": 3,
+      "clue": "Computer brain",
+      "answer": "PROCESSOR",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Narrow body of water between lands",
-      "answer": "STRAIT",
-      "row": 4,
+      "clue": "Manages money in a bank",
+      "answer": "BANKER",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Presents news on television",
-      "answer": "ANCHOR",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Pair of married people",
-      "answer": "COUPLE",
+      "clue": "Cuts men's hair",
+      "answer": "BARBER",
       "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Pumps blood through your body",
-      "answer": "HEART",
-      "row": 8,
-      "col": 7,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Relating to the sun",
-      "answer": "SOLAR",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Check if surface is flat",
-      "answer": "LEVEL",
-      "row": 5,
+      "clue": "Place where you get ice cream",
+      "answer": "PARLOR",
+      "row": 7,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "You put a TV on this",
-      "answer": "STAND",
-      "row": 0,
-      "col": 10,
+      "clue": "Time after sunset",
+      "answer": "NIGHT",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Boat parking place",
+      "answer": "DOCK",
+      "row": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Trains athletes",
-      "answer": "COACH",
-      "row": 2,
-      "col": 8,
+      "clue": "Fill wall gaps",
+      "answer": "FILL",
+      "row": 10,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle with four wheels and an engine",
-      "answer": "CAR",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
+      "clue": "Full of energy feeling",
+      "answer": "LIVE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "dayNumber": 159
+  "dayNumber": 158
 }

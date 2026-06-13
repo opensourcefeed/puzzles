@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2027-01-16",
   "date": "2027-01-16",
-  "title": "16 January 2027",
+  "title": "2027-01-16",
   "words": [
     {
-      "clue": "What a caterpillar becomes",
-      "answer": "BUTTERFLY",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Four sides with right angles",
-      "answer": "RECTANGLE",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "You put your feet on this rest",
-      "answer": "FOOTREST",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Drain pasta with this",
-      "answer": "COLANDER",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Striped horse-like animal",
-      "answer": "ZEBRA",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Living thing that makes its own food",
-      "answer": "PLANT",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat cooking surface",
-      "answer": "GRILL",
+      "clue": "Country of kangaroos",
+      "answer": "AUSTRALIA",
       "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Pumps blood through your body",
-      "answer": "HEART",
-      "row": 3,
-      "col": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Coin worth 10 cents",
-      "answer": "DIME",
-      "row": 0,
-      "col": 7,
+      "clue": "Decorates rooms",
+      "answer": "PAINTER",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Direction the sun rises",
-      "answer": "EAST",
-      "row": 11,
-      "col": 8,
+      "clue": "Place where you cook meals",
+      "answer": "KITCHEN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You hang a mirror on this",
+      "answer": "DRESSER",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Teacher appreciation",
+      "answer": "THANKS",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Seventh planet from the sun",
+      "answer": "URANUS",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper money used in the US",
+      "answer": "DOLLAR",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "You keep blankets in this trunk",
+      "answer": "TRUNK",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 219
+  "dayNumber": 218
 }

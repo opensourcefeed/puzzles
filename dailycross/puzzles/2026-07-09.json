@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-07-09",
   "date": "2026-07-09",
-  "title": "9 July 2026",
+  "title": "2026-07-09",
   "words": [
     {
-      "clue": "Watering tool with a spray head",
-      "answer": "SPRINKLER",
-      "row": 7,
+      "clue": "Game with hoop and net",
+      "answer": "BASKETBALL",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Drain pasta with this",
-      "answer": "COLANDER",
-      "row": 5,
+      "clue": "Random acts of kindness day",
+      "answer": "KINDNESS",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Brother or sister",
+      "answer": "SIBLING",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "You keep dishes in this",
-      "answer": "CUPBOARD",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you sleep",
-      "answer": "BEDROOM",
-      "row": 10,
+      "clue": "Overhead surface of a room",
+      "answer": "CEILING",
+      "row": 6,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Place where you buy food",
-      "answer": "GROCERY",
+      "clue": "Hindu festival of lights",
+      "answer": "DIWALI",
       "row": 5,
-      "col": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Roll dough with this",
+      "answer": "ROLLER",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Ocean creature that makes pearls",
-      "answer": "OYSTER",
+      "clue": "Pipe instrument you blow into",
+      "answer": "FLUTE",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Large animal people ride",
-      "answer": "HORSE",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Chocolate color",
-      "answer": "BROWN",
+      "clue": "Thanksgiving in US",
+      "answer": "THANK",
       "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Country known for watches",
-      "answer": "SWISS",
-      "row": 2,
-      "col": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where you swim",
-      "answer": "POOL",
-      "row": 9,
-      "col": 0,
+      "clue": "Ocean creature that buries in sand",
+      "answer": "CLAM",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],
-  "dayNumber": 28
+  "dayNumber": 27
 }

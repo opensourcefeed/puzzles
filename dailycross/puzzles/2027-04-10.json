@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-04-10",
   "date": "2027-04-10",
-  "title": "10 April 2027",
+  "title": "2027-04-10",
   "words": [
     {
-      "clue": "Catches fish for a living",
-      "answer": "FISHERMAN",
-      "row": 3,
+      "clue": "Random acts of kindness day",
+      "answer": "KINDNESS",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Small piece of land in water",
-      "answer": "ISLAND",
-      "row": 3,
+      "clue": "Light a fire with this",
+      "answer": "LIGHTER",
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Team sport played with feet",
-      "answer": "SOCCER",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling not interested at all",
-      "answer": "BORED",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "European money unit",
-      "answer": "EURO",
-      "row": 7,
+      "clue": "You cover the floor with this",
+      "answer": "CARPET",
+      "row": 3,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Head cook in a restaurant",
-      "answer": "CHEF",
-      "row": 0,
-      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Grows on top of your head",
-      "answer": "HAIR",
-      "row": 1,
-      "col": 1,
+      "clue": "Turn nuts with a socket",
+      "answer": "SOCKET",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Seed container of a plant",
-      "answer": "POD",
-      "row": 8,
+      "clue": "Brown vegetable that grows in dirt",
+      "answer": "POTATO",
+      "row": 10,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Sweet liquid bees collect from flowers",
+      "answer": "NECTAR",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "You store clothes folded in this",
+      "answer": "DRAWER",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant that climbs up trellises",
+      "answer": "VINE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Family last name",
+      "answer": "NAME",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Wash dishes in this",
+      "answer": "SINK",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "dayNumber": 303
+  "dayNumber": 302
 }

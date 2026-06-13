@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-40",
+  "level": 40,
+  "title": "Level 40",
+  "words": [
+    {
+      "clue": "Does experiments for a living",
+      "answer": "SCIENTIST",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Mix of two metals",
+      "answer": "BRONZE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Strong bone mineral",
+      "answer": "MAGNET",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Ball shape in 3D",
+      "answer": "SPHERE",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Mattresses have metal coils",
+      "answer": "SPRING",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Test electrical current",
+      "answer": "METER",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Press garlic with this",
+      "answer": "PRESS",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Types of money",
+      "answer": "COINS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Large ocean fish with sharp teeth",
+      "answer": "SHARK",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Grandparents day",
+      "answer": "ELVES",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 10,
+  "difficulty": "medium"
+}

@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-06-15",
   "date": "2026-06-15",
-  "title": "15 June 2026",
+  "title": "2026-06-15",
   "words": [
     {
-      "clue": "Squeeze lemons with this",
-      "answer": "SQUEEZER",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Helsinki",
-      "answer": "FINLAND",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Polish metal with a buffer",
-      "answer": "BUFFER",
+      "clue": "Sea star with five arms",
+      "answer": "STARFISH",
       "row": 1,
-      "col": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you take a bath",
+      "answer": "BATHROOM",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Studies ocean life",
-      "answer": "MARINE",
+      "clue": "Country with Dublin",
+      "answer": "IRELAND",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling alone and wanting company",
+      "answer": "LONELY",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Hit nails with this",
+      "answer": "HAMMER",
       "row": 0,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Performs in movies or plays",
+      "answer": "ACTOR",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Dry sandy area with little water",
-      "answer": "DESERT",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
+      "clue": "You walk through this",
+      "answer": "DOOR",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "You put a doormat on this",
-      "answer": "FLOOR",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "You put books on this",
-      "answer": "SHELF",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "You lock your valuables in this",
-      "answer": "SAFE",
+      "clue": "Plant food from dirt",
+      "answer": "SOIL",
       "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Sweet baked dessert",
-      "answer": "CAKE",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "dayNumber": 4
+  "dayNumber": 3
 }

@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-49",
+  "level": 49,
+  "title": "Level 49",
+  "words": [
+    {
+      "clue": "Protects from rain",
+      "answer": "UMBRELLA",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Date you were born",
+      "answer": "BIRTHDAY",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Blend fruits in this",
+      "answer": "BLENDER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Green vegetable rabbits love",
+      "answer": "CARROT",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Tires are made from this bouncy material",
+      "answer": "RUBBER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling like you want to sleep",
+      "answer": "SLEEPY",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Cloud of gas in space",
+      "answer": "CLOUD",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Joint between thigh and calf",
+      "answer": "KNEE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Stick things together",
+      "answer": "GLUE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Winter celebration",
+      "answer": "YULE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 11,
+  "difficulty": "medium"
+}

@@ -1,64 +1,71 @@
 {
   "id": "dailycross-2026-07-10",
   "date": "2026-07-10",
-  "title": "10 July 2026",
+  "title": "2026-07-10",
   "words": [
     {
-      "clue": "February 14 celebration",
-      "answer": "VALENTINE",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Silk comes from a silkworm",
-      "answer": "SILKWORM",
+      "clue": "Strong wind storm",
+      "answer": "TORNADO",
       "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Eight-armed ocean creature",
-      "answer": "OCTOPUS",
-      "row": 6,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Place where a play is performed",
-      "answer": "STAGE",
+      "clue": "Plant used for flavoring food",
+      "answer": "BASIL",
       "row": 0,
-      "col": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
+      "clue": "Tiny floating sea life",
+      "answer": "DRIFT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Cloth to stop bleeding",
+      "answer": "CLOTH",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Family history book",
+      "answer": "BOOK",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean creature that buries in sand",
+      "answer": "CLAM",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Brass instrument with slide",
+      "answer": "HORN",
       "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Cut vegetables with this",
-      "answer": "KNIFE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Bowls are made of this moldable material",
-      "answer": "CLAY",
+      "clue": "Fall harvest time",
+      "answer": "FALL",
       "row": 6,
-      "col": 4,
-      "direction": "down"
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "Feeling very sad",
-      "answer": "SAD",
-      "row": 0,
-      "col": 1,
+      "clue": "Muscle building food",
+      "answer": "MEAT",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "dayNumber": 29
+  "dayNumber": 28
 }

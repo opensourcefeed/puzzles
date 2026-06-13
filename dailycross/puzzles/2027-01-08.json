@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2027-01-08",
   "date": "2027-01-08",
-  "title": "8 January 2027",
+  "title": "2027-01-08",
   "words": [
     {
-      "clue": "Fruits and vegetables are good for your health",
-      "answer": "NUTRITION",
-      "row": 4,
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vitamin that helps with vision",
-      "answer": "VITAMINA",
+      "clue": "Strong bone mineral",
+      "answer": "MAGNET",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Spinning on an axis",
+      "answer": "ROTATE",
       "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling able to wait",
-      "answer": "PATIENT",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Video recording device",
-      "answer": "CAMERA",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of the Colosseum",
-      "answer": "ITALY",
+      "clue": "Ball shape in 3D",
+      "answer": "SPHERE",
       "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Seoul",
-      "answer": "KOREA",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of the Nile River",
-      "answer": "SUDAN",
-      "row": 0,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Leather comes from animal skin",
-      "answer": "HIDE",
+      "clue": "Test battery with a tester",
+      "answer": "TESTER",
       "row": 8,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Day to honor nurses",
+      "answer": "NURSES",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Press garlic with this",
+      "answer": "PRESS",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Set of words and music together",
+      "answer": "SONG",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Family blood line",
+      "answer": "LINE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Full of energy feeling",
+      "answer": "LIVE",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
     }
   ],
-  "dayNumber": 211
+  "dayNumber": 210
 }

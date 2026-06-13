@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-11-08",
   "date": "2026-11-08",
-  "title": "8 November 2026",
+  "title": "2026-11-08",
   "words": [
     {
-      "clue": "Place where the mayor works",
-      "answer": "TOWNHALL",
-      "row": 3,
-      "col": 3,
+      "clue": "Catches fish for a living",
+      "answer": "FISHERMAN",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Set of instructions for a computer",
-      "answer": "PROGRAM",
+      "clue": "Coin worth 100 cents",
+      "answer": "QUARTER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
       "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to honor first responders",
+      "answer": "FIRST",
+      "row": 8,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Large black and white keyboard",
+      "answer": "PIANO",
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Subject about the past",
-      "answer": "HISTORY",
+      "clue": "Queen's big day",
+      "answer": "CROWN",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Your father's brother",
+      "answer": "UNCLE",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you swim",
+      "answer": "POOL",
       "row": 3,
-      "col": 7,
-      "direction": "down"
+      "col": 9,
+      "direction": "across"
     },
     {
-      "clue": "Sweet liquid bees collect from flowers",
-      "answer": "NECTAR",
-      "row": 6,
+      "clue": "Spinning wind storm",
+      "answer": "WIND",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cut grass with this",
-      "answer": "MOWER",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "World smile day",
-      "answer": "SMILE",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Joint between thigh and calf",
-      "answer": "KNEE",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Insect that makes honey",
-      "answer": "BEE",
-      "row": 6,
-      "col": 9,
+      "clue": "Tall plant with a trunk",
+      "answer": "TREE",
+      "row": 8,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "dayNumber": 150
+  "dayNumber": 149
 }

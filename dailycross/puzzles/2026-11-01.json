@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-11-01",
   "date": "2026-11-01",
-  "title": "1 November 2026",
+  "title": "2026-11-01",
   "words": [
     {
-      "clue": "Ocean fish with hammer-shaped head",
-      "answer": "HAMMERHEAD",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling optimistic",
-      "answer": "OPTIMISTIC",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Top part of your arm",
-      "answer": "SHOULDER",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Extended family includes everyone",
-      "answer": "EXTENDED",
+      "clue": "Four sides with right angles",
+      "answer": "RECTANGLE",
       "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep cut that bleeds",
-      "answer": "WOUND",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on this with a back",
-      "answer": "CHAIR",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Salty snack often eaten with dip",
-      "answer": "CHIPS",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Large flowing body of water",
-      "answer": "RIVER",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of the Leaning Tower",
-      "answer": "PISA",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cook food in this",
-      "answer": "POT",
-      "row": 0,
+      "clue": "Room below your house",
+      "answer": "BASEMENT",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Three babies born together",
+      "answer": "TRIPLE",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Round white vegetable",
+      "answer": "ONION",
+      "row": 7,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Sure of yourself",
+      "answer": "BOLD",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Twelve months",
+      "answer": "YEAR",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Underground storage",
+      "answer": "HOLE",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Family blood line",
+      "answer": "LINE",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Money back when you return",
+      "answer": "BACK",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
     }
   ],
-  "dayNumber": 143
+  "dayNumber": 142
 }

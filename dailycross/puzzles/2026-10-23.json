@@ -1,64 +1,57 @@
 {
   "id": "dailycross-2026-10-23",
   "date": "2026-10-23",
-  "title": "23 October 2026",
+  "title": "2026-10-23",
   "words": [
     {
-      "clue": "Table surface for food prep",
-      "answer": "COUNTER",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Light a fire with this",
-      "answer": "LIGHTER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you cook meals",
-      "answer": "KITCHEN",
+      "clue": "Worn around wrist as accessory",
+      "answer": "BRACELET",
       "row": 1,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Buddha's birthday celebration",
       "answer": "BUDDHA",
-      "row": 3,
+      "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Printer makes copies on this",
-      "answer": "PAPER",
-      "row": 8,
-      "col": 1,
+      "clue": "Holds napkins on the table",
+      "answer": "NAPKIN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Muslim feast day",
+      "answer": "FEAST",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You eat meals on this",
+      "answer": "TABLE",
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Most populated country",
-      "answer": "CHINA",
-      "row": 4,
+      "clue": "Trains athletes",
+      "answer": "COACH",
+      "row": 6,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A child with no siblings",
-      "answer": "ONLY",
+      "clue": "What all matter is made of",
+      "answer": "ATOM",
       "row": 0,
       "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Unit of electric current",
-      "answer": "AMP",
-      "row": 8,
-      "col": 2,
-      "direction": "down"
     }
   ],
-  "dayNumber": 134
+  "dayNumber": 133
 }

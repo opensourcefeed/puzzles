@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2026-11-19",
   "date": "2026-11-19",
-  "title": "19 November 2026",
+  "title": "2026-11-19",
   "words": [
     {
-      "clue": "Putting money into a business",
-      "answer": "INVESTMENT",
-      "row": 4,
-      "col": 0,
+      "clue": "Works with wood to make furniture",
+      "answer": "WOODWORKER",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A broken bone",
-      "answer": "FRACTURE",
+      "clue": "What a caterpillar becomes",
+      "answer": "BUTTERFLY",
       "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Grind metal with this",
-      "answer": "GRINDER",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Creates paintings or drawings",
-      "answer": "ARTIST",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Writes books",
-      "answer": "AUTHOR",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Test electrical current",
-      "answer": "METER",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Your brother's daughter",
-      "answer": "NIECE",
-      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Day to go outside and play",
-      "answer": "PLAY",
-      "row": 0,
-      "col": 8,
+      "clue": "Country with Bangkok",
+      "answer": "THAILAND",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Change from solid to liquid",
-      "answer": "MELT",
-      "row": 8,
-      "col": 6,
+      "clue": "Part of the body that digests food",
+      "answer": "STOMACH",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Device that copies paper to computer",
+      "answer": "SCANNER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Swimwear for the beach",
+      "answer": "BATHING",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Hindu festival of lights",
+      "answer": "DIWALI",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Studies old things",
+      "answer": "FINDER",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean animal with pincers",
+      "answer": "CRAB",
+      "row": 0,
+      "col": 4,
       "direction": "across"
     }
   ],
-  "dayNumber": 161
+  "dayNumber": 160
 }

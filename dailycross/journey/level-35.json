@@ -1,0 +1,80 @@
+{
+  "id": "journey-level-35",
+  "level": 35,
+  "title": "Level 35",
+  "words": [
+    {
+      "clue": "Sun-loving tall yellow flower",
+      "answer": "SUNFLOWER",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Leads tours for visitors",
+      "answer": "TOURGUIDE",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where sick people go",
+      "answer": "HOSPITAL",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling like you want to sleep",
+      "answer": "SLEEPY",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Ball shape in 3D",
+      "answer": "SPHERE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Country known for tacos",
+      "answer": "MEXICO",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "How heavy something is",
+      "answer": "WEIGHT",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Science building",
+      "answer": "SCHOOL",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Chinese new year symbol",
+      "answer": "DRAGON",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat cooking surface",
+      "answer": "GRILL",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 10,
+  "targetWords": 10,
+  "difficulty": "medium"
+}

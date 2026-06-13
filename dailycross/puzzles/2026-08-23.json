@@ -1,78 +1,78 @@
 {
   "id": "dailycross-2026-08-23",
   "date": "2026-08-23",
-  "title": "23 August 2026",
+  "title": "2026-08-23",
   "words": [
     {
-      "clue": "Juicy summer fruit with seeds",
-      "answer": "WATERMELON",
-      "row": 4,
-      "col": 0,
+      "clue": "Your child's child",
+      "answer": "GRANDCHILD",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Creates new things",
-      "answer": "INVENTOR",
-      "row": 1,
-      "col": 6,
+      "clue": "Machine that washes dishes",
+      "answer": "DISHWASHER",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Feeling thankful for something",
-      "answer": "GRATEFUL",
-      "row": 3,
+      "clue": "Frozen sweet treat",
+      "answer": "ICECREAM",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Paddling through water",
+      "answer": "SWIMMING",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you get ice cream",
+      "answer": "PARLOR",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Toast bread in this",
-      "answer": "TOASTER",
-      "row": 6,
-      "col": 6,
+      "clue": "Pour dressing from this",
+      "answer": "BOTTLE",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle with two wheels and a motor",
-      "answer": "SCOOTER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny germ that causes colds",
-      "answer": "VIRUS",
+      "clue": "Portable computer for class",
+      "answer": "LAPTOP",
       "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You eat with this",
-      "answer": "MOUTH",
-      "row": 3,
-      "col": 10,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Seven days",
-      "answer": "WEEK",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
+      "clue": "Broken bone",
+      "answer": "BREAK",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
     },
     {
-      "clue": "Place where ships dock",
-      "answer": "PORT",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Frozen rain from sky",
-      "answer": "HAIL",
+      "clue": "Performs in movies or plays",
+      "answer": "ACTOR",
       "row": 5,
       "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Joint between thigh and calf",
+      "answer": "KNEE",
+      "row": 0,
+      "col": 12,
       "direction": "down"
     }
   ],
-  "dayNumber": 73
+  "dayNumber": 72
 }

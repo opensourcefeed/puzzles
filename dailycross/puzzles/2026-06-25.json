@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-06-25",
   "date": "2026-06-25",
-  "title": "25 June 2026",
+  "title": "2026-06-25",
   "words": [
     {
-      "clue": "Computer virus protection",
-      "answer": "ANTIVIRUS",
-      "row": 1,
+      "clue": "Fixes computer problems",
+      "answer": "TECHNICIAN",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Teenager 13-19 years old",
-      "answer": "TEENAGER",
+      "clue": "Room where you watch TV",
+      "answer": "LIVING",
       "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Memorial Day remembers soldiers",
-      "answer": "MEMORIAL",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Long and skinny oval",
-      "answer": "ELLIPSE",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Keep drinks cold in this",
-      "answer": "COOLER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "You store blankets in this",
-      "answer": "CHEST",
-      "row": 7,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of the Leaning Tower",
-      "answer": "PISA",
-      "row": 2,
-      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Roofs are covered with this flat material",
-      "answer": "TILE",
+      "clue": "You write with this",
+      "answer": "PENCIL",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Thanksgiving in US",
+      "answer": "THANK",
       "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Nairobi",
+      "answer": "KENYA",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall sitting seat",
+      "answer": "SEAT",
+      "row": 4,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Fry eggs in this",
-      "answer": "PAN",
+      "clue": "Birth date celebration",
+      "answer": "CAKE",
       "row": 0,
-      "col": 0,
-      "direction": "down"
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You smell with this",
+      "answer": "NOSE",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "dayNumber": 14
+  "dayNumber": 13
 }

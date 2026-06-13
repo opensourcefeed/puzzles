@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-01-28",
   "date": "2027-01-28",
-  "title": "28 January 2027",
+  "title": "2027-01-28",
   "words": [
     {
-      "clue": "Medicine that relieves pain",
-      "answer": "PAINKILLER",
-      "row": 4,
-      "col": 0,
+      "clue": "Screen that shows images",
+      "answer": "MONITOR",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Liquid used to clean a wound",
-      "answer": "ANTISEPTIC",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling confused",
-      "answer": "PERPLEXED",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You keep dishes in this",
-      "answer": "CUPBOARD",
+      "clue": "Microsoft operating system",
+      "answer": "WINDOWS",
       "row": 2,
-      "col": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Captain of a ship",
-      "answer": "CAPTAIN",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
+      "clue": "Tires are made from this bouncy material",
+      "answer": "RUBBER",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
     },
     {
-      "clue": "Part of the body that digests food",
-      "answer": "STOMACH",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where Christians pray",
-      "answer": "CHURCH",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large body of salt water",
-      "answer": "OCEAN",
-      "row": 0,
+      "clue": "Mix of red and yellow",
+      "answer": "ORANGE",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Box shape in 3D",
-      "answer": "CUBE",
-      "row": 2,
+      "clue": "Mountain country in the Himalayas",
+      "answer": "NEPAL",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Ropes are made from strong fibers",
+      "answer": "FIBER",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Sweet brown dessert topping",
+      "answer": "FUDGE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling angry",
-      "answer": "MAD",
-      "row": 7,
+      "clue": "Arctic bear",
+      "answer": "BEAR",
+      "row": 0,
       "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Circus big tent",
+      "answer": "TENT",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
     }
   ],
-  "dayNumber": 231
+  "dayNumber": 230
 }

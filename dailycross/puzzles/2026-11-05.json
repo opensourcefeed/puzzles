@@ -1,78 +1,64 @@
 {
   "id": "dailycross-2026-11-05",
   "date": "2026-11-05",
-  "title": "5 November 2026",
+  "title": "2026-11-05",
   "words": [
     {
-      "clue": "Fine china is made of this",
-      "answer": "PORCELAIN",
-      "row": 3,
-      "col": 0,
+      "clue": "Digital book reader",
+      "answer": "EREADER",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Ocean zone where sunlight reaches",
-      "answer": "SUNLIGHT",
+      "clue": "String instrument with six strings",
+      "answer": "GUITAR",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "September celebration of workers",
-      "answer": "LABORDAY",
-      "row": 0,
-      "col": 1,
+      "clue": "Prayer place for Jews",
+      "answer": "TEMPLE",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Feeling surprised",
-      "answer": "SHOCKED",
-      "row": 6,
+      "clue": "Vegetable that grows on a vine",
+      "answer": "SQUASH",
+      "row": 1,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Feeling alone and wanting company",
-      "answer": "LONELY",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Sand surfaces smooth with this",
-      "answer": "SANDER",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Pipes are made of this reddish metal",
-      "answer": "COPPER",
+      "clue": "Mix of red and yellow",
+      "answer": "PEACH",
       "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Baskets are woven from this vine",
-      "answer": "RATTAN",
+      "clue": "Blood check test",
+      "answer": "TEST",
       "row": 8,
-      "col": 3,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Cares for children at home",
-      "answer": "NANNY",
-      "row": 1,
+      "clue": "South Asia island",
+      "answer": "JAVA",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Mexican Day of the Dead",
-      "answer": "DIA",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
+      "clue": "Sixty minutes",
+      "answer": "HOUR",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "dayNumber": 147
+  "dayNumber": 146
 }

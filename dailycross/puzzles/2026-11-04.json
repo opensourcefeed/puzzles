@@ -1,71 +1,64 @@
 {
   "id": "dailycross-2026-11-04",
   "date": "2026-11-04",
-  "title": "4 November 2026",
+  "title": "2026-11-04",
   "words": [
     {
-      "clue": "Stainless steel resists rust",
-      "answer": "STAINLESS",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A test to check your blood",
-      "answer": "BLOODTEST",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Light bounces off this",
-      "answer": "REFLECT",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Group of stars in the sky",
-      "answer": "GALAXY",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful garden bloom",
-      "answer": "FLOWER",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Online game creation platform",
-      "answer": "ROBLOX",
+      "clue": "Store leftovers in this",
+      "answer": "CONTAINER",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ocean fish that swims in schools",
-      "answer": "TUNA",
-      "row": 8,
-      "col": 8,
+      "clue": "Shoes are made of this animal skin",
+      "answer": "LEATHER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Bandage that sticks to skin",
+      "answer": "BANDAID",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "How heavy something is",
+      "answer": "WEIGHT",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Keeps hands safe from heat",
-      "answer": "MITT",
+      "clue": "Quality passed down in families",
+      "answer": "TRAIT",
       "row": 3,
-      "col": 13,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Rake leaves with this",
-      "answer": "RAKE",
-      "row": 3,
-      "col": 11,
+      "clue": "Storage space under the roof",
+      "answer": "ATTIC",
+      "row": 0,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "You sit on to put on shoes",
+      "answer": "BENCH",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Water vapor becomes liquid",
+      "answer": "RAIN",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
     }
   ],
-  "dayNumber": 146
+  "dayNumber": 145
 }

@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-05-05",
   "date": "2027-05-05",
-  "title": "5 May 2027",
+  "title": "2027-05-05",
   "words": [
     {
-      "clue": "Long green garden vegetable",
-      "answer": "CUCUMBER",
-      "row": 7,
-      "col": 1,
+      "clue": "Cleans schools and offices",
+      "answer": "JANITOR",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Squeeze lemons with this",
-      "answer": "SQUEEZER",
-      "row": 5,
+      "clue": "Large frozen area of ice",
+      "answer": "GLACIER",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Vehicle with two wheels and a motor",
-      "answer": "SCOOTER",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Holds papers together",
-      "answer": "STAPLER",
-      "row": 0,
+      "clue": "Country of the Eiffel Tower",
+      "answer": "FRANCE",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Hold paper towels on this",
-      "answer": "HOLDER",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Low body temperature from cold",
-      "answer": "SHIVER",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of the Amazon River",
-      "answer": "BRAZIL",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Red fruit that keeps doctor away",
-      "answer": "APPLE",
-      "row": 9,
+      "clue": "Orange citrus fruit",
+      "answer": "ORANGE",
+      "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Pour milk from this",
-      "answer": "JUG",
-      "row": 6,
-      "col": 2,
+      "clue": "What plants breathe out",
+      "answer": "OXYGEN",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Apple mobile operating system",
-      "answer": "IOS",
+      "clue": "USB storage device",
+      "answer": "DRIVE",
       "row": 5,
-      "col": 2,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Dry dishes with this",
+      "answer": "TOWEL",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Prices going up",
+      "answer": "RISE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Frozen rain from sky",
+      "answer": "HAIL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "dayNumber": 328
+  "dayNumber": 327
 }

@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-75",
+  "level": 75,
+  "title": "Level 75",
+  "words": [
+    {
+      "clue": "Country with Kuala Lumpur",
+      "answer": "MALAYSIA",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Decayed plants used as fertilizer",
+      "answer": "COMPOST",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Three children born at once",
+      "answer": "TRIPLET",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Hand end parts",
+      "answer": "FINGERS",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Photo editing tool",
+      "answer": "EDITOR",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Mix of red and blue",
+      "answer": "PURPLE",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Spirit day wear purple",
+      "answer": "SPIRIT",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Pointed weapon shape",
+      "answer": "ARROW",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Most populated country",
+      "answer": "CHINA",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Area where river meets ocean",
+      "answer": "DELTA",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Build houses with this hard block",
+      "answer": "BRICK",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you get a haircut",
+      "answer": "SALON",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Turn socket tool",
+      "answer": "TURN",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 15,
+  "difficulty": "medium"
+}

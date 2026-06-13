@@ -1,0 +1,87 @@
+{
+  "id": "journey-level-61",
+  "level": 61,
+  "title": "Level 61",
+  "words": [
+    {
+      "clue": "Shoes are made of this animal skin",
+      "answer": "LEATHER",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where a river meets the ocean",
+      "answer": "ESTUARY",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Video recording device",
+      "answer": "CAMERA",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "USB storage device",
+      "answer": "DRIVE",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Art class tool",
+      "answer": "BRUSH",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Become part of a family by law",
+      "answer": "ADOPT",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean mollusk with a spiral shell",
+      "answer": "SNAIL",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Wanting things fast",
+      "answer": "RUSH",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Turn socket tool",
+      "answer": "TURN",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Falls from clouds",
+      "answer": "RAIN",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Change from solid to liquid",
+      "answer": "MELT",
+      "row": 10,
+      "col": 5,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 11,
+  "targetWords": 13,
+  "difficulty": "medium"
+}

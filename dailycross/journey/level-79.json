@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-79",
+  "level": 79,
+  "title": "Level 79",
+  "words": [
+    {
+      "clue": "Game with hoop and net",
+      "answer": "BASKETBALL",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Day before today",
+      "answer": "YESTERDAY",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Large landmass on Earth",
+      "answer": "CONTINENT",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Date you were born",
+      "answer": "BIRTHDAY",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Day to honor teachers",
+      "answer": "TEACHERS",
+      "row": 13,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean between America and Europe",
+      "answer": "ATLANTIC",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Three children born at once",
+      "answer": "TRIPLET",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Hanoi",
+      "answer": "VIETNAM",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Light a fire with this",
+      "answer": "LIGHTER",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Large round object in space",
+      "answer": "PLANET",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Bright object moving through space",
+      "answer": "COMET",
+      "row": 8,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Small bed for growing vegetables",
+      "answer": "PLOT",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 15,
+  "difficulty": "medium"
+}

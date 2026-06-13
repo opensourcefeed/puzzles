@@ -1,64 +1,57 @@
 {
   "id": "dailycross-2026-08-25",
   "date": "2026-08-25",
-  "title": "25 August 2026",
+  "title": "2026-08-25",
   "words": [
     {
-      "clue": "October 31 celebration",
-      "answer": "HALLOWEEN",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling joyful and light",
-      "answer": "CHEERFUL",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Vitamin that helps with vision",
-      "answer": "VITAMINA",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you throw a long metal stick",
-      "answer": "JAVELIN",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Cut wires with this",
-      "answer": "PLIERS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Food storage room",
-      "answer": "PANTRY",
+      "clue": "Takes care of teeth",
+      "answer": "DENTIST",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Bags are made from this woven material",
-      "answer": "CLOTH",
-      "row": 1,
-      "col": 7,
+      "clue": "Referee in baseball",
+      "answer": "UMPIRE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Cuts hair for women",
+      "answer": "STYLER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Team sport played with feet",
+      "answer": "SOCCER",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Middle of day",
-      "answer": "NOON",
+      "clue": "Studies plants",
+      "answer": "GROWER",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep cut that bleeds",
+      "answer": "WOUND",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Time the sun rises",
+      "answer": "DAWN",
       "row": 0,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     }
   ],
-  "dayNumber": 75
+  "dayNumber": 74
 }

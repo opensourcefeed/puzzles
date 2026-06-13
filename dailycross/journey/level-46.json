@@ -1,0 +1,87 @@
+{
+  "id": "journey-level-46",
+  "level": 46,
+  "title": "Level 46",
+  "words": [
+    {
+      "clue": "Juicy summer fruit with seeds",
+      "answer": "WATERMELON",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Large landmass on Earth",
+      "answer": "CONTINENT",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Kuala Lumpur",
+      "answer": "MALAYSIA",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Virtual reality headset",
+      "answer": "HEADSET",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Flip pancakes with this",
+      "answer": "SPATULA",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Hanoi",
+      "answer": "VIETNAM",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Decorates rooms",
+      "answer": "PAINTER",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where you throw a long metal stick",
+      "answer": "JAVELIN",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Removes pencil marks",
+      "answer": "ERASER",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Small river of water",
+      "answer": "STREAM",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You store clothes in this",
+      "answer": "CLOSET",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 11,
+  "targetWords": 11,
+  "difficulty": "medium"
+}

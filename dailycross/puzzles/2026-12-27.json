@@ -1,64 +1,57 @@
 {
   "id": "dailycross-2026-12-27",
   "date": "2026-12-27",
-  "title": "27 December 2026",
+  "title": "2026-12-27",
   "words": [
     {
-      "clue": "Document showing what you earned",
-      "answer": "PAYSTUB",
-      "row": 3,
+      "clue": "Blend fruits in this",
+      "answer": "BLENDER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Bones contain this mineral",
-      "answer": "CALCIUM",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Spray paint with this",
-      "answer": "SPRAYER",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Words of a song",
-      "answer": "LYRICS",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Large animal people ride",
-      "answer": "HORSE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A push or a pull on an object",
-      "answer": "FORCE",
+      "clue": "Makes cartoons",
+      "answer": "DRAWER",
       "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Handheld device for calls and apps",
-      "answer": "PHONE",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where ships dock",
-      "answer": "PORT",
-      "row": 0,
       "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "Feeling uncertain",
+      "answer": "UNSURE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Large flowing body of water",
+      "answer": "RIVER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Queen's big day",
+      "answer": "CROWN",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "You put keys in this by the door",
+      "answer": "DISH",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "dayNumber": 199
+  "dayNumber": 198
 }

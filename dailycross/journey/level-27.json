@@ -1,0 +1,66 @@
+{
+  "id": "journey-level-27",
+  "level": 27,
+  "title": "Level 27",
+  "words": [
+    {
+      "clue": "Place where fish are kept",
+      "answer": "AQUARIUM",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Dublin",
+      "answer": "IRELAND",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean between America and Asia",
+      "answer": "PACIFIC",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Chinese new year symbol",
+      "answer": "DRAGON",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Orange citrus fruit",
+      "answer": "ORANGE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Trains athletes",
+      "answer": "COACH",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Shiny coat on pans",
+      "answer": "SHINE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "How fast something moves",
+      "answer": "SPEED",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    }
+  ],
+  "wordCount": 8,
+  "targetWords": 8,
+  "difficulty": "easy"
+}

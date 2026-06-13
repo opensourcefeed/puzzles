@@ -1,64 +1,78 @@
 {
   "id": "dailycross-2026-08-13",
   "date": "2026-08-13",
-  "title": "13 August 2026",
+  "title": "2026-08-13",
   "words": [
     {
-      "clue": "Feeling very surprised",
-      "answer": "ASTONISHED",
-      "row": 4,
-      "col": 0,
+      "clue": "Day after today",
+      "answer": "TOMORROW",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "You hang a mirror on this",
-      "answer": "DRESSER",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Room where you watch TV",
-      "answer": "LIVING",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Group of people related by blood",
-      "answer": "FAMILY",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Narrow body of water between lands",
-      "answer": "STRAIT",
-      "row": 4,
+      "clue": "Day to honor teachers",
+      "answer": "TEACHERS",
+      "row": 5,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Blow leaves with this",
-      "answer": "BLOWER",
-      "row": 9,
+      "clue": "Hand end parts",
+      "answer": "FINGERS",
+      "row": 0,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Invisible power that attracts metal",
+      "answer": "MAGNET",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you eat meals",
+      "answer": "DINING",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Our planet day",
+      "answer": "EARTH",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Place where you get a haircut",
       "answer": "SALON",
-      "row": 5,
-      "col": 3,
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Hot body temperature",
+      "answer": "HEAT",
+      "row": 7,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Salty snack often eaten with dip",
-      "answer": "CHIPS",
-      "row": 0,
-      "col": 1,
+      "clue": "Take child to work",
+      "answer": "WORK",
+      "row": 5,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Place where a cow lives",
+      "answer": "BARN",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
     }
   ],
-  "dayNumber": 63
+  "dayNumber": 62
 }

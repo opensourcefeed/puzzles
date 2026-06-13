@@ -1,71 +1,78 @@
 {
   "id": "dailycross-2027-01-03",
   "date": "2027-01-03",
-  "title": "3 January 2027",
+  "title": "2027-01-03",
   "words": [
     {
-      "clue": "Build walls with this gray mix",
-      "answer": "CONCRETE",
-      "row": 1,
-      "col": 0,
+      "clue": "Person who sells things",
+      "answer": "SELLER",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Teenager 13-19 years old",
-      "answer": "TEENAGER",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Brussels",
-      "answer": "BELGIUM",
+      "clue": "Organ that filters blood",
+      "answer": "KIDNEY",
       "row": 3,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Riding a bicycle",
-      "answer": "CYCLING",
-      "row": 1,
-      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Team sport played with feet",
-      "answer": "SOCCER",
-      "row": 0,
+      "clue": "Studies old things",
+      "answer": "FINDER",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Ball shape in 3D",
+      "answer": "SPHERE",
+      "row": 7,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Vehicle that flies to space",
-      "answer": "ROCKET",
-      "row": 8,
+      "clue": "Chocolate color",
+      "answer": "BROWN",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Kid's helper adult",
+      "answer": "GUARD",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Wanting something badly",
+      "answer": "WISH",
+      "row": 11,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Box shape in 3D",
+      "answer": "CUBE",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Robot that vacuums floors",
-      "answer": "ROOMBA",
-      "row": 0,
-      "col": 11,
+      "clue": "Roofs are covered with this flat material",
+      "answer": "TILE",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You open to let in light",
-      "answer": "WINDOW",
+      "clue": "Temp care for child",
+      "answer": "CARE",
       "row": 2,
       "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Large black and white keyboard",
-      "answer": "PIANO",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
     }
   ],
-  "dayNumber": 206
+  "dayNumber": 205
 }

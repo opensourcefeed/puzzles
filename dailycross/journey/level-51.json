@@ -1,0 +1,94 @@
+{
+  "id": "journey-level-51",
+  "level": 51,
+  "title": "Level 51",
+  "words": [
+    {
+      "clue": "Computer virus protection",
+      "answer": "ANTIVIRUS",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with Berlin",
+      "answer": "GERMANY",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean animal with a hard shell",
+      "answer": "LOBSTER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Riding a bicycle",
+      "answer": "CYCLING",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Fallen leaves on ground",
+      "answer": "LEAVES",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Workers day off",
+      "answer": "DAYOFF",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "How heavy something is",
+      "answer": "WEIGHT",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Your father's brother",
+      "answer": "UNCLE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Area where river meets ocean",
+      "answer": "DELTA",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Organ that breaks down fats",
+      "answer": "LIVER",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "March green day",
+      "answer": "GREEN",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Pencil writing material",
+      "answer": "LEAD",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 12,
+  "targetWords": 12,
+  "difficulty": "medium"
+}

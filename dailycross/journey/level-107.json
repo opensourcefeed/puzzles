@@ -1,0 +1,101 @@
+{
+  "id": "journey-level-107",
+  "level": 107,
+  "title": "Level 107",
+  "words": [
+    {
+      "clue": "Game played with shuttlecock",
+      "answer": "BADMINTON",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Long green garden vegetable",
+      "answer": "CUCUMBER",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "September celebration of workers",
+      "answer": "LABORDAY",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Police building",
+      "answer": "STATION",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a doctor works",
+      "answer": "CLINIC",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Spinning on an axis",
+      "answer": "ROTATE",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport played on ice with sticks",
+      "answer": "HOCKEY",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Invisible power that attracts metal",
+      "answer": "MAGNET",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Eat soup with this",
+      "answer": "SPOON",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very tired",
+      "answer": "TIRED",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very glad",
+      "answer": "HAPPY",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Pipe instrument you blow into",
+      "answer": "FLUTE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Two children born at the same time",
+      "answer": "TWIN",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    }
+  ],
+  "wordCount": 13,
+  "targetWords": 19,
+  "difficulty": "hard"
+}

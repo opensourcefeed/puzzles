@@ -1,71 +1,71 @@
 {
   "id": "dailycross-2027-05-20",
   "date": "2027-05-20",
-  "title": "20 May 2027",
+  "title": "2027-05-20",
   "words": [
     {
-      "clue": "Fiberglass is used for insulation",
-      "answer": "FIBERGLASS",
-      "row": 2,
+      "clue": "Pillows are filled with soft feathers",
+      "answer": "FEATHER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Bird that cannot fly",
-      "answer": "PENGUIN",
+      "clue": "Cut wires with this",
+      "answer": "PLIERS",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where you get ice cream",
+      "answer": "PARLOR",
       "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Planet with rings around it",
+      "answer": "SATURN",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Pumps blood through your body",
+      "answer": "HEART",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Wear this to protect clothes",
-      "answer": "APRON",
+      "clue": "Wanting something badly",
+      "answer": "WISH",
       "row": 0,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A man on his wedding day",
-      "answer": "GROOM",
-      "row": 2,
-      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Country with Madrid",
-      "answer": "SPAIN",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Nairobi",
-      "answer": "KENYA",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Small bed for growing vegetables",
-      "answer": "PLOT",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Thick fog that limits sight",
-      "answer": "MIST",
+      "clue": "Bowls are made of this moldable material",
+      "answer": "CLAY",
       "row": 1,
-      "col": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Direction the sun rises",
+      "answer": "EAST",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Tall sitting seat",
+      "answer": "SEAT",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "dayNumber": 343
+  "dayNumber": 342
 }

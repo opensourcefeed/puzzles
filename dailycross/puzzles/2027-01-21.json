@@ -1,78 +1,71 @@
 {
   "id": "dailycross-2027-01-21",
   "date": "2027-01-21",
-  "title": "21 January 2027",
+  "title": "2027-01-21",
   "words": [
     {
-      "clue": "A mineral that helps with muscles",
-      "answer": "POTASSIUM",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for coffee",
-      "answer": "COLOMBIA",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Bacteria that turns milk into yogurt",
-      "answer": "CULTURE",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling nervous before a test",
-      "answer": "NERVOUS",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Regular exercise keeps you this",
-      "answer": "HEALTHY",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Carve wood with this",
-      "answer": "CHISEL",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Protects a park or forest",
-      "answer": "RANGER",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Largest country in the world",
-      "answer": "RUSSIA",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Game console by Microsoft",
-      "answer": "XBOX",
-      "row": 6,
+      "clue": "Draw circles with this",
+      "answer": "COMPASS",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Measures how much matter is in something",
-      "answer": "MASS",
+      "clue": "Manages money in a bank",
+      "answer": "BANKER",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewish lights festival",
+      "answer": "LIGHTS",
       "row": 0,
       "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "Mix cake batter with this",
+      "answer": "MIXER",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Plant climbing frame",
+      "answer": "FENCE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "What an egg becomes",
+      "answer": "CHICK",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Cloud of gas in space",
+      "answer": "CLOUD",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Fragrant white spring flower",
+      "answer": "LILY",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant that climbs up trellises",
+      "answer": "VINE",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
     }
   ],
-  "dayNumber": 224
+  "dayNumber": 223
 }
