@@ -4,53 +4,67 @@
   "title": "2026-09-17",
   "words": [
     {
-      "clue": "Very tall natural land feature",
-      "answer": "MOUNTAIN",
+      "clue": "Small round instrument with metal discs around the edge you shake",
+      "answer": "TAMBOURINE",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Country with Copenhagen",
-      "answer": "DENMARK",
-      "row": 2,
-      "col": 3,
+      "clue": "Feeling unsure about what to do or think",
+      "answer": "CONFUSED",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Three children born at once",
-      "answer": "TRIPLET",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Song that celebrates a country",
-      "answer": "ANTHEM",
-      "row": 2,
+      "clue": "Long dark green vegetable related to the melon family",
+      "answer": "CUCUMBER",
+      "row": 7,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Place where justice is decided",
-      "answer": "COURT",
+      "clue": "The energy content of food measured in units",
+      "answer": "CALORIES",
       "row": 3,
-      "col": 1,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Family last name",
-      "answer": "NAME",
-      "row": 6,
-      "col": 2,
+      "clue": "Physical activity that keeps your body strong and fit",
+      "answer": "EXERCISE",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall chest with a mirror on top used for storing clothes",
+      "answer": "DRESSER",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Head cook in a restaurant",
-      "answer": "CHEF",
+      "clue": "Sport where you sail a boat using wind",
+      "answer": "SAILING",
       "row": 0,
       "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Device used to weigh out exact amounts of ingredients",
+      "answer": "SCALE",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "What a tadpole develops into over time",
+      "answer": "FROG",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 97

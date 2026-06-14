@@ -4,119 +4,112 @@
   "title": "Level 125",
   "words": [
     {
-      "clue": "What a caterpillar becomes",
-      "answer": "BUTTERFLY",
+      "clue": "Buddhist holiday celebrating the birth of Buddha",
+      "answer": "BUDDHASDAY",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "February 14 celebration",
-      "answer": "VALENTINE",
-      "row": 4,
+      "clue": "Small blue round fruit used in muffins",
+      "answer": "BLUEBERRY",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
+      "answer": "AMBULANCE",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Studies rocks and Earth",
-      "answer": "GEOLOGIST",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Coin worth 100 cents",
-      "answer": "QUARTER",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Table surface for food prep",
-      "answer": "COUNTER",
-      "row": 8,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with this",
-      "answer": "PENCIL",
-      "row": 8,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "You open to let in light",
-      "answer": "WINDOW",
+      "clue": "The middle day of the school week",
+      "answer": "WEDNESDAY",
       "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Popular search engine",
-      "answer": "GOOGLE",
+      "clue": "Item you hold above your head to stay dry in rain",
+      "answer": "UMBRELLA",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny floating organisms that form the base of the ocean food chain",
+      "answer": "PLANKTON",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A substance that speeds up a chemical reaction",
+      "answer": "CATALYST",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Colored pencils used in art class",
+      "answer": "MARKERS",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The eighth and farthest planet from the sun",
+      "answer": "NEPTUNE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Scandinavian country with the city of Stockholm",
+      "answer": "SWEDEN",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Smooth creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 14,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport played with a racket and a small yellow ball",
+      "answer": "TENNIS",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Your female parent",
+      "answer": "MOTHER",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Coin worth 5 cents",
-      "answer": "NICKEL",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Red ocean algae",
-      "answer": "ALGAE",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Types of money",
-      "answer": "COINS",
-      "row": 10,
-      "col": 0,
+      "clue": "Hard protective layer at the tip of your fingers",
+      "answer": "NAILS",
+      "row": 2,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "What an egg becomes",
-      "answer": "CHICK",
-      "row": 10,
+      "clue": "Feeling pleased with yourself after doing something well",
+      "answer": "PROUD",
+      "row": 4,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Studies nature",
-      "answer": "LOVER",
-      "row": 1,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on this with cushions",
-      "answer": "SOFA",
-      "row": 11,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving to stay fit",
-      "answer": "WALK",
-      "row": 14,
-      "col": 9,
       "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 15,
   "targetWords": 22,
   "difficulty": "hard"
 }

@@ -4,67 +4,74 @@
   "title": "2027-06-08",
   "words": [
     {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
-      "row": 4,
+      "clue": "Person who designs buildings and plans how they will be built",
+      "answer": "ARCHITECT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Group of people related by blood",
-      "answer": "FAMILY",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Song that celebrates a country",
-      "answer": "ANTHEM",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You eat meals on this",
-      "answer": "TABLE",
+      "clue": "Orange and white striped clown fish made famous by a movie",
+      "answer": "CLOWNFISH",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Wool comes from this fluffy animal",
-      "answer": "SHEEP",
+      "clue": "The city where a country's government is based",
+      "answer": "CAPITAL",
       "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Energy that travels in waves",
-      "answer": "SOUND",
-      "row": 4,
-      "col": 6,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Hot body temperature",
-      "answer": "HEAT",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Pencil made of this",
-      "answer": "LEAD",
-      "row": 8,
+      "clue": "A shape with many sides, more than eight",
+      "answer": "POLYGON",
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "December 25",
-      "answer": "XMAS",
-      "row": 1,
-      "col": 6,
+      "clue": "Tool used to spray paint evenly over a surface",
+      "answer": "SPRAYER",
+      "row": 3,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Special song played to honor a country",
+      "answer": "ANTHEM",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who writes novels, stories or non-fiction books",
+      "answer": "AUTHOR",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "You hold things and wave with these",
+      "answer": "HANDS",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The second planet from the sun, covered in thick clouds",
+      "answer": "VENUS",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The most populated country in the world",
+      "answer": "CHINA",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 361

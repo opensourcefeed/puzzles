@@ -4,67 +4,74 @@
   "title": "2026-07-15",
   "words": [
     {
-      "clue": "Cook food fast with waves",
-      "answer": "MICROWAVE",
+      "clue": "Yellow tropical fruit with a rough skin",
+      "answer": "PINEAPPLE",
       "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Coin worth 100 cents",
-      "answer": "QUARTER",
+      "clue": "Machine that heats bread slices until they are golden brown",
+      "answer": "TOASTER",
       "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "T-shirts are made of this soft fiber",
-      "answer": "COTTON",
-      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling uncertain",
-      "answer": "UNSURE",
-      "row": 0,
+      "clue": "Your tummy where food is digested",
+      "answer": "STOMACH",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Sliding compartment in a chest or desk used to store items",
+      "answer": "DRAWER",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Rock that comes from space and burns as it falls",
+      "answer": "METEOR",
+      "row": 4,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Mix of red and yellow",
-      "answer": "ORANGE",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Studies ocean life",
-      "answer": "MARINE",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Your sister's son",
-      "answer": "NEPHEW",
-      "row": 5,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Country known for watches",
-      "answer": "SWISS",
-      "row": 3,
+      "clue": "Folder where you keep your papers",
+      "answer": "BINDER",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Microscope sees these tiny living things",
-      "answer": "GERMS",
-      "row": 3,
+      "clue": "Organ that removes waste from the blood to make urine",
+      "answer": "KIDNEY",
+      "row": 8,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Large boat that carries vehicles across water",
+      "answer": "FERRY",
+      "row": 7,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Physical money in the form of coins and notes",
+      "answer": "CASH",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A small pill or tablet containing medicine",
+      "answer": "PILL",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 33

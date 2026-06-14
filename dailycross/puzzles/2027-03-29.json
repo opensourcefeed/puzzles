@@ -4,60 +4,74 @@
   "title": "2027-03-29",
   "words": [
     {
-      "clue": "Portable phone charger",
-      "answer": "POWERBANK",
-      "row": 1,
-      "col": 2,
+      "clue": "Building where scientists do research and experiments",
+      "answer": "LABORATORY",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Paddling through water",
-      "answer": "SWIMMING",
-      "row": 0,
-      "col": 4,
+      "clue": "Feeling strong and full of energy",
+      "answer": "ENERGETIC",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "First month of the year",
-      "answer": "JANUARY",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Google mobile operating system",
-      "answer": "ANDROID",
-      "row": 5,
+      "clue": "Holiday celebrating Earth and the environment in April",
+      "answer": "EARTHDAY",
+      "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Country with Warsaw",
-      "answer": "POLAND",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling uncertain",
-      "answer": "UNSURE",
+      "clue": "Small motor vehicle like a bicycle used in cities",
+      "answer": "SCOOTER",
       "row": 3,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "European country with the city of Berlin",
+      "answer": "GERMANY",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Place where you keep your money",
-      "answer": "BANK",
-      "row": 5,
+      "clue": "Sport played on ice with a puck and sticks",
+      "answer": "HOCKEY",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The child of your aunt or uncle",
+      "answer": "COUSIN",
+      "row": 3,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Long strip of material wrapped around your neck for warmth",
+      "answer": "SCARF",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "African country with pyramids and the Nile River",
+      "answer": "EGYPT",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint at the bottom of your hand connecting to your arm",
+      "answer": "WRIST",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "dayNumber": 290

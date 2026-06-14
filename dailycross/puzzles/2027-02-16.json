@@ -4,73 +4,66 @@
   "title": "2027-02-16",
   "words": [
     {
-      "clue": "Move dirt with this",
-      "answer": "TRACTOR",
-      "row": 5,
+      "clue": "Vehicle police officers drive",
+      "answer": "POLICECAR",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Building with tanks where you can see fish and sea creatures",
+      "answer": "AQUARIUM",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling deeply thankful for what someone did for you",
+      "answer": "GRATEFUL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Celebration at the start of a new year on January 1",
+      "answer": "NEWYEAR",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The booming sound you hear after lightning",
+      "answer": "THUNDER",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Brown vegetable that grows underground and is often fried",
+      "answer": "POTATO",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Container with a lid and handle used to boil water for tea",
+      "answer": "KETTLE",
+      "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Studies old things",
-      "answer": "FINDER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Tires are made from this bouncy material",
-      "answer": "RUBBER",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Largest ocean animal",
-      "answer": "WHALE",
+      "clue": "The repeated section at the end of each verse of a song",
+      "answer": "CHORUS",
       "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Day to honor first responders",
-      "answer": "FIRST",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Circus big tent",
-      "answer": "TENT",
+      "clue": "The gas that plants release which we breathe",
+      "answer": "OXYGEN",
       "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Falls from clouds",
-      "answer": "RAIN",
-      "row": 5,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "You walk on these",
-      "answer": "FEET",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Vertical surface of a room",
-      "answer": "WALL",
-      "row": 8,
-      "col": 2,
+      "col": 12,
       "direction": "down"
     }
   ],

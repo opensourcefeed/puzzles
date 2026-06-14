@@ -4,77 +4,70 @@
   "title": "Level 35",
   "words": [
     {
-      "clue": "Sun-loving tall yellow flower",
-      "answer": "SUNFLOWER",
+      "clue": "Tall feature on land formed by pushing earth upward",
+      "answer": "MOUNTAIN",
       "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where sick people go",
-      "answer": "HOSPITAL",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Ball shape in 3D",
-      "answer": "SPHERE",
-      "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Country known for tacos",
-      "answer": "MEXICO",
+      "clue": "Mountain with a hole at the top that can erupt",
+      "answer": "VOLCANO",
       "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "How heavy something is",
-      "answer": "WEIGHT",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Science building",
-      "answer": "SCHOOL",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Chinese new year symbol",
-      "answer": "DRAGON",
-      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Flat cooking surface",
-      "answer": "GRILL",
+      "clue": "Ocean bird that hovers over waves and dives for fish",
+      "answer": "SEAGULL",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Lightweight aircraft with one small engine",
+      "answer": "GLIDER",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Flat touchscreen device without a physical keyboard",
+      "answer": "TABLET",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Light rock full of small holes made by a volcano",
+      "answer": "PUMICE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Shellfish attached to rocks that opens when in water",
+      "answer": "MUSSEL",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where people stay overnight when traveling",
+      "answer": "HOTEL",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper you use to wrap your books",
+      "answer": "COVER",
       "row": 1,
-      "col": 3,
+      "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 9,
   "targetWords": 10,
   "difficulty": "medium"
 }

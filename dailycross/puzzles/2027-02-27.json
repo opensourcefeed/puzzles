@@ -4,67 +4,46 @@
   "title": "2027-02-27",
   "words": [
     {
-      "clue": "Short-range wireless technology",
-      "answer": "BLUETOOTH",
+      "clue": "Tall feature on land formed by pushing earth upward",
+      "answer": "MOUNTAIN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "All the bones that support your body together",
+      "answer": "SKELETON",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Very tiny living things you can only see with a microscope",
+      "answer": "BACTERIA",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Frozen sweet treat",
-      "answer": "ICECREAM",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a horse lives",
-      "answer": "STABLE",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Wipe counters with this",
-      "answer": "SPONGE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Arm bend point",
-      "answer": "ELBOW",
-      "row": 5,
+      "clue": "Gripping tool used to hold and bend wire or small parts",
+      "answer": "PLIERS",
+      "row": 3,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Microscope sees these tiny living things",
-      "answer": "GERMS",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Cloth to stop bleeding",
-      "answer": "CLOTH",
-      "row": 1,
-      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Soft white building rock",
-      "answer": "ROCK",
+      "clue": "Liquid squeezed from oranges",
+      "answer": "JUICE",
       "row": 4,
-      "col": 9,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Narrow water passage",
-      "answer": "GAP",
-      "row": 7,
+      "clue": "The bending joint in the middle of your leg",
+      "answer": "KNEE",
+      "row": 8,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 260

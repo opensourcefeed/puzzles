@@ -4,98 +4,84 @@
   "title": "Level 60",
   "words": [
     {
-      "clue": "Two-wheeled motor vehicle",
-      "answer": "MOTORCYCLE",
-      "row": 6,
+      "clue": "Very tall building found in city centers",
+      "answer": "SKYSCRAPER",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Cardboard is thick paper",
-      "answer": "CARDBOARD",
-      "row": 4,
-      "col": 6,
+      "clue": "Feeling strong and full of energy",
+      "answer": "ENERGETIC",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Emergency vehicle with siren",
-      "answer": "AMBULANCE",
+      "clue": "Box that takes people up and down in a building",
+      "answer": "ELEVATOR",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Your son's son",
+      "answer": "GRANDSON",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny air sacs inside the lungs where gas exchange happens",
+      "answer": "ALVEOLI",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat cooked breakfast food made from batter",
+      "answer": "PANCAKE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with eight sides like a stop sign",
+      "answer": "OCTAGON",
       "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
-      "row": 6,
-      "col": 14,
+      "clue": "Machine with spinning blades used to blend smoothies and soups",
+      "answer": "BLENDER",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Studies bugs",
-      "answer": "CATCHER",
-      "row": 4,
-      "col": 6,
+      "clue": "Southeast Asian country with the city of Hanoi",
+      "answer": "VIETNAM",
+      "row": 2,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Your female parent",
-      "answer": "MOTHER",
-      "row": 6,
+      "clue": "Shellfish that produces a shiny pearl inside its shell",
+      "answer": "OYSTER",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle that flies to space",
-      "answer": "ROCKET",
-      "row": 12,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Makes pots out of clay",
-      "answer": "POTTER",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 11,
+      "clue": "A perfectly round flat shape",
+      "answer": "CIRCLE",
+      "row": 8,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Red ocean algae",
-      "answer": "ALGAE",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Score unit in a game",
-      "answer": "POINT",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 11,
   "targetWords": 13,
   "difficulty": "medium"
 }

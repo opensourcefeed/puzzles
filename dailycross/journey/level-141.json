@@ -4,147 +4,105 @@
   "title": "Level 141",
   "words": [
     {
-      "clue": "Place where buses arrive",
-      "answer": "TERMINAL",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Frozen sweet treat",
-      "answer": "ICECREAM",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving your body to stay fit",
-      "answer": "EXERCISE",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling very interested",
-      "answer": "CURIOUS",
+      "clue": "Long vehicle used to transport many children to school",
+      "answer": "SCHOOLBUS",
       "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
-      "row": 12,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Creates paintings or drawings",
-      "answer": "ARTIST",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Popular search engine",
-      "answer": "GOOGLE",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Peel potatoes with this",
-      "answer": "PEELER",
+      "clue": "The day that came before today",
+      "answer": "YESTERDAY",
       "row": 4,
-      "col": 9,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "T-shirts are made of this soft fiber",
-      "answer": "COTTON",
-      "row": 1,
+      "clue": "A shape that is taller than it is wide, with four sides",
+      "answer": "RECTANGLE",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Turning around and around on a central point",
+      "answer": "ROTATION",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Deep valley with steep sides",
-      "answer": "CANYON",
+      "clue": "Sport where you jump over a high bar",
+      "answer": "HIGHJUMP",
       "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The time of day just after you wake up",
+      "answer": "MORNING",
+      "row": 2,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Score unit in a game",
-      "answer": "POINT",
-      "row": 4,
-      "col": 9,
+      "clue": "Brown vegetable that grows underground and is often fried",
+      "answer": "POTATO",
+      "row": 11,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Land of the rising sun",
-      "answer": "JAPAN",
-      "row": 10,
+      "clue": "Very dark red like dried blood",
+      "answer": "MAROON",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Dig holes with this",
-      "answer": "SPADE",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Five sided shape",
-      "answer": "POINT",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Mix of red and yellow",
-      "answer": "PEACH",
-      "row": 8,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle that runs on tracks",
-      "answer": "TRAIN",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Ice cream shop",
-      "answer": "SHOP",
+      "clue": "Feeling sorry after making a mistake",
+      "answer": "GUILTY",
       "row": 2,
-      "col": 10,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Remove old screws",
-      "answer": "PULL",
-      "row": 7,
-      "col": 10,
+      "clue": "Long deep crack in the ground with steep walls",
+      "answer": "CANYON",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Only child description",
-      "answer": "SOLO",
-      "row": 11,
+      "clue": "The second most populated country with the Taj Mahal",
+      "answer": "INDIA",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who watches over a building to keep it safe",
+      "answer": "GUARD",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle that slides on snow pulled by dogs or horses",
+      "answer": "SLED",
+      "row": 10,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A red raised mark on skin caused by rubbing or allergy",
+      "answer": "RASH",
+      "row": 10,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 20,
+  "wordCount": 14,
   "targetWords": 24,
   "difficulty": "hard"
 }

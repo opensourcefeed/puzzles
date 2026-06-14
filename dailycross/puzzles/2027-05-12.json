@@ -4,67 +4,74 @@
   "title": "2027-05-12",
   "words": [
     {
-      "clue": "Tool used to see far stars",
-      "answer": "TELESCOPE",
-      "row": 4,
+      "clue": "Putting your money into a business to earn more",
+      "answer": "INVESTMENT",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Your male sibling",
-      "answer": "BROTHER",
+      "clue": "June holiday to honor and give gifts to fathers",
+      "answer": "FATHERSDAY",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Flash of electricity in the sky during a storm",
+      "answer": "LIGHTNING",
       "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle with two wheels and a motor",
-      "answer": "SCOOTER",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Removes pencil marks",
-      "answer": "ERASER",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Strong bone mineral",
-      "answer": "MAGNET",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving energy of objects",
-      "answer": "MOTION",
-      "row": 6,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Sun color",
-      "answer": "YELLOW",
-      "row": 6,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "You eat with this",
-      "answer": "MOUTH",
+      "clue": "The set of black and white keys on a piano",
+      "answer": "KEYBOARD",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Long yellow curved fruit",
+      "answer": "BANANA",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "You use this to rub out pencil marks",
+      "answer": "ERASER",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who manages the money and accounts at a bank",
+      "answer": "BANKER",
       "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Country famous for the Colosseum, pasta and pizza",
+      "answer": "ITALY",
+      "row": 10,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Top of the oven for cooking",
-      "answer": "STOVE",
+      "clue": "These are the white hard parts inside your mouth",
+      "answer": "TEETH",
       "row": 0,
-      "col": 3,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Lazy animal that hangs from trees in South America",
+      "answer": "SLOTH",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 334

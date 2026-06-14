@@ -4,84 +4,77 @@
   "title": "Level 45",
   "words": [
     {
-      "clue": "Studies rocks and Earth",
-      "answer": "GEOLOGIST",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Emergency vehicle with siren",
-      "answer": "AMBULANCE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Toast bread in this",
-      "answer": "TOASTER",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you cook meals",
-      "answer": "KITCHEN",
+      "clue": "A large group of musicians playing instruments together",
+      "answer": "ORCHESTRA",
       "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Writes books",
-      "answer": "AUTHOR",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Presents news on television",
-      "answer": "ANCHOR",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Music leader",
-      "answer": "LEADER",
-      "row": 3,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Money that the government takes from people's wages",
+      "answer": "INCOMETAX",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Red ocean algae",
-      "answer": "ALGAE",
-      "row": 2,
-      "col": 13,
+      "clue": "Person who travels to new places to discover and learn",
+      "answer": "EXPLORER",
+      "row": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Makes medicine",
-      "answer": "MAKER",
-      "row": 7,
+      "clue": "A curved shape like a banana or the moon",
+      "answer": "CRESCENT",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Two slices of bread with filling inside",
+      "answer": "SANDWICH",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Bone picture machine",
-      "answer": "SCAN",
-      "row": 5,
-      "col": 1,
+      "clue": "Marine animal with a star shape",
+      "answer": "STARFISH",
+      "row": 4,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Building where you buy prescription medicine",
+      "answer": "PHARMACY",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Mountain with a hole at the top that can erupt",
+      "answer": "VOLCANO",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Large arena where sports teams play matches",
+      "answer": "STADIUM",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "South American country with the Andes mountains",
+      "answer": "PERU",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 10,
   "targetWords": 11,
   "difficulty": "medium"
 }

@@ -4,39 +4,39 @@
   "title": "Level 11",
   "words": [
     {
-      "clue": "Global network of computers",
-      "answer": "INTERNET",
-      "row": 2,
+      "clue": "Sport where you glide on ice wearing blades on your feet",
+      "answer": "SKATING",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Teaches dogs new skills",
-      "answer": "TRAINER",
-      "row": 1,
+      "clue": "Feeling very interested and wanting to explore and find out more",
+      "answer": "CURIOUS",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Drives a vehicle for hire",
-      "answer": "DRIVER",
-      "row": 4,
+      "clue": "Person who educates students in a school classroom",
+      "answer": "TEACHER",
+      "row": 1,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Boil water in this",
-      "answer": "KETTLE",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Shiny coat on pans",
-      "answer": "SHINE",
+      "clue": "Test done by a doctor to measure your body temperature",
+      "answer": "CHECKUP",
       "row": 0,
-      "col": 0,
-      "direction": "down"
+      "col": 4,
+      "direction": "across"
     }
   ],
   "wordCount": 5,

@@ -4,60 +4,67 @@
   "title": "2026-10-01",
   "words": [
     {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
-      "row": 6,
-      "col": 0,
+      "clue": "Asian country with the city of Seoul",
+      "answer": "SOUTHKOREA",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Vehicle with two wheels and a motor",
-      "answer": "SCOOTER",
-      "row": 5,
-      "col": 3,
+      "clue": "Light fitting that hangs from the ceiling",
+      "answer": "CHANDELIER",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Closest planet to the sun",
-      "answer": "MERCURY",
-      "row": 5,
-      "col": 1,
+      "clue": "Building where scientists do research and experiments",
+      "answer": "LABORATORY",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
+      "clue": "A shape with four sides and only one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "One hundred years is called this",
+      "answer": "CENTURY",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Country with Berlin",
-      "answer": "GERMANY",
+      "clue": "Brass instrument you blow into with three buttons",
+      "answer": "TRUMPET",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Folder where you keep your papers",
+      "answer": "BINDER",
       "row": 10,
-      "col": 2,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Moving energy of objects",
-      "answer": "MOTION",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant climbing frame",
-      "answer": "FENCE",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small unit of money",
-      "answer": "CENT",
-      "row": 6,
-      "col": 7,
+      "clue": "A microscopic particle that invades the body and causes disease",
+      "answer": "VIRUS",
+      "row": 5,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Small device you move on a flat surface to control the cursor",
+      "answer": "MOUSE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 111

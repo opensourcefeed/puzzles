@@ -4,66 +4,73 @@
   "title": "2026-11-01",
   "words": [
     {
-      "clue": "Four sides with right angles",
-      "answer": "RECTANGLE",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Room below your house",
-      "answer": "BASEMENT",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Three babies born together",
-      "answer": "TRIPLE",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Round white vegetable",
-      "answer": "ONION",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Sure of yourself",
-      "answer": "BOLD",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Twelve months",
-      "answer": "YEAR",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Underground storage",
-      "answer": "HOLE",
+      "clue": "The complete path of water from ocean to sky and back",
+      "answer": "WATERCYCLE",
       "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Family blood line",
-      "answer": "LINE",
-      "row": 9,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Money back when you return",
-      "answer": "BACK",
+      "clue": "Important substances in food like vitamins and minerals",
+      "answer": "NUTRIENTS",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The main processing chip inside a computer",
+      "answer": "PROCESSOR",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with exactly three sides and three corners",
+      "answer": "TRIANGLE",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "What happens when ice or chocolate becomes liquid from heat",
+      "answer": "MELTING",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A couple that is legally joined in marriage",
+      "answer": "COUPLE",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Large bird with a curved beak that can talk",
+      "answer": "PARROT",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Top with no collar or buttons worn by students",
+      "answer": "SHIRT",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of the night sky with no moon",
+      "answer": "BLACK",
+      "row": 9,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Lazy animal that hangs from trees in South America",
+      "answer": "SLOTH",
       "row": 0,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     }
   ],

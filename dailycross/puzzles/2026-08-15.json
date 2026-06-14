@@ -4,73 +4,66 @@
   "title": "2026-08-15",
   "words": [
     {
-      "clue": "Flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 2,
+      "clue": "Person who makes and dispenses medicine",
+      "answer": "PHARMACIST",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country with Vienna",
-      "answer": "AUSTRIA",
-      "row": 2,
+      "clue": "Large building where goods are stored",
+      "answer": "WAREHOUSE",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 1,
-      "col": 3,
+      "clue": "The region of space from which nothing can escape",
+      "answer": "BLACKHOLE",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Mix of two metals",
-      "answer": "BRONZE",
+      "clue": "Person who builds roads, bridges and large structures",
+      "answer": "ENGINEER",
       "row": 6,
-      "col": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Breakfast egg dish",
-      "answer": "OMELET",
+      "clue": "A shape like a can or tube",
+      "answer": "CYLINDER",
       "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Crunchy green vegetable with stalks",
-      "answer": "CELERY",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Goes around something",
-      "answer": "ORBIT",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Book reading day",
-      "answer": "BOOK",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Wanting things fast",
-      "answer": "RUSH",
-      "row": 4,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Flag flying day",
-      "answer": "FLAG",
-      "row": 8,
+      "clue": "Light purple color of a lavender flower",
+      "answer": "LAVENDER",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The celebration ceremony when two people get married",
+      "answer": "WEDDING",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Shaking from feeling very cold or being very scared",
+      "answer": "SHIVER",
+      "row": 1,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling worried about what will happen next",
+      "answer": "UNEASY",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     }
   ],

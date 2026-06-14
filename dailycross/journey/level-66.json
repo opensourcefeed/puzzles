@@ -4,70 +4,98 @@
   "title": "Level 66",
   "words": [
     {
-      "clue": "Sport where you throw a long metal stick",
+      "clue": "Cabinet in the kitchen used to store dishes and glasses",
+      "answer": "CUPBOARD",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who builds roads, bridges and large structures",
+      "answer": "ENGINEER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Animal with spots that lives in Africa",
+      "answer": "LEOPARD",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you throw a long spear as far as you can",
       "answer": "JAVELIN",
-      "row": 3,
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling anxious before a big test or event",
+      "answer": "NERVOUS",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Being in good physical condition from exercise and good food",
+      "answer": "HEALTHY",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling that you want something very much",
+      "answer": "JEALOUS",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Container with a lid and handle used to boil water for tea",
+      "answer": "KETTLE",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Starchy vegetable that grows underground often made into chips",
+      "answer": "POTATO",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "An object that attracts iron and steel",
+      "answer": "MAGNET",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you row a boat on water",
+      "answer": "ROWING",
+      "row": 1,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Toast bread in this",
-      "answer": "TOASTER",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Gentle movement of air",
-      "answer": "BREEZE",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Turn nuts with a socket",
-      "answer": "SOCKET",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Group of people related by blood",
+      "clue": "A group of people all related to each other",
       "answer": "FAMILY",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
+      "row": 14,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "Sharp point on a rose stem",
-      "answer": "THORN",
+      "clue": "Flat dish used to serve a meal",
+      "answer": "PLATE",
       "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to plant trees",
-      "answer": "ARBOR",
-      "row": 1,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "World environment day",
-      "answer": "WORLD",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Round coral island",
-      "answer": "RING",
-      "row": 8,
       "col": 0,
-      "direction": "across"
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 13,
   "targetWords": 14,
   "difficulty": "medium"
 }

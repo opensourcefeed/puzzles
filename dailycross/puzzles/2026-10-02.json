@@ -4,73 +4,66 @@
   "title": "2026-10-02",
   "words": [
     {
-      "clue": "Spinning on an axis",
-      "answer": "ROTATE",
-      "row": 4,
+      "clue": "Vehicle that puts out fires with water",
+      "answer": "FIRETRUCK",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Large building where sick people go to be treated",
+      "answer": "HOSPITAL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall yellow spring flower with a trumpet-shaped center",
+      "answer": "DAFFODIL",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The twelfth and last month of the year",
+      "answer": "DECEMBER",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 1,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Gentle movement of air",
-      "answer": "BREEZE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes folded in this",
-      "answer": "DRAWER",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Cover for garden soil",
-      "answer": "COVER",
-      "row": 4,
+      "clue": "Money you earn every month from your job",
+      "answer": "SALARY",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Purple garden vegetable",
-      "answer": "PLUM",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "You hang a picture on this",
-      "answer": "HOOK",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean creature that buries in sand",
-      "answer": "CLAM",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Tall plant with a trunk",
-      "answer": "TREE",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Money back when you return",
-      "answer": "BACK",
-      "row": 0,
+      "clue": "Cookies baked with oats and raisins",
+      "answer": "COOKIE",
+      "row": 2,
       "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling worn out after a long day of activity",
+      "answer": "TIRED",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A song sung by one person on stage",
+      "answer": "SOLO",
+      "row": 3,
+      "col": 7,
       "direction": "across"
     }
   ],

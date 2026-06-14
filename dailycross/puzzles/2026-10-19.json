@@ -4,74 +4,60 @@
   "title": "2026-10-19",
   "words": [
     {
-      "clue": "Machine that processes information",
-      "answer": "COMPUTER",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Long green garden vegetable",
-      "answer": "CUCUMBER",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Start of day before noon",
-      "answer": "MORNING",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Wipe counters with this",
-      "answer": "SPONGE",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
-      "row": 7,
+      "clue": "Vehicle police officers drive",
+      "answer": "POLICECAR",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Workers day off",
-      "answer": "DAYOFF",
-      "row": 4,
+      "clue": "The first day of the weekend",
+      "answer": "SATURDAY",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The energy content of food measured in units",
+      "answer": "CALORIES",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful part of a plant that attracts bees",
+      "answer": "FLOWER",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The flat bottomed region of the deep ocean",
+      "answer": "SEABED",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Large white box that keeps food cold",
+      "answer": "FRIDGE",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Scandinavian country with the city of Stockholm",
+      "answer": "SWEDEN",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Solid form of water that forms in cold weather",
+      "answer": "SNOW",
+      "row": 0,
       "col": 1,
       "direction": "down"
-    },
-    {
-      "clue": "Room where you work at home",
-      "answer": "OFFICE",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Goes around something",
-      "answer": "ORBIT",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
     }
   ],
   "dayNumber": 129

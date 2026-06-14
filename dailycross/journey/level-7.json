@@ -4,42 +4,49 @@
   "title": "Level 7",
   "words": [
     {
-      "clue": "Bones inside your body",
-      "answer": "SKELETON",
+      "clue": "Round orange citrus fruit",
+      "answer": "ORANGE",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cleans schools and offices",
-      "answer": "JANITOR",
-      "row": 2,
-      "col": 7,
+      "clue": "The colorful part of a plant that attracts bees and butterflies",
+      "answer": "PETAL",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Cut pizza with this",
-      "answer": "CUTTER",
+      "clue": "Small mountain country between India and China",
+      "answer": "NEPAL",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "About thirty days long, there are twelve in a year",
+      "answer": "MONTH",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat dish used to serve a meal",
+      "answer": "PLATE",
       "row": 6,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Handheld device for calls and apps",
-      "answer": "PHONE",
+      "clue": "Asian country known as the land of the rising sun",
+      "answer": "JAPAN",
       "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Sleeping helps you rest and recover",
-      "answer": "REST",
-      "row": 3,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

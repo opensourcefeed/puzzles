@@ -4,74 +4,67 @@
   "title": "2026-06-14",
   "words": [
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Hanoi",
-      "answer": "VIETNAM",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "World book day",
-      "answer": "BOOKDAY",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Three babies born together",
-      "answer": "TRIPLE",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Grate cheese with this",
-      "answer": "GRATER",
-      "row": 10,
+      "clue": "Vehicle police officers drive",
+      "answer": "POLICECAR",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Writes news stories",
-      "answer": "WRITER",
-      "row": 6,
+      "clue": "A substance that speeds up a chemical reaction",
+      "answer": "CATALYST",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Muslim feast day",
-      "answer": "FEAST",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Energy from the sun",
-      "answer": "SOLAR",
+      "clue": "The outer coat of a seed that protects it",
+      "answer": "SEEDCOAT",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "White dairy drink",
-      "answer": "MILK",
+      "clue": "European country with the city of Athens",
+      "answer": "GREECE",
       "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A shallow wound on the skin from scraping against something rough",
+      "answer": "SCRAPE",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "East African country with the city of Nairobi and safaris",
+      "answer": "KENYA",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 2,
-      "col": 11,
+      "clue": "Our group of planets, moons, and sun together",
+      "answer": "SOLAR",
+      "row": 3,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Body of water surrounded by land",
+      "answer": "LAKE",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Farm building where cows and hay are kept",
+      "answer": "BARN",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 2

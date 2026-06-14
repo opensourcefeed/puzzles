@@ -4,59 +4,73 @@
   "title": "2027-05-24",
   "words": [
     {
-      "clue": "Computer virus protection",
-      "answer": "ANTIVIRUS",
+      "clue": "The region of space from which nothing can escape",
+      "answer": "BLACKHOLE",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Room below your house",
-      "answer": "BASEMENT",
+      "clue": "A substance taken to treat or prevent illness",
+      "answer": "MEDICINE",
       "row": 6,
-      "col": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Country with Kuala Lumpur",
-      "answer": "MALAYSIA",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Riding a bicycle",
-      "answer": "CYCLING",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Vision vitamin",
-      "answer": "CARROT",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Dark blue like the deep sea",
-      "answer": "NAVY",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Magnifying tool",
-      "answer": "LENS",
+      "clue": "A young person between thirteen and nineteen years old",
+      "answer": "TEENAGER",
       "row": 3,
-      "col": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Fine thin rain that barely gets you wet",
+      "answer": "DRIZZLE",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep narrow valley with steep rocky sides",
+      "answer": "CANYON",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you kick a black and white ball into a net",
+      "answer": "SOCCER",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Very light pink color",
+      "answer": "BLUSH",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A large body of flowing water that runs to the sea",
+      "answer": "RIVER",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The fan-shaped area where a river spreads out before the sea",
+      "answer": "DELTA",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Large powerful ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     }
   ],

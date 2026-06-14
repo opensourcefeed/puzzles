@@ -4,66 +4,73 @@
   "title": "2026-07-14",
   "words": [
     {
-      "clue": "Math calculation tool",
-      "answer": "CALCULATOR",
-      "row": 3,
+      "clue": "Person who designs buildings and plans how they will be built",
+      "answer": "ARCHITECT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Top part of your arm",
-      "answer": "SHOULDER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Harvest celebration",
-      "answer": "HARVEST",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
-      "row": 2,
+      "clue": "Long vehicle used to transport many children to school",
+      "answer": "SCHOOLBUS",
+      "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Creates paintings or drawings",
-      "answer": "ARTIST",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
+      "clue": "Amount of rain that falls in a place",
+      "answer": "RAINFALL",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "Chinese new year symbol",
-      "answer": "DRAGON",
+      "clue": "Holiday celebrating Earth and the environment in April",
+      "answer": "EARTHDAY",
       "row": 9,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Electric car company",
-      "answer": "TESLA",
-      "row": 6,
-      "col": 8,
+      "clue": "Large farm vehicle used to pull plows and equipment",
+      "answer": "TRACTOR",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Huge deep trench in the ocean floor",
+      "answer": "TRENCH",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Unit of electric force",
-      "answer": "VOLT",
-      "row": 2,
-      "col": 8,
+      "clue": "Place where a river begins",
+      "answer": "SOURCE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Small flow of water moving across land",
+      "answer": "STREAM",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Crunchy pale green stalk vegetable used in salads",
+      "answer": "CELERY",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Asian country known as the land of the rising sun",
+      "answer": "JAPAN",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     }
   ],

@@ -4,74 +4,67 @@
   "title": "2026-10-13",
   "words": [
     {
-      "clue": "Emergency vehicle with siren",
-      "answer": "AMBULANCE",
+      "clue": "Machine that washes and dries your plates and cups",
+      "answer": "DISHWASHER",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 1,
-      "col": 8,
+      "clue": "Holiday on October 31 when children wear costumes",
+      "answer": "HALLOWEEN",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Weather expert",
-      "answer": "WATCHER",
-      "row": 6,
-      "col": 5,
+      "clue": "Portable battery pack that recharges your phone on the go",
+      "answer": "POWERBANK",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Pumps blood through your body",
-      "answer": "HEART",
-      "row": 5,
+      "clue": "Sport where you climb up a rock wall",
+      "answer": "CLIMBING",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who inspects and repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Country between France and Spain with the Pyrenees mountains",
+      "answer": "ANDORRA",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Small piece of land surrounded by water",
+      "answer": "ISLAND",
+      "row": 4,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Fine dish material",
-      "answer": "CHINA",
+      "clue": "Season when snow falls and it is very cold",
+      "answer": "WINTER",
       "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Dark blue like the deep sea",
-      "answer": "NAVY",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Boat parking place",
-      "answer": "DOCK",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Purple garden vegetable",
-      "answer": "PLUM",
-      "row": 2,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of music sung or played as one work",
+      "answer": "SONG",
+      "row": 2,
+      "col": 6,
       "direction": "across"
-    },
-    {
-      "clue": "Time the sun sets",
-      "answer": "DUSK",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Book reading day",
-      "answer": "BOOK",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
     }
   ],
   "dayNumber": 123

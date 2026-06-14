@@ -4,98 +4,91 @@
   "title": "Level 75",
   "words": [
     {
-      "clue": "Country with Kuala Lumpur",
-      "answer": "MALAYSIA",
-      "row": 4,
+      "clue": "Large device that sprays water on a lawn or garden",
+      "answer": "SPRINKLER",
+      "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Decayed plants used as fertilizer",
-      "answer": "COMPOST",
-      "row": 2,
-      "col": 3,
+      "clue": "Sport where you hit a shuttlecock with a racket",
+      "answer": "BADMINTON",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Three children born at once",
-      "answer": "TRIPLET",
-      "row": 2,
-      "col": 9,
+      "clue": "A substance taken to treat or prevent illness",
+      "answer": "MEDICINE",
+      "row": 6,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
+      "clue": "A flat shape with five sides and five corners",
+      "answer": "PENTAGON",
       "row": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The force that keeps planets orbiting the sun",
+      "answer": "GRAVITY",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Light rock full of small holes made by a volcano",
+      "answer": "PUMICE",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sweet round red or yellow vegetable used in salads",
+      "answer": "PEPPER",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where two boxers punch each other wearing gloves",
+      "answer": "BOXING",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Small building where a doctor sees patients",
+      "answer": "CLINIC",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A large group of singers performing together",
+      "answer": "CHOIR",
+      "row": 2,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix of red and blue",
-      "answer": "PURPLE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Spirit day wear purple",
-      "answer": "SPIRIT",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Pointed weapon shape",
-      "answer": "ARROW",
-      "row": 6,
+      "clue": "Black and white striped animal like a horse",
+      "answer": "ZEBRA",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Queen's big day",
-      "answer": "CROWN",
-      "row": 5,
+      "clue": "Animal known for spraying a bad smell",
+      "answer": "SKUNK",
+      "row": 9,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Most populated country",
-      "answer": "CHINA",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Build houses with this hard block",
-      "answer": "BRICK",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you get a haircut",
-      "answer": "SALON",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Turn socket tool",
-      "answer": "TURN",
-      "row": 2,
-      "col": 9,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 12,
   "targetWords": 15,
   "difficulty": "medium"
 }

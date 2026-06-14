@@ -4,60 +4,74 @@
   "title": "2026-11-13",
   "words": [
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
+      "clue": "Flat wide brush used to paint walls",
+      "answer": "PAINTBRUSH",
       "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a king rules",
-      "answer": "CASTLE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Material inside a wire",
-      "answer": "METAL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Temperature scale",
-      "answer": "SCALE",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Leg covering",
-      "answer": "PANTS",
-      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "White dairy drink",
-      "answer": "MILK",
-      "row": 0,
-      "col": 5,
+      "clue": "A flat shape with exactly three sides and three corners",
+      "answer": "TRIANGLE",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Full of energy feeling",
-      "answer": "LIVE",
+      "clue": "When a substance dissolves in a liquid",
+      "answer": "SOLUTION",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Item you hold above your head to stay dry in rain",
+      "answer": "UMBRELLA",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with four equal sides tilted at an angle",
+      "answer": "RHOMBUS",
       "row": 1,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Family last name",
-      "answer": "NAME",
-      "row": 5,
+      "clue": "A couple that is legally joined in marriage",
+      "answer": "COUPLE",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sweet round red or yellow vegetable used in salads",
+      "answer": "PEPPER",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "White layered vegetable that makes your eyes water when cut",
+      "answer": "ONION",
+      "row": 1,
       "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Large appliance used to bake bread, cakes and cookies",
+      "answer": "OVEN",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A body of fresh water completely surrounded by land",
+      "answer": "LAKE",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 154

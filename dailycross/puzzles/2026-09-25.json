@@ -4,67 +4,60 @@
   "title": "2026-09-25",
   "words": [
     {
-      "clue": "Riding a bicycle",
-      "answer": "CYCLING",
-      "row": 4,
+      "clue": "Dense tropical forest near the equator with heavy rain",
+      "answer": "RAINFOREST",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Loud sound after lightning",
-      "answer": "THUNDER",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with this",
-      "answer": "PENCIL",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Pour dressing from this",
-      "answer": "BOTTLE",
+      "clue": "Jewish holiday with eight nights of candles and gifts",
+      "answer": "HANUKKAH",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Wear purple day",
-      "answer": "PURPLE",
+      "clue": "Machine that can create three-dimensional objects from digital files",
+      "answer": "PRINTER",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with four equal sides and four corners",
+      "answer": "SQUARE",
       "row": 2,
-      "col": 9,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A jar where you put spare change",
-      "answer": "PIGGY",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "How much space something takes",
-      "answer": "SPACE",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Cloth to stop bleeding",
-      "answer": "CLOTH",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Part ownership in a company",
-      "answer": "PART",
+      "clue": "Thick yellow dairy spread put on bread",
+      "answer": "BUTTER",
       "row": 4,
       "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "A ball of ice and dust that has a glowing tail in space",
+      "answer": "COMET",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest coin worth only one cent",
+      "answer": "PENNY",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Large boat that carries vehicles across water",
+      "answer": "FERRY",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 105

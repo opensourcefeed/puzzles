@@ -4,66 +4,59 @@
   "title": "2027-03-28",
   "words": [
     {
-      "clue": "Colorful ocean fish with stripes",
-      "answer": "CLOWNFISH",
-      "row": 5,
-      "col": 2,
+      "clue": "Sport where you do flips and balances in a gym",
+      "answer": "GYMNASTICS",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling nervous before a test",
-      "answer": "NERVOUS",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling able to wait",
-      "answer": "PATIENT",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Shovel snow with this",
-      "answer": "SHOVEL",
-      "row": 3,
+      "clue": "Tiny floating organisms that form the base of the ocean food chain",
+      "answer": "PLANKTON",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Hold paper towels on this",
-      "answer": "HOLDER",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Wraps around neck for warmth",
-      "answer": "SCARF",
-      "row": 4,
-      "col": 2,
+      "clue": "Fine hairs above your eyes",
+      "answer": "EYEBROWS",
+      "row": 2,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Calendar shows the date",
-      "answer": "TODAY",
+      "clue": "Tall feature on land formed by pushing earth upward",
+      "answer": "MOUNTAIN",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The ocean surrounding Antarctica at the south of the Earth",
+      "answer": "SOUTHERN",
       "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A book or chart showing all the days of a year",
+      "answer": "CALENDAR",
+      "row": 3,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Tiny germ that causes colds",
-      "answer": "VIRUS",
-      "row": 3,
-      "col": 0,
+      "clue": "Very strong storm with spinning winds",
+      "answer": "TORNADO",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "European country with the city of Berlin",
+      "answer": "GERMANY",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     }
   ],

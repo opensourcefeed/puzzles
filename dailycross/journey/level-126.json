@@ -4,161 +4,119 @@
   "title": "Level 126",
   "words": [
     {
-      "clue": "Large landmass on Earth",
-      "answer": "CONTINENT",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Random acts of kindness day",
-      "answer": "KINDNESS",
+      "clue": "Very tall building found in city centers",
+      "answer": "SKYSCRAPER",
       "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Google mobile operating system",
-      "answer": "ANDROID",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "3D printing machine",
-      "answer": "PRINTER",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Warsaw",
-      "answer": "POLAND",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Fallen leaves on ground",
-      "answer": "LEAVES",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Istanbul",
-      "answer": "TURKEY",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Makes cartoons",
-      "answer": "DRAWER",
-      "row": 1,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "World environment day",
-      "answer": "WORLD",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You store blankets in this",
-      "answer": "CHEST",
-      "row": 7,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Large black and white keyboard",
-      "answer": "PIANO",
-      "row": 10,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Types of money",
-      "answer": "COINS",
-      "row": 14,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that carries goods",
-      "answer": "TRUCK",
+      "clue": "Sea creature with a shell on its back that lives on beaches",
+      "answer": "HERMITCRAB",
       "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You put a TV on this",
-      "answer": "STAND",
-      "row": 12,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Muslim feast day",
-      "answer": "FEAST",
-      "row": 1,
-      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Lift heavy objects",
-      "answer": "CRANE",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sticky bandage",
-      "answer": "PATCH",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden decoration statue",
-      "answer": "GNOME",
+      "clue": "The region of space from which nothing can escape",
+      "answer": "BLACKHOLE",
       "row": 10,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport of bending and stretching",
-      "answer": "YOGA",
-      "row": 1,
-      "col": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Mixed up and puzzled",
-      "answer": "LOST",
+      "clue": "Jewelry worn around the wrist",
+      "answer": "BRACELET",
       "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The second month of the year",
+      "answer": "FEBRUARY",
+      "row": 13,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 0,
-      "col": 10,
+      "clue": "The time of day just after you wake up",
+      "answer": "MORNING",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where you go to watch movies on a big screen",
+      "answer": "THEATER",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge collection of billions of stars in space",
+      "answer": "GALAXY",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Woven bench material",
-      "answer": "WOOD",
+      "clue": "Stringed instrument with six strings you strum or pluck",
+      "answer": "GUITAR",
       "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Money given back to you when you return something to a shop",
+      "answer": "REFUND",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A large group of singers performing together",
+      "answer": "CHOIR",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall bar stool used at a kitchen counter",
+      "answer": "STOOL",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Herb with a strong smell used on pizza",
+      "answer": "BASIL",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You read stories printed in this",
+      "answer": "BOOK",
+      "row": 10,
       "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "Soft green plant that grows on damp rocks and trees",
+      "answer": "MOSS",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Round container used to mix ingredients",
+      "answer": "BOWL",
+      "row": 5,
+      "col": 11,
+      "direction": "across"
     }
   ],
-  "wordCount": 22,
+  "wordCount": 16,
   "targetWords": 22,
   "difficulty": "hard"
 }

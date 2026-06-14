@@ -4,67 +4,53 @@
   "title": "2027-02-23",
   "words": [
     {
-      "clue": "April 1 prank day",
-      "answer": "APRILFOOLS",
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
       "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Does experiments for a living",
-      "answer": "SCIENTIST",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Blow leaves with this",
-      "answer": "BLOWER",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Seventh planet from the sun",
-      "answer": "URANUS",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Blood vessel that carries blood away",
-      "answer": "ARTERY",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Serve food on this",
-      "answer": "PLATE",
-      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Glass is made from melted sand",
-      "answer": "SAND",
-      "row": 0,
+      "clue": "Subject where you learn about countries and maps",
+      "answer": "GEOGRAPHY",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Energy stored in an object ready to be released",
+      "answer": "POTENTIAL",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with five sides and five corners",
+      "answer": "PENTAGON",
+      "row": 5,
       "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "The outer coat of a seed that protects it",
+      "answer": "SEEDCOAT",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Subject where you read and write stories and essays",
+      "answer": "ENGLISH",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The seventh planet from the sun which spins on its side",
+      "answer": "URANUS",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 256

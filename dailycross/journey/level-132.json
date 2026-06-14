@@ -4,126 +4,140 @@
   "title": "Level 132",
   "words": [
     {
-      "clue": "Digital watch with apps",
-      "answer": "SMARTWATCH",
-      "row": 7,
+      "clue": "Dense tropical forest near the equator with heavy rain",
+      "answer": "RAINFOREST",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "What a caterpillar becomes",
-      "answer": "BUTTERFLY",
+      "clue": "Person who designs buildings and plans how they will be built",
+      "answer": "ARCHITECT",
       "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Very tall natural land feature",
-      "answer": "MOUNTAIN",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Organizes weddings and events",
-      "answer": "PLANNER",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling nervous before a test",
-      "answer": "NERVOUS",
-      "row": 14,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very interested",
-      "answer": "CURIOUS",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
-      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Small ocean crustacean",
-      "answer": "SHRIMP",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Metal gray color",
-      "answer": "SILVER",
-      "row": 3,
-      "col": 0,
+      "clue": "A young person between thirteen and nineteen years old",
+      "answer": "TEENAGER",
+      "row": 6,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Place where a horse lives",
-      "answer": "STABLE",
-      "row": 3,
-      "col": 7,
+      "clue": "Room below the ground floor of a house",
+      "answer": "BASEMENT",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Work your teacher gives you to do at home",
+      "answer": "HOMEWORK",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Grows crops on a farm",
-      "answer": "FARMER",
+      "clue": "Person who travels to new places to discover and learn",
+      "answer": "EXPLORER",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Decomposed plant matter mixed into soil to help plants grow",
+      "answer": "COMPOST",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Spring holiday with Easter eggs and a bunny",
+      "answer": "EASTER",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Folder where you keep your papers",
+      "answer": "BINDER",
+      "row": 9,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Blood vessel that carries blood away from the heart",
+      "answer": "ARTERY",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Large vehicle that carries heavy goods on highways",
+      "answer": "TRUCK",
+      "row": 13,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very upset and wanting to shout",
+      "answer": "ANGRY",
+      "row": 11,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft fabric worn on your feet inside shoes",
+      "answer": "SOCKS",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "This is the current day you are living right now",
+      "answer": "TODAY",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The curved path a planet takes around the sun",
+      "answer": "ORBIT",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "August independence of India",
-      "answer": "AUGUST",
-      "row": 1,
+      "clue": "Long padded seat usually placed against a wall",
+      "answer": "BENCH",
+      "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Money per year of work",
-      "answer": "SALARY",
-      "row": 1,
-      "col": 11,
+      "clue": "Small mountain country between India and China",
+      "answer": "NEPAL",
+      "row": 0,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Grassy African plain",
-      "answer": "GRASS",
-      "row": 5,
-      "col": 10,
+      "clue": "Long soft padded seat for several people in the living room",
+      "answer": "SOFA",
+      "row": 11,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that moves on snow",
-      "answer": "SLED",
-      "row": 5,
-      "col": 14,
-      "direction": "down"
+      "clue": "The shared money used in most countries in Europe",
+      "answer": "EURO",
+      "row": 7,
+      "col": 11,
+      "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 19,
   "targetWords": 23,
   "difficulty": "hard"
 }

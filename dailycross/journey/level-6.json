@@ -4,46 +4,46 @@
   "title": "Level 6",
   "words": [
     {
-      "clue": "Country of kangaroos",
-      "answer": "AUSTRALIA",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Budapest",
-      "answer": "HUNGARY",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Drives a vehicle for hire",
-      "answer": "DRIVER",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Wraps around neck for warmth",
-      "answer": "SCARF",
-      "row": 6,
+      "clue": "Large arena where sports teams play matches",
+      "answer": "STADIUM",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Largest ocean animal",
-      "answer": "WHALE",
-      "row": 0,
-      "col": 7,
+      "clue": "Sport where you surf waves in the ocean on a board",
+      "answer": "SURFING",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Ocean animal with pincers",
-      "answer": "CRAB",
-      "row": 1,
-      "col": 9,
+      "clue": "European country with the city of Berlin",
+      "answer": "GERMANY",
+      "row": 3,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Your sister's or brother's son",
+      "answer": "NEPHEW",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Flat touchscreen device without a physical keyboard",
+      "answer": "TABLET",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when leaves turn red and fall from trees",
+      "answer": "AUTUMN",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "wordCount": 6,

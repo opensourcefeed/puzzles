@@ -4,91 +4,77 @@
   "title": "Level 57",
   "words": [
     {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
+      "clue": "Large green and red fruit with seeds inside",
+      "answer": "WATERMELON",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Largest country in the world",
-      "answer": "RUSSIA",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Test battery with a tester",
-      "answer": "TESTER",
+      "clue": "Person who leads tourists around historical sites",
+      "answer": "TOURGUIDE",
       "row": 4,
-      "col": 5,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Mix of two metals",
-      "answer": "BRONZE",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Words of a song",
-      "answer": "LYRICS",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A woman on her wedding day",
-      "answer": "BRIDE",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Land of the rising sun",
-      "answer": "JAPAN",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Madrid",
-      "answer": "SPAIN",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for watches",
-      "answer": "SWISS",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Pumps blood through your body",
-      "answer": "HEART",
+      "clue": "Sport where you jump as far as you can from a running start",
+      "answer": "LONGJUMP",
       "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Electricity pathway",
-      "answer": "PATH",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "European money unit",
-      "answer": "EURO",
-      "row": 11,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Your son's son",
+      "answer": "GRANDSON",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Turning around and around on a central point",
+      "answer": "ROTATION",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A secret word used to protect your accounts",
+      "answer": "PASSWORD",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who fixes water pipes and drains in buildings",
+      "answer": "PLUMBER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "European country with the city of Brussels",
+      "answer": "BELGIUM",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Round orange citrus fruit",
+      "answer": "ORANGE",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A woman on the day she gets married",
+      "answer": "BRIDE",
+      "row": 11,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 10,
   "targetWords": 13,
   "difficulty": "medium"
 }

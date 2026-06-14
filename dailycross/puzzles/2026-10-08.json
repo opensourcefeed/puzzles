@@ -4,60 +4,53 @@
   "title": "2026-10-08",
   "words": [
     {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Keep drinks cold in this",
-      "answer": "COOLER",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Sun color",
-      "answer": "YELLOW",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Seventh planet from the sun",
-      "answer": "URANUS",
+      "clue": "Important substances in food like vitamins and minerals",
+      "answer": "NUTRIENTS",
       "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Pair of married people",
-      "answer": "COUPLE",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A small unit of money",
-      "answer": "CENT",
-      "row": 3,
-      "col": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Money you borrow",
-      "answer": "DEBT",
+      "clue": "An object that does not let electricity pass through",
+      "answer": "INSULATOR",
       "row": 0,
-      "col": 9,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Take your child to work day",
-      "answer": "TAKE",
+      "clue": "Largest archipelago country in Southeast Asia",
+      "answer": "INDONESIA",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Bright flash of electricity between clouds and ground",
+      "answer": "LIGHTNING",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Brass instrument with a long slide that goes in and out",
+      "answer": "TROMBONE",
       "row": 1,
-      "col": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Very intelligent ocean mammal that swims in groups",
+      "answer": "DOLPHIN",
+      "row": 7,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "Black and white bird that cannot fly",
+      "answer": "PENGUIN",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 118

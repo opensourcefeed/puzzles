@@ -4,67 +4,74 @@
   "title": "2026-06-23",
   "words": [
     {
-      "clue": "Place where you mail letters",
-      "answer": "POSTOFFICE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Large landmass on Earth",
-      "answer": "CONTINENT",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Brussels",
-      "answer": "BELGIUM",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Celebration of a marriage",
-      "answer": "WEDDING",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "What plants breathe in",
-      "answer": "CARBON",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Metal gray color",
-      "answer": "SILVER",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Large round object in space",
-      "answer": "PLANET",
-      "row": 6,
+      "clue": "Book with words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Chocolate color",
-      "answer": "BROWN",
-      "row": 2,
-      "col": 1,
+      "clue": "The outer coat of a seed that protects it",
+      "answer": "SEEDCOAT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Small book where you write notes",
+      "answer": "NOTEBOOK",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A couple that is legally joined in marriage",
+      "answer": "COUPLE",
+      "row": 8,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Head cook in a restaurant",
-      "answer": "CHEF",
-      "row": 5,
-      "col": 7,
+      "clue": "A perfectly round flat shape",
+      "answer": "CIRCLE",
+      "row": 4,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Scandinavian country with the city of Oslo and fjords",
+      "answer": "NORWAY",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny lights you see in the sky at night",
+      "answer": "STARS",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Large building where concerts and events are held",
+      "answer": "ARENA",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The stage when a caterpillar wraps itself in a cocoon",
+      "answer": "PUPA",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The five small parts at the end of your foot",
+      "answer": "TOES",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 11

@@ -4,42 +4,49 @@
   "title": "Level 10",
   "words": [
     {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 3,
+      "clue": "Person who manages the money and accounts at a bank",
+      "answer": "BANKER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Light bounces off this",
-      "answer": "MIRROR",
-      "row": 1,
+      "clue": "The largest country in the world by area",
+      "answer": "RUSSIA",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You hold with these",
-      "answer": "HANDS",
-      "row": 2,
-      "col": 1,
+      "clue": "Soft gentle movement of cool air",
+      "answer": "BREEZE",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Hold knives on this",
-      "answer": "BLOCK",
-      "row": 5,
-      "col": 3,
+      "clue": "European country with the city of Madrid",
+      "answer": "SPAIN",
+      "row": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Sport where you throw a long stick",
-      "answer": "THROW",
+      "clue": "Flat surface with four legs where you eat meals or work",
+      "answer": "TABLE",
       "row": 0,
-      "col": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Handheld device you use to call people and browse the internet",
+      "answer": "PHONE",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

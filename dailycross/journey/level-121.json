@@ -4,140 +4,126 @@
   "title": "Level 121",
   "words": [
     {
-      "clue": "Place where airplanes land",
-      "answer": "AIRPORT",
-      "row": 6,
-      "col": 4,
+      "clue": "Your child's child in general",
+      "answer": "GRANDCHILD",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Google mobile operating system",
-      "answer": "ANDROID",
-      "row": 6,
+      "clue": "Important substances in food like vitamins and minerals",
+      "answer": "NUTRIENTS",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The process of a planet spinning on its center line",
+      "answer": "ROTATION",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
+      "answer": "VITAMINC",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Gliding on ice",
-      "answer": "SKATING",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you watch movies",
-      "answer": "THEATER",
+      "clue": "Dangerous winter storm with heavy snow and strong winds",
+      "answer": "BLIZZARD",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Studies plants",
-      "answer": "GROWER",
+      "clue": "Padded glove used to hold hot pots from the oven",
+      "answer": "OVENMITT",
       "row": 9,
-      "col": 3,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Helps sick people at hospital",
-      "answer": "DOCTOR",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Test battery with a tester",
-      "answer": "TESTER",
-      "row": 8,
+      "clue": "Person who cleans and checks your teeth",
+      "answer": "DENTIST",
+      "row": 3,
       "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Presents news on television",
-      "answer": "ANCHOR",
-      "row": 8,
-      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
-      "row": 7,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Land of the rising sun",
-      "answer": "JAPAN",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Salty snack often eaten with dip",
-      "answer": "CHIPS",
+      "clue": "Feeling that you want something very much",
+      "answer": "JEALOUS",
       "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep cut that bleeds",
-      "answer": "WOUND",
-      "row": 0,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny germ that causes colds",
-      "answer": "VIRUS",
-      "row": 13,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Large black and white keyboard",
-      "answer": "PIANO",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Set of words and music together",
-      "answer": "SONG",
-      "row": 3,
-      "col": 10,
+      "clue": "The person who teaches you in class",
+      "answer": "TEACHER",
+      "row": 11,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Family yet to come",
-      "answer": "NEXT",
-      "row": 3,
+      "clue": "A large flat area of high land",
+      "answer": "PLATEAU",
+      "row": 6,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The food you eat each day",
-      "answer": "DIET",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
+      "clue": "Shop where fresh bread and pastries are made and sold",
+      "answer": "BAKERY",
+      "row": 8,
+      "col": 2,
+      "direction": "down"
     },
     {
-      "clue": "Microsoft slides",
-      "answer": "SHOW",
-      "row": 0,
+      "clue": "Country known for the Amazon jungle and Carnival festival",
+      "answer": "BRAZIL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sticky plant sap",
-      "answer": "GLUE",
-      "row": 2,
-      "col": 1,
+      "clue": "A deep narrow valley with steep rocky sides",
+      "answer": "CANYON",
+      "row": 3,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The red wet part inside your mouth you taste with",
+      "answer": "TONGUE",
+      "row": 12,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "Baked food made from flour and water",
+      "answer": "BREAD",
+      "row": 10,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Frozen water falling like rain",
+      "answer": "HAIL",
+      "row": 11,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Red flower given as a symbol of love on Valentine's Day",
+      "answer": "ROSE",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
     }
   ],
-  "wordCount": 19,
+  "wordCount": 17,
   "targetWords": 21,
   "difficulty": "hard"
 }

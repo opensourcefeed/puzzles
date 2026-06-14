@@ -4,73 +4,59 @@
   "title": "2027-02-04",
   "words": [
     {
-      "clue": "Frog's early stage in water",
-      "answer": "TADPOLE",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean animal with a hard shell",
-      "answer": "LOBSTER",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes folded in this",
-      "answer": "DRAWER",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Video recording device",
-      "answer": "CAMERA",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Grassy African plain",
-      "answer": "GRASS",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Grass color",
-      "answer": "GREEN",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Black and white bear",
-      "answer": "PANDA",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Direction the sun rises",
-      "answer": "EAST",
-      "row": 8,
+      "clue": "What you must eat to keep your body working properly",
+      "answer": "NUTRITION",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Cut bush branches",
-      "answer": "SNIP",
+      "clue": "This holds your papers together with metal clips",
+      "answer": "STAPLER",
       "row": 1,
-      "col": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Place where ships dock",
-      "answer": "PORT",
+      "clue": "A narrow strip of land connecting two larger land masses",
+      "answer": "ISTHMUS",
       "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The booming sound you hear after lightning",
+      "answer": "THUNDER",
+      "row": 7,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Starchy vegetable that grows underground often made into chips",
+      "answer": "POTATO",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A couple that is legally joined in marriage",
+      "answer": "COUPLE",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Sweet fried ring-shaped pastry",
+      "answer": "DONUT",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The unit we use to measure how bright a light bulb is",
+      "answer": "WATT",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     }
   ],

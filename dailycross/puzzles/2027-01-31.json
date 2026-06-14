@@ -4,66 +4,73 @@
   "title": "2027-01-31",
   "words": [
     {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut wires with this",
-      "answer": "PLIERS",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Coin worth 5 cents",
-      "answer": "NICKEL",
-      "row": 8,
+      "clue": "Jewelry hung around the neck",
+      "answer": "NECKLACE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Underground train system",
-      "answer": "SUBWAY",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Writes books",
-      "answer": "AUTHOR",
-      "row": 0,
+      "clue": "Money given to a charity or cause",
+      "answer": "DONATION",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Boil water in this",
-      "answer": "KETTLE",
-      "row": 7,
-      "col": 4,
+      "clue": "Tall chest with a mirror on top used for storing clothes",
+      "answer": "DRESSER",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Your tummy where food is digested",
+      "answer": "STOMACH",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Group of people related by blood",
-      "answer": "FAMILY",
+      "clue": "Large spoon with a long handle used to serve soup",
+      "answer": "LADLE",
       "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very upset and wanting to shout",
+      "answer": "ANGRY",
+      "row": 11,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Winter celebration",
-      "answer": "YULE",
+      "clue": "A large body of flowing water that runs to the sea",
+      "answer": "RIVER",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Microsoft program used to write documents",
+      "answer": "WORD",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Shallow body of water in a garden",
+      "answer": "POND",
       "row": 2,
-      "col": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Long metal fastener hammered into wood to join pieces",
+      "answer": "NAIL",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     }
   ],

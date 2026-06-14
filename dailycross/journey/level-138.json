@@ -4,147 +4,112 @@
   "title": "Level 138",
   "words": [
     {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
+      "clue": "Shaking of the ground caused by moving rock plates",
+      "answer": "EARTHQUAKE",
       "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Start of day before noon",
-      "answer": "MORNING",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Brussels",
-      "answer": "BELGIUM",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean animal with a hard shell",
-      "answer": "LOBSTER",
-      "row": 7,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you watch movies",
-      "answer": "THEATER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Small blue wildflower",
-      "answer": "VIOLET",
-      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sharp tool for slicing bread",
-      "answer": "SLICER",
-      "row": 8,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes folded in this",
-      "answer": "DRAWER",
-      "row": 13,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Breakfast egg dish",
-      "answer": "OMELET",
-      "row": 2,
+      "clue": "April 1 holiday when people play pranks on each other",
+      "answer": "APRILFOOLS",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Athens",
-      "answer": "GREECE",
-      "row": 11,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Amount of money something costs",
-      "answer": "PRICE",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Time the sun rises",
-      "answer": "DAWN",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Card with money on it",
-      "answer": "CARD",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The food you eat each day",
-      "answer": "DIET",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A small unit of money",
-      "answer": "CENT",
-      "row": 10,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix paint with this stick",
-      "answer": "STIR",
-      "row": 9,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Pencil made of this",
-      "answer": "LEAD",
-      "row": 1,
+      "clue": "Device with letters and numbers you press to type",
+      "answer": "KEYBOARD",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "European money unit",
-      "answer": "EURO",
+      "clue": "The day on which you were born each year",
+      "answer": "BIRTHDAY",
       "row": 2,
-      "col": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of water vapor in the air",
+      "answer": "HUMIDITY",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Boat parking place",
-      "answer": "DOCK",
-      "row": 4,
-      "col": 8,
+      "clue": "Animal with spots that lives in Africa",
+      "answer": "LEOPARD",
+      "row": 10,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very pleased after winning or succeeding",
+      "answer": "EXCITED",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Small curved pink ocean crustacean eaten in salads",
+      "answer": "SHRIMP",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Game console made by Nintendo that you can also use on the go",
+      "answer": "SWITCH",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The planet with beautiful rings made of ice and rock",
+      "answer": "SATURN",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "African country with pyramids and the Nile River",
+      "answer": "EGYPT",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle driven to explore the moon or Mars",
+      "answer": "ROVER",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Handheld device you use to call people and browse the internet",
+      "answer": "PHONE",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The bony part of your back going down the center",
+      "answer": "SPINE",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 20,
+  "wordCount": 15,
   "targetWords": 23,
   "difficulty": "hard"
 }

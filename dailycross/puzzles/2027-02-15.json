@@ -4,52 +4,73 @@
   "title": "2027-02-15",
   "words": [
     {
-      "clue": "Sun-loving tall yellow flower",
-      "answer": "SUNFLOWER",
+      "clue": "Insect with beautiful colored wings",
+      "answer": "BUTTERFLY",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where you jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The tenth month of the year",
+      "answer": "OCTOBER",
       "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A printed paper record showing how much you paid",
+      "answer": "RECEIPT",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Farm building where horses are kept",
+      "answer": "STABLE",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Flat touchscreen device without a physical keyboard",
+      "answer": "TABLET",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Popular search engine",
-      "answer": "GOOGLE",
-      "row": 2,
-      "col": 5,
+      "clue": "Your sister's or brother's daughter",
+      "answer": "NIECE",
+      "row": 7,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Mix of red and yellow",
-      "answer": "ORANGE",
+      "clue": "Flat surface with four legs where you eat meals or work",
+      "answer": "TABLE",
       "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Climb up high with this",
-      "answer": "LADDER",
-      "row": 7,
-      "col": 1,
+      "clue": "A shape like a stretched circle, longest in the middle",
+      "answer": "OVAL",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Water in gas form",
-      "answer": "VAPOR",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Small bag for money",
-      "answer": "PURSE",
+      "clue": "The stage when a caterpillar wraps itself in a cocoon",
+      "answer": "PUPA",
       "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Wireless internet connection",
-      "answer": "WIFI",
-      "row": 1,
-      "col": 3,
+      "col": 6,
       "direction": "down"
     }
   ],

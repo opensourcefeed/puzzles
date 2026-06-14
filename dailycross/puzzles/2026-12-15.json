@@ -4,67 +4,74 @@
   "title": "2026-12-15",
   "words": [
     {
-      "clue": "Secret code for security",
-      "answer": "PASSWORD",
+      "clue": "Orange and white striped clown fish made famous by a movie",
+      "answer": "CLOWNFISH",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Light a fire with this",
-      "answer": "LIGHTER",
-      "row": 1,
-      "col": 6,
+      "clue": "Moving staircase found in malls and airports",
+      "answer": "ESCALATOR",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Colorful garden bloom",
-      "answer": "FLOWER",
-      "row": 4,
+      "clue": "Person who builds and repairs things using wood",
+      "answer": "CARPENTER",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Press garlic with this",
-      "answer": "PRESS",
-      "row": 9,
+      "clue": "Jewish holiday with eight nights of candles and gifts",
+      "answer": "HANUKKAH",
+      "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Summer top for boys",
-      "answer": "SHIRT",
-      "row": 7,
+      "clue": "The child of your aunt or uncle",
+      "answer": "COUSIN",
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Energy that travels in waves",
-      "answer": "SOUND",
-      "row": 9,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean mollusk with a spiral shell",
-      "answer": "SNAIL",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Area where river meets ocean",
-      "answer": "DELTA",
+      "clue": "Sport played on ice with a puck and sticks",
+      "answer": "HOCKEY",
       "row": 13,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Thick fog that limits sight",
-      "answer": "MIST",
-      "row": 0,
-      "col": 3,
+      "clue": "Long yellow curved fruit",
+      "answer": "BANANA",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling scared of something",
+      "answer": "AFRAID",
+      "row": 6,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Money given back to you when you return something to a shop",
+      "answer": "REFUND",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Large flow of water that runs to the sea",
+      "answer": "RIVER",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 186

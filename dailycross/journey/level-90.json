@@ -4,98 +4,105 @@
   "title": "Level 90",
   "words": [
     {
-      "clue": "Digital watch with apps",
-      "answer": "SMARTWATCH",
+      "clue": "Purple vegetable also called aubergine",
+      "answer": "EGGPLANT",
       "row": 6,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
+      "clue": "Sport where you climb up a rock wall",
+      "answer": "CLIMBING",
       "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Random acts of kindness day",
-      "answer": "KINDNESS",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Global network of computers",
-      "answer": "INTERNET",
-      "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Build walls with this gray mix",
-      "answer": "CONCRETE",
-      "row": 12,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Move dirt with this",
-      "answer": "TRACTOR",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Bird that cannot fly",
-      "answer": "PENGUIN",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You hang a mirror on this",
-      "answer": "DRESSER",
-      "row": 7,
-      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Most populated country",
-      "answer": "CHINA",
-      "row": 2,
-      "col": 8,
+      "clue": "Large gray animal with a trunk",
+      "answer": "ELEPHANT",
+      "row": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Leg covering",
-      "answer": "PANTS",
-      "row": 7,
+      "clue": "Person who trains animals to behave or do tricks",
+      "answer": "TRAINER",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Two or more atoms together",
-      "answer": "PAIR",
-      "row": 4,
+      "clue": "Ocean bird that hovers over waves and dives for fish",
+      "answer": "SEAGULL",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The day that comes after Monday",
+      "answer": "TUESDAY",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where you throw a long spear as far as you can",
+      "answer": "JAVELIN",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Light rock full of small holes made by a volcano",
+      "answer": "PUMICE",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Difficulty breathing smoothly and clearly",
+      "answer": "ASTHMA",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "You write with this long thin tool",
+      "answer": "PENCIL",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The ocean around the North Pole",
+      "answer": "ARCTIC",
+      "row": 13,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The fourth month of the year",
+      "answer": "APRIL",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A low wet land often covered with water",
+      "answer": "SWAMP",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Your parent's brother",
+      "answer": "UNCLE",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 17,
   "difficulty": "medium"
 }

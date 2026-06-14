@@ -4,52 +4,66 @@
   "title": "2027-03-25",
   "words": [
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Flash of light in storm",
-      "answer": "LIGHTNING",
+      "clue": "Money that the government takes from people's wages",
+      "answer": "INCOMETAX",
       "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Breakfast grain meal",
-      "answer": "CEREAL",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of the Amazon River",
-      "answer": "BRAZIL",
-      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country with Nairobi",
-      "answer": "KENYA",
+      "clue": "A secret word used to protect your accounts",
+      "answer": "PASSWORD",
       "row": 2,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "You put a TV on this",
-      "answer": "STAND",
-      "row": 7,
-      "col": 3,
+      "clue": "Building where you can borrow books to read for free",
+      "answer": "LIBRARY",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who brings food to your table in a restaurant",
+      "answer": "WAITER",
+      "row": 8,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Tall sitting seat",
-      "answer": "SEAT",
+      "clue": "Shop where fresh bread and pastries are made and sold",
+      "answer": "BAKERY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Small stringed instrument you play with a bow",
+      "answer": "VIOLIN",
       "row": 1,
-      "col": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of fresh snow",
+      "answer": "WHITE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of money something costs in a shop",
+      "answer": "PRICE",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Small device you move on a flat surface to control the cursor",
+      "answer": "MOUSE",
+      "row": 2,
+      "col": 11,
       "direction": "down"
     }
   ],

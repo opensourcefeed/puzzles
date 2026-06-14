@@ -4,119 +4,133 @@
   "title": "Level 130",
   "words": [
     {
-      "clue": "Builds with wood",
-      "answer": "CARPENTER",
-      "row": 6,
-      "col": 3,
+      "clue": "A place with equipment where scientists do experiments",
+      "answer": "LABORATORY",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Large landmass on Earth",
-      "answer": "CONTINENT",
-      "row": 4,
+      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
+      "answer": "MOTORCYCLE",
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Very tall natural land feature",
-      "answer": "MOUNTAIN",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Kuala Lumpur",
-      "answer": "MALAYSIA",
+      "clue": "A powerful instrument used to see distant stars and planets",
+      "answer": "TELESCOPE",
       "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Microsoft operating system",
-      "answer": "WINDOWS",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle with two wheels and a motor",
-      "answer": "SCOOTER",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Presents news on television",
-      "answer": "ANCHOR",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Breakfast grain meal",
-      "answer": "CEREAL",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Protects the community",
-      "answer": "POLICE",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You breathe with these",
-      "answer": "LUNGS",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A cold causes this",
-      "answer": "COUGH",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to plant trees",
-      "answer": "ARBOR",
-      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Leg covering",
-      "answer": "PANTS",
-      "row": 0,
-      "col": 1,
+      "clue": "Long green vegetable related to the pumpkin",
+      "answer": "ZUCCHINI",
+      "row": 10,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Yellow vegetable on a cob",
-      "answer": "CORN",
-      "row": 10,
+      "clue": "The first day of the weekend",
+      "answer": "SATURDAY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where you buy prescription medicine",
+      "answer": "PHARMACY",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean bird that hovers over waves and dives for fish",
+      "answer": "SEAGULL",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "An unwanted reaction your body has to a food or substance",
+      "answer": "ALLERGY",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "You walk through this",
-      "answer": "DOOR",
-      "row": 7,
+      "clue": "The five thin parts at the end of your hand",
+      "answer": "FINGERS",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The largest country in the world by area",
+      "answer": "RUSSIA",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Grain eaten for breakfast with milk",
+      "answer": "CEREAL",
+      "row": 1,
       "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "Large residence where a king or queen lives",
+      "answer": "PALACE",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
+      "answer": "GINGER",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The repeated section at the end of each verse of a song",
+      "answer": "CHORUS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The unit of British money used in England",
+      "answer": "POUND",
+      "row": 5,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Asian country known as the land of the rising sun",
+      "answer": "JAPAN",
+      "row": 1,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The third month of the year",
+      "answer": "MARCH",
+      "row": 13,
+      "col": 10,
+      "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 18,
   "targetWords": 22,
   "difficulty": "hard"
 }

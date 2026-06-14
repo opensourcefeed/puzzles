@@ -4,77 +4,70 @@
   "title": "Level 65",
   "words": [
     {
-      "clue": "Math calculation tool",
-      "answer": "CALCULATOR",
-      "row": 1,
+      "clue": "A place with equipment where scientists do experiments",
+      "answer": "LABORATORY",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Sun-loving tall yellow flower",
-      "answer": "SUNFLOWER",
+      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
+      "answer": "AMBULANCE",
       "row": 0,
-      "col": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Builds with wood",
-      "answer": "CARPENTER",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
+      "clue": "Device with a wheel used to open the lids of cans",
+      "answer": "CANOPENER",
       "row": 1,
-      "col": 11,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Group of stars in the sky",
-      "answer": "GALAXY",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Silent aircraft with no engine",
-      "answer": "GLIDER",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "You store clothes folded in this",
-      "answer": "DRAWER",
-      "row": 2,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling uneasy",
-      "answer": "UNEASY",
-      "row": 3,
+      "clue": "An object that does not let electricity pass through",
+      "answer": "INSULATOR",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A deep cut that bleeds",
-      "answer": "WOUND",
-      "row": 5,
-      "col": 5,
+      "clue": "The day that came before today",
+      "answer": "YESTERDAY",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling unsure about what to do or think",
+      "answer": "CONFUSED",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Loud boom you hear after lightning",
+      "answer": "THUNDER",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Long deep crack in the ground with steep walls",
+      "answer": "CANYON",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of land completely surrounded by water",
+      "answer": "ISLAND",
+      "row": 6,
+      "col": 8,
       "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 9,
   "targetWords": 14,
   "difficulty": "medium"
 }

@@ -4,67 +4,60 @@
   "title": "2027-01-05",
   "words": [
     {
-      "clue": "Frog's early stage in water",
-      "answer": "TADPOLE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you see art",
-      "answer": "MUSEUM",
+      "clue": "A person who studies stars and space",
+      "answer": "ASTRONOMER",
       "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix of red and blue",
-      "answer": "PURPLE",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Portable computer for class",
-      "answer": "LAPTOP",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Performs in movies or plays",
-      "answer": "ACTOR",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Large flowing body of water",
-      "answer": "RIVER",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You store blankets in this",
-      "answer": "CHEST",
+      "clue": "A massive worldwide network connecting computers everywhere",
+      "answer": "INTERNET",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Very tiny living things you can only see with a microscope",
+      "answer": "BACTERIA",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The day that comes after today",
+      "answer": "TOMORROW",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling deeply thankful for what someone did for you",
+      "answer": "GRATEFUL",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Sad about a result",
-      "answer": "DOWN",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
+      "clue": "One hundred years is called this",
+      "answer": "CENTURY",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
     },
     {
-      "clue": "Color of ash and smoke",
-      "answer": "GRAY",
-      "row": 6,
-      "col": 5,
+      "clue": "Feeling worried that something bad will happen",
+      "answer": "ANXIOUS",
+      "row": 5,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Country known for tacos, pyramids and sombreros",
+      "answer": "MEXICO",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 207

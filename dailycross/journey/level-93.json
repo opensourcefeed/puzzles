@@ -4,91 +4,98 @@
   "title": "Level 93",
   "words": [
     {
-      "clue": "Fixes computer problems",
-      "answer": "TECHNICIAN",
-      "row": 4,
-      "col": 2,
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "What a caterpillar becomes",
-      "answer": "BUTTERFLY",
+      "clue": "Sport where you hit a shuttlecock with a racket",
+      "answer": "BADMINTON",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Repairs cars and engines",
-      "answer": "MECHANIC",
-      "row": 2,
+      "clue": "Subject where you learn about countries and maps",
+      "answer": "GEOGRAPHY",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Brown sweet powder used in desserts",
+      "answer": "CHOCOLATE",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Vehicle with two wheels and a motor",
-      "answer": "SCOOTER",
-      "row": 9,
+      "clue": "The person who makes sure rules are followed in a game",
+      "answer": "REFEREE",
+      "row": 12,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Device that copies paper to computer",
-      "answer": "SCANNER",
-      "row": 6,
-      "col": 6,
+      "clue": "Building where you go to watch movies on a big screen",
+      "answer": "THEATER",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "First month of the year",
-      "answer": "JANUARY",
+      "clue": "European country with the city of Warsaw",
+      "answer": "POLAND",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where students go to learn every day",
+      "answer": "SCHOOL",
       "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle that lifts off straight up with rocket engines",
+      "answer": "ROCKET",
+      "row": 8,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Sidewalks are made of this",
-      "answer": "CEMENT",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Warsaw",
-      "answer": "POLAND",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Strong bone mineral",
-      "answer": "MAGNET",
-      "row": 3,
+      "clue": "Covered area attached to a house where you park your car",
+      "answer": "GARAGE",
+      "row": 7,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Energy that travels in waves",
-      "answer": "SOUND",
+      "clue": "The last day of the weekend",
+      "answer": "SUNDAY",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Color made by mixing red and blue",
+      "answer": "PURPLE",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Cloth worn over clothes to keep them clean while cooking",
+      "answer": "APRON",
       "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you get coffee",
-      "answer": "CAFE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Winter outerwear",
-      "answer": "COAT",
-      "row": 8,
-      "col": 0,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 13,
   "targetWords": 17,
   "difficulty": "hard"
 }

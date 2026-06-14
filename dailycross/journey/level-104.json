@@ -4,133 +4,98 @@
   "title": "Level 104",
   "words": [
     {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Travels to discover new places",
-      "answer": "EXPLORER",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Swimwear for the beach",
-      "answer": "BATHING",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny seed powder from flowers",
-      "answer": "POLLEN",
-      "row": 3,
+      "clue": "Building where a judge decides legal cases",
+      "answer": "COURTHOUSE",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Silent aircraft with no engine",
-      "answer": "GLIDER",
-      "row": 8,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Chinese new year symbol",
-      "answer": "DRAGON",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Jewish lights festival",
-      "answer": "LIGHTS",
-      "row": 8,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Card that lets you buy now and pay later",
-      "answer": "CREDIT",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Prayer place for Jews",
-      "answer": "TEMPLE",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Giant rock that comes from space",
-      "answer": "METEOR",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Climb up high with this",
-      "answer": "LADDER",
-      "row": 0,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that breaks down fats",
-      "answer": "LIVER",
-      "row": 7,
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
+      "row": 3,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "White sky fluff",
-      "answer": "CLOUD",
-      "row": 2,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Summer top for boys",
-      "answer": "SHIRT",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Magnifying tool",
-      "answer": "LENS",
+      "clue": "Software that protects your computer from viruses",
+      "answer": "ANTIVIRUS",
       "row": 5,
-      "col": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Large water vehicle",
-      "answer": "SHIP",
+      "clue": "Insect with beautiful colored wings",
+      "answer": "BUTTERFLY",
       "row": 6,
-      "col": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Card with money on it",
-      "answer": "CARD",
-      "row": 11,
+      "clue": "Small book where you write notes",
+      "answer": "NOTEBOOK",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Purple vegetable also called aubergine",
+      "answer": "EGGPLANT",
+      "row": 5,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Long loose garment worn to bed",
+      "answer": "PAJAMAS",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who writes novels, stories or non-fiction books",
+      "answer": "AUTHOR",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Sliding compartment in a chest or desk used to store items",
+      "answer": "DRAWER",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Difficulty breathing smoothly and clearly",
+      "answer": "ASTHMA",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The bony part of your back going down the center",
+      "answer": "SPINE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The fan-shaped area where a river spreads out before the sea",
+      "answer": "DELTA",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Lazy animal that hangs from trees in South America",
+      "answer": "SLOTH",
+      "row": 9,
+      "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 13,
   "targetWords": 19,
   "difficulty": "hard"
 }

@@ -4,74 +4,67 @@
   "title": "2027-01-03",
   "words": [
     {
-      "clue": "Person who sells things",
-      "answer": "SELLER",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Organ that filters blood",
-      "answer": "KIDNEY",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Studies old things",
-      "answer": "FINDER",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Ball shape in 3D",
-      "answer": "SPHERE",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Chocolate color",
-      "answer": "BROWN",
-      "row": 11,
+      "clue": "Room where you do science experiments",
+      "answer": "LABORATORY",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Kid's helper adult",
-      "answer": "GUARD",
+      "clue": "Sport where you hit a shuttlecock with a racket",
+      "answer": "BADMINTON",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Tight stretchy pants worn for sports",
+      "answer": "LEGGINGS",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat star-shaped ocean creature with five arms",
+      "answer": "STARFISH",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean creature with eight arms that can squirt ink",
+      "answer": "OCTOPUS",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of land completely surrounded by water",
+      "answer": "ISLAND",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The device on a wall that shows the time",
+      "answer": "CLOCK",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Wanting something badly",
-      "answer": "WISH",
-      "row": 11,
+      "clue": "About thirty days long, there are twelve in a year",
+      "answer": "MONTH",
+      "row": 9,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Box shape in 3D",
-      "answer": "CUBE",
-      "row": 1,
-      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Roofs are covered with this flat material",
-      "answer": "TILE",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Temp care for child",
-      "answer": "CARE",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
+      "clue": "Small shop where you buy coffee and light snacks",
+      "answer": "CAFE",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 205

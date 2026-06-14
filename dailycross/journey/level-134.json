@@ -4,119 +4,112 @@
   "title": "Level 134",
   "words": [
     {
-      "clue": "Large group of musicians",
-      "answer": "ORCHESTRA",
-      "row": 4,
+      "clue": "Book with words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Small red fruit eaten on cakes and ice cream",
+      "answer": "STRAWBERRY",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Floating transparent ocean creature with stinging tentacles",
+      "answer": "JELLYFISH",
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Flat high area of land",
-      "answer": "PLATEAU",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you cook meals",
-      "answer": "KITCHEN",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 0,
+      "clue": "A shape with four sides and only one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 11,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Virtual reality headset",
-      "answer": "HEADSET",
-      "row": 7,
-      "col": 8,
+      "clue": "A curved shape like a banana or the moon",
+      "answer": "CRESCENT",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a computer you can see and touch",
+      "answer": "HARDWARE",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Invisible power that attracts metal",
-      "answer": "MAGNET",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Makes pots out of clay",
-      "answer": "POTTER",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Hindu festival of lights",
-      "answer": "DIWALI",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Your father's brother",
-      "answer": "UNCLE",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Our planet",
-      "answer": "EARTH",
+      "clue": "The day before Friday",
+      "answer": "THURSDAY",
       "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Black and white bear",
-      "answer": "PANDA",
-      "row": 5,
-      "col": 1,
+      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "Food allergy reaction",
-      "answer": "ITCH",
+      "clue": "Building where you buy prescription medicine",
+      "answer": "PHARMACY",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who lives in the house next to yours",
+      "answer": "NEIGHBOR",
       "row": 2,
-      "col": 11,
-      "direction": "across"
-    },
-    {
-      "clue": "Ice cream shop",
-      "answer": "SHOP",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Wanting something badly",
-      "answer": "WISH",
-      "row": 1,
-      "col": 0,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Video call software",
-      "answer": "ZOOM",
+      "clue": "Vehicle used on a farm to pull heavy equipment",
+      "answer": "TRACTOR",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Fine thin rain that barely gets you wet",
+      "answer": "DRIZZLE",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The basic unit of money used in the United States",
+      "answer": "DOLLAR",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Farm animal that gives us wool",
+      "answer": "SHEEP",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Ridged fastener you turn with a screwdriver",
+      "answer": "SCREW",
       "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Space rock that hits Earth",
-      "answer": "ROCK",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
+      "clue": "The area between your hips and ribs",
+      "answer": "WAIST",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 15,
   "targetWords": 23,
   "difficulty": "hard"
 }

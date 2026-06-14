@@ -4,77 +4,119 @@
   "title": "Level 100",
   "words": [
     {
-      "clue": "Place where fish are kept",
-      "answer": "AQUARIUM",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Pillows are filled with soft feathers",
-      "answer": "FEATHER",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Blend fruits in this",
-      "answer": "BLENDER",
-      "row": 8,
+      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
+      "answer": "MOTORCYCLE",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Delivers mail to homes",
-      "answer": "MAILMAN",
+      "clue": "Room where you do science experiments",
+      "answer": "LABORATORY",
       "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Vienna",
-      "answer": "AUSTRIA",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
-      "row": 0,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Ocean creature with two shells",
-      "answer": "MUSSEL",
-      "row": 2,
+      "clue": "The bony structure that supports your body",
+      "answer": "SKELETON",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Dangerous winter storm with heavy snow and strong winds",
+      "answer": "BLIZZARD",
+      "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Blow leaves with this",
-      "answer": "BLOWER",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Your father's brother",
-      "answer": "UNCLE",
-      "row": 10,
+      "clue": "Purple vegetable that is long and oval, also called aubergine",
+      "answer": "EGGPLANT",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Horse-drawn carriage",
-      "answer": "WAGON",
+      "clue": "Animal with a bushy tail that collects nuts",
+      "answer": "SQUIRREL",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A brother or sister",
+      "answer": "SIBLING",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Flat tool used to flip pancakes and burgers",
+      "answer": "SPATULA",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a river meets and mixes with the sea",
+      "answer": "ESTUARY",
       "row": 0,
-      "col": 11,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Celebration at the start of a new year on January 1",
+      "answer": "NEWYEAR",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who educates students in a school classroom",
+      "answer": "TEACHER",
+      "row": 14,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The regular repeating beat in music",
+      "answer": "RHYTHM",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Light rock full of small holes made by a volcano",
+      "answer": "PUMICE",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Metal tool with sharp holes used to grate cheese",
+      "answer": "GRATER",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Spinning tool used to make holes in wood or walls",
+      "answer": "DRILL",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 16,
   "targetWords": 18,
   "difficulty": "hard"
 }

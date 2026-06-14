@@ -4,52 +4,66 @@
   "title": "2026-10-23",
   "words": [
     {
-      "clue": "Worn around wrist as accessory",
-      "answer": "BRACELET",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Buddha's birthday celebration",
-      "answer": "BUDDHA",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Holds napkins on the table",
-      "answer": "NAPKIN",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Muslim feast day",
-      "answer": "FEAST",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "You eat meals on this",
-      "answer": "TABLE",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Trains athletes",
-      "answer": "COACH",
-      "row": 6,
+      "clue": "Feeling pleased and content with what you have",
+      "answer": "SATISFIED",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "What all matter is made of",
-      "answer": "ATOM",
-      "row": 0,
+      "clue": "Portable battery pack that recharges your phone on the go",
+      "answer": "POWERBANK",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Long wardrobe cabinet for hanging clothes",
+      "answer": "WARDROBE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Warm pullover top worn in cold weather",
+      "answer": "SWEATER",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport played on ice with a puck and sticks",
+      "answer": "HOCKEY",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where people who break laws are kept",
+      "answer": "PRISON",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Country known for the Amazon jungle and Carnival festival",
+      "answer": "BRAZIL",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who performs dance as a profession",
+      "answer": "DANCER",
+      "row": 4,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Garden tool with long teeth used to gather fallen leaves",
+      "answer": "RAKE",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     }
   ],

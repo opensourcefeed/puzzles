@@ -4,154 +4,126 @@
   "title": "Level 149",
   "words": [
     {
-      "clue": "February celebration of presidents",
-      "answer": "PRESIDENTS",
+      "clue": "Book with words and their meanings",
+      "answer": "DICTIONARY",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Fixes computer problems",
-      "answer": "TECHNICIAN",
-      "row": 3,
+      "clue": "Person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle police officers drive",
+      "answer": "POLICECAR",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling sure of yourself and your abilities",
+      "answer": "CONFIDENT",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Two slices of bread with filling inside",
+      "answer": "SANDWICH",
+      "row": 6,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Tool used to see far stars",
-      "answer": "TELESCOPE",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you take a bath",
-      "answer": "BATHROOM",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you buy food",
-      "answer": "GROCERY",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Coin worth 100 cents",
-      "answer": "QUARTER",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Pillows are filled with soft feathers",
-      "answer": "FEATHER",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean around India",
-      "answer": "INDIAN",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Hold paper towels on this",
-      "answer": "HOLDER",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Sweet liquid bees collect from flowers",
-      "answer": "NECTAR",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
+      "clue": "Physical activity that keeps your body strong and fit",
+      "answer": "EXERCISE",
       "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Studies old things",
-      "answer": "FINDER",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you see art",
-      "answer": "MUSEUM",
-      "row": 14,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Sweet brown dessert topping",
-      "answer": "FUDGE",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Punch holes in paper",
-      "answer": "PUNCH",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
-      "row": 0,
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 6,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
-      "row": 0,
+      "clue": "Person who grows crops and raises animals for food",
+      "answer": "FARMER",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who keeps the public safe and enforces laws",
+      "answer": "POLICE",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Long orange vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 12,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Feeling very proud",
-      "answer": "PROUD",
-      "row": 4,
+      "clue": "Country string instrument with five strings and a round body",
+      "answer": "BANJO",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Large box or trunk used to store blankets and items",
+      "answer": "CHEST",
+      "row": 8,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A living thing that makes its own food from sunlight",
+      "answer": "PLANT",
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small unit of money",
-      "answer": "CENT",
-      "row": 9,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of the Leaning Tower",
-      "answer": "PISA",
+      "clue": "The bony part of your back going down the center",
+      "answer": "SPINE",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "You sit on this with cushions",
-      "answer": "SOFA",
-      "row": 7,
-      "col": 0,
+      "clue": "Large flow of water that runs to the sea",
+      "answer": "RIVER",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal that carries its home on its back",
+      "answer": "SNAIL",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A body of fresh water completely surrounded by land",
+      "answer": "LAKE",
+      "row": 0,
+      "col": 12,
       "direction": "down"
     }
   ],
-  "wordCount": 21,
+  "wordCount": 17,
   "targetWords": 25,
   "difficulty": "hard"
 }

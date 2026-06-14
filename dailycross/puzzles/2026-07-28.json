@@ -4,60 +4,53 @@
   "title": "2026-07-28",
   "words": [
     {
-      "clue": "Short-range wireless technology",
-      "answer": "BLUETOOTH",
-      "row": 5,
+      "clue": "What a caterpillar changes into after its cocoon",
+      "answer": "BUTTERFLY",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal with a bushy tail that collects nuts",
+      "answer": "SQUIRREL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "European country with the city of Berlin",
+      "answer": "GERMANY",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Soft shoe worn indoors",
+      "answer": "SLIPPER",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who fixes water pipes and drains in buildings",
+      "answer": "PLUMBER",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who brings food to your table in a restaurant",
+      "answer": "WAITER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Microsoft operating system",
-      "answer": "WINDOWS",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Teacher appreciation",
-      "answer": "THANKS",
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
       "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Brightly colored garden flower",
-      "answer": "TULIP",
-      "row": 2,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "You breathe with these",
-      "answer": "LUNGS",
-      "row": 5,
-      "col": 1,
       "direction": "down"
-    },
-    {
-      "clue": "Red fruit that keeps doctor away",
-      "answer": "APPLE",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Percussion instrument you hit",
-      "answer": "DRUM",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A family group",
-      "answer": "CLAN",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
     }
   ],
   "dayNumber": 46

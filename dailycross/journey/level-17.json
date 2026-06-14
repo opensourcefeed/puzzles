@@ -4,42 +4,49 @@
   "title": "Level 17",
   "words": [
     {
-      "clue": "Part of the body that digests food",
-      "answer": "STOMACH",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle with two wheels and a motor",
-      "answer": "SCOOTER",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Mattresses have metal coils",
-      "answer": "SPRING",
-      "row": 9,
+      "clue": "A printed paper record showing how much you paid",
+      "answer": "RECEIPT",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Day to plant trees",
-      "answer": "ARBOR",
-      "row": 3,
-      "col": 6,
+      "clue": "A small adhesive strip used to cover a minor cut",
+      "answer": "BANDAID",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Flat ocean fish",
-      "answer": "FLAT",
-      "row": 0,
+      "clue": "Container with a lid and handle used to boil water for tea",
+      "answer": "KETTLE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Gripping tool used to hold and bend wire or small parts",
+      "answer": "PLIERS",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "An object that attracts iron and steel",
+      "answer": "MAGNET",
+      "row": 1,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "This is the current day you are living right now",
+      "answer": "TODAY",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 7,
   "difficulty": "easy"
 }

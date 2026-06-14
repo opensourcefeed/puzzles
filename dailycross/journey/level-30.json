@@ -4,53 +4,53 @@
   "title": "Level 30",
   "words": [
     {
-      "clue": "Cardboard is thick paper",
-      "answer": "CARDBOARD",
-      "row": 1,
-      "col": 1,
+      "clue": "A narrow strip of land connecting two larger land masses",
+      "answer": "ISTHMUS",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Decayed plants used as fertilizer",
-      "answer": "COMPOST",
-      "row": 0,
-      "col": 6,
+      "clue": "Room where you borrow books to read",
+      "answer": "LIBRARY",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Seventh planet from the sun",
-      "answer": "URANUS",
+      "clue": "Tiny air sacs inside the lungs where gas exchange happens",
+      "answer": "ALVEOLI",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Small flow of water moving across land",
+      "answer": "STREAM",
       "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who manages the money and accounts at a bank",
+      "answer": "BANKER",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The colorful part of a plant that attracts bees and butterflies",
+      "answer": "PETAL",
+      "row": 7,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Pair of married people",
-      "answer": "COUPLE",
-      "row": 4,
+      "clue": "Tool used to hold things firmly in place while working",
+      "answer": "CLAMP",
+      "row": 7,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Water in gas form",
-      "answer": "VAPOR",
-      "row": 2,
-      "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "Microsoft spreadsheet program",
-      "answer": "EXCEL",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Large animal people ride",
-      "answer": "HORSE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "wordCount": 7,

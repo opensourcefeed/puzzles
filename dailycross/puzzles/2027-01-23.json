@@ -4,60 +4,67 @@
   "title": "2027-01-23",
   "words": [
     {
-      "clue": "Four sides with right angles",
-      "answer": "RECTANGLE",
-      "row": 4,
-      "col": 1,
+      "clue": "Flying vehicle with spinning blades on the roof",
+      "answer": "HELICOPTER",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling uneasy",
-      "answer": "UNEASY",
-      "row": 3,
+      "clue": "What you must eat to keep your body working properly",
+      "answer": "NUTRITION",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates new music",
+      "answer": "COMPOSER",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 4,
-      "col": 2,
+      "clue": "Device with letters and numbers you press to type",
+      "answer": "KEYBOARD",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Pumps blood through your body",
-      "answer": "HEART",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Shiny coat on pans",
-      "answer": "SHINE",
+      "clue": "A flat shape with six sides like a honeycomb cell",
+      "answer": "HEXAGON",
       "row": 0,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Rock formed by fire",
-      "answer": "FIRE",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
+      "clue": "Color of tree bark and chocolate",
+      "answer": "BROWN",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "Soldiers remembrance",
-      "answer": "HERO",
-      "row": 9,
+      "clue": "A mixture of two metals melted together",
+      "answer": "ALLOY",
+      "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Clothing that covers both your legs",
+      "answer": "PANTS",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Round instrument you hit with sticks to make a beat",
+      "answer": "DRUM",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 225

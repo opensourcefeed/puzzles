@@ -4,66 +4,73 @@
   "title": "2027-06-03",
   "words": [
     {
-      "clue": "Moving your body to stay fit",
-      "answer": "EXERCISE",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where airplanes land",
-      "answer": "AIRPORT",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Spinning on an axis",
-      "answer": "ROTATE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Pumps blood through your body",
-      "answer": "HEART",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you throw a long stick",
-      "answer": "THROW",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Lift heavy things",
-      "answer": "HOIST",
+      "clue": "The complete path of water from ocean to sky and back",
+      "answer": "WATERCYCLE",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Money you borrow",
-      "answer": "DEBT",
-      "row": 0,
+      "clue": "An object that does not let electricity pass through",
+      "answer": "INSULATOR",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Apple mobile operating system",
-      "answer": "IOS",
-      "row": 5,
+      "clue": "Wireless technology used to connect devices over short distances",
+      "answer": "BLUETOOTH",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Green leafy vegetable full of iron",
+      "answer": "SPINACH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Machine that puts words and pictures from a computer onto paper",
+      "answer": "PRINTER",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Special pen used to draw on touchscreens",
+      "answer": "STYLUS",
+      "row": 4,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Area of land covered with many trees",
+      "answer": "FOREST",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Scandinavian country with the city of Stockholm",
+      "answer": "SWEDEN",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that runs on metal rails and carries passengers",
+      "answer": "TRAIN",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Water in the form of a gas or steam",
+      "answer": "VAPOR",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     }
   ],

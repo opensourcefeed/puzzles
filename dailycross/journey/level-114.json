@@ -4,126 +4,98 @@
   "title": "Level 114",
   "words": [
     {
-      "clue": "Tool used to see far stars",
-      "answer": "TELESCOPE",
+      "clue": "Dense tropical forest near the equator with heavy rain",
+      "answer": "RAINFOREST",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Builds roads and bridges",
-      "answer": "ENGINEER",
-      "row": 7,
-      "col": 6,
+      "clue": "Light fitting that hangs from the ceiling",
+      "answer": "CHANDELIER",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
+      "clue": "You use this tool to do math sums",
+      "answer": "CALCULATOR",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
+      "clue": "Person who leads tourists around historical sites",
+      "answer": "TOURGUIDE",
       "row": 6,
-      "col": 9,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "You open to let in light",
-      "answer": "WINDOW",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Buddha's birthday celebration",
-      "answer": "BUDDHA",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Warsaw",
-      "answer": "POLAND",
-      "row": 9,
+      "clue": "Feeling strong and full of energy",
+      "answer": "ENERGETIC",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ocean creature with two shells",
-      "answer": "MUSSEL",
-      "row": 2,
-      "col": 5,
+      "clue": "Vehicle that mows and harvests crops in fields",
+      "answer": "HARVESTER",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Pen for drawing on tablets",
-      "answer": "STYLUS",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
+      "clue": "Portable battery pack that recharges your phone on the go",
+      "answer": "POWERBANK",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
     },
     {
-      "clue": "Country with Athens",
-      "answer": "GREECE",
-      "row": 12,
-      "col": 1,
-      "direction": "across"
+      "clue": "A shape like a can or tube",
+      "answer": "CYLINDER",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
     },
     {
-      "clue": "Most populated country",
-      "answer": "CHINA",
+      "clue": "Sport where you ride a two-wheeled vehicle on a track",
+      "answer": "CYCLING",
       "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Very strong storm with spinning winds",
+      "answer": "TORNADO",
+      "row": 0,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Sharpen knives on this",
-      "answer": "STONE",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
+      "clue": "Mountain with a hole at the top that can erupt",
+      "answer": "VOLCANO",
       "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Large black and white keyboard",
-      "answer": "PIANO",
-      "row": 1,
-      "col": 7,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Money from a job",
-      "answer": "CASH",
-      "row": 0,
-      "col": 9,
+      "clue": "Mineral in milk and cheese needed for strong bones",
+      "answer": "CALCIUM",
+      "row": 8,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Round coral island",
-      "answer": "RING",
+      "clue": "Portable steps used to reach high places safely",
+      "answer": "LADDER",
       "row": 14,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Eight sided shape",
-      "answer": "STOP",
-      "row": 1,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 13,
   "targetWords": 20,
   "difficulty": "hard"
 }

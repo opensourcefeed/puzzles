@@ -4,67 +4,60 @@
   "title": "2026-07-10",
   "words": [
     {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
-      "row": 1,
-      "col": 1,
+      "clue": "Vehicle that puts out fires with water",
+      "answer": "FIRETRUCK",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Plant used for flavoring food",
-      "answer": "BASIL",
+      "clue": "The set of black and white keys on a piano",
+      "answer": "KEYBOARD",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Two slices of bread with filling inside",
+      "answer": "SANDWICH",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The day that comes after today",
+      "answer": "TOMORROW",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Tiny floating sea life",
-      "answer": "DRIFT",
+      "clue": "Your tummy where food is digested",
+      "answer": "STOMACH",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Cloth to stop bleeding",
-      "answer": "CLOTH",
-      "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Family history book",
-      "answer": "BOOK",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean creature that buries in sand",
-      "answer": "CLAM",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Brass instrument with slide",
-      "answer": "HORN",
-      "row": 4,
+      "clue": "The person who teaches you in class",
+      "answer": "TEACHER",
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Fall harvest time",
-      "answer": "FALL",
-      "row": 6,
-      "col": 3,
+      "clue": "Feeling that you care about what others are going through",
+      "answer": "EMPATHY",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Muscle building food",
-      "answer": "MEAT",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
+      "clue": "Sport where you throw a round flat disc as far as you can",
+      "answer": "DISCUS",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 28

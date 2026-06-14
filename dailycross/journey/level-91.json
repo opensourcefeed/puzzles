@@ -4,112 +4,98 @@
   "title": "Level 91",
   "words": [
     {
-      "clue": "April 1 prank day",
-      "answer": "APRILFOOLS",
+      "clue": "Machine that washes and dries your plates and cups",
+      "answer": "DISHWASHER",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Juicy summer fruit with seeds",
-      "answer": "WATERMELON",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Large landmass on Earth",
-      "answer": "CONTINENT",
+      "clue": "Tall yellow spring flower with a trumpet-shaped center",
+      "answer": "DAFFODIL",
       "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Volcano erupts with this",
-      "answer": "ERUPTION",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean bird that dives for fish",
-      "answer": "SEAGULL",
-      "row": 12,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Studies bugs",
-      "answer": "CATCHER",
-      "row": 6,
-      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Virtual reality headset",
-      "answer": "HEADSET",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Buddha's birthday celebration",
-      "answer": "BUDDHA",
-      "row": 8,
+      "clue": "Two or more atoms joined together",
+      "answer": "MOLECULE",
+      "row": 10,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean creature that makes pearls",
-      "answer": "OYSTER",
-      "row": 14,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Bags are made from this woven material",
-      "answer": "CLOTH",
-      "row": 0,
-      "col": 1,
+      "clue": "Three children born at the same time to the same mother",
+      "answer": "TRIPLETS",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A deep cut that bleeds",
-      "answer": "WOUND",
-      "row": 2,
+      "clue": "The joint where your arm meets your body",
+      "answer": "SHOULDER",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The first day of the weekend",
+      "answer": "SATURDAY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Apple cloud storage",
-      "answer": "CLOUD",
-      "row": 0,
-      "col": 1,
+      "clue": "Outdoor cooking surface used to grill meat over fire",
+      "answer": "BARBECUE",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling like you need to sleep",
+      "answer": "SLEEPY",
+      "row": 13,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Fish with a sword nose",
-      "answer": "LONG",
-      "row": 8,
-      "col": 9,
+      "clue": "Day honoring civil rights leader Martin Luther King Jr",
+      "answer": "MLKDAY",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Sleeping helps you rest and recover",
-      "answer": "REST",
-      "row": 2,
-      "col": 5,
+      "clue": "The tiny dwarf planet beyond Neptune",
+      "answer": "PLUTO",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of fresh cut grass",
+      "answer": "GREEN",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Fragrant green herb used on pizzas and in Italian cooking",
+      "answer": "BASIL",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "White vegetable that makes you cry when you cut it",
+      "answer": "ONION",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 13,
   "targetWords": 17,
   "difficulty": "hard"
 }

@@ -4,66 +4,73 @@
   "title": "2026-12-04",
   "words": [
     {
-      "clue": "Watering tool with a spray head",
-      "answer": "SPRINKLER",
-      "row": 3,
-      "col": 0,
+      "clue": "Green salad vegetable that is long and crunchy",
+      "answer": "CUCUMBER",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Virtual reality headset",
-      "answer": "HEADSET",
+      "clue": "Two or more atoms joined together",
+      "answer": "MOLECULE",
       "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Popular search engine",
-      "answer": "GOOGLE",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Team sport played with feet",
-      "answer": "SOCCER",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny hobby computer",
-      "answer": "BOARD",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Email folder for new messages",
-      "answer": "INBOX",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Area where river meets ocean",
-      "answer": "DELTA",
-      "row": 5,
+      "clue": "Box used to carry a packed lunch to school",
+      "answer": "LUNCHBOX",
+      "row": 4,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Wanting things fast",
-      "answer": "RUSH",
-      "row": 8,
+      "clue": "Very tiny living things you can only see with a microscope",
+      "answer": "BACTERIA",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall yellow spring flower with a trumpet-shaped center",
+      "answer": "DAFFODIL",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a river meets and mixes with the sea",
+      "answer": "ESTUARY",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A large flat area of high land",
+      "answer": "PLATEAU",
+      "row": 7,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Giant ocean wave caused by underwater earthquakes",
+      "answer": "TSUNAMI",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Special song played to honor a country",
+      "answer": "ANTHEM",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A curved bay formed by the sea cutting into land",
+      "answer": "GULF",
+      "row": 7,
+      "col": 11,
       "direction": "across"
     }
   ],

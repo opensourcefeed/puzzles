@@ -4,46 +4,67 @@
   "title": "2027-02-12",
   "words": [
     {
-      "clue": "Breakfast egg dish",
-      "answer": "OMELET",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Money per year of work",
-      "answer": "SALARY",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Arm bend point",
-      "answer": "ELBOW",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "When your body fights an infection",
-      "answer": "FEVER",
+      "clue": "Long vehicle used to transport many children to school",
+      "answer": "SCHOOLBUS",
       "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Kicked in soccer",
-      "answer": "BALL",
-      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Covering of a cell",
-      "answer": "SKIN",
+      "clue": "A reduction in price when something goes on sale",
+      "answer": "DISCOUNT",
       "row": 1,
-      "col": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you surf waves in the ocean on a board",
+      "answer": "SURFING",
+      "row": 3,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Feeling able to wait calmly without getting upset",
+      "answer": "PATIENT",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Shorts worn for swimming at the pool or beach",
+      "answer": "TRUNKS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Subject where you sing and play instruments",
+      "answer": "MUSIC",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Group of students who learn together",
+      "answer": "CLASS",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Underwater mountain chain that runs along the ocean floor",
+      "answer": "RIDGE",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Small pie filled with fruit or cream",
+      "answer": "TART",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 245

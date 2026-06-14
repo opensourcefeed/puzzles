@@ -4,105 +4,126 @@
   "title": "Level 131",
   "words": [
     {
-      "clue": "Country with Singapore city",
-      "answer": "SINGAPORE",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Catches fish for a living",
-      "answer": "FISHERMAN",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you buy medicine",
-      "answer": "PHARMACY",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Celebration of a new year",
-      "answer": "NEWYEAR",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Wear purple day",
-      "answer": "PURPLE",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Sixty seconds",
-      "answer": "MINUTE",
-      "row": 10,
+      "clue": "Person who writes computer programs",
+      "answer": "PROGRAMMER",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Dry sandy area with little water",
-      "answer": "DESERT",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 0,
+      "clue": "Person who catches fish as their job",
+      "answer": "FISHERMAN",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Getting money back when you return something",
-      "answer": "REFUND",
+      "clue": "A secret word used to protect your accounts",
+      "answer": "PASSWORD",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling deeply thankful for what someone did for you",
+      "answer": "GRATEFUL",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A child who has been legally taken into a new family",
+      "answer": "ADOPTED",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who cleans and checks your teeth",
+      "answer": "DENTIST",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A closed loop that electricity flows around",
+      "answer": "CIRCUIT",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The eighth and farthest planet from the sun",
+      "answer": "NEPTUNE",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Shiny gray color of a coin",
+      "answer": "SILVER",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Long deep crack in the ground with steep walls",
+      "answer": "CANYON",
       "row": 5,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where students go to learn every day",
+      "answer": "SCHOOL",
+      "row": 2,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "You rock in this on the porch",
-      "answer": "ROCKER",
-      "row": 3,
+      "clue": "A ball of ice and dust that has a glowing tail in space",
+      "answer": "COMET",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Your sister's or brother's daughter",
+      "answer": "NIECE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You breathe air into these two organs in your chest",
+      "answer": "LUNGS",
+      "row": 10,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Sweet fried ring-shaped pastry",
+      "answer": "DONUT",
+      "row": 9,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Score unit in a game",
-      "answer": "POINT",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Floors are often made of this",
-      "answer": "WOOD",
-      "row": 4,
-      "col": 11,
+      "clue": "This is the current day you are living right now",
+      "answer": "TODAY",
+      "row": 14,
+      "col": 10,
       "direction": "across"
     },
     {
-      "clue": "Large water vehicle",
-      "answer": "SHIP",
-      "row": 0,
-      "col": 8,
+      "clue": "The area between your hips and ribs",
+      "answer": "WAIST",
+      "row": 10,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 17,
   "targetWords": 22,
   "difficulty": "hard"
 }

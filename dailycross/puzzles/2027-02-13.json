@@ -4,67 +4,74 @@
   "title": "2027-02-13",
   "words": [
     {
-      "clue": "Portable phone charger",
-      "answer": "POWERBANK",
+      "clue": "A place with equipment where scientists do experiments",
+      "answer": "LABORATORY",
       "row": 5,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Blow leaves with this",
-      "answer": "BLOWER",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a king rules",
-      "answer": "CASTLE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle that runs on tracks",
-      "answer": "TRAIN",
+      "clue": "The complete path of water from ocean to sky and back",
+      "answer": "WATERCYCLE",
       "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Second most populated country",
-      "answer": "INDIA",
-      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Animal that sleeps in winter",
-      "answer": "SLEEP",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Round coral island",
-      "answer": "RING",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit at this",
-      "answer": "DESK",
-      "row": 7,
-      "col": 3,
+      "clue": "A large area of land belonging to one country",
+      "answer": "TERRITORY",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Spinning wind storm",
-      "answer": "WIND",
-      "row": 7,
+      "clue": "The process of a planet spinning on its center line",
+      "answer": "ROTATION",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with many sides, more than eight",
+      "answer": "POLYGON",
+      "row": 9,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Test done by a doctor to measure your body temperature",
+      "answer": "CHECKUP",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling like you need to sleep",
+      "answer": "SLEEPY",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge collection of billions of stars in space",
+      "answer": "GALAXY",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Rock that comes from space and burns as it falls",
+      "answer": "METEOR",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Black and white bear from China",
+      "answer": "PANDA",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 246

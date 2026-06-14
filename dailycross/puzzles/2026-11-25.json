@@ -4,67 +4,74 @@
   "title": "2026-11-25",
   "words": [
     {
-      "clue": "Builds with wood",
-      "answer": "CARPENTER",
-      "row": 4,
-      "col": 3,
+      "clue": "June holiday to honor and give gifts to fathers",
+      "answer": "FATHERSDAY",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where you take a bath",
-      "answer": "BATHROOM",
+      "clue": "April 1 holiday when people play pranks on each other",
+      "answer": "APRILFOOLS",
       "row": 3,
-      "col": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Set of instructions for a computer",
-      "answer": "PROGRAM",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you buy food",
-      "answer": "GROCERY",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 6,
+      "clue": "A large concert hall where orchestras perform",
+      "answer": "AUDITORIUM",
+      "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Sharp tool for slicing bread",
-      "answer": "SLICER",
-      "row": 11,
+      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
+      "answer": "AMBULANCE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Brown sweet powder used in desserts",
+      "answer": "CHOCOLATE",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Organ that turns food into nutrients your body uses",
+      "answer": "STOMACH",
+      "row": 7,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Round white vegetable",
-      "answer": "ONION",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
+      "clue": "Person who shapes clay into pottery and bowls",
+      "answer": "POTTER",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
     },
     {
-      "clue": "Tells time on wrist",
-      "answer": "WATCH",
-      "row": 6,
+      "clue": "The ocean found around the continent of India",
+      "answer": "INDIAN",
+      "row": 10,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Smooth creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Part of the eye that sees color",
-      "answer": "CONE",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
+      "clue": "Vehicle that runs on metal rails and carries passengers",
+      "answer": "TRAIN",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 166

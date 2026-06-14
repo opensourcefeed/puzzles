@@ -4,70 +4,77 @@
   "title": "Level 37",
   "words": [
     {
-      "clue": "Place where you mail letters",
-      "answer": "POSTOFFICE",
-      "row": 3,
+      "clue": "Building where scientists do research and experiments",
+      "answer": "LABORATORY",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Bangkok",
-      "answer": "THAILAND",
-      "row": 3,
+      "clue": "Long vehicle used to transport many children to school",
+      "answer": "SCHOOLBUS",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Mix of two metals",
-      "answer": "BRONZE",
-      "row": 7,
-      "col": 6,
+      "clue": "The bony structure that supports your body",
+      "answer": "SKELETON",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Paper check",
-      "answer": "CHECK",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny floating sea life",
-      "answer": "DRIFT",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Lift heavy things",
-      "answer": "HOIST",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Brightly colored garden flower",
-      "answer": "TULIP",
+      "clue": "A substance that speeds up a chemical reaction",
+      "answer": "CATALYST",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Tiny germ that causes colds",
-      "answer": "VIRUS",
+      "clue": "Feeling deeply thankful for what someone did for you",
+      "answer": "GRATEFUL",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The five thin parts at the end of your hand",
+      "answer": "FINGERS",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "European country with the city of Warsaw",
+      "answer": "POLAND",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A large area of flat land used for farming",
+      "answer": "PLAIN",
       "row": 1,
       "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Person who looks after children when parents are away",
+      "answer": "NANNY",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Your parent's brother",
+      "answer": "UNCLE",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 10,
   "targetWords": 10,
   "difficulty": "medium"
 }

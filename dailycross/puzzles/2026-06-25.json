@@ -4,60 +4,74 @@
   "title": "2026-06-25",
   "words": [
     {
-      "clue": "Fixes computer problems",
-      "answer": "TECHNICIAN",
+      "clue": "Yellow tropical fruit with a rough skin",
+      "answer": "PINEAPPLE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Holiday on December 25 when gifts are exchanged",
+      "answer": "CHRISTMAS",
       "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Large vehicle with wings that flies through the air",
+      "answer": "AIRPLANE",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The largest ocean in the world between Asia and America",
+      "answer": "PACIFIC",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Shellfish that produces a shiny pearl inside its shell",
+      "answer": "OYSTER",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Salty snack that comes in a bag and is very crunchy",
+      "answer": "CHIPS",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Organ in your belly that helps digest food",
+      "answer": "LIVER",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Small bag carried by women to hold their belongings",
+      "answer": "PURSE",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "East African country with the city of Nairobi and safaris",
+      "answer": "KENYA",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Room where you watch TV",
-      "answer": "LIVING",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with this",
-      "answer": "PENCIL",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Thanksgiving in US",
-      "answer": "THANK",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Nairobi",
-      "answer": "KENYA",
+      "clue": "The dark circle in the middle of your eye",
+      "answer": "PUPIL",
       "row": 0,
       "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Tall sitting seat",
-      "answer": "SEAT",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Birth date celebration",
-      "answer": "CAKE",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You smell with this",
-      "answer": "NOSE",
-      "row": 2,
-      "col": 9,
-      "direction": "across"
     }
   ],
   "dayNumber": 13

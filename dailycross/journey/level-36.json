@@ -4,63 +4,77 @@
   "title": "Level 36",
   "words": [
     {
-      "clue": "Machine that processes information",
-      "answer": "COMPUTER",
-      "row": 5,
+      "clue": "Your son's son",
+      "answer": "GRANDSON",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Three children born at once",
-      "answer": "TRIPLET",
-      "row": 5,
+      "clue": "Sport where you move through water with your arms and legs",
+      "answer": "SWIMMING",
+      "row": 6,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Ocean bird that dives for fish",
-      "answer": "SEAGULL",
-      "row": 10,
+      "clue": "Colored pencils used in art class",
+      "answer": "MARKERS",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Southeast Asian country with the city of Hanoi",
+      "answer": "VIETNAM",
+      "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Small blue wildflower",
-      "answer": "VIOLET",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
+      "clue": "Feeling very interested and wanting to explore and find out more",
+      "answer": "CURIOUS",
       "row": 0,
-      "col": 7,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You cover the floor with this",
-      "answer": "CARPET",
-      "row": 8,
+      "clue": "Small curved pink ocean crustacean eaten in salads",
+      "answer": "SHRIMP",
+      "row": 11,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "You eat with this",
-      "answer": "MOUTH",
-      "row": 1,
-      "col": 5,
+      "clue": "Place where a river begins",
+      "answer": "SOURCE",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Big family everyone",
-      "answer": "TRIBE",
-      "row": 3,
-      "col": 4,
+      "clue": "Round red salad vegetable that grows on a vine",
+      "answer": "TOMATO",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Handheld device you use to call people and browse the internet",
+      "answer": "PHONE",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Microsoft program used to create spreadsheets",
+      "answer": "EXCEL",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 10,
   "targetWords": 10,
   "difficulty": "medium"
 }

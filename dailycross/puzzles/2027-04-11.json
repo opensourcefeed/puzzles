@@ -4,52 +4,66 @@
   "title": "2027-04-11",
   "words": [
     {
-      "clue": "Computer virus protection",
-      "answer": "ANTIVIRUS",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you buy medicine",
-      "answer": "PHARMACY",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean animal with a shell",
-      "answer": "TURTLE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
-      "row": 5,
+      "clue": "A shape that is taller than it is wide, with four sides",
+      "answer": "RECTANGLE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Leads visitors around",
-      "answer": "GUIDE",
-      "row": 4,
+      "clue": "The amount of water vapor in the air",
+      "answer": "HUMIDITY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you hit a white ball with a bat and run bases",
+      "answer": "BASEBALL",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Test electrical current",
-      "answer": "METER",
-      "row": 8,
-      "col": 4,
+      "clue": "Light purple color of a lavender flower",
+      "answer": "LAVENDER",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Baby kangaroo pocket",
-      "answer": "POUCH",
-      "row": 6,
-      "col": 6,
+      "clue": "Building where you go to watch movies on a big screen",
+      "answer": "THEATER",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Scandinavian country with the city of Helsinki",
+      "answer": "FINLAND",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Lightweight aircraft with one small engine",
+      "answer": "GLIDER",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Shellfish attached to rocks that opens when in water",
+      "answer": "MUSSEL",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where a family lives",
+      "answer": "HOUSE",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     }
   ],

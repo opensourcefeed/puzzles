@@ -4,66 +4,59 @@
   "title": "2027-06-10",
   "words": [
     {
-      "clue": "Repairs cars and engines",
-      "answer": "MECHANIC",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Light a fire with this",
-      "answer": "LIGHTER",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Protects the community",
-      "answer": "POLICE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Your father's brother",
-      "answer": "UNCLE",
+      "clue": "A powerful instrument used to see distant stars and planets",
+      "answer": "TELESCOPE",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
-      "row": 4,
-      "col": 9,
+      "clue": "The joint where your arm meets your body",
+      "answer": "SHOULDER",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Part ownership in a company",
-      "answer": "PART",
-      "row": 3,
-      "col": 5,
+      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
+      "answer": "VITAMINC",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Direction the sun rises",
-      "answer": "EAST",
-      "row": 6,
+      "clue": "The city where a country's government is based",
+      "answer": "CAPITAL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where you can borrow books to read for free",
+      "answer": "LIBRARY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Cooked meat in a round bun",
+      "answer": "BURGER",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where ships dock",
-      "answer": "PORT",
-      "row": 5,
-      "col": 9,
+      "clue": "A small device you wear on your wrist to tell time",
+      "answer": "WATCH",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A song sung by one person on stage",
+      "answer": "SOLO",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     }
   ],

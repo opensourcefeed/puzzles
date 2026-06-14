@@ -4,112 +4,105 @@
   "title": "Level 81",
   "words": [
     {
-      "clue": "Large group of musicians",
-      "answer": "ORCHESTRA",
-      "row": 4,
-      "col": 3,
+      "clue": "Handheld device used to measure electrical current",
+      "answer": "MULTIMETER",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling full of hope",
-      "answer": "HOPEFUL",
+      "clue": "A large concert hall where orchestras perform",
+      "answer": "AUDITORIUM",
       "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Workers day off",
-      "answer": "DAYOFF",
+      "clue": "Wireless technology used to connect devices over short distances",
+      "answer": "BLUETOOTH",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Country of kangaroos, koalas and the outback",
+      "answer": "AUSTRALIA",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint where your arm meets your body",
+      "answer": "SHOULDER",
+      "row": 14,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Long wardrobe cabinet for hanging clothes",
+      "answer": "WARDROBE",
       "row": 3,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Roll dough with this",
-      "answer": "ROLLER",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Stockholm",
-      "answer": "SWEDEN",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Giant rock that comes from space",
-      "answer": "METEOR",
-      "row": 6,
-      "col": 7,
+      "clue": "A reduction in price when something goes on sale",
+      "answer": "DISCOUNT",
+      "row": 11,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Shovel snow with this",
-      "answer": "SHOVEL",
-      "row": 8,
+      "clue": "The time halfway between noon and midnight",
+      "answer": "EVENING",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A coin that is worth twenty-five cents",
+      "answer": "QUARTER",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Makes medicine",
-      "answer": "MAKER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewish new year",
-      "answer": "SHANA",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Cover for garden soil",
-      "answer": "COVER",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Stick things with this",
-      "answer": "TAPE",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix paint with this stick",
-      "answer": "STIR",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where prisoners stay",
-      "answer": "JAIL",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Joint between thigh and calf",
-      "answer": "KNEE",
+      "clue": "The last day of the weekend",
+      "answer": "SUNDAY",
       "row": 9,
-      "col": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat top of the stove with burners used for cooking",
+      "answer": "STOVE",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Device used to weigh out exact amounts of ingredients",
+      "answer": "SCALE",
+      "row": 0,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "You put flowers in this",
-      "answer": "VASE",
-      "row": 6,
+      "clue": "Male deer with antlers",
+      "answer": "STAG",
+      "row": 9,
       "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 14,
   "targetWords": 16,
   "difficulty": "medium"
 }

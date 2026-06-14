@@ -4,119 +4,112 @@
   "title": "Level 128",
   "words": [
     {
-      "clue": "Flash of light in storm",
-      "answer": "LIGHTNING",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Subject about the world",
-      "answer": "GEOGRAPHY",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Cardboard is thick paper",
-      "answer": "CARDBOARD",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Microsoft operating system",
-      "answer": "WINDOWS",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
+      "clue": "Small table beside your bed for a lamp or glass of water",
+      "answer": "NIGHTSTAND",
       "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Group of stars in the sky",
-      "answer": "GALAXY",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Your male parent",
-      "answer": "FATHER",
-      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 12,
+      "clue": "Winter holiday with candles and gift-giving in December",
+      "answer": "CHRISTMAS",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A rock from space that falls and hits Earth",
+      "answer": "METEORITE",
+      "row": 5,
       "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny seed powder from flowers",
-      "answer": "POLLEN",
-      "row": 4,
-      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Deep valley with steep sides",
-      "answer": "CANYON",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Goes back and forth",
-      "answer": "SWITCH",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Cares for children at home",
-      "answer": "NANNY",
-      "row": 2,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "White dairy drink",
-      "answer": "MILK",
-      "row": 1,
+      "clue": "When a substance dissolves in a liquid",
+      "answer": "SOLUTION",
+      "row": 9,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Aromatic plant used in tea",
-      "answer": "MINT",
-      "row": 0,
+      "clue": "Very tiny living things you can only see with a microscope",
+      "answer": "BACTERIA",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Marine animal with a star shape",
+      "answer": "STARFISH",
+      "row": 4,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Red flower given on Valentine's",
-      "answer": "ROSE",
-      "row": 10,
-      "col": 7,
+      "clue": "Colorful arc of light in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Person you marry",
-      "answer": "LOVE",
-      "row": 8,
+      "clue": "Dark green leafy vegetable rich in iron",
+      "answer": "SPINACH",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The celebration ceremony when two people get married",
+      "answer": "WEDDING",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The eighth and farthest planet from the sun",
+      "answer": "NEPTUNE",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Country known for the Amazon jungle and Carnival festival",
+      "answer": "BRAZIL",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The sixth planet from the sun, almost as large as Jupiter",
+      "answer": "SATURN",
+      "row": 4,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Striped big cat from Asia",
+      "answer": "TIGER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "White vegetable made up of many layers",
+      "answer": "ONION",
+      "row": 10,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "East African country with the city of Nairobi and safaris",
+      "answer": "KENYA",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 15,
   "targetWords": 22,
   "difficulty": "hard"
 }

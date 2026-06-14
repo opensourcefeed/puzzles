@@ -4,53 +4,67 @@
   "title": "2026-07-08",
   "words": [
     {
-      "clue": "Builds with wood",
-      "answer": "CARPENTER",
-      "row": 1,
+      "clue": "Small device you plug into a computer to store files",
+      "answer": "FLASHDRIVE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Day to honor teachers",
-      "answer": "TEACHERS",
+      "clue": "Vehicle that travels under the water",
+      "answer": "SUBMARINE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle used on a farm to pull heavy equipment",
+      "answer": "TRACTOR",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A brother or sister",
+      "answer": "SIBLING",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Spicy root used in Asian cooking",
+      "answer": "GINGER",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Small bag carried by women to hold their belongings",
+      "answer": "PURSE",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Holds papers together",
-      "answer": "STAPLER",
+      "clue": "Red fruit that keeps the doctor away",
+      "answer": "APPLE",
       "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "USB storage device",
-      "answer": "DRIVE",
-      "row": 6,
-      "col": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "How fast something moves",
-      "answer": "SPEED",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a cow lives",
-      "answer": "BARN",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Read across America day",
-      "answer": "READ",
-      "row": 2,
+      "clue": "You sit at this to do your work",
+      "answer": "DESK",
+      "row": 7,
       "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "You read stories printed in this",
+      "answer": "BOOK",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 26

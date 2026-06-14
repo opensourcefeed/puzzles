@@ -4,56 +4,63 @@
   "title": "Level 22",
   "words": [
     {
-      "clue": "What a caterpillar becomes",
-      "answer": "BUTTERFLY",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
-      "row": 9,
+      "clue": "Injection that prevents you from catching a disease",
+      "answer": "VACCINE",
+      "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Studies bugs",
-      "answer": "CATCHER",
-      "row": 0,
-      "col": 5,
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Spinning on an axis",
-      "answer": "ROTATE",
+      "clue": "Special song played to honor a country",
+      "answer": "ANTHEM",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Break time when you go outside to play",
+      "answer": "RECESS",
       "row": 6,
-      "col": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Crunchy green vegetable with stalks",
-      "answer": "CELERY",
+      "clue": "Device used to take photos and record videos",
+      "answer": "CAMERA",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Studies old things",
-      "answer": "FINDER",
+      "clue": "The child of your aunt or uncle",
+      "answer": "COUSIN",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Money you earn every month from your job",
+      "answer": "SALARY",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Long flat area of sand next to the ocean",
+      "answer": "BEACH",
       "row": 6,
       "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 8,
   "targetWords": 8,
   "difficulty": "easy"
 }

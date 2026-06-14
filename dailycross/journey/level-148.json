@@ -4,133 +4,126 @@
   "title": "Level 148",
   "words": [
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 7,
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
+      "row": 6,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Country with Jakarta",
-      "answer": "INDONESIA",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
-      "row": 7,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you throw a long metal stick",
-      "answer": "JAVELIN",
-      "row": 14,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of maple leaves",
-      "answer": "CANADA",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden path material",
-      "answer": "GRAVEL",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Game console by Nintendo",
-      "answer": "SWITCH",
+      "clue": "Money that the government takes from people's wages",
+      "answer": "INCOMETAX",
       "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "You breathe with these",
-      "answer": "LUNGS",
-      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Plant climbing frame",
-      "answer": "FENCE",
-      "row": 2,
+      "clue": "Paper money used by a country",
+      "answer": "CURRENCY",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A young person between thirteen and nineteen years old",
+      "answer": "TEENAGER",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The energy content of food measured in units",
+      "answer": "CALORIES",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who creates new music",
+      "answer": "COMPOSER",
+      "row": 5,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Leg covering",
-      "answer": "PANTS",
-      "row": 9,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Goes around something",
-      "answer": "ORBIT",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Wireless internet connection",
-      "answer": "WIFI",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Change from solid to gas",
-      "answer": "BOIL",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Can't see well",
-      "answer": "BLUR",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Red flower given on Valentine's",
-      "answer": "ROSE",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot body temperature",
-      "answer": "HEAT",
+      "clue": "Flat star-shaped ocean creature with five arms",
+      "answer": "STARFISH",
       "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Tall plant with a trunk",
-      "answer": "TREE",
+      "clue": "Very strong spinning wind that destroys everything in its path",
+      "answer": "TORNADO",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A printed paper record showing how much you paid",
+      "answer": "RECEIPT",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Open shoe worn in summer",
+      "answer": "SANDALS",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Machine that can create three-dimensional objects from digital files",
+      "answer": "PRINTER",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Garden insect that makes a web",
+      "answer": "SPIDER",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where people who break laws are kept",
+      "answer": "PRISON",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Two children born at the same time to the same mother",
+      "answer": "TWINS",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Neat row of low bushes forming a border or boundary",
+      "answer": "HEDGE",
       "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "These are the white hard parts inside your mouth",
+      "answer": "TEETH",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of fresh cut grass",
+      "answer": "GREEN",
+      "row": 1,
       "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 25,
   "difficulty": "hard"
 }

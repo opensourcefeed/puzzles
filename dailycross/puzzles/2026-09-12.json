@@ -4,67 +4,74 @@
   "title": "2026-09-12",
   "words": [
     {
-      "clue": "Two-wheeled motor vehicle",
-      "answer": "MOTORCYCLE",
-      "row": 2,
-      "col": 2,
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling full of hope",
-      "answer": "HOPEFUL",
-      "row": 1,
+      "clue": "May holiday to honor and give gifts to mothers",
+      "answer": "MOTHERSDAY",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Mineral in milk and cheese needed for strong bones",
+      "answer": "CALCIUM",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Black and white bird that cannot fly",
+      "answer": "PENGUIN",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The imaginary line around the middle of the Earth",
+      "answer": "EQUATOR",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Large flat horizontal surface of a room above your head",
+      "answer": "CEILING",
+      "row": 9,
       "col": 5,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Country of maple leaves",
-      "answer": "CANADA",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Small piece of land in water",
+      "clue": "Small piece of land surrounded by water",
       "answer": "ISLAND",
-      "row": 0,
+      "row": 5,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Team sport played with feet",
-      "answer": "SOCCER",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Newborn baby",
-      "answer": "INFANT",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Glass house for plants",
-      "answer": "HOUSE",
-      "row": 3,
-      "col": 2,
+      "clue": "You use this to draw straight lines",
+      "answer": "RULER",
+      "row": 8,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
+      "clue": "A push or pull that makes objects move or stop",
+      "answer": "FORCE",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Large spoon with a long handle used to serve soup",
+      "answer": "LADLE",
       "row": 0,
-      "col": 13,
+      "col": 7,
       "direction": "down"
-    },
-    {
-      "clue": "Press garlic with this",
-      "answer": "PRESS",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 92

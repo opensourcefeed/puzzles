@@ -4,59 +4,73 @@
   "title": "2027-06-02",
   "words": [
     {
-      "clue": "Works with wood to make furniture",
-      "answer": "WOODWORKER",
+      "clue": "Southeast Asian country with the city of Kuala Lumpur",
+      "answer": "MALAYSIA",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country with Helsinki",
-      "answer": "FINLAND",
-      "row": 0,
+      "clue": "Feeling that you care about what others are going through",
+      "answer": "EMPATHY",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You hang a mirror on this",
-      "answer": "DRESSER",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean animal with a shell",
-      "answer": "TURTLE",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Pen for drawing on tablets",
-      "answer": "STYLUS",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You click with this",
-      "answer": "MOUSE",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "How fast something moves",
-      "answer": "SPEED",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Paper check",
-      "answer": "CHECK",
-      "row": 11,
+      "clue": "Person who brings food to your table in a restaurant",
+      "answer": "WAITER",
+      "row": 5,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Large powerful ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Sturdy blue trousers made from denim",
+      "answer": "JEANS",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of money something costs in a shop",
+      "answer": "PRICE",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat raised surface where you do work or writing",
+      "answer": "DESK",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The time just after the sun goes down",
+      "answer": "DUSK",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Adhesive liquid used to stick things firmly together",
+      "answer": "GLUE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The hard center of the Earth",
+      "answer": "CORE",
+      "row": 10,
+      "col": 5,
       "direction": "across"
     }
   ],

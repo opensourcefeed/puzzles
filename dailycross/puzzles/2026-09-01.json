@@ -4,73 +4,59 @@
   "title": "2026-09-01",
   "words": [
     {
-      "clue": "What a caterpillar becomes",
-      "answer": "BUTTERFLY",
+      "clue": "Flying vehicle with spinning blades on the roof",
+      "answer": "HELICOPTER",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Travels to discover new places",
-      "answer": "EXPLORER",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you cook meals",
-      "answer": "KITCHEN",
+      "clue": "Orange and white striped clown fish made famous by a movie",
+      "answer": "CLOWNFISH",
       "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Intelligent ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
-      "row": 4,
-      "col": 9,
+      "clue": "Work your teacher gives you to do at home",
+      "answer": "HOMEWORK",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Bandage that sticks to skin",
-      "answer": "BANDAID",
-      "row": 3,
+      "clue": "Part of the fridge where food is kept frozen solid",
+      "answer": "FREEZER",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A shape with four equal sides tilted at an angle",
+      "answer": "RHOMBUS",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very pleased after winning or succeeding",
+      "answer": "EXCITED",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Room where you watch TV",
-      "answer": "LIVING",
-      "row": 8,
-      "col": 0,
+      "clue": "Mineral in milk and cheese needed for strong bones",
+      "answer": "CALCIUM",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Water vapor becomes liquid",
-      "answer": "RAIN",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Digital money",
-      "answer": "COIN",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Animals that eat plants",
-      "answer": "DEER",
-      "row": 0,
-      "col": 8,
+      "clue": "A push or pull that makes objects move or stop",
+      "answer": "FORCE",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     }
   ],

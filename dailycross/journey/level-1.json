@@ -4,39 +4,39 @@
   "title": "Level 1",
   "words": [
     {
-      "clue": "Build walls with this gray mix",
-      "answer": "CONCRETE",
+      "clue": "A flat shape with six sides like a honeycomb cell",
+      "answer": "HEXAGON",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Force that pulls things to Earth",
-      "answer": "GRAVITY",
+      "clue": "Sport where you throw a long spear as far as you can",
+      "answer": "JAVELIN",
       "row": 3,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Subject about the past",
-      "answer": "HISTORY",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Light a fire with this",
-      "answer": "LIGHTER",
+      "clue": "Season when flowers bloom and it gets warmer",
+      "answer": "SPRING",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Pointed weapon shape",
-      "answer": "ARROW",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
+      "clue": "A huge collection of billions of stars in space",
+      "answer": "GALAXY",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A high body temperature caused by fighting an infection",
+      "answer": "FEVER",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "wordCount": 5,

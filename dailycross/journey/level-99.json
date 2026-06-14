@@ -4,112 +4,77 @@
   "title": "Level 99",
   "words": [
     {
-      "clue": "Works with wood to make furniture",
-      "answer": "WOODWORKER",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Global network of computers",
-      "answer": "INTERNET",
+      "clue": "Creamy dip made from mashed avocado",
+      "answer": "GUACAMOLE",
       "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Bread with filling",
-      "answer": "SANDWICH",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Volcano erupts with this",
-      "answer": "ERUPTION",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 11,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling nervous before a test",
-      "answer": "NERVOUS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Small ocean crustacean",
-      "answer": "SHRIMP",
-      "row": 2,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Sidewalks are made of this",
-      "answer": "CEMENT",
-      "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Country of the Eiffel Tower",
-      "answer": "FRANCE",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You store clothes in this",
-      "answer": "CLOSET",
+      "clue": "The main processing chip inside a computer",
+      "answer": "PROCESSOR",
       "row": 0,
-      "col": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Three babies born together",
-      "answer": "TRIPLE",
+      "clue": "The first day of the weekend",
+      "answer": "SATURDAY",
       "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Become part of a family by law",
-      "answer": "ADOPT",
-      "row": 3,
-      "col": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Falls from clouds",
-      "answer": "RAIN",
+      "clue": "Box used to carry a packed lunch to school",
+      "answer": "LUNCHBOX",
       "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The country that has London as its capital city",
+      "answer": "ENGLAND",
+      "row": 2,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Sony game system",
-      "answer": "GAME",
-      "row": 10,
-      "col": 12,
+      "clue": "Thin layer of ice on roads and surfaces on cold mornings",
+      "answer": "FROST",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "These are the white hard parts inside your mouth",
+      "answer": "TEETH",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The soft part of your face",
+      "answer": "CHEEK",
+      "row": 2,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Storage space directly under the roof of a house",
+      "answer": "ATTIC",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Money you owe to someone else that you must pay back",
+      "answer": "DEBT",
+      "row": 8,
+      "col": 11,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 10,
   "targetWords": 18,
   "difficulty": "hard"
 }

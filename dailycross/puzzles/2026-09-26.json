@@ -4,74 +4,60 @@
   "title": "2026-09-26",
   "words": [
     {
-      "clue": "Cook food in the oven in this",
-      "answer": "ROASTER",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Freeze food in this",
-      "answer": "FREEZER",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Wear purple day",
-      "answer": "PURPLE",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Grows crops on a farm",
-      "answer": "FARMER",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Blood vessel that carries blood away",
-      "answer": "ARTERY",
+      "clue": "Marine animal with a star shape",
+      "answer": "STARFISH",
       "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Machine that can create three-dimensional objects from digital files",
+      "answer": "PRINTER",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Screen attached to a computer that shows you what is happening",
+      "answer": "MONITOR",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Cares for children at home",
-      "answer": "NANNY",
+      "clue": "Injection that prevents you from catching a disease",
+      "answer": "VACCINE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Cooked meat in a round bun",
+      "answer": "BURGER",
       "row": 10,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Coin worth 10 cents",
-      "answer": "DIME",
-      "row": 4,
-      "col": 0,
+      "clue": "Smooth creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 3,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The food you eat each day",
-      "answer": "DIET",
-      "row": 0,
-      "col": 7,
+      "clue": "Feeling sorry after making a mistake",
+      "answer": "GUILTY",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Mix paint with this stick",
-      "answer": "STIR",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
+      "clue": "Person trained to examine and treat sick patients",
+      "answer": "DOCTOR",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 106

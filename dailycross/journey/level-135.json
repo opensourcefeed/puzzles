@@ -4,133 +4,126 @@
   "title": "Level 135",
   "words": [
     {
-      "clue": "Ocean zone where sunlight reaches",
-      "answer": "SUNLIGHT",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very interested",
-      "answer": "CURIOUS",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Turn nuts with a socket",
-      "answer": "SOCKET",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Happy and bright",
-      "answer": "BRIGHT",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Lives more than one year",
-      "answer": "YEARLY",
+      "clue": "Building where you go to eat a meal prepared by a chef",
+      "answer": "RESTAURANT",
       "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Small river of water",
-      "answer": "STREAM",
-      "row": 10,
-      "col": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Crunchy green vegetable with stalks",
-      "answer": "CELERY",
-      "row": 12,
+      "clue": "Light fitting that hangs from the ceiling",
+      "answer": "CHANDELIER",
+      "row": 5,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny seed powder from flowers",
-      "answer": "POLLEN",
-      "row": 0,
-      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
-      "row": 2,
-      "col": 3,
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Second most populated country",
-      "answer": "INDIA",
+      "clue": "Vehicle that puts out fires with water",
+      "answer": "FIRETRUCK",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling strong and full of energy",
+      "answer": "ENERGETIC",
       "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with eight sides like a stop sign",
+      "answer": "OCTAGON",
+      "row": 3,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Wraps around neck for warmth",
-      "answer": "SCARF",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Seoul",
-      "answer": "KOREA",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Our planet day",
-      "answer": "EARTH",
-      "row": 7,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Light bulb wire",
-      "answer": "WIRE",
-      "row": 9,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Sleeping helps you rest and recover",
-      "answer": "REST",
-      "row": 2,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Magnifying glass",
-      "answer": "LENS",
-      "row": 5,
+      "clue": "Machine with spinning blades used to blend smoothies and soups",
+      "answer": "BLENDER",
+      "row": 14,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How hot or cold something is",
-      "answer": "HEAT",
-      "row": 4,
-      "col": 1,
+      "clue": "A huge slow moving mass of ice found in cold regions",
+      "answer": "GLACIER",
+      "row": 14,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Island country in East Asia known for technology and night markets",
+      "answer": "TAIWAN",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Kid age 13 to 19",
-      "answer": "TEEN",
+      "clue": "Small purple or blue wildflower found in meadows",
+      "answer": "VIOLET",
       "row": 2,
-      "col": 12,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft square used to wipe and clean surfaces and dishes",
+      "answer": "SPONGE",
+      "row": 7,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "Eggs beaten and cooked flat in a pan",
+      "answer": "OMELET",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The colorful part of a plant that attracts bees and butterflies",
+      "answer": "PETAL",
+      "row": 12,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Worn on your feet to protect them outside",
+      "answer": "SHOES",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Small bag carried by women to hold their belongings",
+      "answer": "PURSE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Small device that counts down while food is cooking",
+      "answer": "TIMER",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 23,
   "difficulty": "hard"
 }

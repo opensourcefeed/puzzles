@@ -4,73 +4,45 @@
   "title": "2027-06-11",
   "words": [
     {
-      "clue": "Day after today",
-      "answer": "TOMORROW",
+      "clue": "Very strong storm with spinning winds",
+      "answer": "TORNADO",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Large farm vehicle used to pull plows and equipment",
+      "answer": "TRACTOR",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Small curved pink ocean crustacean eaten in salads",
+      "answer": "SHRIMP",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Decorates rooms",
-      "answer": "PAINTER",
-      "row": 3,
+      "clue": "Country that bridges Europe and Asia with Istanbul",
+      "answer": "TURKEY",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Spicy root used in cooking",
-      "answer": "GINGER",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "How fast something moves",
-      "answer": "SPEED",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Makes medicine",
-      "answer": "MAKER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Quality passed down in families",
-      "answer": "TRAIT",
+      "clue": "Person who creates paintings, drawings and sculptures",
+      "answer": "ARTIST",
       "row": 2,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "You put a mattress on this",
-      "answer": "FRAME",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Set of words and music together",
-      "answer": "SONG",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft white building rock",
-      "answer": "ROCK",
-      "row": 6,
-      "col": 5,
+      "clue": "The speed at which a piece of music is played",
+      "answer": "TEMPO",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     }
   ],

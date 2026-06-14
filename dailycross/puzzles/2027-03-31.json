@@ -4,60 +4,67 @@
   "title": "2027-03-31",
   "words": [
     {
-      "clue": "Place where sick people go",
-      "answer": "HOSPITAL",
+      "clue": "Large vehicle with wings that flies through the air",
+      "answer": "AIRPLANE",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Creates new things",
-      "answer": "INVENTOR",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Set of instructions for a computer",
-      "answer": "PROGRAM",
-      "row": 3,
+      "clue": "The force that keeps planets orbiting the sun",
+      "answer": "GRAVITY",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Feeling surprised",
-      "answer": "SHOCKED",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Diamond shape",
-      "answer": "SLANT",
-      "row": 4,
-      "col": 8,
+      "clue": "Two-wheeled vehicle you pedal with your feet",
+      "answer": "BICYCLE",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Largest ocean animal",
-      "answer": "WHALE",
+      "clue": "You use this to color and draw pictures",
+      "answer": "CRAYONS",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft shoe worn indoors",
+      "answer": "SLIPPER",
       "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Wedding party",
-      "answer": "PARTY",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
+      "clue": "The sixth planet from the sun, almost as large as Jupiter",
+      "answer": "SATURN",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "Smart speaker from Google",
-      "answer": "NEST",
-      "row": 0,
+      "clue": "Fine yellow powder made by flowers to make seeds",
+      "answer": "POLLEN",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "These are the white hard parts inside your mouth",
+      "answer": "TEETH",
+      "row": 7,
       "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "Country with the Great Wall and the Forbidden City",
+      "answer": "CHINA",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 292

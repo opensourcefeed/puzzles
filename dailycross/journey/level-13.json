@@ -4,56 +4,42 @@
   "title": "Level 13",
   "words": [
     {
-      "clue": "Subject about the world",
-      "answer": "GEOGRAPHY",
-      "row": 1,
+      "clue": "Green leafy vegetable full of iron",
+      "answer": "SPINACH",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Captain of a ship",
-      "answer": "CAPTAIN",
+      "clue": "The time halfway between noon and midnight",
+      "answer": "EVENING",
       "row": 0,
-      "col": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling surprised",
-      "answer": "SHOCKED",
-      "row": 0,
+      "clue": "Lightweight aircraft with one small engine",
+      "answer": "GLIDER",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Sweet sticky spread made by bees",
+      "answer": "HONEY",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Strong bone mineral",
-      "answer": "MAGNET",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Peel potatoes with this",
-      "answer": "PEELER",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sixty seconds",
-      "answer": "MINUTE",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Connects computer to monitor",
-      "answer": "CABLE",
-      "row": 3,
-      "col": 7,
+      "clue": "Tool used to check if a surface is perfectly flat",
+      "answer": "LEVEL",
+      "row": 0,
+      "col": 2,
       "direction": "across"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 5,
   "targetWords": 7,
   "difficulty": "easy"
 }

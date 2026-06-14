@@ -4,59 +4,66 @@
   "title": "2026-08-31",
   "words": [
     {
-      "clue": "September celebration of workers",
-      "answer": "LABORDAY",
-      "row": 4,
-      "col": 3,
+      "clue": "Photo-sharing social media app",
+      "answer": "INSTAGRAM",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Underground train system",
-      "answer": "SUBWAY",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful garden bloom",
-      "answer": "FLOWER",
+      "clue": "Animal that produces silk",
+      "answer": "SILKWORM",
       "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A jar where you put spare change",
-      "answer": "PIGGY",
-      "row": 0,
-      "col": 10,
+      "clue": "The largest ocean in the world between Asia and America",
+      "answer": "PACIFIC",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Paper showing your pay",
-      "answer": "SLIP",
+      "clue": "Being in good physical condition from exercise and good food",
+      "answer": "HEALTHY",
       "row": 1,
       "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Space rock that hits Earth",
-      "answer": "ROCK",
-      "row": 4,
-      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Underwater mountain",
-      "answer": "HILL",
-      "row": 4,
+      "clue": "Sixty seconds equal one of these",
+      "answer": "MINUTE",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of people all related to each other",
+      "answer": "FAMILY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "White layered vegetable that makes your eyes water when cut",
+      "answer": "ONION",
+      "row": 8,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The most populated country in the world",
+      "answer": "CHINA",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Small shop where you buy coffee and light snacks",
+      "answer": "CAFE",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     }
   ],

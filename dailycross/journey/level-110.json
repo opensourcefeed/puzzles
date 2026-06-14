@@ -4,133 +4,105 @@
   "title": "Level 110",
   "words": [
     {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
+      "clue": "Energy stored in an object ready to be released",
+      "answer": "POTENTIAL",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
+      "clue": "The region of space from which nothing can escape",
+      "answer": "BLACKHOLE",
       "row": 6,
-      "col": 8,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "You hang a mirror on this",
-      "answer": "DRESSER",
-      "row": 7,
-      "col": 6,
+      "clue": "Software that protects your computer from viruses",
+      "answer": "ANTIVIRUS",
+      "row": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Sport played on ice with sticks",
-      "answer": "HOCKEY",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Pen for drawing on tablets",
-      "answer": "STYLUS",
-      "row": 11,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Small river of water",
-      "answer": "STREAM",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Makes pots out of clay",
-      "answer": "POTTER",
-      "row": 4,
+      "clue": "The middle day of the school week",
+      "answer": "WEDNESDAY",
+      "row": 14,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Open cans with this",
-      "answer": "OPENER",
-      "row": 0,
-      "col": 4,
+      "clue": "The person who stands in front and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Windows are made of this clear material",
-      "answer": "GLASS",
-      "row": 10,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden decoration statue",
-      "answer": "GNOME",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on to put on shoes",
-      "answer": "BENCH",
-      "row": 10,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Punch holes in paper",
-      "answer": "PUNCH",
-      "row": 8,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "You sit on in the living room",
-      "answer": "COUCH",
-      "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Mixed up and puzzled",
-      "answer": "LOST",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Trait passed in family",
-      "answer": "GENE",
-      "row": 2,
+      "clue": "Money given to a charity or cause",
+      "answer": "DONATION",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Worried about something",
-      "answer": "FEAR",
-      "row": 1,
-      "col": 6,
+      "clue": "Person who keeps schools and offices clean",
+      "answer": "JANITOR",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Captain who is in charge of a large ship",
+      "answer": "CAPTAIN",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You hear with these",
-      "answer": "EARS",
-      "row": 12,
-      "col": 6,
+      "clue": "Organ that turns food into nutrients your body uses",
+      "answer": "STOMACH",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Rock formed by fire",
-      "answer": "FIRE",
-      "row": 1,
-      "col": 6,
+      "clue": "Sport played with a racket and a small yellow ball",
+      "answer": "TENNIS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Animal that hisses and has venom",
+      "answer": "COBRA",
+      "row": 10,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Small device that counts down while food is cooking",
+      "answer": "TIMER",
+      "row": 9,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Flat top of the stove with burners used for cooking",
+      "answer": "STOVE",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Machine used to lift and move very heavy loads",
+      "answer": "CRANE",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 14,
   "targetWords": 20,
   "difficulty": "hard"
 }

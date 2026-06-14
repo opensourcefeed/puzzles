@@ -4,98 +4,84 @@
   "title": "Level 77",
   "words": [
     {
-      "clue": "Paddling through water",
-      "answer": "SWIMMING",
-      "row": 7,
+      "clue": "Person who builds and repairs things using wood",
+      "answer": "CARPENTER",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal with a bushy tail that collects nuts",
+      "answer": "SQUIRREL",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Dangerous winter storm with heavy snow and strong winds",
+      "answer": "BLIZZARD",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who grows crops and raises animals for food",
+      "answer": "FARMER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Large residence where a king or queen lives",
+      "answer": "PALACE",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You use this to rub out pencil marks",
+      "answer": "ERASER",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Part of the body that digests food",
-      "answer": "STOMACH",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet liquid bees collect from flowers",
-      "answer": "NECTAR",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Grate cheese with this",
-      "answer": "GRATER",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Cover for garden soil",
-      "answer": "COVER",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Big family everyone",
-      "answer": "TRIBE",
-      "row": 5,
+      "clue": "How heavy something is measured in grams or kilograms",
+      "answer": "WEIGHT",
+      "row": 13,
       "col": 5,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Whisk eggs with this",
-      "answer": "WHISK",
-      "row": 4,
+      "clue": "A living thing that makes its own food from sunlight",
+      "answer": "PLANT",
+      "row": 11,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Punch holes in paper",
-      "answer": "PUNCH",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny hobby computer",
-      "answer": "BOARD",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Prices going up",
-      "answer": "RISE",
+      "clue": "African country with pyramids and the Nile River",
+      "answer": "EGYPT",
       "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Leather comes from animal skin",
-      "answer": "HIDE",
-      "row": 8,
-      "col": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Tree with needles",
-      "answer": "PINE",
+      "clue": "Two children born at the same time to the same mother",
+      "answer": "TWINS",
       "row": 0,
-      "col": 5,
-      "direction": "across"
+      "col": 6,
+      "direction": "down"
     },
     {
-      "clue": "Coin worth 10 cents",
-      "answer": "DIME",
-      "row": 11,
-      "col": 0,
+      "clue": "The planet we live on",
+      "answer": "EARTH",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 11,
   "targetWords": 15,
   "difficulty": "medium"
 }

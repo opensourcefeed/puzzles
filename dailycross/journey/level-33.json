@@ -4,63 +4,70 @@
   "title": "Level 33",
   "words": [
     {
-      "clue": "Country with Jakarta",
-      "answer": "INDONESIA",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Large ocean wave from earthquake",
-      "answer": "TSUNAMI",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean between America and Asia",
-      "answer": "PACIFIC",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Sweet liquid bees collect from flowers",
-      "answer": "NECTAR",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Pour dressing from this",
-      "answer": "BOTTLE",
-      "row": 9,
+      "clue": "Large green and red fruit with seeds inside",
+      "answer": "WATERMELON",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Connects computer to monitor",
-      "answer": "CABLE",
-      "row": 5,
-      "col": 13,
+      "clue": "Brown sweet powder used in desserts",
+      "answer": "CHOCOLATE",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Shaking from cold",
-      "answer": "SHAKE",
+      "clue": "Feeling unsure about what to do or think",
+      "answer": "CONFUSED",
       "row": 0,
-      "col": 10,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "The pulling force that keeps us on the ground",
+      "answer": "GRAVITY",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Long loose garment worn to bed",
+      "answer": "PAJAMAS",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Thick soft covering placed on the floor in a room",
+      "answer": "CARPET",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Lightweight aircraft with one small engine",
+      "answer": "GLIDER",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Cloth or paper used to wipe your mouth during a meal",
+      "answer": "NAPKIN",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Machine used to lift and move very heavy loads",
+      "answer": "CRANE",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 9,
   "targetWords": 9,
   "difficulty": "medium"
 }

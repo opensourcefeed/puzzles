@@ -4,67 +4,74 @@
   "title": "2026-12-09",
   "words": [
     {
-      "clue": "Head-worn audio device",
-      "answer": "HEADPHONES",
+      "clue": "Padded glove used to hold hot pots from the oven",
+      "answer": "OVENMITT",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Sun color",
-      "answer": "YELLOW",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Blood vessel that carries blood away",
-      "answer": "ARTERY",
+      "clue": "Three children born at the same time to the same mother",
+      "answer": "TRIPLETS",
       "row": 2,
-      "col": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Country with Warsaw",
-      "answer": "POLAND",
+      "clue": "Scandinavian country with the city of Helsinki",
+      "answer": "FINLAND",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Soft shoe worn indoors",
+      "answer": "SLIPPER",
       "row": 4,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Connects computer to monitor",
-      "answer": "CABLE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A push or a pull on an object",
-      "answer": "FORCE",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Madrid",
-      "answer": "SPAIN",
-      "row": 0,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Kid with no parents",
-      "answer": "ALONE",
+      "clue": "The first day of the week",
+      "answer": "MONDAY",
       "row": 1,
-      "col": 12,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Feeling worn out after a long day of activity",
+      "answer": "TIRED",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who performs in movies, plays or television shows",
+      "answer": "ACTOR",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Energy that travels through the air as vibrations we can hear",
+      "answer": "SOUND",
+      "row": 9,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The flat area where a football match is played",
+      "answer": "FIELD",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Shellfish that buries in sand and filters the water",
+      "answer": "CLAM",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 180

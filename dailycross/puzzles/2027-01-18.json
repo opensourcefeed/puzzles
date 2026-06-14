@@ -4,60 +4,74 @@
   "title": "2027-01-18",
   "words": [
     {
-      "clue": "Three children born at once",
-      "answer": "TRIPLET",
-      "row": 4,
-      "col": 2,
+      "clue": "You use these to cut paper in class",
+      "answer": "SCISSORS",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
+      "clue": "A person who lives in the house next to yours",
+      "answer": "NEIGHBOR",
       "row": 4,
-      "col": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Manages money in a bank",
-      "answer": "BANKER",
-      "row": 7,
+      "clue": "Flat tool used to flip pancakes and burgers",
+      "answer": "SPATULA",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You draw circles using this tool",
+      "answer": "COMPASS",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Machine that puts words and pictures from a computer onto paper",
+      "answer": "PRINTER",
+      "row": 3,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Feeling very proud",
-      "answer": "PROUD",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Pointed weapon shape",
-      "answer": "ARROW",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Stir soup with this",
-      "answer": "LADLE",
-      "row": 9,
-      "col": 1,
+      "clue": "Feeling that you want something very much",
+      "answer": "JEALOUS",
+      "row": 12,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Smooth wood with a plane",
-      "answer": "PLANE",
-      "row": 0,
+      "clue": "Person who cleans and checks your teeth",
+      "answer": "DENTIST",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Plant trees day",
-      "answer": "SEED",
-      "row": 7,
-      "col": 0,
+      "clue": "Cloth or paper used to wipe your mouth during a meal",
+      "answer": "NAPKIN",
+      "row": 8,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Train system that runs underground in a city",
+      "answer": "SUBWAY",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You hold things and wave with these",
+      "answer": "HANDS",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 220

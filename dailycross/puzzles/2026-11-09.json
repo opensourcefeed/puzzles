@@ -4,59 +4,66 @@
   "title": "2026-11-09",
   "words": [
     {
-      "clue": "Teaches dogs new skills",
-      "answer": "TRAINER",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Bandage that sticks to skin",
-      "answer": "BANDAID",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling very interested",
-      "answer": "CURIOUS",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Silk worm thread",
-      "answer": "THREAD",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Striped horse-like animal",
-      "answer": "ZEBRA",
-      "row": 4,
+      "clue": "Very tall building found in city centers",
+      "answer": "SKYSCRAPER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Apple cloud storage",
-      "answer": "CLOUD",
-      "row": 4,
-      "col": 7,
+      "clue": "Green salad vegetable that is long and crunchy",
+      "answer": "CUCUMBER",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling worried that something bad will happen",
+      "answer": "ANXIOUS",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean bird that hovers over waves and dives for fish",
+      "answer": "SEAGULL",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Underground storage",
-      "answer": "HOLE",
+      "clue": "Person who performs songs on stage or records music",
+      "answer": "SINGER",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Large whiskered mammal with flippers that lives in cold seas",
+      "answer": "WALRUS",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Garden tool with long teeth used to gather fallen leaves",
+      "answer": "RAKE",
       "row": 1,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Sport of bending and stretching",
-      "answer": "YOGA",
-      "row": 6,
-      "col": 0,
+      "clue": "A silver coin that is worth ten cents",
+      "answer": "DIME",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The colored part of your eye",
+      "answer": "IRIS",
+      "row": 1,
+      "col": 6,
       "direction": "across"
     }
   ],

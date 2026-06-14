@@ -4,38 +4,38 @@
   "title": "Level 2",
   "words": [
     {
-      "clue": "Travels to discover new places",
-      "answer": "EXPLORER",
-      "row": 5,
-      "col": 0,
+      "clue": "Building where you park your vehicle",
+      "answer": "GARAGE",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
+      "clue": "Person who grows crops and raises animals for food",
+      "answer": "FARMER",
       "row": 0,
-      "col": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Cut wires with this",
-      "answer": "PLIERS",
-      "row": 2,
-      "col": 6,
+      "clue": "Large whiskered mammal with flippers that lives in cold seas",
+      "answer": "WALRUS",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Brown vegetable that grows in dirt",
-      "answer": "POTATO",
-      "row": 2,
-      "col": 6,
+      "clue": "Person who writes novels, stories or non-fiction books",
+      "answer": "AUTHOR",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Round shape",
-      "answer": "CIRCLE",
-      "row": 2,
-      "col": 0,
+      "clue": "Vehicle that lifts off straight up with rocket engines",
+      "answer": "ROCKET",
+      "row": 5,
+      "col": 7,
       "direction": "across"
     }
   ],

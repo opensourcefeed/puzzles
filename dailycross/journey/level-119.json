@@ -4,105 +4,140 @@
   "title": "Level 119",
   "words": [
     {
-      "clue": "February 14 celebration",
-      "answer": "VALENTINE",
-      "row": 6,
-      "col": 0,
+      "clue": "Building where scientists do research and experiments",
+      "answer": "LABORATORY",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Flip pancakes with this",
-      "answer": "SPATULA",
+      "clue": "The outer coat of a seed that protects it",
+      "answer": "SEEDCOAT",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Small motor vehicle like a bicycle used in cities",
+      "answer": "SCOOTER",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Device that plays sound from a computer or phone",
+      "answer": "SPEAKER",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very interested and wanting to explore and find out more",
+      "answer": "CURIOUS",
       "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
-      "row": 3,
-      "col": 7,
+      "clue": "Sixty seconds equal one of these",
+      "answer": "MINUTE",
+      "row": 6,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Pillows are filled with soft feathers",
-      "answer": "FEATHER",
-      "row": 5,
+      "clue": "Sweet round red or yellow vegetable used in salads",
+      "answer": "PEPPER",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who creates paintings, drawings and sculptures",
+      "answer": "ARTIST",
+      "row": 7,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Game played with racket and yellow ball",
-      "answer": "TENNIS",
+      "clue": "Brown vegetable that grows underground and is often fried",
+      "answer": "POTATO",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Small device that counts down while food is cooking",
+      "answer": "TIMER",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Black and white striped animal like a horse",
+      "answer": "ZEBRA",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Large keyboard instrument with black and white keys",
+      "answer": "PIANO",
       "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Pair of married people",
-      "answer": "COUPLE",
-      "row": 4,
-      "col": 6,
+      "clue": "Feeling deep sadness and missing someone very much",
+      "answer": "GRIEF",
+      "row": 1,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Colorful part of a plant that makes seeds",
-      "answer": "PETAL",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Your brother's daughter",
-      "answer": "NIECE",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on feet",
-      "answer": "SOCKS",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Land of the rising sun",
-      "answer": "JAPAN",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "USB storage device",
-      "answer": "DRIVE",
-      "row": 8,
+      "clue": "Neat row of low bushes forming a border or boundary",
+      "answer": "HEDGE",
+      "row": 9,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Worried about something",
-      "answer": "FEAR",
-      "row": 4,
+      "clue": "A living thing that makes its own food from sunlight",
+      "answer": "PLANT",
+      "row": 1,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You hang a picture on this",
-      "answer": "HOOK",
-      "row": 0,
-      "col": 4,
+      "clue": "Flat surface with four legs where you eat meals or work",
+      "answer": "TABLE",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Small picture on a phone screen",
-      "answer": "ICON",
+      "clue": "Salty snack that comes in a bag and is very crunchy",
+      "answer": "CHIPS",
       "row": 1,
-      "col": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Hard protective layer at the tip of your fingers",
+      "answer": "NAILS",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 19,
   "targetWords": 21,
   "difficulty": "hard"
 }

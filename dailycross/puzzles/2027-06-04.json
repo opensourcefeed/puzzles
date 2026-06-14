@@ -4,74 +4,60 @@
   "title": "2027-06-04",
   "words": [
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 6,
+      "clue": "Long vehicle used to transport many children to school",
+      "answer": "SCHOOLBUS",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Big gray animal with trunk",
+      "clue": "Person who organizes and manages books in a library",
+      "answer": "LIBRARIAN",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Large gray animal with a trunk",
       "answer": "ELEPHANT",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Holds papers together",
-      "answer": "STAPLER",
-      "row": 4,
+      "row": 5,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you throw a long metal stick",
-      "answer": "JAVELIN",
-      "row": 2,
-      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where you buy food",
-      "answer": "GROCERY",
+      "clue": "Small furry animal that carries babies in a pouch",
+      "answer": "OPOSSUM",
       "row": 4,
-      "col": 7,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling able to wait",
-      "answer": "PATIENT",
+      "clue": "A piece of land completely surrounded by water",
+      "answer": "ISLAND",
       "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Game played with racket and yellow ball",
-      "answer": "TENNIS",
-      "row": 8,
-      "col": 5,
+      "clue": "Thin layer of ice on roads and surfaces on cold mornings",
+      "answer": "FROST",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Place where a concert is held",
-      "answer": "ARENA",
-      "row": 10,
+      "clue": "Very strong wind that can damage trees and buildings",
+      "answer": "GALE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Physical money in the form of coins and notes",
+      "answer": "CASH",
+      "row": 0,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Colorful part of a plant that makes seeds",
-      "answer": "PETAL",
-      "row": 6,
-      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "dayNumber": 357

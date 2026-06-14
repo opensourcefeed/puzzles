@@ -4,74 +4,74 @@
   "title": "2027-05-10",
   "words": [
     {
-      "clue": "Small river of water",
-      "answer": "STREAM",
-      "row": 5,
+      "clue": "Small book where you write notes",
+      "answer": "NOTEBOOK",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Room where you work at home",
-      "answer": "OFFICE",
+      "clue": "The first day of the weekend",
+      "answer": "SATURDAY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable device for reading digital books",
+      "answer": "EREADER",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The eighth and farthest planet from the sun",
+      "answer": "NEPTUNE",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very interested and wanting to explore and find out more",
+      "answer": "CURIOUS",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Shellfish attached to rocks that opens when in water",
+      "answer": "MUSSEL",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Large vehicle that carries heavy goods on highways",
+      "answer": "TRUCK",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "African country with pyramids and the Nile River",
+      "answer": "EGYPT",
       "row": 0,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "App used to make video calls over the internet",
+      "answer": "ZOOM",
+      "row": 7,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Coin worth 5 cents",
-      "answer": "NICKEL",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of the Eiffel Tower",
-      "answer": "FRANCE",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Blood carrier in body",
-      "answer": "BLOOD",
+      "clue": "Light red color of a flamingo",
+      "answer": "PINK",
       "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewish new year",
-      "answer": "SHANA",
-      "row": 5,
       "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Full of energy feeling",
-      "answer": "LIVE",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Pencil writing material",
-      "answer": "LEAD",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Fragrant white spring flower",
-      "answer": "LILY",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "dayNumber": 332

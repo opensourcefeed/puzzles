@@ -4,59 +4,73 @@
   "title": "2027-02-07",
   "words": [
     {
-      "clue": "Day to honor mothers in May",
-      "answer": "MOTHERS",
+      "clue": "Sport where you jump over a high bar",
+      "answer": "HIGHJUMP",
       "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
-      "row": 0,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet liquid bees collect from flowers",
-      "answer": "NECTAR",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Removes pencil marks",
-      "answer": "ERASER",
-      "row": 8,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Handheld device for calls and apps",
-      "answer": "PHONE",
-      "row": 4,
-      "col": 7,
+      "clue": "This holds your papers together with metal clips",
+      "answer": "STAPLER",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Guards a building",
-      "answer": "GUARD",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You put a doormat on this",
-      "answer": "FLOOR",
+      "clue": "A push or pull that makes objects move or stop",
+      "answer": "FORCE",
       "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Muscle mineral",
-      "answer": "SALT",
-      "row": 8,
+      "clue": "Large building where concerts and events are held",
+      "answer": "ARENA",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat dish used to serve a meal",
+      "answer": "PLATE",
+      "row": 2,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Subject where you sing and play instruments",
+      "answer": "MUSIC",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "White fluffy shapes floating in the sky",
+      "answer": "CLOUD",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "This grows on top of your head",
+      "answer": "HAIR",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of the sky on a clear day",
+      "answer": "BLUE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The unit we use to measure electric pressure",
+      "answer": "VOLT",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     }
   ],

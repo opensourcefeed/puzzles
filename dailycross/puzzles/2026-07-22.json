@@ -4,59 +4,66 @@
   "title": "2026-07-22",
   "words": [
     {
-      "clue": "Lizard that changes color",
-      "answer": "CHAMELEON",
-      "row": 1,
+      "clue": "You use this tool to do math sums",
+      "answer": "CALCULATOR",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Protects a park or forest",
-      "answer": "RANGER",
+      "clue": "A small pig-shaped container children save coins in",
+      "answer": "PIGGYBANK",
       "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Removes pencil marks",
-      "answer": "ERASER",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Planet with rings around it",
-      "answer": "SATURN",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Living thing that makes its own food",
-      "answer": "PLANT",
-      "row": 1,
+      "clue": "Flash of electricity in the sky during a storm",
+      "answer": "LIGHTNING",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Extra money you must pay when you borrow from a bank",
+      "answer": "INTEREST",
+      "row": 2,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Large animal people ride",
-      "answer": "HORSE",
-      "row": 5,
-      "col": 0,
+      "clue": "The city where a country's government is based",
+      "answer": "CAPITAL",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Large arena where sports teams play matches",
+      "answer": "STADIUM",
+      "row": 10,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Bone picture machine",
-      "answer": "SCAN",
-      "row": 0,
-      "col": 0,
+      "clue": "The person who teaches you in class",
+      "answer": "TEACHER",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The operating system used on most Android phones and Windows computers",
+      "answer": "ANDROID",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The five thin parts at the end of your hand",
+      "answer": "FINGERS",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     }
   ],

@@ -4,67 +4,74 @@
   "title": "2027-04-28",
   "words": [
     {
-      "clue": "Police building",
-      "answer": "STATION",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Seventh planet from the sun",
-      "answer": "URANUS",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Fallen leaves on ground",
-      "answer": "LEAVES",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with this",
-      "answer": "PENCIL",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Game played with racket and yellow ball",
-      "answer": "TENNIS",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "How much space something takes",
-      "answer": "SPACE",
-      "row": 8,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Special diet food",
-      "answer": "GRAIN",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Leather comes from animal skin",
-      "answer": "HIDE",
-      "row": 4,
+      "clue": "A large concert hall where orchestras perform",
+      "answer": "AUDITORIUM",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Red planet in our solar system",
-      "answer": "MARS",
-      "row": 8,
+      "clue": "April 1 holiday when people play pranks on each other",
+      "answer": "APRILFOOLS",
+      "row": 4,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Photo-sharing social media app",
+      "answer": "INSTAGRAM",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Long vehicle used to transport many children to school",
+      "answer": "SCHOOLBUS",
+      "row": 12,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Yellow tropical fruit with a rough skin",
+      "answer": "PINEAPPLE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Holiday celebrating Earth and the environment in April",
+      "answer": "EARTHDAY",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling unsure about what to do or think",
+      "answer": "CONFUSED",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat four-sided shape with a pointy top and bottom",
+      "answer": "DIAMOND",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Sweet sticky spread made by bees",
+      "answer": "HONEY",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "East African country with the city of Nairobi and safaris",
+      "answer": "KENYA",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     }
   ],
   "dayNumber": 320

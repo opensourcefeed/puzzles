@@ -4,67 +4,60 @@
   "title": "2027-04-15",
   "words": [
     {
-      "clue": "April 1 prank day",
-      "answer": "APRILFOOLS",
+      "clue": "Machine that uses microwave energy to heat food quickly",
+      "answer": "MICROWAVE",
       "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle police officers drive",
+      "answer": "POLICECAR",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Orange and white striped clown fish made famous by a movie",
+      "answer": "CLOWNFISH",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
+      "clue": "A person who lives in the house next to yours",
+      "answer": "NEIGHBOR",
       "row": 3,
-      "col": 6,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Climb up high with this",
-      "answer": "LADDER",
-      "row": 4,
+      "clue": "Stringed instrument with six strings you strum or pluck",
+      "answer": "GUITAR",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Eggs beaten and cooked flat in a pan",
+      "answer": "OMELET",
+      "row": 8,
       "col": 4,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Country of the Amazon River",
-      "answer": "BRAZIL",
-      "row": 3,
+      "clue": "The color of fresh snow",
+      "answer": "WHITE",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Yellow vegetable that grows on a tall stalk",
+      "answer": "CORN",
+      "row": 5,
       "col": 2,
       "direction": "down"
-    },
-    {
-      "clue": "Money per year of work",
-      "answer": "SALARY",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Performs songs on stage",
-      "answer": "SINGER",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You breathe with these",
-      "answer": "LUNGS",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Be nice day",
-      "answer": "KIND",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Microsoft slides",
-      "answer": "SHOW",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
     }
   ],
   "dayNumber": 307

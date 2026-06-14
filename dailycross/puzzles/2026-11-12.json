@@ -4,67 +4,74 @@
   "title": "2026-11-12",
   "words": [
     {
-      "clue": "Catches fish for a living",
-      "answer": "FISHERMAN",
-      "row": 2,
+      "clue": "A chart showing the relationships in a family going back in time",
+      "answer": "FAMILYTREE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where you buy medicine",
-      "answer": "PHARMACY",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You keep dishes in this",
-      "answer": "CUPBOARD",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Song that celebrates a country",
-      "answer": "ANTHEM",
-      "row": 1,
+      "clue": "Feeling strong and full of energy",
+      "answer": "ENERGETIC",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 0,
+      "clue": "Long wardrobe cabinet for hanging clothes",
+      "answer": "WARDROBE",
+      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Card that lets you buy now and pay later",
-      "answer": "CREDIT",
+      "clue": "The bony structure that supports your body",
+      "answer": "SKELETON",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "European country with the city of Brussels",
+      "answer": "BELGIUM",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft shoe worn indoors",
+      "answer": "SLIPPER",
       "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Horizontal plank attached to a wall to hold books or objects",
+      "answer": "SHELF",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Microsoft spreadsheet program",
-      "answer": "EXCEL",
+      "clue": "Large flow of water that runs to the sea",
+      "answer": "RIVER",
       "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Email folder for new messages",
-      "answer": "INBOX",
-      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Paper showing you paid",
-      "answer": "NOTE",
-      "row": 2,
-      "col": 8,
+      "clue": "Soft orange fruit with a stone inside",
+      "answer": "PEACH",
+      "row": 11,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "Shallow body of water in a garden",
+      "answer": "POND",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 153

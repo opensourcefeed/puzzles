@@ -4,38 +4,38 @@
   "title": "Level 3",
   "words": [
     {
-      "clue": "Computer brain",
-      "answer": "PROCESSOR",
-      "row": 2,
+      "clue": "Sport where you do flips and balances in a gym",
+      "answer": "GYMNASTICS",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Three sides",
-      "answer": "TRIANGLE",
+      "clue": "The middle day of the school week",
+      "answer": "WEDNESDAY",
       "row": 1,
-      "col": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You hang a mirror on this",
-      "answer": "DRESSER",
+      "clue": "Holiday on December 25 when gifts are exchanged",
+      "answer": "CHRISTMAS",
       "row": 0,
-      "col": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Stage of a butterfly",
-      "answer": "COCOON",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Sharp tool for slicing bread",
-      "answer": "SLICER",
+      "clue": "An unwanted reaction your body has to a food or substance",
+      "answer": "ALLERGY",
       "row": 7,
-      "col": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The booming sound you hear after lightning",
+      "answer": "THUNDER",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     }
   ],

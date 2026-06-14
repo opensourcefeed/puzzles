@@ -4,91 +4,84 @@
   "title": "Level 73",
   "words": [
     {
-      "clue": "Sun-loving tall yellow flower",
-      "answer": "SUNFLOWER",
+      "clue": "Money that the government takes from people's wages",
+      "answer": "INCOMETAX",
       "row": 6,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Frozen sweet treat",
-      "answer": "ICECREAM",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Performs songs on stage",
-      "answer": "SINGER",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Card that lets you buy now and pay later",
-      "answer": "CREDIT",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Test battery with a tester",
-      "answer": "TESTER",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Small blue wildflower",
-      "answer": "VIOLET",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Newborn baby",
-      "answer": "INFANT",
+      "clue": "The ninth month of the year",
+      "answer": "SEPTEMBER",
       "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Sharp tool for slicing bread",
-      "answer": "SLICER",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Stores your files",
-      "answer": "MEMORY",
-      "row": 8,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
+      "clue": "Wooden bar instrument you hit with mallets",
+      "answer": "XYLOPHONE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
     },
     {
-      "clue": "Time your cooking with this",
-      "answer": "TIMER",
-      "row": 10,
+      "clue": "Long wardrobe cabinet for hanging clothes",
+      "answer": "WARDROBE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Falls from clouds",
-      "answer": "RAIN",
-      "row": 8,
+      "clue": "A secret word used to protect your accounts",
+      "answer": "PASSWORD",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Fastest land animal",
+      "answer": "CHEETAH",
+      "row": 4,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "The time of day just after you wake up",
+      "answer": "MORNING",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Large seabird with a pouch under its beak",
+      "answer": "PELICAN",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you throw a long spear as far as you can",
+      "answer": "JAVELIN",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The tenth month of the year",
+      "answer": "OCTOBER",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Fragrant green herb used on pizzas and in Italian cooking",
+      "answer": "BASIL",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 11,
   "targetWords": 15,
   "difficulty": "medium"
 }

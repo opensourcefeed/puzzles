@@ -4,73 +4,66 @@
   "title": "2026-12-08",
   "words": [
     {
-      "clue": "Builds roads and bridges",
-      "answer": "ENGINEER",
+      "clue": "You use this tool to do math sums",
+      "answer": "CALCULATOR",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Round green vegetable that grows on a vine",
+      "answer": "ZUCCHINI",
       "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Output device that makes sound",
-      "answer": "SPEAKER",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A small cut on your skin",
-      "answer": "SCRAPE",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Lift heavy objects",
-      "answer": "CRANE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Sharpen knives on this",
-      "answer": "STONE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden decoration statue",
-      "answer": "GNOME",
-      "row": 5,
       "col": 6,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
+      "clue": "Holiday celebrating Earth and the environment in April",
+      "answer": "EARTHDAY",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
     },
     {
-      "clue": "Place where you keep your money",
-      "answer": "BANK",
-      "row": 5,
+      "clue": "Hinged cutting tool used to cut paper or fabric",
+      "answer": "SCISSORS",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Mix paint with this stick",
-      "answer": "STIR",
-      "row": 1,
-      "col": 3,
+      "clue": "Cabinet in the kitchen used to store dishes and glasses",
+      "answer": "CUPBOARD",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Underground cave formation",
-      "answer": "CAVE",
-      "row": 2,
-      "col": 10,
+      "clue": "Small furry animal that carries babies in a pouch",
+      "answer": "OPOSSUM",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Small curved pink ocean crustacean eaten in salads",
+      "answer": "SHRIMP",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who writes novels, stories or non-fiction books",
+      "answer": "AUTHOR",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The planet with beautiful rings made of ice and rock",
+      "answer": "SATURN",
+      "row": 5,
+      "col": 13,
       "direction": "down"
     }
   ],

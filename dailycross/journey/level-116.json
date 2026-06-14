@@ -4,126 +4,112 @@
   "title": "Level 116",
   "words": [
     {
-      "clue": "Machine that processes information",
-      "answer": "COMPUTER",
+      "clue": "Feeling pleased and content with what you have",
+      "answer": "SATISFIED",
       "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Date you were born",
-      "answer": "BIRTHDAY",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you buy medicine",
-      "answer": "PHARMACY",
-      "row": 7,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Virtual reality headset",
-      "answer": "HEADSET",
-      "row": 12,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Day to honor fathers in June",
-      "answer": "FATHERS",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean mammal with tusks",
-      "answer": "WALRUS",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Game console by Nintendo",
-      "answer": "SWITCH",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Studies old things",
-      "answer": "FINDER",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Creates paintings or drawings",
-      "answer": "ARTIST",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Dry sandy area with little water",
-      "answer": "DESERT",
+      "clue": "Tall feature on land formed by pushing earth upward",
+      "answer": "MOUNTAIN",
       "row": 3,
-      "col": 0,
-      "direction": "across"
+      "col": 5,
+      "direction": "down"
     },
     {
-      "clue": "Running path around a field",
-      "answer": "TRACK",
-      "row": 2,
+      "clue": "Large vehicle with wings that flies through the air",
+      "answer": "AIRPLANE",
+      "row": 6,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Large animal people ride",
-      "answer": "HORSE",
-      "row": 3,
+      "clue": "A young person between thirteen and nineteen years old",
+      "answer": "TEENAGER",
+      "row": 13,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Country known for watches",
-      "answer": "SWISS",
-      "row": 0,
+      "clue": "Room where you borrow books to read",
+      "answer": "LIBRARY",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Large seabird with a pouch under its beak",
+      "answer": "PELICAN",
+      "row": 9,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who keeps schools and offices clean",
+      "answer": "JANITOR",
+      "row": 7,
+      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "Wanting something badly",
-      "answer": "WISH",
+      "clue": "The eighth and farthest planet from the sun",
+      "answer": "NEPTUNE",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Heavy headed tool used to bang nails into wood",
+      "answer": "HAMMER",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The last day of the weekend",
+      "answer": "SUNDAY",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where Muslims go to pray",
+      "answer": "MOSQUE",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Top with no collar or buttons worn by students",
+      "answer": "SHIRT",
       "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Curved tool used to eat soup or stir drinks",
+      "answer": "SPOON",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The hard center of the Earth",
+      "answer": "CORE",
+      "row": 14,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Frozen rain from sky",
-      "answer": "HAIL",
-      "row": 8,
-      "col": 10,
-      "direction": "across"
+      "clue": "Mineral in red meat and spinach needed to carry oxygen in blood",
+      "answer": "IRON",
+      "row": 11,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 15,
   "targetWords": 20,
   "difficulty": "hard"
 }

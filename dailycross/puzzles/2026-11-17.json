@@ -4,66 +4,73 @@
   "title": "2026-11-17",
   "words": [
     {
-      "clue": "Computer brain",
-      "answer": "PROCESSOR",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Manages money in a bank",
-      "answer": "BANKER",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Cuts men's hair",
-      "answer": "BARBER",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you get ice cream",
-      "answer": "PARLOR",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Time after sunset",
-      "answer": "NIGHT",
+      "clue": "Room where you eat lunch at school",
+      "answer": "CAFETERIA",
       "row": 5,
-      "col": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Boat parking place",
-      "answer": "DOCK",
-      "row": 6,
-      "col": 4,
+      "clue": "Important substances in food like vitamins and minerals",
+      "answer": "NUTRIENTS",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Fill wall gaps",
-      "answer": "FILL",
+      "clue": "Person who inspects and repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Southeast Asian country with the city of Kuala Lumpur",
+      "answer": "MALAYSIA",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where you can borrow books to read for free",
+      "answer": "LIBRARY",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Device that converts paper documents into digital files",
+      "answer": "SCANNER",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You write with this long thin tool",
+      "answer": "PENCIL",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of people all related to each other",
+      "answer": "FAMILY",
       "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Full of energy feeling",
-      "answer": "LIVE",
-      "row": 0,
-      "col": 10,
+      "clue": "Wireless connection that lets you use the internet without cables",
+      "answer": "WIFI",
+      "row": 8,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Mix paint with this stick",
-      "answer": "STIR",
-      "row": 4,
-      "col": 10,
+      "clue": "Transparent magnifying device used to focus light or view small things",
+      "answer": "LENS",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     }
   ],

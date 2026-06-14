@@ -4,56 +4,49 @@
   "title": "Level 24",
   "words": [
     {
-      "clue": "Country with Warsaw",
-      "answer": "POLAND",
-      "row": 3,
+      "clue": "Person who delivers your letters and packages to your home",
+      "answer": "MAILMAN",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Keep food cold in this",
-      "answer": "FRIDGE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you park your car",
-      "answer": "GARAGE",
+      "clue": "Season when flowers bloom and it gets warmer",
+      "answer": "SPRING",
       "row": 2,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Windows are made of this clear material",
-      "answer": "GLASS",
-      "row": 4,
+      "clue": "The ocean around the North Pole",
+      "answer": "ARCTIC",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A low wet land often covered with water",
+      "answer": "SWAMP",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Long animal without legs that slithers",
+      "answer": "SNAKE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Physical money in the form of coins and notes",
+      "answer": "CASH",
+      "row": 7,
       "col": 5,
       "direction": "across"
-    },
-    {
-      "clue": "Cloth to stop bleeding",
-      "answer": "CLOTH",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "You breathe with these",
-      "answer": "LUNGS",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on feet",
-      "answer": "SOCKS",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 6,
   "targetWords": 8,
   "difficulty": "easy"
 }

@@ -4,105 +4,91 @@
   "title": "Level 78",
   "words": [
     {
-      "clue": "Large landmass on Earth",
-      "answer": "CONTINENT",
-      "row": 5,
-      "col": 1,
+      "clue": "Vehicle that travels under the water",
+      "answer": "SUBMARINE",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Four sides with right angles",
-      "answer": "RECTANGLE",
-      "row": 4,
+      "clue": "Portable battery pack that recharges your phone on the go",
+      "answer": "POWERBANK",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
-      "row": 3,
+      "clue": "South American country famous for the tango dance",
+      "answer": "ARGENTINA",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of land belonging to one country",
+      "answer": "TERRITORY",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with exactly three sides and three corners",
+      "answer": "TRIANGLE",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you ride a two-wheeled vehicle on a track",
+      "answer": "CYCLING",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Holds papers together",
-      "answer": "STAPLER",
+      "clue": "Ocean bird that hovers over waves and dives for fish",
+      "answer": "SEAGULL",
       "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Small blue wildflower",
-      "answer": "VIOLET",
-      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Your female parent",
-      "answer": "MOTHER",
+      "clue": "Huge deep trench in the ocean floor",
+      "answer": "TRENCH",
+      "row": 9,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "How heavy something is measured in grams or kilograms",
+      "answer": "WEIGHT",
       "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Wear this to protect clothes",
-      "answer": "APRON",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "USB storage device",
-      "answer": "DRIVE",
-      "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where justice is decided",
-      "answer": "COURT",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "British paper money unit",
-      "answer": "POUND",
-      "row": 2,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Place where a concert is held",
-      "answer": "ARENA",
-      "row": 7,
+      "clue": "Day honoring civil rights leader Martin Luther King Jr",
+      "answer": "MLKDAY",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Black and white bear",
-      "answer": "PANDA",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Round coral island",
-      "answer": "RING",
-      "row": 4,
-      "col": 9,
+      "clue": "Large white box that keeps food cold",
+      "answer": "FRIDGE",
+      "row": 14,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
-      "row": 0,
-      "col": 5,
+      "clue": "Flat surface with four legs where you eat meals or work",
+      "answer": "TABLE",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 12,
   "targetWords": 15,
   "difficulty": "medium"
 }

@@ -4,46 +4,53 @@
   "title": "2027-01-11",
   "words": [
     {
-      "clue": "Feeling full of hope",
-      "answer": "HOPEFUL",
+      "clue": "Floating transparent ocean creature with stinging tentacles",
+      "answer": "JELLYFISH",
       "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who studies marine biology and ocean life",
+      "answer": "BIOLOGIST",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewelry hung around the neck",
+      "answer": "NECKLACE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "When a bone cracks or snaps from force or impact",
+      "answer": "FRACTURE",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where you sleep",
-      "answer": "BEDROOM",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where Muslims pray",
-      "answer": "MOSQUE",
-      "row": 1,
+      "clue": "Padded stool used to rest your feet",
+      "answer": "OTTOMAN",
+      "row": 5,
       "col": 3,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Video recording device",
-      "answer": "CAMERA",
+      "clue": "Feeling very pleased after winning or succeeding",
+      "answer": "EXCITED",
       "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Shy around others",
-      "answer": " QUIET",
+      "clue": "The child of your aunt or uncle",
+      "answer": "COUSIN",
       "row": 0,
-      "col": 7,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Family last name",
-      "answer": "NAME",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 213

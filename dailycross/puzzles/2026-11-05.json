@@ -4,59 +4,59 @@
   "title": "2026-11-05",
   "words": [
     {
-      "clue": "Digital book reader",
-      "answer": "EREADER",
-      "row": 5,
+      "clue": "Holiday on October 31 when children wear costumes",
+      "answer": "HALLOWEEN",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Tall yellow flower that grows facing the sun",
+      "answer": "SUNFLOWER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle with a powerful engine used to launch into space",
+      "answer": "ROCKET",
+      "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "String instrument with six strings",
-      "answer": "GUITAR",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Prayer place for Jews",
-      "answer": "TEMPLE",
-      "row": 4,
+      "clue": "The last day of the weekend",
+      "answer": "SUNDAY",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Vegetable that grows on a vine",
-      "answer": "SQUASH",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Mix of red and yellow",
-      "answer": "PEACH",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Winter celebration",
-      "answer": "YULE",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Blood check test",
-      "answer": "TEST",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "South Asia island",
-      "answer": "JAVA",
-      "row": 6,
+      "clue": "Wide flat tool used to dig and move snow or earth",
+      "answer": "SHOVEL",
+      "row": 3,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Island country in East Asia known for technology and night markets",
+      "answer": "TAIWAN",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Hottest season of the year",
+      "answer": "SUMMER",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint at the bottom of your hand connecting to your arm",
+      "answer": "WRIST",
+      "row": 2,
+      "col": 5,
       "direction": "across"
     }
   ],

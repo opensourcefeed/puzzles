@@ -4,74 +4,46 @@
   "title": "2027-06-06",
   "words": [
     {
-      "clue": "Builds with wood",
-      "answer": "CARPENTER",
-      "row": 5,
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You hang clothes in this",
-      "answer": "WARDROBE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Output device that makes sound",
-      "answer": "SPEAKER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where airplanes land",
-      "answer": "AIRPORT",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "String instrument with six strings",
-      "answer": "GUITAR",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Presents news on television",
-      "answer": "ANCHOR",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
+      "clue": "A small pig-shaped container children save coins in",
+      "answer": "PIGGYBANK",
       "row": 0,
-      "col": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Five sided shape",
-      "answer": "POINT",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Round white vegetable",
-      "answer": "ONION",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Snow color",
-      "answer": "WHITE",
-      "row": 8,
+      "clue": "Small book where you write notes",
+      "answer": "NOTEBOOK",
+      "row": 0,
       "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "The country that has London as its capital city",
+      "answer": "ENGLAND",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Large box or trunk used to store blankets and items",
+      "answer": "CHEST",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Teacher writes on this at the front of the class",
+      "answer": "BOARD",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 359

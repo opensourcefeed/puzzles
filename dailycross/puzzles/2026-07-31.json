@@ -4,72 +4,65 @@
   "title": "2026-07-31",
   "words": [
     {
-      "clue": "Does experiments for a living",
-      "answer": "SCIENTIST",
+      "clue": "Person who studies marine biology and ocean life",
+      "answer": "BIOLOGIST",
       "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Mattresses have metal coils",
-      "answer": "SPRING",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Island country in Asia",
-      "answer": "TAIWAN",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Time after sunset",
-      "answer": "NIGHT",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Ice cream shop",
-      "answer": "SHOP",
-      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Circus big tent",
-      "answer": "TENT",
+      "clue": "Small book where you write notes",
+      "answer": "NOTEBOOK",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates new music",
+      "answer": "COMPOSER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a river meets and mixes with the sea",
+      "answer": "ESTUARY",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Mountain with a hole at the top that can erupt",
+      "answer": "VOLCANO",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Large white box that keeps food cold",
+      "answer": "FRIDGE",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A quality or characteristic passed down through generations",
+      "answer": "TRAIT",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Temp care for child",
-      "answer": "CARE",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Digital money",
-      "answer": "COIN",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Magnifying glass",
-      "answer": "LENS",
-      "row": 9,
+      "clue": "Large box or trunk used to store blankets and items",
+      "answer": "CHEST",
+      "row": 0,
       "col": 2,
       "direction": "across"
     }

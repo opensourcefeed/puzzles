@@ -4,67 +4,74 @@
   "title": "2027-05-26",
   "words": [
     {
-      "clue": "Top part of your arm",
-      "answer": "SHOULDER",
-      "row": 3,
+      "clue": "Long period of very little or no rainfall",
+      "answer": "DROUGHT",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Start of day before noon",
-      "answer": "MORNING",
-      "row": 2,
+      "clue": "Bird with colorful tail feathers",
+      "answer": "PEACOCK",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
-      "row": 2,
+      "clue": "The eighth month of the year",
+      "answer": "AUGUST",
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Whisk eggs with this",
-      "answer": "WHISK",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you get coffee",
-      "answer": "CAFE",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Money you borrow",
-      "answer": "DEBT",
-      "row": 10,
+      "clue": "Flat surface with four legs where you eat meals or work",
+      "answer": "TABLE",
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Tall plant with a trunk",
-      "answer": "TREE",
-      "row": 2,
-      "col": 7,
+      "clue": "This is the current day you are living right now",
+      "answer": "TODAY",
+      "row": 7,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Vertical surface of a room",
-      "answer": "WALL",
-      "row": 0,
-      "col": 0,
+      "clue": "Large keyboard instrument with black and white keys",
+      "answer": "PIANO",
+      "row": 3,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "The planet we live on, third from the sun",
+      "answer": "EARTH",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Colorful reef structure made by tiny ocean animals",
+      "answer": "CORAL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Extra money you receive as a reward for doing great work",
+      "answer": "BONUS",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A body of fresh water completely surrounded by land",
+      "answer": "LAKE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 348

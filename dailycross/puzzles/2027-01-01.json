@@ -4,67 +4,74 @@
   "title": "2027-01-01",
   "words": [
     {
-      "clue": "Big gray animal with trunk",
-      "answer": "ELEPHANT",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where athletes play",
-      "answer": "STADIUM",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Studies bugs",
-      "answer": "CATCHER",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Growing bacteria in a lab",
-      "answer": "GROWTH",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of the Eiffel Tower",
-      "answer": "FRANCE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
+      "clue": "Small red fruit eaten on cakes and ice cream",
+      "answer": "STRAWBERRY",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Makes pots out of clay",
-      "answer": "POTTER",
+      "clue": "A large area of land belonging to one country",
+      "answer": "TERRITORY",
       "row": 6,
-      "col": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Gentle movement of air",
-      "answer": "BREEZE",
-      "row": 1,
-      "col": 1,
+      "clue": "Extra money you must pay when you borrow from a bank",
+      "answer": "INTEREST",
+      "row": 11,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Drives a vehicle for hire",
-      "answer": "DRIVER",
+      "clue": "Person who builds roads, bridges and large structures",
+      "answer": "ENGINEER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you hit a white ball with a bat and run bases",
+      "answer": "BASEBALL",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Tight stretchy pants worn for sports",
+      "answer": "LEGGINGS",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who creates new music",
+      "answer": "COMPOSER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Screen attached to a computer that shows you what is happening",
+      "answer": "MONITOR",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of people all related to each other",
+      "answer": "FAMILY",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Organ that filters waste from your blood to make urine",
+      "answer": "KIDNEY",
       "row": 1,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 203

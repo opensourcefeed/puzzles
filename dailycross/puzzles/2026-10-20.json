@@ -4,59 +4,66 @@
   "title": "2026-10-20",
   "words": [
     {
-      "clue": "Place where you see art",
-      "answer": "MUSEUM",
-      "row": 6,
+      "clue": "Protective glass or plastic building used to grow plants indoors",
+      "answer": "GREENHOUSE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Seventh planet from the sun",
-      "answer": "URANUS",
-      "row": 6,
-      "col": 4,
+      "clue": "Sport where you throw and catch an orange ball through a hoop",
+      "answer": "BASKETBALL",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Wear purple day",
-      "answer": "PURPLE",
-      "row": 5,
+      "clue": "Feeling suddenly shocked by unexpected news",
+      "answer": "SURPRISED",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Big family everyone",
-      "answer": "TRIBE",
+      "clue": "The region of space from which nothing can escape",
+      "answer": "BLACKHOLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Organ that turns food into nutrients your body uses",
+      "answer": "STOMACH",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Underground room below a house sometimes used for storage",
+      "answer": "CELLAR",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling scared of something",
+      "answer": "AFRAID",
       "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Neat row of low bushes forming a border or boundary",
+      "answer": "HEDGE",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Day to honor first responders",
-      "answer": "FIRST",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Kid age 13 to 19",
-      "answer": "TEEN",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Money back when you return",
-      "answer": "BACK",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Ink is made from dye",
-      "answer": "DYE",
-      "row": 0,
-      "col": 4,
+      "clue": "The hard center of the Earth",
+      "answer": "CORE",
+      "row": 9,
+      "col": 6,
       "direction": "down"
     }
   ],

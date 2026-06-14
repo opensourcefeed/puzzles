@@ -4,98 +4,84 @@
   "title": "Level 69",
   "words": [
     {
-      "clue": "Captain of a ship",
-      "answer": "CAPTAIN",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Digital book reader",
-      "answer": "EREADER",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to honor fathers in June",
-      "answer": "FATHERS",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Performs songs on stage",
-      "answer": "SINGER",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden path material",
-      "answer": "GRAVEL",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "March green day",
-      "answer": "GREEN",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Large flowing body of water",
-      "answer": "RIVER",
-      "row": 10,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A cold causes this",
-      "answer": "COUGH",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Sharpen knives on this",
-      "answer": "STONE",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Very small blood vessel",
-      "answer": "TINY",
+      "clue": "Building where scientists do research and experiments",
+      "answer": "LABORATORY",
       "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you keep your money",
-      "answer": "BANK",
-      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Water plants with this",
-      "answer": "HOSE",
-      "row": 9,
-      "col": 2,
+      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
+      "answer": "MOTORCYCLE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Device with a wheel used to open the lids of cans",
+      "answer": "CANOPENER",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you move through water with your arms and legs",
+      "answer": "SWIMMING",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "When a substance dissolves in a liquid",
+      "answer": "SOLUTION",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The day that comes after Monday",
+      "answer": "TUESDAY",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The time of day just after you wake up",
+      "answer": "MORNING",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling scared of something",
+      "answer": "AFRAID",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where you park your vehicle",
+      "answer": "GARAGE",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who brings food to your table in a restaurant",
+      "answer": "WAITER",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Dark yellowish brown color",
+      "answer": "KHAKI",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 11,
   "targetWords": 14,
   "difficulty": "medium"
 }

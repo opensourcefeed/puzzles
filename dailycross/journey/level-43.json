@@ -4,77 +4,84 @@
   "title": "Level 43",
   "words": [
     {
-      "clue": "Make coffee in this",
-      "answer": "COFFEEPOT",
-      "row": 5,
+      "clue": "Book with words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "November celebration of veterans",
-      "answer": "VETERANS",
-      "row": 4,
-      "col": 4,
+      "clue": "The ninth month of the year",
+      "answer": "SEPTEMBER",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Country with Kuala Lumpur",
-      "answer": "MALAYSIA",
+      "clue": "Person who catches fish as their job",
+      "answer": "FISHERMAN",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who studies marine biology and ocean life",
+      "answer": "BIOLOGIST",
       "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Place where you take a bath",
-      "answer": "BATHROOM",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a horse lives",
-      "answer": "STABLE",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Celebration with eggs and bunny",
-      "answer": "EASTER",
-      "row": 7,
-      "col": 4,
+      "clue": "Feeling very pleased after winning or succeeding",
+      "answer": "EXCITED",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Spicy root used in cooking",
-      "answer": "GINGER",
+      "clue": "Place where a river meets and mixes with the sea",
+      "answer": "ESTUARY",
       "row": 2,
-      "col": 9,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Team sport played with feet",
-      "answer": "SOCCER",
+      "clue": "Salty food made from peanuts",
+      "answer": "PEANUTS",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Website where you watch and share videos",
+      "answer": "YOUTUBE",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The operating system used on most Android phones and Windows computers",
+      "answer": "ANDROID",
       "row": 12,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Salty snack often eaten with dip",
-      "answer": "CHIPS",
-      "row": 2,
-      "col": 6,
+      "clue": "A flat shape with four equal sides and four corners",
+      "answer": "SQUARE",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "How hot or cold something is",
-      "answer": "HEAT",
-      "row": 3,
-      "col": 1,
+      "clue": "White soft food made from curdled milk",
+      "answer": "CHEESE",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

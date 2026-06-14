@@ -4,60 +4,74 @@
   "title": "2026-10-22",
   "words": [
     {
-      "clue": "Place where a river meets the ocean",
-      "answer": "ESTUARY",
-      "row": 5,
-      "col": 0,
+      "clue": "A large area of land belonging to one country",
+      "answer": "TERRITORY",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Feeling able to wait",
-      "answer": "PATIENT",
-      "row": 4,
-      "col": 4,
+      "clue": "Southeast Asian country with the city of Bangkok",
+      "answer": "THAILAND",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Mix of red and yellow",
-      "answer": "ORANGE",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Break hard concrete",
-      "answer": "SMASH",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Helps you hear",
-      "answer": "EARS",
+      "clue": "Color made by mixing red and blue",
+      "answer": "PURPLE",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Understanding others",
-      "answer": "CARE",
-      "row": 6,
-      "col": 6,
+      "clue": "Country known for the Amazon jungle and Carnival festival",
+      "answer": "BRAZIL",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Scandinavian country with the city of Stockholm",
+      "answer": "SWEDEN",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Subject about numbers",
-      "answer": "MATH",
-      "row": 1,
-      "col": 3,
+      "clue": "White vegetable made up of many layers",
+      "answer": "ONION",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The dark time after sunset when you sleep",
+      "answer": "NIGHT",
+      "row": 9,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "A metal strongly attracted to magnets",
+      "answer": "IRON",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The main above-ground stalk that holds up a plant",
+      "answer": "STEM",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant that produces oxygen and food through its leaves",
+      "answer": "TREE",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 132

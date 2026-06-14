@@ -4,63 +4,84 @@
   "title": "Level 55",
   "words": [
     {
-      "clue": "Sea star with five arms",
-      "answer": "STARFISH",
-      "row": 3,
-      "col": 2,
+      "clue": "Small device you plug into a computer to store files",
+      "answer": "FLASHDRIVE",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Country with Kuala Lumpur",
-      "answer": "MALAYSIA",
-      "row": 2,
+      "clue": "An object that does not let electricity pass through",
+      "answer": "INSULATOR",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Country known for tulips",
-      "answer": "HOLLAND",
-      "row": 3,
-      "col": 9,
+      "clue": "Person who builds and repairs things using wood",
+      "answer": "CARPENTER",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Colorful sky arc after rain",
-      "answer": "RAINBOW",
-      "row": 8,
+      "clue": "Wireless technology used to connect devices over short distances",
+      "answer": "BLUETOOTH",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Purple vegetable that is long and oval, also called aubergine",
+      "answer": "EGGPLANT",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who trains animals to behave or do tricks",
+      "answer": "TRAINER",
+      "row": 12,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Digital book reader",
-      "answer": "EREADER",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Coin worth 100 cents",
-      "answer": "QUARTER",
-      "row": 0,
-      "col": 1,
+      "clue": "Animal with a shell that moves very slowly",
+      "answer": "TURTLE",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Cloud of gas in space",
-      "answer": "CLOUD",
-      "row": 6,
-      "col": 8,
+      "clue": "Forcing air from your lungs through your mouth",
+      "answer": "COUGH",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Area where river meets ocean",
-      "answer": "DELTA",
-      "row": 9,
-      "col": 0,
+      "clue": "Country string instrument with five strings and a round body",
+      "answer": "BANJO",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You hold things and wave with these",
+      "answer": "HANDS",
+      "row": 2,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Person who trains and prepares athletes for competitions",
+      "answer": "COACH",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 11,
   "targetWords": 12,
   "difficulty": "medium"
 }

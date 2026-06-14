@@ -4,67 +4,53 @@
   "title": "2026-12-03",
   "words": [
     {
-      "clue": "Your male sibling",
-      "answer": "BROTHER",
+      "clue": "Large building where sick people go to be treated",
+      "answer": "HOSPITAL",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with five sides and five corners",
+      "answer": "PENTAGON",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "European country with the city of Berlin",
+      "answer": "GERMANY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with eight sides like a stop sign",
+      "answer": "OCTAGON",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Police building",
-      "answer": "STATION",
-      "row": 6,
+      "clue": "White soft food made from curdled milk",
+      "answer": "CHEESE",
+      "row": 1,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Sixty seconds",
-      "answer": "MINUTE",
-      "row": 10,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Country with Warsaw",
-      "answer": "POLAND",
-      "row": 12,
+      "clue": "Horizontal plank attached to a wall to hold books or objects",
+      "answer": "SHELF",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Underwater mountain chain that runs along the ocean floor",
+      "answer": "RIDGE",
+      "row": 9,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Manages money in a bank",
-      "answer": "BANKER",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Spirit day wear purple",
-      "answer": "SPIRIT",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Climb up high with this",
-      "answer": "LADDER",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Clear liquid that your body needs",
-      "answer": "WATER",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Makes clothes",
-      "answer": "SEWER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "dayNumber": 174

@@ -4,46 +4,74 @@
   "title": "2026-12-11",
   "words": [
     {
-      "clue": "Money per year of work",
-      "answer": "SALARY",
-      "row": 3,
+      "clue": "Physical activity that keeps your body strong and fit",
+      "answer": "EXERCISE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that runs on tracks",
-      "answer": "TRAIN",
-      "row": 2,
-      "col": 4,
+      "clue": "Cold sweet treat on a stick or in a cone",
+      "answer": "ICECREAM",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Underwater mountain chain",
-      "answer": "RIDGE",
-      "row": 5,
-      "col": 3,
+      "clue": "A person who lives in the house next to yours",
+      "answer": "NEIGHBOR",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Drill holes with this",
-      "answer": "DRILL",
+      "clue": "A shape with many sides, more than eight",
+      "answer": "POLYGON",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Brown vegetable that grows underground and is often fried",
+      "answer": "POTATO",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Light rock full of small holes made by a volcano",
+      "answer": "PUMICE",
       "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Deep ocean valley",
-      "answer": "DEEP",
+      "clue": "The repeated section at the end of each verse of a song",
+      "answer": "CHORUS",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Fried potato strips served with burgers",
+      "answer": "FRIES",
       "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Large spoon with a long handle used to serve soup",
+      "answer": "LADLE",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Jewish New Year",
-      "answer": "ROSH",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
+      "clue": "The flat area where a football match is played",
+      "answer": "FIELD",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 182

@@ -4,74 +4,74 @@
   "title": "2027-03-27",
   "words": [
     {
-      "clue": "Paddling through water",
-      "answer": "SWIMMING",
-      "row": 4,
+      "clue": "The ninth month of the year",
+      "answer": "SEPTEMBER",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Long vehicle used to transport many children to school",
+      "answer": "SCHOOLBUS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewelry worn around the wrist",
+      "answer": "BRACELET",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Tallest animal on land",
+      "answer": "GIRAFFE",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country with Berlin",
-      "answer": "GERMANY",
-      "row": 4,
-      "col": 7,
+      "clue": "Tiny air sacs inside the lungs where gas exchange happens",
+      "answer": "ALVEOLI",
+      "row": 2,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Swimwear for the beach",
-      "answer": "BATHING",
-      "row": 0,
-      "col": 5,
+      "clue": "The fifth and largest planet from the sun",
+      "answer": "JUPITER",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Country with London",
-      "answer": "ENGLAND",
+      "clue": "Animal that carries its home on its back",
+      "answer": "SNAIL",
       "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Small pie filled with fruit or cream",
+      "answer": "TART",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Small shop where you buy coffee and light snacks",
+      "answer": "CAFE",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Glass container with a lid used to store jam or spices",
+      "answer": "JAR",
+      "row": 1,
       "col": 3,
       "direction": "across"
-    },
-    {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Studies ocean life",
-      "answer": "MARINE",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Dry dishes with this",
-      "answer": "TOWEL",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Government money charge",
-      "answer": "BILL",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean current that warms Europe",
-      "answer": "GULF",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "World joke day",
-      "answer": "JOKE",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
     }
   ],
   "dayNumber": 288

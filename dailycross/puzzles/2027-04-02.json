@@ -4,60 +4,74 @@
   "title": "2027-04-02",
   "words": [
     {
-      "clue": "Bread with filling",
-      "answer": "SANDWICH",
+      "clue": "April 1 holiday when people play pranks on each other",
+      "answer": "APRILFOOLS",
       "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Blood vessel that carries blood away",
-      "answer": "ARTERY",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Flies airplanes",
-      "answer": "PILOT",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
-      "row": 8,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Tiny hobby computer",
-      "answer": "BOARD",
-      "row": 0,
-      "col": 3,
+      "clue": "Flying vehicle with spinning blades on the roof",
+      "answer": "HELICOPTER",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Shot that stops sickness",
-      "answer": "SHOT",
+      "clue": "Wooden bar instrument you hit with mallets",
+      "answer": "XYLOPHONE",
       "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Black and white bird that cannot fly",
+      "answer": "PENGUIN",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean reptile with a hard shell that also lives on land",
+      "answer": "TURTLE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Season when flowers bloom and it gets warmer",
+      "answer": "SPRING",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Teacher writes on this at the front of the class",
+      "answer": "BOARD",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Worn on your feet to protect them outside",
+      "answer": "SHOES",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Machine that gives you cash",
-      "answer": "ATM",
-      "row": 8,
-      "col": 5,
+      "clue": "East African country with the city of Nairobi and safaris",
+      "answer": "KENYA",
+      "row": 0,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Plant that produces oxygen and food through its leaves",
+      "answer": "TREE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 294

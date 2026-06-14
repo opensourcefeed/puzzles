@@ -4,74 +4,74 @@
   "title": "2027-05-13",
   "words": [
     {
-      "clue": "Tool used to see far stars",
-      "answer": "TELESCOPE",
-      "row": 5,
+      "clue": "You use this tool to do math sums",
+      "answer": "CALCULATOR",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Protective glass or plastic building used to grow plants indoors",
+      "answer": "GREENHOUSE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that mows and harvests crops in fields",
+      "answer": "HARVESTER",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you jump as far as you can from a running start",
+      "answer": "LONGJUMP",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Place where you park your car",
-      "answer": "GARAGE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Silk worm thread",
-      "answer": "THREAD",
+      "clue": "Long green vegetable related to the pumpkin",
+      "answer": "ZUCCHINI",
       "row": 5,
-      "col": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "What plants breathe out",
-      "answer": "OXYGEN",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Clear liquid that your body needs",
-      "answer": "WATER",
-      "row": 3,
+      "clue": "Feeling very interested and wanting to explore and find out more",
+      "answer": "CURIOUS",
+      "row": 14,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Big box for baking",
-      "answer": "OVEN",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
+      "clue": "Large farm vehicle used to pull plows and equipment",
+      "answer": "TRACTOR",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "Wanting something badly",
-      "answer": "WISH",
-      "row": 6,
+      "clue": "Country between France and Spain with the Pyrenees mountains",
+      "answer": "ANDORRA",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewish New Year",
-      "answer": "ROSH",
-      "row": 8,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Change from solid to gas",
-      "answer": "BOIL",
-      "row": 3,
-      "col": 1,
+      "clue": "A printed paper record showing how much you paid",
+      "answer": "RECEIPT",
+      "row": 1,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "Holiday in spring to plant trees and care for forests",
+      "answer": "ARBOR",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "dayNumber": 335

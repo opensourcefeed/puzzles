@@ -4,74 +4,53 @@
   "title": "2027-05-03",
   "words": [
     {
-      "clue": "Travels to discover new places",
-      "answer": "EXPLORER",
+      "clue": "Being in good physical condition from exercise and good food",
+      "answer": "HEALTHY",
       "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Pack lunch in this",
-      "answer": "LUNCHBOX",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Large ocean wave from earthquake",
-      "answer": "TSUNAMI",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Studies bugs",
-      "answer": "CATCHER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut pizza with this",
-      "answer": "CUTTER",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You keep blankets in this trunk",
-      "answer": "TRUNK",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sharp point on a rose stem",
-      "answer": "THORN",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Lift heavy things",
-      "answer": "HOIST",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Unit of electric force",
-      "answer": "VOLT",
-      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Floors are often made of this",
-      "answer": "WOOD",
-      "row": 5,
+      "clue": "A large flat area of high land",
+      "answer": "PLATEAU",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge slow moving mass of ice found in cold regions",
+      "answer": "GLACIER",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Country famous for the Eiffel Tower and croissants",
+      "answer": "FRANCE",
+      "row": 0,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Small curved pink ocean crustacean eaten in salads",
+      "answer": "SHRIMP",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Water in the form of a gas or steam",
+      "answer": "VAPOR",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Evergreen tree with needles and cones",
+      "answer": "PINE",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 325

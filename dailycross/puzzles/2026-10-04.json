@@ -4,72 +4,65 @@
   "title": "2026-10-04",
   "words": [
     {
-      "clue": "Lizard that changes color",
-      "answer": "CHAMELEON",
-      "row": 4,
-      "col": 0,
+      "clue": "Vehicle that collects garbage from houses",
+      "answer": "TRASHCAR",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Date you were born",
-      "answer": "BIRTHDAY",
+      "clue": "These protect your eyes from sun and rain",
+      "answer": "EYELIDS",
       "row": 0,
-      "col": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
+      "clue": "A shape with many sides, more than eight",
+      "answer": "POLYGON",
       "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Shop where fresh bread and pastries are made and sold",
+      "answer": "BAKERY",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle with a powerful engine used to launch into space",
+      "answer": "ROCKET",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Spicy root used in Asian cooking",
+      "answer": "GINGER",
+      "row": 8,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean fish that can inflate",
-      "answer": "PUFFER",
-      "row": 8,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 3,
+      "clue": "A trained person who helps sick people recover in hospital",
+      "answer": "NURSE",
+      "row": 8,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Apple computer system",
-      "answer": "APPLE",
-      "row": 6,
+      "clue": "Ridged fastener you turn with a screwdriver",
+      "answer": "SCREW",
+      "row": 11,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Leg covering",
-      "answer": "PANTS",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Small bed for growing vegetables",
-      "answer": "PLOT",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Box shape in 3D",
-      "answer": "CUBE",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Light bulb wire",
-      "answer": "WIRE",
-      "row": 1,
+      "clue": "A baby bird that has just hatched from an egg",
+      "answer": "CHICK",
+      "row": 9,
       "col": 0,
       "direction": "across"
     }

@@ -4,53 +4,67 @@
   "title": "2027-03-01",
   "words": [
     {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
+      "clue": "Small round fish that puffs up when threatened",
+      "answer": "PUFFERFISH",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where two people try to throw each other to the ground",
+      "answer": "WRESTLING",
       "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Programs that run on a computer or phone",
+      "answer": "SOFTWARE",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The sixth planet from the sun, almost as large as Jupiter",
+      "answer": "SATURN",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful part of a plant that attracts bees",
+      "answer": "FLOWER",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Your female parent",
+      "answer": "MOTHER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Light purple flower color",
-      "answer": "LAVENDER",
-      "row": 2,
+      "clue": "Feeling uninterested and having nothing fun to do",
+      "answer": "BORED",
+      "row": 7,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Teaches dogs new skills",
-      "answer": "TRAINER",
-      "row": 0,
+      "clue": "Handheld device you use to call people and browse the internet",
+      "answer": "PHONE",
+      "row": 5,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Small string instrument played with bow",
-      "answer": "VIOLIN",
+      "clue": "You use these to see the world around you",
+      "answer": "EYES",
       "row": 0,
-      "col": 4,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Cares for children at home",
-      "answer": "NANNY",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Smallest unit of life",
-      "answer": "CELL",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Red flower given on Valentine's",
-      "answer": "ROSE",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
     }
   ],
   "dayNumber": 262

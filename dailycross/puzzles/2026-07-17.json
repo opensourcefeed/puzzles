@@ -4,67 +4,74 @@
   "title": "2026-07-17",
   "words": [
     {
-      "clue": "Gliding on ice",
-      "answer": "SKATING",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you watch movies",
-      "answer": "THEATER",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Decorates rooms",
-      "answer": "PAINTER",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Grows crops on a farm",
-      "answer": "FARMER",
+      "clue": "A curved shape like a banana or the moon",
+      "answer": "CRESCENT",
       "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Blow leaves with this",
-      "answer": "BLOWER",
-      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You cover the floor with this",
-      "answer": "CARPET",
-      "row": 0,
-      "col": 4,
+      "clue": "Three children born at the same time to the same mother",
+      "answer": "TRIPLETS",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "You put a mattress on this",
-      "answer": "FRAME",
-      "row": 2,
-      "col": 3,
+      "clue": "Special song played to honor a country",
+      "answer": "ANTHEM",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who makes official decisions during a baseball game",
+      "answer": "UMPIRE",
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Queen's big day",
-      "answer": "CROWN",
-      "row": 8,
+      "clue": "About thirty days long, there are twelve in a year",
+      "answer": "MONTH",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling full of happiness and smiling a lot",
+      "answer": "HAPPY",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Huge body of salty water that covers most of the Earth",
+      "answer": "OCEAN",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Ocean animal with pincers",
-      "answer": "CRAB",
-      "row": 0,
-      "col": 4,
+      "clue": "Very light blue like a robin egg",
+      "answer": "CYAN",
+      "row": 8,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "A piece of music sung or played as one work",
+      "answer": "SONG",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Black bird that is very smart and can mimic sounds",
+      "answer": "CROW",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 35

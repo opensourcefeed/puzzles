@@ -4,59 +4,73 @@
   "title": "2027-02-25",
   "words": [
     {
-      "clue": "Ocean around Antarctica",
-      "answer": "SOUTHERN",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Screen that shows images",
-      "answer": "MONITOR",
+      "clue": "The day that came before today",
+      "answer": "YESTERDAY",
       "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
-      "row": 5,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Most populated country",
-      "answer": "CHINA",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Makes clothes",
-      "answer": "SEWER",
-      "row": 4,
+      "clue": "Three children born at the same time to the same mother",
+      "answer": "TRIPLETS",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Shaking from cold",
-      "answer": "SHAKE",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Your mother's sister",
-      "answer": "AUNT",
-      "row": 0,
-      "col": 3,
+      "clue": "US holiday in September honoring working people",
+      "answer": "LABORDAY",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Ocean fish that swims in schools",
-      "answer": "TUNA",
+      "clue": "A wide treeless land in the far north",
+      "answer": "TUNDRA",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Scandinavian country with the city of Stockholm",
+      "answer": "SWEDEN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Narrow spade used to dig planting holes in a garden",
+      "answer": "SPADE",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Long animal without legs that slithers",
+      "answer": "SNAKE",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Color of tree bark and chocolate",
+      "answer": "BROWN",
       "row": 1,
-      "col": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Neat row of low bushes forming a border or boundary",
+      "answer": "HEDGE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Farm animal that gives us wool",
+      "answer": "SHEEP",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     }
   ],

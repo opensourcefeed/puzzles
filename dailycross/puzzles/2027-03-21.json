@@ -4,59 +4,66 @@
   "title": "2027-03-21",
   "words": [
     {
-      "clue": "Memorial Day remembers soldiers",
-      "answer": "MEMORIAL",
-      "row": 4,
+      "clue": "The second month of the year",
+      "answer": "FEBRUARY",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Jewish lights festival",
-      "answer": "LIGHTS",
+      "clue": "A shape like the base of a pyramid with four triangular faces",
+      "answer": "PYRAMID",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The time of day just after you wake up",
+      "answer": "MORNING",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Fine thin rain that barely gets you wet",
+      "answer": "DRIZZLE",
       "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Spicy root used in cooking",
-      "answer": "GINGER",
+      "clue": "Thick soft covering placed on the floor in a room",
+      "answer": "CARPET",
       "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Group of stars in the sky",
-      "answer": "GALAXY",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you live",
-      "answer": "HOUSE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Your brother's daughter",
-      "answer": "NIECE",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "When your body fights an infection",
-      "answer": "FEVER",
-      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Smallest unit of life",
-      "answer": "CELL",
-      "row": 2,
-      "col": 7,
+      "clue": "Worn on both hands to keep them warm in winter",
+      "answer": "GLOVES",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Sour yellow citrus fruit",
+      "answer": "LEMON",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Thick warm outerwear you wear in cold weather",
+      "answer": "COAT",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Yellow vegetable that grows on a cob",
+      "answer": "CORN",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     }
   ],

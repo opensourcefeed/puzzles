@@ -4,91 +4,84 @@
   "title": "Level 70",
   "words": [
     {
-      "clue": "Game with hoop and net",
-      "answer": "BASKETBALL",
-      "row": 6,
+      "clue": "Large device that sprays water on a lawn or garden",
+      "answer": "SPRINKLER",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Strong circular wind over ocean",
-      "answer": "HURRICANE",
-      "row": 0,
-      "col": 9,
+      "clue": "When a bone cracks or snaps from force or impact",
+      "answer": "FRACTURE",
+      "row": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Riding a bicycle",
-      "answer": "CYCLING",
-      "row": 4,
-      "col": 5,
+      "clue": "Green tree vegetable that looks like tiny trees",
+      "answer": "BROCCOLI",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The twelfth and last month of the year",
+      "answer": "DECEMBER",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Google mobile operating system",
-      "answer": "ANDROID",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling not interested at all",
-      "answer": "BORED",
-      "row": 8,
+      "clue": "Tight stretchy pants worn for sports",
+      "answer": "LEGGINGS",
+      "row": 13,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Dry dishes with this",
-      "answer": "TOWEL",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Cover for garden soil",
-      "answer": "COVER",
+      "clue": "A flat four-sided shape with a pointy top and bottom",
+      "answer": "DIAMOND",
       "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Studies nature",
-      "answer": "LOVER",
-      "row": 6,
-      "col": 11,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Apple cloud storage",
-      "answer": "CLOUD",
-      "row": 11,
+      "clue": "Building where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Plant used for flavoring food",
-      "answer": "BASIL",
+      "clue": "A vehicle that carries astronauts from one spacecraft to another",
+      "answer": "SHUTTLE",
       "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Water in the form of a gas or steam",
+      "answer": "VAPOR",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle driven to explore the moon or Mars",
+      "answer": "ROVER",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Round purple or green fruit that grows in bunches",
+      "answer": "GRAPE",
+      "row": 13,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Upset with yourself",
-      "answer": "GLOW",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Mom dad kids family",
-      "answer": "HOME",
-      "row": 0,
-      "col": 9,
       "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 11,
   "targetWords": 14,
   "difficulty": "medium"
 }

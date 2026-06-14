@@ -4,60 +4,74 @@
   "title": "2026-09-30",
   "words": [
     {
-      "clue": "Sea star with five arms",
-      "answer": "STARFISH",
+      "clue": "Long vehicle used to transport many children to school",
+      "answer": "SCHOOLBUS",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Travels to discover new places",
-      "answer": "EXPLORER",
+      "clue": "Sport where two people try to throw each other to the ground",
+      "answer": "WRESTLING",
       "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A closed loop that electricity flows around",
+      "answer": "CIRCUIT",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Room below your house",
-      "answer": "BASEMENT",
+      "clue": "The regular repeating beat in music",
+      "answer": "RHYTHM",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Color made by mixing red and yellow",
+      "answer": "ORANGE",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where works of art are displayed for visitors",
+      "answer": "MUSEUM",
       "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Words of a song",
-      "answer": "LYRICS",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where Christians pray",
-      "answer": "CHURCH",
-      "row": 7,
-      "col": 0,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "British paper money unit",
-      "answer": "POUND",
-      "row": 2,
-      "col": 3,
+      "clue": "Country famous for the Colosseum, pasta and pizza",
+      "answer": "ITALY",
+      "row": 11,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Green message app",
-      "answer": "CHAT",
-      "row": 7,
+      "clue": "About thirty days long, there are twelve in a year",
+      "answer": "MONTH",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Loving something a lot",
-      "answer": "LOVE",
-      "row": 0,
+      "clue": "Protective cover worn over clothing while cooking",
+      "answer": "APRON",
+      "row": 3,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Cool green herb used in toothpaste and chewing gum",
+      "answer": "MINT",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 110

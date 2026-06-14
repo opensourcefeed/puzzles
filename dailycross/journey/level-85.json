@@ -4,98 +4,84 @@
   "title": "Level 85",
   "words": [
     {
-      "clue": "Protects from rain",
-      "answer": "UMBRELLA",
-      "row": 6,
-      "col": 1,
+      "clue": "Software that protects your computer from viruses",
+      "answer": "ANTIVIRUS",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
-      "row": 5,
+      "clue": "What you must eat to keep your body working properly",
+      "answer": "NUTRITION",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A powerful instrument used to see distant stars and planets",
+      "answer": "TELESCOPE",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Tall yellow flower that grows facing the sun",
+      "answer": "SUNFLOWER",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a computer you can see and touch",
+      "answer": "HARDWARE",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who trains animals to behave or do tricks",
+      "answer": "TRAINER",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Subject where you learn about events from the past",
+      "answer": "HISTORY",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Organizes weddings and events",
-      "answer": "PLANNER",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
+      "clue": "European country with the city of Budapest",
+      "answer": "HUNGARY",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
     },
     {
-      "clue": "Freeze food in this",
-      "answer": "FREEZER",
+      "clue": "Brown vegetable that grows underground and is often fried",
+      "answer": "POTATO",
       "row": 11,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Toast bread in this",
-      "answer": "TOASTER",
-      "row": 4,
+      "clue": "Round flat Italian dish with cheese and toppings",
+      "answer": "PIZZA",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Cuts hair for women",
-      "answer": "STYLER",
+      "clue": "The planet we live on, third from the sun",
+      "answer": "EARTH",
       "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Three babies born together",
-      "answer": "TRIPLE",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean mollusk with a spiral shell",
-      "answer": "SNAIL",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Special diet food",
-      "answer": "GRAIN",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Teacher writes on this",
-      "answer": "BOARD",
-      "row": 9,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Ice crystals falling from sky",
-      "answer": "SNOW",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Your child's child",
-      "answer": "BABY",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Wanting things fast",
-      "answer": "RUSH",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 11,
   "targetWords": 16,
   "difficulty": "medium"
 }

@@ -4,60 +4,67 @@
   "title": "2026-11-04",
   "words": [
     {
-      "clue": "Store leftovers in this",
-      "answer": "CONTAINER",
-      "row": 4,
-      "col": 0,
+      "clue": "Sport where you hit a shuttlecock with a racket",
+      "answer": "BADMINTON",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Shoes are made of this animal skin",
-      "answer": "LEATHER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Bandage that sticks to skin",
-      "answer": "BANDAID",
-      "row": 2,
+      "clue": "The energy content of food measured in units",
+      "answer": "CALORIES",
+      "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "How heavy something is",
-      "answer": "WEIGHT",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
+      "clue": "Long period of very little or no rainfall",
+      "answer": "DROUGHT",
       "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Quality passed down in families",
-      "answer": "TRAIT",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Water becomes gas",
-      "answer": "STEAM",
-      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Storage space under the roof",
-      "answer": "ATTIC",
-      "row": 0,
-      "col": 0,
+      "clue": "Person who reads the news on television",
+      "answer": "ANCHOR",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Money you earn every month from your job",
+      "answer": "SALARY",
+      "row": 4,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "Vehicle that runs on metal rails and carries passengers",
+      "answer": "TRAIN",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "How fast an object is traveling",
+      "answer": "SPEED",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling worn out after a long day of activity",
+      "answer": "TIRED",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of your face below your nose",
+      "answer": "CHIN",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 145

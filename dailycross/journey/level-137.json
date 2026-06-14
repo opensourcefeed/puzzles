@@ -4,140 +4,98 @@
   "title": "Level 137",
   "words": [
     {
-      "clue": "Long green garden vegetable",
-      "answer": "CUCUMBER",
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
       "row": 7,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Closest planet to the sun",
-      "answer": "MERCURY",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where airplanes land",
-      "answer": "AIRPORT",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean animal with a hard shell",
-      "answer": "LOBSTER",
-      "row": 8,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Device that copies paper to computer",
-      "answer": "SCANNER",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Breakfast grain meal",
-      "answer": "CEREAL",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Underground train system",
-      "answer": "SUBWAY",
-      "row": 9,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Spirit day wear purple",
-      "answer": "SPIRIT",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Green vegetable rabbits love",
-      "answer": "CARROT",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes folded in this",
-      "answer": "DRAWER",
-      "row": 0,
+      "clue": "Light fitting that hangs from the ceiling",
+      "answer": "CHANDELIER",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Fruit vitamin",
-      "answer": "CITRUS",
-      "row": 7,
-      "col": 0,
+      "clue": "The main processing chip inside a computer",
+      "answer": "PROCESSOR",
+      "row": 5,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Music leader",
-      "answer": "LEADER",
+      "clue": "A flat shape with four sides where opposite sides are equal",
+      "answer": "RECTANGLE",
       "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Loop of water from sky to ground and back",
-      "answer": "CYCLE",
+      "clue": "An object that does not let electricity pass through",
+      "answer": "INSULATOR",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The day that comes after today",
+      "answer": "TOMORROW",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A very tall natural rise of land formed by rock",
+      "answer": "MOUNTAIN",
       "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Bird with colorful tail feathers",
+      "answer": "PEACOCK",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "What happens when ice or chocolate becomes liquid from heat",
+      "answer": "MELTING",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Rock that comes from space and burns as it falls",
+      "answer": "METEOR",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Animal with a shell that moves very slowly",
+      "answer": "TURTLE",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal known for spraying a bad smell",
+      "answer": "SKUNK",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The biological information passed from parent to child",
+      "answer": "GENE",
+      "row": 0,
       "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "You put a TV on this",
-      "answer": "STAND",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Calendar shows the date",
-      "answer": "TODAY",
-      "row": 0,
-      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "A push or a pull on an object",
-      "answer": "FORCE",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Sharpen knives on this",
-      "answer": "STONE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Day of atonement",
-      "answer": "FAST",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
     }
   ],
-  "wordCount": 19,
+  "wordCount": 13,
   "targetWords": 23,
   "difficulty": "hard"
 }

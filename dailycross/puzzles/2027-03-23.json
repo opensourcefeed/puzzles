@@ -4,45 +4,73 @@
   "title": "2027-03-23",
   "words": [
     {
-      "clue": "Brother or sister",
-      "answer": "SIBLING",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Wipe counters with this",
-      "answer": "SPONGE",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Coin worth 5 cents",
-      "answer": "NICKEL",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Your father's brother",
-      "answer": "UNCLE",
-      "row": 7,
+      "clue": "Very tall building found in city centers",
+      "answer": "SKYSCRAPER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Magnifying glass",
-      "answer": "LENS",
+      "clue": "A shape that is taller than it is wide, with four sides",
+      "answer": "RECTANGLE",
       "row": 3,
-      "col": 9,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who leads tourists around historical sites",
+      "answer": "TOURGUIDE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Very tiny living things you can only see with a microscope",
+      "answer": "BACTERIA",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An unwanted reaction your body has to a food or substance",
+      "answer": "ALLERGY",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Large seabird with a pouch under its beak",
+      "answer": "PELICAN",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Season when flowers bloom and it gets warmer",
+      "answer": "SPRING",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where you park your vehicle",
+      "answer": "GARAGE",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "European country with the city of Athens",
+      "answer": "GREECE",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Large whiskered mammal with flippers that lives in cold seas",
+      "answer": "WALRUS",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     }
   ],

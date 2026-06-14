@@ -4,46 +4,67 @@
   "title": "2027-05-01",
   "words": [
     {
-      "clue": "Move dirt with this",
-      "answer": "TRACTOR",
-      "row": 2,
+      "clue": "Person who organizes and manages books in a library",
+      "answer": "LIBRARIAN",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Shovel snow with this",
-      "answer": "SHOVEL",
-      "row": 0,
-      "col": 6,
+      "clue": "A reduction in price when something goes on sale",
+      "answer": "DISCOUNT",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Mix of two metals",
-      "answer": "BRONZE",
+      "clue": "Celebration at the start of a new year on January 1",
+      "answer": "NEWYEAR",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "You draw circles using this tool",
+      "answer": "COMPASS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you sail a boat using wind",
+      "answer": "SAILING",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Fried potato strips served with burgers",
+      "answer": "FRIES",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The second most populated country with the Taj Mahal",
+      "answer": "INDIA",
       "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Connects computer to monitor",
-      "answer": "CABLE",
-      "row": 2,
+      "clue": "The area between your hips and ribs",
+      "answer": "WAIST",
+      "row": 7,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Light red color",
-      "answer": "PINK",
-      "row": 4,
+      "clue": "Person who looks after children when parents are away",
+      "answer": "NANNY",
+      "row": 2,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Two or more atoms together",
-      "answer": "PAIR",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
     }
   ],
   "dayNumber": 323

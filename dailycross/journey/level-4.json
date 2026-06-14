@@ -4,39 +4,39 @@
   "title": "Level 4",
   "words": [
     {
-      "clue": "Machine that washes dishes",
-      "answer": "DISHWASHER",
-      "row": 7,
+      "clue": "One hundred years is called this",
+      "answer": "CENTURY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Paddling through water",
-      "answer": "SWIMMING",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Kuala Lumpur",
-      "answer": "MALAYSIA",
+      "clue": "A device worn on your face to help you see clearly",
+      "answer": "GLASSES",
       "row": 0,
-      "col": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Feeling alone and wanting company",
-      "answer": "LONELY",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you get a haircut",
-      "answer": "SALON",
+      "clue": "The person who makes sure rules are followed in a game",
+      "answer": "REFEREE",
       "row": 5,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Country known for the Amazon jungle and Carnival festival",
+      "answer": "BRAZIL",
+      "row": 9,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Person who writes novels, stories or non-fiction books",
+      "answer": "AUTHOR",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "wordCount": 5,

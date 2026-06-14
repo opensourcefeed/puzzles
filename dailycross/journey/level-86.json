@@ -4,84 +4,105 @@
   "title": "Level 86",
   "words": [
     {
-      "clue": "Ocean bird that dives for fish",
-      "answer": "SEAGULL",
-      "row": 6,
-      "col": 2,
+      "clue": "Animal that produces silk",
+      "answer": "SILKWORM",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Delivers mail to homes",
-      "answer": "MAILMAN",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Pair of married people",
-      "answer": "COUPLE",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Pen for drawing on tablets",
-      "answer": "STYLUS",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Night color",
-      "answer": "BLACK",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Serve food on this",
-      "answer": "PLATE",
-      "row": 0,
+      "clue": "Amount of rain that falls in a place",
+      "answer": "RAINFALL",
+      "row": 7,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Money from a job",
-      "answer": "CASH",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 10,
-      "col": 2,
+      "clue": "Two or more atoms joined together",
+      "answer": "MOLECULE",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Sure of yourself",
-      "answer": "BOLD",
-      "row": 1,
+      "clue": "Padded glove used to hold hot pots from the oven",
+      "answer": "OVENMITT",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Your tummy where food is digested",
+      "answer": "STOMACH",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle used on a farm to pull heavy equipment",
+      "answer": "TRACTOR",
+      "row": 12,
       "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "Colorful arc of light in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Small jumping insect that chirps at night",
+      "answer": "CRICKET",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling worried about what will happen next",
+      "answer": "UNEASY",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle driven to explore the moon or Mars",
+      "answer": "ROVER",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The third month of the year",
+      "answer": "MARCH",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The unit of British money used in England",
+      "answer": "POUND",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Red fruit that keeps the doctor away",
+      "answer": "APPLE",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Long handled garden tool with prongs to break up soil",
+      "answer": "FORK",
+      "row": 11,
+      "col": 12,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 14,
   "targetWords": 16,
   "difficulty": "medium"
 }

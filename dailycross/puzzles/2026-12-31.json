@@ -4,59 +4,73 @@
   "title": "2026-12-31",
   "words": [
     {
-      "clue": "Memorial Day remembers soldiers",
-      "answer": "MEMORIAL",
+      "clue": "Wooden bar instrument you hit with mallets",
+      "answer": "XYLOPHONE",
       "row": 3,
-      "col": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Machine that processes information",
-      "answer": "COMPUTER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
+      "clue": "Tall feature on land formed by pushing earth upward",
+      "answer": "MOUNTAIN",
       "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Studies nature",
-      "answer": "LOVER",
-      "row": 3,
+      "clue": "The day before Friday",
+      "answer": "THURSDAY",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Makes clothes",
-      "answer": "SEWER",
-      "row": 6,
-      "col": 5,
+      "clue": "Mineral in milk and cheese needed for strong bones",
+      "answer": "CALCIUM",
+      "row": 8,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Flies airplanes",
-      "answer": "PILOT",
-      "row": 7,
+      "clue": "A flat shape with six sides like a honeycomb cell",
+      "answer": "HEXAGON",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round ball shape in three dimensions",
+      "answer": "SPHERE",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Worn on both hands to keep them warm in winter",
+      "answer": "GLOVES",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Sour yellow citrus fruit",
+      "answer": "LEMON",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Shaking from cold",
-      "answer": "SHAKE",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
+      "clue": "The first light of day just before sunrise",
+      "answer": "DAWN",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "Place where you get coffee",
-      "answer": "CAFE",
-      "row": 0,
-      "col": 2,
+      "clue": "Small garden area dug up and prepared for growing vegetables",
+      "answer": "PLOT",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     }
   ],

@@ -4,59 +4,66 @@
   "title": "2027-05-16",
   "words": [
     {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Gliding on ice",
-      "answer": "SKATING",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean between America and Asia",
-      "answer": "PACIFIC",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Captain of a ship",
-      "answer": "CAPTAIN",
+      "clue": "Vehicle that collects garbage from houses",
+      "answer": "TRASHCAR",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Celebration with eggs and bunny",
-      "answer": "EASTER",
-      "row": 0,
+      "clue": "Physical activity that keeps your body strong and fit",
+      "answer": "EXERCISE",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Feeling very glad",
-      "answer": "HAPPY",
-      "row": 1,
+      "clue": "European country with the city of Brussels",
+      "answer": "BELGIUM",
+      "row": 5,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Ocean creature that buries in sand",
-      "answer": "CLAM",
-      "row": 5,
-      "col": 1,
+      "clue": "A plan for how to spend your money each month",
+      "answer": "BUDGET",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Magnet attracts this metal",
-      "answer": "IRON",
-      "row": 6,
-      "col": 8,
+      "clue": "The last day of the weekend",
+      "answer": "SUNDAY",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Device used to weigh out exact amounts of ingredients",
+      "answer": "SCALE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Your sister's or brother's daughter",
+      "answer": "NIECE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Round container used to mix ingredients",
+      "answer": "BOWL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The hard center of the Earth",
+      "answer": "CORE",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],

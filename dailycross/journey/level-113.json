@@ -4,91 +4,133 @@
   "title": "Level 113",
   "words": [
     {
-      "clue": "Social media photo app",
-      "answer": "INSTAGRAM",
-      "row": 6,
-      "col": 0,
+      "clue": "Machine that uses microwave energy to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Bread with filling",
-      "answer": "SANDWICH",
-      "row": 5,
-      "col": 4,
+      "clue": "Room where you eat lunch at school",
+      "answer": "CAFETERIA",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "World book day",
-      "answer": "BOOKDAY",
-      "row": 8,
+      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
+      "answer": "AMBULANCE",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Building with tanks where you can see fish and sea creatures",
+      "answer": "AQUARIUM",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Tall feature on land formed by pushing earth upward",
+      "answer": "MOUNTAIN",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who inspects and repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Salty food made from peanuts",
+      "answer": "PEANUTS",
+      "row": 14,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country with Budapest",
-      "answer": "HUNGARY",
+      "clue": "The tenth month of the year",
+      "answer": "OCTOBER",
       "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Long orange vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Riding a bicycle",
-      "answer": "CYCLING",
+      "clue": "Spring holiday with Easter eggs and a bunny",
+      "answer": "EASTER",
       "row": 4,
-      "col": 2,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Ocean around India",
-      "answer": "INDIAN",
+      "clue": "Place where a river begins",
+      "answer": "SOURCE",
       "row": 1,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Country with Athens",
-      "answer": "GREECE",
-      "row": 11,
+      "clue": "Light rock full of small holes made by a volcano",
+      "answer": "PUMICE",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Thick soft covering placed on the floor in a room",
+      "answer": "CARPET",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A man on the day he gets married",
+      "answer": "GROOM",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Sturdy blue trousers made from denim",
+      "answer": "JEANS",
+      "row": 10,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A ball of ice and dust that has a glowing tail in space",
+      "answer": "COMET",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Silk worm thread",
-      "answer": "THREAD",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport played on ice with sticks",
-      "answer": "HOCKEY",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You sit on a tall one at a counter",
-      "answer": "STOOL",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Dig holes with this",
-      "answer": "SPADE",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Round coral island",
-      "answer": "RING",
-      "row": 1,
+      "clue": "The sixth month of the year",
+      "answer": "JUNE",
+      "row": 14,
       "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 18,
   "targetWords": 20,
   "difficulty": "hard"
 }

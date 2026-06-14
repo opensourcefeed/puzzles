@@ -4,74 +4,53 @@
   "title": "2026-08-21",
   "words": [
     {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
-      "row": 4,
+      "clue": "Feeling sure of yourself and your abilities",
+      "answer": "CONFIDENT",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Flash of light in storm",
-      "answer": "LIGHTNING",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Watering tool with a spray head",
-      "answer": "SPRINKLER",
+      "clue": "Feeling worried that something bad will happen",
+      "answer": "ANXIOUS",
       "row": 2,
-      "col": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Bones inside your body",
-      "answer": "SKELETON",
+      "clue": "Animal with a long neck that drinks from rivers",
+      "answer": "GIRAFFE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Large residence where a king or queen lives",
+      "answer": "PALACE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Large cupboard built into the wall for storing clothes",
+      "answer": "CLOSET",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Large boat that carries vehicles across water",
+      "answer": "FERRY",
       "row": 7,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Celebration of our planet",
-      "answer": "EARTHDAY",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Digital book reader",
-      "answer": "EREADER",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where athletes play",
-      "answer": "STADIUM",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A jar where you put spare change",
-      "answer": "PIGGY",
+      "clue": "The color of fresh cut grass",
+      "answer": "GREEN",
       "row": 0,
-      "col": 0,
+      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "Material inside a wire",
-      "answer": "METAL",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix paint with this stick",
-      "answer": "STIR",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
     }
   ],
   "dayNumber": 70

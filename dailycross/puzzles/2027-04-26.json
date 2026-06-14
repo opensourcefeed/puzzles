@@ -4,67 +4,74 @@
   "title": "2027-04-26",
   "words": [
     {
-      "clue": "Swim eye wear",
-      "answer": "GOGGLES",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Video recording device",
-      "answer": "CAMERA",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful garden bloom",
-      "answer": "FLOWER",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes in this",
-      "answer": "CLOSET",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
+      "clue": "One thousand years is called this",
+      "answer": "MILLENNIUM",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Arm bend point",
-      "answer": "ELBOW",
-      "row": 6,
+      "clue": "Jewelry worn around the wrist",
+      "answer": "BRACELET",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Day to plant trees",
-      "answer": "ARBOR",
-      "row": 7,
-      "col": 6,
+      "clue": "Small furry animal that lives in a cage and runs on a wheel",
+      "answer": "HAMSTER",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Washing hands is this",
-      "answer": "CLEAN",
-      "row": 0,
+      "clue": "Large farm vehicle used to pull plows and equipment",
+      "answer": "TRACTOR",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Garden insect that makes a web",
+      "answer": "SPIDER",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Handle tool used to tighten or loosen nuts and bolts",
+      "answer": "WRENCH",
+      "row": 9,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Wear this to protect clothes",
-      "answer": "APRON",
-      "row": 7,
+      "clue": "Building where Hindus go to worship",
+      "answer": "TEMPLE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Small tool used to peel the skin off vegetables",
+      "answer": "PEELER",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Farm building where horses are kept",
+      "answer": "STABLE",
+      "row": 8,
       "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "Long padded seat usually placed against a wall",
+      "answer": "BENCH",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 318

@@ -4,73 +4,59 @@
   "title": "2027-04-25",
   "words": [
     {
-      "clue": "Tall building in a city",
-      "answer": "SKYSCRAPER",
+      "clue": "Flat wide brush used to paint walls",
+      "answer": "PAINTBRUSH",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Winter holiday with candles and gift-giving in December",
+      "answer": "CHRISTMAS",
       "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Turning around and around on a central point",
+      "answer": "ROTATION",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The day on which you were born each year",
+      "answer": "BIRTHDAY",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with five sides and five corners",
+      "answer": "PENTAGON",
+      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Random acts of kindness day",
-      "answer": "KINDNESS",
-      "row": 3,
-      "col": 3,
+      "clue": "Flat cooked breakfast food made from batter",
+      "answer": "PANCAKE",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Drives a vehicle for hire",
-      "answer": "DRIVER",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Happy and bright",
-      "answer": "BRIGHT",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Giant rock that comes from space",
-      "answer": "METEOR",
+      "clue": "Long yellow curved fruit",
+      "answer": "BANANA",
       "row": 0,
-      "col": 10,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Buddha's birthday celebration",
-      "answer": "BUDDHA",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Running path around a field",
-      "answer": "TRACK",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Muscle building food",
-      "answer": "MEAT",
-      "row": 1,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Family blood line",
-      "answer": "LINE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Grows on top of your head",
-      "answer": "HAIR",
-      "row": 7,
-      "col": 10,
+      "clue": "Garment worn by girls or women that falls below the waist",
+      "answer": "DRESS",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     }
   ],

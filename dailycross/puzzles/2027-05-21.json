@@ -4,53 +4,74 @@
   "title": "2027-05-21",
   "words": [
     {
-      "clue": "Protects the community",
-      "answer": "POLICE",
-      "row": 3,
+      "clue": "Device worn on your head to listen to music or audio",
+      "answer": "HEADPHONES",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Silent aircraft with no engine",
-      "answer": "GLIDER",
+      "clue": "The day on which you were born each year",
+      "answer": "BIRTHDAY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Padded glove used to hold hot pots from the oven",
+      "answer": "OVENMITT",
       "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you glide on ice wearing blades on your feet",
+      "answer": "SKATING",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Vast flat open grassland in Africa",
+      "answer": "SAVANNA",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Fitness wristband",
-      "answer": "STRAP",
-      "row": 5,
-      "col": 4,
+      "clue": "Worn on both hands to keep them warm in winter",
+      "answer": "GLOVES",
+      "row": 2,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Spinning wind storm",
-      "answer": "WIND",
-      "row": 5,
+      "clue": "Money you earn every month from your job",
+      "answer": "SALARY",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Card with money on it",
-      "answer": "CARD",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
+      "clue": "Curved tool used to eat soup or stir drinks",
+      "answer": "SPOON",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
     },
     {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 0,
-      "col": 6,
+      "clue": "Large building where concerts and events are held",
+      "answer": "ARENA",
+      "row": 6,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Ocean crustacean that walks sideways and has two pincers",
+      "answer": "CRAB",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 343

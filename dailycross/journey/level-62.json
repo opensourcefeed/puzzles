@@ -4,70 +4,98 @@
   "title": "Level 62",
   "words": [
     {
-      "clue": "Builds with wood",
-      "answer": "CARPENTER",
-      "row": 1,
-      "col": 1,
+      "clue": "Round abrasive paper used to smooth rough wood",
+      "answer": "SANDPAPER",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Celebration of a marriage",
-      "answer": "WEDDING",
-      "row": 0,
+      "clue": "Vehicle that travels under the water",
+      "answer": "SUBMARINE",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Police building",
-      "answer": "STATION",
+      "clue": "Large building where sick people go to be treated",
+      "answer": "HOSPITAL",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Building with tanks where you can see fish and sea creatures",
+      "answer": "AQUARIUM",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A substance taken to treat or prevent illness",
+      "answer": "MEDICINE",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling uneasy",
-      "answer": "UNEASY",
-      "row": 6,
-      "col": 6,
+      "clue": "Extra money you must pay when you borrow from a bank",
+      "answer": "INTEREST",
+      "row": 10,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "You store clothes folded in this",
-      "answer": "DRAWER",
-      "row": 0,
+      "clue": "Large arena where sports teams play matches",
+      "answer": "STADIUM",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Growing bacteria in a lab",
-      "answer": "GROWTH",
-      "row": 0,
+      "clue": "Building where you can borrow books to read for free",
+      "answer": "LIBRARY",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Website where you watch and share videos",
+      "answer": "YOUTUBE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Black and white bear from China",
+      "answer": "PANDA",
+      "row": 2,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Mattresses have metal coils",
-      "answer": "SPRING",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
+      "clue": "Microsoft program used to create spreadsheets",
+      "answer": "EXCEL",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
     },
     {
-      "clue": "Country with Seoul",
-      "answer": "KOREA",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Earth's natural satellite",
-      "answer": "MOON",
-      "row": 2,
+      "clue": "Cool green herb used in toothpaste and chewing gum",
+      "answer": "MINT",
+      "row": 14,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Long brown plant that grows in underwater forests",
+      "answer": "KELP",
+      "row": 9,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 13,
   "targetWords": 13,
   "difficulty": "medium"
 }

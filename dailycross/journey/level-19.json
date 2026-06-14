@@ -4,49 +4,42 @@
   "title": "Level 19",
   "words": [
     {
-      "clue": "Designs buildings",
-      "answer": "ARCHITECT",
-      "row": 3,
+      "clue": "Arctic black and white swimming bird",
+      "answer": "PENGUIN",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Video sharing website",
-      "answer": "YOUTUBE",
+      "clue": "A coin that is worth twenty-five cents",
+      "answer": "QUARTER",
       "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Your sister's son",
-      "answer": "NEPHEW",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Warsaw",
-      "answer": "POLAND",
-      "row": 1,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The person who teaches you in class",
+      "answer": "TEACHER",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Celebration at the start of a new year on January 1",
+      "answer": "NEWYEAR",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Round Italian food",
-      "answer": "PIZZA",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
+      "clue": "Scandinavian country with the city of Oslo and fjords",
+      "answer": "NORWAY",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 5,
   "targetWords": 7,
   "difficulty": "easy"
 }

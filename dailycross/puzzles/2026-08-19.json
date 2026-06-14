@@ -4,67 +4,60 @@
   "title": "2026-08-19",
   "words": [
     {
-      "clue": "Country with London",
-      "answer": "ENGLAND",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Swim eye wear",
-      "answer": "GOGGLES",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Virtual reality headset",
-      "answer": "HEADSET",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Loop of water from sky to ground and back",
-      "answer": "CYCLE",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Smooth wood with a plane",
-      "answer": "PLANE",
+      "clue": "A powerful instrument used to see distant stars and planets",
+      "answer": "TELESCOPE",
       "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Bags are made from this woven material",
-      "answer": "CLOTH",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Serve food on this",
-      "answer": "PLATE",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Time the sun sets",
-      "answer": "DUSK",
-      "row": 6,
-      "col": 10,
+      "clue": "Person who inspects and repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Red swollen skin",
+      "clue": "European country with the city of Brussels",
+      "answer": "BELGIUM",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Red round salad vegetable",
+      "answer": "TOMATO",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Small purple or blue wildflower found in meadows",
+      "answer": "VIOLET",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Water in the form of a gas or steam",
+      "answer": "VAPOR",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Our group of planets, moons, and sun together",
+      "answer": "SOLAR",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A red raised mark on skin caused by rubbing or allergy",
       "answer": "RASH",
       "row": 0,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 68

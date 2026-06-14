@@ -4,105 +4,119 @@
   "title": "Level 84",
   "words": [
     {
-      "clue": "Words of a song",
-      "answer": "LYRICS",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Video recording device",
-      "answer": "CAMERA",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Blood vessel that carries blood away",
-      "answer": "ARTERY",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Invisible power that attracts metal",
-      "answer": "MAGNET",
+      "clue": "Island country known for kiwi birds and rugby",
+      "answer": "NEWZEALAND",
       "row": 7,
-      "col": 8,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Large flowing body of water",
-      "answer": "RIVER",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Windows are made of this clear material",
-      "answer": "GLASS",
+      "clue": "Building where Jews go to worship",
+      "answer": "SYNAGOGUE",
       "row": 4,
-      "col": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Tiny germ that causes colds",
-      "answer": "VIRUS",
-      "row": 1,
+      "clue": "Flash of electricity in the sky during a storm",
+      "answer": "LIGHTNING",
+      "row": 10,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Mexican dead day",
-      "answer": "SKULL",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Energy from the sun",
-      "answer": "SOLAR",
-      "row": 5,
-      "col": 0,
+      "clue": "Moving staircase found in malls and airports",
+      "answer": "ESCALATOR",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Country with Seoul",
-      "answer": "KOREA",
+      "clue": "Large gray animal with a trunk",
+      "answer": "ELEPHANT",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Warm pullover top worn in cold weather",
+      "answer": "SWEATER",
       "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Mineral in milk and cheese needed for strong bones",
+      "answer": "CALCIUM",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who organizes weddings and other events",
+      "answer": "PLANNER",
+      "row": 7,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Smart speaker from Google",
-      "answer": "NEST",
-      "row": 3,
-      "col": 3,
+      "clue": "Sport played with a racket and a small yellow ball",
+      "answer": "TENNIS",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Bright sky object at night",
-      "answer": "STAR",
-      "row": 1,
-      "col": 9,
+      "clue": "Long yellow curved fruit",
+      "answer": "BANANA",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Green color in leaves",
-      "answer": "STEM",
+      "clue": "Sixty seconds equal one of these",
+      "answer": "MINUTE",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Historical stone fortress where royalty once lived",
+      "answer": "CASTLE",
       "row": 1,
-      "col": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who performs songs on stage or records music",
+      "answer": "SINGER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a river begins",
+      "answer": "SOURCE",
+      "row": 1,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of fresh cut grass",
+      "answer": "GREEN",
+      "row": 12,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling full of happiness and smiling a lot",
+      "answer": "HAPPY",
+      "row": 10,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 16,
   "targetWords": 16,
   "difficulty": "medium"
 }

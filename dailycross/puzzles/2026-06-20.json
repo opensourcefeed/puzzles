@@ -4,67 +4,46 @@
   "title": "2026-06-20",
   "words": [
     {
-      "clue": "Place where sick people go",
-      "answer": "HOSPITAL",
-      "row": 5,
+      "clue": "Two-wheeled vehicle you pedal with your feet",
+      "answer": "BICYCLE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
+      "clue": "Animal with a shell that moves very slowly",
+      "answer": "TURTLE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Heavy headed tool used to bang nails into wood",
+      "answer": "HAMMER",
       "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Blend fruits in this",
-      "answer": "BLENDER",
-      "row": 9,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Virtual reality headset",
-      "answer": "HEADSET",
-      "row": 5,
+      "clue": "A safe building where you keep and save your money",
+      "answer": "BANK",
+      "row": 6,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Cook food in the oven in this",
-      "answer": "ROASTER",
+      "clue": "Money you owe to someone else that you must pay back",
+      "answer": "DEBT",
       "row": 2,
       "col": 2,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Bird that cannot fly",
-      "answer": "PENGUIN",
+      "clue": "Large plant with a wooden trunk and branches",
+      "answer": "TREE",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "direction": "down"
-    },
-    {
-      "clue": "Drives a vehicle for hire",
-      "answer": "DRIVER",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Very small blood vessel",
-      "answer": "TINY",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "May mom day",
-      "answer": "MOM",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
     }
   ],
   "dayNumber": 8

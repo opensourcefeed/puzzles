@@ -4,70 +4,63 @@
   "title": "Level 28",
   "words": [
     {
-      "clue": "Machine that processes information",
-      "answer": "COMPUTER",
+      "clue": "Brown drink made from roasted beans",
+      "answer": "COFFEE",
       "row": 2,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Part of the body that digests food",
-      "answer": "STOMACH",
-      "row": 1,
-      "col": 6,
+      "clue": "A coin that is worth five cents",
+      "answer": "NICKEL",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Place where you park your car",
-      "answer": "GARAGE",
-      "row": 5,
+      "clue": "Protective head cover worn in sports like cycling",
+      "answer": "HELMET",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat touchscreen device without a physical keyboard",
+      "answer": "TABLET",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Mix of red and blue",
-      "answer": "PURPLE",
+      "clue": "The regular repeating beat in music",
+      "answer": "RHYTHM",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny lights you see in the sky at night",
+      "answer": "STARS",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Tall bar stool used at a kitchen counter",
+      "answer": "STOOL",
       "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where Muslims pray",
-      "answer": "MOSQUE",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny germ that causes colds",
-      "answer": "VIRUS",
-      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Pipe instrument you blow into",
-      "answer": "FLUTE",
-      "row": 7,
+      "clue": "Tool used to check if a surface is perfectly flat",
+      "answer": "LEVEL",
+      "row": 4,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Snow color",
-      "answer": "WHITE",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Paper check",
-      "answer": "CHECK",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 8,
   "targetWords": 9,
   "difficulty": "easy"
 }

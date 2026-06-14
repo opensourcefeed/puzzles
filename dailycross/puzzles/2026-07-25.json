@@ -4,67 +4,74 @@
   "title": "2026-07-25",
   "words": [
     {
-      "clue": "Force that pulls things to Earth",
-      "answer": "GRAVITY",
+      "clue": "A person who studies stars and space",
+      "answer": "ASTRONOMER",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where you glide on ice wearing blades on your feet",
+      "answer": "SKATING",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who delivers your letters and packages to your home",
+      "answer": "MAILMAN",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Tallest animal on land",
+      "answer": "GIRAFFE",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Heavy headed tool used to bang nails into wood",
+      "answer": "HAMMER",
       "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Money given back to you when you return something to a shop",
+      "answer": "REFUND",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A large cloud of gas and dust between the stars",
+      "answer": "NEBULA",
+      "row": 6,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Lazy animal that hangs from trees in South America",
+      "answer": "SLOTH",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Area where river meets ocean",
-      "answer": "DELTA",
+      "clue": "Long metal fastener hammered into wood to join pieces",
+      "answer": "NAIL",
       "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Pointed weapon shape",
-      "answer": "ARROW",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You eat with this",
-      "answer": "MOUTH",
-      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A push or a pull on an object",
-      "answer": "FORCE",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Red swollen skin",
-      "answer": "RASH",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "What a tadpole becomes",
-      "answer": "FROG",
-      "row": 8,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Fern plant with feathery leaves",
-      "answer": "FERN",
+      "clue": "A natural underground chamber inside a rock",
+      "answer": "CAVE",
       "row": 1,
-      "col": 1,
-      "direction": "across"
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 43

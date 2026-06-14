@@ -4,91 +4,98 @@
   "title": "Level 76",
   "words": [
     {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
+      "clue": "South Asian country with the city of Dhaka",
+      "answer": "BANGLADESH",
       "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where firefighters work",
-      "answer": "FIREHOUSE",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Cardboard is thick paper",
-      "answer": "CARDBOARD",
-      "row": 11,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "What a caterpillar becomes",
-      "answer": "BUTTERFLY",
-      "row": 0,
-      "col": 3,
+      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
+      "answer": "AMBULANCE",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Secret code for security",
-      "answer": "PASSWORD",
-      "row": 13,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Your male sibling",
-      "answer": "BROTHER",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat mobile device without keyboard",
-      "answer": "TABLET",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 5,
+      "clue": "The day that came before today",
+      "answer": "YESTERDAY",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Ocean fish that can inflate",
-      "answer": "PUFFER",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Build houses with this hard block",
-      "answer": "BRICK",
-      "row": 5,
-      "col": 2,
+      "clue": "Physical activity that keeps your body strong and fit",
+      "answer": "EXERCISE",
+      "row": 11,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Day to plant trees",
-      "answer": "ARBOR",
-      "row": 10,
-      "col": 3,
+      "clue": "Building where you go to watch movies on a big screen",
+      "answer": "THEATER",
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Small bed for growing vegetables",
-      "answer": "PLOT",
-      "row": 2,
+      "clue": "The smallest and closest planet to the sun",
+      "answer": "MERCURY",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal with a long neck that drinks from rivers",
+      "answer": "GIRAFFE",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Brown vegetable that grows underground and is often fried",
+      "answer": "POTATO",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The gas that plants release which we breathe",
+      "answer": "OXYGEN",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where a river begins",
+      "answer": "SOURCE",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Long yellow curved fruit",
+      "answer": "BANANA",
+      "row": 3,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The bony part of your back going down the center",
+      "answer": "SPINE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Owning a small part of a company",
+      "answer": "SHARE",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 13,
   "targetWords": 15,
   "difficulty": "medium"
 }

@@ -4,126 +4,112 @@
   "title": "Level 106",
   "words": [
     {
-      "clue": "Digital watch with apps",
-      "answer": "SMARTWATCH",
+      "clue": "Person who writes computer programs",
+      "answer": "PROGRAMMER",
       "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Your child's child",
-      "answer": "GRANDCHILD",
+      "clue": "Small device you plug into a computer to store files",
+      "answer": "FLASHDRIVE",
       "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Four sides with right angles",
-      "answer": "RECTANGLE",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
-      "row": 11,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Your sister's son",
-      "answer": "NEPHEW",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Keep drinks cold in this",
-      "answer": "COOLER",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Large flowing body of water",
-      "answer": "RIVER",
-      "row": 6,
-      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Plant climbing frame",
-      "answer": "FENCE",
-      "row": 3,
+      "clue": "A large group of musicians playing instruments together",
+      "answer": "ORCHESTRA",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A very large area of land such as Asia or Africa",
+      "answer": "CONTINENT",
+      "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Mix of red and yellow",
-      "answer": "PEACH",
-      "row": 4,
-      "col": 9,
+      "clue": "Person who inspects and repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Loop of water from sky to ground and back",
-      "answer": "CYCLE",
-      "row": 0,
-      "col": 3,
+      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
+      "answer": "VITAMINC",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Australian animal that hops and has a pouch",
+      "answer": "KANGAROO",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Sweet brown dessert topping",
-      "answer": "FUDGE",
-      "row": 13,
-      "col": 6,
+      "clue": "Large flat horizontal surface of a room above your head",
+      "answer": "CEILING",
+      "row": 4,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "You sit on this with a back",
-      "answer": "CHAIR",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
+      "clue": "Salty food made from peanuts",
+      "answer": "PEANUTS",
+      "row": 1,
+      "col": 13,
+      "direction": "down"
     },
     {
-      "clue": "Calendar shows the date",
-      "answer": "TODAY",
-      "row": 9,
+      "clue": "Person who grows crops and raises animals for food",
+      "answer": "FARMER",
+      "row": 12,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Food storage room",
-      "answer": "ROOM",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Microsoft slides",
-      "answer": "SHOW",
-      "row": 11,
-      "col": 2,
+      "clue": "Game console made by Nintendo that you can also use on the go",
+      "answer": "SWITCH",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Machine that takes pictures of bones",
-      "answer": "XRAY",
-      "row": 1,
+      "clue": "A ball of ice and dust that has a glowing tail in space",
+      "answer": "COMET",
+      "row": 9,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Building where people stay overnight when traveling",
+      "answer": "HOTEL",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Flat measuring stick marked with centimeters and inches",
+      "answer": "RULER",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Evergreen tree with needles and cones",
+      "answer": "PINE",
+      "row": 10,
+      "col": 13,
+      "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 15,
   "targetWords": 19,
   "difficulty": "hard"
 }

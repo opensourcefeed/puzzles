@@ -4,66 +4,73 @@
   "title": "2026-08-16",
   "words": [
     {
-      "clue": "Catches fish for a living",
-      "answer": "FISHERMAN",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "December 25 celebration",
-      "answer": "CHRISTMAS",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Loud sound after lightning",
-      "answer": "THUNDER",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Mix of red and yellow",
-      "answer": "ORANGE",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Group of stars in the sky",
-      "answer": "GALAXY",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Buddha's birthday celebration",
-      "answer": "BUDDHA",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Material inside a wire",
-      "answer": "METAL",
+      "clue": "Bright blue-green color of tropical water",
+      "answer": "TURQUOISE",
       "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Flies airplanes",
-      "answer": "PILOT",
-      "row": 8,
-      "col": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Yellow vegetable on a cob",
-      "answer": "CORN",
+      "clue": "A flat shape with exactly three sides and three corners",
+      "answer": "TRIANGLE",
       "row": 3,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Animal that produces silk",
+      "answer": "SILKWORM",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Long yellow curved fruit",
+      "answer": "BANANA",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The words written in a song",
+      "answer": "LYRICS",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The eighth month of the year",
+      "answer": "AUGUST",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who cuts and styles men's hair",
+      "answer": "BARBER",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where Muslims go to pray",
+      "answer": "MOSQUE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The sixth planet from the sun, almost as large as Jupiter",
+      "answer": "SATURN",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where you row a boat on water",
+      "answer": "ROWING",
+      "row": 8,
+      "col": 7,
       "direction": "across"
     }
   ],

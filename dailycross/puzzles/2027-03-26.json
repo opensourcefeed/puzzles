@@ -4,53 +4,74 @@
   "title": "2027-03-26",
   "words": [
     {
-      "clue": "Cuts men's hair",
-      "answer": "BARBER",
-      "row": 1,
+      "clue": "Dark green leafy vegetable rich in iron",
+      "answer": "SPINACH",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Boil water in this",
-      "answer": "KETTLE",
+      "clue": "Machine that heats bread slices until they are golden brown",
+      "answer": "TOASTER",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Lift heavy objects",
-      "answer": "CRANE",
-      "row": 0,
+      "clue": "Building where you can borrow books to read for free",
+      "answer": "LIBRARY",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Red fruit that keeps doctor away",
-      "answer": "APPLE",
+      "clue": "Your sister's or brother's son",
+      "answer": "NEPHEW",
       "row": 5,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Sticky bandage",
-      "answer": "PATCH",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Madrid",
-      "answer": "SPAIN",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You smell with this",
-      "answer": "NOSE",
+      "clue": "Small piece of land surrounded by water",
+      "answer": "ISLAND",
       "row": 1,
-      "col": 0,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Large cupboard built into the wall for storing clothes",
+      "answer": "CLOSET",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Large box or trunk used to store blankets and items",
+      "answer": "CHEST",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "East African country with the city of Nairobi and safaris",
+      "answer": "KENYA",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The first light of day just before sunrise",
+      "answer": "DAWN",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Long-necked water bird that is usually white",
+      "answer": "SWAN",
+      "row": 7,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 287

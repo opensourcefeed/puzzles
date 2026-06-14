@@ -4,126 +4,98 @@
   "title": "Level 111",
   "words": [
     {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
+      "clue": "Person who writes computer programs",
+      "answer": "PROGRAMMER",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where firefighters work",
-      "answer": "FIREHOUSE",
+      "clue": "Flat wide brush used to paint walls",
+      "answer": "PAINTBRUSH",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A large group of musicians playing instruments together",
+      "answer": "ORCHESTRA",
       "row": 6,
-      "col": 7,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Secret code for security",
-      "answer": "PASSWORD",
-      "row": 13,
-      "col": 5,
+      "clue": "Small island city-state in Southeast Asia",
+      "answer": "SINGAPORE",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Small piece of land in water",
-      "answer": "ISLAND",
+      "clue": "Vehicle that travels under the water",
+      "answer": "SUBMARINE",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "What you must eat to keep your body working properly",
+      "answer": "NUTRITION",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "An object that allows electricity to flow through it",
+      "answer": "CONDUCTOR",
       "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Cut pizza with this",
-      "answer": "CUTTER",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a play is performed",
-      "answer": "STAGE",
-      "row": 10,
-      "col": 0,
+      "clue": "Holiday on October 31 when children wear costumes",
+      "answer": "HALLOWEEN",
+      "row": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Trains athletes",
-      "answer": "COACH",
-      "row": 11,
+      "clue": "A small pig-shaped container children save coins in",
+      "answer": "PIGGYBANK",
+      "row": 14,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Brightly colored garden flower",
-      "answer": "TULIP",
-      "row": 10,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Baby kangaroo pocket",
-      "answer": "POUCH",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Animal that sleeps in winter",
-      "answer": "SLEEP",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
+      "clue": "Light rock full of small holes made by a volcano",
+      "answer": "PUMICE",
       "row": 0,
-      "col": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Energy that travels in waves",
-      "answer": "SOUND",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
+      "clue": "Sweet fried ring-shaped pastry",
+      "answer": "DONUT",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
     },
     {
-      "clue": "Most populated country",
-      "answer": "CHINA",
+      "clue": "The colorful part of a plant that attracts bees and butterflies",
+      "answer": "PETAL",
       "row": 6,
-      "col": 11,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Pumps blood through your body",
-      "answer": "HEART",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Measures how much matter is in something",
-      "answer": "MASS",
-      "row": 7,
+      "clue": "Machine used to lift and move very heavy loads",
+      "answer": "CRANE",
+      "row": 5,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Large water vehicle",
-      "answer": "SHIP",
-      "row": 10,
-      "col": 5,
-      "direction": "down"
+      "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 13,
   "targetWords": 20,
   "difficulty": "hard"
 }

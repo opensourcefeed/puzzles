@@ -4,59 +4,66 @@
   "title": "2026-09-21",
   "words": [
     {
-      "clue": "Does experiments for a living",
-      "answer": "SCIENTIST",
-      "row": 3,
-      "col": 0,
+      "clue": "Electronic machine that processes information and runs programs",
+      "answer": "COMPUTER",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Flat high area of land",
-      "answer": "PLATEAU",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Plant used for flavoring food",
-      "answer": "BASIL",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Fine dish material",
-      "answer": "CHINA",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Path electricity flows",
-      "answer": "WIRE",
-      "row": 0,
+      "clue": "Metal plates you crash together to make a loud sound",
+      "answer": "CYMBALS",
+      "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You walk on these",
-      "answer": "FEET",
+      "clue": "Ocean creature with eight arms that can squirt ink",
+      "answer": "OCTOPUS",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Round fruit that is green or red",
-      "answer": "PEAR",
-      "row": 1,
+      "clue": "Ten years is called this",
+      "answer": "DECADE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Striped big cat from Asia",
+      "answer": "TIGER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper you use to wrap your books",
+      "answer": "COVER",
+      "row": 0,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Rock formed by fire",
-      "answer": "FIRE",
-      "row": 4,
-      "col": 7,
+      "clue": "Soft fabric worn on your feet inside shoes",
+      "answer": "SOCKS",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle that runs on metal rails and carries passengers",
+      "answer": "TRAIN",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Sour yellow citrus fruit",
+      "answer": "LEMON",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     }
   ],

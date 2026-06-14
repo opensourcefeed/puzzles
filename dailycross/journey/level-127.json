@@ -4,112 +4,98 @@
   "title": "Level 127",
   "words": [
     {
-      "clue": "Game with hoop and net",
-      "answer": "BASKETBALL",
-      "row": 6,
-      "col": 1,
+      "clue": "Device worn on your head to listen to music or audio",
+      "answer": "HEADPHONES",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Arrowhead shape",
-      "answer": "DIAMOND",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Coin worth 100 cents",
-      "answer": "QUARTER",
+      "clue": "Book with words and their meanings",
+      "answer": "DICTIONARY",
       "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Place where Christians pray",
-      "answer": "CHURCH",
-      "row": 3,
-      "col": 4,
+      "clue": "Room where you do science experiments",
+      "answer": "LABORATORY",
+      "row": 10,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Silent aircraft with no engine",
-      "answer": "GLIDER",
-      "row": 5,
+      "clue": "Water plant with large flat leaves and beautiful flowers",
+      "answer": "WATERLILY",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Underground train system",
-      "answer": "SUBWAY",
-      "row": 6,
+      "clue": "The most southerly point of Earth covered in ice",
+      "answer": "SOUTHPOLE",
+      "row": 5,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful garden bloom",
-      "answer": "FLOWER",
-      "row": 9,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cut wires with this",
-      "answer": "PLIERS",
-      "row": 8,
-      "col": 1,
+      "clue": "Creamy dip made from mashed avocado",
+      "answer": "GUACAMOLE",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Gentle movement of air",
-      "answer": "BREEZE",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A push or a pull on an object",
-      "answer": "FORCE",
-      "row": 0,
-      "col": 4,
+      "clue": "Balls, ropes and hoops used in PE class",
+      "answer": "EQUIPMENT",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Dig holes with this",
-      "answer": "SPADE",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Group of singers together",
-      "answer": "CHOIR",
+      "clue": "Long dark green vegetable related to the melon family",
+      "answer": "CUCUMBER",
       "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Running path around a field",
-      "answer": "TRACK",
-      "row": 10,
-      "col": 9,
+      "clue": "Your tummy where food is digested",
+      "answer": "STOMACH",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "How much matter is packed into an object",
+      "answer": "DENSITY",
+      "row": 12,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that carries goods",
-      "answer": "TRUCK",
-      "row": 7,
-      "col": 12,
+      "clue": "Tight-fitting cap that covers the whole head",
+      "answer": "BEANIE",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Money plan",
-      "answer": "PLAN",
-      "row": 2,
-      "col": 2,
+      "clue": "Money you earn every month from your job",
+      "answer": "SALARY",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where a family lives",
+      "answer": "HOUSE",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 13,
   "targetWords": 22,
   "difficulty": "hard"
 }

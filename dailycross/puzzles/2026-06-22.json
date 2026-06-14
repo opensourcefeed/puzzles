@@ -4,66 +4,73 @@
   "title": "2026-06-22",
   "words": [
     {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 5,
+      "clue": "Flat wide brush used to paint walls",
+      "answer": "PAINTBRUSH",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A watch with a screen that shows apps and notifications",
+      "answer": "SMARTWATCH",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Celebration at the start of a new year on January 1",
+      "answer": "NEWYEAR",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A narrow strip of land connecting two larger land masses",
+      "answer": "ISTHMUS",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Shellfish that produces a shiny pearl inside its shell",
+      "answer": "OYSTER",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Shiny gray color of a coin",
+      "answer": "SILVER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Prayer place for Jews",
-      "answer": "TEMPLE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you get ice cream",
-      "answer": "PARLOR",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful part of a plant that makes seeds",
-      "answer": "PETAL",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Sticky bandage",
-      "answer": "PATCH",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Grass color",
-      "answer": "GREEN",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Water vapor becomes liquid",
-      "answer": "RAIN",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Light bulb wire",
-      "answer": "WIRE",
+      "clue": "Building where a family lives",
+      "answer": "HOUSE",
       "row": 9,
-      "col": 2,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Day of atonement",
-      "answer": "FAST",
+      "clue": "Long bones inside your arms",
+      "answer": "BONES",
       "row": 3,
-      "col": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Earth's natural satellite that orbits us every month",
+      "answer": "MOON",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that slides on snow pulled by dogs or horses",
+      "answer": "SLED",
+      "row": 6,
+      "col": 2,
       "direction": "down"
     }
   ],

@@ -4,98 +4,119 @@
   "title": "Level 107",
   "words": [
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Long green garden vegetable",
-      "answer": "CUCUMBER",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "September celebration of workers",
-      "answer": "LABORDAY",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Police building",
-      "answer": "STATION",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Spinning on an axis",
-      "answer": "ROTATE",
+      "clue": "Heavy cylinder rolled over dough to flatten it",
+      "answer": "ROLLINGPIN",
       "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large area of land such as Asia or Africa",
+      "answer": "CONTINENT",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Holiday on October 31 when children wear costumes",
+      "answer": "HALLOWEEN",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Large farm vehicle used to pull plows and equipment",
+      "answer": "TRACTOR",
+      "row": 13,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Sport played on ice with sticks",
-      "answer": "HOCKEY",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Invisible power that attracts metal",
-      "answer": "MAGNET",
-      "row": 3,
-      "col": 12,
+      "clue": "Feeling positive that good things will happen",
+      "answer": "HOPEFUL",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
+      "clue": "Subject where you read and write stories and essays",
+      "answer": "ENGLISH",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
     },
     {
-      "clue": "Feeling very tired",
-      "answer": "TIRED",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very glad",
-      "answer": "HAPPY",
+      "clue": "The operating system used on most Android phones and Windows computers",
+      "answer": "ANDROID",
       "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Pipe instrument you blow into",
-      "answer": "FLUTE",
-      "row": 6,
+      "clue": "Building where you go to watch movies on a big screen",
+      "answer": "THEATER",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The person who teaches you in class",
+      "answer": "TEACHER",
+      "row": 4,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The largest country in the world by area",
+      "answer": "RUSSIA",
+      "row": 5,
+      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "Two children born at the same time",
-      "answer": "TWIN",
+      "clue": "Difficulty breathing smoothly and clearly",
+      "answer": "ASTHMA",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "European country with the city of Athens",
+      "answer": "GREECE",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who reads the news on television",
+      "answer": "ANCHOR",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Scandinavian country with the city of Stockholm",
+      "answer": "SWEDEN",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country famous for the Colosseum, pasta and pizza",
+      "answer": "ITALY",
       "row": 0,
       "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A push or pull that makes objects move or stop",
+      "answer": "FORCE",
+      "row": 1,
+      "col": 13,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 16,
   "targetWords": 19,
   "difficulty": "hard"
 }

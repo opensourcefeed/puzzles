@@ -4,74 +4,60 @@
   "title": "2027-01-29",
   "words": [
     {
-      "clue": "Country with Jakarta",
-      "answer": "INDONESIA",
-      "row": 5,
+      "clue": "Small round fish that puffs up when threatened",
+      "answer": "PUFFERFISH",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle that puts out fires with water",
+      "answer": "FIRETRUCK",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Long green vegetable related to the pumpkin",
+      "answer": "ZUCCHINI",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you surf waves in the ocean on a board",
+      "answer": "SURFING",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Tall chest with a mirror on top used for storing clothes",
+      "answer": "DRESSER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Island country in East Asia known for technology and night markets",
+      "answer": "TAIWAN",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Loud sound after lightning",
-      "answer": "THUNDER",
-      "row": 2,
+      "clue": "Brown drink made from roasted beans",
+      "answer": "COFFEE",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Shoes are made of this animal skin",
-      "answer": "LEATHER",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Lives more than one year",
-      "answer": "YEARLY",
-      "row": 7,
+      "clue": "A deep cut on the skin that bleeds and needs treatment",
+      "answer": "WOUND",
+      "row": 0,
       "col": 5,
       "direction": "across"
-    },
-    {
-      "clue": "A small cut on your skin",
-      "answer": "SCRAPE",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport where you throw a long stick",
-      "answer": "THROW",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Unit of digital information",
-      "answer": "BYTE",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Mexican Day of the Dead",
-      "answer": "DIA",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
     }
   ],
   "dayNumber": 231

@@ -4,67 +4,74 @@
   "title": "2026-12-29",
   "words": [
     {
-      "clue": "Head-worn audio device",
-      "answer": "HEADPHONES",
-      "row": 2,
+      "clue": "Dense tropical forest near the equator with heavy rain",
+      "answer": "RAINFOREST",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Tight stretchy pants worn for sports",
+      "answer": "LEGGINGS",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Box used to carry a packed lunch to school",
+      "answer": "LUNCHBOX",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewelry worn around the wrist",
+      "answer": "BRACELET",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Computer virus protection",
-      "answer": "ANTIVIRUS",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Cook food in the oven in this",
-      "answer": "ROASTER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Three babies born together",
-      "answer": "TRIPLE",
-      "row": 4,
-      "col": 5,
+      "clue": "Long green vegetable related to the pumpkin",
+      "answer": "ZUCCHINI",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Grassy African plain",
-      "answer": "GRASS",
+      "clue": "The early water stage of a frog before it grows legs",
+      "answer": "TADPOLE",
       "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall chest with a mirror on top used for storing clothes",
+      "answer": "DRESSER",
+      "row": 13,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Sport where you throw a long stick",
-      "answer": "THROW",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
+      "clue": "Colorful part of a plant that attracts bees",
+      "answer": "FLOWER",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "Small plant with a soft stem",
-      "answer": "HERB",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Temp care for child",
-      "answer": "CARE",
+      "clue": "Protective head cover worn in sports like cycling",
+      "answer": "HELMET",
       "row": 0,
-      "col": 0,
-      "direction": "across"
+      "col": 7,
+      "direction": "down"
     },
     {
-      "clue": "Ocean animal with pincers",
-      "answer": "CRAB",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
+      "clue": "The area along the edge of the ocean where waves crash",
+      "answer": "SHORE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 200

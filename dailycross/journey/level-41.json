@@ -4,56 +4,70 @@
   "title": "Level 41",
   "words": [
     {
-      "clue": "Large group of musicians",
-      "answer": "ORCHESTRA",
-      "row": 3,
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Light purple flower color",
-      "answer": "LAVENDER",
+      "clue": "Money that the government takes from people's wages",
+      "answer": "INCOMETAX",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Small blue round fruit used in muffins",
+      "answer": "BLUEBERRY",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest and closest planet to the sun",
+      "answer": "MERCURY",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Colored pencils used in art class",
+      "answer": "MARKERS",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Makes pots out of clay",
-      "answer": "POTTER",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
+      "clue": "Tool used to spray paint evenly over a surface",
+      "answer": "SPRAYER",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "Dig holes with this",
-      "answer": "SPADE",
-      "row": 1,
+      "clue": "Furry animal with a flat tail that builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Feeling not interested at all",
-      "answer": "BORED",
-      "row": 2,
-      "col": 0,
+      "clue": "Person who shapes clay into pottery and bowls",
+      "answer": "POTTER",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Striped horse-like animal",
-      "answer": "ZEBRA",
-      "row": 6,
+      "clue": "Owning a small part of a company",
+      "answer": "SHARE",
+      "row": 10,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Change from solid to gas",
-      "answer": "BOIL",
-      "row": 0,
-      "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 9,
   "targetWords": 10,
   "difficulty": "medium"
 }

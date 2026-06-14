@@ -4,112 +4,140 @@
   "title": "Level 145",
   "words": [
     {
-      "clue": "Juicy summer fruit with seeds",
-      "answer": "WATERMELON",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean animal with a hard shell",
-      "answer": "LOBSTER",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Digital book reader",
-      "answer": "EREADER",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Delivers mail to homes",
-      "answer": "MAILMAN",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Writes books",
-      "answer": "AUTHOR",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of the Amazon River",
-      "answer": "BRAZIL",
-      "row": 4,
+      "clue": "Book with words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 7,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The complete path of water from ocean to sky and back",
+      "answer": "WATERCYCLE",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Drives a vehicle for hire",
-      "answer": "DRIVER",
+      "clue": "Person who studies marine biology and ocean life",
+      "answer": "BIOLOGIST",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat cooked breakfast food made from batter",
+      "answer": "PANCAKE",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Mineral in milk and cheese needed for strong bones",
+      "answer": "CALCIUM",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Large arena where sports teams play matches",
+      "answer": "STADIUM",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Wide flat tool used to dig and move snow or earth",
+      "answer": "SHOVEL",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Heavy headed tool used to bang nails into wood",
+      "answer": "HAMMER",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Worn on both hands to keep them warm in winter",
+      "answer": "GLOVES",
       "row": 8,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Strong bone mineral",
-      "answer": "MAGNET",
-      "row": 2,
-      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Silk worm thread",
-      "answer": "THREAD",
-      "row": 3,
-      "col": 0,
+      "clue": "Stringed instrument with six strings you strum or pluck",
+      "answer": "GUITAR",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling like you want company because you have no one to talk to",
+      "answer": "LONELY",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The sixth planet from the sun, almost as large as Jupiter",
+      "answer": "SATURN",
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Makes medicine",
-      "answer": "MAKER",
-      "row": 7,
+      "clue": "Wire tool used to beat eggs into a smooth mixture",
+      "answer": "WHISK",
+      "row": 8,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Sport where you throw a long stick",
-      "answer": "THROW",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Snow color",
-      "answer": "WHITE",
+      "clue": "Black and white bear from China",
+      "answer": "PANDA",
       "row": 0,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Music speed",
-      "answer": "BEAT",
-      "row": 10,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Full of energy feeling",
-      "answer": "LIVE",
-      "row": 11,
+      "clue": "The color of fresh cut grass",
+      "answer": "GREEN",
+      "row": 2,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Neat row of low bushes forming a border or boundary",
+      "answer": "HEDGE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling worn out after a long day of activity",
+      "answer": "TIRED",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "These are the white hard parts inside your mouth",
+      "answer": "TEETH",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Physical money in the form of coins and notes",
+      "answer": "CASH",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 19,
   "targetWords": 24,
   "difficulty": "hard"
 }

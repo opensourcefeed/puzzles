@@ -4,53 +4,74 @@
   "title": "2026-11-29",
   "words": [
     {
-      "clue": "Cleans schools and offices",
-      "answer": "JANITOR",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where airplanes land",
-      "answer": "AIRPORT",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Horse-drawn carriage",
-      "answer": "WAGON",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Space rock that hits Earth",
-      "answer": "ROCK",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean plant that grows in forests",
-      "answer": "KELP",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Ice cream shop",
-      "answer": "SHOP",
-      "row": 3,
+      "clue": "Insect with beautiful colored wings",
+      "answer": "BUTTERFLY",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Boat parking place",
-      "answer": "DOCK",
-      "row": 0,
-      "col": 6,
+      "clue": "Green salad vegetable that is long and crunchy",
+      "answer": "CUCUMBER",
+      "row": 5,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Long green vegetable related to the pumpkin",
+      "answer": "ZUCCHINI",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country in the Middle East where Jerusalem is located",
+      "answer": "ISRAEL",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Brown drink made from roasted beans",
+      "answer": "COFFEE",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Black and white bear from China",
+      "answer": "PANDA",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A ring-shaped coral island with a lagoon in the middle",
+      "answer": "ATOLL",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Narrow spade used to dig planting holes in a garden",
+      "answer": "SPADE",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Wire tool used to beat eggs into a smooth mixture",
+      "answer": "WHISK",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Long handled garden tool with prongs to break up soil",
+      "answer": "FORK",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 170

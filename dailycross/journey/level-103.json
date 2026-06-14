@@ -4,91 +4,98 @@
   "title": "Level 103",
   "words": [
     {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 5,
+      "clue": "Balls, ropes and hoops used in PE class",
+      "answer": "EQUIPMENT",
+      "row": 6,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Country with Jakarta",
-      "answer": "INDONESIA",
-      "row": 3,
+      "clue": "Person who leads tourists around historical sites",
+      "answer": "TOURGUIDE",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who creates new devices or ways of doing things",
+      "answer": "INVENTOR",
+      "row": 5,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Cardboard is thick paper",
-      "answer": "CARDBOARD",
-      "row": 3,
-      "col": 6,
+      "clue": "A substance taken to treat or prevent illness",
+      "answer": "MEDICINE",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Place where buses arrive",
-      "answer": "TERMINAL",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut paper with this",
-      "answer": "SCISSORS",
+      "clue": "A reduction in price when something goes on sale",
+      "answer": "DISCOUNT",
       "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Subject about the past",
-      "answer": "HISTORY",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Tires are made from this bouncy material",
-      "answer": "RUBBER",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for watches",
-      "answer": "SWISS",
-      "row": 3,
+      "clue": "Tall chest with a mirror on top used for storing clothes",
+      "answer": "DRESSER",
+      "row": 8,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Middle of day",
-      "answer": "NOON",
-      "row": 10,
-      "col": 0,
+      "clue": "Your tummy where food is digested",
+      "answer": "STOMACH",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Microsoft slides",
-      "answer": "SHOW",
+      "clue": "Giant ocean wave caused by underwater earthquakes",
+      "answer": "TSUNAMI",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Long period of very little or no rainfall",
+      "answer": "DROUGHT",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A hot dry region with very little rainfall and few plants",
+      "answer": "DESERT",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Salty snack that comes in a bag and is very crunchy",
+      "answer": "CHIPS",
       "row": 0,
-      "col": 9,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The fan-shaped area where a river spreads out before the sea",
+      "answer": "DELTA",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 13,
   "targetWords": 19,
   "difficulty": "hard"
 }

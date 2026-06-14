@@ -4,74 +4,67 @@
   "title": "2027-03-04",
   "words": [
     {
-      "clue": "Very tall natural land feature",
-      "answer": "MOUNTAIN",
+      "clue": "The day that came before today",
+      "answer": "YESTERDAY",
       "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you buy food",
-      "answer": "GROCERY",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling full of hope",
-      "answer": "HOPEFUL",
-      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Bandage that sticks to skin",
-      "answer": "BANDAID",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Blend fruits in this",
-      "answer": "BLENDER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Makes computer programs",
-      "answer": "CODER",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where justice is decided",
-      "answer": "COURT",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Your mother's sister",
-      "answer": "AUNT",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Middle of day",
-      "answer": "NOON",
+      "clue": "The imaginary line around the middle of the Earth",
+      "answer": "EQUATOR",
       "row": 3,
-      "col": 9,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Shiny gray color of a coin",
+      "answer": "SILVER",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where Hindus go to worship",
+      "answer": "TEMPLE",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Only child description",
-      "answer": "SOLO",
+      "clue": "Flat open land covered with grass",
+      "answer": "MEADOW",
       "row": 1,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful reef structure made by tiny ocean animals",
+      "answer": "CORAL",
+      "row": 5,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Feeling relaxed and peaceful with no worries",
+      "answer": "CALM",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Large low-sounding brass instrument held on your lap",
+      "answer": "TUBA",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Money you earn for each hour of work",
+      "answer": "WAGE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 265

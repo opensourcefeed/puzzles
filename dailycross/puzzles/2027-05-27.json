@@ -4,74 +4,53 @@
   "title": "2027-05-27",
   "words": [
     {
-      "clue": "Works with wood to make furniture",
-      "answer": "WOODWORKER",
-      "row": 2,
+      "clue": "A powerful instrument used to see distant stars and planets",
+      "answer": "TELESCOPE",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Random acts of kindness day",
-      "answer": "KINDNESS",
-      "row": 2,
-      "col": 7,
+      "clue": "Box that takes people up and down in a building",
+      "answer": "ELEVATOR",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Place where you see art",
-      "answer": "MUSEUM",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Helps sick people at hospital",
-      "answer": "DOCTOR",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Pair of married people",
-      "answer": "COUPLE",
-      "row": 1,
+      "clue": "Person who delivers your letters and packages to your home",
+      "answer": "MAILMAN",
+      "row": 4,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Medicine for pain",
-      "answer": "PILL",
-      "row": 5,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Prices going up",
-      "answer": "RISE",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Time the sun rises",
-      "answer": "DAWN",
+      "clue": "The day that comes after Monday",
+      "answer": "TUESDAY",
       "row": 0,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Sleeping helps you rest and recover",
-      "answer": "REST",
+      "clue": "Large residence where a king or queen lives",
+      "answer": "PALACE",
       "row": 2,
-      "col": 9,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Small mountain country between India and China",
+      "answer": "NEPAL",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Only child description",
-      "answer": "SOLO",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
+      "clue": "Water that falls from clouds",
+      "answer": "RAIN",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 349

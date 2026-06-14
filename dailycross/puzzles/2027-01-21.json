@@ -4,67 +4,67 @@
   "title": "2027-01-21",
   "words": [
     {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
+      "clue": "Person who studies rocks and the history of the Earth",
+      "answer": "GEOLOGIST",
       "row": 5,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Manages money in a bank",
-      "answer": "BANKER",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewish lights festival",
-      "answer": "LIGHTS",
-      "row": 0,
+      "clue": "Your son's son",
+      "answer": "GRANDSON",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Mix cake batter with this",
-      "answer": "MIXER",
-      "row": 5,
-      "col": 2,
+      "clue": "Round green vegetable that grows on a vine",
+      "answer": "ZUCCHINI",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
+      "answer": "VITAMINC",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Plant climbing frame",
-      "answer": "FENCE",
+      "clue": "Long wardrobe cabinet for hanging clothes",
+      "answer": "WARDROBE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
+      "answer": "GINGER",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Microsoft program used to create spreadsheets",
+      "answer": "EXCEL",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Forcing air from your lungs through your mouth",
+      "answer": "COUGH",
       "row": 8,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "What an egg becomes",
-      "answer": "CHICK",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Cloud of gas in space",
-      "answer": "CLOUD",
-      "row": 5,
-      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Fragrant white spring flower",
-      "answer": "LILY",
-      "row": 1,
-      "col": 5,
+      "clue": "A low wet land often covered with water",
+      "answer": "SWAMP",
+      "row": 0,
+      "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "Plant that climbs up trellises",
-      "answer": "VINE",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
     }
   ],
   "dayNumber": 223

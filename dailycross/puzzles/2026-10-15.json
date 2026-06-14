@@ -4,53 +4,60 @@
   "title": "2026-10-15",
   "words": [
     {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Jewish lights festival",
-      "answer": "LIGHTS",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Goes around something",
-      "answer": "ORBIT",
-      "row": 4,
+      "clue": "A large area of land belonging to one country",
+      "answer": "TERRITORY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Paper check",
-      "answer": "CHECK",
+      "clue": "Person who designs buildings and plans how they will be built",
+      "answer": "ARCHITECT",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who studies rocks and the history of the Earth",
+      "answer": "GEOLOGIST",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Building with tanks where you can see fish and sea creatures",
+      "answer": "AQUARIUM",
       "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Cloth to stop bleeding",
-      "answer": "CLOTH",
-      "row": 4,
-      "col": 7,
+      "clue": "All the bones that support your body together",
+      "answer": "SKELETON",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Large arena where sports teams play matches",
+      "answer": "STADIUM",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Ice crystals falling from sky",
-      "answer": "SNOW",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
+      "clue": "A device worn on your face to help you see clearly",
+      "answer": "GLASSES",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "Worried about something",
-      "answer": "FEAR",
-      "row": 1,
+      "clue": "Feeling like you want company because you have no one to talk to",
+      "answer": "LONELY",
+      "row": 3,
       "col": 1,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 125

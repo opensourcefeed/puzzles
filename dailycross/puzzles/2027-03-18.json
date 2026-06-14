@@ -4,74 +4,67 @@
   "title": "2027-03-18",
   "words": [
     {
-      "clue": "Top part of your arm",
-      "answer": "SHOULDER",
-      "row": 4,
-      "col": 0,
+      "clue": "Animal that changes color to hide from enemies",
+      "answer": "CHAMELEON",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "You hang a mirror on this",
-      "answer": "DRESSER",
+      "clue": "Long wardrobe cabinet for hanging clothes",
+      "answer": "WARDROBE",
       "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Gentle movement of air",
-      "answer": "BREEZE",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Chocolate color",
-      "answer": "BROWN",
-      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Fingerprint on a surface",
-      "answer": "PRINT",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 0,
-      "col": 4,
+      "clue": "Long dark green vegetable related to the melon family",
+      "answer": "CUCUMBER",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Card with money on it",
-      "answer": "CARD",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to celebrate science",
-      "answer": "STEM",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Tree with needles",
-      "answer": "PINE",
-      "row": 1,
+      "clue": "A mountain that can erupt with lava and ash",
+      "answer": "VOLCANO",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Place where you swim",
-      "answer": "POOL",
-      "row": 3,
-      "col": 2,
+      "clue": "Sport where you ride a two-wheeled vehicle on a track",
+      "answer": "CYCLING",
+      "row": 0,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "The last day of the school week",
+      "answer": "FRIDAY",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Thick soft covering placed on the floor in a room",
+      "answer": "CARPET",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Green soft plant that covers lawns",
+      "answer": "GRASS",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of your face below your nose",
+      "answer": "CHIN",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 279

@@ -4,46 +4,46 @@
   "title": "Level 12",
   "words": [
     {
-      "clue": "Country with Singapore city",
-      "answer": "SINGAPORE",
-      "row": 2,
+      "clue": "A brother or sister",
+      "answer": "SIBLING",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Closest planet to the sun",
-      "answer": "MERCURY",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "You store clothes in this",
-      "answer": "CLOSET",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean fish that can inflate",
-      "answer": "PUFFER",
-      "row": 3,
+      "clue": "Covered area attached to a house where you park your car",
+      "answer": "GARAGE",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Fingerprint on a surface",
-      "answer": "PRINT",
+      "clue": "Soft square used to wipe and clean surfaces and dishes",
+      "answer": "SPONGE",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Thick soft covering placed on the floor in a room",
+      "answer": "CARPET",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Colorful reef structure made by tiny ocean animals",
+      "answer": "CORAL",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "White fluffy shapes floating in the sky",
+      "answer": "CLOUD",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "wordCount": 6,

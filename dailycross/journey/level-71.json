@@ -4,84 +4,91 @@
   "title": "Level 71",
   "words": [
     {
-      "clue": "Make coffee in this",
-      "answer": "COFFEEPOT",
-      "row": 4,
-      "col": 3,
+      "clue": "Southeast Asian country with the city of Bangkok",
+      "answer": "THAILAND",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Loud sound after lightning",
-      "answer": "THUNDER",
-      "row": 4,
-      "col": 11,
+      "clue": "Very heavy rainfall in a short amount of time",
+      "answer": "DOWNPOUR",
+      "row": 7,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Celebration of a new year",
-      "answer": "NEWYEAR",
+      "clue": "You use these to cut paper in class",
+      "answer": "SCISSORS",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Green tree vegetable that looks like tiny trees",
+      "answer": "BROCCOLI",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Room where you borrow books to read",
+      "answer": "LIBRARY",
       "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
+      "clue": "Sport of racing on foot as fast as you can",
+      "answer": "RUNNING",
       "row": 4,
-      "col": 9,
-      "direction": "down"
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "Grows crops on a farm",
-      "answer": "FARMER",
-      "row": 9,
+      "clue": "The eighth and farthest planet from the sun",
+      "answer": "NEPTUNE",
+      "row": 13,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Island country in Asia",
-      "answer": "TAIWAN",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Three babies born together",
-      "answer": "TRIPLE",
-      "row": 6,
+      "clue": "Rock that comes from space and burns as it falls",
+      "answer": "METEOR",
+      "row": 5,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Crunchy green vegetable with stalks",
-      "answer": "CELERY",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
+      "clue": "Historical stone fortress where royalty once lived",
+      "answer": "CASTLE",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
     },
     {
-      "clue": "Storage space under the roof",
-      "answer": "ATTIC",
+      "clue": "Hot dry area with very little rain",
+      "answer": "DESERT",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Punch holes in paper",
-      "answer": "PUNCH",
-      "row": 6,
-      "col": 10,
+      "clue": "Feeling worried about what will happen next",
+      "answer": "UNEASY",
+      "row": 1,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Sweet liquid that flowers make to attract bees",
+      "answer": "NECTAR",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 12,
   "targetWords": 14,
   "difficulty": "medium"
 }

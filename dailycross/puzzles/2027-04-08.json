@@ -4,73 +4,52 @@
   "title": "2027-04-08",
   "words": [
     {
-      "clue": "Holds papers together",
-      "answer": "STAPLER",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Helps sick people at hospital",
-      "answer": "DOCTOR",
+      "clue": "Room where you do science experiments",
+      "answer": "LABORATORY",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Jewish lights festival",
-      "answer": "LIGHTS",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Wraps around neck for warmth",
-      "answer": "SCARF",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Read across America day",
-      "answer": "READ",
-      "row": 8,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Book reading day",
-      "answer": "BOOK",
+      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
+      "answer": "AMBULANCE",
       "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful arc of light in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Leather comes from animal skin",
-      "answer": "HIDE",
-      "row": 11,
-      "col": 5,
+      "clue": "The tenth month of the year",
+      "answer": "OCTOBER",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A hot dry region with very little rainfall and few plants",
+      "answer": "DESERT",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling deep sadness and missing someone very much",
+      "answer": "GRIEF",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of fresh snow",
+      "answer": "WHITE",
+      "row": 9,
+      "col": 3,
       "direction": "across"
     }
   ],

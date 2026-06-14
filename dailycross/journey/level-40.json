@@ -4,77 +4,70 @@
   "title": "Level 40",
   "words": [
     {
-      "clue": "Does experiments for a living",
-      "answer": "SCIENTIST",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Strong bone mineral",
-      "answer": "MAGNET",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Ball shape in 3D",
-      "answer": "SPHERE",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Mattresses have metal coils",
-      "answer": "SPRING",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Test electrical current",
-      "answer": "METER",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Press garlic with this",
-      "answer": "PRESS",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Types of money",
-      "answer": "COINS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Large ocean fish with sharp teeth",
-      "answer": "SHARK",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Grandparents day",
-      "answer": "ELVES",
-      "row": 6,
+      "clue": "Small round fish that puffs up when threatened",
+      "answer": "PUFFERFISH",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Turn tight bolts",
-      "answer": "GRIP",
+      "clue": "Money given to a charity or cause",
+      "answer": "DONATION",
       "row": 0,
-      "col": 10,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you move through water with your arms and legs",
+      "answer": "SWIMMING",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Special song played to honor a country",
+      "answer": "ANTHEM",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport played with a racket and a small yellow ball",
+      "answer": "TENNIS",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Cloth or paper used to wipe your mouth during a meal",
+      "answer": "NAPKIN",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Organ in your belly that helps digest food",
+      "answer": "LIVER",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny lights you see in the sky at night",
+      "answer": "STARS",
+      "row": 7,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 9,
   "targetWords": 10,
   "difficulty": "medium"
 }

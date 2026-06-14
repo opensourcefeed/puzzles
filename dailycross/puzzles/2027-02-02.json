@@ -4,67 +4,67 @@
   "title": "2027-02-02",
   "words": [
     {
-      "clue": "Large landmass on Earth",
-      "answer": "CONTINENT",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Teenager 13-19 years old",
-      "answer": "TEENAGER",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Light purple flower color",
-      "answer": "LAVENDER",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "First month of the year",
-      "answer": "JANUARY",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny seed powder from flowers",
-      "answer": "POLLEN",
+      "clue": "A rock from space that falls and hits Earth",
+      "answer": "METEORITE",
       "row": 4,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Leads visitors around",
-      "answer": "GUIDE",
-      "row": 11,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Our planet day",
-      "answer": "EARTH",
-      "row": 8,
+      "clue": "The joint where your arm meets your body",
+      "answer": "SHOULDER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Rolled tortilla filled with rice and beans",
+      "answer": "BURRITO",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Scandinavian country with the city of Oslo and fjords",
+      "answer": "NORWAY",
+      "row": 6,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
-      "row": 0,
-      "col": 5,
+      "clue": "Sweet liquid that flowers make to attract bees",
+      "answer": "NECTAR",
+      "row": 3,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Long yellow curved fruit",
+      "answer": "BANANA",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with the Great Wall and the Forbidden City",
+      "answer": "CHINA",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The curved path a planet takes around the sun",
+      "answer": "ORBIT",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "This is the current day you are living right now",
+      "answer": "TODAY",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 235

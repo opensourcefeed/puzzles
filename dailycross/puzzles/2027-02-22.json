@@ -4,67 +4,53 @@
   "title": "2027-02-22",
   "words": [
     {
-      "clue": "Place where sick people go",
-      "answer": "HOSPITAL",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Heavy snowstorm with wind",
-      "answer": "BLIZZARD",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Eight-armed ocean creature",
-      "answer": "OCTOPUS",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Light bounces off this",
-      "answer": "MIRROR",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Sea flower animal",
-      "answer": "FLOWER",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Fallen leaves on ground",
-      "answer": "LEAVES",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat cooking surface",
-      "answer": "GRILL",
-      "row": 0,
+      "clue": "Person who designs buildings and plans how they will be built",
+      "answer": "ARCHITECT",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You sit on this with cushions",
-      "answer": "SOFA",
-      "row": 2,
-      "col": 7,
+      "clue": "Building where Jews go to worship",
+      "answer": "SYNAGOGUE",
+      "row": 1,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Tall feature on land formed by pushing earth upward",
+      "answer": "MOUNTAIN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape like a can or tube",
+      "answer": "CYLINDER",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Giant ocean wave caused by underwater earthquakes",
+      "answer": "TSUNAMI",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who cleans and checks your teeth",
+      "answer": "DENTIST",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "European country with the city of Vienna and Mozart",
+      "answer": "AUSTRIA",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 255

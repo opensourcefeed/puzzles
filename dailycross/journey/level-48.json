@@ -4,77 +4,63 @@
   "title": "Level 48",
   "words": [
     {
-      "clue": "Device that helps you see",
-      "answer": "GLASSES",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Room where you watch TV",
-      "answer": "LIVING",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "How heavy something is",
-      "answer": "WEIGHT",
-      "row": 8,
+      "clue": "Warm pullover top worn in cold weather",
+      "answer": "SWEATER",
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Video recording device",
-      "answer": "CAMERA",
-      "row": 2,
-      "col": 6,
+      "clue": "Being in good physical condition from exercise and good food",
+      "answer": "HEALTHY",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Mix cake batter with this",
-      "answer": "MIXER",
-      "row": 1,
+      "clue": "Hindu festival of lights celebrated in autumn",
+      "answer": "DIWALI",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Most populated country",
-      "answer": "CHINA",
+      "clue": "Sport where you throw a round flat disc as far as you can",
+      "answer": "DISCUS",
       "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor first responders",
-      "answer": "FIRST",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Leads visitors around",
-      "answer": "GUIDE",
-      "row": 5,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Your mother's sister",
-      "answer": "AUNT",
-      "row": 2,
-      "col": 10,
+      "clue": "Large white box that keeps food cold",
+      "answer": "FRIDGE",
+      "row": 0,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Country that bridges Europe and Asia with Istanbul",
+      "answer": "TURKEY",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Scandinavian country with the city of Stockholm",
+      "answer": "SWEDEN",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft orange fruit with a stone inside",
+      "answer": "PEACH",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 8,
   "targetWords": 11,
   "difficulty": "medium"
 }

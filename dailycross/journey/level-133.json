@@ -4,133 +4,105 @@
   "title": "Level 133",
   "words": [
     {
-      "clue": "Watering tool with a spray head",
-      "answer": "SPRINKLER",
-      "row": 6,
-      "col": 2,
+      "clue": "A shape with four sides and only one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 2,
+      "clue": "Person who builds and repairs things using wood",
+      "answer": "CARPENTER",
+      "row": 6,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
-      "row": 8,
-      "col": 5,
+      "clue": "Sport where two people try to throw each other to the ground",
+      "answer": "WRESTLING",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper money used by a country",
+      "answer": "CURRENCY",
+      "row": 14,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Regular exercise keeps you this",
-      "answer": "HEALTHY",
+      "clue": "A shape like a can or tube",
+      "answer": "CYLINDER",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "When a substance dissolves in a liquid",
+      "answer": "SOLUTION",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A brother or sister",
+      "answer": "SIBLING",
       "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Blow leaves with this",
-      "answer": "BLOWER",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling uneasy",
-      "answer": "UNEASY",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that filters blood",
-      "answer": "KIDNEY",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Time your cooking with this",
-      "answer": "TIMER",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "You eat meals on this",
-      "answer": "TABLE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Press garlic with this",
-      "answer": "PRESS",
+      "clue": "Money given back to you when you return something to a shop",
+      "answer": "REFUND",
       "row": 10,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Special diet food",
-      "answer": "GRAIN",
-      "row": 6,
+      "clue": "Lightweight aircraft with one small engine",
+      "answer": "GLIDER",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who manages the money and accounts at a bank",
+      "answer": "BANKER",
+      "row": 10,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Serve food on this",
-      "answer": "PLATE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Bags are made from this woven material",
-      "answer": "CLOTH",
-      "row": 1,
-      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "You hold with these",
-      "answer": "HANDS",
-      "row": 6,
-      "col": 13,
+      "clue": "Country that bridges Europe and Asia with Istanbul",
+      "answer": "TURKEY",
+      "row": 9,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "You sit on this with cushions",
-      "answer": "SOFA",
-      "row": 10,
-      "col": 13,
-      "direction": "down"
+      "clue": "Long orange vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "Measure angles",
-      "answer": "EDGE",
-      "row": 5,
+      "clue": "Person who trains and prepares athletes for competitions",
+      "answer": "COACH",
+      "row": 4,
       "col": 10,
       "direction": "across"
     },
     {
-      "clue": "Covering of a cell",
-      "answer": "SKIN",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
+      "clue": "Hard protective layer at the tip of your fingers",
+      "answer": "NAILS",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 14,
   "targetWords": 23,
   "difficulty": "hard"
 }

@@ -4,59 +4,66 @@
   "title": "2026-08-02",
   "words": [
     {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
-      "row": 2,
-      "col": 2,
+      "clue": "Person who makes and dispenses medicine",
+      "answer": "PHARMACIST",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country with Berlin",
-      "answer": "GERMANY",
-      "row": 1,
+      "clue": "Australian animal that hops and has a pouch",
+      "answer": "KANGAROO",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you surf waves in the ocean on a board",
+      "answer": "SURFING",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Sweet liquid bees collect from flowers",
-      "answer": "NECTAR",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Microscope sees these tiny living things",
-      "answer": "GERMS",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You put a TV on this",
-      "answer": "STAND",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large flowing body of water",
-      "answer": "RIVER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Energy from the sun",
-      "answer": "SOLAR",
+      "clue": "Ocean bird that hovers over waves and dives for fish",
+      "answer": "SEAGULL",
       "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The early water stage of a frog before it grows legs",
+      "answer": "TADPOLE",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "You draw circles using this tool",
+      "answer": "COMPASS",
+      "row": 0,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Place where tools are kept",
-      "answer": "SHED",
-      "row": 6,
-      "col": 5,
+      "clue": "Building where Christians go to worship",
+      "answer": "CHURCH",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Round purple or green fruit that grows in bunches",
+      "answer": "GRAPE",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You use this to draw straight lines",
+      "answer": "RULER",
+      "row": 2,
+      "col": 11,
       "direction": "down"
     }
   ],

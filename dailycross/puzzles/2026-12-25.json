@@ -4,74 +4,74 @@
   "title": "2026-12-25",
   "words": [
     {
-      "clue": "Three sides",
-      "answer": "TRIANGLE",
-      "row": 5,
-      "col": 0,
+      "clue": "Physical activity that keeps your body strong and fit",
+      "answer": "EXERCISE",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Big gray animal with trunk",
+      "clue": "Large gray animal with a trunk",
       "answer": "ELEPHANT",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "You keep dishes in this",
-      "answer": "CUPBOARD",
-      "row": 0,
+      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Police building",
-      "answer": "STATION",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Bird that cannot fly",
-      "answer": "PENGUIN",
+      "clue": "The largest country in South America with the Amazon River",
+      "answer": "BRAZIL",
       "row": 2,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Performs dance",
-      "answer": "DANCER",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Special diet food",
-      "answer": "GRAIN",
-      "row": 8,
+      "clue": "Person who performs songs on stage or records music",
+      "answer": "SINGER",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Storage space under the roof",
-      "answer": "ATTIC",
-      "row": 8,
+      "clue": "Person who looks after children when parents are away",
+      "answer": "NANNY",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Grass color",
-      "answer": "GREEN",
+      "clue": "Feeling worn out after a long day of activity",
+      "answer": "TIRED",
       "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Tool used to hold things firmly in place while working",
+      "answer": "CLAMP",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A ball of ice and dust that has a glowing tail in space",
+      "answer": "COMET",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Small bag carried by women to hold their belongings",
+      "answer": "PURSE",
+      "row": 0,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Large black bear-like animal from the forest",
+      "answer": "BEAR",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 196

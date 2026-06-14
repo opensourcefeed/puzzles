@@ -4,52 +4,66 @@
   "title": "2026-06-19",
   "words": [
     {
-      "clue": "Social media photo app",
-      "answer": "INSTAGRAM",
+      "clue": "The part of a computer you can see and touch",
+      "answer": "HARDWARE",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ocean between America and Europe",
-      "answer": "ATLANTIC",
+      "clue": "Huge deep trench in the ocean floor",
+      "answer": "TRENCH",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Country that bridges Europe and Asia with Istanbul",
+      "answer": "TURKEY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where people stay overnight when traveling",
+      "answer": "HOTEL",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Long padded seat usually placed against a wall",
+      "answer": "BENCH",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of fresh snow",
+      "answer": "WHITE",
       "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Game played with racket and yellow ball",
-      "answer": "TENNIS",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Blow leaves with this",
-      "answer": "BLOWER",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Studies ocean life",
-      "answer": "MARINE",
-      "row": 2,
+      "clue": "A tiny picture on your screen that opens an app when tapped",
+      "answer": "ICON",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Serves food at tables",
-      "answer": "WAITER",
-      "row": 8,
-      "col": 2,
+      "clue": "Yellow vegetable that grows on a cob",
+      "answer": "CORN",
+      "row": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Ocean mollusk with a spiral shell",
-      "answer": "SNAIL",
+      "clue": "Long metal fastener hammered into wood to join pieces",
+      "answer": "NAIL",
       "row": 6,
-      "col": 3,
+      "col": 8,
       "direction": "across"
     }
   ],

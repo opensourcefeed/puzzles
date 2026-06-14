@@ -4,67 +4,74 @@
   "title": "2026-10-11",
   "words": [
     {
-      "clue": "Celebration of our planet",
-      "answer": "EARTHDAY",
+      "clue": "The day that came before today",
+      "answer": "YESTERDAY",
       "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Decayed plants used as fertilizer",
-      "answer": "COMPOST",
-      "row": 0,
+      "clue": "The person who teaches you in class",
+      "answer": "TEACHER",
+      "row": 6,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Small ocean crustacean",
-      "answer": "SHRIMP",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Types of money",
-      "answer": "COINS",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on a tall one at a counter",
-      "answer": "STOOL",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Measure ingredients with this",
-      "answer": "SCALE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Day to celebrate science",
-      "answer": "STEM",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Glass is made from melted sand",
-      "answer": "SAND",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot body temperature",
-      "answer": "HEAT",
-      "row": 4,
+      "clue": "Feeling very pleased after winning or succeeding",
+      "answer": "EXCITED",
+      "row": 6,
       "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A portable device for reading digital books",
+      "answer": "EREADER",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "European country with the city of Warsaw",
+      "answer": "POLAND",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Small purple or blue wildflower found in meadows",
+      "answer": "VIOLET",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Cooked meat in a round bun",
+      "answer": "BURGER",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Area of land covered with many trees",
+      "answer": "FOREST",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Sweet smelling white flower that blooms in spring",
+      "answer": "LILY",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Light red color of a flamingo",
+      "answer": "PINK",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 121

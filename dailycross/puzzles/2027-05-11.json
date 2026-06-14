@@ -4,59 +4,66 @@
   "title": "2027-05-11",
   "words": [
     {
-      "clue": "Builds with wood",
-      "answer": "CARPENTER",
-      "row": 4,
+      "clue": "Person who studies marine biology and ocean life",
+      "answer": "BIOLOGIST",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Country in West Africa with the city of Lagos",
+      "answer": "NIGERIA",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Scandinavian country with the city of Helsinki",
+      "answer": "FINLAND",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport played with a racket and a small yellow ball",
+      "answer": "TENNIS",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Brown vegetable that grows underground and is often fried",
+      "answer": "POTATO",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The second planet from the sun, covered in thick clouds",
+      "answer": "VENUS",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Subject about the world",
-      "answer": "GEOGRAPHY",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean mammal with tusks",
-      "answer": "WALRUS",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Wear purple day",
-      "answer": "PURPLE",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Path of a planet around the sun",
-      "answer": "ORBIT",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Water in gas form",
-      "answer": "VAPOR",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Clear liquid that your body needs",
-      "answer": "WATER",
+      "clue": "Animal people ride on farms and in races",
+      "answer": "HORSE",
       "row": 2,
-      "col": 6,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Flat cooking surface",
-      "answer": "GRILL",
-      "row": 5,
-      "col": 8,
+      "clue": "Flat top of the stove with burners used for cooking",
+      "answer": "STOVE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "High shoe that covers the ankle",
+      "answer": "BOOT",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     }
   ],

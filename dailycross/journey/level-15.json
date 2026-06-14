@@ -4,49 +4,56 @@
   "title": "Level 15",
   "words": [
     {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
-      "row": 5,
+      "clue": "Part of the fridge where food is kept frozen solid",
+      "answer": "FREEZER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Takes care of teeth",
-      "answer": "DENTIST",
-      "row": 4,
-      "col": 1,
+      "clue": "Warm pullover top worn in cold weather",
+      "answer": "SWEATER",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
+      "clue": "Machine that heats bread slices until they are golden brown",
+      "answer": "TOASTER",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Worn on both hands to keep them warm in winter",
+      "answer": "GLOVES",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you park your car",
-      "answer": "GARAGE",
-      "row": 2,
+      "clue": "Historical stone fortress where royalty once lived",
+      "answer": "CASTLE",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
-      "row": 5,
-      "col": 3,
+      "clue": "The speed at which a piece of music is played",
+      "answer": "TEMPO",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Machine used to lift and move very heavy loads",
+      "answer": "CRANE",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 7,
   "targetWords": 7,
   "difficulty": "easy"
 }

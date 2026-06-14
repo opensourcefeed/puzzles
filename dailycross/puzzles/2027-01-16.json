@@ -4,60 +4,60 @@
   "title": "2027-01-16",
   "words": [
     {
-      "clue": "Country of kangaroos",
-      "answer": "AUSTRALIA",
-      "row": 2,
-      "col": 1,
+      "clue": "Sea creature with a shell on its back that lives on beaches",
+      "answer": "HERMITCRAB",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Decorates rooms",
-      "answer": "PAINTER",
-      "row": 1,
+      "clue": "An object that allows electricity to flow through it",
+      "answer": "CONDUCTOR",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Place where you cook meals",
-      "answer": "KITCHEN",
-      "row": 0,
+      "clue": "Tool used to spray paint evenly over a surface",
+      "answer": "SPRAYER",
+      "row": 8,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "You hang a mirror on this",
-      "answer": "DRESSER",
-      "row": 7,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Teacher appreciation",
-      "answer": "THANKS",
-      "row": 4,
+      "clue": "Large orange ocean crustacean with big claws",
+      "answer": "LOBSTER",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Country known for tacos, pyramids and sombreros",
+      "answer": "MEXICO",
+      "row": 5,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Seventh planet from the sun",
-      "answer": "URANUS",
-      "row": 2,
-      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
+      "clue": "Folder where you keep your papers",
+      "answer": "BINDER",
       "row": 2,
-      "col": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A plan for how to spend your money each month",
+      "answer": "BUDGET",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You keep blankets in this trunk",
-      "answer": "TRUNK",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
+      "clue": "A high mountain pass between two peaks",
+      "answer": "PASS",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 218

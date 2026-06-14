@@ -4,63 +4,77 @@
   "title": "Level 64",
   "words": [
     {
-      "clue": "Country with Helsinki",
-      "answer": "FINLAND",
-      "row": 4,
-      "col": 0,
+      "clue": "Sea creature with a shell on its back that lives on beaches",
+      "answer": "HERMITCRAB",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Loud sound after lightning",
-      "answer": "THUNDER",
-      "row": 1,
+      "clue": "Mountain with a hole at the top that can erupt",
+      "answer": "VOLCANO",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Machine that can create three-dimensional objects from digital files",
+      "answer": "PRINTER",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Your male sibling",
+      "answer": "BROTHER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The person who makes sure rules are followed in a game",
+      "answer": "REFEREE",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Long period of very little or no rainfall",
+      "answer": "DROUGHT",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Country with Hanoi",
-      "answer": "VIETNAM",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Device that copies paper to computer",
-      "answer": "SCANNER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Pen for drawing on tablets",
-      "answer": "STYLUS",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Striped horse-like animal",
-      "answer": "ZEBRA",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Red ocean algae",
-      "answer": "ALGAE",
+      "clue": "Animal with a long neck that drinks from rivers",
+      "answer": "GIRAFFE",
       "row": 1,
-      "col": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Wide flat tool used to dig and move snow or earth",
+      "answer": "SHOVEL",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Metal tool with sharp holes used to grate cheese",
+      "answer": "GRATER",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Wraps around neck for warmth",
-      "answer": "SCARF",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
+      "clue": "Long flat area of sand next to the ocean",
+      "answer": "BEACH",
+      "row": 7,
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 10,
   "targetWords": 13,
   "difficulty": "medium"
 }

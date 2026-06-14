@@ -4,105 +4,126 @@
   "title": "Level 115",
   "words": [
     {
-      "clue": "Leads tours for visitors",
-      "answer": "TOURGUIDE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Portable computer for class",
-      "answer": "LAPTOP",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean creature that makes pearls",
-      "answer": "OYSTER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Teacher appreciation",
-      "answer": "THANKS",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Mexican dead day",
-      "answer": "SKULL",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Connects computer to monitor",
-      "answer": "CABLE",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Time your cooking with this",
-      "answer": "TIMER",
+      "clue": "Small table beside your bed for a lamp or glass of water",
+      "answer": "NIGHTSTAND",
       "row": 6,
-      "col": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Garden decoration statue",
-      "answer": "GNOME",
+      "clue": "The energy content of food measured in units",
+      "answer": "CALORIES",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Small furry animal that carries babies in a pouch",
+      "answer": "OPOSSUM",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Large seabird with a pouch under its beak",
+      "answer": "PELICAN",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A closed loop that electricity flows around",
+      "answer": "CIRCUIT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Round red salad vegetable that grows on a vine",
+      "answer": "TOMATO",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A shallow wound on the skin from scraping against something rough",
+      "answer": "SCRAPE",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Area of land covered with many trees",
+      "answer": "FOREST",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Forcing air from your lungs through your mouth",
+      "answer": "COUGH",
       "row": 0,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Kid age 13 to 19",
-      "answer": "TEEN",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Money you borrow",
-      "answer": "DEBT",
-      "row": 5,
+      "clue": "Long padded seat usually placed against a wall",
+      "answer": "BENCH",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Money a business loses",
-      "answer": "LOSS",
-      "row": 2,
-      "col": 3,
+      "clue": "A small device you wear on your wrist to tell time",
+      "answer": "WATCH",
+      "row": 9,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where people stay overnight when traveling",
+      "answer": "HOTEL",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "This grows on top of your head",
+      "answer": "HAIR",
+      "row": 0,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Fern plant with feathery leaves",
-      "answer": "FERN",
-      "row": 4,
-      "col": 1,
+      "clue": "The large organ that covers your whole body",
+      "answer": "SKIN",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Question paper you take at the end of a term",
+      "answer": "EXAM",
+      "row": 1,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "Very large boat that carries people or cargo across oceans",
+      "answer": "SHIP",
+      "row": 13,
+      "col": 8,
+      "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 17,
   "targetWords": 20,
   "difficulty": "hard"
 }

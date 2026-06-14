@@ -4,60 +4,60 @@
   "title": "2027-04-16",
   "words": [
     {
-      "clue": "Country of kangaroos",
-      "answer": "AUSTRALIA",
-      "row": 1,
-      "col": 3,
+      "clue": "A large area of land belonging to one country",
+      "answer": "TERRITORY",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Brother or sister",
-      "answer": "SIBLING",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat mobile device without keyboard",
-      "answer": "TABLET",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
+      "clue": "Work your teacher gives you to do at home",
+      "answer": "HOMEWORK",
       "row": 3,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
-      "row": 2,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Giving to charity",
-      "answer": "GIFT",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Helps you hear",
-      "answer": "EARS",
+      "clue": "Building with tanks where you can see fish and sea creatures",
+      "answer": "AQUARIUM",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Rake leaves with this",
-      "answer": "RAKE",
+      "clue": "A person who lives in the house next to yours",
+      "answer": "NEIGHBOR",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Machine that puts words and pictures from a computer onto paper",
+      "answer": "PRINTER",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You draw circles using this tool",
+      "answer": "COMPASS",
       "row": 0,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Part of the fridge where food is kept frozen solid",
+      "answer": "FREEZER",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Tool with prongs used to pick up and eat food",
+      "answer": "FORK",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 308

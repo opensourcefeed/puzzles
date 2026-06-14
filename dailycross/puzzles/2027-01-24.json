@@ -4,46 +4,67 @@
   "title": "2027-01-24",
   "words": [
     {
-      "clue": "Paddling through water",
-      "answer": "SWIMMING",
-      "row": 1,
+      "clue": "Holiday celebrating Earth and the environment in April",
+      "answer": "EARTHDAY",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Your father's brother",
-      "answer": "UNCLE",
-      "row": 0,
+      "clue": "The ocean surrounding Antarctica at the south of the Earth",
+      "answer": "SOUTHERN",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat tool used to flip pancakes and burgers",
+      "answer": "SPATULA",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Break hard concrete",
-      "answer": "SMASH",
-      "row": 0,
+      "clue": "A vehicle that carries astronauts from one spacecraft to another",
+      "answer": "SHUTTLE",
+      "row": 6,
       "col": 6,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Underwater mountain chain",
-      "answer": "RIDGE",
+      "clue": "Room where you borrow books to read",
+      "answer": "LIBRARY",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Fitness wristband",
-      "answer": "STRAP",
-      "row": 1,
-      "col": 2,
+      "clue": "Small piece of land surrounded by water",
+      "answer": "ISLAND",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of land completely surrounded by water",
+      "answer": "ISLAND",
+      "row": 4,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Water in gas form",
-      "answer": "VAPOR",
-      "row": 5,
+      "clue": "Person who manages the money and accounts at a bank",
+      "answer": "BANKER",
+      "row": 7,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The last day of the school week",
+      "answer": "FRIDAY",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 226

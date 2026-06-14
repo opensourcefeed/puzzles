@@ -4,105 +4,126 @@
   "title": "Level 136",
   "words": [
     {
-      "clue": "Short-range wireless technology",
-      "answer": "BLUETOOTH",
+      "clue": "Asian country with the city of Seoul",
+      "answer": "SOUTHKOREA",
       "row": 6,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Does experiments for a living",
-      "answer": "SCIENTIST",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Builds roads and bridges",
-      "answer": "ENGINEER",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you take a bath",
-      "answer": "BATHROOM",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Frozen sweet treat",
-      "answer": "ICECREAM",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Heavy snowstorm with wind",
-      "answer": "BLIZZARD",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Shoes are made of this animal skin",
-      "answer": "LEATHER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of the Amazon River",
-      "answer": "BRAZIL",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Your sister's son",
-      "answer": "NEPHEW",
+      "clue": "Vehicle that mows and harvests crops in fields",
+      "answer": "HARVESTER",
       "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle police officers drive",
+      "answer": "POLICECAR",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper money used by a country",
+      "answer": "CURRENCY",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Cold sweet treat on a stick or in a cone",
+      "answer": "ICECREAM",
+      "row": 11,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Day to honor nurses",
-      "answer": "NURSES",
+      "clue": "Padded glove used to hold hot pots from the oven",
+      "answer": "OVENMITT",
       "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with exactly three sides and three corners",
+      "answer": "TRIANGLE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling that you want something very much",
+      "answer": "JEALOUS",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where a river meets and mixes with the sea",
+      "answer": "ESTUARY",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where you go to watch movies on a big screen",
+      "answer": "THEATER",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The ocean found around the continent of India",
+      "answer": "INDIAN",
+      "row": 2,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Pour dressing from this",
-      "answer": "BOTTLE",
-      "row": 11,
-      "col": 2,
+      "clue": "Crunchy pale green stalk vegetable used in salads",
+      "answer": "CELERY",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The last day of the school week",
+      "answer": "FRIDAY",
+      "row": 2,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Fine dish material",
-      "answer": "CHINA",
-      "row": 0,
+      "clue": "Organ that filters waste from your blood to make urine",
+      "answer": "KIDNEY",
+      "row": 13,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Insect that glows",
-      "answer": "GLOW",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Light rock that floats",
-      "answer": "ROCK",
+      "clue": "Protective cover worn over clothing while cooking",
+      "answer": "APRON",
       "row": 9,
-      "col": 8,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "A baby bird that has just hatched from an egg",
+      "answer": "CHICK",
+      "row": 9,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 17,
   "targetWords": 23,
   "difficulty": "hard"
 }

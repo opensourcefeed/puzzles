@@ -4,63 +4,56 @@
   "title": "Level 20",
   "words": [
     {
-      "clue": "Make coffee in this",
-      "answer": "COFFEEPOT",
-      "row": 6,
+      "clue": "Person who educates students in a school classroom",
+      "answer": "TEACHER",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "December 25 celebration",
-      "answer": "CHRISTMAS",
+      "clue": "Small jumping insect that chirps at night",
+      "answer": "CRICKET",
       "row": 1,
-      "col": 8,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Digital book reader",
-      "answer": "EREADER",
+      "clue": "Large arena where sports teams play matches",
+      "answer": "STADIUM",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The five thin parts at the end of your hand",
+      "answer": "FINGERS",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Very dark green like pine needles",
+      "answer": "FOREST",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Season when snow falls and it is very cold",
+      "answer": "WINTER",
       "row": 6,
       "col": 4,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Country with Budapest",
-      "answer": "HUNGARY",
+      "clue": "Long orange vegetable that grows underground",
+      "answer": "CARROT",
       "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of the Amazon River",
-      "answer": "BRAZIL",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Garden border plant",
-      "answer": "HEDGE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Salty snack often eaten with dip",
-      "answer": "CHIPS",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving to stay fit",
-      "answer": "WALK",
-      "row": 6,
-      "col": 11,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 7,
   "targetWords": 8,
   "difficulty": "easy"
 }

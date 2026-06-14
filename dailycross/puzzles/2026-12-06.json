@@ -4,67 +4,60 @@
   "title": "2026-12-06",
   "words": [
     {
-      "clue": "Computer virus protection",
-      "answer": "ANTIVIRUS",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Takes care of teeth",
-      "answer": "DENTIST",
+      "clue": "The ninth month of the year",
+      "answer": "SEPTEMBER",
       "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Set of instructions for a computer",
-      "answer": "PROGRAM",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Performs dance",
-      "answer": "DANCER",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Our planet",
-      "answer": "EARTH",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Shiny coat on pans",
-      "answer": "SHINE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you shop",
-      "answer": "MALL",
-      "row": 10,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Apple wireless earbuds",
-      "answer": "BUDS",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Your mother's sister",
-      "answer": "AUNT",
-      "row": 9,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Animal with a bushy tail that collects nuts",
+      "answer": "SQUIRREL",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Black and white bird that cannot fly",
+      "answer": "PENGUIN",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Country known for tacos, pyramids and sombreros",
+      "answer": "MEXICO",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Large whiskered mammal with flippers that lives in cold seas",
+      "answer": "WALRUS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The device on a wall that shows the time",
+      "answer": "CLOCK",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Animal known for spraying a bad smell",
+      "answer": "SKUNK",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Strap that keeps your pants from falling down",
+      "answer": "BELT",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 177

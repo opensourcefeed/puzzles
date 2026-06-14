@@ -4,66 +4,73 @@
   "title": "2026-09-13",
   "words": [
     {
-      "clue": "Country with Jakarta",
-      "answer": "INDONESIA",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Build walls with this gray mix",
-      "answer": "CONCRETE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Celebration of a marriage",
-      "answer": "WEDDING",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Hand end parts",
-      "answer": "FINGERS",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Part of the body that digests food",
-      "answer": "STOMACH",
+      "clue": "A person who studies stars and space",
+      "answer": "ASTRONOMER",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Drill holes with this",
-      "answer": "DRILL",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Cover for garden soil",
-      "answer": "COVER",
-      "row": 2,
-      "col": 2,
+      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
+      "answer": "MOTORCYCLE",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Garden decoration statue",
-      "answer": "GNOME",
+      "clue": "The day that came before today",
+      "answer": "YESTERDAY",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Physical activity that keeps your body strong and fit",
+      "answer": "EXERCISE",
       "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Cold sweet treat on a stick or in a cone",
+      "answer": "ICECREAM",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A reduction in price when something goes on sale",
+      "answer": "DISCOUNT",
+      "row": 5,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A brother or sister",
+      "answer": "SIBLING",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Small egg-shaped instrument you shake to make sound",
+      "answer": "MARACA",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Container with a lid and handle used to boil water for tea",
+      "answer": "KETTLE",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Cookies baked with oats and raisins",
+      "answer": "COOKIE",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],

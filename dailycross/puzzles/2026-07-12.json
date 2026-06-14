@@ -4,60 +4,74 @@
   "title": "2026-07-12",
   "words": [
     {
-      "clue": "Long green garden vegetable",
-      "answer": "CUCUMBER",
-      "row": 5,
-      "col": 0,
+      "clue": "A large area of land belonging to one country",
+      "answer": "TERRITORY",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Toast bread in this",
-      "answer": "TOASTER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Brussels",
-      "answer": "BELGIUM",
-      "row": 0,
+      "clue": "The middle day of the school week",
+      "answer": "WEDNESDAY",
+      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Studies plants",
-      "answer": "GROWER",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Cover for garden soil",
-      "answer": "COVER",
-      "row": 5,
-      "col": 0,
+      "clue": "A flat shape with four sides where opposite sides are equal",
+      "answer": "RECTANGLE",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Horse-drawn carriage",
-      "answer": "WAGON",
-      "row": 3,
-      "col": 1,
+      "clue": "Australian animal that hops and has a pouch",
+      "answer": "KANGAROO",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Freedom celebration",
-      "answer": "FREE",
-      "row": 1,
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "One hundred years is called this",
+      "answer": "CENTURY",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Southeast Asian country with the city of Hanoi",
+      "answer": "VIETNAM",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Family tree chart",
-      "answer": "TREE",
+      "clue": "Stringed instrument with six strings you strum or pluck",
+      "answer": "GUITAR",
       "row": 0,
-      "col": 9,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "Thick yellow dairy spread put on bread",
+      "answer": "BUTTER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 30

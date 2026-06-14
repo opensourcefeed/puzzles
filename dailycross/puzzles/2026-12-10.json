@@ -4,60 +4,67 @@
   "title": "2026-12-10",
   "words": [
     {
-      "clue": "You type on this",
-      "answer": "KEYBOARD",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where athletes play",
-      "answer": "STADIUM",
+      "clue": "The most southerly point of Earth covered in ice",
+      "answer": "SOUTHPOLE",
       "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Device that helps you see",
-      "answer": "GLASSES",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle with two wheels and a motor",
-      "answer": "SCOOTER",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "What plants breathe out",
-      "answer": "OXYGEN",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where justice is decided",
-      "answer": "COURT",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Sharp point on a rose stem",
-      "answer": "THORN",
-      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Two babies born together",
-      "answer": "TWINS",
+      "clue": "Holiday celebrating Earth and the environment in April",
+      "answer": "EARTHDAY",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall yellow spring flower with a trumpet-shaped center",
+      "answer": "DAFFODIL",
       "row": 0,
       "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "The last day of the weekend",
+      "answer": "SUNDAY",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The second most populated country with the Taj Mahal",
+      "answer": "INDIA",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling full of happiness and smiling a lot",
+      "answer": "HAPPY",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Bird with a red breast that appears in spring",
+      "answer": "ROBIN",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Your parent's sister",
+      "answer": "AUNT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Very large boat that carries people or cargo across oceans",
+      "answer": "SHIP",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 181

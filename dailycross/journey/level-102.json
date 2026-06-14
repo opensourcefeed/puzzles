@@ -4,112 +4,98 @@
   "title": "Level 102",
   "words": [
     {
-      "clue": "Fixes computer problems",
-      "answer": "TECHNICIAN",
-      "row": 7,
-      "col": 2,
+      "clue": "Building where scientists do research and experiments",
+      "answer": "LABORATORY",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Computer brain",
-      "answer": "PROCESSOR",
+      "clue": "Flying vehicle with spinning blades on the roof",
+      "answer": "HELICOPTER",
       "row": 4,
-      "col": 8,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Top part of your arm",
-      "answer": "SHOULDER",
-      "row": 6,
+      "clue": "Shaking of the ground caused by moving rock plates",
+      "answer": "EARTHQUAKE",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Place where athletes play",
-      "answer": "STADIUM",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Celebration of a new year",
-      "answer": "NEWYEAR",
-      "row": 6,
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Your sister's son",
-      "answer": "NEPHEW",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Test battery with a tester",
-      "answer": "TESTER",
-      "row": 0,
-      "col": 10,
+      "clue": "Person who leads tourists around historical sites",
+      "answer": "TOURGUIDE",
+      "row": 5,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Cuts hair for women",
-      "answer": "STYLER",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You cover the floor with this",
-      "answer": "CARPET",
+      "clue": "Long wardrobe cabinet for hanging clothes",
+      "answer": "WARDROBE",
       "row": 8,
-      "col": 10,
-      "direction": "down"
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "Helps sick people at hospital",
-      "answer": "DOCTOR",
+      "clue": "Device with letters and numbers you press to type",
+      "answer": "KEYBOARD",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who organizes weddings and other events",
+      "answer": "PLANNER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling anxious before a big test or event",
+      "answer": "NERVOUS",
       "row": 13,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Large body of salt water",
-      "answer": "OCEAN",
+      "clue": "Sport played with a racket and a small yellow ball",
+      "answer": "TENNIS",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A shallow wound on the skin from scraping against something rough",
+      "answer": "SCRAPE",
       "row": 11,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A man on his wedding day",
-      "answer": "GROOM",
+      "clue": "The tiny dwarf planet beyond Neptune",
+      "answer": "PLUTO",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat measuring stick marked with centimeters and inches",
+      "answer": "RULER",
       "row": 8,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Test electrical current",
-      "answer": "METER",
-      "row": 9,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Second most populated country",
-      "answer": "INDIA",
-      "row": 6,
-      "col": 12,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 13,
   "targetWords": 19,
   "difficulty": "hard"
 }

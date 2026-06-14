@@ -4,46 +4,74 @@
   "title": "2026-12-01",
   "words": [
     {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
+      "clue": "Small device you plug into a computer to store files",
+      "answer": "FLASHDRIVE",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Intelligent ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 1,
-      "col": 4,
+      "clue": "Sport of running long distances across a city",
+      "answer": "MARATHON",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Feeling surprised",
-      "answer": "SHOCKED",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Coin worth 5 cents",
-      "answer": "NICKEL",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Your mother's sister",
-      "answer": "AUNT",
+      "clue": "The day on which you were born each year",
+      "answer": "BIRTHDAY",
       "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Small furry animal that lives in a cage and runs on a wheel",
+      "answer": "HAMSTER",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very pleased after winning or succeeding",
+      "answer": "EXCITED",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape like the base of a pyramid with four triangular faces",
+      "answer": "PYRAMID",
+      "row": 3,
       "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "The fifth and largest planet from the sun",
+      "answer": "JUPITER",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Season when flowers bloom and it gets warmer",
+      "answer": "SPRING",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The largest country in the world by area",
+      "answer": "RUSSIA",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Smooth creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 172

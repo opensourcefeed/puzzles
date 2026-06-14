@@ -4,91 +4,84 @@
   "title": "Level 50",
   "words": [
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
-      "row": 5,
+      "clue": "Building where a judge decides legal cases",
+      "answer": "COURTHOUSE",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Largest country in the world",
-      "answer": "RUSSIA",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Oslo",
-      "answer": "NORWAY",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Keep drinks cold in this",
-      "answer": "COOLER",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling uncertain",
-      "answer": "UNSURE",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Thanksgiving in US",
-      "answer": "THANK",
+      "clue": "Feeling pleased and content with what you have",
+      "answer": "SATISFIED",
       "row": 1,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Ropes are made from strong fibers",
-      "answer": "FIBER",
-      "row": 8,
-      "col": 0,
+      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
+      "answer": "AMBULANCE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Pink wading bird that stands on one leg",
+      "answer": "FLAMINGO",
+      "row": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Muslim feast day",
-      "answer": "FEAST",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Join metals hot",
-      "answer": "MELT",
+      "clue": "You use this to color and draw pictures",
+      "answer": "CRAYONS",
       "row": 0,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Caring about others",
-      "answer": "KIND",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Holds pants up",
-      "answer": "BELT",
+      "clue": "Long period of very little or no rainfall",
+      "answer": "DROUGHT",
       "row": 1,
-      "col": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "This holds your papers together with metal clips",
+      "answer": "STAPLER",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Dark green leafy vegetable rich in iron",
+      "answer": "SPINACH",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A device worn on your face to help you see clearly",
+      "answer": "GLASSES",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Cookies baked with oats and raisins",
+      "answer": "COOKIE",
+      "row": 3,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Country in the Middle East where Jerusalem is located",
+      "answer": "ISRAEL",
+      "row": 10,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 11,
   "targetWords": 12,
   "difficulty": "medium"
 }

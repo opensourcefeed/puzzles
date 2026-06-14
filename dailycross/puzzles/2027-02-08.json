@@ -4,73 +4,59 @@
   "title": "2027-02-08",
   "words": [
     {
-      "clue": "Store leftovers in this",
-      "answer": "CONTAINER",
-      "row": 3,
-      "col": 2,
+      "clue": "Energy stored in an object ready to be released",
+      "answer": "POTENTIAL",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Builds roads and bridges",
-      "answer": "ENGINEER",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Frozen sweet treat",
-      "answer": "ICECREAM",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Three children born at once",
-      "answer": "TRIPLET",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Vienna",
-      "answer": "AUSTRIA",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "World book day",
-      "answer": "BOOKDAY",
+      "clue": "Sport where two people try to throw each other to the ground",
+      "answer": "WRESTLING",
       "row": 0,
-      "col": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Sidewalks are made of this",
-      "answer": "CEMENT",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 6,
+      "clue": "Sport of running long distances across a city",
+      "answer": "MARATHON",
+      "row": 1,
       "col": 8,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Egg shape",
-      "answer": "OVAL",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Apple wireless earbuds",
-      "answer": "BUDS",
+      "clue": "Person who travels to new places to discover and learn",
+      "answer": "EXPLORER",
       "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with many sides, more than eight",
+      "answer": "POLYGON",
+      "row": 8,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Small flow of water moving across land",
+      "answer": "STREAM",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Country known for tacos, pyramids and sombreros",
+      "answer": "MEXICO",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A woman on the day she gets married",
+      "answer": "BRIDE",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     }
   ],

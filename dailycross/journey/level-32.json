@@ -4,60 +4,60 @@
   "title": "Level 32",
   "words": [
     {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 5,
+      "clue": "Long thin pasta dish with tomato sauce",
+      "answer": "SPAGHETTI",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Very heavy rainfall in a short amount of time",
+      "answer": "DOWNPOUR",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The day that comes after Monday",
+      "answer": "TUESDAY",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Smooth creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Organ that filters waste from your blood to make urine",
+      "answer": "KIDNEY",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who creates paintings, drawings and sculptures",
+      "answer": "ARTIST",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Scandinavian country with the city of Oslo and fjords",
+      "answer": "NORWAY",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Pair of married people",
-      "answer": "COUPLE",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Stage of a butterfly",
-      "answer": "COCOON",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Sea flower animal",
-      "answer": "FLOWER",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Land of the rising sun",
-      "answer": "JAPAN",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Types of money",
-      "answer": "COINS",
+      "clue": "Organ in your belly that helps digest food",
+      "answer": "LIVER",
       "row": 2,
-      "col": 2,
+      "col": 6,
       "direction": "across"
-    },
-    {
-      "clue": "Salty snack often eaten with dip",
-      "answer": "CHIPS",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to celebrate science",
-      "answer": "STEM",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "wordCount": 8,

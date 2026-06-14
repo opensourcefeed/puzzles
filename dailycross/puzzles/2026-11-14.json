@@ -4,59 +4,73 @@
   "title": "2026-11-14",
   "words": [
     {
-      "clue": "Person who travels to space",
-      "answer": "ASTRONAUT",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Frozen sweet treat",
-      "answer": "ICECREAM",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Top of the oven for cooking",
-      "answer": "STOVE",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Types of money",
-      "answer": "COINS",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Male part of a flower",
-      "answer": "BLOOM",
-      "row": 6,
+      "clue": "You use this tool to do math sums",
+      "answer": "CALCULATOR",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Pointed weapon shape",
-      "answer": "ARROW",
-      "row": 4,
-      "col": 8,
+      "clue": "Green salad vegetable that is long and crunchy",
+      "answer": "CUCUMBER",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Game console by Microsoft",
-      "answer": "XBOX",
-      "row": 7,
+      "clue": "Large seabird with a pouch under its beak",
+      "answer": "PELICAN",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Soft gentle movement of cool air",
+      "answer": "BREEZE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Stringed instrument with six strings you strum or pluck",
+      "answer": "GUITAR",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful reef structure made by tiny ocean animals",
+      "answer": "CORAL",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A baby bird that has just hatched from an egg",
+      "answer": "CHICK",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Two-piece formal suit jacket and trousers",
+      "answer": "SUIT",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "How hot or cold something is",
-      "answer": "HEAT",
-      "row": 1,
-      "col": 10,
+      "clue": "Sweet baked dessert with candles on your birthday",
+      "answer": "CAKE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A body of fresh water completely surrounded by land",
+      "answer": "LAKE",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     }
   ],

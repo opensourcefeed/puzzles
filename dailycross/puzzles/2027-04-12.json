@@ -4,67 +4,74 @@
   "title": "2027-04-12",
   "words": [
     {
-      "clue": "Screen that shows images",
-      "answer": "MONITOR",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Teaches dogs new skills",
-      "answer": "TRAINER",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Mattresses have metal coils",
-      "answer": "SPRING",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Large round object in space",
-      "answer": "PLANET",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Team sport played with feet",
-      "answer": "SOCCER",
-      "row": 10,
+      "clue": "One thousand years is called this",
+      "answer": "MILLENNIUM",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country with Oslo",
-      "answer": "NORWAY",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor first responders",
-      "answer": "FIRST",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Fingerprint on a surface",
-      "answer": "PRINT",
+      "clue": "Small red fruit eaten on cakes and ice cream",
+      "answer": "STRAWBERRY",
       "row": 1,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Understanding others",
-      "answer": "CARE",
-      "row": 2,
-      "col": 1,
+      "clue": "Sport where you hit a white ball with a bat and run bases",
+      "answer": "BASEBALL",
+      "row": 4,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Machine with spinning blades used to blend smoothies and soups",
+      "answer": "BLENDER",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Animal with a long neck that drinks from rivers",
+      "answer": "GIRAFFE",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Gripping tool used to hold and bend wire or small parts",
+      "answer": "PLIERS",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Rock that comes from space and burns as it falls",
+      "answer": "METEOR",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Cooked meat in a round bun",
+      "answer": "BURGER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Portable computer used in class",
+      "answer": "LAPTOP",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "This is the current day you are living right now",
+      "answer": "TODAY",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 304

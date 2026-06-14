@@ -4,56 +4,49 @@
   "title": "Level 18",
   "words": [
     {
-      "clue": "Lizard that changes color",
-      "answer": "CHAMELEON",
+      "clue": "Small furry animal that carries babies in a pouch",
+      "answer": "OPOSSUM",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Device that copies paper to computer",
-      "answer": "SCANNER",
+      "clue": "Metal plates you crash together to make a loud sound",
+      "answer": "CYMBALS",
       "row": 0,
-      "col": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Performs songs on stage",
-      "answer": "SINGER",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport played on ice with sticks",
-      "answer": "HOCKEY",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Deep valley with steep sides",
-      "answer": "CANYON",
-      "row": 8,
+      "clue": "Small curved pink ocean crustacean eaten in salads",
+      "answer": "SHRIMP",
+      "row": 2,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall bar stool used at a kitchen counter",
+      "answer": "STOOL",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Peel potatoes with this",
-      "answer": "PEELER",
-      "row": 5,
+      "clue": "Black and white striped animal like a horse",
+      "answer": "ZEBRA",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A baby bird that has just hatched from an egg",
+      "answer": "CHICK",
+      "row": 0,
       "col": 3,
       "direction": "across"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 6,
   "targetWords": 7,
   "difficulty": "easy"
 }

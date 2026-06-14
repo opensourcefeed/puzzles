@@ -4,45 +4,66 @@
   "title": "2027-02-18",
   "words": [
     {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
+      "clue": "The complete path of water from ocean to sky and back",
+      "answer": "WATERCYCLE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Light fitting that hangs from the ceiling",
+      "answer": "CHANDELIER",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A large group of musicians playing instruments together",
+      "answer": "ORCHESTRA",
       "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Pair of married people",
-      "answer": "COUPLE",
-      "row": 0,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Strong bone mineral",
-      "answer": "MAGNET",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Arm bend point",
-      "answer": "ELBOW",
-      "row": 4,
-      "col": 6,
+      "clue": "You use these to cut paper in class",
+      "answer": "SCISSORS",
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Your first given name",
-      "answer": "GIVEN",
+      "clue": "Country with the cities of Dublin and the Cliffs of Moher",
+      "answer": "IRELAND",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Shop where fresh bread and pastries are made and sold",
+      "answer": "BAKERY",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Large black bear-like animal from the forest",
+      "answer": "BEAR",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Five sided shape",
-      "answer": "POINT",
-      "row": 3,
-      "col": 9,
+      "clue": "All the food and drink you consume regularly",
+      "answer": "DIET",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The main above-ground stalk that holds up a plant",
+      "answer": "STEM",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     }
   ],

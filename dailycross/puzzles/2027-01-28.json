@@ -4,52 +4,66 @@
   "title": "2027-01-28",
   "words": [
     {
-      "clue": "Screen that shows images",
-      "answer": "MONITOR",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Microsoft operating system",
-      "answer": "WINDOWS",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Tires are made from this bouncy material",
-      "answer": "RUBBER",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix of red and yellow",
-      "answer": "ORANGE",
-      "row": 1,
+      "clue": "The ninth month of the year",
+      "answer": "SEPTEMBER",
+      "row": 4,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
-      "row": 5,
-      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Ropes are made from strong fibers",
-      "answer": "FIBER",
+      "clue": "A flat shape with five sides and five corners",
+      "answer": "PENTAGON",
       "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewelry hung around the neck",
+      "answer": "NECKLACE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The first day of the weekend",
+      "answer": "SATURDAY",
+      "row": 7,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Sweet brown dessert topping",
-      "answer": "FUDGE",
+      "clue": "Salty food made from peanuts",
+      "answer": "PEANUTS",
       "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Game console made by Nintendo that you can also use on the go",
+      "answer": "SWITCH",
+      "row": 10,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Shellfish attached to rocks that opens when in water",
+      "answer": "MUSSEL",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Underwater mountain chain that runs along the ocean floor",
+      "answer": "RIDGE",
+      "row": 10,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A high mountain pass between two peaks",
+      "answer": "PASS",
+      "row": 2,
+      "col": 7,
       "direction": "across"
     }
   ],

@@ -4,74 +4,60 @@
   "title": "2027-05-28",
   "words": [
     {
-      "clue": "Pack lunch in this",
-      "answer": "LUNCHBOX",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Memorial Day remembers soldiers",
-      "answer": "MEMORIAL",
+      "clue": "An object that allows electricity to flow through it",
+      "answer": "CONDUCTOR",
       "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you sleep",
-      "answer": "BEDROOM",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Google mobile operating system",
-      "answer": "ANDROID",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Small blue wildflower",
-      "answer": "VIOLET",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Temperature scale",
-      "answer": "SCALE",
-      "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
+      "clue": "Sport where two people try to throw each other to the ground",
+      "answer": "WRESTLING",
       "row": 0,
-      "col": 4,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Can't see well",
-      "answer": "BLUR",
+      "clue": "Round green vegetable that grows on a vine",
+      "answer": "ZUCCHINI",
       "row": 0,
-      "col": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who lives in the house next to yours",
+      "answer": "NEIGHBOR",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Hindu festival of lights celebrated in autumn",
+      "answer": "DIWALI",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You hang a picture on this",
-      "answer": "HOOK",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
+      "clue": "Sweet round red or yellow vegetable used in salads",
+      "answer": "PEPPER",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The flat area where a football match is played",
+      "answer": "FIELD",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Flat measuring stick marked with centimeters and inches",
+      "answer": "RULER",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 350

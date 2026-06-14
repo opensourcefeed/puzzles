@@ -4,56 +4,49 @@
   "title": "Level 16",
   "words": [
     {
-      "clue": "What a caterpillar becomes",
-      "answer": "BUTTERFLY",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Light a fire with this",
-      "answer": "LIGHTER",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sixty seconds",
-      "answer": "MINUTE",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Metal gray color",
-      "answer": "SILVER",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Night color",
-      "answer": "BLACK",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Grandparents day",
-      "answer": "ELVES",
+      "clue": "The eighth and farthest planet from the sun",
+      "answer": "NEPTUNE",
       "row": 5,
-      "col": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Underground room below a house sometimes used for storage",
+      "answer": "CELLAR",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Area of land covered with many trees",
+      "answer": "FOREST",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Cookies baked with oats and raisins",
+      "answer": "COOKIE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Shaking from feeling very cold or being very scared",
+      "answer": "SHIVER",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Long padded seat usually placed against a wall",
+      "answer": "BENCH",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 6,
   "targetWords": 7,
   "difficulty": "easy"
 }

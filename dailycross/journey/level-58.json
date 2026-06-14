@@ -4,91 +4,70 @@
   "title": "Level 58",
   "words": [
     {
-      "clue": "Cook food fast with waves",
-      "answer": "MICROWAVE",
+      "clue": "Handheld device used to measure electrical current",
+      "answer": "MULTIMETER",
       "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you buy medicine",
-      "answer": "PHARMACY",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where Christians pray",
-      "answer": "CHURCH",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sharp tool for slicing bread",
-      "answer": "SLICER",
-      "row": 4,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of the Eiffel Tower",
-      "answer": "FRANCE",
-      "row": 9,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Your first given name",
-      "answer": "GIVEN",
-      "row": 3,
+      "clue": "Person who leads tourists around historical sites",
+      "answer": "TOURGUIDE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who creates new devices or ways of doing things",
+      "answer": "INVENTOR",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The ocean that lies between North America and Europe",
+      "answer": "ATLANTIC",
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Shiny coat on pans",
-      "answer": "SHINE",
-      "row": 4,
-      "col": 1,
+      "clue": "Turning around and around on a central point",
+      "answer": "ROTATION",
+      "row": 11,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Connects computer to monitor",
-      "answer": "CABLE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Become part of a family by law",
-      "answer": "ADOPT",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that carries goods",
-      "answer": "TRUCK",
-      "row": 7,
+      "clue": "Item you hold above your head to stay dry in rain",
+      "answer": "UMBRELLA",
+      "row": 3,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
-      "row": 12,
-      "col": 1,
+      "clue": "Three children born at the same time to the same mother",
+      "answer": "TRIPLETS",
+      "row": 4,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "European country with the city of Budapest",
+      "answer": "HUNGARY",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Small mountain country between India and China",
+      "answer": "NEPAL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 9,
   "targetWords": 13,
   "difficulty": "medium"
 }

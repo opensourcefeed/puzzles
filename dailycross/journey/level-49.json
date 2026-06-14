@@ -4,70 +4,84 @@
   "title": "Level 49",
   "words": [
     {
-      "clue": "Protects from rain",
-      "answer": "UMBRELLA",
-      "row": 1,
-      "col": 3,
+      "clue": "Sport where you throw and catch an orange ball through a hoop",
+      "answer": "BASKETBALL",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Date you were born",
-      "answer": "BIRTHDAY",
-      "row": 1,
+      "clue": "Vehicle that collects garbage from houses",
+      "answer": "TRASHCAR",
+      "row": 6,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Blend fruits in this",
-      "answer": "BLENDER",
-      "row": 0,
-      "col": 8,
+      "clue": "Vehicle used on a farm to pull heavy equipment",
+      "answer": "TRACTOR",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Green vegetable rabbits love",
-      "answer": "CARROT",
-      "row": 6,
+      "clue": "Large ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Tires are made from this bouncy material",
-      "answer": "RUBBER",
-      "row": 0,
-      "col": 3,
+      "clue": "Small furry animal that carries babies in a pouch",
+      "answer": "OPOSSUM",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
-      "row": 8,
+      "clue": "Sweet round red or yellow vegetable used in salads",
+      "answer": "PEPPER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cloud of gas in space",
-      "answer": "CLOUD",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Queen's big day",
-      "answer": "CROWN",
-      "row": 3,
+      "clue": "A shallow wound on the skin from scraping against something rough",
+      "answer": "SCRAPE",
+      "row": 11,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Joint between thigh and calf",
-      "answer": "KNEE",
-      "row": 4,
+      "clue": "Spring holiday with Easter eggs and a bunny",
+      "answer": "EASTER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Thick yellow dairy spread put on bread",
+      "answer": "BUTTER",
+      "row": 6,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A large round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 1,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Colorful reef structure made by tiny ocean animals",
+      "answer": "CORAL",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

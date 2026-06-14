@@ -4,91 +4,84 @@
   "title": "Level 51",
   "words": [
     {
-      "clue": "Computer virus protection",
-      "answer": "ANTIVIRUS",
+      "clue": "Country of kangaroos, koalas and the outback",
+      "answer": "AUSTRALIA",
       "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Berlin",
-      "answer": "GERMANY",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean animal with a hard shell",
-      "answer": "LOBSTER",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Riding a bicycle",
-      "answer": "CYCLING",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Fallen leaves on ground",
-      "answer": "LEAVES",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Workers day off",
-      "answer": "DAYOFF",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "How heavy something is",
-      "answer": "WEIGHT",
-      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Your father's brother",
-      "answer": "UNCLE",
-      "row": 0,
-      "col": 4,
+      "clue": "Two or more atoms joined together",
+      "answer": "MOLECULE",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Area where river meets ocean",
-      "answer": "DELTA",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that breaks down fats",
-      "answer": "LIVER",
-      "row": 2,
-      "col": 5,
+      "clue": "Long dark green vegetable related to the melon family",
+      "answer": "CUCUMBER",
+      "row": 8,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "March green day",
-      "answer": "GREEN",
+      "clue": "The day that comes after today",
+      "answer": "TOMORROW",
       "row": 6,
-      "col": 10,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Pencil writing material",
-      "answer": "LEAD",
-      "row": 8,
-      "col": 4,
+      "clue": "Mountain with a hole at the top that can erupt",
+      "answer": "VOLCANO",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Being in good physical condition from exercise and good food",
+      "answer": "HEALTHY",
+      "row": 4,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "A flat shape with eight sides like a stop sign",
+      "answer": "OCTAGON",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Large ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 6,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A printed paper record showing how much you paid",
+      "answer": "RECEIPT",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The early water stage of a frog before it grows legs",
+      "answer": "TADPOLE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Country known for tacos, pyramids and sombreros",
+      "answer": "MEXICO",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 11,
   "targetWords": 12,
   "difficulty": "medium"
 }

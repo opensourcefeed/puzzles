@@ -4,70 +4,63 @@
   "title": "Level 31",
   "words": [
     {
-      "clue": "Sea star with five arms",
-      "answer": "STARFISH",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Teaches dogs new skills",
-      "answer": "TRAINER",
+      "clue": "Book with words and their meanings",
+      "answer": "DICTIONARY",
       "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean around India",
-      "answer": "INDIAN",
-      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Small string instrument played with bow",
-      "answer": "VIOLIN",
-      "row": 9,
+      "clue": "Sport where you throw and catch an orange ball through a hoop",
+      "answer": "BASKETBALL",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling like you want to sleep",
-      "answer": "SLEEPY",
-      "row": 5,
+      "clue": "Tiny floating organisms that form the base of the ocean food chain",
+      "answer": "PLANKTON",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The process of a planet spinning on its center line",
+      "answer": "ROTATION",
+      "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Country with Istanbul",
-      "answer": "TURKEY",
+      "clue": "Turning around and around on a central point",
+      "answer": "ROTATION",
       "row": 0,
-      "col": 10,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Pipes are made of this reddish metal",
-      "answer": "COPPER",
-      "row": 9,
-      "col": 6,
+      "clue": "The time of day just after you wake up",
+      "answer": "MORNING",
+      "row": 11,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Bags are made from this woven material",
-      "answer": "CLOTH",
-      "row": 0,
-      "col": 7,
+      "clue": "Vast flat open grassland in Africa",
+      "answer": "SAVANNA",
+      "row": 3,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Mountain with a hole at the top that can erupt",
+      "answer": "VOLCANO",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 8,
   "targetWords": 9,
   "difficulty": "medium"
 }

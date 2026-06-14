@@ -4,60 +4,67 @@
   "title": "2026-12-14",
   "words": [
     {
-      "clue": "Subject about the world",
-      "answer": "GEOGRAPHY",
-      "row": 4,
-      "col": 0,
+      "clue": "Country of kangaroos, koalas and the outback",
+      "answer": "AUSTRALIA",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where firefighters work",
-      "answer": "FIREHOUSE",
-      "row": 2,
+      "clue": "The most northerly point of Earth",
+      "answer": "NORTHPOLE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that collects garbage from houses",
+      "answer": "TRASHCAR",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Teenager 13-19 years old",
-      "answer": "TEENAGER",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Draw circles with this",
-      "answer": "COMPASS",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Country known for tacos",
-      "answer": "MEXICO",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a king rules",
-      "answer": "CASTLE",
-      "row": 5,
+      "clue": "Southeast Asian country with the city of Hanoi",
+      "answer": "VIETNAM",
+      "row": 2,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Heart check machine",
-      "answer": "WATCH",
-      "row": 0,
-      "col": 7,
+      "clue": "Gripping tool used to hold and bend wire or small parts",
+      "answer": "PLIERS",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The gas that plants release which we breathe",
+      "answer": "OXYGEN",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Money you earn every month from your job",
+      "answer": "SALARY",
+      "row": 2,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Large keyboard instrument with black and white keys",
+      "answer": "PIANO",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Color between blue and green like the sea",
+      "answer": "TEAL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 185

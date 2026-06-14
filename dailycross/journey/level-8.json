@@ -4,49 +4,42 @@
   "title": "Level 8",
   "words": [
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Flip pancakes with this",
-      "answer": "SPATULA",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you eat meals",
-      "answer": "DINING",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
-      "row": 0,
+      "clue": "A very young baby that has just been born",
+      "answer": "INFANT",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A woman on her wedding day",
-      "answer": "BRIDE",
+      "clue": "A large group of singers performing together",
+      "answer": "CHOIR",
       "row": 0,
-      "col": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Large spoon with a long handle used to serve soup",
+      "answer": "LADLE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Sturdy blue trousers made from denim",
+      "answer": "JEANS",
+      "row": 6,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "The direction the sun rises every morning",
+      "answer": "EAST",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 5,
   "targetWords": 6,
   "difficulty": "easy"
 }

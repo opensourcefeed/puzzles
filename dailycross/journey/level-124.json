@@ -4,140 +4,105 @@
   "title": "Level 124",
   "words": [
     {
-      "clue": "Subject about the world",
-      "answer": "GEOGRAPHY",
+      "clue": "You write on this with a marker",
+      "answer": "WHITEBOARD",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Colorful ocean fish with stripes",
-      "answer": "CLOWNFISH",
-      "row": 5,
+      "clue": "Book with words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Celebration of our planet",
-      "answer": "EARTHDAY",
-      "row": 6,
-      "col": 8,
+      "clue": "Small blue round fruit used in muffins",
+      "answer": "BLUEBERRY",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Video sharing website",
-      "answer": "YOUTUBE",
-      "row": 13,
-      "col": 8,
+      "clue": "Large gray animal with a trunk",
+      "answer": "ELEPHANT",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Your son's son",
+      "answer": "GRANDSON",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle used on a farm to pull heavy equipment",
+      "answer": "TRACTOR",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Fastest land animal",
       "answer": "CHEETAH",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Move dirt with this",
-      "answer": "TRACTOR",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Shy around others",
-      "answer": " QUIET",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "String instrument with six strings",
-      "answer": "GUITAR",
-      "row": 7,
+      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Studies old things",
-      "answer": "FINDER",
-      "row": 3,
-      "col": 5,
+      "clue": "Being in good physical condition from exercise and good food",
+      "answer": "HEALTHY",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle that carries astronauts from one spacecraft to another",
+      "answer": "SHUTTLE",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Day to honor nurses",
-      "answer": "NURSES",
-      "row": 9,
-      "col": 14,
+      "clue": "A trained person who helps sick people recover in hospital",
+      "answer": "NURSE",
+      "row": 10,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Land of the rising sun",
-      "answer": "JAPAN",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Paper from wood",
-      "answer": "PAPER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Stomach entrance",
-      "answer": "BELLY",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Snow color",
-      "answer": "WHITE",
+      "clue": "The tiny dwarf planet beyond Neptune",
+      "answer": "PLUTO",
       "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You store blankets in this",
-      "answer": "CHEST",
-      "row": 8,
-      "col": 10,
+      "clue": "Red fruit that keeps the doctor away",
+      "answer": "APPLE",
+      "row": 7,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Coin worth 1 cent",
-      "answer": "PENNY",
-      "row": 0,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Hanging light fixture",
-      "answer": "LAMP",
+      "clue": "The unit of British money used in England",
+      "answer": "POUND",
       "row": 8,
-      "col": 11,
-      "direction": "across"
+      "col": 12,
+      "direction": "down"
     },
     {
-      "clue": "Prices going up",
-      "answer": "RISE",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
+      "clue": "The tiny basic building block of all matter",
+      "answer": "ATOM",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "wordCount": 19,
+  "wordCount": 14,
   "targetWords": 22,
   "difficulty": "hard"
 }

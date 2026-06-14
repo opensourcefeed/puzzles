@@ -4,70 +4,91 @@
   "title": "Level 80",
   "words": [
     {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
-      "row": 3,
+      "clue": "Building where scientists do research and experiments",
+      "answer": "LABORATORY",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country known for tacos",
-      "answer": "MEXICO",
-      "row": 0,
+      "clue": "Sport where you hit a shuttlecock with a racket",
+      "answer": "BADMINTON",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Hindu festival of lights",
-      "answer": "DIWALI",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You put a doormat on this",
-      "answer": "FLOOR",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a concert is held",
-      "answer": "ARENA",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to plant trees",
-      "answer": "ARBOR",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "You read stories in this",
-      "answer": "BOOK",
+      "clue": "Where a computer saves all its files and programs",
+      "answer": "HARDDRIVE",
       "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Orange and white striped clown fish made famous by a movie",
+      "answer": "CLOWNFISH",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Animal with a bushy tail that collects nuts",
+      "answer": "SQUIRREL",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The energy content of food measured in units",
+      "answer": "CALORIES",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with five sides and five corners",
+      "answer": "PENTAGON",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very interested and wanting to explore and find out more",
+      "answer": "CURIOUS",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Loud boom you hear after lightning",
+      "answer": "THUNDER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who makes official decisions during a baseball game",
+      "answer": "UMPIRE",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where Hindus go to worship",
+      "answer": "TEMPLE",
+      "row": 6,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Family blood line",
-      "answer": "LINE",
-      "row": 5,
-      "col": 4,
+      "clue": "Cooked meat in a round bun",
+      "answer": "BURGER",
+      "row": 2,
+      "col": 12,
       "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 12,
   "targetWords": 16,
   "difficulty": "medium"
 }

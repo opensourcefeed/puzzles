@@ -4,133 +4,112 @@
   "title": "Level 97",
   "words": [
     {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Singapore city",
-      "answer": "SINGAPORE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle with two wheels and a motor",
-      "answer": "SCOOTER",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where airplanes land",
-      "answer": "AIRPORT",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Pillows are filled with soft feathers",
-      "answer": "FEATHER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Open cans with this",
-      "answer": "OPENER",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean around India",
-      "answer": "INDIAN",
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
       "row": 7,
-      "col": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Room where you do science experiments",
+      "answer": "LABORATORY",
+      "row": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Garden border plant",
-      "answer": "HEDGE",
+      "clue": "Flying vehicle with spinning blades on the roof",
+      "answer": "HELICOPTER",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Cabinet in the kitchen used to store dishes and glasses",
+      "answer": "CUPBOARD",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A book or chart showing all the days of a year",
+      "answer": "CALENDAR",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Long wardrobe cabinet for hanging clothes",
+      "answer": "WARDROBE",
       "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A substance taken to treat or prevent illness",
+      "answer": "MEDICINE",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who keeps schools and offices clean",
+      "answer": "JANITOR",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you glide on ice wearing blades on your feet",
+      "answer": "SKATING",
+      "row": 3,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Big family everyone",
-      "answer": "TRIBE",
-      "row": 7,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Score unit in a game",
-      "answer": "POINT",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean mollusk with a spiral shell",
-      "answer": "SNAIL",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on a tall one at a counter",
-      "answer": "STOOL",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Wraps around neck for warmth",
-      "answer": "SCARF",
+      "clue": "Large bird with a curved beak that can talk",
+      "answer": "PARROT",
       "row": 1,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Round coral island",
-      "answer": "RING",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Leather comes from animal skin",
-      "answer": "HIDE",
-      "row": 8,
-      "col": 3,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "What a tadpole becomes",
-      "answer": "FROG",
+      "clue": "Your sister's or brother's daughter",
+      "answer": "NIECE",
       "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Underground plant part",
-      "answer": "ROOT",
-      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Daughter's daughter",
-      "answer": "GIRL",
-      "row": 5,
+      "clue": "Written symbols that tell musicians what sounds to play",
+      "answer": "NOTES",
+      "row": 3,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful reef structure made by tiny ocean animals",
+      "answer": "CORAL",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The line where land meets the sea",
+      "answer": "COAST",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 15,
   "targetWords": 18,
   "difficulty": "hard"
 }

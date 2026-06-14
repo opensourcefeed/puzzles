@@ -4,77 +4,63 @@
   "title": "Level 42",
   "words": [
     {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
+      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
+      "answer": "AMBULANCE",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Colorful ocean fish with stripes",
-      "answer": "CLOWNFISH",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "String instrument with six strings",
-      "answer": "GUITAR",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Four equal sides",
-      "answer": "SQUARE",
+      "clue": "A flat shape with exactly three sides and three corners",
+      "answer": "TRIANGLE",
       "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Grows crops on a farm",
-      "answer": "FARMER",
-      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Deep valley with steep sides",
-      "answer": "CANYON",
-      "row": 0,
+      "clue": "Paper money used by a country",
+      "answer": "CURRENCY",
+      "row": 3,
       "col": 4,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Colorful garden bloom",
-      "answer": "FLOWER",
+      "clue": "Fine hairs above your eyes",
+      "answer": "EYEBROWS",
       "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Wedding party",
-      "answer": "PARTY",
-      "row": 10,
-      "col": 4,
+      "clue": "Two-wheeled vehicle you pedal with your feet",
+      "answer": "BICYCLE",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Falls from clouds",
-      "answer": "RAIN",
+      "clue": "European country with the city of Budapest",
+      "answer": "HUNGARY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Country that bridges Europe and Asia with Istanbul",
+      "answer": "TURKEY",
       "row": 5,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The gas that plants release which we breathe",
+      "answer": "OXYGEN",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 8,
   "targetWords": 11,
   "difficulty": "medium"
 }

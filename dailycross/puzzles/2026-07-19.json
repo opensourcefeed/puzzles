@@ -4,65 +4,72 @@
   "title": "2026-07-19",
   "words": [
     {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
-      "row": 2,
+      "clue": "Building where you go to eat a meal prepared by a chef",
+      "answer": "RESTAURANT",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Leafy green vegetable",
-      "answer": "SPINACH",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Decorates rooms",
-      "answer": "PAINTER",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Start of day before noon",
-      "answer": "MORNING",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Cook food in the oven in this",
-      "answer": "ROASTER",
+      "clue": "You write on this with a marker",
+      "answer": "WHITEBOARD",
       "row": 0,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Bright flash of electricity between clouds and ground",
+      "answer": "LIGHTNING",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "What plants breathe in",
-      "answer": "CARBON",
-      "row": 1,
+      "clue": "Floating transparent ocean creature with stinging tentacles",
+      "answer": "JELLYFISH",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Protects a park or forest",
-      "answer": "RANGER",
+      "clue": "Small jumping insect that chirps at night",
+      "answer": "CRICKET",
       "row": 2,
-      "col": 8,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Loop of water from sky to ground and back",
-      "answer": "CYCLE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
+      "clue": "African country with pyramids and the Nile River",
+      "answer": "EGYPT",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "Makes clothes",
-      "answer": "SEWER",
+      "clue": "How fast an object is traveling",
+      "answer": "SPEED",
       "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A natural underground chamber inside a rock",
+      "answer": "CAVE",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Physical money in the form of coins and notes",
+      "answer": "CASH",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "You use these to see the world around you",
+      "answer": "EYES",
+      "row": 9,
       "col": 7,
       "direction": "across"
     }

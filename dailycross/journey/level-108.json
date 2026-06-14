@@ -4,126 +4,112 @@
   "title": "Level 108",
   "words": [
     {
-      "clue": "Digital watch with apps",
-      "answer": "SMARTWATCH",
+      "clue": "You write on this with a marker",
+      "answer": "WHITEBOARD",
       "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Your child's child",
-      "answer": "GRANDCHILD",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Works in a library",
-      "answer": "LIBRARIAN",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Random acts of kindness day",
-      "answer": "KINDNESS",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Build walls with this gray mix",
-      "answer": "CONCRETE",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Frog's early stage in water",
-      "answer": "TADPOLE",
-      "row": 14,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Buttons are often made of this",
-      "answer": "PLASTIC",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Game played with racket and yellow ball",
-      "answer": "TENNIS",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "You click with this",
-      "answer": "MOUSE",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft white rock",
-      "answer": "CHALK",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Clear liquid that your body needs",
-      "answer": "WATER",
-      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Colorful part of a plant that makes seeds",
-      "answer": "PETAL",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Fine china material",
-      "answer": "CLAY",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Small plant with a soft stem",
-      "answer": "HERB",
+      "clue": "An object that does not let electricity pass through",
+      "answer": "INSULATOR",
       "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates new music",
+      "answer": "COMPOSER",
+      "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Video call software",
-      "answer": "ZOOM",
-      "row": 4,
-      "col": 3,
+      "clue": "Decomposed plant matter mixed into soil to help plants grow",
+      "answer": "COMPOST",
+      "row": 8,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Flat ocean fish",
-      "answer": "FLAT",
+      "clue": "The smallest and closest planet to the sun",
+      "answer": "MERCURY",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The city where a country's government is based",
+      "answer": "CAPITAL",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who manages the money and accounts at a bank",
+      "answer": "BANKER",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Hindu festival of lights celebrated in autumn",
+      "answer": "DIWALI",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Vehicle that lifts off straight up with rocket engines",
+      "answer": "ROCKET",
+      "row": 9,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Top with no collar or buttons worn by students",
+      "answer": "SHIRT",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Large vehicle that carries heavy goods on highways",
+      "answer": "TRUCK",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Electric tool with beaters used to mix cake batter",
+      "answer": "MIXER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A silver coin that is worth ten cents",
+      "answer": "DIME",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Large animal that roars and has a mane",
+      "answer": "LION",
       "row": 1,
       "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical sound made by a voice or instrument",
+      "answer": "NOTE",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 15,
   "targetWords": 19,
   "difficulty": "hard"
 }

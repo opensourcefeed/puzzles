@@ -4,84 +4,77 @@
   "title": "Level 52",
   "words": [
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 3,
+      "clue": "A very large area of land such as Asia or Africa",
+      "answer": "CONTINENT",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Repairs pipes and water",
-      "answer": "PLUMBER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Flip pancakes with this",
-      "answer": "SPATULA",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "String instrument with six strings",
-      "answer": "GUITAR",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Underground train system",
-      "answer": "SUBWAY",
-      "row": 1,
+      "clue": "Australian animal that hops and has a pouch",
+      "answer": "KANGAROO",
+      "row": 3,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Creates paintings or drawings",
-      "answer": "ARTIST",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Hindu festival of lights",
-      "answer": "DIWALI",
-      "row": 4,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Stomach entrance",
-      "answer": "BELLY",
+      "clue": "Item you hold above your head to stay dry in rain",
+      "answer": "UMBRELLA",
       "row": 8,
-      "col": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "White sky fluff",
-      "answer": "CLOUD",
+      "clue": "You use these to cut paper in class",
+      "answer": "SCISSORS",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport of running long distances across a city",
+      "answer": "MARATHON",
       "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Fine hairs above your eyes",
+      "answer": "EYEBROWS",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Injection that prevents you from catching a disease",
+      "answer": "VACCINE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable device for reading digital books",
+      "answer": "EREADER",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Cooked meat in a round bun",
+      "answer": "BURGER",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 6,
-      "col": 8,
+      "clue": "Small stringed instrument you play with a bow",
+      "answer": "VIOLIN",
+      "row": 0,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Deep skin wound",
-      "answer": "GASH",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 10,
   "targetWords": 12,
   "difficulty": "medium"
 }

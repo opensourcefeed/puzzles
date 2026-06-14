@@ -4,53 +4,67 @@
   "title": "2026-10-24",
   "words": [
     {
-      "clue": "Place where you park your car",
-      "answer": "GARAGE",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Celebration with eggs and bunny",
-      "answer": "EASTER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Diamond shape",
-      "answer": "SLANT",
+      "clue": "Feeling sure of yourself and your abilities",
+      "answer": "CONFIDENT",
       "row": 4,
-      "col": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Black and white bear",
-      "answer": "PANDA",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle that runs on tracks",
-      "answer": "TRAIN",
-      "row": 0,
+      "clue": "Land that sticks out into the sea on three sides",
+      "answer": "PENINSULA",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Family from long ago",
-      "answer": "OLD",
-      "row": 3,
+      "clue": "Small book where you write notes",
+      "answer": "NOTEBOOK",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Device with letters and numbers you press to type",
+      "answer": "KEYBOARD",
+      "row": 9,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Very strong storm with spinning winds",
+      "answer": "TORNADO",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Lightweight aircraft with one small engine",
+      "answer": "GLIDER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The largest country in South America with the Amazon River",
+      "answer": "BRAZIL",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Country with the Great Wall and the Forbidden City",
+      "answer": "CHINA",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A sharp pointed growth on the stem of a rose",
+      "answer": "THORN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 134

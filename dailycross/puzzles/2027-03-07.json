@@ -4,64 +4,71 @@
   "title": "2027-03-07",
   "words": [
     {
-      "clue": "Digital watch with apps",
-      "answer": "SMARTWATCH",
-      "row": 5,
+      "clue": "Yellow tropical fruit with a rough skin",
+      "answer": "PINEAPPLE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Money that the government takes from people's wages",
+      "answer": "INCOMETAX",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Jewelry worn around the wrist",
+      "answer": "BRACELET",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A book or chart showing all the days of a year",
+      "answer": "CALENDAR",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Machine that puts words and pictures from a computer onto paper",
+      "answer": "PRINTER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tool used to see far stars",
-      "answer": "TELESCOPE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling able to wait",
-      "answer": "PATIENT",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Lives more than one year",
-      "answer": "YEARLY",
-      "row": 3,
-      "col": 7,
+      "clue": "Handle tool used to tighten or loosen nuts and bolts",
+      "answer": "WRENCH",
+      "row": 7,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Blood vessel that carries blood away",
-      "answer": "ARTERY",
-      "row": 5,
+      "clue": "Light rock full of small holes made by a volcano",
+      "answer": "PUMICE",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Vehicle that runs on tracks",
-      "answer": "TRAIN",
-      "row": 7,
-      "col": 3,
+      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
+      "answer": "GINGER",
+      "row": 4,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Winter outerwear",
-      "answer": "COAT",
-      "row": 2,
-      "col": 4,
+      "clue": "The clear liquid your body needs to stay alive every day",
+      "answer": "WATER",
+      "row": 1,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Small picture on a phone screen",
-      "answer": "ICON",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on this with cushions",
-      "answer": "SOFA",
+      "clue": "Protective cover worn over clothing while cooking",
+      "answer": "APRON",
       "row": 5,
       "col": 0,
       "direction": "down"

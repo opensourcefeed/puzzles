@@ -4,112 +4,105 @@
   "title": "Level 109",
   "words": [
     {
-      "clue": "Strong circular wind over ocean",
-      "answer": "HURRICANE",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "December 25 celebration",
-      "answer": "CHRISTMAS",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Computer virus protection",
-      "answer": "ANTIVIRUS",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Volcano erupts with this",
-      "answer": "ERUPTION",
-      "row": 9,
+      "clue": "You write on this with a marker",
+      "answer": "WHITEBOARD",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Top part of your arm",
-      "answer": "SHOULDER",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Long green garden vegetable",
-      "answer": "CUCUMBER",
-      "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Move dirt with this",
-      "answer": "TRACTOR",
+      "clue": "Handheld device used to measure electrical current",
+      "answer": "MULTIMETER",
       "row": 4,
-      "col": 2,
-      "direction": "across"
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "Feeling able to wait",
-      "answer": "PATIENT",
+      "clue": "Long thin pasta dish with tomato sauce",
+      "answer": "SPAGHETTI",
       "row": 5,
-      "col": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Writes books",
-      "answer": "AUTHOR",
-      "row": 8,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Types of money",
-      "answer": "COINS",
-      "row": 2,
+      "clue": "The day that came before today",
+      "answer": "YESTERDAY",
+      "row": 11,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Flies airplanes",
-      "answer": "PILOT",
-      "row": 12,
+      "clue": "Feeling sure of yourself and your abilities",
+      "answer": "CONFIDENT",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The second month of the year",
+      "answer": "FEBRUARY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You put a mattress on this",
-      "answer": "FRAME",
-      "row": 0,
-      "col": 3,
+      "clue": "Box that takes people up and down in a building",
+      "answer": "ELEVATOR",
+      "row": 14,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Can't see well",
-      "answer": "BLUR",
-      "row": 1,
-      "col": 3,
+      "clue": "Device that converts paper documents into digital files",
+      "answer": "SCANNER",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Thick fog that limits sight",
-      "answer": "MIST",
+      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
+      "answer": "GINGER",
       "row": 0,
-      "col": 9,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Scandinavian country with the city of Oslo and fjords",
+      "answer": "NORWAY",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Grain eaten for breakfast with milk",
+      "answer": "CEREAL",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Fried potato strips served with burgers",
+      "answer": "FRIES",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The third month of the year",
+      "answer": "MARCH",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 14,
   "targetWords": 19,
   "difficulty": "hard"
 }

@@ -4,60 +4,74 @@
   "title": "2027-01-17",
   "words": [
     {
-      "clue": "Regular exercise keeps you this",
-      "answer": "HEALTHY",
-      "row": 5,
-      "col": 0,
+      "clue": "A watch with a screen that shows apps and notifications",
+      "answer": "SMARTWATCH",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Country with London",
-      "answer": "ENGLAND",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat high area of land",
-      "answer": "PLATEAU",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Game console by Nintendo",
-      "answer": "SWITCH",
+      "clue": "Holiday on December 25 when gifts are exchanged",
+      "answer": "CHRISTMAS",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
-      "row": 2,
-      "col": 3,
+      "clue": "The outer coat of a seed that protects it",
+      "answer": "SEEDCOAT",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Flies airplanes",
-      "answer": "PILOT",
-      "row": 1,
+      "clue": "Warm pullover top worn in cold weather",
+      "answer": "SWEATER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who writes novels, stories or non-fiction books",
+      "answer": "AUTHOR",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Red round salad vegetable",
+      "answer": "TOMATO",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Device used to take photos and record videos",
+      "answer": "CAMERA",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Long deep crack in the ground with steep walls",
+      "answer": "CANYON",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A ring-shaped coral island with a lagoon in the middle",
+      "answer": "ATOLL",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Two babies born together",
-      "answer": "TWINS",
-      "row": 7,
-      "col": 3,
+      "clue": "Vehicle that slides on snow pulled by dogs or horses",
+      "answer": "SLED",
+      "row": 4,
+      "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Daughter's daughter",
-      "answer": "GIRL",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
     }
   ],
   "dayNumber": 219

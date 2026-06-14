@@ -4,74 +4,67 @@
   "title": "2026-10-12",
   "words": [
     {
-      "clue": "Overhead surface of a room",
-      "answer": "CEILING",
-      "row": 4,
-      "col": 3,
+      "clue": "Light fitting that hangs from the ceiling",
+      "answer": "CHANDELIER",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Flat high area of land",
-      "answer": "PLATEAU",
+      "clue": "The most northerly point of Earth",
+      "answer": "NORTHPOLE",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint where your arm meets your body",
+      "answer": "SHOULDER",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Building where you park your vehicle",
+      "answer": "GARAGE",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Worn on both hands to keep them warm in winter",
+      "answer": "GLOVES",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Eggs beaten and cooked flat in a pan",
+      "answer": "OMELET",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Large boat that carries vehicles across water",
+      "answer": "FERRY",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The flat area where a football match is played",
+      "answer": "FIELD",
       "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Round shape",
-      "answer": "CIRCLE",
+      "clue": "A woman on the day she gets married",
+      "answer": "BRIDE",
       "row": 4,
-      "col": 3,
+      "col": 1,
       "direction": "down"
-    },
-    {
-      "clue": "Newborn baby",
-      "answer": "INFANT",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Pointed weapon shape",
-      "answer": "ARROW",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Big family everyone",
-      "answer": "TRIBE",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Punch holes in paper",
-      "answer": "PUNCH",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Top of the oven for cooking",
-      "answer": "STOVE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Digital money",
-      "answer": "COIN",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Green color in leaves",
-      "answer": "STEM",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
     }
   ],
   "dayNumber": 122

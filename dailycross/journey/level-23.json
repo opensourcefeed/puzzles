@@ -4,49 +4,56 @@
   "title": "Level 23",
   "words": [
     {
-      "clue": "Celebration of a marriage",
-      "answer": "WEDDING",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Happy and bright",
-      "answer": "BRIGHT",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Fallen leaves on ground",
-      "answer": "LEAVES",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Vegetable that grows on a vine",
-      "answer": "SQUASH",
+      "clue": "The largest ocean in the world between Asia and America",
+      "answer": "PACIFIC",
       "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Fine dish material",
-      "answer": "CHINA",
-      "row": 4,
+      "clue": "Mountain with a hole at the top that can erupt",
+      "answer": "VOLCANO",
+      "row": 3,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The booming sound you hear after lightning",
+      "answer": "THUNDER",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You put flowers in this",
-      "answer": "VASE",
-      "row": 3,
-      "col": 7,
+      "clue": "Very dark red like dried blood",
+      "answer": "MAROON",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Small piece of land surrounded by water",
+      "answer": "ISLAND",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Brown vegetable that grows underground and is often fried",
+      "answer": "POTATO",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint at the bottom of your hand connecting to your arm",
+      "answer": "WRIST",
+      "row": 7,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 7,
   "targetWords": 8,
   "difficulty": "easy"
 }

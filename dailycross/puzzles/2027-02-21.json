@@ -4,66 +4,73 @@
   "title": "2027-02-21",
   "words": [
     {
-      "clue": "Bandage that sticks to skin",
-      "answer": "BANDAID",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very interested",
-      "answer": "CURIOUS",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix of red and yellow",
-      "answer": "ORANGE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Underground train system",
-      "answer": "SUBWAY",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you park your car",
-      "answer": "GARAGE",
-      "row": 5,
+      "clue": "June holiday to honor and give gifts to fathers",
+      "answer": "FATHERSDAY",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Brown vegetable that grows in dirt",
-      "answer": "POTATO",
-      "row": 2,
-      "col": 1,
+      "clue": "Important substances in food like vitamins and minerals",
+      "answer": "NUTRIENTS",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Makes computer programs",
-      "answer": "CODER",
-      "row": 1,
-      "col": 6,
+      "clue": "A reduction in price when something goes on sale",
+      "answer": "DISCOUNT",
+      "row": 7,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Soft rope fiber",
-      "answer": "TWINE",
-      "row": 0,
+      "clue": "Person who inspects and repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The ocean surrounding Antarctica at the south of the Earth",
+      "answer": "SOUTHERN",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who lives in the house next to yours",
+      "answer": "NEIGHBOR",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Small device you move on a flat surface to control the cursor",
+      "answer": "MOUSE",
+      "row": 8,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 6,
-      "col": 8,
+      "clue": "This is the current day you are living right now",
+      "answer": "TODAY",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Underwater mountain chain that runs along the ocean floor",
+      "answer": "RIDGE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A box shape with six square faces in three dimensions",
+      "answer": "CUBE",
+      "row": 10,
+      "col": 9,
       "direction": "across"
     }
   ],

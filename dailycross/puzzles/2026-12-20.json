@@ -4,60 +4,46 @@
   "title": "2026-12-20",
   "words": [
     {
-      "clue": "Place where you take a bath",
-      "answer": "BATHROOM",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Robot vacuum",
-      "answer": "VACUUM",
-      "row": 3,
+      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
+      "answer": "AMBULANCE",
+      "row": 1,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Pour dressing from this",
-      "answer": "BOTTLE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Stores your files",
-      "answer": "MEMORY",
-      "row": 8,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Tiny hobby computer",
-      "answer": "BOARD",
-      "row": 5,
+      "clue": "You use these to cut paper in class",
+      "answer": "SCISSORS",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Male part of a flower",
-      "answer": "BLOOM",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Baby kangaroo pocket",
-      "answer": "POUCH",
+      "clue": "Round green vegetable that grows on a vine",
+      "answer": "ZUCCHINI",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Cut bush branches",
-      "answer": "SNIP",
-      "row": 0,
+      "clue": "Two-wheeled vehicle you pedal with your feet",
+      "answer": "BICYCLE",
+      "row": 3,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Large bird with a curved beak that can talk",
+      "answer": "PARROT",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Folder in your email where new messages arrive",
+      "answer": "INBOX",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 191

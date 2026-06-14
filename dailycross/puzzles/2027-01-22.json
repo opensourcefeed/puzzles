@@ -4,45 +4,66 @@
   "title": "2027-01-22",
   "words": [
     {
-      "clue": "Country with Hanoi",
-      "answer": "VIETNAM",
-      "row": 1,
+      "clue": "Scandinavian country with the city of Copenhagen",
+      "answer": "DENMARK",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Celebration of a marriage",
-      "answer": "WEDDING",
-      "row": 0,
+      "clue": "Person who grows crops and raises animals for food",
+      "answer": "FARMER",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Small piece of land surrounded by water",
+      "answer": "ISLAND",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Referee in baseball",
-      "answer": "UMPIRE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Spirit day wear purple",
-      "answer": "SPIRIT",
-      "row": 3,
-      "col": 4,
+      "clue": "Metal tool with sharp holes used to grate cheese",
+      "answer": "GRATER",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Cut pizza with this",
-      "answer": "CUTTER",
-      "row": 1,
-      "col": 9,
+      "clue": "Portable computer used in class",
+      "answer": "LAPTOP",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Organ in your belly that helps digest food",
+      "answer": "LIVER",
+      "row": 7,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Helps sick people at hospital",
-      "answer": "DOCTOR",
-      "row": 6,
-      "col": 4,
+      "clue": "A low wet land often covered with water",
+      "answer": "SWAMP",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The line where land meets the sea",
+      "answer": "COAST",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Very light blue like a robin egg",
+      "answer": "CYAN",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     }
   ],

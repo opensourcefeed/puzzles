@@ -4,74 +4,67 @@
   "title": "2027-04-13",
   "words": [
     {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
-      "row": 4,
+      "clue": "Bright blue-green color of tropical water",
+      "answer": "TURQUOISE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "February 14 celebration",
-      "answer": "VALENTINE",
-      "row": 1,
-      "col": 4,
+      "clue": "All the bones that support your body together",
+      "answer": "SKELETON",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Teaches students at school",
-      "answer": "TEACHER",
-      "row": 6,
+      "clue": "A shape with four equal sides tilted at an angle",
+      "answer": "RHOMBUS",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Decomposed plant matter mixed into soil to help plants grow",
+      "answer": "COMPOST",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Country between France and Spain with the Pyrenees mountains",
+      "answer": "ANDORRA",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Sport where you throw a long metal stick",
-      "answer": "JAVELIN",
+      "clue": "The smallest coin worth only one cent",
+      "answer": "PENNY",
       "row": 5,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Your first given name",
-      "answer": "GIVEN",
-      "row": 1,
-      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Place where a concert is held",
-      "answer": "ARENA",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "White dairy drink",
-      "answer": "MILK",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Ice crystals falling from sky",
-      "answer": "SNOW",
+      "clue": "The planet we live on",
+      "answer": "EARTH",
       "row": 0,
-      "col": 6,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Time the sun rises",
-      "answer": "DAWN",
-      "row": 6,
-      "col": 0,
+      "clue": "The five small parts at the end of your foot",
+      "answer": "TOES",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Breathing help device",
-      "answer": "MASK",
+      "clue": "The time just after the sun goes down",
+      "answer": "DUSK",
       "row": 7,
-      "col": 8,
-      "direction": "down"
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 305

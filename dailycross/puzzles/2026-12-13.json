@@ -4,52 +4,73 @@
   "title": "2026-12-13",
   "words": [
     {
-      "clue": "Studies rocks and Earth",
-      "answer": "GEOLOGIST",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Strong wind storm",
-      "answer": "TORNADO",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Table surface for food prep",
-      "answer": "COUNTER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Shovel snow with this",
-      "answer": "SHOVEL",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Makes cartoons",
-      "answer": "DRAWER",
+      "clue": "Sport where you throw and catch an orange ball through a hoop",
+      "answer": "BASKETBALL",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Protects a park or forest",
-      "answer": "RANGER",
-      "row": 0,
-      "col": 1,
+      "clue": "Large green and red fruit with seeds inside",
+      "answer": "WATERMELON",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Feeling very proud",
-      "answer": "PROUD",
-      "row": 3,
+      "clue": "The set of black and white keys on a piano",
+      "answer": "KEYBOARD",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The outer coat of a seed that protects it",
+      "answer": "SEEDCOAT",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "What happens when ice or chocolate becomes liquid from heat",
+      "answer": "MELTING",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you slide down a snowy hill on long boards",
+      "answer": "SKIING",
+      "row": 11,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Small purple or blue wildflower found in meadows",
+      "answer": "VIOLET",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The words written in a song",
+      "answer": "LYRICS",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Shellfish attached to rocks that opens when in water",
+      "answer": "MUSSEL",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who cuts and styles men's hair",
+      "answer": "BARBER",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     }
   ],

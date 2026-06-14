@@ -4,67 +4,67 @@
   "title": "2026-09-03",
   "words": [
     {
-      "clue": "Long green garden vegetable",
-      "answer": "CUCUMBER",
-      "row": 1,
+      "clue": "Building where scientists do research and experiments",
+      "answer": "LABORATORY",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling nervous before a test",
-      "answer": "NERVOUS",
+      "clue": "Light fitting that hangs from the ceiling",
+      "answer": "CHANDELIER",
       "row": 0,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Hot wet forest near equator",
-      "answer": "JUNGLE",
-      "row": 0,
+      "clue": "Large gray animal with a trunk",
+      "answer": "ELEPHANT",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A young person between thirteen and nineteen years old",
+      "answer": "TEENAGER",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who reads the news on television",
+      "answer": "ANCHOR",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Scandinavian country with the city of Oslo and fjords",
+      "answer": "NORWAY",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Pen for drawing on tablets",
-      "answer": "STYLUS",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you bake bread",
-      "answer": "BAKERY",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "You store blankets in this",
-      "answer": "CHEST",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Smart speaker from Google",
-      "answer": "NEST",
-      "row": 4,
+      "clue": "Your male parent",
+      "answer": "FATHER",
+      "row": 8,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Mixed up and puzzled",
-      "answer": "LOST",
-      "row": 1,
-      "col": 10,
+      "clue": "What your body does when you sleep to repair itself",
+      "answer": "REST",
+      "row": 4,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Flat unleavened food cooked in a pan often with fillings",
+      "answer": "WRAP",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 83

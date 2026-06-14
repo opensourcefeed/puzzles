@@ -4,49 +4,56 @@
   "title": "Level 14",
   "words": [
     {
-      "clue": "Machine that washes dishes",
-      "answer": "DISHWASHER",
-      "row": 4,
+      "clue": "You use this to color and draw pictures",
+      "answer": "CRAYONS",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Vehicle used on a farm to pull heavy equipment",
+      "answer": "TRACTOR",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Long period of very little or no rainfall",
+      "answer": "DROUGHT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of a ripe banana",
+      "answer": "YELLOW",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Small ocean crustacean",
-      "answer": "SHRIMP",
-      "row": 4,
-      "col": 6,
+      "clue": "Hottest season of the year",
+      "answer": "SUMMER",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "August independence of India",
-      "answer": "AUGUST",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Measure length with this",
-      "answer": "RULER",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Shaking from cold",
-      "answer": "SHAKE",
-      "row": 0,
+      "clue": "A quality or characteristic passed down through generations",
+      "answer": "TRAIT",
+      "row": 7,
       "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A large group of singers performing together",
+      "answer": "CHOIR",
+      "row": 4,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 7,
   "targetWords": 7,
   "difficulty": "easy"
 }

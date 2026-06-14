@@ -4,105 +4,91 @@
   "title": "Level 101",
   "words": [
     {
-      "clue": "February celebration of presidents",
-      "answer": "PRESIDENTS",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Studies bugs",
-      "answer": "CATCHER",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Budapest",
-      "answer": "HUNGARY",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Cuts men's hair",
-      "answer": "BARBER",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Sixty seconds",
-      "answer": "MINUTE",
-      "row": 8,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Athens",
-      "answer": "GREECE",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Hold paper towels on this",
-      "answer": "HOLDER",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Country of maple leaves",
-      "answer": "CANADA",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Shy around others",
-      "answer": " QUIET",
-      "row": 13,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Cut wires with this",
-      "answer": "PLIERS",
-      "row": 8,
+      "clue": "Very tall building found in city centers",
+      "answer": "SKYSCRAPER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Animal that sleeps in winter",
-      "answer": "SLEEP",
-      "row": 7,
-      "col": 1,
+      "clue": "Room where you do science experiments",
+      "answer": "LABORATORY",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Fine dish material",
-      "answer": "CHINA",
-      "row": 8,
-      "col": 9,
+      "clue": "A large concert hall where orchestras perform",
+      "answer": "AUDITORIUM",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Our planet",
-      "answer": "EARTH",
+      "clue": "Person who builds and repairs things using wood",
+      "answer": "CARPENTER",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The ninth month of the year",
+      "answer": "SEPTEMBER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Small blue round fruit used in muffins",
+      "answer": "BLUEBERRY",
       "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Person who catches fish as their job",
+      "answer": "FISHERMAN",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The process of a planet spinning on its center line",
+      "answer": "ROTATION",
+      "row": 11,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Measure ingredients with this",
-      "answer": "SCALE",
-      "row": 6,
-      "col": 13,
+      "clue": "The seventh planet from the sun which spins on its side",
+      "answer": "URANUS",
+      "row": 9,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Round orange citrus fruit",
+      "answer": "ORANGE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Your parent's brother",
+      "answer": "UNCLE",
+      "row": 13,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The long part of your body between your head and hips",
+      "answer": "TORSO",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 12,
   "targetWords": 18,
   "difficulty": "hard"
 }

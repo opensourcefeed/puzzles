@@ -4,53 +4,67 @@
   "title": "2027-04-19",
   "words": [
     {
-      "clue": "Ocean animal with a shell",
-      "answer": "TURTLE",
-      "row": 3,
-      "col": 1,
+      "clue": "Dense tropical forest near the equator with heavy rain",
+      "answer": "RAINFOREST",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Apple computer system",
-      "answer": "APPLE",
+      "clue": "A very tall natural rise of land formed by rock",
+      "answer": "MOUNTAIN",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Warm dry wind that blows down the side of a mountain",
+      "answer": "CHINOOK",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Black and white bird that cannot fly",
+      "answer": "PENGUIN",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who cuts and styles men's hair",
+      "answer": "BARBER",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The thin connecting part between your foot and leg",
+      "answer": "ANKLE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Device used to weigh out exact amounts of ingredients",
+      "answer": "SCALE",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where a family lives",
+      "answer": "HOUSE",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "USB storage device",
-      "answer": "DRIVE",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Day of atonement",
-      "answer": "FAST",
-      "row": 0,
-      "col": 4,
+      "clue": "Money you earn for each hour of work",
+      "answer": "WAGE",
+      "row": 4,
+      "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "Rock formed by fire",
-      "answer": "FIRE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Music speed",
-      "answer": "BEAT",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Garden digging tool",
-      "answer": "DIG",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
     }
   ],
   "dayNumber": 311

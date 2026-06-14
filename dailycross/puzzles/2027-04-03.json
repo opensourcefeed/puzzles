@@ -4,67 +4,60 @@
   "title": "2027-04-03",
   "words": [
     {
-      "clue": "Math calculation tool",
-      "answer": "CALCULATOR",
-      "row": 6,
-      "col": 1,
+      "clue": "Vehicle police officers drive",
+      "answer": "POLICECAR",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tool used to see far stars",
-      "answer": "TELESCOPE",
-      "row": 4,
-      "col": 6,
+      "clue": "Person who inspects and repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Feeling full of hope",
-      "answer": "HOPEFUL",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you park your car",
-      "answer": "GARAGE",
-      "row": 5,
+      "clue": "A shape like a can or tube",
+      "answer": "CYLINDER",
+      "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "You cover the floor with this",
-      "answer": "CARPET",
-      "row": 4,
-      "col": 1,
+      "clue": "Feeling positive that good things will happen",
+      "answer": "HOPEFUL",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Ocean mollusk with a spiral shell",
-      "answer": "SNAIL",
+      "clue": "The last day of the school week",
+      "answer": "FRIDAY",
       "row": 8,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Path of a planet around the sun",
-      "answer": "ORBIT",
+      "clue": "Place where a river begins",
+      "answer": "SOURCE",
       "row": 0,
-      "col": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "You hold with these",
-      "answer": "HANDS",
-      "row": 4,
+      "clue": "Building where people who break laws are kept",
+      "answer": "PRISON",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who flies a passenger aircraft",
+      "answer": "PILOT",
+      "row": 3,
       "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "Helps you hear",
-      "answer": "EARS",
-      "row": 8,
-      "col": 9,
-      "direction": "across"
     }
   ],
   "dayNumber": 295

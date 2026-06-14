@@ -4,58 +4,65 @@
   "title": "2027-01-12",
   "words": [
     {
-      "clue": "Delivers mail to homes",
-      "answer": "MAILMAN",
-      "row": 5,
-      "col": 1,
+      "clue": "Device with a wheel used to open the lids of cans",
+      "answer": "CANOPENER",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Small blue wildflower",
-      "answer": "VIOLET",
-      "row": 4,
-      "col": 3,
+      "clue": "Sport where you climb up a rock wall",
+      "answer": "CLIMBING",
+      "row": 6,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Place where a horse lives",
-      "answer": "STABLE",
+      "clue": "Room below the ground floor of a house",
+      "answer": "BASEMENT",
       "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Team sport played with feet",
-      "answer": "SOCCER",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Diamond shape",
-      "answer": "SLANT",
-      "row": 7,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The set of black and white keys on a piano",
+      "answer": "KEYBOARD",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Trains athletes",
-      "answer": "COACH",
+      "clue": "Person who keeps schools and offices clean",
+      "answer": "JANITOR",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "How much matter is packed into an object",
+      "answer": "DENSITY",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The imaginary line around the middle of the Earth",
+      "answer": "EQUATOR",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Trait passed in family",
-      "answer": "GENE",
-      "row": 8,
-      "col": 0,
+      "clue": "Ocean reptile with a hard shell that also lives on land",
+      "answer": "TURTLE",
+      "row": 10,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Person you marry",
-      "answer": "LOVE",
-      "row": 0,
+      "clue": "Country in the Middle East where Jerusalem is located",
+      "answer": "ISRAEL",
+      "row": 6,
       "col": 10,
       "direction": "down"
     }

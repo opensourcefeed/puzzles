@@ -4,67 +4,74 @@
   "title": "2026-07-04",
   "words": [
     {
-      "clue": "Fixes computer problems",
-      "answer": "TECHNICIAN",
-      "row": 2,
+      "clue": "Flying vehicle with spinning blades on the roof",
+      "answer": "HELICOPTER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Four sides with right angles",
-      "answer": "RECTANGLE",
-      "row": 0,
-      "col": 6,
+      "clue": "Brass instrument with a long slide that goes in and out",
+      "answer": "TROMBONE",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Yellow curved fruit",
-      "answer": "BANANA",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where kings and queens live",
-      "answer": "PALACE",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean fish that can inflate",
-      "answer": "PUFFER",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Presents news on television",
-      "answer": "ANCHOR",
-      "row": 1,
+      "clue": "Green salad vegetable that is long and crunchy",
+      "answer": "CUCUMBER",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Heart check machine",
-      "answer": "WATCH",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Male part of a flower",
-      "answer": "BLOOM",
-      "row": 7,
+      "clue": "A person who creates new music",
+      "answer": "COMPOSER",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Money you borrow",
-      "answer": "DEBT",
-      "row": 1,
-      "col": 1,
+      "clue": "Person who delivers your letters and packages to your home",
+      "answer": "MAILMAN",
+      "row": 0,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Animal that glows in the dark at night",
+      "answer": "FIREFLY",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Smooth creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The device on a wall that shows the time",
+      "answer": "CLOCK",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Sixty minutes equals one of these",
+      "answer": "HOUR",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Shellfish that buries in sand and filters the water",
+      "answer": "CLAM",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 22

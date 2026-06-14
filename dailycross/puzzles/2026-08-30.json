@@ -4,66 +4,73 @@
   "title": "2026-08-30",
   "words": [
     {
-      "clue": "Day before today",
-      "answer": "YESTERDAY",
-      "row": 5,
-      "col": 1,
+      "clue": "Heavy cylinder rolled over dough to flatten it",
+      "answer": "ROLLINGPIN",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Australian animal that hops",
-      "answer": "KANGAROO",
-      "row": 4,
+      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
+      "answer": "MOTORCYCLE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A place with equipment where scientists do experiments",
+      "answer": "LABORATORY",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Building where you can borrow books to read for free",
+      "answer": "LIBRARY",
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Day to honor mothers in May",
-      "answer": "MOTHERS",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Your aunt's child",
-      "answer": "COUSIN",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Protects the community",
-      "answer": "POLICE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Holds pants up",
-      "answer": "BELT",
-      "row": 2,
+      "clue": "Person who educates students in a school classroom",
+      "answer": "TEACHER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where you swim",
-      "answer": "POOL",
-      "row": 6,
-      "col": 6,
+      "clue": "European country with the city of Budapest",
+      "answer": "HUNGARY",
+      "row": 2,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Box shape in 3D",
-      "answer": "CUBE",
-      "row": 7,
-      "col": 1,
+      "clue": "Person who creates paintings, drawings and sculptures",
+      "answer": "ARTIST",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Worn on your feet to protect them outside",
+      "answer": "SHOES",
+      "row": 2,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Farm animal that gives us wool",
+      "answer": "SHEEP",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Small building in a garden where tools are stored",
+      "answer": "SHED",
+      "row": 0,
+      "col": 9,
       "direction": "across"
     }
   ],

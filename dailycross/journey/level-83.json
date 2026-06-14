@@ -4,77 +4,112 @@
   "title": "Level 83",
   "words": [
     {
-      "clue": "Carries your books",
-      "answer": "BACKPACK",
-      "row": 4,
+      "clue": "Wooden block used to store and organize kitchen knives",
+      "answer": "KNIFEBLOCK",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Country with Warsaw",
-      "answer": "POLAND",
-      "row": 4,
+      "clue": "Sport where two people try to throw each other to the ground",
+      "answer": "WRESTLING",
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Ocean creature with two shells",
-      "answer": "MUSSEL",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Teacher appreciation",
-      "answer": "THANKS",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving energy of objects",
-      "answer": "MOTION",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Time your cooking with this",
-      "answer": "TIMER",
+      "clue": "Balls, ropes and hoops used in PE class",
+      "answer": "EQUIPMENT",
       "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "You eat meals on this",
-      "answer": "TABLE",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Sharpen knives on this",
-      "answer": "STONE",
-      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Time the sun rises",
-      "answer": "DAWN",
-      "row": 9,
+      "clue": "Sport where you jump as far as you can from a running start",
+      "answer": "LONGJUMP",
+      "row": 10,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Plant that grows on walls",
-      "answer": "MOSS",
-      "row": 0,
+      "clue": "When a substance dissolves in a liquid",
+      "answer": "SOLUTION",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "European country with the city of Brussels",
+      "answer": "BELGIUM",
+      "row": 3,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Shaking from feeling very cold or being very scared",
+      "answer": "SHIVER",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The last day of the school week",
+      "answer": "FRIDAY",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The eighth month of the year",
+      "answer": "AUGUST",
+      "row": 9,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling like you want company because you have no one to talk to",
+      "answer": "LONELY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who creates paintings, drawings and sculptures",
+      "answer": "ARTIST",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Area of land covered with many trees",
+      "answer": "FOREST",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Lazy animal that hangs from trees in South America",
+      "answer": "SLOTH",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A large body of flowing water that runs to the sea",
+      "answer": "RIVER",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Color between blue and green like the sea",
+      "answer": "TEAL",
+      "row": 5,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 15,
   "targetWords": 16,
   "difficulty": "medium"
 }

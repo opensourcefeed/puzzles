@@ -4,84 +4,77 @@
   "title": "Level 47",
   "words": [
     {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 6,
-      "col": 0,
+      "clue": "Land that sticks out into the sea on three sides",
+      "answer": "PENINSULA",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Person who sells things",
-      "answer": "SELLER",
-      "row": 6,
-      "col": 7,
+      "clue": "Pink wading bird that stands on one leg",
+      "answer": "FLAMINGO",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Organ that filters blood",
-      "answer": "KIDNEY",
+      "clue": "The joint where your arm meets your body",
+      "answer": "SHOULDER",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The outer coat of a seed that protects it",
+      "answer": "SEEDCOAT",
       "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Our planet day",
-      "answer": "EARTH",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Thirty or thirty-one days",
-      "answer": "MONTH",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Lift heavy objects",
-      "answer": "CRANE",
+      "clue": "A young person between thirteen and nineteen years old",
+      "answer": "TEENAGER",
       "row": 7,
-      "col": 5,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "A man on his wedding day",
-      "answer": "GROOM",
+      "clue": "Soft shoe worn indoors",
+      "answer": "SLIPPER",
       "row": 0,
-      "col": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Eat soup with this",
-      "answer": "SPOON",
-      "row": 10,
-      "col": 1,
+      "clue": "Country with the cities of Dublin and the Cliffs of Moher",
+      "answer": "IRELAND",
+      "row": 9,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Kid's helper adult",
-      "answer": "GUARD",
-      "row": 8,
-      "col": 2,
+      "clue": "A flat shape with four equal sides and four corners",
+      "answer": "SQUARE",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Paper showing your pay",
-      "answer": "SLIP",
-      "row": 10,
-      "col": 1,
-      "direction": "down"
+      "clue": "Written symbols that tell musicians what sounds to play",
+      "answer": "NOTES",
+      "row": 6,
+      "col": 10,
+      "direction": "across"
     },
     {
-      "clue": "Apple wireless earbuds",
-      "answer": "BUDS",
-      "row": 7,
-      "col": 1,
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 4,
+      "col": 12,
       "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 10,
   "targetWords": 11,
   "difficulty": "medium"
 }

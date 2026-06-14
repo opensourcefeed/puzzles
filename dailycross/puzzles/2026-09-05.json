@@ -4,67 +4,67 @@
   "title": "2026-09-05",
   "words": [
     {
-      "clue": "Place where you eat out",
-      "answer": "RESTAURANT",
-      "row": 4,
-      "col": 1,
+      "clue": "Heavy cylinder rolled over dough to flatten it",
+      "answer": "ROLLINGPIN",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 3,
+      "clue": "Sport where two people try to throw each other to the ground",
+      "answer": "WRESTLING",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The first day of the weekend",
+      "answer": "SATURDAY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal with spots that lives in Africa",
+      "answer": "LEOPARD",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Large ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A tiny organism that can cause illness and infection",
+      "answer": "GERM",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical sound made by a voice or instrument",
+      "answer": "NOTE",
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Tool used to see far stars",
-      "answer": "TELESCOPE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where you cook meals",
-      "answer": "KITCHEN",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Blood vessel that carries blood away",
-      "answer": "ARTERY",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving energy of objects",
-      "answer": "MOTION",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Makes cartoons",
-      "answer": "DRAWER",
+      "clue": "Cool green herb used in toothpaste and chewing gum",
+      "answer": "MINT",
       "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Creates paintings or drawings",
-      "answer": "ARTIST",
-      "row": 2,
-      "col": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Blood vessel that carries blood back",
-      "answer": "VEIN",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
+      "clue": "A small pill or tablet containing medicine",
+      "answer": "PILL",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "dayNumber": 85

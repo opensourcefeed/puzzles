@@ -4,65 +4,51 @@
   "title": "2027-02-11",
   "words": [
     {
-      "clue": "Tall building in a city",
-      "answer": "SKYSCRAPER",
-      "row": 4,
+      "clue": "Country of kangaroos, koalas and the outback",
+      "answer": "AUSTRALIA",
+      "row": 2,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Designs buildings",
-      "answer": "ARCHITECT",
-      "row": 3,
-      "col": 6,
+      "clue": "A large group of musicians playing instruments together",
+      "answer": "ORCHESTRA",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Person who lives next door",
-      "answer": "NEIGHBOR",
-      "row": 3,
+      "clue": "Colorful arc of light in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An unwanted reaction your body has to a food or substance",
+      "answer": "ALLERGY",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The seventh planet from the sun which spins on its side",
+      "answer": "URANUS",
+      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Device that helps you see",
-      "answer": "GLASSES",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling surprised",
-      "answer": "SHOCKED",
-      "row": 9,
-      "col": 7,
+      "clue": "Sport played with a racket and a small yellow ball",
+      "answer": "TENNIS",
+      "row": 7,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Ocean fish that can inflate",
-      "answer": "PUFFER",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Stockholm",
-      "answer": "SWEDEN",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Build houses with this hard block",
-      "answer": "BRICK",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Cut bush branches",
-      "answer": "SNIP",
-      "row": 2,
+      "clue": "Cooked meat in a round bun",
+      "answer": "BURGER",
+      "row": 8,
       "col": 0,
       "direction": "across"
     }

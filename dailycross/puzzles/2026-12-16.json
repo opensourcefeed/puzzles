@@ -4,73 +4,73 @@
   "title": "2026-12-16",
   "words": [
     {
-      "clue": "Your child's child",
-      "answer": "GRANDCHILD",
-      "row": 1,
+      "clue": "Person who inspects and repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling unsure about what to do or think",
+      "answer": "CONFUSED",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall yellow spring flower with a trumpet-shaped center",
+      "answer": "DAFFODIL",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The energy content of food measured in units",
+      "answer": "CALORIES",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean creature with eight arms that can squirt ink",
+      "answer": "OCTOPUS",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Large white box that keeps food cold",
+      "answer": "FRIDGE",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal known for spraying a bad smell",
+      "answer": "SKUNK",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
+      "clue": "Teacher writes on this at the front of the class",
+      "answer": "BOARD",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Baby kangaroo pocket",
-      "answer": "POUCH",
+      "clue": "You breathe air into these two organs in your chest",
+      "answer": "LUNGS",
       "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Become part of a family by law",
-      "answer": "ADOPT",
-      "row": 1,
-      "col": 3,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Round Italian food",
-      "answer": "PIZZA",
+      "clue": "App used to make video calls over the internet",
+      "answer": "ZOOM",
       "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Small picture on a phone screen",
-      "answer": "ICON",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Electricity one direction",
-      "answer": "FLOW",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Smart speaker from Amazon",
-      "answer": "ECHO",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Can't hear well",
-      "answer": "DEAF",
-      "row": 2,
-      "col": 0,
+      "col": 2,
       "direction": "down"
     }
   ],

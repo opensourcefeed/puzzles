@@ -4,74 +4,67 @@
   "title": "2027-01-06",
   "words": [
     {
-      "clue": "Flat high area of land",
-      "answer": "PLATEAU",
-      "row": 4,
-      "col": 3,
+      "clue": "Building where scientists do research and experiments",
+      "answer": "LABORATORY",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling scared",
-      "answer": "AFRAID",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Game console by Nintendo",
-      "answer": "SWITCH",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Your sister's son",
-      "answer": "NEPHEW",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Horse-drawn carriage",
-      "answer": "WAGON",
-      "row": 7,
+      "clue": "Book with words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 0,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Leg covering",
-      "answer": "PANTS",
-      "row": 5,
-      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Ropes are made from strong fibers",
-      "answer": "FIBER",
+      "clue": "A reduction in price when something goes on sale",
+      "answer": "DISCOUNT",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "African-American holiday celebrated December 26 to January 1",
+      "answer": "KWANZAA",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you sail a boat using wind",
+      "answer": "SAILING",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Your sister's or brother's son",
+      "answer": "NEPHEW",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling scared of something",
+      "answer": "AFRAID",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Long flat area of sand next to the ocean",
+      "answer": "BEACH",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Unit of digital information",
-      "answer": "BYTE",
-      "row": 3,
-      "col": 0,
+      "clue": "White vegetable that makes you cry when you cut it",
+      "answer": "ONION",
+      "row": 5,
+      "col": 7,
       "direction": "across"
-    },
-    {
-      "clue": "Day to celebrate science",
-      "answer": "STEM",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "dayNumber": 208

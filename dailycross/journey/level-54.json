@@ -4,91 +4,77 @@
   "title": "Level 54",
   "words": [
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 4,
-      "col": 1,
+      "clue": "Holiday on October 31 when children wear costumes",
+      "answer": "HALLOWEEN",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Teenager 13-19 years old",
-      "answer": "TEENAGER",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Bandage that sticks to skin",
-      "answer": "BANDAID",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You write with this",
-      "answer": "PENCIL",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Pour dressing from this",
-      "answer": "BOTTLE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling very proud",
-      "answer": "PROUD",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on a tall one at a counter",
-      "answer": "STOOL",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Smooth wood with a plane",
-      "answer": "PLANE",
-      "row": 5,
+      "clue": "Holiday celebrating Earth and the environment in April",
+      "answer": "EARTHDAY",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Measure ingredients with this",
-      "answer": "SCALE",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Lift heavy things",
-      "answer": "HOIST",
-      "row": 5,
-      "col": 3,
+      "clue": "Sport where you hit a white ball with a bat and run bases",
+      "answer": "BASEBALL",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Happy about getting a gift",
-      "answer": "GLAD",
+      "clue": "Website where you watch and share videos",
+      "answer": "YOUTUBE",
       "row": 4,
-      "col": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Country in West Africa with the city of Lagos",
+      "answer": "NIGERIA",
+      "row": 1,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Very small blood vessel",
-      "answer": "TINY",
-      "row": 9,
-      "col": 3,
+      "clue": "Building where Muslims go to pray",
+      "answer": "MOSQUE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Eggs beaten and cooked flat in a pan",
+      "answer": "OMELET",
+      "row": 3,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Huge body of salty water that covers most of the Earth",
+      "answer": "OCEAN",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "How fast an object is traveling",
+      "answer": "SPEED",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Curved tool used to eat soup or stir drinks",
+      "answer": "SPOON",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 10,
   "targetWords": 12,
   "difficulty": "medium"
 }

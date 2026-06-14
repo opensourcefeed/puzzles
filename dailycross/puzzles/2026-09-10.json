@@ -4,59 +4,73 @@
   "title": "2026-09-10",
   "words": [
     {
-      "clue": "Pair of married people",
-      "answer": "COUPLE",
-      "row": 1,
-      "col": 2,
+      "clue": "A reduction in price when something goes on sale",
+      "answer": "DISCOUNT",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that flies to space",
-      "answer": "ROCKET",
-      "row": 0,
+      "clue": "Animal that produces silk",
+      "answer": "SILKWORM",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Wear this to protect clothes",
-      "answer": "APRON",
+      "clue": "The energy content of food measured in units",
+      "answer": "CALORIES",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Medicine for sickness",
-      "answer": "CURE",
+      "clue": "The day before Friday",
+      "answer": "THURSDAY",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you sail a boat using wind",
+      "answer": "SAILING",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who looks after nature in a national park or forest",
+      "answer": "RANGER",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sweet liquid that flowers make to attract bees",
+      "answer": "NECTAR",
       "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A woman on the day she gets married",
+      "answer": "BRIDE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Sea mammal that claps and balances balls",
+      "answer": "SEAL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Can't see well",
-      "answer": "BLUR",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Change from solid to liquid",
-      "answer": "MELT",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Measures how much matter is in something",
-      "answer": "MASS",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on foot inside shoe",
-      "answer": "SHOE",
-      "row": 0,
-      "col": 9,
+      "clue": "Moving air you feel outside",
+      "answer": "WIND",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     }
   ],

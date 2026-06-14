@@ -4,91 +4,105 @@
   "title": "Level 68",
   "words": [
     {
-      "clue": "Tool used to see far stars",
-      "answer": "TELESCOPE",
+      "clue": "Small red fruit eaten on cakes and ice cream",
+      "answer": "STRAWBERRY",
       "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean animal with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Country known for tango",
-      "answer": "ARGENTINA",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving your body to stay fit",
-      "answer": "EXERCISE",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn around wrist as accessory",
-      "answer": "BRACELET",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Swim eye wear",
-      "answer": "GOGGLES",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a doctor works",
-      "answer": "CLINIC",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Group of people related by blood",
-      "answer": "FAMILY",
-      "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Place where a horse lives",
-      "answer": "STABLE",
-      "row": 6,
-      "col": 14,
+      "clue": "The middle day of the school week",
+      "answer": "WEDNESDAY",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Mix of red and yellow",
-      "answer": "ORANGE",
+      "clue": "Vehicle that puts out fires with water",
+      "answer": "FIRETRUCK",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Insect with beautiful colored wings",
+      "answer": "BUTTERFLY",
       "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling pleased and content with what you have",
+      "answer": "SATISFIED",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Tall yellow spring flower with a trumpet-shaped center",
+      "answer": "DAFFODIL",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Sport where you row a boat on water",
+      "answer": "ROWING",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A large cloud of gas and dust between the stars",
+      "answer": "NEBULA",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Person trained to examine and treat sick patients",
+      "answer": "DOCTOR",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Reddish orange color like a sunset",
+      "answer": "CORAL",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A small device you wear on your wrist to tell time",
+      "answer": "WATCH",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal that carries its home on its back",
+      "answer": "SNAIL",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Microsoft program used to create spreadsheets",
+      "answer": "EXCEL",
+      "row": 5,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Vehicle that carries goods",
-      "answer": "TRUCK",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Fixes electric wires",
-      "answer": "FIXER",
-      "row": 1,
-      "col": 7,
+      "clue": "The seventh month of the year",
+      "answer": "JULY",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 14,
   "targetWords": 14,
   "difficulty": "medium"
 }

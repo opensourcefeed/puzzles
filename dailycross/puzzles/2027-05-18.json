@@ -4,74 +4,67 @@
   "title": "2027-05-18",
   "words": [
     {
-      "clue": "Person who travels to space",
-      "answer": "ASTRONAUT",
-      "row": 5,
+      "clue": "An object that does not let electricity pass through",
+      "answer": "INSULATOR",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ocean around Antarctica",
-      "answer": "SOUTHERN",
+      "clue": "Arctic black and white swimming bird",
+      "answer": "PENGUIN",
       "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "African-American holiday celebrated December 26 to January 1",
+      "answer": "KWANZAA",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling that you want something very much",
+      "answer": "JEALOUS",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Large cupboard built into the wall for storing clothes",
+      "answer": "CLOSET",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Shop where fresh bread and pastries are made and sold",
+      "answer": "BAKERY",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Written symbols that tell musicians what sounds to play",
+      "answer": "NOTES",
+      "row": 11,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Arrowhead shape",
-      "answer": "DIAMOND",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Diamond shape",
-      "answer": "SLANT",
-      "row": 7,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Flat cooking surface",
-      "answer": "GRILL",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Very surprised",
-      "answer": "SHOCK",
-      "row": 7,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Washing hands is this",
-      "answer": "CLEAN",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "You walk on these",
-      "answer": "FEET",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Plant trees day",
-      "answer": "SEED",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Female part of a flower",
-      "answer": "SEED",
+      "clue": "Large powerful ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
       "row": 0,
-      "col": 6,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "The color of fresh snow",
+      "answer": "WHITE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 340

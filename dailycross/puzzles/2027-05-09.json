@@ -4,59 +4,66 @@
   "title": "2027-05-09",
   "words": [
     {
-      "clue": "Popular search engine",
-      "answer": "GOOGLE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Temperature scale",
-      "answer": "SCALE",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with Madrid",
-      "answer": "SPAIN",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Yellow vegetable on a cob",
-      "answer": "CORN",
-      "row": 3,
+      "clue": "Your tummy where food is digested",
+      "answer": "STOMACH",
+      "row": 2,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Fish with a sword nose",
-      "answer": "LONG",
-      "row": 6,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Not caring about things",
-      "answer": "NUMB",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Electricity pathway",
-      "answer": "PATH",
-      "row": 0,
+      "clue": "An unwanted reaction your body has to a food or substance",
+      "answer": "ALLERGY",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Day to celebrate science",
-      "answer": "STEM",
-      "row": 8,
+      "clue": "Building where you go to watch movies on a big screen",
+      "answer": "THEATER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Place where students go to learn every day",
+      "answer": "SCHOOL",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of a ripe banana",
+      "answer": "YELLOW",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Person who performs dance as a profession",
+      "answer": "DANCER",
+      "row": 4,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Thick yellow dairy spread put on bread",
+      "answer": "BUTTER",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Long padded seat usually placed against a wall",
+      "answer": "BENCH",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Very light blue like a robin egg",
+      "answer": "CYAN",
+      "row": 1,
+      "col": 9,
       "direction": "across"
     }
   ],

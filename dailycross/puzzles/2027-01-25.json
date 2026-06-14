@@ -4,67 +4,67 @@
   "title": "2027-01-25",
   "words": [
     {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Move dirt with this",
-      "answer": "TRACTOR",
+      "clue": "Money that the government takes from people's wages",
+      "answer": "INCOMETAX",
       "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling nervous before a test",
-      "answer": "NERVOUS",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Brother or sister",
-      "answer": "SIBLING",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Game played with racket and yellow ball",
-      "answer": "TENNIS",
-      "row": 10,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Feeling very proud",
-      "answer": "PROUD",
+      "clue": "The main processing chip inside a computer",
+      "answer": "PROCESSOR",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport where you hit a shuttlecock with a racket",
+      "answer": "BADMINTON",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Area of land covered with many trees",
+      "answer": "FOREST",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Largest ocean animal",
-      "answer": "WHALE",
+      "clue": "Large spoon with a long handle used to serve soup",
+      "answer": "LADLE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Large flow of water that runs to the sea",
+      "answer": "RIVER",
       "row": 6,
-      "col": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The number of points a team has in a game",
+      "answer": "SCORE",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Bright object moving through space",
-      "answer": "COMET",
+      "clue": "Largest animal in the ocean",
+      "answer": "WHALE",
       "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Shot that stops sickness",
-      "answer": "SHOT",
-      "row": 7,
       "col": 0,
-      "direction": "across"
+      "direction": "down"
     }
   ],
   "dayNumber": 227

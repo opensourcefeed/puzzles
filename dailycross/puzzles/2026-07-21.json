@@ -4,74 +4,67 @@
   "title": "2026-07-21",
   "words": [
     {
-      "clue": "Memorial Day remembers soldiers",
-      "answer": "MEMORIAL",
+      "clue": "Pink wading bird that stands on one leg",
+      "answer": "FLAMINGO",
       "row": 5,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Flat high area of land",
-      "answer": "PLATEAU",
-      "row": 4,
-      "col": 9,
+      "clue": "You use these to cut paper in class",
+      "answer": "SCISSORS",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
-      "row": 4,
+      "clue": "Green tree vegetable that looks like tiny trees",
+      "answer": "BROCCOLI",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Writes books",
-      "answer": "AUTHOR",
-      "row": 10,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Three babies born together",
-      "answer": "TRIPLE",
+      "clue": "Tall feature on land formed by pushing earth upward",
+      "answer": "MOUNTAIN",
       "row": 0,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "You breathe with these",
-      "answer": "LUNGS",
-      "row": 5,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "You put flowers in this",
-      "answer": "VASE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Sticky plant sap",
-      "answer": "GLUE",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Lap computer desk",
-      "answer": "DESK",
+      "clue": "Feeling worried that something bad will happen",
+      "answer": "ANXIOUS",
       "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "You walk on these",
-      "answer": "FEET",
-      "row": 0,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Feeling worn out after a long day of activity",
+      "answer": "TIRED",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You use this to draw straight lines",
+      "answer": "RULER",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A tiny organism that can cause illness and infection",
+      "answer": "GERM",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Water that falls from clouds",
+      "answer": "RAIN",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 39

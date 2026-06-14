@@ -4,98 +4,91 @@
   "title": "Level 117",
   "words": [
     {
-      "clue": "Game played with shuttlecock",
-      "answer": "BADMINTON",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Catches fish for a living",
-      "answer": "FISHERMAN",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Travels to discover new places",
-      "answer": "EXPLORER",
+      "clue": "Room where you do science experiments",
+      "answer": "LABORATORY",
       "row": 7,
-      "col": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Bread with filling",
-      "answer": "SANDWICH",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Tallest land animal",
-      "answer": "GIRAFFE",
+      "clue": "What you must eat to keep your body working properly",
+      "answer": "NUTRITION",
       "row": 5,
-      "col": 12,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Country with Helsinki",
-      "answer": "FINLAND",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Celebration of a new year",
-      "answer": "NEWYEAR",
-      "row": 1,
-      "col": 14,
+      "clue": "Small book where you write notes",
+      "answer": "NOTEBOOK",
+      "row": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Two-wheeled vehicle you pedal",
-      "answer": "BICYCLE",
-      "row": 2,
-      "col": 8,
+      "clue": "Three children born at the same time to the same mother",
+      "answer": "TRIPLETS",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Sea flower animal",
-      "answer": "FLOWER",
-      "row": 7,
-      "col": 1,
+      "clue": "Sport where you jump as far as you can from a running start",
+      "answer": "LONGJUMP",
+      "row": 5,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Protects the community",
-      "answer": "POLICE",
+      "clue": "Box that takes people up and down in a building",
+      "answer": "ELEVATOR",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Sport of racing on foot as fast as you can",
+      "answer": "RUNNING",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Screen attached to a computer that shows you what is happening",
+      "answer": "MONITOR",
       "row": 5,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Pen for drawing on tablets",
-      "answer": "STYLUS",
-      "row": 4,
-      "col": 2,
+      "clue": "Country with the cities of Dublin and the Cliffs of Moher",
+      "answer": "IRELAND",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Five sided shape",
-      "answer": "POINT",
+      "clue": "You write with this long thin tool",
+      "answer": "PENCIL",
       "row": 0,
-      "col": 9,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Art class tool",
-      "answer": "BRUSH",
-      "row": 10,
+      "clue": "Feeling worn out after a long day of activity",
+      "answer": "TIRED",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Fragrant green herb used on pizzas and in Italian cooking",
+      "answer": "BASIL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 12,
   "targetWords": 21,
   "difficulty": "hard"
 }

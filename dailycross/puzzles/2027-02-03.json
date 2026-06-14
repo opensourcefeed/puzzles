@@ -4,52 +4,73 @@
   "title": "2027-02-03",
   "words": [
     {
-      "clue": "Small river of water",
-      "answer": "STREAM",
-      "row": 3,
+      "clue": "Person who writes computer programs",
+      "answer": "PROGRAMMER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Vegetable that grows on a vine",
-      "answer": "SQUASH",
-      "row": 0,
+      "clue": "Person who organizes and manages books in a library",
+      "answer": "LIBRARIAN",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Mix of red and yellow",
-      "answer": "ORANGE",
-      "row": 2,
+      "clue": "European country with the city of Budapest",
+      "answer": "HUNGARY",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Device that converts paper documents into digital files",
+      "answer": "SCANNER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A child who has been legally taken into a new family",
+      "answer": "ADOPTED",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Country with Madrid",
-      "answer": "SPAIN",
-      "row": 0,
-      "col": 4,
+      "clue": "Small egg-shaped instrument you shake to make sound",
+      "answer": "MARACA",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Sixty seconds equal one of these",
+      "answer": "MINUTE",
+      "row": 3,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Colorful part of a plant that makes seeds",
-      "answer": "PETAL",
-      "row": 7,
-      "col": 1,
+      "clue": "Very dark shade of blue like a school uniform",
+      "answer": "NAVY",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Mountain country in the Himalayas",
-      "answer": "NEPAL",
+      "clue": "A tiny organism that can cause illness and infection",
+      "answer": "GERM",
       "row": 0,
-      "col": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A high mountain pass between two peaks",
+      "answer": "PASS",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     }
   ],

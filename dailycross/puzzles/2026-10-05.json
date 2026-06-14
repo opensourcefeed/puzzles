@@ -4,66 +4,73 @@
   "title": "2026-10-05",
   "words": [
     {
-      "clue": "Microsoft operating system",
-      "answer": "WINDOWS",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Mix of two metals",
-      "answer": "BRONZE",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Makes pots out of clay",
-      "answer": "POTTER",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport played on ice with sticks",
-      "answer": "HOCKEY",
+      "clue": "Round abrasive paper used to smooth rough wood",
+      "answer": "SANDPAPER",
       "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Wear purple day",
-      "answer": "PURPLE",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Shiny coat on pans",
-      "answer": "SHINE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that breaks down fats",
-      "answer": "LIVER",
-      "row": 5,
+      "clue": "Flash of electricity in the sky during a storm",
+      "answer": "LIGHTNING",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Shiny yellow metal",
-      "answer": "GOLD",
-      "row": 5,
-      "col": 0,
+      "clue": "You use this to color and draw pictures",
+      "answer": "CRAYONS",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Small jumping insect that chirps at night",
+      "answer": "CRICKET",
+      "row": 3,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Insect that glows",
-      "answer": "GLOW",
-      "row": 0,
+      "clue": "A flat shape with eight sides like a stop sign",
+      "answer": "OCTAGON",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Tall chest with a mirror on top used for storing clothes",
+      "answer": "DRESSER",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Stringed instrument with six strings you strum or pluck",
+      "answer": "GUITAR",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Small purple or blue wildflower found in meadows",
+      "answer": "VIOLET",
+      "row": 10,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A hot dry region with very little rainfall and few plants",
+      "answer": "DESERT",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The group of players who play on the same side",
+      "answer": "TEAM",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     }
   ],

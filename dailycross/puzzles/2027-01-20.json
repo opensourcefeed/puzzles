@@ -4,67 +4,74 @@
   "title": "2027-01-20",
   "words": [
     {
-      "clue": "Light purple flower color",
-      "answer": "LAVENDER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Day to honor nurses",
-      "answer": "NURSES",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of the Amazon River",
-      "answer": "BRAZIL",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Pour dressing from this",
-      "answer": "BOTTLE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewish lights festival",
-      "answer": "LIGHTS",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Types of money",
-      "answer": "COINS",
-      "row": 1,
+      "clue": "Small round fish that puffs up when threatened",
+      "answer": "PUFFERFISH",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Drill holes with this",
-      "answer": "DRILL",
-      "row": 4,
-      "col": 8,
+      "clue": "Tiny air sacs inside the lungs where gas exchange happens",
+      "answer": "ALVEOLI",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Prices going up",
-      "answer": "RISE",
+      "clue": "Feeling very interested and wanting to explore and find out more",
+      "answer": "CURIOUS",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Fine thin rain that barely gets you wet",
+      "answer": "DRIZZLE",
       "row": 5,
-      "col": 8,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Take your child to work day",
-      "answer": "TAKE",
-      "row": 3,
+      "clue": "Brown vegetable that grows underground and is often fried",
+      "answer": "POTATO",
+      "row": 0,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
+      "answer": "GINGER",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Country of maple leaves, Niagara Falls and hockey",
+      "answer": "CANADA",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Owning a small part of a company",
+      "answer": "SHARE",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Small bag carried by women to hold their belongings",
+      "answer": "PURSE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Animal known for its laugh-like call in Africa",
+      "answer": "HYENA",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 222
