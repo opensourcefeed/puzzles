@@ -142,9 +142,16 @@
       "row": 0,
       "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "You sit on this with cushions",
+      "answer": "SOFA",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 20,
+  "wordCount": 21,
   "targetWords": 25,
   "difficulty": "hard"
 }

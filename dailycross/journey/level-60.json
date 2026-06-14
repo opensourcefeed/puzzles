@@ -6,89 +6,96 @@
     {
       "clue": "Two-wheeled motor vehicle",
       "answer": "MOTORCYCLE",
-      "row": 2,
-      "col": 1,
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Cardboard is thick paper",
       "answer": "CARDBOARD",
-      "row": 0,
-      "col": 5,
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Emergency vehicle with siren",
       "answer": "AMBULANCE",
-      "row": 6,
-      "col": 5,
+      "row": 10,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Hand end parts",
       "answer": "FINGERS",
-      "row": 2,
-      "col": 13,
+      "row": 6,
+      "col": 14,
       "direction": "down"
     },
     {
       "clue": "Studies bugs",
       "answer": "CATCHER",
-      "row": 0,
-      "col": 5,
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Your female parent",
       "answer": "MOTHER",
-      "row": 2,
-      "col": 1,
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Material that blocks electricity",
+      "answer": "RUBBER",
+      "row": 7,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "Vehicle that flies to space",
       "answer": "ROCKET",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
+      "row": 12,
+      "col": 8,
+      "direction": "across"
     },
     {
       "clue": "Makes pots out of clay",
       "answer": "POTTER",
       "row": 4,
-      "col": 7,
-      "direction": "across"
+      "col": 4,
+      "direction": "down"
     },
     {
       "clue": "Coin worth 1 cent",
       "answer": "PENNY",
-      "row": 6,
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean coral reef builder",
+      "answer": "CORAL",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Red ocean algae",
       "answer": "ALGAE",
-      "row": 5,
-      "col": 9,
+      "row": 0,
+      "col": 11,
       "direction": "down"
     },
     {
       "clue": "Score unit in a game",
       "answer": "POINT",
-      "row": 3,
-      "col": 3,
+      "row": 0,
+      "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "Place where you live",
-      "answer": "HOUSE",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 13,
   "targetWords": 13,
   "difficulty": "medium"
 }

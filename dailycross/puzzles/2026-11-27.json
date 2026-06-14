@@ -53,8 +53,15 @@
       "direction": "down"
     },
     {
-      "clue": "Paper showing you paid",
-      "answer": "NOTE",
+      "clue": "Card with money on it",
+      "answer": "CARD",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Unit of digital information",
+      "answer": "BYTE",
       "row": 0,
       "col": 6,
       "direction": "down"

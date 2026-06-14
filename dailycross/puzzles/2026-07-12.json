@@ -7,64 +7,57 @@
       "clue": "Long green garden vegetable",
       "answer": "CUCUMBER",
       "row": 5,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Toast bread in this",
       "answer": "TOASTER",
       "row": 0,
-      "col": 9,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Country with Brussels",
       "answer": "BELGIUM",
       "row": 0,
-      "col": 6,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Studies plants",
       "answer": "GROWER",
       "row": 1,
-      "col": 7,
+      "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "Rock changed by heat",
-      "answer": "CHANGE",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
     },
     {
       "clue": "Cover for garden soil",
       "answer": "COVER",
-      "row": 10,
+      "row": 5,
       "col": 0,
-      "direction": "across"
+      "direction": "down"
     },
     {
       "clue": "Horse-drawn carriage",
       "answer": "WAGON",
       "row": 3,
-      "col": 4,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Freedom celebration",
       "answer": "FREE",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Family tree chart",
       "answer": "TREE",
-      "row": 3,
-      "col": 10,
-      "direction": "across"
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 30

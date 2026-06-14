@@ -32,10 +32,10 @@
       "direction": "across"
     },
     {
-      "clue": "Fingerprint on a surface",
-      "answer": "PRINT",
-      "row": 1,
-      "col": 1,
+      "clue": "Blood carrier in body",
+      "answer": "BLOOD",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
@@ -48,23 +48,30 @@
     {
       "clue": "Mountain country in the Himalayas",
       "answer": "NEPAL",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
+      "row": 8,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Full of energy feeling",
       "answer": "LIVE",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
+      "row": 8,
+      "col": 4,
+      "direction": "down"
     },
     {
       "clue": "Pencil writing material",
       "answer": "LEAD",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Fragrant white spring flower",
+      "answer": "LILY",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 332

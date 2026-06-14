@@ -11,66 +11,52 @@
       "direction": "across"
     },
     {
-      "clue": "Volcano erupts with this",
-      "answer": "ERUPTION",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Rock changed by heat",
-      "answer": "CHANGE",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
       "clue": "Sixty seconds",
       "answer": "MINUTE",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Press garlic with this",
-      "answer": "PRESS",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Goes around something",
-      "answer": "ORBIT",
-      "row": 4,
-      "col": 5,
+      "row": 0,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
     },
     {
       "clue": "A push or a pull on an object",
       "answer": "FORCE",
-      "row": 0,
-      "col": 3,
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Country with Nairobi",
       "answer": "KENYA",
-      "row": 11,
-      "col": 1,
+      "row": 7,
+      "col": 5,
       "direction": "across"
     },
     {
       "clue": "You see with these",
       "answer": "EYES",
-      "row": 4,
-      "col": 11,
+      "row": 7,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Flag flying day",
       "answer": "FLAG",
-      "row": 0,
-      "col": 3,
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "You put flowers in this",
+      "answer": "VASE",
+      "row": 10,
+      "col": 4,
       "direction": "across"
     }
   ],

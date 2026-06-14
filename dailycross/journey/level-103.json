@@ -53,10 +53,10 @@
       "direction": "across"
     },
     {
-      "clue": "Stomach entrance",
-      "answer": "BELLY",
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
       "row": 12,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
@@ -81,13 +81,6 @@
       "direction": "across"
     },
     {
-      "clue": "Green color in leaves",
-      "answer": "STEM",
-      "row": 9,
-      "col": 14,
-      "direction": "down"
-    },
-    {
       "clue": "Microsoft slides",
       "answer": "SHOW",
       "row": 0,
@@ -95,7 +88,7 @@
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 12,
   "targetWords": 19,
   "difficulty": "hard"
 }

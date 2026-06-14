@@ -6,65 +6,65 @@
     {
       "clue": "Gliding on ice",
       "answer": "SKATING",
-      "row": 6,
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Place where you watch movies",
       "answer": "THEATER",
-      "row": 6,
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "Decorates rooms",
       "answer": "PAINTER",
-      "row": 9,
+      "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Grows crops on a farm",
       "answer": "FARMER",
-      "row": 5,
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Blow leaves with this",
       "answer": "BLOWER",
-      "row": 11,
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "You cover the floor with this",
       "answer": "CARPET",
-      "row": 1,
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "You put a mattress on this",
       "answer": "FRAME",
-      "row": 3,
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Ocean animal with pincers",
-      "answer": "CRAB",
+      "clue": "Queen's big day",
+      "answer": "CROWN",
       "row": 8,
-      "col": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Winter celebration",
-      "answer": "YULE",
+      "clue": "Ocean animal with pincers",
+      "answer": "CRAB",
       "row": 0,
-      "col": 7,
-      "direction": "down"
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 35

@@ -6,65 +6,72 @@
     {
       "clue": "Math calculation tool",
       "answer": "CALCULATOR",
-      "row": 4,
-      "col": 0,
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Virtual reality headset",
       "answer": "HEADSET",
-      "row": 2,
-      "col": 6,
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Blood carrier in body",
-      "answer": "BLOOD",
-      "row": 3,
-      "col": 2,
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     },
     {
       "clue": "Large animal people ride",
       "answer": "HORSE",
-      "row": 2,
-      "col": 6,
+      "row": 4,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "Animal that sleeps in winter",
+      "answer": "SLEEP",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
     },
     {
       "clue": "You eat meals on this",
       "answer": "TABLE",
-      "row": 8,
-      "col": 6,
+      "row": 6,
+      "col": 8,
       "direction": "across"
     },
     {
       "clue": "Salty snack often eaten with dip",
       "answer": "CHIPS",
-      "row": 4,
-      "col": 0,
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Lap computer desk",
       "answer": "DESK",
       "row": 6,
-      "col": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Light rock that floats",
-      "answer": "ROCK",
+      "clue": "How big something is",
+      "answer": "SIZE",
       "row": 4,
-      "col": 9,
-      "direction": "down"
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "Measures how much matter is in something",
       "answer": "MASS",
       "row": 0,
-      "col": 9,
-      "direction": "down"
+      "col": 11,
+      "direction": "across"
     }
   ],
   "dayNumber": 326

@@ -7,41 +7,48 @@
       "clue": "Strong circular wind over ocean",
       "answer": "HURRICANE",
       "row": 3,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Gliding on ice",
       "answer": "SKATING",
       "row": 1,
-      "col": 6,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "Screen that shows images",
       "answer": "MONITOR",
       "row": 0,
-      "col": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sidewalks are made of this",
-      "answer": "CEMENT",
-      "row": 0,
+      "clue": "Stage of a butterfly",
+      "answer": "COCOON",
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Green vegetable rabbits love",
-      "answer": "CARROT",
-      "row": 0,
-      "col": 2,
+      "clue": "Sidewalks are made of this",
+      "answer": "CEMENT",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Energy from the sun",
-      "answer": "SOLAR",
-      "row": 6,
+      "clue": "Green vegetable rabbits love",
+      "answer": "CARROT",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "What plants breathe in",
+      "answer": "CARBON",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
@@ -50,21 +57,21 @@
       "answer": "SPEED",
       "row": 1,
       "col": 8,
-      "direction": "down"
+      "direction": "across"
     },
     {
       "clue": "Smart speaker from Amazon",
       "answer": "ECHO",
       "row": 3,
-      "col": 8,
+      "col": 10,
       "direction": "across"
     },
     {
-      "clue": "Thing dissolved in water",
-      "answer": "SALT",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
+      "clue": "Seeing the bright side",
+      "answer": "HOPE",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 216

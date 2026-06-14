@@ -7,64 +7,64 @@
       "clue": "Microsoft operating system",
       "answer": "WINDOWS",
       "row": 3,
-      "col": 2,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Mix of two metals",
+      "answer": "BRONZE",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
     },
     {
       "clue": "Makes pots out of clay",
       "answer": "POTTER",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
+      "row": 6,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Sport played on ice with sticks",
       "answer": "HOCKEY",
-      "row": 6,
-      "col": 2,
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Shiny coat on pans",
       "answer": "SHINE",
       "row": 3,
-      "col": 8,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "What an egg becomes",
-      "answer": "CHICK",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Baby kangaroo pocket",
-      "answer": "POUCH",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Center part of something",
-      "answer": "CORE",
-      "row": 6,
-      "col": 4,
+      "clue": "Organ that breaks down fats",
+      "answer": "LIVER",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Shiny yellow metal",
       "answer": "GOLD",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "Take child to work",
-      "answer": "WORK",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
+      "clue": "Insect that glows",
+      "answer": "GLOW",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 115

@@ -18,44 +18,58 @@
       "direction": "down"
     },
     {
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
       "clue": "Grows crops on a farm",
       "answer": "FARMER",
-      "row": 2,
+      "row": 6,
       "col": 5,
-      "direction": "down"
+      "direction": "across"
     },
     {
       "clue": "Blood vessel that carries blood away",
       "answer": "ARTERY",
-      "row": 7,
-      "col": 4,
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Cares for children at home",
+      "answer": "NANNY",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Coin worth 10 cents",
       "answer": "DIME",
       "row": 4,
-      "col": 7,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "The food you eat each day",
       "answer": "DIET",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
+      "row": 0,
+      "col": 7,
+      "direction": "down"
     },
     {
       "clue": "Mix paint with this stick",
       "answer": "STIR",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
+      "row": 1,
+      "col": 5,
+      "direction": "across"
     },
     {
       "clue": "Sixty minutes",
       "answer": "HOUR",
-      "row": 3,
+      "row": 8,
       "col": 0,
       "direction": "across"
     }

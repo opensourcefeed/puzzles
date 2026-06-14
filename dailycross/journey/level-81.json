@@ -53,20 +53,6 @@
       "direction": "across"
     },
     {
-      "clue": "Queen's big day",
-      "answer": "CROWN",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Thigh bone",
-      "answer": "THIGH",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
       "clue": "Makes medicine",
       "answer": "MAKER",
       "row": 0,
@@ -77,32 +63,53 @@
       "clue": "Jewish new year",
       "answer": "SHANA",
       "row": 1,
-      "col": 5,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Cover for garden soil",
+      "answer": "COVER",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
     },
     {
       "clue": "Stick things with this",
       "answer": "TAPE",
-      "row": 0,
-      "col": 9,
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Mix paint with this stick",
       "answer": "STIR",
-      "row": 8,
-      "col": 0,
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Place where prisoners stay",
       "answer": "JAIL",
-      "row": 10,
-      "col": 3,
+      "row": 6,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Joint between thigh and calf",
+      "answer": "KNEE",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You put flowers in this",
+      "answer": "VASE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 16,
   "difficulty": "medium"
 }

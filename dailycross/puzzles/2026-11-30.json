@@ -39,25 +39,18 @@
       "direction": "across"
     },
     {
-      "clue": "Insect that glows",
-      "answer": "GLOW",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Wanting something badly",
-      "answer": "WISH",
+      "clue": "Unit of electric current",
+      "answer": "WATT",
       "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Egg shape",
-      "answer": "OVAL",
-      "row": 3,
+      "clue": "Wanting something badly",
+      "answer": "WISH",
+      "row": 4,
       "col": 7,
-      "direction": "across"
+      "direction": "down"
     },
     {
       "clue": "Worried about something",
@@ -69,8 +62,8 @@
     {
       "clue": "Full of energy feeling",
       "answer": "LIVE",
-      "row": 3,
-      "col": 10,
+      "row": 2,
+      "col": 9,
       "direction": "down"
     }
   ],

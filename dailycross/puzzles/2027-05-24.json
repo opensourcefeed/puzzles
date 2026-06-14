@@ -6,72 +6,58 @@
     {
       "clue": "Computer virus protection",
       "answer": "ANTIVIRUS",
-      "row": 6,
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Room below your house",
       "answer": "BASEMENT",
-      "row": 5,
+      "row": 6,
       "col": 0,
       "direction": "down"
     },
     {
       "clue": "Country with Kuala Lumpur",
       "answer": "MALAYSIA",
-      "row": 0,
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Riding a bicycle",
       "answer": "CYCLING",
-      "row": 4,
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
       "clue": "Vision vitamin",
       "answer": "CARROT",
-      "row": 1,
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Light bounces off this",
-      "answer": "MIRROR",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
       "clue": "Our planet",
       "answer": "EARTH",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Grows on top of your head",
-      "answer": "HAIR",
-      "row": 8,
-      "col": 8,
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Dark blue like the deep sea",
       "answer": "NAVY",
-      "row": 11,
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where prisoners stay",
-      "answer": "JAIL",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
+      "clue": "Magnifying tool",
+      "answer": "LENS",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 346

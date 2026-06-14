@@ -46,13 +46,6 @@
       "direction": "down"
     },
     {
-      "clue": "Card with money on it",
-      "answer": "CARD",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
       "clue": "Worried about something",
       "answer": "FEAR",
       "row": 7,
@@ -64,6 +57,13 @@
       "answer": "GOT",
       "row": 0,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Store spices in this",
+      "answer": "JAR",
+      "row": 5,
+      "col": 12,
       "direction": "down"
     }
   ],

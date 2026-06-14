@@ -6,36 +6,36 @@
     {
       "clue": "Australian animal that hops",
       "answer": "KANGAROO",
-      "row": 2,
+      "row": 3,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "You hold with these",
+      "answer": "HANDS",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Hold knives on this",
+      "answer": "BLOCK",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Sport where you throw a long stick",
       "answer": "THROW",
       "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Hold knives on this",
-      "answer": "BLOCK",
-      "row": 0,
       "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Loop of water from sky to ground and back",
-      "answer": "CYCLE",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You hold with these",
-      "answer": "HANDS",
-      "row": 1,
-      "col": 1,
       "direction": "down"
     }
   ],

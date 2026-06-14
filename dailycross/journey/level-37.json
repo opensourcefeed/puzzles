@@ -25,6 +25,20 @@
       "direction": "down"
     },
     {
+      "clue": "Mix of two metals",
+      "answer": "BRONZE",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Paper check",
+      "answer": "CHECK",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
       "clue": "Tiny floating sea life",
       "answer": "DRIFT",
       "row": 5,
@@ -41,29 +55,15 @@
     {
       "clue": "Brightly colored garden flower",
       "answer": "TULIP",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny germ that causes colds",
-      "answer": "VIRUS",
-      "row": 4,
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Studies nature",
-      "answer": "LOVER",
+      "clue": "Tiny germ that causes colds",
+      "answer": "VIRUS",
       "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Energy food nutrient",
-      "answer": "RICE",
-      "row": 1,
-      "col": 9,
+      "col": 4,
       "direction": "across"
     }
   ],

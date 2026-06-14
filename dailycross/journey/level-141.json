@@ -142,16 +142,9 @@
       "row": 11,
       "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "Ocean creature that buries in sand",
-      "answer": "CLAM",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
     }
   ],
-  "wordCount": 21,
+  "wordCount": 20,
   "targetWords": 24,
   "difficulty": "hard"
 }

@@ -6,106 +6,92 @@
     {
       "clue": "Game played with shuttlecock",
       "answer": "BADMINTON",
-      "row": 6,
+      "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Cardboard is thick paper",
       "answer": "CARDBOARD",
-      "row": 5,
+      "row": 6,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Volcano erupts with this",
+      "answer": "ERUPTION",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Three sides",
       "answer": "TRIANGLE",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
+      "row": 3,
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "Ocean animal with a hard shell",
       "answer": "LOBSTER",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
+      "row": 6,
+      "col": 10,
+      "direction": "down"
     },
     {
       "clue": "Force that pulls things to Earth",
       "answer": "GRAVITY",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Gliding on ice",
-      "answer": "SKATING",
-      "row": 4,
+      "row": 10,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Music leader",
-      "answer": "LEADER",
+      "clue": "Gliding on ice",
+      "answer": "SKATING",
       "row": 12,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Growing bacteria in a lab",
-      "answer": "GROWTH",
-      "row": 2,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Country with Stockholm",
       "answer": "SWEDEN",
-      "row": 8,
+      "row": 1,
       "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Crunchy green vegetable with stalks",
-      "answer": "CELERY",
-      "row": 7,
-      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Hold paper towels on this",
       "answer": "HOLDER",
-      "row": 2,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Cuts men's hair",
-      "answer": "BARBER",
-      "row": 11,
-      "col": 3,
+      "row": 5,
+      "col": 9,
       "direction": "across"
     },
     {
       "clue": "Art class tool",
       "answer": "BRUSH",
-      "row": 8,
-      "col": 10,
-      "direction": "across"
+      "row": 9,
+      "col": 2,
+      "direction": "down"
     },
     {
       "clue": "Guards a building",
       "answer": "GUARD",
-      "row": 13,
+      "row": 14,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Paper showing you paid",
-      "answer": "NOTE",
+      "clue": "Water vapor becomes liquid",
+      "answer": "RAIN",
       "row": 10,
-      "col": 9,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Card with money on it",
+      "answer": "CARD",
+      "row": 10,
+      "col": 0,
       "direction": "across"
     },
     {
@@ -114,16 +100,9 @@
       "row": 0,
       "col": 10,
       "direction": "down"
-    },
-    {
-      "clue": "Hot body temperature",
-      "answer": "HEAT",
-      "row": 10,
-      "col": 7,
-      "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 14,
   "targetWords": 21,
   "difficulty": "hard"
 }

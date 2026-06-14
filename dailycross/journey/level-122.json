@@ -81,13 +81,6 @@
       "direction": "down"
     },
     {
-      "clue": "Goes around something",
-      "answer": "ORBIT",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
       "clue": "Space rock that hits Earth",
       "answer": "ROCK",
       "row": 7,
@@ -102,6 +95,20 @@
       "direction": "across"
     },
     {
+      "clue": "Muscle building food",
+      "answer": "MEAT",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Arctic bear",
+      "answer": "BEAR",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
       "clue": "Female part of a flower",
       "answer": "SEED",
       "row": 9,
@@ -109,7 +116,7 @@
       "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 16,
   "targetWords": 21,
   "difficulty": "hard"
 }

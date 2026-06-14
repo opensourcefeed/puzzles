@@ -95,13 +95,6 @@
       "direction": "down"
     },
     {
-      "clue": "Paper showing you paid",
-      "answer": "NOTE",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
       "clue": "Card with money on it",
       "answer": "CARD",
       "row": 4,
@@ -111,16 +104,16 @@
     {
       "clue": "The food you eat each day",
       "answer": "DIET",
-      "row": 9,
-      "col": 14,
-      "direction": "down"
+      "row": 4,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "A small unit of money",
       "answer": "CENT",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
+      "row": 10,
+      "col": 3,
+      "direction": "down"
     },
     {
       "clue": "Mix paint with this stick",
@@ -128,9 +121,30 @@
       "row": 9,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Pencil made of this",
+      "answer": "LEAD",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "European money unit",
+      "answer": "EURO",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Boat parking place",
+      "answer": "DOCK",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 20,
   "targetWords": 23,
   "difficulty": "hard"
 }

@@ -53,6 +53,13 @@
       "direction": "across"
     },
     {
+      "clue": "Thigh bone",
+      "answer": "THIGH",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
       "clue": "You walk through this",
       "answer": "DOOR",
       "row": 0,
@@ -64,13 +71,6 @@
       "answer": "STIR",
       "row": 3,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Extra cost on a loan",
-      "answer": "MORE",
-      "row": 7,
-      "col": 2,
       "direction": "down"
     }
   ],

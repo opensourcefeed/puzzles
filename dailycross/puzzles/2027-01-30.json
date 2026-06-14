@@ -32,6 +32,13 @@
       "direction": "across"
     },
     {
+      "clue": "Queen's big day",
+      "answer": "CROWN",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
       "clue": "Build houses with this hard block",
       "answer": "BRICK",
       "row": 9,
@@ -41,22 +48,22 @@
     {
       "clue": "Dry dishes with this",
       "answer": "TOWEL",
-      "row": 4,
+      "row": 7,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Punch holes in paper",
+      "answer": "PUNCH",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Makes clothes",
       "answer": "SEWER",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Winter celebration",
-      "answer": "YULE",
-      "row": 0,
-      "col": 5,
+      "row": 1,
+      "col": 9,
       "direction": "down"
     }
   ],

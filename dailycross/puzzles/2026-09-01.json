@@ -6,72 +6,72 @@
     {
       "clue": "What a caterpillar becomes",
       "answer": "BUTTERFLY",
-      "row": 5,
+      "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Travels to discover new places",
       "answer": "EXPLORER",
-      "row": 5,
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Place where you cook meals",
       "answer": "KITCHEN",
-      "row": 3,
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Intelligent ocean mammal",
       "answer": "DOLPHIN",
-      "row": 9,
+      "row": 7,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Draw circles with this",
       "answer": "COMPASS",
-      "row": 6,
+      "row": 4,
       "col": 9,
       "direction": "down"
     },
     {
       "clue": "Bandage that sticks to skin",
       "answer": "BANDAID",
-      "row": 5,
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Room where you watch TV",
       "answer": "LIVING",
-      "row": 10,
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Music leader",
-      "answer": "LEADER",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 2,
-      "col": 7,
+      "clue": "Water vapor becomes liquid",
+      "answer": "RAIN",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Digital money",
       "answer": "COIN",
-      "row": 7,
+      "row": 5,
       "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "Animals that eat plants",
+      "answer": "DEER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 81

@@ -7,130 +7,123 @@
       "clue": "Game played with shuttlecock",
       "answer": "BADMINTON",
       "row": 7,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Travels to discover new places",
       "answer": "EXPLORER",
       "row": 3,
-      "col": 9,
+      "col": 10,
       "direction": "down"
     },
     {
       "clue": "Place where fish are kept",
       "answer": "AQUARIUM",
       "row": 7,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Subject about the past",
       "answer": "HISTORY",
       "row": 6,
-      "col": 6,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Your sister's son",
       "answer": "NEPHEW",
       "row": 5,
-      "col": 7,
+      "col": 8,
       "direction": "across"
     },
     {
       "clue": "Breathing trouble",
       "answer": "WHEEZE",
       "row": 9,
-      "col": 7,
+      "col": 8,
       "direction": "across"
     },
     {
       "clue": "Open cans with this",
       "answer": "OPENER",
       "row": 3,
-      "col": 7,
+      "col": 8,
       "direction": "across"
     },
     {
       "clue": "Feeling uncertain",
       "answer": "UNSURE",
       "row": 9,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Robot vacuum",
       "answer": "VACUUM",
       "row": 6,
-      "col": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 8,
+      "col": 13,
       "direction": "down"
     },
     {
       "clue": "Largest country in the world",
       "answer": "RUSSIA",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
+      "row": 11,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "Your female parent",
-      "answer": "MOTHER",
-      "row": 14,
-      "col": 3,
+      "clue": "Sea flower animal",
+      "answer": "FLOWER",
+      "row": 13,
+      "col": 8,
       "direction": "across"
     },
     {
       "clue": "Shy around others",
       "answer": " QUIET",
       "row": 12,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Pumps blood through your body",
       "answer": "HEART",
-      "row": 8,
-      "col": 12,
+      "row": 0,
+      "col": 13,
       "direction": "down"
     },
     {
       "clue": "Electric car company",
       "answer": "TESLA",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "World environment day",
-      "answer": "WORLD",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Cork tree bark",
-      "answer": "BARK",
-      "row": 1,
-      "col": 12,
+      "row": 3,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "Types of money",
+      "answer": "COINS",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Extra cost on a loan",
       "answer": "MORE",
       "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where ships dock",
-      "answer": "PORT",
-      "row": 11,
       "col": 10,
-      "direction": "across"
+      "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 22,
   "difficulty": "hard"
 }

@@ -6,131 +6,103 @@
     {
       "clue": "Country with Singapore city",
       "answer": "SINGAPORE",
-      "row": 6,
+      "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Catches fish for a living",
       "answer": "FISHERMAN",
-      "row": 5,
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "Place where you buy medicine",
       "answer": "PHARMACY",
-      "row": 6,
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Celebration of a new year",
       "answer": "NEWYEAR",
-      "row": 5,
+      "row": 2,
       "col": 11,
       "direction": "down"
     },
     {
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
       "clue": "Your aunt's child",
       "answer": "COUSIN",
-      "row": 12,
+      "row": 9,
       "col": 8,
       "direction": "across"
     },
     {
       "clue": "Sixty seconds",
       "answer": "MINUTE",
-      "row": 13,
+      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
       "clue": "Dry sandy area with little water",
       "answer": "DESERT",
-      "row": 8,
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Getting money back when you return something",
       "answer": "REFUND",
-      "row": 8,
+      "row": 5,
       "col": 13,
       "direction": "down"
     },
     {
       "clue": "You rock in this on the porch",
       "answer": "ROCKER",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on feet",
-      "answer": "SOCKS",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Electric car company",
-      "answer": "TESLA",
-      "row": 2,
-      "col": 7,
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "Score unit in a game",
       "answer": "POINT",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You put books on this",
-      "answer": "SHELF",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal that sleeps in winter",
-      "answer": "SLEEP",
-      "row": 1,
-      "col": 9,
+      "row": 6,
+      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "Jewish new year",
-      "answer": "SHANA",
-      "row": 1,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Take child to work",
-      "answer": "WORK",
-      "row": 7,
-      "col": 11,
-      "direction": "across"
     },
     {
       "clue": "Floors are often made of this",
       "answer": "WOOD",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
+      "row": 4,
+      "col": 11,
+      "direction": "across"
     },
     {
-      "clue": "You lock your valuables in this",
-      "answer": "SAFE",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
+      "clue": "Large water vehicle",
+      "answer": "SHIP",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 14,
   "targetWords": 22,
   "difficulty": "hard"
 }

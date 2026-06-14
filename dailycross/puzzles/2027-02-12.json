@@ -6,63 +6,42 @@
     {
       "clue": "Breakfast egg dish",
       "answer": "OMELET",
-      "row": 7,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Sweet brown dessert topping",
-      "answer": "FUDGE",
-      "row": 3,
-      "col": 2,
+      "clue": "Money per year of work",
+      "answer": "SALARY",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Arm bend point",
       "answer": "ELBOW",
-      "row": 7,
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
       "clue": "When your body fights an infection",
       "answer": "FEVER",
-      "row": 3,
-      "col": 2,
+      "row": 5,
+      "col": 1,
       "direction": "across"
-    },
-    {
-      "clue": "Earth's natural satellite",
-      "answer": "MOON",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
     },
     {
       "clue": "Kicked in soccer",
       "answer": "BALL",
-      "row": 9,
-      "col": 2,
+      "row": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tiny living thing that can make you sick",
-      "answer": "GERM",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where you get coffee",
-      "answer": "CAFE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Muscle building food",
-      "answer": "MEAT",
-      "row": 5,
+      "clue": "Covering of a cell",
+      "answer": "SKIN",
+      "row": 1,
       "col": 5,
       "direction": "across"
     }

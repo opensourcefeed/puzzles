@@ -7,64 +7,64 @@
       "clue": "Sun-loving tall yellow flower",
       "answer": "SUNFLOWER",
       "row": 2,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Ocean around Antarctica",
       "answer": "SOUTHERN",
       "row": 1,
-      "col": 5,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Person who lives next door",
       "answer": "NEIGHBOR",
       "row": 2,
-      "col": 2,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "You hang a mirror on this",
       "answer": "DRESSER",
       "row": 7,
-      "col": 4,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Spirit day wear purple",
       "answer": "SPIRIT",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Money per year of work",
+      "answer": "SALARY",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
     },
     {
       "clue": "What plants breathe in",
       "answer": "CARBON",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling scared",
-      "answer": "AFRAID",
-      "row": 9,
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that carries goods",
-      "answer": "TRUCK",
+      "clue": "Feeling scared",
+      "answer": "AFRAID",
       "row": 0,
-      "col": 5,
-      "direction": "across"
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "Putting money in business",
-      "answer": "BUY",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
+      "clue": "Vehicle that carries goods",
+      "answer": "TRUCK",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 319

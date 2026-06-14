@@ -6,72 +6,65 @@
     {
       "clue": "Place where firefighters work",
       "answer": "FIREHOUSE",
-      "row": 2,
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Country with Berlin",
       "answer": "GERMANY",
-      "row": 1,
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Closest planet to the sun",
       "answer": "MERCURY",
-      "row": 4,
+      "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Largest country in the world",
       "answer": "RUSSIA",
-      "row": 4,
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Energy from the sun",
-      "answer": "SOLAR",
-      "row": 6,
-      "col": 5,
+      "clue": "Material that blocks electricity",
+      "answer": "RUBBER",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny living thing that can make you sick",
+      "answer": "GERM",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Your child's child",
       "answer": "BABY",
-      "row": 1,
+      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
       "clue": "Part ownership in a company",
       "answer": "PART",
-      "row": 9,
+      "row": 8,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Paper showing your pay",
-      "answer": "SLIP",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "How big something is",
-      "answer": "SIZE",
-      "row": 0,
-      "col": 1,
       "direction": "across"
     },
     {
       "clue": "A small unit of money",
       "answer": "CENT",
-      "row": 6,
+      "row": 2,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     }
   ],
   "dayNumber": 329

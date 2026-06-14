@@ -74,32 +74,32 @@
       "direction": "down"
     },
     {
-      "clue": "You eat meals on this",
-      "answer": "TABLE",
+      "clue": "Goes back and forth",
+      "answer": "SWITCH",
       "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Heart check machine",
-      "answer": "WATCH",
-      "row": 1,
-      "col": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Whisk eggs with this",
-      "answer": "WHISK",
-      "row": 0,
-      "col": 13,
+      "clue": "Cares for children at home",
+      "answer": "NANNY",
+      "row": 2,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "White dairy drink",
+      "answer": "MILK",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Aromatic plant used in tea",
       "answer": "MINT",
       "row": 0,
-      "col": 4,
-      "direction": "across"
+      "col": 12,
+      "direction": "down"
     },
     {
       "clue": "Red flower given on Valentine's",
@@ -114,16 +114,9 @@
       "row": 8,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Woven bench material",
-      "answer": "WOOD",
-      "row": 6,
-      "col": 1,
-      "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 16,
   "targetWords": 22,
   "difficulty": "hard"
 }

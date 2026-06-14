@@ -67,32 +67,18 @@
       "direction": "down"
     },
     {
-      "clue": "Mix of two metals",
-      "answer": "BRONZE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Roll dough with this",
-      "answer": "ROLLER",
+      "clue": "Measures temperature",
+      "answer": "GAUGE",
       "row": 8,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Water becomes gas",
-      "answer": "STEAM",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
+      "direction": "across"
     },
     {
       "clue": "Most populated country",
       "answer": "CHINA",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
+      "row": 2,
+      "col": 8,
+      "direction": "down"
     },
     {
       "clue": "Leg covering",
@@ -102,21 +88,14 @@
       "direction": "down"
     },
     {
-      "clue": "You lock your valuables in this",
-      "answer": "SAFE",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Sweet baked dessert",
-      "answer": "CAKE",
-      "row": 0,
-      "col": 4,
+      "clue": "Two or more atoms together",
+      "answer": "PAIR",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 13,
   "targetWords": 17,
   "difficulty": "medium"
 }

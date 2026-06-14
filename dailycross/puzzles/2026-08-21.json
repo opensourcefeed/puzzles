@@ -7,71 +7,71 @@
       "clue": "Day before today",
       "answer": "YESTERDAY",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Flash of light in storm",
       "answer": "LIGHTNING",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Watering tool with a spray head",
       "answer": "SPRINKLER",
       "row": 2,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Bones inside your body",
       "answer": "SKELETON",
       "row": 7,
-      "col": 5,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Celebration of our planet",
       "answer": "EARTHDAY",
       "row": 4,
-      "col": 2,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "Digital book reader",
       "answer": "EREADER",
       "row": 9,
-      "col": 6,
+      "col": 5,
       "direction": "across"
     },
     {
       "clue": "Place where athletes play",
       "answer": "STADIUM",
       "row": 2,
-      "col": 6,
+      "col": 5,
       "direction": "across"
     },
     {
       "clue": "A jar where you put spare change",
       "answer": "PIGGY",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "How much space something takes",
-      "answer": "SPACE",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
+      "clue": "Material inside a wire",
+      "answer": "METAL",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
     },
     {
       "clue": "Mix paint with this stick",
       "answer": "STIR",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
+      "row": 1,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 70

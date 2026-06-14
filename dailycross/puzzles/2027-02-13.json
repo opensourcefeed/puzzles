@@ -25,13 +25,6 @@
       "direction": "down"
     },
     {
-      "clue": "Goes back and forth",
-      "answer": "SWITCH",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
       "clue": "Vehicle that runs on tracks",
       "answer": "TRAIN",
       "row": 3,
@@ -41,37 +34,37 @@
     {
       "clue": "Second most populated country",
       "answer": "INDIA",
-      "row": 0,
-      "col": 6,
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Garden border plant",
-      "answer": "HEDGE",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
+      "clue": "Animal that sleeps in winter",
+      "answer": "SLEEP",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
     },
     {
       "clue": "Round coral island",
       "answer": "RING",
-      "row": 1,
-      "col": 4,
+      "row": 7,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "You sit at this",
       "answer": "DESK",
-      "row": 2,
-      "col": 8,
+      "row": 7,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Spinning wind storm",
       "answer": "WIND",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 246

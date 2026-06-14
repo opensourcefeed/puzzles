@@ -6,37 +6,37 @@
     {
       "clue": "Part of the body that digests food",
       "answer": "STOMACH",
-      "row": 1,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Vehicle with two wheels and a motor",
       "answer": "SCOOTER",
-      "row": 1,
-      "col": 1,
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Peel potatoes with this",
-      "answer": "PEELER",
-      "row": 6,
+      "clue": "Mattresses have metal coils",
+      "answer": "SPRING",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Paper from wood",
-      "answer": "PAPER",
-      "row": 0,
-      "col": 5,
+      "clue": "Day to plant trees",
+      "answer": "ARBOR",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Day to plant trees",
-      "answer": "ARBOR",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
+      "clue": "Flat ocean fish",
+      "answer": "FLAT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "wordCount": 5,

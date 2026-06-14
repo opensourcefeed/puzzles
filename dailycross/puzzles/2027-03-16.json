@@ -60,17 +60,17 @@
       "direction": "down"
     },
     {
+      "clue": "Goes around something",
+      "answer": "ORBIT",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
       "clue": "Mountain country in the Himalayas",
       "answer": "NEPAL",
       "row": 3,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You put a doormat on this",
-      "answer": "FLOOR",
-      "row": 7,
-      "col": 7,
       "direction": "across"
     }
   ],

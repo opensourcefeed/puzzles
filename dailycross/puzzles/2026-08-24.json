@@ -4,65 +4,72 @@
   "title": "2026-08-24",
   "words": [
     {
-      "clue": "Volcano erupts with this",
-      "answer": "ERUPTION",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
       "clue": "Planet with rings around it",
       "answer": "SATURN",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Small blue wildflower",
       "answer": "VIOLET",
-      "row": 2,
-      "col": 9,
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Grows crops on a farm",
       "answer": "FARMER",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
+      "row": 3,
+      "col": 4,
+      "direction": "down"
     },
     {
       "clue": "Celebration with eggs and bunny",
       "answer": "EASTER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
+      "row": 7,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Loop of water from sky to ground and back",
       "answer": "CYCLE",
-      "row": 0,
-      "col": 3,
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
+      "row": 3,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Thigh bone",
+      "answer": "THIGH",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Handheld device for calls and apps",
+      "answer": "PHONE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Family tree chart",
       "answer": "TREE",
       "row": 4,
-      "col": 0,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Egg shape",
       "answer": "OVAL",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The food you eat each day",
-      "answer": "DIET",
-      "row": 8,
+      "row": 0,
       "col": 1,
       "direction": "across"
     }

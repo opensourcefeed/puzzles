@@ -53,6 +53,13 @@
       "direction": "down"
     },
     {
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
       "clue": "Your female sibling",
       "answer": "SISTER",
       "row": 6,
@@ -76,23 +83,9 @@
     {
       "clue": "Large flowing body of water",
       "answer": "RIVER",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal that sleeps in winter",
-      "answer": "SLEEP",
       "row": 7,
-      "col": 9,
+      "col": 12,
       "direction": "down"
-    },
-    {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
     },
     {
       "clue": "Money you spend",
@@ -100,9 +93,23 @@
       "row": 4,
       "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Can't hear well",
+      "answer": "DEAF",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "December 25",
+      "answer": "XMAS",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 18,
   "difficulty": "hard"
 }

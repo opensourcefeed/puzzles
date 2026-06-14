@@ -18,17 +18,17 @@
       "direction": "down"
     },
     {
-      "clue": "How much space something takes",
-      "answer": "SPACE",
-      "row": 2,
-      "col": 6,
+      "clue": "Material inside a wire",
+      "answer": "METAL",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Temperature scale",
       "answer": "SCALE",
       "row": 5,
-      "col": 5,
+      "col": 4,
       "direction": "across"
     },
     {
@@ -42,22 +42,22 @@
       "clue": "White dairy drink",
       "answer": "MILK",
       "row": 0,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Full of energy feeling",
       "answer": "LIVE",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
+      "row": 1,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Family last name",
       "answer": "NAME",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
+      "row": 5,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 154

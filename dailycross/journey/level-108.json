@@ -81,13 +81,6 @@
       "direction": "across"
     },
     {
-      "clue": "Goes around something",
-      "answer": "ORBIT",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
       "clue": "Colorful part of a plant that makes seeds",
       "answer": "PETAL",
       "row": 8,
@@ -98,28 +91,21 @@
       "clue": "Ocean coral reef builder",
       "answer": "CORAL",
       "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Pencil made of this",
-      "answer": "LEAD",
-      "row": 1,
-      "col": 11,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "Fine china material",
+      "answer": "CLAY",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
     },
     {
       "clue": "Small plant with a soft stem",
       "answer": "HERB",
       "row": 2,
-      "col": 5,
+      "col": 3,
       "direction": "across"
     },
     {
@@ -128,9 +114,16 @@
       "row": 4,
       "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Flat ocean fish",
+      "answer": "FLAT",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 19,
   "difficulty": "hard"
 }

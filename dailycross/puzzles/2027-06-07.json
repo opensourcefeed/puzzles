@@ -6,64 +6,71 @@
     {
       "clue": "Studies bugs",
       "answer": "CATCHER",
-      "row": 1,
-      "col": 3,
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Country with Vienna",
       "answer": "AUSTRIA",
-      "row": 1,
-      "col": 4,
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Shovel snow with this",
       "answer": "SHOVEL",
-      "row": 0,
-      "col": 7,
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "How heavy something is",
       "answer": "WEIGHT",
-      "row": 4,
-      "col": 6,
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "A cold causes this",
       "answer": "COUGH",
-      "row": 0,
-      "col": 10,
+      "row": 3,
+      "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "Energy from the sun",
-      "answer": "SOLAR",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
     },
     {
       "clue": "Running path around a field",
       "answer": "TRACK",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
+      "row": 10,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "You store blankets in this",
       "answer": "CHEST",
-      "row": 3,
-      "col": 1,
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Queen's big day",
+      "answer": "CROWN",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny living thing that can make you sick",
+      "answer": "GERM",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Money from a job",
       "answer": "CASH",
-      "row": 0,
-      "col": 10,
+      "row": 3,
+      "col": 8,
       "direction": "across"
     }
   ],

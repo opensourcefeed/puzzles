@@ -6,131 +6,117 @@
     {
       "clue": "Large group of musicians",
       "answer": "ORCHESTRA",
-      "row": 7,
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Flat high area of land",
       "answer": "PLATEAU",
-      "row": 3,
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Place where you cook meals",
       "answer": "KITCHEN",
-      "row": 5,
+      "row": 2,
       "col": 9,
       "direction": "down"
     },
     {
       "clue": "Leafy green vegetable",
       "answer": "SPINACH",
-      "row": 3,
+      "row": 0,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Virtual reality headset",
       "answer": "HEADSET",
-      "row": 10,
+      "row": 7,
       "col": 8,
       "direction": "across"
     },
     {
       "clue": "Invisible power that attracts metal",
       "answer": "MAGNET",
-      "row": 6,
+      "row": 3,
       "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
-      "row": 7,
-      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Makes pots out of clay",
       "answer": "POTTER",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
+      "row": 3,
+      "col": 3,
+      "direction": "down"
     },
     {
       "clue": "Hindu festival of lights",
       "answer": "DIWALI",
-      "row": 4,
+      "row": 1,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Soft white rock",
-      "answer": "CHALK",
-      "row": 5,
+      "clue": "Your father's brother",
+      "answer": "UNCLE",
+      "row": 2,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
       "clue": "Our planet",
       "answer": "EARTH",
-      "row": 8,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Energy from the sun",
-      "answer": "SOLAR",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 5,
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How much space something takes",
-      "answer": "SPACE",
+      "clue": "Black and white bear",
+      "answer": "PANDA",
       "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Shaking from cold",
-      "answer": "SHAKE",
-      "row": 1,
-      "col": 2,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "Food allergy reaction",
       "answer": "ITCH",
-      "row": 5,
+      "row": 2,
       "col": 11,
       "direction": "across"
     },
     {
       "clue": "Ice cream shop",
       "answer": "SHOP",
-      "row": 1,
-      "col": 2,
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Wanting something badly",
       "answer": "WISH",
-      "row": 0,
-      "col": 12,
+      "row": 1,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Video call software",
+      "answer": "ZOOM",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Space rock that hits Earth",
+      "answer": "ROCK",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 16,
   "targetWords": 23,
   "difficulty": "hard"
 }

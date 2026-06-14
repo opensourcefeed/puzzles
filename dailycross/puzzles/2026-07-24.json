@@ -7,63 +7,70 @@
       "clue": "First month of the year",
       "answer": "JANUARY",
       "row": 4,
-      "col": 3,
+      "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "Light bounces off this",
-      "answer": "MIRROR",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
     },
     {
       "clue": "Holds napkins on the table",
       "answer": "NAPKIN",
       "row": 4,
-      "col": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Dry sandy area with little water",
+      "answer": "DESERT",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Diamond shape",
       "answer": "SLANT",
-      "row": 9,
-      "col": 2,
+      "row": 2,
+      "col": 7,
       "direction": "across"
     },
     {
       "clue": "Striped horse-like animal",
       "answer": "ZEBRA",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Night color",
       "answer": "BLACK",
       "row": 7,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Cut vegetables with this",
       "answer": "KNIFE",
-      "row": 1,
-      "col": 0,
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Fingerprint on a surface",
-      "answer": "PRINT",
-      "row": 7,
-      "col": 7,
+      "clue": "Blood carrier in body",
+      "answer": "BLOOD",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Magnifying tool",
+      "answer": "LENS",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Thick fog that limits sight",
       "answer": "MIST",
-      "row": 4,
-      "col": 11,
+      "row": 6,
+      "col": 6,
       "direction": "down"
     }
   ],

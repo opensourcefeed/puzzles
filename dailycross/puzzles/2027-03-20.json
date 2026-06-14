@@ -6,65 +6,65 @@
     {
       "clue": "Game with hoop and net",
       "answer": "BASKETBALL",
-      "row": 3,
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Big gray animal with trunk",
       "answer": "ELEPHANT",
-      "row": 3,
+      "row": 1,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Money per year of work",
+      "answer": "SALARY",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Country with Istanbul",
       "answer": "TURKEY",
-      "row": 5,
-      "col": 0,
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Drives a vehicle for hire",
       "answer": "DRIVER",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Buddha's birthday celebration",
-      "answer": "BUDDHA",
       "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
+      "clue": "Buddha's birthday celebration",
+      "answer": "BUDDHA",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
       "clue": "Kid with no parents",
       "answer": "ALONE",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     },
     {
       "clue": "Small rowing water vehicle",
       "answer": "BOAT",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
+      "row": 8,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "Blood check test",
       "answer": "TEST",
-      "row": 10,
-      "col": 4,
+      "row": 4,
+      "col": 7,
       "direction": "across"
-    },
-    {
-      "clue": "Two children born at the same time",
-      "answer": "TWIN",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "dayNumber": 281

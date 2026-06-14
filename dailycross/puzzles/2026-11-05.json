@@ -6,57 +6,57 @@
     {
       "clue": "Digital book reader",
       "answer": "EREADER",
-      "row": 4,
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "String instrument with six strings",
       "answer": "GUITAR",
-      "row": 0,
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Prayer place for Jews",
       "answer": "TEMPLE",
-      "row": 3,
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Vegetable that grows on a vine",
       "answer": "SQUASH",
-      "row": 1,
+      "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
       "clue": "Mix of red and yellow",
       "answer": "PEACH",
-      "row": 3,
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
+      "clue": "Winter celebration",
+      "answer": "YULE",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
       "clue": "Blood check test",
       "answer": "TEST",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     },
     {
       "clue": "South Asia island",
       "answer": "JAVA",
-      "row": 5,
+      "row": 6,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Sixty minutes",
-      "answer": "HOUR",
-      "row": 7,
-      "col": 3,
       "direction": "across"
     }
   ],

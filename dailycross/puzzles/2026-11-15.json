@@ -6,57 +6,71 @@
     {
       "clue": "Watering tool with a spray head",
       "answer": "SPRINKLER",
-      "row": 2,
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Shoes are made of this animal skin",
       "answer": "LEATHER",
-      "row": 2,
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Studies bugs",
       "answer": "CATCHER",
-      "row": 4,
+      "row": 5,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Goes back and forth",
-      "answer": "SWITCH",
-      "row": 0,
-      "col": 3,
+      "clue": "Four equal sides",
+      "answer": "SQUARE",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Four equal sides",
-      "answer": "SQUARE",
+      "clue": "A deep cut that bleeds",
+      "answer": "WOUND",
       "row": 0,
-      "col": 3,
-      "direction": "across"
+      "col": 4,
+      "direction": "down"
     },
     {
       "clue": "Performs in movies or plays",
       "answer": "ACTOR",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
+      "row": 1,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "You store blankets in this",
       "answer": "CHEST",
-      "row": 2,
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Blood vessel that carries blood back",
+      "answer": "VEIN",
+      "row": 4,
       "col": 10,
       "direction": "down"
     },
     {
       "clue": "Body of water surrounded by land",
       "answer": "LAKE",
-      "row": 7,
-      "col": 3,
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny air bags in lungs",
+      "answer": "AIR",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     }
   ],

@@ -6,65 +6,72 @@
     {
       "clue": "Cook food in the oven in this",
       "answer": "ROASTER",
-      "row": 3,
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Studies bugs",
       "answer": "CATCHER",
-      "row": 2,
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Shovel snow with this",
       "answer": "SHOVEL",
-      "row": 6,
+      "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Goes back and forth",
-      "answer": "SWITCH",
-      "row": 0,
-      "col": 7,
+      "clue": "Feeling alone and wanting company",
+      "answer": "LONELY",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "Running path around a field",
       "answer": "TRACK",
-      "row": 2,
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Chocolate color",
       "answer": "BROWN",
-      "row": 1,
-      "col": 4,
+      "row": 3,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Family tree chart",
       "answer": "TREE",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
+      "row": 10,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Falls from clouds",
       "answer": "RAIN",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     },
     {
       "clue": "Your mother's sister",
       "answer": "AUNT",
-      "row": 2,
+      "row": 4,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Lap computer desk",
+      "answer": "DESK",
+      "row": 9,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 365

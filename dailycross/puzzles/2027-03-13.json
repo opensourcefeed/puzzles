@@ -60,17 +60,17 @@
       "direction": "down"
     },
     {
+      "clue": "Book reading day",
+      "answer": "BOOK",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
       "clue": "Muslim holiday after Ramadan",
       "answer": "EID",
       "row": 7,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Art celebration day",
-      "answer": "ART",
-      "row": 2,
-      "col": 9,
       "direction": "across"
     }
   ],

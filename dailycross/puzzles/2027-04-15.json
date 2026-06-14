@@ -6,58 +6,65 @@
     {
       "clue": "April 1 prank day",
       "answer": "APRILFOOLS",
-      "row": 1,
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Draw circles with this",
       "answer": "COMPASS",
-      "row": 0,
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Climb up high with this",
       "answer": "LADDER",
-      "row": 1,
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "Country of the Amazon River",
       "answer": "BRAZIL",
-      "row": 0,
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
+      "clue": "Money per year of work",
+      "answer": "SALARY",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
       "clue": "Performs songs on stage",
       "answer": "SINGER",
-      "row": 5,
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "You breathe with these",
       "answer": "LUNGS",
-      "row": 3,
-      "col": 8,
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Prices going up",
-      "answer": "RISE",
+      "clue": "Be nice day",
+      "answer": "KIND",
       "row": 7,
-      "col": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Box shape in 3D",
-      "answer": "CUBE",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
+      "clue": "Microsoft slides",
+      "answer": "SHOW",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 307

@@ -7,67 +7,60 @@
       "clue": "Sea star with five arms",
       "answer": "STARFISH",
       "row": 3,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Country with Kuala Lumpur",
       "answer": "MALAYSIA",
       "row": 2,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Country known for tulips",
       "answer": "HOLLAND",
       "row": 3,
-      "col": 10,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "Colorful sky arc after rain",
       "answer": "RAINBOW",
       "row": 8,
-      "col": 7,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Digital book reader",
       "answer": "EREADER",
       "row": 5,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Coin worth 100 cents",
       "answer": "QUARTER",
       "row": 0,
-      "col": 2,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "Cloud of gas in space",
       "answer": "CLOUD",
       "row": 6,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 1,
-      "col": 0,
+      "col": 8,
       "direction": "across"
     },
     {
       "clue": "Area where river meets ocean",
       "answer": "DELTA",
       "row": 9,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 8,
   "targetWords": 12,
   "difficulty": "medium"
 }

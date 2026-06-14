@@ -7,64 +7,57 @@
       "clue": "September celebration of workers",
       "answer": "LABORDAY",
       "row": 4,
-      "col": 1,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Underground train system",
       "answer": "SUBWAY",
       "row": 2,
-      "col": 3,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Colorful garden bloom",
       "answer": "FLOWER",
       "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Extra money for good work",
-      "answer": "PRIZE",
-      "row": 3,
-      "col": 5,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "A jar where you put spare change",
       "answer": "PIGGY",
       "row": 0,
-      "col": 8,
+      "col": 10,
       "direction": "down"
     },
     {
       "clue": "Art class tool",
       "answer": "BRUSH",
       "row": 2,
-      "col": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Paper showing your pay",
+      "answer": "SLIP",
+      "row": 1,
+      "col": 8,
       "direction": "across"
     },
     {
       "clue": "Space rock that hits Earth",
       "answer": "ROCK",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
+      "row": 4,
+      "col": 7,
+      "direction": "down"
     },
     {
       "clue": "Underwater mountain",
       "answer": "HILL",
-      "row": 1,
-      "col": 7,
+      "row": 4,
+      "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Small bed for growing vegetables",
-      "answer": "PLOT",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
     }
   ],
   "dayNumber": 80

@@ -51,9 +51,16 @@
       "row": 0,
       "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "Feeling very glad",
+      "answer": "HAPPY",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 8,
   "targetWords": 8,
   "difficulty": "easy"
 }

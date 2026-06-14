@@ -7,12 +7,19 @@
       "clue": "Blend fruits in this",
       "answer": "BLENDER",
       "row": 5,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Makes cartoons",
       "answer": "DRAWER",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Music leader",
+      "answer": "LEADER",
       "row": 5,
       "col": 4,
       "direction": "down"
@@ -21,36 +28,43 @@
       "clue": "Feeling uncertain",
       "answer": "UNSURE",
       "row": 0,
-      "col": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Fingerprint on a surface",
-      "answer": "PRINT",
-      "row": 10,
-      "col": 3,
+      "clue": "Blood carrier in body",
+      "answer": "BLOOD",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Large flowing body of water",
       "answer": "RIVER",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
+      "row": 10,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "Queen's big day",
-      "answer": "CROWN",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
+      "clue": "Video call software",
+      "answer": "ZOOM",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
     },
     {
       "clue": "You put keys in this by the door",
       "answer": "DISH",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Head cook in a restaurant",
+      "answer": "CHEF",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 198

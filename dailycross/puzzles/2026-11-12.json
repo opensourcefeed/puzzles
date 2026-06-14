@@ -6,72 +6,65 @@
     {
       "clue": "Catches fish for a living",
       "answer": "FISHERMAN",
-      "row": 5,
-      "col": 1,
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Place where you buy medicine",
       "answer": "PHARMACY",
-      "row": 4,
-      "col": 4,
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "You keep dishes in this",
       "answer": "CUPBOARD",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Song that celebrates a country",
-      "answer": "ANTHEM",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Card that lets you buy now and pay later",
-      "answer": "CREDIT",
       "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Paper check",
-      "answer": "CHECK",
-      "row": 3,
-      "col": 0,
+      "clue": "Song that celebrates a country",
+      "answer": "ANTHEM",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Photo editing tool",
+      "answer": "EDITOR",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Card that lets you buy now and pay later",
+      "answer": "CREDIT",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Microsoft spreadsheet program",
       "answer": "EXCEL",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
+      "row": 0,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "Email folder for new messages",
       "answer": "INBOX",
-      "row": 8,
-      "col": 7,
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "You read stories in this",
-      "answer": "BOOK",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
+      "clue": "Paper showing you paid",
+      "answer": "NOTE",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 153

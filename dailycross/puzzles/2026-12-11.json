@@ -4,53 +4,46 @@
   "title": "2026-12-11",
   "words": [
     {
-      "clue": "Drill holes with this",
-      "answer": "DRILL",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Underwater mountain chain",
-      "answer": "RIDGE",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Living thing that makes its own food",
-      "answer": "PLANT",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Leather comes from animal skin",
-      "answer": "HIDE",
+      "clue": "Money per year of work",
+      "answer": "SALARY",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
+      "clue": "Vehicle that runs on tracks",
+      "answer": "TRAIN",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Underwater mountain chain",
+      "answer": "RIDGE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Drill holes with this",
+      "answer": "DRILL",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
       "clue": "Deep ocean valley",
       "answer": "DEEP",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
+      "row": 3,
+      "col": 7,
+      "direction": "down"
     },
     {
       "clue": "Jewish New Year",
       "answer": "ROSH",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Cook food in this",
-      "answer": "POT",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
+      "row": 1,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 182

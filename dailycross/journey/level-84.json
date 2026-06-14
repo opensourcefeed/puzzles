@@ -67,6 +67,13 @@
       "direction": "across"
     },
     {
+      "clue": "Energy from the sun",
+      "answer": "SOLAR",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
       "clue": "Country with Seoul",
       "answer": "KOREA",
       "row": 4,
@@ -88,14 +95,14 @@
       "direction": "down"
     },
     {
-      "clue": "Two or more atoms together",
-      "answer": "PAIR",
-      "row": 3,
-      "col": 8,
+      "clue": "Green color in leaves",
+      "answer": "STEM",
+      "row": 1,
+      "col": 9,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 16,
   "difficulty": "medium"
 }

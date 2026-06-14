@@ -4,46 +4,53 @@
   "title": "2027-05-21",
   "words": [
     {
-      "clue": "Light bounces off this",
-      "answer": "MIRROR",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
       "clue": "Protects the community",
       "answer": "POLICE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
+      "row": 3,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "Silent aircraft with no engine",
       "answer": "GLIDER",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
+      "row": 2,
+      "col": 3,
+      "direction": "down"
     },
     {
       "clue": "Our planet",
       "answer": "EARTH",
-      "row": 1,
-      "col": 7,
+      "row": 3,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "Fitness wristband",
+      "answer": "STRAP",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Spinning wind storm",
       "answer": "WIND",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "Paper showing you paid",
-      "answer": "NOTE",
-      "row": 5,
+      "clue": "Card with money on it",
+      "answer": "CARD",
+      "row": 7,
       "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Sky color",
+      "answer": "BLUE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     }
   ],
   "dayNumber": 343

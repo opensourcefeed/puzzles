@@ -6,64 +6,71 @@
     {
       "clue": "Computer brain",
       "answer": "PROCESSOR",
-      "row": 3,
-      "col": 1,
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Long green garden vegetable",
       "answer": "CUCUMBER",
-      "row": 3,
-      "col": 4,
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Overhead surface of a room",
       "answer": "CEILING",
-      "row": 5,
-      "col": 4,
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Round shape",
       "answer": "CIRCLE",
-      "row": 4,
-      "col": 6,
+      "row": 6,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Words of a song",
       "answer": "LYRICS",
-      "row": 1,
-      "col": 2,
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Teacher writes on this",
       "answer": "BOARD",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
+      "row": 2,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "White dairy drink",
       "answer": "MILK",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
+      "row": 6,
+      "col": 7,
+      "direction": "down"
     },
     {
       "clue": "Roofs are covered with this flat material",
       "answer": "TILE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
+      "row": 11,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Smart speaker from Amazon",
       "answer": "ECHO",
-      "row": 1,
-      "col": 6,
+      "row": 11,
+      "col": 5,
       "direction": "across"
     }
   ],

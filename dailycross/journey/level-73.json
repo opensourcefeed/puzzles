@@ -6,86 +6,86 @@
     {
       "clue": "Sun-loving tall yellow flower",
       "answer": "SUNFLOWER",
-      "row": 7,
+      "row": 6,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Frozen sweet treat",
       "answer": "ICECREAM",
-      "row": 5,
+      "row": 4,
       "col": 10,
       "direction": "down"
     },
     {
       "clue": "Performs songs on stage",
       "answer": "SINGER",
-      "row": 7,
+      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Card that lets you buy now and pay later",
       "answer": "CREDIT",
-      "row": 5,
+      "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Test battery with a tester",
       "answer": "TESTER",
-      "row": 10,
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Small blue wildflower",
       "answer": "VIOLET",
-      "row": 1,
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Newborn baby",
       "answer": "INFANT",
-      "row": 6,
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Sharp tool for slicing bread",
       "answer": "SLICER",
-      "row": 2,
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Stores your files",
       "answer": "MEMORY",
-      "row": 9,
+      "row": 8,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Art class tool",
       "answer": "BRUSH",
-      "row": 13,
+      "row": 12,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
       "clue": "Time your cooking with this",
       "answer": "TIMER",
-      "row": 11,
+      "row": 10,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Falls from clouds",
+      "answer": "RAIN",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "wordCount": 12,

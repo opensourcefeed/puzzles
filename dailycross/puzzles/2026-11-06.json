@@ -25,13 +25,6 @@
       "direction": "down"
     },
     {
-      "clue": "Stage of a butterfly",
-      "answer": "COCOON",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
       "clue": "Breaks between classes",
       "answer": "RECESS",
       "row": 7,
@@ -41,9 +34,9 @@
     {
       "clue": "Feeling alone and wanting company",
       "answer": "LONELY",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
+      "row": 0,
+      "col": 1,
+      "direction": "down"
     },
     {
       "clue": "Paper from wood",
@@ -53,10 +46,17 @@
       "direction": "across"
     },
     {
-      "clue": "Blood carrier in body",
-      "answer": "BLOOD",
-      "row": 6,
-      "col": 0,
+      "clue": "How big something is",
+      "answer": "SIZE",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Arctic bear",
+      "answer": "BEAR",
+      "row": 10,
+      "col": 2,
       "direction": "across"
     },
     {
@@ -69,8 +69,8 @@
     {
       "clue": "Sony game system",
       "answer": "GAME",
-      "row": 0,
-      "col": 1,
+      "row": 7,
+      "col": 3,
       "direction": "down"
     }
   ],

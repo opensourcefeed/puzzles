@@ -88,14 +88,21 @@
       "direction": "across"
     },
     {
-      "clue": "Baby kangaroo pocket",
-      "answer": "POUCH",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
+      "clue": "Insect that glows",
+      "answer": "GLOW",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Light rock that floats",
+      "answer": "ROCK",
+      "row": 9,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 23,
   "difficulty": "hard"
 }

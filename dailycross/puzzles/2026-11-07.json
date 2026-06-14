@@ -7,55 +7,62 @@
       "clue": "Does experiments for a living",
       "answer": "SCIENTIST",
       "row": 3,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Place where firefighters work",
       "answer": "FIREHOUSE",
       "row": 2,
-      "col": 2,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Lizard that changes color",
       "answer": "CHAMELEON",
       "row": 6,
-      "col": 1,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Large ocean wave from earthquake",
       "answer": "TSUNAMI",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Flip pancakes with this",
       "answer": "SPATULA",
       "row": 9,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
       "clue": "Game played with racket and yellow ball",
       "answer": "TENNIS",
       "row": 0,
-      "col": 4,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Place where you eat meals",
       "answer": "DINING",
       "row": 0,
-      "col": 6,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "You put a mattress on this",
       "answer": "FRAME",
       "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny living thing that can make you sick",
+      "answer": "GERM",
+      "row": 7,
       "col": 0,
       "direction": "across"
     }

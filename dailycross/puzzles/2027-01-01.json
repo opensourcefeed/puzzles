@@ -6,64 +6,64 @@
     {
       "clue": "Big gray animal with trunk",
       "answer": "ELEPHANT",
-      "row": 2,
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Place where athletes play",
       "answer": "STADIUM",
-      "row": 0,
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Studies bugs",
       "answer": "CATCHER",
-      "row": 0,
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Country of the Eiffel Tower",
-      "answer": "FRANCE",
-      "row": 6,
+      "clue": "Growing bacteria in a lab",
+      "answer": "GROWTH",
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
+      "clue": "Country of the Eiffel Tower",
+      "answer": "FRANCE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
       "clue": "Your aunt's child",
       "answer": "COUSIN",
-      "row": 4,
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Makes pots out of clay",
       "answer": "POTTER",
-      "row": 3,
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
       "clue": "Gentle movement of air",
       "answer": "BREEZE",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Drives a vehicle for hire",
-      "answer": "DRIVER",
-      "row": 8,
+      "row": 1,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Land of the rising sun",
-      "answer": "JAPAN",
-      "row": 2,
-      "col": 9,
+      "clue": "Drives a vehicle for hire",
+      "answer": "DRIVER",
+      "row": 1,
+      "col": 0,
       "direction": "down"
     }
   ],

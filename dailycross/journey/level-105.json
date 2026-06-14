@@ -93,9 +93,16 @@
       "row": 10,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "What all matter is made of",
+      "answer": "ATOM",
+      "row": 8,
+      "col": 10,
+      "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 19,
   "difficulty": "hard"
 }

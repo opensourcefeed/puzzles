@@ -7,118 +7,111 @@
       "clue": "Machine that processes information",
       "answer": "COMPUTER",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Date you were born",
       "answer": "BIRTHDAY",
       "row": 4,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Place where you buy medicine",
       "answer": "PHARMACY",
       "row": 7,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Virtual reality headset",
       "answer": "HEADSET",
       "row": 12,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Day to honor fathers in June",
       "answer": "FATHERS",
       "row": 10,
-      "col": 7,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Ocean mammal with tusks",
       "answer": "WALRUS",
       "row": 7,
-      "col": 12,
+      "col": 11,
       "direction": "down"
     },
     {
       "clue": "Game console by Nintendo",
       "answer": "SWITCH",
       "row": 5,
-      "col": 6,
+      "col": 5,
       "direction": "across"
     },
     {
       "clue": "Place where a doctor works",
       "answer": "CLINIC",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Studies old things",
       "answer": "FINDER",
       "row": 10,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Creates paintings or drawings",
       "answer": "ARTIST",
       "row": 1,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Place where kings and queens live",
       "answer": "PALACE",
       "row": 1,
-      "col": 5,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Dry sandy area with little water",
       "answer": "DESERT",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Running path around a field",
       "answer": "TRACK",
       "row": 2,
-      "col": 10,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "Large animal people ride",
       "answer": "HORSE",
       "row": 3,
-      "col": 8,
+      "col": 7,
       "direction": "across"
     },
     {
       "clue": "Country known for watches",
       "answer": "SWISS",
       "row": 0,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Wanting something badly",
       "answer": "WISH",
       "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Glass wool insulation",
-      "answer": "WOOL",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
@@ -126,11 +119,11 @@
       "clue": "Frozen rain from sky",
       "answer": "HAIL",
       "row": 8,
-      "col": 11,
+      "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 20,
   "difficulty": "hard"
 }

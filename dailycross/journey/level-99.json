@@ -6,103 +6,110 @@
     {
       "clue": "Works with wood to make furniture",
       "answer": "WOODWORKER",
-      "row": 7,
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
       "clue": "Global network of computers",
       "answer": "INTERNET",
-      "row": 3,
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Bread with filling",
       "answer": "SANDWICH",
-      "row": 4,
+      "row": 3,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Feeling nervous before a test",
-      "answer": "NERVOUS",
+      "clue": "Volcano erupts with this",
+      "answer": "ERUPTION",
       "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
+      "clue": "Leafy green vegetable",
+      "answer": "SPINACH",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling nervous before a test",
+      "answer": "NERVOUS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
       "clue": "Small ocean crustacean",
       "answer": "SHRIMP",
-      "row": 3,
+      "row": 2,
       "col": 13,
       "direction": "down"
     },
     {
       "clue": "Sidewalks are made of this",
       "answer": "CEMENT",
-      "row": 10,
+      "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Vision vitamin",
-      "answer": "CARROT",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Growing bacteria in a lab",
-      "answer": "GROWTH",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
       "clue": "Country of the Eiffel Tower",
       "answer": "FRANCE",
-      "row": 3,
-      "col": 0,
+      "row": 13,
+      "col": 7,
       "direction": "across"
     },
     {
       "clue": "You store clothes in this",
       "answer": "CLOSET",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Water becomes gas",
-      "answer": "STEAM",
-      "row": 8,
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Energy that travels in waves",
-      "answer": "SOUND",
-      "row": 10,
-      "col": 9,
+      "clue": "Three babies born together",
+      "answer": "TRIPLE",
+      "row": 1,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Measures temperature",
+      "answer": "GAUGE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Become part of a family by law",
+      "answer": "ADOPT",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
     },
     {
       "clue": "Falls from clouds",
       "answer": "RAIN",
-      "row": 2,
+      "row": 1,
       "col": 11,
       "direction": "down"
     },
     {
       "clue": "Sony game system",
       "answer": "GAME",
-      "row": 0,
-      "col": 5,
+      "row": 10,
+      "col": 12,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 18,
   "difficulty": "hard"
 }

@@ -7,41 +7,48 @@
       "clue": "Leafy green vegetable",
       "answer": "SPINACH",
       "row": 1,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Jewish lights festival",
       "answer": "LIGHTS",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Cloth to stop bleeding",
-      "answer": "CLOTH",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Ice crystals falling from sky",
-      "answer": "SNOW",
-      "row": 3,
       "col": 4,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Muscle building food",
-      "answer": "MEAT",
+      "clue": "Goes around something",
+      "answer": "ORBIT",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
+      "clue": "Paper check",
+      "answer": "CHECK",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Cloth to stop bleeding",
+      "answer": "CLOTH",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Ice crystals falling from sky",
+      "answer": "SNOW",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
       "clue": "Worried about something",
       "answer": "FEAR",
-      "row": 3,
+      "row": 1,
       "col": 1,
       "direction": "down"
     }

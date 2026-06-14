@@ -39,38 +39,38 @@
       "direction": "down"
     },
     {
-      "clue": "Music leader",
-      "answer": "LEADER",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
       "clue": "Breakfast egg dish",
       "answer": "OMELET",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
+      "row": 9,
+      "col": 7,
+      "direction": "across"
     },
     {
       "clue": "Spirit day wear purple",
       "answer": "SPIRIT",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Vision vitamin",
+      "answer": "CARROT",
       "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vision vitamin",
-      "answer": "CARROT",
-      "row": 6,
-      "col": 8,
+      "clue": "Feeling not interested at all",
+      "answer": "BORED",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Feeling not interested at all",
-      "answer": "BORED",
-      "row": 4,
-      "col": 11,
+      "clue": "Water vapor becomes liquid",
+      "answer": "RAIN",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     }
   ],

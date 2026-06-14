@@ -7,70 +7,70 @@
       "clue": "Shoes are made of this animal skin",
       "answer": "LEATHER",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Cleans schools and offices",
       "answer": "JANITOR",
       "row": 3,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Ball shape in 3D",
       "answer": "SPHERE",
       "row": 2,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Game played with racket and yellow ball",
       "answer": "TENNIS",
       "row": 7,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Clear liquid that your body needs",
       "answer": "WATER",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "Thigh bone",
-      "answer": "THIGH",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
     },
     {
       "clue": "Your father's brother",
       "answer": "UNCLE",
       "row": 6,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Your mother's sister",
       "answer": "AUNT",
-      "row": 7,
-      "col": 0,
+      "row": 1,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Money you spend",
       "answer": "COST",
       "row": 2,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Measure angles",
       "answer": "EDGE",
       "row": 7,
-      "col": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Plant food from dirt",
+      "answer": "SOIL",
+      "row": 1,
+      "col": 0,
       "direction": "down"
     }
   ],

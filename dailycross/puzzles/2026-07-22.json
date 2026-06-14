@@ -7,63 +7,56 @@
       "clue": "Lizard that changes color",
       "answer": "CHAMELEON",
       "row": 1,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Protects a park or forest",
       "answer": "RANGER",
       "row": 0,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Removes pencil marks",
       "answer": "ERASER",
       "row": 1,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Planet with rings around it",
       "answer": "SATURN",
       "row": 4,
-      "col": 5,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Our planet",
       "answer": "EARTH",
       "row": 1,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Living thing that makes its own food",
       "answer": "PLANT",
       "row": 1,
-      "col": 10,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Animal that sleeps in winter",
-      "answer": "SLEEP",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
     },
     {
       "clue": "Large animal people ride",
       "answer": "HORSE",
-      "row": 6,
-      "col": 3,
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Bone picture machine",
       "answer": "SCAN",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "direction": "down"
     }
   ],

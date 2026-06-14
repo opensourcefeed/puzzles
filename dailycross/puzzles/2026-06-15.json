@@ -6,56 +6,70 @@
     {
       "clue": "Sea star with five arms",
       "answer": "STARFISH",
-      "row": 1,
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Place where you take a bath",
       "answer": "BATHROOM",
-      "row": 0,
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Country with Dublin",
       "answer": "IRELAND",
-      "row": 1,
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Feeling alone and wanting company",
       "answer": "LONELY",
-      "row": 4,
+      "row": 8,
       "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Growing bacteria in a lab",
+      "answer": "GROWTH",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     },
     {
       "clue": "Hit nails with this",
       "answer": "HAMMER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
+      "row": 1,
+      "col": 3,
+      "direction": "across"
     },
     {
       "clue": "Performs in movies or plays",
       "answer": "ACTOR",
-      "row": 5,
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
+      "clue": "Soft white rock",
+      "answer": "CHALK",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
       "clue": "You walk through this",
       "answer": "DOOR",
-      "row": 7,
+      "row": 11,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Plant food from dirt",
-      "answer": "SOIL",
-      "row": 1,
+      "clue": "Bright sky object at night",
+      "answer": "STAR",
+      "row": 5,
       "col": 1,
       "direction": "down"
     }

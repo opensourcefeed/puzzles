@@ -67,20 +67,6 @@
       "direction": "across"
     },
     {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Male part of a flower",
-      "answer": "BLOOM",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
       "clue": "Art class tool",
       "answer": "BRUSH",
       "row": 0,
@@ -109,35 +95,14 @@
       "direction": "across"
     },
     {
-      "clue": "Red planet in our solar system",
-      "answer": "MARS",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
       "clue": "Fern plant with feathery leaves",
       "answer": "FERN",
       "row": 4,
       "col": 1,
       "direction": "down"
-    },
-    {
-      "clue": "Loving something a lot",
-      "answer": "LOVE",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Insect that glows",
-      "answer": "GLOW",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
     }
   ],
-  "wordCount": 19,
+  "wordCount": 14,
   "targetWords": 20,
   "difficulty": "hard"
 }

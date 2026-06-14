@@ -32,9 +32,23 @@
       "direction": "across"
     },
     {
+      "clue": "Material that blocks electricity",
+      "answer": "RUBBER",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
       "clue": "Quality passed down in families",
       "answer": "TRAIT",
-      "row": 3,
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Water becomes gas",
+      "answer": "STEAM",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
@@ -44,20 +58,6 @@
       "row": 0,
       "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "You sit on to put on shoes",
-      "answer": "BENCH",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Water vapor becomes liquid",
-      "answer": "RAIN",
-      "row": 4,
-      "col": 8,
-      "direction": "across"
     }
   ],
   "dayNumber": 145

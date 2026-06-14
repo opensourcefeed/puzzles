@@ -6,70 +6,63 @@
     {
       "clue": "Colorful ocean fish with stripes",
       "answer": "CLOWNFISH",
-      "row": 3,
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
       "clue": "Feeling nervous before a test",
       "answer": "NERVOUS",
-      "row": 3,
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Feeling able to wait",
       "answer": "PATIENT",
-      "row": 0,
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Place where kings and queens live",
       "answer": "PALACE",
-      "row": 1,
+      "row": 3,
       "col": 7,
       "direction": "across"
     },
     {
       "clue": "Shovel snow with this",
       "answer": "SHOVEL",
-      "row": 1,
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "Hold paper towels on this",
       "answer": "HOLDER",
-      "row": 7,
+      "row": 9,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 5,
-      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Wraps around neck for warmth",
       "answer": "SCARF",
       "row": 4,
-      "col": 10,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Calendar shows the date",
       "answer": "TODAY",
-      "row": 2,
-      "col": 1,
+      "row": 0,
+      "col": 10,
       "direction": "down"
     },
     {
       "clue": "Tiny germ that causes colds",
       "answer": "VIRUS",
-      "row": 1,
+      "row": 3,
       "col": 0,
       "direction": "across"
     }

@@ -6,107 +6,107 @@
     {
       "clue": "April 1 prank day",
       "answer": "APRILFOOLS",
-      "row": 5,
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Juicy summer fruit with seeds",
       "answer": "WATERMELON",
-      "row": 1,
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Large landmass on Earth",
       "answer": "CONTINENT",
-      "row": 4,
+      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
+      "clue": "Volcano erupts with this",
+      "answer": "ERUPTION",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
       "clue": "Ocean bird that dives for fish",
       "answer": "SEAGULL",
-      "row": 10,
+      "row": 12,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Studies bugs",
       "answer": "CATCHER",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
+      "row": 6,
+      "col": 1,
+      "direction": "down"
     },
     {
       "clue": "Virtual reality headset",
       "answer": "HEADSET",
-      "row": 3,
+      "row": 4,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Buddha's birthday celebration",
+      "answer": "BUDDHA",
+      "row": 8,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Hot wet forest near equator",
       "answer": "JUNGLE",
-      "row": 1,
-      "col": 5,
+      "row": 8,
+      "col": 11,
       "direction": "down"
     },
     {
       "clue": "Ocean creature that makes pearls",
       "answer": "OYSTER",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Growing bacteria in a lab",
-      "answer": "GROWTH",
-      "row": 3,
-      "col": 8,
+      "row": 14,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Bags are made from this woven material",
       "answer": "CLOTH",
-      "row": 7,
-      "col": 5,
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "A deep cut that bleeds",
       "answer": "WOUND",
-      "row": 10,
+      "row": 2,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Apple cloud storage",
+      "answer": "CLOUD",
+      "row": 0,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Fish with a sword nose",
       "answer": "LONG",
-      "row": 0,
-      "col": 8,
+      "row": 8,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "Sleeping helps you rest and recover",
       "answer": "REST",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on this with cushions",
-      "answer": "SOFA",
-      "row": 5,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Color of ash and smoke",
-      "answer": "GRAY",
       "row": 2,
-      "col": 1,
-      "direction": "across"
+      "col": 5,
+      "direction": "down"
     }
   ],
   "wordCount": 15,

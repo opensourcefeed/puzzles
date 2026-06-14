@@ -6,89 +6,103 @@
     {
       "clue": "Subject about the world",
       "answer": "GEOGRAPHY",
-      "row": 5,
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "February 14 celebration",
       "answer": "VALENTINE",
-      "row": 4,
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Australian animal that hops",
       "answer": "KANGAROO",
-      "row": 2,
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Travels to discover new places",
       "answer": "EXPLORER",
-      "row": 5,
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "Heavy snowstorm with wind",
       "answer": "BLIZZARD",
-      "row": 10,
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Three children born at once",
       "answer": "TRIPLET",
-      "row": 12,
+      "row": 11,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Presents news on television",
       "answer": "ANCHOR",
-      "row": 8,
+      "row": 7,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Wear purple day",
-      "answer": "PURPLE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
+      "clue": "Small river of water",
+      "answer": "STREAM",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
     },
     {
       "clue": "Prayer place for Jews",
       "answer": "TEMPLE",
-      "row": 8,
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Mix of two metals",
-      "answer": "BRONZE",
-      "row": 3,
-      "col": 1,
+      "clue": "Top of the oven for cooking",
+      "answer": "STOVE",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Feeling very glad",
       "answer": "HAPPY",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Goes around something",
+      "answer": "ORBIT",
       "row": 3,
-      "col": 5,
-      "direction": "across"
+      "col": 0,
+      "direction": "down"
     },
     {
       "clue": "Brass instrument with slide",
       "answer": "HORN",
-      "row": 6,
+      "row": 5,
       "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "Bone picture machine",
+      "answer": "SCAN",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 14,
   "targetWords": 17,
   "difficulty": "hard"
 }

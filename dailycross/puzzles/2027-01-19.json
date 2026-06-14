@@ -6,64 +6,71 @@
     {
       "clue": "Country of kangaroos",
       "answer": "AUSTRALIA",
-      "row": 2,
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Frozen sweet treat",
       "answer": "ICECREAM",
-      "row": 2,
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Coin worth 100 cents",
       "answer": "QUARTER",
-      "row": 0,
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Place where you park your car",
       "answer": "GARAGE",
-      "row": 8,
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
       "clue": "Grandparents day",
       "answer": "ELVES",
-      "row": 4,
+      "row": 5,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Water becomes gas",
-      "answer": "STEAM",
+      "clue": "Measures temperature",
+      "answer": "GAUGE",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "direction": "down"
     },
     {
       "clue": "Place where you live",
       "answer": "HOUSE",
-      "row": 1,
-      "col": 11,
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "How fast something moves",
       "answer": "SPEED",
-      "row": 4,
-      "col": 0,
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Digital money",
+      "answer": "COIN",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Twelve months",
       "answer": "YEAR",
-      "row": 0,
-      "col": 0,
+      "row": 4,
+      "col": 10,
       "direction": "down"
     }
   ],

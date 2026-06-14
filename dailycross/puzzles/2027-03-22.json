@@ -6,62 +6,69 @@
     {
       "clue": "Machine that washes dishes",
       "answer": "DISHWASHER",
-      "row": 4,
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "April 1 prank day",
       "answer": "APRILFOOLS",
-      "row": 2,
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Volcano erupts with this",
-      "answer": "ERUPTION",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
       "clue": "Coin worth 100 cents",
       "answer": "QUARTER",
-      "row": 5,
-      "col": 4,
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Ocean north of America",
       "answer": "ARCTIC",
       "row": 5,
-      "col": 7,
-      "direction": "down"
+      "col": 2,
+      "direction": "across"
     },
     {
       "clue": "Performs dance",
       "answer": "DANCER",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Country of maple leaves",
       "answer": "CANADA",
-      "row": 2,
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Performs in movies or plays",
       "answer": "ACTOR",
-      "row": 11,
-      "col": 0,
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "You sit on this with a back",
       "answer": "CHAIR",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Makes medicine",
+      "answer": "MAKER",
       "row": 0,
       "col": 11,
       "direction": "down"

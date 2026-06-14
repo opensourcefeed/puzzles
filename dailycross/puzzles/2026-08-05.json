@@ -6,50 +6,71 @@
     {
       "clue": "Your son's son",
       "answer": "GRANDSON",
-      "row": 3,
-      "col": 0,
+      "row": 7,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
     },
     {
       "clue": "Large round object in space",
       "answer": "PLANET",
-      "row": 1,
-      "col": 2,
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Hot wet forest near equator",
       "answer": "JUNGLE",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
+      "row": 4,
+      "col": 2,
+      "direction": "across"
     },
     {
       "clue": "Red fruit that keeps doctor away",
       "answer": "APPLE",
-      "row": 5,
-      "col": 4,
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Garden border plant",
       "answer": "HEDGE",
       "row": 0,
-      "col": 0,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Running path around a field",
+      "answer": "TRACK",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
     },
     {
       "clue": "Day to plant trees",
       "answer": "ARBOR",
-      "row": 5,
-      "col": 4,
+      "row": 9,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Moving to stay fit",
+      "answer": "WALK",
+      "row": 8,
+      "col": 0,
       "direction": "down"
     },
     {
       "clue": "Read across America day",
       "answer": "READ",
-      "row": 9,
-      "col": 4,
+      "row": 1,
+      "col": 6,
       "direction": "across"
     }
   ],

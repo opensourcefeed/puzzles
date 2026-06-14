@@ -6,58 +6,58 @@
     {
       "clue": "Builds with wood",
       "answer": "CARPENTER",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Subject about the world",
-      "answer": "GEOGRAPHY",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean mammal with tusks",
-      "answer": "WALRUS",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Path of a planet around the sun",
-      "answer": "ORBIT",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Water in gas form",
-      "answer": "VAPOR",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Paper check",
-      "answer": "CHECK",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Clear liquid that your body needs",
-      "answer": "WATER",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Smart speaker from Amazon",
-      "answer": "ECHO",
-      "row": 0,
-      "col": 9,
+      "clue": "Subject about the world",
+      "answer": "GEOGRAPHY",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean mammal with tusks",
+      "answer": "WALRUS",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 9,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Path of a planet around the sun",
+      "answer": "ORBIT",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Water in gas form",
+      "answer": "VAPOR",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Clear liquid that your body needs",
+      "answer": "WATER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Flat cooking surface",
+      "answer": "GRILL",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 333

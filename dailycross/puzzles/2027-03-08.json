@@ -6,64 +6,64 @@
     {
       "clue": "Ocean animal with stinging tentacles",
       "answer": "JELLYFISH",
-      "row": 6,
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Draw circles with this",
       "answer": "COMPASS",
-      "row": 1,
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Hand end parts",
       "answer": "FINGERS",
-      "row": 6,
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Hot wet forest near equator",
       "answer": "JUNGLE",
-      "row": 8,
+      "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Feeling not interested at all",
       "answer": "BORED",
-      "row": 3,
+      "row": 2,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Soft white rock",
+      "answer": "CHALK",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Red fruit that keeps doctor away",
       "answer": "APPLE",
-      "row": 4,
+      "row": 3,
       "col": 5,
       "direction": "across"
     },
     {
       "clue": "Glass house for plants",
       "answer": "HOUSE",
-      "row": 2,
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Country with Seoul",
       "answer": "KOREA",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Pencil made of this",
-      "answer": "LEAD",
       "row": 10,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     }
   ],

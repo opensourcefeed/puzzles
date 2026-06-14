@@ -6,58 +6,58 @@
     {
       "clue": "Math calculation tool",
       "answer": "CALCULATOR",
-      "row": 4,
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Frozen sweet treat",
       "answer": "ICECREAM",
-      "row": 3,
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Volcano erupts with this",
-      "answer": "ERUPTION",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
+      "clue": "Person who lives next door",
+      "answer": "NEIGHBOR",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
     },
     {
       "clue": "Cut paper with this",
       "answer": "SCISSORS",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
+      "row": 4,
+      "col": 0,
+      "direction": "down"
     },
     {
       "clue": "Place where fish are kept",
       "answer": "AQUARIUM",
-      "row": 4,
-      "col": 6,
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "Strong wind storm",
       "answer": "TORNADO",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
+      "row": 1,
+      "col": 5,
+      "direction": "across"
     },
     {
       "clue": "Grass color",
       "answer": "GREEN",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
+      "row": 0,
+      "col": 7,
+      "direction": "down"
     },
     {
       "clue": "Money you spend",
       "answer": "COST",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
+      "row": 7,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 351

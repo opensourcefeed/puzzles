@@ -102,17 +102,10 @@
       "direction": "down"
     },
     {
-      "clue": "Stage of a butterfly",
-      "answer": "COCOON",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
       "clue": "Temperature scale",
       "answer": "SCALE",
-      "row": 8,
-      "col": 1,
+      "row": 6,
+      "col": 3,
       "direction": "down"
     },
     {
@@ -121,9 +114,23 @@
       "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Grass color",
+      "answer": "GREEN",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 18,
   "targetWords": 21,
   "difficulty": "hard"
 }

@@ -6,64 +6,64 @@
     {
       "clue": "Room below your house",
       "answer": "BASEMENT",
-      "row": 4,
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Top part of your arm",
       "answer": "SHOULDER",
-      "row": 4,
+      "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
       "clue": "Sport where you throw a long metal stick",
       "answer": "JAVELIN",
-      "row": 1,
+      "row": 2,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Country known for tacos",
       "answer": "MEXICO",
-      "row": 10,
+      "row": 11,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Wear this to protect clothes",
       "answer": "APRON",
-      "row": 2,
+      "row": 3,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Freedom celebration",
-      "answer": "FREE",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Take child to work",
-      "answer": "WORK",
-      "row": 6,
-      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Your mother's sister",
       "answer": "AUNT",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A family group",
+      "answer": "CLAN",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A family group",
-      "answer": "CLAN",
-      "row": 8,
-      "col": 1,
+      "clue": "Underground storage",
+      "answer": "HOLE",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     }
   ],

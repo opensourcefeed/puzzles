@@ -67,11 +67,11 @@
       "direction": "down"
     },
     {
-      "clue": "You store blankets in this",
-      "answer": "CHEST",
-      "row": 0,
-      "col": 13,
-      "direction": "down"
+      "clue": "Goes around something",
+      "answer": "ORBIT",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 129

@@ -39,6 +39,13 @@
       "direction": "down"
     },
     {
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
       "clue": "Shaking from cold",
       "answer": "SHAKE",
       "row": 3,
@@ -50,13 +57,6 @@
       "answer": "WISH",
       "row": 3,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Green color in leaves",
-      "answer": "STEM",
-      "row": 11,
-      "col": 1,
       "direction": "across"
     }
   ],

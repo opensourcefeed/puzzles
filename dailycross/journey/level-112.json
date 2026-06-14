@@ -6,117 +6,110 @@
     {
       "clue": "Cardboard is thick paper",
       "answer": "CARDBOARD",
-      "row": 7,
-      "col": 0,
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Designs buildings",
       "answer": "ARCHITECT",
-      "row": 6,
-      "col": 2,
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Volcano erupts with this",
+      "answer": "ERUPTION",
+      "row": 5,
+      "col": 10,
       "direction": "down"
     },
     {
       "clue": "Travels to discover new places",
       "answer": "EXPLORER",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
+      "row": 11,
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "Place where you cook meals",
       "answer": "KITCHEN",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with Brussels",
-      "answer": "BELGIUM",
       "row": 9,
-      "col": 4,
+      "col": 8,
       "direction": "across"
     },
     {
       "clue": "Country with Budapest",
       "answer": "HUNGARY",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Growing bacteria in a lab",
-      "answer": "GROWTH",
-      "row": 9,
-      "col": 7,
+      "row": 7,
+      "col": 14,
       "direction": "down"
     },
     {
       "clue": "Breakfast egg dish",
       "answer": "OMELET",
-      "row": 3,
-      "col": 3,
+      "row": 10,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Moving energy of objects",
       "answer": "MOTION",
-      "row": 1,
+      "row": 2,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You store clothes folded in this",
+      "answer": "DRAWER",
+      "row": 6,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Planet with rings around it",
       "answer": "SATURN",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Blood carrier in body",
-      "answer": "BLOOD",
-      "row": 5,
+      "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Muscle building food",
-      "answer": "MEAT",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Time the sun rises",
-      "answer": "DAWN",
+      "clue": "Energy from the sun",
+      "answer": "SOLAR",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Middle of day",
-      "answer": "NOON",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Glass wool insulation",
-      "answer": "WOOL",
-      "row": 0,
+      "clue": "Fingered string instrument",
+      "answer": "BANJO",
+      "row": 1,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Place where you live",
+      "answer": "HOUSE",
+      "row": 9,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Underground storage",
-      "answer": "HOLE",
-      "row": 11,
-      "col": 4,
-      "direction": "down"
+      "clue": "Muscle building food",
+      "answer": "MEAT",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "How big something is",
+      "answer": "SIZE",
+      "row": 0,
+      "col": 10,
+      "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 15,
   "targetWords": 20,
   "difficulty": "hard"
 }

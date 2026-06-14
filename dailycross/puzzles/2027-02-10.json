@@ -6,72 +6,72 @@
     {
       "clue": "Place where firefighters work",
       "answer": "FIREHOUSE",
-      "row": 5,
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Colorful ocean fish with stripes",
       "answer": "CLOWNFISH",
-      "row": 3,
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Lizard that changes color",
       "answer": "CHAMELEON",
-      "row": 1,
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "Presents news on television",
       "answer": "ANCHOR",
-      "row": 3,
+      "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
       "clue": "Cut pizza with this",
       "answer": "CUTTER",
-      "row": 1,
+      "row": 0,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Baby kangaroo pocket",
-      "answer": "POUCH",
-      "row": 2,
-      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Muslim feast day",
       "answer": "FEAST",
-      "row": 5,
+      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
       "clue": "Country with Cairo",
       "answer": "EGYPT",
-      "row": 5,
+      "row": 4,
       "col": 9,
       "direction": "down"
     },
     {
       "clue": "Birth date celebration",
       "answer": "CAKE",
-      "row": 7,
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Turn socket tool",
       "answer": "TURN",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Insect that glows",
+      "answer": "GLOW",
+      "row": 5,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 243

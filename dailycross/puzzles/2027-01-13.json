@@ -6,64 +6,57 @@
     {
       "clue": "Place where you buy food",
       "answer": "GROCERY",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Pipe instrument you blow into",
-      "answer": "FLUTE",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Change from solid to gas",
-      "answer": "BOIL",
-      "row": 3,
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
+      "clue": "Goes back and forth",
+      "answer": "SWITCH",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
       "clue": "Flag flying day",
       "answer": "FLAG",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
+      "row": 1,
+      "col": 1,
+      "direction": "down"
     },
     {
       "clue": "Shiny yellow metal",
       "answer": "GOLD",
-      "row": 5,
-      "col": 2,
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "Measure angles",
       "answer": "EDGE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Animals that eat plants",
+      "answer": "DEER",
       "row": 6,
-      "col": 4,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Boat parking place",
+      "answer": "DOCK",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
     },
     {
       "clue": "Money plan",
       "answer": "PLAN",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "You walk on these",
-      "answer": "FEET",
-      "row": 9,
-      "col": 3,
+      "row": 2,
+      "col": 0,
       "direction": "across"
     }
   ],

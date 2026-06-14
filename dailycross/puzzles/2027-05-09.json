@@ -6,49 +6,56 @@
     {
       "clue": "Popular search engine",
       "answer": "GOOGLE",
-      "row": 3,
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Temperature scale",
       "answer": "SCALE",
-      "row": 0,
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Country with Madrid",
       "answer": "SPAIN",
-      "row": 0,
+      "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
       "clue": "Yellow vegetable on a cob",
       "answer": "CORN",
-      "row": 2,
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Fish with a sword nose",
       "answer": "LONG",
-      "row": 5,
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Not caring about things",
       "answer": "NUMB",
-      "row": 5,
+      "row": 6,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Electricity pathway",
+      "answer": "PATH",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Day to celebrate science",
       "answer": "STEM",
-      "row": 7,
+      "row": 8,
       "col": 0,
       "direction": "across"
     }

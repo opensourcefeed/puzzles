@@ -6,56 +6,63 @@
     {
       "clue": "Orange citrus fruit",
       "answer": "ORANGE",
-      "row": 1,
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Day to plant trees",
       "answer": "ARBOR",
-      "row": 1,
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Cover for garden soil",
       "answer": "COVER",
-      "row": 0,
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
       "clue": "Apple wireless earbuds",
       "answer": "BUDS",
-      "row": 3,
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
       "clue": "Large water vehicle",
       "answer": "SHIP",
-      "row": 3,
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Bright sky object at night",
       "answer": "STAR",
-      "row": 3,
+      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
+      "clue": "Rock formed by fire",
+      "answer": "FIRE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
       "clue": "Soft white building rock",
       "answer": "ROCK",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
+      "row": 2,
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "You sleep on this",
       "answer": "BED",
-      "row": 3,
+      "row": 5,
       "col": 0,
       "direction": "across"
     }

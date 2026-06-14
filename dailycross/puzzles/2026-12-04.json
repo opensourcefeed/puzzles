@@ -39,13 +39,6 @@
       "direction": "down"
     },
     {
-      "clue": "Stage of a butterfly",
-      "answer": "COCOON",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
       "clue": "Tiny hobby computer",
       "answer": "BOARD",
       "row": 0,
@@ -53,10 +46,24 @@
       "direction": "down"
     },
     {
+      "clue": "Email folder for new messages",
+      "answer": "INBOX",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
       "clue": "Area where river meets ocean",
       "answer": "DELTA",
       "row": 5,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Wanting things fast",
+      "answer": "RUSH",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     }
   ],

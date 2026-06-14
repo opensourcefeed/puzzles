@@ -39,6 +39,13 @@
       "direction": "down"
     },
     {
+      "clue": "Animal that sleeps in winter",
+      "answer": "SLEEP",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
       "clue": "Freedom celebration",
       "answer": "FREE",
       "row": 0,
@@ -58,13 +65,6 @@
       "row": 1,
       "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "Light rock that floats",
-      "answer": "ROCK",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
     }
   ],
   "dayNumber": 316

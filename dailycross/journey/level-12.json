@@ -7,39 +7,46 @@
       "clue": "Country with Singapore city",
       "answer": "SINGAPORE",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Volcano erupts with this",
-      "answer": "ERUPTION",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
     },
     {
       "clue": "Australian animal that hops",
       "answer": "KANGAROO",
       "row": 1,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Closest planet to the sun",
       "answer": "MERCURY",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
+      "row": 1,
+      "col": 8,
+      "direction": "down"
     },
     {
       "clue": "You store clothes in this",
       "answer": "CLOSET",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Ocean fish that can inflate",
+      "answer": "PUFFER",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
       "row": 0,
-      "col": 7,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

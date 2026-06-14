@@ -6,57 +6,57 @@
     {
       "clue": "Country with Dublin",
       "answer": "IRELAND",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Wear purple day",
-      "answer": "PURPLE",
       "row": 3,
-      "col": 3,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Mattresses have metal coils",
       "answer": "SPRING",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
+      "row": 1,
+      "col": 1,
+      "direction": "down"
     },
     {
       "clue": "Temperature scale",
       "answer": "SCALE",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
+      "row": 1,
+      "col": 4,
+      "direction": "down"
     },
     {
       "clue": "Our planet",
       "answer": "EARTH",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
+      "row": 5,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Day to honor first responders",
       "answer": "FIRST",
-      "row": 4,
-      "col": 0,
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Drill holes with this",
-      "answer": "DRILL",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
+      "clue": "Freedom celebration",
+      "answer": "FREE",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
     },
     {
       "clue": "Plant that grows on walls",
       "answer": "MOSS",
-      "row": 0,
+      "row": 1,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Smart speaker from Google",
+      "answer": "NEST",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     }
   ],

@@ -39,18 +39,25 @@
       "direction": "across"
     },
     {
-      "clue": "Fingerprint on a surface",
-      "answer": "PRINT",
+      "clue": "Blood carrier in body",
+      "answer": "BLOOD",
       "row": 1,
-      "col": 6,
-      "direction": "across"
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
     },
     {
       "clue": "Tree part that falls in autumn",
       "answer": "LEAF",
-      "row": 5,
+      "row": 8,
       "col": 5,
-      "direction": "down"
+      "direction": "across"
     },
     {
       "clue": "How hot or cold something is",
@@ -60,18 +67,11 @@
       "direction": "down"
     },
     {
-      "clue": "Green color in leaves",
-      "answer": "STEM",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
-    },
-    {
       "clue": "Island country near India",
       "answer": "SRI",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
+      "row": 1,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 77

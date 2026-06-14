@@ -32,6 +32,13 @@
       "direction": "across"
     },
     {
+      "clue": "Growing bacteria in a lab",
+      "answer": "GROWTH",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
       "clue": "Country with Cairo",
       "answer": "EGYPT",
       "row": 6,
@@ -64,13 +71,6 @@
       "answer": "BEAT",
       "row": 3,
       "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Plant food from dirt",
-      "answer": "SOIL",
-      "row": 0,
-      "col": 1,
       "direction": "down"
     }
   ],

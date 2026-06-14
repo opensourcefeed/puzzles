@@ -6,72 +6,72 @@
     {
       "clue": "Catches fish for a living",
       "answer": "FISHERMAN",
-      "row": 5,
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Coin worth 100 cents",
       "answer": "QUARTER",
-      "row": 2,
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Draw circles with this",
       "answer": "COMPASS",
-      "row": 1,
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Day to honor first responders",
       "answer": "FIRST",
-      "row": 8,
+      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
       "clue": "Large black and white keyboard",
       "answer": "PIANO",
-      "row": 4,
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Queen's big day",
-      "answer": "CROWN",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
       "clue": "Your father's brother",
       "answer": "UNCLE",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
+      "row": 3,
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "Place where you swim",
       "answer": "POOL",
-      "row": 3,
+      "row": 0,
       "col": 9,
-      "direction": "across"
+      "direction": "down"
     },
     {
       "clue": "Spinning wind storm",
       "answer": "WIND",
-      "row": 7,
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Tall plant with a trunk",
       "answer": "TREE",
-      "row": 8,
+      "row": 10,
       "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Take child to work",
+      "answer": "WORK",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 149

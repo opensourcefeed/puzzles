@@ -6,65 +6,72 @@
     {
       "clue": "Country with Jakarta",
       "answer": "INDONESIA",
-      "row": 4,
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Celebration of a new year",
       "answer": "NEWYEAR",
-      "row": 4,
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Stage of a butterfly",
+      "answer": "COCOON",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "Shy around others",
       "answer": " QUIET",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
+      "row": 9,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Wraps around neck for warmth",
       "answer": "SCARF",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
+      "row": 5,
+      "col": 6,
+      "direction": "down"
     },
     {
       "clue": "Feeling very proud",
       "answer": "PROUD",
-      "row": 0,
+      "row": 3,
       "col": 2,
-      "direction": "down"
+      "direction": "across"
     },
     {
       "clue": "Cloud of gas in space",
       "answer": "CLOUD",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
+      "row": 6,
+      "col": 2,
+      "direction": "down"
     },
     {
       "clue": "Mom dad kids family",
       "answer": "HOME",
       "row": 1,
-      "col": 5,
-      "direction": "down"
+      "col": 3,
+      "direction": "across"
     },
     {
       "clue": "Oil from underground",
       "answer": "OIL",
-      "row": 3,
+      "row": 4,
       "col": 0,
       "direction": "down"
     },
     {
       "clue": "June dad day",
       "answer": "DAD",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
+      "row": 7,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 137

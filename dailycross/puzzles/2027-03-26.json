@@ -7,42 +7,49 @@
       "clue": "Cuts men's hair",
       "answer": "BARBER",
       "row": 1,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Boil water in this",
       "answer": "KETTLE",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Lift heavy objects",
       "answer": "CRANE",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Red fruit that keeps doctor away",
       "answer": "APPLE",
       "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Fingerprint on a surface",
-      "answer": "PRINT",
-      "row": 3,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Sticky bandage",
       "answer": "PATCH",
       "row": 4,
-      "col": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Country with Madrid",
+      "answer": "SPAIN",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You smell with this",
+      "answer": "NOSE",
+      "row": 1,
+      "col": 0,
       "direction": "down"
     }
   ],

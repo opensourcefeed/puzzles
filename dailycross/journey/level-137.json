@@ -88,52 +88,52 @@
       "direction": "down"
     },
     {
-      "clue": "Stage of a butterfly",
-      "answer": "COCOON",
-      "row": 4,
-      "col": 8,
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Loop of water from sky to ground and back",
       "answer": "CYCLE",
-      "row": 2,
+      "row": 4,
       "col": 8,
-      "direction": "down"
+      "direction": "across"
     },
     {
       "clue": "You put a TV on this",
       "answer": "STAND",
-      "row": 2,
-      "col": 3,
+      "row": 0,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Calendar shows the date",
       "answer": "TODAY",
       "row": 0,
-      "col": 3,
-      "direction": "across"
+      "col": 9,
+      "direction": "down"
     },
     {
       "clue": "A push or a pull on an object",
       "answer": "FORCE",
-      "row": 3,
+      "row": 0,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Windows are made of this clear material",
-      "answer": "GLASS",
-      "row": 1,
-      "col": 2,
+      "clue": "Sharpen knives on this",
+      "answer": "STONE",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "Day of atonement",
       "answer": "FAST",
-      "row": 4,
-      "col": 0,
+      "row": 0,
+      "col": 6,
       "direction": "across"
     }
   ],

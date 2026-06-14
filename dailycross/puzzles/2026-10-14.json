@@ -7,42 +7,42 @@
       "clue": "Cloth to stop bleeding",
       "answer": "CLOTH",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Mountain country in the Himalayas",
       "answer": "NEPAL",
       "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Unit of electric current",
+      "answer": "WATT",
+      "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Path electricity flows",
-      "answer": "WIRE",
+      "clue": "Twelve months",
+      "answer": "YEAR",
       "row": 1,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Six sided shape",
-      "answer": "EDGE",
-      "row": 1,
-      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Island country in the Caribbean",
       "answer": "CUBA",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "direction": "down"
     },
     {
       "clue": "Can't see well",
       "answer": "BLUR",
       "row": 6,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     }
   ],

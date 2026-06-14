@@ -11,6 +11,13 @@
       "direction": "across"
     },
     {
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
       "clue": "Ropes are made from strong fibers",
       "answer": "FIBER",
       "row": 2,
@@ -20,42 +27,35 @@
     {
       "clue": "Electric car company",
       "answer": "TESLA",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Press garlic with this",
-      "answer": "PRESS",
-      "row": 6,
-      "col": 4,
+      "row": 5,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Diamond shape",
       "answer": "SLANT",
       "row": 1,
-      "col": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Round white vegetable",
+      "answer": "ONION",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "You put a TV on this",
       "answer": "STAND",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Keeps hands safe from heat",
-      "answer": "MITT",
-      "row": 0,
+      "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Half circle shape",
-      "answer": "DOME",
-      "row": 4,
+      "clue": "Keeps hands safe from heat",
+      "answer": "MITT",
+      "row": 3,
       "col": 0,
       "direction": "across"
     }

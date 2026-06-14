@@ -58,6 +58,13 @@
       "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Glass is made from melted sand",
+      "answer": "SAND",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 256

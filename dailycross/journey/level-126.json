@@ -95,16 +95,9 @@
       "direction": "down"
     },
     {
-      "clue": "Material inside a wire",
-      "answer": "METAL",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
       "clue": "You put a TV on this",
       "answer": "STAND",
-      "row": 13,
+      "row": 12,
       "col": 7,
       "direction": "across"
     },
@@ -155,6 +148,13 @@
       "answer": "BLUE",
       "row": 0,
       "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Woven bench material",
+      "answer": "WOOD",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     }
   ],

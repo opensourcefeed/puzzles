@@ -6,72 +6,72 @@
     {
       "clue": "Country with Singapore city",
       "answer": "SINGAPORE",
-      "row": 6,
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Makes clothes",
-      "answer": "SEWER",
-      "row": 6,
-      "col": 2,
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Extra money for good work",
-      "answer": "PRIZE",
-      "row": 6,
-      "col": 7,
+      "clue": "Makes clothes",
+      "answer": "SEWER",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Grandparents day",
       "answer": "ELVES",
-      "row": 10,
-      "col": 7,
+      "row": 7,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "Thanksgiving in US",
       "answer": "THANK",
-      "row": 3,
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "Washing hands is this",
       "answer": "CLEAN",
-      "row": 9,
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Queen's big day",
-      "answer": "CROWN",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
       "clue": "Place where a play is performed",
       "answer": "STAGE",
-      "row": 3,
+      "row": 0,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Take child to work",
-      "answer": "WORK",
-      "row": 8,
-      "col": 9,
-      "direction": "across"
+      "clue": "Paper showing your pay",
+      "answer": "SLIP",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
     },
     {
       "clue": "Unit of digital information",
       "answer": "BYTE",
-      "row": 0,
-      "col": 7,
+      "row": 4,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Take child to work",
+      "answer": "WORK",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 165

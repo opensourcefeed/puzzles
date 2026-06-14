@@ -6,72 +6,65 @@
     {
       "clue": "Math calculation tool",
       "answer": "CALCULATOR",
-      "row": 4,
-      "col": 1,
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Coin worth 5 cents",
       "answer": "NICKEL",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 3,
-      "col": 7,
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "British paper money unit",
       "answer": "POUND",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
+      "row": 1,
+      "col": 8,
+      "direction": "down"
     },
     {
       "clue": "Email folder for new messages",
       "answer": "INBOX",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
+      "row": 4,
+      "col": 7,
+      "direction": "across"
     },
     {
       "clue": "Large animal people ride",
       "answer": "HORSE",
-      "row": 6,
-      "col": 0,
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Animals that eat plants",
+      "answer": "DEER",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "King of the jungle",
       "answer": "LION",
-      "row": 1,
-      "col": 8,
+      "row": 0,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Magnet attracts this metal",
       "answer": "IRON",
-      "row": 5,
-      "col": 2,
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Underground storage",
       "answer": "HOLE",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "You read stories in this",
-      "answer": "BOOK",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
+      "row": 7,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 89

@@ -6,57 +6,64 @@
     {
       "clue": "Tool used to see far stars",
       "answer": "TELESCOPE",
-      "row": 3,
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Your male sibling",
       "answer": "BROTHER",
-      "row": 1,
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Vehicle with two wheels and a motor",
       "answer": "SCOOTER",
-      "row": 3,
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Stage of a butterfly",
-      "answer": "COCOON",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
       "clue": "Removes pencil marks",
       "answer": "ERASER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
+      "row": 7,
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "Strong bone mineral",
       "answer": "MAGNET",
-      "row": 8,
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Moving energy of objects",
+      "answer": "MOTION",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You eat with this",
-      "answer": "MOUTH",
-      "row": 0,
-      "col": 0,
+      "clue": "Sun color",
+      "answer": "YELLOW",
+      "row": 6,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Large body of salt water",
-      "answer": "OCEAN",
-      "row": 5,
+      "clue": "You eat with this",
+      "answer": "MOUTH",
+      "row": 8,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Top of the oven for cooking",
+      "answer": "STOVE",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     }
   ],

@@ -18,6 +18,13 @@
       "direction": "down"
     },
     {
+      "clue": "Wear purple day",
+      "answer": "PURPLE",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
       "clue": "Big family everyone",
       "answer": "TRIBE",
       "row": 2,
@@ -44,13 +51,6 @@
       "row": 8,
       "col": 3,
       "direction": "across"
-    },
-    {
-      "clue": "Take child to work",
-      "answer": "WORK",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
     },
     {
       "clue": "Ink is made from dye",

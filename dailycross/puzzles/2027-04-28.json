@@ -39,16 +39,16 @@
       "direction": "down"
     },
     {
-      "clue": "Special diet food",
-      "answer": "GRAIN",
-      "row": 7,
-      "col": 6,
+      "clue": "How much space something takes",
+      "answer": "SPACE",
+      "row": 8,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Magnifying tool",
-      "answer": "LENS",
-      "row": 1,
+      "clue": "Special diet food",
+      "answer": "GRAIN",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
@@ -63,7 +63,7 @@
       "clue": "Red planet in our solar system",
       "answer": "MARS",
       "row": 8,
-      "col": 2,
+      "col": 6,
       "direction": "across"
     }
   ],

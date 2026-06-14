@@ -6,72 +6,65 @@
     {
       "clue": "Room below your house",
       "answer": "BASEMENT",
-      "row": 4,
-      "col": 0,
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Regular exercise keeps you this",
       "answer": "HEALTHY",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
-      "row": 0,
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Ocean mammal with tusks",
       "answer": "WALRUS",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
+      "row": 2,
+      "col": 3,
+      "direction": "down"
     },
     {
       "clue": "Wraps around neck for warmth",
       "answer": "SCARF",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Cloth to stop bleeding",
       "answer": "CLOTH",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     },
     {
       "clue": "Calendar shows the date",
       "answer": "TODAY",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
+      "row": 3,
+      "col": 9,
+      "direction": "across"
     },
     {
       "clue": "Holds pants up",
       "answer": "BELT",
       "row": 2,
-      "col": 5,
-      "direction": "across"
+      "col": 7,
+      "direction": "down"
     },
     {
       "clue": "Sure of yourself",
       "answer": "BOLD",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
+      "row": 1,
+      "col": 7,
+      "direction": "across"
     },
     {
       "clue": "Round fruit that is green or red",
       "answer": "PEAR",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
+      "row": 1,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 297

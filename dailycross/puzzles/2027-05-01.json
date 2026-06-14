@@ -7,49 +7,42 @@
       "clue": "Move dirt with this",
       "answer": "TRACTOR",
       "row": 2,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Shovel snow with this",
       "answer": "SHOVEL",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Mix of two metals",
       "answer": "BRONZE",
       "row": 1,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Connects computer to monitor",
       "answer": "CABLE",
       "row": 2,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Light red color",
       "answer": "PINK",
       "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Center part of something",
-      "answer": "CORE",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Family history book",
-      "answer": "BOOK",
-      "row": 5,
-      "col": 1,
+      "clue": "Two or more atoms together",
+      "answer": "PAIR",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     }
   ],

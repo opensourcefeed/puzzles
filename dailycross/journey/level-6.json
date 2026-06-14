@@ -6,40 +6,47 @@
     {
       "clue": "Country of kangaroos",
       "answer": "AUSTRALIA",
-      "row": 2,
-      "col": 0,
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Country with Budapest",
       "answer": "HUNGARY",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Rock changed by heat",
-      "answer": "CHANGE",
-      "row": 0,
-      "col": 5,
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Drives a vehicle for hire",
       "answer": "DRIVER",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Wraps around neck for warmth",
+      "answer": "SCARF",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Wraps around neck for warmth",
-      "answer": "SCARF",
+      "clue": "Largest ocean animal",
+      "answer": "WHALE",
       "row": 0,
-      "col": 4,
-      "direction": "across"
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Ocean animal with pincers",
+      "answer": "CRAB",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

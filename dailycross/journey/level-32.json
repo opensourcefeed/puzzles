@@ -6,37 +6,44 @@
     {
       "clue": "Australian animal that hops",
       "answer": "KANGAROO",
-      "row": 3,
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Pair of married people",
       "answer": "COUPLE",
-      "row": 2,
+      "row": 4,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Stage of a butterfly",
+      "answer": "COCOON",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Sea flower animal",
       "answer": "FLOWER",
-      "row": 6,
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
       "clue": "Land of the rising sun",
       "answer": "JAPAN",
-      "row": 2,
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
       "clue": "Types of money",
       "answer": "COINS",
-      "row": 0,
+      "row": 2,
       "col": 2,
-      "direction": "down"
+      "direction": "across"
     },
     {
       "clue": "Salty snack often eaten with dip",
@@ -48,26 +55,12 @@
     {
       "clue": "Day to celebrate science",
       "answer": "STEM",
-      "row": 4,
+      "row": 6,
       "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Be nice day",
-      "answer": "KIND",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean fish that swims in schools",
-      "answer": "TUNA",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 8,
   "targetWords": 9,
   "difficulty": "medium"
 }

@@ -46,11 +46,18 @@
       "direction": "down"
     },
     {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 3,
+      "clue": "Material inside a wire",
+      "answer": "METAL",
+      "row": 4,
       "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Flies airplanes",
+      "answer": "PILOT",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "Yellow vegetable on a cob",

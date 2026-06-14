@@ -74,13 +74,6 @@
       "direction": "across"
     },
     {
-      "clue": "Blood carrier in body",
-      "answer": "BLOOD",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
       "clue": "Shiny coat on pans",
       "answer": "SHINE",
       "row": 1,
@@ -90,9 +83,9 @@
     {
       "clue": "Makes computer programs",
       "answer": "CODER",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
+      "row": 2,
+      "col": 10,
+      "direction": "down"
     },
     {
       "clue": "Wraps around neck for warmth",
@@ -102,8 +95,8 @@
       "direction": "across"
     },
     {
-      "clue": "Bone vitamin",
-      "answer": "MILK",
+      "clue": "How big something is",
+      "answer": "SIZE",
       "row": 0,
       "col": 7,
       "direction": "down"
@@ -132,14 +125,14 @@
     {
       "clue": "Money from a job",
       "answer": "CASH",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
+      "row": 2,
+      "col": 10,
+      "direction": "across"
     },
     {
       "clue": "A child with no siblings",
       "answer": "ONLY",
-      "row": 2,
+      "row": 13,
       "col": 10,
       "direction": "across"
     },
@@ -151,21 +144,14 @@
       "direction": "across"
     },
     {
-      "clue": "Cork tree bark",
-      "answer": "BARK",
-      "row": 0,
-      "col": 10,
-      "direction": "across"
-    },
-    {
       "clue": "You smell with this",
       "answer": "NOSE",
-      "row": 13,
-      "col": 11,
-      "direction": "across"
+      "row": 8,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 23,
+  "wordCount": 21,
   "targetWords": 25,
   "difficulty": "hard"
 }

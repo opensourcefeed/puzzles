@@ -7,34 +7,27 @@
       "clue": "April 1 prank day",
       "answer": "APRILFOOLS",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Volcano erupts with this",
-      "answer": "ERUPTION",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
     },
     {
       "clue": "Small piece of land in water",
       "answer": "ISLAND",
-      "row": 5,
-      "col": 6,
+      "row": 7,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Stage of a butterfly",
-      "answer": "COCOON",
-      "row": 6,
-      "col": 8,
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Sea flower animal",
       "answer": "FLOWER",
-      "row": 12,
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
@@ -42,116 +35,116 @@
       "clue": "Colorful garden bloom",
       "answer": "FLOWER",
       "row": 6,
-      "col": 10,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Hot wet forest near equator",
+      "answer": "JUNGLE",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "Metal gray color",
       "answer": "SILVER",
-      "row": 5,
+      "row": 4,
       "col": 5,
       "direction": "across"
     },
     {
       "clue": "Creates paintings or drawings",
       "answer": "ARTIST",
-      "row": 11,
-      "col": 9,
-      "direction": "across"
+      "row": 7,
+      "col": 0,
+      "direction": "down"
     },
     {
       "clue": "You write with this",
       "answer": "PENCIL",
-      "row": 7,
-      "col": 12,
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Place where you learn",
-      "answer": "SCHOOL",
-      "row": 0,
-      "col": 7,
+      "clue": "Check if surface is flat",
+      "answer": "LEVEL",
+      "row": 10,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Top of the oven for cooking",
       "answer": "STOVE",
       "row": 3,
-      "col": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Fingerprint on a surface",
+      "answer": "PRINT",
+      "row": 11,
+      "col": 7,
       "direction": "across"
     },
     {
       "clue": "Large black and white keyboard",
       "answer": "PIANO",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
+      "row": 2,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Country with Cairo",
       "answer": "EGYPT",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
+      "row": 7,
+      "col": 11,
+      "direction": "down"
     },
     {
       "clue": "Day to plant trees",
       "answer": "ARBOR",
-      "row": 1,
-      "col": 10,
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "You hold with these",
       "answer": "HANDS",
-      "row": 1,
-      "col": 9,
+      "row": 0,
+      "col": 1,
       "direction": "across"
-    },
-    {
-      "clue": "Green message app",
-      "answer": "CHAT",
-      "row": 8,
-      "col": 14,
-      "direction": "down"
     },
     {
       "clue": "Mom dad kids family",
       "answer": "HOME",
-      "row": 7,
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Arctic bear",
+      "answer": "BEAR",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Covering of a cell",
+      "answer": "SKIN",
+      "row": 3,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Animals that eat plants",
-      "answer": "DEER",
-      "row": 1,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny living thing that can make you sick",
-      "answer": "GERM",
-      "row": 3,
-      "col": 11,
-      "direction": "across"
-    },
-    {
       "clue": "Food storage room",
       "answer": "ROOM",
-      "row": 5,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Hang utensils on this",
-      "answer": "RACK",
       "row": 11,
-      "col": 10,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 21,
+  "wordCount": 20,
   "targetWords": 25,
   "difficulty": "hard"
 }

@@ -7,67 +7,53 @@
       "clue": "Large group of musicians",
       "answer": "ORCHESTRA",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Light purple flower color",
       "answer": "LAVENDER",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Makes pots out of clay",
       "answer": "POTTER",
       "row": 1,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Dig holes with this",
       "answer": "SPADE",
       "row": 1,
-      "col": 6,
+      "col": 5,
       "direction": "across"
     },
     {
       "clue": "Feeling not interested at all",
       "answer": "BORED",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
     },
     {
       "clue": "Striped horse-like animal",
       "answer": "ZEBRA",
       "row": 6,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Paper check",
-      "answer": "CHECK",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Wash dishes in this",
-      "answer": "SINK",
-      "row": 7,
-      "col": 0,
+      "clue": "Change from solid to gas",
+      "answer": "BOIL",
+      "row": 0,
+      "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 7,
   "targetWords": 10,
   "difficulty": "medium"
 }

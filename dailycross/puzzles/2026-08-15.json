@@ -7,63 +7,70 @@
       "clue": "Flying vehicle with wings",
       "answer": "AIRPLANE",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Country with Vienna",
       "answer": "AUSTRIA",
       "row": 2,
-      "col": 8,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Leafy green vegetable",
       "answer": "SPINACH",
       "row": 1,
-      "col": 6,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Mix of two metals",
+      "answer": "BRONZE",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Breakfast egg dish",
       "answer": "OMELET",
       "row": 0,
-      "col": 10,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Crunchy green vegetable with stalks",
       "answer": "CELERY",
       "row": 4,
-      "col": 9,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Goes around something",
+      "answer": "ORBIT",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Book reading day",
+      "answer": "BOOK",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     },
     {
       "clue": "Wanting things fast",
       "answer": "RUSH",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Center part of something",
-      "answer": "CORE",
-      "row": 0,
-      "col": 9,
-      "direction": "across"
+      "row": 4,
+      "col": 10,
+      "direction": "down"
     },
     {
       "clue": "Flag flying day",
       "answer": "FLAG",
-      "row": 0,
+      "row": 8,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Mix ingredients in this",
-      "answer": "BOWL",
-      "row": 1,
-      "col": 0,
       "direction": "across"
     }
   ],

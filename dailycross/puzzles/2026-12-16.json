@@ -6,72 +6,72 @@
     {
       "clue": "Your child's child",
       "answer": "GRANDCHILD",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Yellow spring flower",
-      "answer": "DAFFODIL",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Paper money used in the US",
-      "answer": "DOLLAR",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Become part of a family by law",
-      "answer": "ADOPT",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Round Italian food",
-      "answer": "PIZZA",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Arctic bear",
-      "answer": "BEAR",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Small picture on a phone screen",
-      "answer": "ICON",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Path electricity flows",
-      "answer": "WIRE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Smart speaker from Amazon",
-      "answer": "ECHO",
       "row": 1,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Can't hear well",
-      "answer": "DEAF",
+      "clue": "Yellow spring flower",
+      "answer": "DAFFODIL",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Paper money used in the US",
+      "answer": "DOLLAR",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Become part of a family by law",
+      "answer": "ADOPT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Round Italian food",
+      "answer": "PIZZA",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Small picture on a phone screen",
+      "answer": "ICON",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Electricity one direction",
+      "answer": "FLOW",
       "row": 3,
       "col": 9,
       "direction": "across"
+    },
+    {
+      "clue": "Smart speaker from Amazon",
+      "answer": "ECHO",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Can't hear well",
+      "answer": "DEAF",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 187

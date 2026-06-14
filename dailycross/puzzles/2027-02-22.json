@@ -6,64 +6,64 @@
     {
       "clue": "Place where sick people go",
       "answer": "HOSPITAL",
-      "row": 2,
-      "col": 0,
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Heavy snowstorm with wind",
       "answer": "BLIZZARD",
-      "row": 0,
-      "col": 4,
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Eight-armed ocean creature",
       "answer": "OCTOPUS",
-      "row": 2,
-      "col": 1,
+      "row": 5,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Light bounces off this",
+      "answer": "MIRROR",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
     },
     {
       "clue": "Place where you learn",
       "answer": "SCHOOL",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Sea flower animal",
-      "answer": "FLOWER",
-      "row": 1,
+      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Fallen leaves on ground",
-      "answer": "LEAVES",
-      "row": 5,
+      "clue": "Sea flower animal",
+      "answer": "FLOWER",
+      "row": 11,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Email folder for new messages",
-      "answer": "INBOX",
+      "clue": "Fallen leaves on ground",
+      "answer": "LEAVES",
       "row": 0,
-      "col": 2,
-      "direction": "across"
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "Animals that eat meat",
-      "answer": "WOLF",
-      "row": 5,
+      "clue": "Flat cooking surface",
+      "answer": "GRILL",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "You sit on this with cushions",
       "answer": "SOFA",
-      "row": 5,
-      "col": 11,
+      "row": 2,
+      "col": 7,
       "direction": "down"
     }
   ],

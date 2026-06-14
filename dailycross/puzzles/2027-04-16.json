@@ -6,57 +6,57 @@
     {
       "clue": "Country of kangaroos",
       "answer": "AUSTRALIA",
-      "row": 4,
-      "col": 0,
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Brother or sister",
       "answer": "SIBLING",
-      "row": 4,
-      "col": 2,
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Flat mobile device without keyboard",
       "answer": "TABLET",
-      "row": 3,
-      "col": 5,
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "Feeling like you want to sleep",
       "answer": "SLEEPY",
-      "row": 6,
-      "col": 4,
+      "row": 3,
+      "col": 7,
       "direction": "across"
-    },
-    {
-      "clue": "Baby kangaroo pocket",
-      "answer": "POUCH",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
     },
     {
       "clue": "Coin worth 1 cent",
       "answer": "PENNY",
-      "row": 9,
-      "col": 0,
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Giving to charity",
+      "answer": "GIFT",
+      "row": 5,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Goes around something",
-      "answer": "ORBIT",
+      "clue": "Helps you hear",
+      "answer": "EARS",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Helps you hear",
-      "answer": "EARS",
-      "row": 1,
-      "col": 1,
+      "clue": "Rake leaves with this",
+      "answer": "RAKE",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     }
   ],

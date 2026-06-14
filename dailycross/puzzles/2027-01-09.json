@@ -6,70 +6,63 @@
     {
       "clue": "Sidewalks are made of this",
       "answer": "CEMENT",
-      "row": 3,
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
       "clue": "Test battery with a tester",
       "answer": "TESTER",
-      "row": 2,
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Blood vessel that carries blood away",
       "answer": "ARTERY",
-      "row": 1,
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Thanksgiving in US",
       "answer": "THANK",
-      "row": 3,
+      "row": 2,
       "col": 7,
       "direction": "across"
     },
     {
       "clue": "You put a TV on this",
       "answer": "STAND",
-      "row": 1,
+      "row": 0,
       "col": 5,
       "direction": "across"
     },
     {
       "clue": "Green message app",
       "answer": "CHAT",
-      "row": 3,
+      "row": 2,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Path electricity flows",
-      "answer": "WIRE",
-      "row": 0,
-      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Flag flying day",
       "answer": "FLAG",
-      "row": 5,
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Space rock that hits Earth",
       "answer": "ROCK",
-      "row": 7,
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
       "clue": "Day to celebrate the arts",
       "answer": "ARTS",
-      "row": 3,
+      "row": 2,
       "col": 9,
       "direction": "down"
     }

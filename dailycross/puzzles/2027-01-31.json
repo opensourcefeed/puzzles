@@ -39,13 +39,6 @@
       "direction": "across"
     },
     {
-      "clue": "Goes back and forth",
-      "answer": "SWITCH",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
       "clue": "Writes books",
       "answer": "AUTHOR",
       "row": 0,
@@ -55,9 +48,9 @@
     {
       "clue": "Boil water in this",
       "answer": "KETTLE",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
+      "row": 7,
+      "col": 4,
+      "direction": "down"
     },
     {
       "clue": "Group of people related by blood",
@@ -67,10 +60,10 @@
       "direction": "across"
     },
     {
-      "clue": "Be nice day",
-      "answer": "KIND",
-      "row": 6,
-      "col": 0,
+      "clue": "Winter celebration",
+      "answer": "YULE",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     }
   ],

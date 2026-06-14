@@ -53,28 +53,21 @@
       "direction": "down"
     },
     {
-      "clue": "Joint between thigh and calf",
-      "answer": "KNEE",
+      "clue": "Queen's big day",
+      "answer": "CROWN",
       "row": 3,
-      "col": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Stick things together",
-      "answer": "GLUE",
+      "clue": "Joint between thigh and calf",
+      "answer": "KNEE",
       "row": 4,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Winter celebration",
-      "answer": "YULE",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 9,
   "targetWords": 11,
   "difficulty": "medium"
 }

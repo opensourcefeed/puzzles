@@ -7,56 +7,63 @@
       "clue": "Cut paper with this",
       "answer": "SCISSORS",
       "row": 1,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Strong wind storm",
       "answer": "TORNADO",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Feeling very interested",
       "answer": "CURIOUS",
       "row": 1,
-      "col": 1,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "Large frozen area of ice",
       "answer": "GLACIER",
       "row": 4,
-      "col": 3,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Leafy green vegetable",
       "answer": "SPINACH",
       "row": 2,
-      "col": 7,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Two or more atoms together",
-      "answer": "PAIR",
-      "row": 6,
-      "col": 6,
+      "clue": "Green color in leaves",
+      "answer": "STEM",
+      "row": 2,
+      "col": 8,
       "direction": "across"
     },
     {
       "clue": "Medicine for sickness",
       "answer": "CURE",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
+      "row": 3,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Sony game system",
       "answer": "GAME",
       "row": 4,
-      "col": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Joint between thigh and calf",
+      "answer": "KNEE",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     }
   ],

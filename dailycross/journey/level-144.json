@@ -102,25 +102,11 @@
       "direction": "across"
     },
     {
-      "clue": "Goes around something",
-      "answer": "ORBIT",
-      "row": 13,
-      "col": 10,
-      "direction": "across"
-    },
-    {
       "clue": "Diamond shape",
       "answer": "SLANT",
       "row": 11,
       "col": 10,
       "direction": "across"
-    },
-    {
-      "clue": "Material inside a wire",
-      "answer": "METAL",
-      "row": 2,
-      "col": 12,
-      "direction": "down"
     },
     {
       "clue": "Thirty or thirty-one days",
@@ -130,10 +116,24 @@
       "direction": "down"
     },
     {
+      "clue": "Sport where you throw a long stick",
+      "answer": "THROW",
+      "row": 13,
+      "col": 9,
+      "direction": "across"
+    },
+    {
       "clue": "Jewish New Year",
       "answer": "ROSH",
       "row": 11,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Electricity pathway",
+      "answer": "PATH",
+      "row": 2,
+      "col": 12,
       "direction": "down"
     },
     {
@@ -142,9 +142,16 @@
       "row": 14,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Blood check test",
+      "answer": "TEST",
+      "row": 11,
+      "col": 14,
+      "direction": "down"
     }
   ],
-  "wordCount": 20,
+  "wordCount": 21,
   "targetWords": 24,
   "difficulty": "hard"
 }

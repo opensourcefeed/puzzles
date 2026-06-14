@@ -6,51 +6,51 @@
     {
       "clue": "Yellow spring flower",
       "answer": "DAFFODIL",
-      "row": 3,
-      "col": 1,
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Light purple flower color",
       "answer": "LAVENDER",
-      "row": 3,
-      "col": 8,
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Teaches dogs new skills",
       "answer": "TRAINER",
-      "row": 1,
-      "col": 2,
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "Small string instrument played with bow",
       "answer": "VIOLIN",
-      "row": 1,
-      "col": 5,
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Cares for children at home",
       "answer": "NANNY",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Material inside a wire",
-      "answer": "METAL",
-      "row": 1,
-      "col": 0,
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Smallest unit of life",
       "answer": "CELL",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Red flower given on Valentine's",
+      "answer": "ROSE",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 262

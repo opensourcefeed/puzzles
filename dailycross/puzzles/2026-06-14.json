@@ -53,6 +53,13 @@
       "direction": "across"
     },
     {
+      "clue": "Energy from the sun",
+      "answer": "SOLAR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
       "clue": "White dairy drink",
       "answer": "MILK",
       "row": 2,
@@ -62,16 +69,9 @@
     {
       "clue": "Sky color",
       "answer": "BLUE",
-      "row": 0,
-      "col": 4,
+      "row": 2,
+      "col": 11,
       "direction": "down"
-    },
-    {
-      "clue": "Glass wool insulation",
-      "answer": "WOOL",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 2

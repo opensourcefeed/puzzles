@@ -53,11 +53,11 @@
       "direction": "across"
     },
     {
-      "clue": "Water becomes gas",
-      "answer": "STEAM",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
+      "clue": "Measures temperature",
+      "answer": "GAUGE",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
     },
     {
       "clue": "Dry dishes with this",
@@ -69,9 +69,9 @@
     {
       "clue": "Happy about getting a gift",
       "answer": "GLAD",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
+      "row": 8,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 86

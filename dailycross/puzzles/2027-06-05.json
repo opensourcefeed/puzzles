@@ -6,72 +6,72 @@
     {
       "clue": "Bones inside your body",
       "answer": "SKELETON",
-      "row": 3,
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
       "clue": "Top part of your arm",
       "answer": "SHOULDER",
-      "row": 3,
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
       "clue": "Microsoft operating system",
       "answer": "WINDOWS",
-      "row": 1,
+      "row": 2,
       "col": 9,
       "direction": "down"
     },
     {
       "clue": "Country with Helsinki",
       "answer": "FINLAND",
-      "row": 0,
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Your male parent",
       "answer": "FATHER",
-      "row": 0,
+      "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
       "clue": "Place where a horse lives",
       "answer": "STABLE",
-      "row": 2,
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Breathing trouble",
       "answer": "WHEEZE",
-      "row": 9,
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Queen's big day",
+      "answer": "CROWN",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Large ocean fish with sharp teeth",
       "answer": "SHARK",
-      "row": 7,
-      "col": 9,
-      "direction": "across"
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     },
     {
       "clue": "The food you eat each day",
       "answer": "DIET",
-      "row": 4,
+      "row": 5,
       "col": 9,
       "direction": "across"
-    },
-    {
-      "clue": "Winter celebration",
-      "answer": "YULE",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
     }
   ],
   "dayNumber": 358

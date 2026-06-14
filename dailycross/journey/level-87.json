@@ -88,11 +88,18 @@
       "direction": "across"
     },
     {
-      "clue": "Ocean coral reef builder",
-      "answer": "CORAL",
+      "clue": "Soft white rock",
+      "answer": "CHALK",
       "row": 10,
       "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "Ocean coral reef builder",
+      "answer": "CORAL",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
     },
     {
       "clue": "Small bed for growing vegetables",
@@ -102,17 +109,10 @@
       "direction": "down"
     },
     {
-      "clue": "Two or more atoms together",
-      "answer": "PAIR",
-      "row": 0,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Place to trade stocks",
-      "answer": "SHOP",
-      "row": 8,
-      "col": 0,
+      "clue": "Green color in leaves",
+      "answer": "STEM",
+      "row": 7,
+      "col": 1,
       "direction": "down"
     }
   ],

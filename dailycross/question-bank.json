@@ -1087,10 +1087,6 @@
         "answer": "VEIN"
       },
       {
-        "clue": "Energy from the sun",
-        "answer": "SOLAR"
-      },
-      {
         "clue": "Tiny living thing that can make you sick",
         "answer": "GERM"
       },
@@ -1289,6 +1285,10 @@
       {
         "clue": "Glass wool insulation",
         "answer": "WOOL"
+      },
+      {
+        "clue": "Energy from the sun",
+        "answer": "SOLAR"
       }
     ],
     "technology": [
@@ -2211,10 +2211,6 @@
         "answer": "FAST"
       },
       {
-        "clue": "Winter celebration",
-        "answer": "YULE"
-      },
-      {
         "clue": "Queen's big day",
         "answer": "CROWN"
       },
@@ -2237,6 +2233,10 @@
       {
         "clue": "Be nice day",
         "answer": "KIND"
+      },
+      {
+        "clue": "Winter celebration",
+        "answer": "YULE"
       }
     ],
     "kitchen": [
@@ -4007,10 +4007,6 @@
         "answer": "PAY"
       },
       {
-        "clue": "Money per year of work",
-        "answer": "SALARY"
-      },
-      {
         "clue": "Extra money for good work",
         "answer": "PRIZE"
       },
@@ -4041,6 +4037,10 @@
       {
         "clue": "Putting money in business",
         "answer": "BUY"
+      },
+      {
+        "clue": "Money per year of work",
+        "answer": "SALARY"
       }
     ],
     "health": [
@@ -4262,6 +4262,6 @@
     },
     "averageWordLength": 6,
     "createdDate": "2026-06-13",
-    "lastUpdated": "2026-06-13"
+    "lastUpdated": "2026-06-14"
   }
 }

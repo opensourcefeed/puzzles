@@ -25,6 +25,13 @@
       "direction": "down"
     },
     {
+      "clue": "Mix of two metals",
+      "answer": "BRONZE",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
       "clue": "Your male parent",
       "answer": "FATHER",
       "row": 2,
@@ -41,9 +48,9 @@
     {
       "clue": "Your first given name",
       "answer": "GIVEN",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
+      "row": 5,
+      "col": 9,
+      "direction": "down"
     },
     {
       "clue": "Handheld device for calls and apps",
@@ -51,13 +58,6 @@
       "row": 3,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Large flowing body of water",
-      "answer": "RIVER",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
     }
   ],
   "wordCount": 8,

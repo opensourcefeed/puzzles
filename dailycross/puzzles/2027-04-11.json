@@ -25,52 +25,31 @@
       "direction": "down"
     },
     {
+      "clue": "Material that blocks electricity",
+      "answer": "RUBBER",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
       "clue": "Leads visitors around",
       "answer": "GUIDE",
-      "row": 8,
+      "row": 4,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     },
     {
       "clue": "Test electrical current",
       "answer": "METER",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
       "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You keep blankets in this trunk",
-      "answer": "TRUNK",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Understanding others",
-      "answer": "CARE",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Arctic bear",
-      "answer": "BEAR",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "How big something is",
-      "answer": "SIZE",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Coin worth 10 cents",
-      "answer": "DIME",
-      "row": 10,
-      "col": 0,
+      "col": 6,
       "direction": "across"
     }
   ],

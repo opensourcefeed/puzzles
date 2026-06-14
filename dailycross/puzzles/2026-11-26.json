@@ -6,57 +6,64 @@
     {
       "clue": "Room below your house",
       "answer": "BASEMENT",
-      "row": 3,
-      "col": 2,
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Place where athletes play",
       "answer": "STADIUM",
-      "row": 3,
-      "col": 4,
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "August independence of India",
       "answer": "AUGUST",
-      "row": 5,
-      "col": 4,
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Country of the Amazon River",
       "answer": "BRAZIL",
-      "row": 3,
-      "col": 2,
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "Our planet",
       "answer": "EARTH",
-      "row": 0,
-      "col": 9,
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "Guards a building",
       "answer": "GUARD",
-      "row": 1,
-      "col": 7,
+      "row": 2,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Water becomes gas",
+      "answer": "STEAM",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
     },
     {
       "clue": "Percussion instrument you hit",
       "answer": "DRUM",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
+      "row": 10,
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "Water vapor becomes liquid",
-      "answer": "RAIN",
-      "row": 7,
-      "col": 0,
+      "clue": "Full of energy feeling",
+      "answer": "LIVE",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     }
   ],

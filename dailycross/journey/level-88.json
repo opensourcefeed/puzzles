@@ -7,102 +7,95 @@
       "clue": "Country with Jakarta",
       "answer": "INDONESIA",
       "row": 7,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Very tall natural land feature",
       "answer": "MOUNTAIN",
       "row": 6,
-      "col": 6,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Your male sibling",
       "answer": "BROTHER",
       "row": 2,
-      "col": 8,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "3D printing machine",
       "answer": "PRINTER",
       "row": 3,
-      "col": 7,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Ocean bird that dives for fish",
       "answer": "SEAGULL",
       "row": 5,
-      "col": 11,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "Sport where you throw a long metal stick",
       "answer": "JAVELIN",
       "row": 10,
-      "col": 7,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Regular exercise keeps you this",
       "answer": "HEALTHY",
       "row": 5,
-      "col": 4,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Police building",
       "answer": "STATION",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "Goes back and forth",
-      "answer": "SWITCH",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
     },
     {
       "clue": "Clear liquid that your body needs",
       "answer": "WATER",
       "row": 0,
-      "col": 12,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "Leads visitors around",
       "answer": "GUIDE",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
+      "row": 12,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "Shiny coat on pans",
       "answer": "SHINE",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
+      "row": 7,
+      "col": 10,
+      "direction": "down"
     },
     {
       "clue": "Day to celebrate science",
       "answer": "STEM",
       "row": 5,
-      "col": 11,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Underwater mountain",
-      "answer": "HILL",
-      "row": 9,
-      "col": 1,
+      "clue": "Mom dad kids family",
+      "answer": "HOME",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 13,
   "targetWords": 17,
   "difficulty": "medium"
 }

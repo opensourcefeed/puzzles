@@ -53,10 +53,17 @@
       "direction": "across"
     },
     {
-      "clue": "Soft white rock",
-      "answer": "CHALK",
+      "clue": "Grassy African plain",
+      "answer": "GRASS",
       "row": 3,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Fine china material",
+      "answer": "CLAY",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     },
     {

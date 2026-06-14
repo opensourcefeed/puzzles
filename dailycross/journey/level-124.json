@@ -74,10 +74,10 @@
       "direction": "down"
     },
     {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
-      "row": 0,
-      "col": 3,
+      "clue": "Your female sibling",
+      "answer": "SISTER",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
@@ -93,13 +93,6 @@
       "row": 0,
       "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "You click with this",
-      "answer": "MOUSE",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
     },
     {
       "clue": "Stomach entrance",
@@ -134,6 +127,13 @@
       "answer": "LAMP",
       "row": 8,
       "col": 11,
+      "direction": "across"
+    },
+    {
+      "clue": "Prices going up",
+      "answer": "RISE",
+      "row": 12,
+      "col": 3,
       "direction": "across"
     }
   ],

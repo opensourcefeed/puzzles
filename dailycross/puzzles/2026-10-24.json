@@ -6,64 +6,50 @@
     {
       "clue": "Place where you park your car",
       "answer": "GARAGE",
-      "row": 2,
+      "row": 1,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Celebration with eggs and bunny",
       "answer": "EASTER",
-      "row": 1,
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Wear purple day",
-      "answer": "PURPLE",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
       "clue": "Mountain country in the Himalayas",
       "answer": "NEPAL",
-      "row": 1,
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
       "clue": "Diamond shape",
       "answer": "SLANT",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
+      "row": 4,
+      "col": 5,
+      "direction": "across"
     },
     {
       "clue": "Black and white bear",
       "answer": "PANDA",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
+      "row": 0,
+      "col": 2,
+      "direction": "down"
     },
     {
       "clue": "Vehicle that runs on tracks",
       "answer": "TRAIN",
-      "row": 1,
-      "col": 10,
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Global positioning system",
-      "answer": "GPS",
-      "row": 0,
+      "clue": "Family from long ago",
+      "answer": "OLD",
+      "row": 3,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot ball in sky",
-      "answer": "SUN",
-      "row": 0,
-      "col": 2,
       "direction": "across"
     }
   ],

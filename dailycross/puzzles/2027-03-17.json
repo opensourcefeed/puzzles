@@ -46,13 +46,6 @@
       "direction": "down"
     },
     {
-      "clue": "Soft white rock",
-      "answer": "CHALK",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
       "clue": "Place where ships dock",
       "answer": "PORT",
       "row": 3,
@@ -64,6 +57,13 @@
       "answer": "STIR",
       "row": 0,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Fine china material",
+      "answer": "CLAY",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     }
   ],

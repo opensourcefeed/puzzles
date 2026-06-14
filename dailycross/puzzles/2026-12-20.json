@@ -6,51 +6,58 @@
     {
       "clue": "Place where you take a bath",
       "answer": "BATHROOM",
-      "row": 1,
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Robot vacuum",
       "answer": "VACUUM",
-      "row": 0,
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
       "clue": "Pour dressing from this",
       "answer": "BOTTLE",
-      "row": 0,
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Stores your files",
       "answer": "MEMORY",
-      "row": 5,
+      "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
       "clue": "Tiny hobby computer",
       "answer": "BOARD",
-      "row": 2,
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Male part of a flower",
       "answer": "BLOOM",
-      "row": 3,
+      "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Frozen rain from sky",
-      "answer": "HAIL",
-      "row": 1,
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
+      "row": 0,
       "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Cut bush branches",
+      "answer": "SNIP",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 191

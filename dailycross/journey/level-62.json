@@ -6,54 +6,68 @@
     {
       "clue": "Builds with wood",
       "answer": "CARPENTER",
-      "row": 2,
+      "row": 1,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Celebration of a marriage",
       "answer": "WEDDING",
-      "row": 1,
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Police building",
       "answer": "STATION",
-      "row": 1,
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Feeling uneasy",
       "answer": "UNEASY",
-      "row": 7,
+      "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "You store clothes folded in this",
       "answer": "DRAWER",
-      "row": 1,
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Mattresses have metal coils",
-      "answer": "SPRING",
+      "clue": "Growing bacteria in a lab",
+      "answer": "GROWTH",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Summer top for boys",
-      "answer": "SHIRT",
+      "clue": "Mattresses have metal coils",
+      "answer": "SPRING",
       "row": 6,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Country with Seoul",
+      "answer": "KOREA",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Earth's natural satellite",
+      "answer": "MOON",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 9,
   "targetWords": 13,
   "difficulty": "medium"
 }

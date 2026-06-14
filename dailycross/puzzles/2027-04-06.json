@@ -32,13 +32,6 @@
       "direction": "across"
     },
     {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
       "clue": "Your brother's daughter",
       "answer": "NIECE",
       "row": 6,
@@ -48,16 +41,16 @@
     {
       "clue": "Bags are made from this woven material",
       "answer": "CLOTH",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
+      "row": 1,
+      "col": 9,
+      "direction": "down"
     },
     {
       "clue": "Connects computer to monitor",
       "answer": "CABLE",
       "row": 2,
-      "col": 10,
-      "direction": "down"
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "Green message app",

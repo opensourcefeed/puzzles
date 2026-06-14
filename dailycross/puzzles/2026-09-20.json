@@ -53,18 +53,11 @@
       "direction": "down"
     },
     {
-      "clue": "Measures temperature",
-      "answer": "GAUGE",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
       "clue": "Pointed weapon shape",
       "answer": "ARROW",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
+      "row": 7,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Diamond shape",
@@ -72,6 +65,13 @@
       "row": 0,
       "col": 9,
       "direction": "across"
+    },
+    {
+      "clue": "Animals that eat plants",
+      "answer": "DEER",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 100

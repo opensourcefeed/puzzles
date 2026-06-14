@@ -7,63 +7,70 @@
       "clue": "Make coffee in this",
       "answer": "COFFEEPOT",
       "row": 4,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Room below your house",
       "answer": "BASEMENT",
       "row": 1,
-      "col": 4,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Place where fish are kept",
       "answer": "AQUARIUM",
       "row": 2,
-      "col": 4,
+      "col": 7,
       "direction": "across"
     },
     {
       "clue": "Feeling surprised",
       "answer": "SHOCKED",
       "row": 2,
-      "col": 1,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Studies old things",
       "answer": "FINDER",
       "row": 7,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Fingerprint on a surface",
-      "answer": "PRINT",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
+      "clue": "Blood carrier in body",
+      "answer": "BLOOD",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "Ocean mollusk with a spiral shell",
       "answer": "SNAIL",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
+      "row": 4,
+      "col": 1,
+      "direction": "down"
     },
     {
       "clue": "What an egg becomes",
       "answer": "CHICK",
-      "row": 7,
-      "col": 9,
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Time the sun rises",
+      "answer": "DAWN",
+      "row": 8,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Medicine for sickness",
       "answer": "CURE",
-      "row": 0,
-      "col": 8,
+      "row": 5,
+      "col": 10,
       "direction": "down"
     }
   ],

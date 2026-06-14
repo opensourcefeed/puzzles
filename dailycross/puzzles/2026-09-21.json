@@ -18,18 +18,11 @@
       "direction": "down"
     },
     {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
       "clue": "Plant used for flavoring food",
       "answer": "BASIL",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
+      "row": 5,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Fine dish material",
@@ -39,31 +32,31 @@
       "direction": "down"
     },
     {
-      "clue": "Seven days",
-      "answer": "WEEK",
-      "row": 2,
+      "clue": "Path electricity flows",
+      "answer": "WIRE",
+      "row": 0,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You walk on these",
+      "answer": "FEET",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "Round fruit that is green or red",
       "answer": "PEAR",
-      "row": 0,
-      "col": 5,
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Unit of electric current",
-      "answer": "WATT",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Twelve months",
-      "answer": "YEAR",
-      "row": 3,
-      "col": 9,
+      "clue": "Rock formed by fire",
+      "answer": "FIRE",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     }
   ],

@@ -39,13 +39,6 @@
       "direction": "down"
     },
     {
-      "clue": "Water becomes gas",
-      "answer": "STEAM",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
       "clue": "Handheld device for calls and apps",
       "answer": "PHONE",
       "row": 3,
@@ -55,9 +48,9 @@
     {
       "clue": "Seven days",
       "answer": "WEEK",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
+      "row": 3,
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "Direction the sun rises",
@@ -69,9 +62,9 @@
     {
       "clue": "Online block game",
       "answer": "PLAY",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
+      "row": 3,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 29

@@ -53,28 +53,35 @@
       "direction": "across"
     },
     {
+      "clue": "Music leader",
+      "answer": "LEADER",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
       "clue": "Red ocean algae",
       "answer": "ALGAE",
       "row": 2,
-      "col": 2,
+      "col": 13,
       "direction": "down"
     },
     {
       "clue": "Makes medicine",
       "answer": "MAKER",
-      "row": 8,
-      "col": 2,
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Bone picture machine",
       "answer": "SCAN",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
+      "row": 5,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

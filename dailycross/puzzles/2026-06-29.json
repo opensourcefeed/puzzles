@@ -18,6 +18,13 @@
       "direction": "down"
     },
     {
+      "clue": "Money per year of work",
+      "answer": "SALARY",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
       "clue": "Referee in baseball",
       "answer": "UMPIRE",
       "row": 0,
@@ -25,25 +32,25 @@
       "direction": "down"
     },
     {
-      "clue": "Photo editing tool",
-      "answer": "EDITOR",
-      "row": 7,
-      "col": 3,
+      "clue": "Sun color",
+      "answer": "YELLOW",
+      "row": 8,
+      "col": 7,
       "direction": "across"
     },
     {
       "clue": "Time your cooking with this",
       "answer": "TIMER",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
+      "row": 1,
+      "col": 3,
+      "direction": "across"
     },
     {
       "clue": "Largest ocean animal",
       "answer": "WHALE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
+      "row": 6,
+      "col": 5,
+      "direction": "across"
     },
     {
       "clue": "Temp care for child",
@@ -55,14 +62,7 @@
     {
       "clue": "Take your child to work day",
       "answer": "TAKE",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Be nice day",
-      "answer": "KIND",
-      "row": 4,
+      "row": 2,
       "col": 9,
       "direction": "down"
     }

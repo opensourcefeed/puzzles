@@ -39,13 +39,6 @@
       "direction": "across"
     },
     {
-      "clue": "Material that blocks electricity",
-      "answer": "RUBBER",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
       "clue": "Mix of red and yellow",
       "answer": "PEACH",
       "row": 7,
@@ -60,18 +53,18 @@
       "direction": "down"
     },
     {
-      "clue": "Green color in leaves",
-      "answer": "STEM",
-      "row": 11,
-      "col": 5,
+      "clue": "Hard outer layer of an insect",
+      "answer": "SHELL",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Extra cost on a loan",
-      "answer": "MORE",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
+      "clue": "Path electricity flows",
+      "answer": "WIRE",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 206

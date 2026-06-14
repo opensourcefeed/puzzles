@@ -7,56 +7,70 @@
       "clue": "Country with Singapore city",
       "answer": "SINGAPORE",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "Flying vehicle with wings",
       "answer": "AIRPLANE",
       "row": 2,
-      "col": 4,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Country with Copenhagen",
       "answer": "DENMARK",
       "row": 0,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "Underground train system",
       "answer": "SUBWAY",
       "row": 2,
-      "col": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Energy from the sun",
-      "answer": "SOLAR",
-      "row": 7,
-      "col": 1,
+      "clue": "Growing bacteria in a lab",
+      "answer": "GROWTH",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
       "clue": "Glass house for plants",
       "answer": "HOUSE",
-      "row": 1,
-      "col": 6,
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "Place where tools are kept",
       "answer": "SHED",
-      "row": 4,
-      "col": 6,
+      "row": 0,
+      "col": 0,
       "direction": "across"
     },
     {
       "clue": "Extra cost on a loan",
       "answer": "MORE",
-      "row": 9,
-      "col": 1,
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny living thing that can make you sick",
+      "answer": "GERM",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Plant food from dirt",
+      "answer": "SOIL",
+      "row": 7,
+      "col": 9,
       "direction": "across"
     }
   ],

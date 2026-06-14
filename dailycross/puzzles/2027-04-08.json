@@ -6,72 +6,72 @@
     {
       "clue": "Holds papers together",
       "answer": "STAPLER",
-      "row": 3,
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
       "clue": "Your aunt's child",
       "answer": "COUSIN",
-      "row": 0,
+      "row": 1,
       "col": 1,
       "direction": "down"
     },
     {
       "clue": "Helps sick people at hospital",
       "answer": "DOCTOR",
-      "row": 1,
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Jewish lights festival",
       "answer": "LIGHTS",
-      "row": 3,
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Hot wet forest near equator",
       "answer": "JUNGLE",
-      "row": 5,
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
       "clue": "Feeling like you want to sleep",
       "answer": "SLEEPY",
-      "row": 8,
+      "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
       "clue": "Wraps around neck for warmth",
       "answer": "SCARF",
-      "row": 0,
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Read across America day",
       "answer": "READ",
-      "row": 7,
+      "row": 8,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Book reading day",
+      "answer": "BOOK",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Leather comes from animal skin",
       "answer": "HIDE",
-      "row": 10,
+      "row": 11,
       "col": 5,
       "direction": "across"
-    },
-    {
-      "clue": "Ocean fish that swims in schools",
-      "answer": "TUNA",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
     }
   ],
   "dayNumber": 300

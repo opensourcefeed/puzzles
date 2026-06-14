@@ -95,17 +95,24 @@
       "direction": "across"
     },
     {
-      "clue": "Feeling very tired",
-      "answer": "TIRED",
-      "row": 0,
-      "col": 3,
+      "clue": "How much space something takes",
+      "answer": "SPACE",
+      "row": 10,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Unit of electric current",
-      "answer": "WATT",
-      "row": 13,
-      "col": 3,
+      "clue": "Feeling very tired",
+      "answer": "TIRED",
+      "row": 14,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Unit of electric force",
+      "answer": "VOLT",
+      "row": 11,
+      "col": 1,
       "direction": "across"
     },
     {
@@ -113,13 +120,6 @@
       "answer": "KNEE",
       "row": 0,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Muscle mineral",
-      "answer": "SALT",
-      "row": 9,
-      "col": 8,
       "direction": "down"
     }
   ],

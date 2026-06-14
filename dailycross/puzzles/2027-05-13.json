@@ -32,13 +32,6 @@
       "direction": "down"
     },
     {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
       "clue": "Clear liquid that your body needs",
       "answer": "WATER",
       "row": 3,
@@ -48,29 +41,36 @@
     {
       "clue": "Big box for baking",
       "answer": "OVEN",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
+      "row": 9,
+      "col": 7,
+      "direction": "across"
     },
     {
       "clue": "Wanting something badly",
       "answer": "WISH",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Sky color",
-      "answer": "BLUE",
-      "row": 8,
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
+      "clue": "Sky color",
+      "answer": "BLUE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
       "clue": "Jewish New Year",
       "answer": "ROSH",
-      "row": 1,
+      "row": 8,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Change from solid to gas",
+      "answer": "BOIL",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     }
   ],

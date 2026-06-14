@@ -37,16 +37,9 @@
       "row": 0,
       "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "Pencil made of this",
-      "answer": "LEAD",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 5,
   "targetWords": 6,
   "difficulty": "easy"
 }

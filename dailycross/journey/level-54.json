@@ -25,13 +25,6 @@
       "direction": "across"
     },
     {
-      "clue": "Rock changed by heat",
-      "answer": "CHANGE",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
       "clue": "You write with this",
       "answer": "PENCIL",
       "row": 0,
@@ -39,49 +32,63 @@
       "direction": "down"
     },
     {
-      "clue": "Stage of a butterfly",
-      "answer": "COCOON",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
       "clue": "Pour dressing from this",
       "answer": "BOTTLE",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
+      "row": 4,
+      "col": 1,
+      "direction": "down"
     },
     {
       "clue": "Feeling very proud",
       "answer": "PROUD",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Smooth wood with a plane",
-      "answer": "PLANE",
       "row": 0,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Measure ingredients with this",
-      "answer": "SCALE",
+      "clue": "You sit on a tall one at a counter",
+      "answer": "STOOL",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Smooth wood with a plane",
+      "answer": "PLANE",
       "row": 5,
       "col": 9,
       "direction": "down"
     },
     {
+      "clue": "Measure ingredients with this",
+      "answer": "SCALE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
       "clue": "Lift heavy things",
       "answer": "HOIST",
-      "row": 6,
-      "col": 4,
+      "row": 5,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Happy about getting a gift",
+      "answer": "GLAD",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Very small blood vessel",
+      "answer": "TINY",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 12,
   "targetWords": 12,
   "difficulty": "medium"
 }

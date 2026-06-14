@@ -7,64 +7,71 @@
       "clue": "April 1 prank day",
       "answer": "APRILFOOLS",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "Builds with wood",
       "answer": "CARPENTER",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Toast bread in this",
       "answer": "TOASTER",
       "row": 1,
-      "col": 7,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "Sidewalks are made of this",
       "answer": "CEMENT",
       "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Light bounces off this",
-      "answer": "MIRROR",
-      "row": 8,
-      "col": 1,
+      "col": 7,
       "direction": "across"
     },
     {
       "clue": "Storage space under the roof",
       "answer": "ATTIC",
       "row": 2,
-      "col": 1,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "March green day",
       "answer": "GREEN",
       "row": 3,
-      "col": 9,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "Paper from wood",
+      "answer": "PAPER",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "Your brother's daughter",
       "answer": "NIECE",
       "row": 0,
-      "col": 0,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Magnifying tool",
+      "answer": "LENS",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
     },
     {
       "clue": "Keeps hands safe from heat",
       "answer": "MITT",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
+      "row": 4,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 263

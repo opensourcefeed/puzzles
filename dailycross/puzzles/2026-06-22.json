@@ -6,71 +6,64 @@
     {
       "clue": "Ocean animal with stinging tentacles",
       "answer": "JELLYFISH",
-      "row": 7,
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Music leader",
-      "answer": "LEADER",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
       "clue": "Prayer place for Jews",
       "answer": "TEMPLE",
-      "row": 6,
+      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
       "clue": "Place where you get ice cream",
       "answer": "PARLOR",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Colorful part of a plant that makes seeds",
+      "answer": "PETAL",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Sticky bandage",
+      "answer": "PATCH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Grass color",
+      "answer": "GREEN",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Water vapor becomes liquid",
+      "answer": "RAIN",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Light bulb wire",
+      "answer": "WIRE",
       "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Colorful part of a plant that makes seeds",
-      "answer": "PETAL",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sticky bandage",
-      "answer": "PATCH",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Grass color",
-      "answer": "GREEN",
-      "row": 8,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny floating sea life",
-      "answer": "DRIFT",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Light bulb wire",
-      "answer": "WIRE",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
       "clue": "Day of atonement",
       "answer": "FAST",
-      "row": 0,
-      "col": 5,
+      "row": 3,
+      "col": 7,
       "direction": "down"
     }
   ],

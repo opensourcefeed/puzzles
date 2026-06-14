@@ -6,71 +6,64 @@
     {
       "clue": "Leads tours for visitors",
       "answer": "TOURGUIDE",
-      "row": 5,
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Bones inside your body",
       "answer": "SKELETON",
-      "row": 3,
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Country with Stockholm",
       "answer": "SWEDEN",
-      "row": 7,
+      "row": 5,
       "col": 4,
       "direction": "across"
     },
     {
       "clue": "Boil water in this",
       "answer": "KETTLE",
-      "row": 6,
+      "row": 4,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Baby kangaroo pocket",
+      "answer": "POUCH",
+      "row": 2,
+      "col": 1,
       "direction": "down"
     },
     {
       "clue": "Cloth to stop bleeding",
       "answer": "CLOTH",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
+      "row": 7,
+      "col": 3,
+      "direction": "across"
     },
     {
       "clue": "Mix paint with this stick",
       "answer": "STIR",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Part of the eye that sees color",
-      "answer": "CONE",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "King of the jungle",
-      "answer": "LION",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Tree with needles",
-      "answer": "PINE",
-      "row": 1,
-      "col": 2,
+      "clue": "Part of the eye that sees color",
+      "answer": "CONE",
+      "row": 9,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Arctic bear",
-      "answer": "BEAR",
-      "row": 0,
-      "col": 5,
+      "clue": "King of the jungle",
+      "answer": "LION",
+      "row": 7,
+      "col": 4,
       "direction": "down"
     }
   ],

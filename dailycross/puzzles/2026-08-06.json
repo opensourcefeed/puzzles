@@ -7,70 +7,70 @@
       "clue": "Does experiments for a living",
       "answer": "SCIENTIST",
       "row": 4,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "Four sides with right angles",
       "answer": "RECTANGLE",
       "row": 3,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "Start of day before noon",
       "answer": "MORNING",
       "row": 0,
-      "col": 8,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "Coin worth 100 cents",
       "answer": "QUARTER",
       "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Light bounces off this",
-      "answer": "MIRROR",
-      "row": 0,
-      "col": 8,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "T-shirts are made of this soft fiber",
       "answer": "COTTON",
       "row": 4,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "Card that lets you buy now and pay later",
       "answer": "CREDIT",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
+      "row": 11,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Salty snack often eaten with dip",
       "answer": "CHIPS",
       "row": 0,
-      "col": 2,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Magnifying tool",
+      "answer": "LENS",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "How hot or cold something is",
       "answer": "HEAT",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
+      "row": 1,
+      "col": 11,
+      "direction": "down"
     },
     {
       "clue": "Mom's new husband",
       "answer": "DAD",
       "row": 7,
-      "col": 4,
+      "col": 5,
       "direction": "across"
     }
   ],

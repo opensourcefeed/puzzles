@@ -6,72 +6,65 @@
     {
       "clue": "Global network of computers",
       "answer": "INTERNET",
-      "row": 5,
-      "col": 2,
+      "row": 4,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Volcano erupts with this",
+      "answer": "ERUPTION",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
     },
     {
       "clue": "Place where athletes play",
       "answer": "STADIUM",
-      "row": 4,
-      "col": 4,
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "Country with Oslo",
       "answer": "NORWAY",
-      "row": 5,
-      "col": 7,
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "Makes pots out of clay",
       "answer": "POTTER",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Growing bacteria in a lab",
-      "answer": "GROWTH",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Water becomes gas",
-      "answer": "STEAM",
       "row": 10,
-      "col": 0,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Measures temperature",
+      "answer": "GAUGE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     },
     {
       "clue": "You sit on to put on shoes",
       "answer": "BENCH",
-      "row": 4,
-      "col": 13,
+      "row": 2,
+      "col": 1,
       "direction": "down"
-    },
-    {
-      "clue": "Animal that sleeps in winter",
-      "answer": "SLEEP",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
     },
     {
       "clue": "Bake cookies on this",
       "answer": "TRAY",
-      "row": 5,
-      "col": 9,
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Place where you swim",
-      "answer": "POOL",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
+      "clue": "How hot or cold something is",
+      "answer": "HEAT",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 163

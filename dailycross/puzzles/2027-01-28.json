@@ -6,64 +6,50 @@
     {
       "clue": "Screen that shows images",
       "answer": "MONITOR",
-      "row": 3,
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
       "clue": "Microsoft operating system",
       "answer": "WINDOWS",
-      "row": 2,
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Tires are made from this bouncy material",
       "answer": "RUBBER",
-      "row": 3,
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
       "clue": "Mix of red and yellow",
       "answer": "ORANGE",
-      "row": 3,
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Mountain country in the Himalayas",
       "answer": "NEPAL",
-      "row": 7,
+      "row": 5,
       "col": 7,
       "direction": "across"
     },
     {
       "clue": "Ropes are made from strong fibers",
       "answer": "FIBER",
-      "row": 5,
+      "row": 3,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "Sweet brown dessert topping",
       "answer": "FUDGE",
-      "row": 7,
+      "row": 5,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Arctic bear",
-      "answer": "BEAR",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Circus big tent",
-      "answer": "TENT",
-      "row": 1,
-      "col": 7,
       "direction": "across"
     }
   ],

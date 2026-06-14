@@ -95,18 +95,18 @@
       "direction": "down"
     },
     {
+      "clue": "Book reading day",
+      "answer": "BOOK",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
       "clue": "Soft white building rock",
       "answer": "ROCK",
       "row": 1,
       "col": 10,
       "direction": "across"
-    },
-    {
-      "clue": "Smart speaker from Amazon",
-      "answer": "ECHO",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
     }
   ],
   "wordCount": 15,

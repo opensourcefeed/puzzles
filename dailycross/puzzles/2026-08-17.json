@@ -6,65 +6,51 @@
     {
       "clue": "Set of computer instructions",
       "answer": "SOFTWARE",
-      "row": 3,
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Mix of red and yellow",
       "answer": "PEACH",
-      "row": 1,
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
       "clue": "Types of money",
       "answer": "COINS",
-      "row": 2,
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Hard outer layer of an insect",
-      "answer": "SHELL",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
       "clue": "Country of the Colosseum",
       "answer": "ITALY",
-      "row": 2,
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
       "clue": "Large black and white keyboard",
       "answer": "PIANO",
-      "row": 1,
+      "row": 2,
       "col": 5,
       "direction": "across"
     },
     {
       "clue": "Temp care for child",
       "answer": "CARE",
-      "row": 0,
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Small bed for growing vegetables",
       "answer": "PLOT",
-      "row": 4,
-      "col": 7,
+      "row": 0,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "Family yet to come",
-      "answer": "NEXT",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
     }
   ],
   "dayNumber": 66

@@ -6,42 +6,35 @@
     {
       "clue": "Ocean animal with stinging tentacles",
       "answer": "JELLYFISH",
-      "row": 5,
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
       "clue": "Person who sells things",
       "answer": "SELLER",
-      "row": 5,
+      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
       "clue": "Organ that filters blood",
       "answer": "KIDNEY",
-      "row": 0,
+      "row": 1,
       "col": 4,
       "direction": "down"
-    },
-    {
-      "clue": "Extra money for good work",
-      "answer": "PRIZE",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
     },
     {
       "clue": "Our planet day",
       "answer": "EARTH",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
+      "row": 11,
+      "col": 5,
+      "direction": "across"
     },
     {
       "clue": "Thirty or thirty-one days",
       "answer": "MONTH",
-      "row": 3,
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
@@ -49,25 +42,46 @@
       "clue": "Lift heavy objects",
       "answer": "CRANE",
       "row": 7,
-      "col": 0,
-      "direction": "across"
+      "col": 5,
+      "direction": "down"
     },
     {
       "clue": "A man on his wedding day",
       "answer": "GROOM",
-      "row": 6,
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Eat soup with this",
+      "answer": "SPOON",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Kid's helper adult",
+      "answer": "GUARD",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Paper showing your pay",
+      "answer": "SLIP",
+      "row": 10,
       "col": 1,
       "direction": "down"
     },
     {
       "clue": "Apple wireless earbuds",
       "answer": "BUDS",
-      "row": 2,
-      "col": 7,
+      "row": 7,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

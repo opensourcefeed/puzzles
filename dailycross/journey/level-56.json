@@ -46,6 +46,13 @@
       "direction": "down"
     },
     {
+      "clue": "Rock changed by heat",
+      "answer": "CHANGE",
+      "row": 4,
+      "col": 14,
+      "direction": "down"
+    },
+    {
       "clue": "Country with Nairobi",
       "answer": "KENYA",
       "row": 9,
@@ -64,13 +71,6 @@
       "answer": "GUIDE",
       "row": 0,
       "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Rock formed in layers",
-      "answer": "LAYER",
-      "row": 3,
-      "col": 2,
       "direction": "down"
     }
   ],

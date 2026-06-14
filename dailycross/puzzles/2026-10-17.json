@@ -46,24 +46,24 @@
       "direction": "down"
     },
     {
-      "clue": "Light bounces off this",
-      "answer": "MIRROR",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
       "clue": "Country with Madrid",
       "answer": "SPAIN",
       "row": 7,
-      "col": 1,
-      "direction": "down"
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "Wanting something badly",
       "answer": "WISH",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Magnifying tool",
+      "answer": "LENS",
       "row": 7,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     }
   ],
