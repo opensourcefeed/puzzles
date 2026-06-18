@@ -4,119 +4,105 @@
   "title": "Level 122",
   "words": [
     {
-      "clue": "Building where you send letters and packages",
-      "answer": "POSTOFFICE",
+      "clue": "The process by which plants use sunlight to make their own food",
+      "answer": "PHOTOSYNTH",
       "row": 7,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Handheld device used to measure electrical current",
-      "answer": "MULTIMETER",
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
       "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, narrow board with a padded surface used for ironing",
+      "answer": "IRONBOARD",
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Long vehicle used to transport many children to school",
-      "answer": "SCHOOLBUS",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "A large group of musicians playing instruments together",
-      "answer": "ORCHESTRA",
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
       "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Long dark green vegetable related to the melon family",
-      "answer": "CUCUMBER",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Small animal with sharp quills on its back",
-      "answer": "HEDGEHOG",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Machine that heats bread slices until they are golden brown",
-      "answer": "TOASTER",
-      "row": 14,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Small furry animal that lives in a cage and runs on a wheel",
-      "answer": "HAMSTER",
-      "row": 8,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Country between France and Spain with the Pyrenees mountains",
-      "answer": "ANDORRA",
-      "row": 13,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Building where Hindus go to worship",
-      "answer": "TEMPLE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet with beautiful rings made of ice and rock",
-      "answer": "SATURN",
-      "row": 8,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Wide flat tool used to dig and move snow or earth",
-      "answer": "SHOVEL",
-      "row": 1,
-      "col": 6,
+      "clue": "A person who is trained to travel and work in space",
+      "answer": "ASTRONAUT",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Flat top of the stove with burners used for cooking",
-      "answer": "STOVE",
-      "row": 5,
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Question paper you take at the end of a term",
-      "answer": "EXAM",
-      "row": 9,
-      "col": 11,
-      "direction": "across"
-    },
-    {
-      "clue": "Shallow body of water in a garden",
-      "answer": "POND",
-      "row": 3,
+      "clue": "A very fast-running bird that cannot fly",
+      "answer": "OSTRICH",
+      "row": 8,
       "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where players hit a ball over a net using rackets",
+      "answer": "TENNIS",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A narrow, deep valley with very steep rocky sides",
+      "answer": "GORGE",
+      "row": 2,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Small building in a garden where tools are stored",
-      "answer": "SHED",
+      "clue": "The darkest color, like coal or the night sky",
+      "answer": "BLACK",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A device with a flat, heated surface used to remove wrinkles from clothes",
+      "answer": "IRON",
       "row": 0,
       "col": 7,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 14,
   "targetWords": 21,
   "difficulty": "hard"
 }

@@ -4,84 +4,77 @@
   "title": "Level 51",
   "words": [
     {
-      "clue": "Country of kangaroos, koalas and the outback",
-      "answer": "AUSTRALIA",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Two or more atoms joined together",
-      "answer": "MOLECULE",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Long dark green vegetable related to the melon family",
-      "answer": "CUCUMBER",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The day that comes after today",
-      "answer": "TOMORROW",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Mountain with a hole at the top that can erupt",
-      "answer": "VOLCANO",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Being in good physical condition from exercise and good food",
-      "answer": "HEALTHY",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with eight sides like a stop sign",
-      "answer": "OCTAGON",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Large ape that lives in African forests",
-      "answer": "GORILLA",
-      "row": 6,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A printed paper record showing how much you paid",
-      "answer": "RECEIPT",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The early water stage of a frog before it grows legs",
-      "answer": "TADPOLE",
-      "row": 3,
+      "clue": "A pair of speakers worn over the ears for listening to audio",
+      "answer": "HEADPHONES",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country known for tacos, pyramids and sombreros",
-      "answer": "MEXICO",
-      "row": 4,
-      "col": 9,
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle equipped with equipment for fighting fires",
+      "answer": "FIRETRUCK",
+      "row": 10,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "An Australian animal that hops and carries babies in a pouch",
+      "answer": "KANGAROO",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies plants and their growth",
+      "answer": "BOTANIST",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
+      "answer": "DECIMAL",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 10,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 10,
   "targetWords": 12,
   "difficulty": "medium"
 }

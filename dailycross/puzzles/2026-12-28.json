@@ -4,73 +4,59 @@
   "title": "2026-12-28",
   "words": [
     {
-      "clue": "A watch with a screen that shows apps and notifications",
-      "answer": "SMARTWATCH",
-      "row": 7,
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Buddhist holiday celebrating the birth of Buddha",
-      "answer": "BUDDHASDAY",
-      "row": 2,
-      "col": 6,
+      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
+      "answer": "ORGANISM",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Person who educates students in a school classroom",
-      "answer": "TEACHER",
-      "row": 7,
+      "clue": "A triangle with all three sides of different lengths",
+      "answer": "SCALENE",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A building where vehicles are kept or repaired",
+      "answer": "GARAGE",
+      "row": 6,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A large, round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Rock that comes from space and burns as it falls",
-      "answer": "METEOR",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Large white box that keeps food cold",
-      "answer": "FRIDGE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Break time when you go outside to play",
-      "answer": "RECESS",
-      "row": 3,
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 1,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Shellfish that produces a shiny pearl inside its shell",
-      "answer": "OYSTER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ you think and remember with",
-      "answer": "BRAIN",
+      "clue": "Extremely happy and excited",
+      "answer": "ELATED",
       "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Reddish orange color like a sunset",
-      "answer": "CORAL",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Shallow body of water in a garden",
-      "answer": "POND",
-      "row": 0,
-      "col": 3,
+      "col": 7,
       "direction": "across"
     }
   ],

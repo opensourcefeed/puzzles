@@ -4,126 +4,112 @@
   "title": "Level 147",
   "words": [
     {
-      "clue": "One thousand years is called this",
-      "answer": "MILLENNIUM",
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
       "row": 7,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Brown sweet powder used in desserts",
-      "answer": "CHOCOLATE",
-      "row": 2,
-      "col": 5,
+      "clue": "A small, portable storage device that plugs into a USB port",
+      "answer": "FLASHDRIVE",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Holiday on December 25 when gifts are exchanged",
-      "answer": "CHRISTMAS",
+      "clue": "An animal that feeds only on the flesh of other animals",
+      "answer": "CARNIVORE",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who works in a library and helps people find books",
+      "answer": "LIBRARIAN",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Filled with wonder and admiration",
+      "answer": "AWESTRUCK",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Sports and games that involve running, jumping, and throwing",
+      "answer": "ATHLETICS",
       "row": 5,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The most northerly point of Earth",
-      "answer": "NORTHPOLE",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Holiday on October 31 when children wear costumes",
-      "answer": "HALLOWEEN",
-      "row": 4,
-      "col": 12,
+      "clue": "A very fast-running bird that cannot fly",
+      "answer": "OSTRICH",
+      "row": 8,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Where a computer saves all its files and programs",
-      "answer": "HARDDRIVE",
-      "row": 3,
+      "clue": "Feeling worried, nervous, or uneasy about something",
+      "answer": "ANXIOUS",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 2,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Tight stretchy pants worn for sports",
-      "answer": "LEGGINGS",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Very strong storm with spinning winds",
-      "answer": "TORNADO",
-      "row": 8,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Giant ocean wave caused by underwater earthquakes",
-      "answer": "TSUNAMI",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The eighth and farthest planet from the sun",
-      "answer": "NEPTUNE",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Day honoring civil rights leader Martin Luther King Jr",
-      "answer": "MLKDAY",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Shellfish attached to rocks that opens when in water",
-      "answer": "MUSSEL",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet round red or yellow vegetable used in salads",
-      "answer": "PEPPER",
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
       "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of deep; of little depth",
+      "answer": "SHALLOW",
+      "row": 7,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Small tool used to peel the skin off vegetables",
-      "answer": "PEELER",
-      "row": 9,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Very dark green like pine needles",
-      "answer": "FOREST",
-      "row": 8,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "White layered vegetable that makes your eyes water when cut",
-      "answer": "ONION",
-      "row": 11,
-      "col": 2,
+      "clue": "A solid food made from milk, often yellow and sliced",
+      "answer": "CHEESE",
+      "row": 14,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The curved path a planet takes around the sun",
-      "answer": "ORBIT",
-      "row": 14,
-      "col": 6,
+      "clue": "Weather during which snow is falling",
+      "answer": "SNOWY",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A healthcare professional who assists doctors and cares for patients",
+      "answer": "NURSE",
+      "row": 9,
+      "col": 9,
       "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 15,
   "targetWords": 25,
   "difficulty": "hard"
 }

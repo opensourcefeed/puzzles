@@ -4,67 +4,74 @@
   "title": "2026-11-23",
   "words": [
     {
-      "clue": "The most northerly point of Earth",
-      "answer": "NORTHPOLE",
-      "row": 2,
-      "col": 0,
+      "clue": "Filled with wonder and admiration",
+      "answer": "AWESTRUCK",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "All the bones that support your body together",
-      "answer": "SKELETON",
+      "clue": "A number that has more than two factors",
+      "answer": "COMPOSITE",
       "row": 0,
-      "col": 8,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The day that comes after today",
-      "answer": "TOMORROW",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who makes sure rules are followed in a game",
-      "answer": "REFEREE",
+      "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
+      "answer": "GASGIANT",
       "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Scandinavian country with the city of Oslo and fjords",
-      "answer": "NORWAY",
-      "row": 2,
-      "col": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Wide flat tool used to dig and move snow or earth",
-      "answer": "SHOVEL",
-      "row": 0,
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing care and concern for others",
+      "answer": "CARING",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The eighth month of the year",
-      "answer": "AUGUST",
-      "row": 0,
-      "col": 2,
+      "clue": "The movement or change in position of an object",
+      "answer": "MOTION",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Tight-fitting cap that covers the whole head",
-      "answer": "BEANIE",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Red liquid that flows through your body",
-      "answer": "BLOOD",
-      "row": 8,
+      "clue": "A sweet tropical fruit with orange flesh and a large flat seed",
+      "answer": "MANGO",
+      "row": 1,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A small flower with white petals and a yellow center, common in fields",
+      "answer": "DAISY",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of musicians who play instruments together",
+      "answer": "BAND",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The body part used for smelling",
+      "answer": "NOSE",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 164

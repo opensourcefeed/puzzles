@@ -4,74 +4,67 @@
   "title": "2027-03-13",
   "words": [
     {
-      "clue": "You use these to cut paper in class",
-      "answer": "SCISSORS",
+      "clue": "A scientist who studies matter, energy, and their interactions",
+      "answer": "PHYSICIST",
       "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A piece of land completely surrounded by water",
-      "answer": "ISLAND",
-      "row": 3,
-      "col": 5,
+      "clue": "A person who uses their voice to produce musical sounds",
+      "answer": "SINGER",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Stringed instrument with six strings you strum or pluck",
-      "answer": "GUITAR",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Writing instructions for a computer in a special language",
-      "answer": "CODING",
+      "clue": "Greatly surprised or impressed",
+      "answer": "AMAZED",
       "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The smallest coin worth only one cent",
-      "answer": "PENNY",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Our group of planets, moons, and sun together",
-      "answer": "SOLAR",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large box or trunk used to store blankets and items",
-      "answer": "CHEST",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Neat row of low bushes forming a border or boundary",
-      "answer": "HEDGE",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You use this to draw straight lines",
-      "answer": "RULER",
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The fan-shaped area where a river spreads out before the sea",
-      "answer": "DELTA",
+      "clue": "A polygon where all interior angles are less than 180 degrees",
+      "answer": "CONVEX",
       "row": 2,
-      "col": 5,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
+      "answer": "RULER",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a plant that grows underground",
+      "answer": "ROOT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The basic unit of time in music that you tap your foot to",
+      "answer": "BEAT",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 274

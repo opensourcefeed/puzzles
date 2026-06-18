@@ -4,73 +4,59 @@
   "title": "2026-12-30",
   "words": [
     {
-      "clue": "Holiday on December 25 when gifts are exchanged",
-      "answer": "CHRISTMAS",
-      "row": 7,
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Floating transparent ocean creature with stinging tentacles",
-      "answer": "JELLYFISH",
+      "clue": "The total distance around the outside of a shape",
+      "answer": "PERIMETER",
       "row": 1,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The ocean surrounding Antarctica at the south of the Earth",
-      "answer": "SOUTHERN",
-      "row": 7,
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A sudden, heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport or activity of moving through water using arms and legs",
+      "answer": "SWIMMING",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The scientific study of living organisms and their life processes",
+      "answer": "BIOLOGY",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Mountain with a hole at the top that can erupt",
-      "answer": "VOLCANO",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal with a long neck that drinks from rivers",
-      "answer": "GIRAFFE",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who organizes weddings and other events",
-      "answer": "PLANNER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Sea plant that grows on rocks and comes in many colors",
-      "answer": "SEAWEED",
-      "row": 2,
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Person who performs dance as a profession",
-      "answer": "DANCER",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Long yellow curved fruit",
-      "answer": "BANANA",
-      "row": 9,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The basic unit of money used in the United States",
-      "answer": "DOLLAR",
-      "row": 10,
-      "col": 1,
+      "clue": "The front part of your neck that contains your voice box",
+      "answer": "THROAT",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     }
   ],

@@ -4,67 +4,74 @@
   "title": "2026-06-28",
   "words": [
     {
-      "clue": "One thousand years is called this",
-      "answer": "MILLENNIUM",
-      "row": 5,
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large building where goods are stored",
-      "answer": "WAREHOUSE",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who educates students in a school classroom",
-      "answer": "TEACHER",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Color made by mixing red and yellow",
-      "answer": "ORANGE",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling like you want company because you have no one to talk to",
-      "answer": "LONELY",
-      "row": 5,
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
-      "answer": "GINGER",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The bony part of your back going down the center",
-      "answer": "SPINE",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Small mountain country between India and China",
-      "answer": "NEPAL",
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
       "row": 11,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling worn out after a long day of activity",
-      "answer": "TIRED",
-      "row": 0,
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 3,
       "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Feeling embarrassed or guilty about something",
+      "answer": "ASHAMED",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that controls the flow of water from a pipe",
+      "answer": "FAUCET",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 14,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round solid shape like a ball",
+      "answer": "SPHERE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A closed railroad car used for carrying freight",
+      "answer": "BOXCAR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "White frozen crystals that fall from clouds in cold weather",
+      "answer": "SNOW",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 16

@@ -4,59 +4,66 @@
   "title": "2027-06-10",
   "words": [
     {
-      "clue": "A powerful instrument used to see distant stars and planets",
-      "answer": "TELESCOPE",
-      "row": 2,
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The joint where your arm meets your body",
-      "answer": "SHOULDER",
-      "row": 2,
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
-      "answer": "VITAMINC",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
+      "clue": "A person who tends and cultivates gardens and plants",
+      "answer": "GARDENER",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
     },
     {
-      "clue": "The city where a country's government is based",
-      "answer": "CAPITAL",
-      "row": 0,
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Building where you can borrow books to read for free",
-      "answer": "LIBRARY",
-      "row": 2,
-      "col": 2,
+      "clue": "Feeling calm and not worried or tense",
+      "answer": "RELAXED",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a flower's stamen that produces and holds pollen",
+      "answer": "ANTHER",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Cooked meat in a round bun",
-      "answer": "BURGER",
+      "clue": "The side of your face between your eye and ear",
+      "answer": "CHEEK",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "How high or low a musical sound is",
+      "answer": "PITCH",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
       "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small device you wear on your wrist to tell time",
-      "answer": "WATCH",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A song sung by one person on stage",
-      "answer": "SOLO",
-      "row": 4,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     }
   ],

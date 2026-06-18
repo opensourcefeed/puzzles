@@ -4,60 +4,74 @@
   "title": "2027-05-02",
   "words": [
     {
-      "clue": "The head of a school",
-      "answer": "PRINCIPAL",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Creamy dip made from mashed avocado",
-      "answer": "GUACAMOLE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A curved shape like a banana or the moon",
-      "answer": "CRESCENT",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Green salad vegetable that is long and crunchy",
-      "answer": "CUCUMBER",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The planet with beautiful rings made of ice and rock",
-      "answer": "SATURN",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle that lifts off straight up with rocket engines",
-      "answer": "ROCKET",
-      "row": 7,
+      "clue": "The state of the atmosphere at a particular time and place",
+      "answer": "WEATHER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Protective head cover worn in sports like cycling",
-      "answer": "HELMET",
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle that travels into space, powered by rocket engines",
+      "answer": "ROCKET",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
       "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Greatly surprised or impressed",
+      "answer": "AMAZED",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A number that has exactly two different factors: itself and 1",
+      "answer": "PRIME",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A rich, earthy yellow color, like the pigment",
+      "answer": "OCHRE",
+      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Long strip of material wrapped around your neck for warmth",
-      "answer": "SCARF",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
+      "clue": "Thin material made from wood pulp, used for writing or printing",
+      "answer": "PAPER",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The end part of your arm with fingers and a thumb",
+      "answer": "HAND",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 324

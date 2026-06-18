@@ -4,74 +4,67 @@
   "title": "2027-01-27",
   "words": [
     {
-      "clue": "Putting your money into a business to earn more",
-      "answer": "INVESTMENT",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Moving staircase found in malls and airports",
-      "answer": "ESCALATOR",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Largest archipelago country in Southeast Asia",
-      "answer": "INDONESIA",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "When a bone cracks or snaps from force or impact",
-      "answer": "FRACTURE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "An unwanted reaction your body has to a food or substance",
-      "answer": "ALLERGY",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A portable device for reading digital books",
-      "answer": "EREADER",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Large flat horizontal surface of a room above your head",
-      "answer": "CEILING",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who manages the money and accounts at a bank",
-      "answer": "BANKER",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Your parent's sister",
-      "answer": "AUNT",
+      "clue": "A shape that does not have symmetry and cannot be divided into identical halves",
+      "answer": "ASYMMETRIC",
       "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that detects smoke and sounds an alarm",
+      "answer": "SMOKEALARM",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A period of unusually cold weather that lasts for several days",
+      "answer": "COLDSPELL",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The unit we use to measure how bright a light bulb is",
-      "answer": "WATT",
-      "row": 4,
-      "col": 0,
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 0,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "The place where a river flows into a larger river, lake, or ocean",
+      "answer": "MOUTH",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with a sharp blade used for cutting food",
+      "answer": "KNIFE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 229

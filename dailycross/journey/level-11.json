@@ -4,39 +4,39 @@
   "title": "Level 11",
   "words": [
     {
-      "clue": "Sport where you glide on ice wearing blades on your feet",
-      "answer": "SKATING",
-      "row": 3,
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling very interested and wanting to explore and find out more",
-      "answer": "CURIOUS",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who educates students in a school classroom",
-      "answer": "TEACHER",
+      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
+      "answer": "REPORTER",
       "row": 1,
-      "col": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Your male sibling",
-      "answer": "BROTHER",
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
+      "answer": "WARDROBE",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Test done by a doctor to measure your body temperature",
-      "answer": "CHECKUP",
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
       "row": 0,
-      "col": 4,
-      "direction": "across"
+      "col": 3,
+      "direction": "down"
     }
   ],
   "wordCount": 5,

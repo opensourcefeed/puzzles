@@ -4,73 +4,66 @@
   "title": "2026-12-12",
   "words": [
     {
-      "clue": "Dense tropical forest near the equator with heavy rain",
-      "answer": "RAINFOREST",
-      "row": 6,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "answer": "SAXOPHONE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A symbol, usually a letter, that represents an unknown number",
+      "answer": "VARIABLE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Hopeful and confident, even in difficult situations",
+      "answer": "POSITIVE",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who studies rocks and the history of the Earth",
-      "answer": "GEOLOGIST",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Very tiny living things you can only see with a microscope",
-      "answer": "BACTERIA",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewelry hung around the neck",
-      "answer": "NECKLACE",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Purple vegetable also called aubergine",
-      "answer": "EGGPLANT",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "One hundred years is called this",
-      "answer": "CENTURY",
+      "clue": "The name of our galaxy, which appears as a milky band across the night sky",
+      "answer": "MILKY",
       "row": 5,
       "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who delivers your letters and packages to your home",
-      "answer": "MAILMAN",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The first day of the week",
-      "answer": "MONDAY",
-      "row": 0,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Fried potato strips served with burgers",
-      "answer": "FRIES",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Underwater mountain chain that runs along the ocean floor",
-      "answer": "RIDGE",
-      "row": 2,
-      "col": 2,
+      "clue": "A group of players who play together against another group",
+      "answer": "TEAM",
+      "row": 9,
+      "col": 7,
       "direction": "across"
     }
   ],

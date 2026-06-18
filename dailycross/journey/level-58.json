@@ -4,70 +4,84 @@
   "title": "Level 58",
   "words": [
     {
-      "clue": "Handheld device used to measure electrical current",
-      "answer": "MULTIMETER",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who leads tourists around historical sites",
-      "answer": "TOURGUIDE",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who creates new devices or ways of doing things",
-      "answer": "INVENTOR",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The ocean that lies between North America and Europe",
-      "answer": "ATLANTIC",
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
       "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Turning around and around on a central point",
-      "answer": "ROTATION",
-      "row": 11,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Item you hold above your head to stay dry in rain",
-      "answer": "UMBRELLA",
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
       "row": 3,
-      "col": 10,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Three children born at the same time to the same mother",
-      "answer": "TRIPLETS",
-      "row": 4,
-      "col": 2,
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "European country with the city of Budapest",
-      "answer": "HUNGARY",
-      "row": 13,
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A long-distance running race of 26.2 miles",
+      "answer": "MARATHON",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Small mountain country between India and China",
-      "answer": "NEPAL",
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that washes clothes automatically",
+      "answer": "WASHER",
       "row": 0,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A large wild cat with orange fur and black stripes",
+      "answer": "TIGER",
+      "row": 8,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 11,
   "targetWords": 13,
   "difficulty": "medium"
 }

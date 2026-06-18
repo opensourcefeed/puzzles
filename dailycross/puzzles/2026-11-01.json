@@ -4,74 +4,67 @@
   "title": "2026-11-01",
   "words": [
     {
-      "clue": "The complete path of water from ocean to sky and back",
-      "answer": "WATERCYCLE",
+      "clue": "A person whose job is to drive a bus",
+      "answer": "BUSDRIVER",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A large reptile with very strong jaws that lives in rivers",
+      "answer": "CROCODILE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A healthcare professional who assists doctors and cares for patients",
+      "answer": "NURSE",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of clean; covered or marked with dirt",
+      "answer": "DIRTY",
       "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Important substances in food like vitamins and minerals",
-      "answer": "NUTRIENTS",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The main processing chip inside a computer",
-      "answer": "PROCESSOR",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with exactly three sides and three corners",
-      "answer": "TRIANGLE",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "What happens when ice or chocolate becomes liquid from heat",
-      "answer": "MELTING",
-      "row": 3,
-      "col": 0,
+      "clue": "A long, soft seat with a back and arms for two or more people",
+      "answer": "SOFA",
+      "row": 7,
+      "col": 9,
       "direction": "across"
-    },
-    {
-      "clue": "A couple that is legally joined in marriage",
-      "answer": "COUPLE",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Large bird with a curved beak that can talk",
-      "answer": "PARROT",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Top with no collar or buttons worn by students",
-      "answer": "SHIRT",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of the night sky with no moon",
-      "answer": "BLACK",
-      "row": 9,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Lazy animal that hangs from trees in South America",
-      "answer": "SLOTH",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
     }
   ],
   "dayNumber": 142

@@ -4,74 +4,60 @@
   "title": "2027-02-06",
   "words": [
     {
-      "clue": "Australian animal that hops and has a pouch",
-      "answer": "KANGAROO",
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling deep sorrow, especially after a loss",
+      "answer": "GRIEVING",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who bakes bread, cakes, and other baked goods",
+      "answer": "BAKER",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The ocean surrounding Antarctica at the south of the Earth",
-      "answer": "SOUTHERN",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Large seabird with a pouch under its beak",
-      "answer": "PELICAN",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The celebration ceremony when two people get married",
-      "answer": "WEDDING",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The tenth month of the year",
-      "answer": "OCTOBER",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean reptile with a hard shell that also lives on land",
-      "answer": "TURTLE",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot dry area with very little rain",
-      "answer": "DESERT",
+      "clue": "Hot, liquid rock beneath the Earth's surface",
+      "answer": "MAGMA",
       "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Cloth or paper used to wipe your mouth during a meal",
-      "answer": "NAPKIN",
-      "row": 7,
-      "col": 2,
+      "col": 1,
       "direction": "down"
-    },
-    {
-      "clue": "Owning a small part of a company",
-      "answer": "SHARE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The unit of British money used in England",
-      "answer": "POUND",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "dayNumber": 239

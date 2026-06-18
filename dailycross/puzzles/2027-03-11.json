@@ -4,59 +4,73 @@
   "title": "2027-03-11",
   "words": [
     {
-      "clue": "Person who catches fish as their job",
-      "answer": "FISHERMAN",
-      "row": 2,
+      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
+      "answer": "SPACECRAFT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Building where Jews go to worship",
-      "answer": "SYNAGOGUE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Salty food made from peanuts",
-      "answer": "PEANUTS",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Brown drink made from roasted beans",
-      "answer": "COFFEE",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A couple that is legally joined in marriage",
-      "answer": "COUPLE",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Moving air you feel outside",
-      "answer": "WIND",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The direction the sun rises every morning",
-      "answer": "EAST",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Long brown plant that grows in underwater forests",
-      "answer": "KELP",
+      "clue": "The opposite of accurate; not correct or precise",
+      "answer": "INACCURATE",
       "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
+      "row": 10,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A large hoofed animal that people ride",
+      "answer": "HORSE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A small handheld device that moves the cursor on a computer screen",
+      "answer": "MOUSE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, sticky food made by bees from flower nectar",
+      "answer": "HONEY",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
+      "row": 6,
+      "col": 1,
       "direction": "down"
     }
   ],

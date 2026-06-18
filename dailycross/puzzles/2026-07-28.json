@@ -4,53 +4,60 @@
   "title": "2026-07-28",
   "words": [
     {
-      "clue": "What a caterpillar changes into after its cocoon",
-      "answer": "BUTTERFLY",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal with a bushy tail that collects nuts",
-      "answer": "SQUIRREL",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "European country with the city of Berlin",
-      "answer": "GERMANY",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft shoe worn indoors",
-      "answer": "SLIPPER",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who fixes water pipes and drains in buildings",
-      "answer": "PLUMBER",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who brings food to your table in a restaurant",
-      "answer": "WAITER",
-      "row": 6,
+      "clue": "To transfer data from the internet to a computer or device",
+      "answer": "DOWNLOAD",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 5,
-      "col": 2,
+      "clue": "A flat shape with six straight sides and six angles",
+      "answer": "HEXAGON",
+      "row": 1,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A race in which runners must jump over barriers",
+      "answer": "HURDLES",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "answer": "CANYON",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant tissue that carries food made in leaves to other parts",
+      "answer": "PHLOEM",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
+      "answer": "MEDAL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with a flat top for writing, used by students",
+      "answer": "DESK",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 46

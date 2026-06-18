@@ -4,80 +4,80 @@
   "title": "Level 70",
   "words": [
     {
-      "clue": "Large device that sprays water on a lawn or garden",
-      "answer": "SPRINKLER",
-      "row": 7,
-      "col": 2,
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "When a bone cracks or snaps from force or impact",
-      "answer": "FRACTURE",
-      "row": 6,
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, green vegetable with a crisp texture, often used in salads",
+      "answer": "CUCUMBER",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Green tree vegetable that looks like tiny trees",
-      "answer": "BROCCOLI",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The twelfth and last month of the year",
-      "answer": "DECEMBER",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Tight stretchy pants worn for sports",
-      "answer": "LEGGINGS",
-      "row": 13,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat four-sided shape with a pointy top and bottom",
-      "answer": "DIAMOND",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A vehicle that carries astronauts from one spacecraft to another",
-      "answer": "SHUTTLE",
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
       "row": 11,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Water in the form of a gas or steam",
-      "answer": "VAPOR",
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
       "row": 0,
-      "col": 8,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Vehicle driven to explore the moon or Mars",
-      "answer": "ROVER",
-      "row": 0,
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
+      "row": 3,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Round purple or green fruit that grows in bunches",
-      "answer": "GRAPE",
-      "row": 13,
+      "clue": "The opposite of clean; untidy or dirty",
+      "answer": "MESSY",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A light purple-pink color, like the flower",
+      "answer": "LILAC",
+      "row": 2,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather with strong or gusty winds",
+      "answer": "WINDY",
+      "row": 13,
+      "col": 6,
       "direction": "across"
     }
   ],

@@ -4,73 +4,59 @@
   "title": "2027-04-21",
   "words": [
     {
-      "clue": "A watch with a screen that shows apps and notifications",
-      "answer": "SMARTWATCH",
-      "row": 6,
+      "clue": "A flat shape with eleven straight sides and eleven angles",
+      "answer": "HENDECAGON",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Building where Jews go to worship",
-      "answer": "SYNAGOGUE",
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A panel of keys used to type text and commands into a computer",
+      "answer": "KEYBOARD",
       "row": 3,
-      "col": 6,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Physical activity that keeps your body strong and fit",
-      "answer": "EXERCISE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A perfectly round flat shape",
-      "answer": "CIRCLE",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling like you need to sleep",
-      "answer": "SLEEPY",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of money something costs in a shop",
-      "answer": "PRICE",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Small mountain country between India and China",
-      "answer": "NEPAL",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape like a pointy ice cream cone",
-      "answer": "CONE",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Secure locked box used to protect valuables at home",
-      "answer": "SAFE",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Round container used to mix ingredients",
-      "answer": "BOWL",
+      "clue": "A person who creates and designs clothing and accessories",
+      "answer": "DESIGNER",
       "row": 0,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The front part of your neck that contains your voice box",
+      "answer": "THROAT",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of propelling a boat using oars",
+      "answer": "ROWING",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A part of a song that is repeated after each verse",
+      "answer": "CHORUS",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that washes clothes automatically",
+      "answer": "WASHER",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     }
   ],

@@ -4,60 +4,67 @@
   "title": "2027-04-16",
   "words": [
     {
-      "clue": "A large area of land belonging to one country",
-      "answer": "TERRITORY",
-      "row": 4,
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Work your teacher gives you to do at home",
-      "answer": "HOMEWORK",
-      "row": 3,
-      "col": 7,
+      "clue": "A region in space with gravity so strong that nothing can escape it",
+      "answer": "BLACKHOLE",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Building with tanks where you can see fish and sea creatures",
-      "answer": "AQUARIUM",
-      "row": 0,
-      "col": 4,
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who lives in the house next to yours",
-      "answer": "NEIGHBOR",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Machine that puts words and pictures from a computer onto paper",
-      "answer": "PRINTER",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You draw circles using this tool",
-      "answer": "COMPASS",
-      "row": 0,
+      "clue": "A property of a shape that can be divided into two identical halves",
+      "answer": "SYMMETRY",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Part of the fridge where food is kept frozen solid",
-      "answer": "FREEZER",
-      "row": 6,
-      "col": 5,
+      "clue": "A cabinet with shelves for storing food and dishes",
+      "answer": "CUPBOARD",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A leafy green vegetable commonly used as a base for salads",
+      "answer": "LETTUCE",
+      "row": 12,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Tool with prongs used to pick up and eat food",
-      "answer": "FORK",
-      "row": 4,
-      "col": 11,
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
+      "row": 7,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "A large string instrument with pedals, played by plucking strings",
+      "answer": "HARP",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 308

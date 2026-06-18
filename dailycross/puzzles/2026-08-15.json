@@ -4,67 +4,74 @@
   "title": "2026-08-15",
   "words": [
     {
-      "clue": "Person who makes and dispenses medicine",
-      "answer": "PHARMACIST",
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A line that touches a circle at exactly one point",
+      "answer": "TANGENT",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that grows, flowers, and dies within a single year",
+      "answer": "ANNUAL",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A folded piece of cardboard used to hold and organize loose papers",
+      "answer": "FOLDER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, narrow boat propelled by one or more paddles",
+      "answer": "CANOE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of absorbent cloth used for drying after washing",
+      "answer": "TOWEL",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A rich, dark green color, like the gemstone",
+      "answer": "JADE",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large building where goods are stored",
-      "answer": "WAREHOUSE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The region of space from which nothing can escape",
-      "answer": "BLACKHOLE",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who builds roads, bridges and large structures",
-      "answer": "ENGINEER",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape like a can or tube",
-      "answer": "CYLINDER",
-      "row": 0,
+      "clue": "A sticky substance used to join paper or other materials together",
+      "answer": "GLUE",
+      "row": 5,
       "col": 10,
       "direction": "down"
-    },
-    {
-      "clue": "Light purple color of a lavender flower",
-      "answer": "LAVENDER",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The celebration ceremony when two people get married",
-      "answer": "WEDDING",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Shaking from feeling very cold or being very scared",
-      "answer": "SHIVER",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried about what will happen next",
-      "answer": "UNEASY",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
     }
   ],
   "dayNumber": 64

@@ -4,119 +4,98 @@
   "title": "Level 112",
   "words": [
     {
-      "clue": "Wooden block used to store and organize kitchen knives",
-      "answer": "KNIFEBLOCK",
-      "row": 6,
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Small round fish that puffs up when threatened",
-      "answer": "PUFFERFISH",
-      "row": 4,
+      "clue": "The opposite of accurate; not correct or precise",
+      "answer": "INACCURATE",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Wooden bar instrument you hit with mallets",
-      "answer": "XYLOPHONE",
-      "row": 4,
-      "col": 8,
+      "clue": "A folder on a computer where deleted files are temporarily stored",
+      "answer": "RECYCLEBIN",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Sport where you hit a shuttlecock with a racket",
-      "answer": "BADMINTON",
-      "row": 1,
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "answer": "HURRICANE",
+      "row": 9,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Item you hold above your head to stay dry in rain",
-      "answer": "UMBRELLA",
-      "row": 1,
-      "col": 1,
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 0,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Machine that puts words and pictures from a computer onto paper",
-      "answer": "PRINTER",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried that something bad will happen",
-      "answer": "ANXIOUS",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Test done by a doctor to measure your body temperature",
-      "answer": "CHECKUP",
+      "clue": "The loud sound that follows a flash of lightning",
+      "answer": "THUNDER",
       "row": 6,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Tall chest with a mirror on top used for storing clothes",
-      "answer": "DRESSER",
-      "row": 12,
+      "clue": "A team sport where players kick a ball into the opposing team's goal",
+      "answer": "SOCCER",
+      "row": 2,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Small motor vehicle like a bicycle used in cities",
-      "answer": "SCOOTER",
-      "row": 8,
+      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
+      "answer": "HELMET",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country in the Middle East where Jerusalem is located",
-      "answer": "ISRAEL",
-      "row": 7,
+      "clue": "A tree whose sap is used to make sweet syrup",
+      "answer": "MAPLE",
+      "row": 2,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Opening in a wall covered with glass that lets in light",
-      "answer": "WINDOW",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Animal with a shell that moves very slowly",
-      "answer": "TURTLE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "You breathe air into these two organs in your chest",
-      "answer": "LUNGS",
-      "row": 12,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Feeling uninterested and having nothing fun to do",
-      "answer": "BORED",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A high mountain pass between two peaks",
-      "answer": "PASS",
-      "row": 0,
-      "col": 8,
+      "clue": "How high or low a musical sound is",
+      "answer": "PITCH",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 13,
   "targetWords": 20,
   "difficulty": "hard"
 }

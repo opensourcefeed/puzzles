@@ -4,70 +4,63 @@
   "title": "Level 34",
   "words": [
     {
-      "clue": "Person who builds and repairs things using wood",
-      "answer": "CARPENTER",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat star-shaped ocean creature with five arms",
-      "answer": "STARFISH",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Large vehicle with wings that flies through the air",
-      "answer": "AIRPLANE",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Box used to carry a packed lunch to school",
-      "answer": "LUNCHBOX",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Mountain with a hole at the top that can erupt",
-      "answer": "VOLCANO",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Season when snow falls and it is very cold",
-      "answer": "WINTER",
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You use this to rub out pencil marks",
-      "answer": "ERASER",
+      "clue": "The amount of rain that falls over a period of time",
+      "answer": "RAINFALL",
       "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Metal tool with sharp holes used to grate cheese",
-      "answer": "GRATER",
-      "row": 10,
-      "col": 3,
+      "clue": "A scientist who specializes in the study of plants",
+      "answer": "BOTANIST",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 8,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "The sport of gliding on ice using ice skates",
+      "answer": "SKATING",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A scale for measuring temperature, named after Anders Celsius",
+      "answer": "CELSIUS",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round solid shape like a ball",
+      "answer": "SPHERE",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 8,
   "targetWords": 9,
   "difficulty": "medium"
 }

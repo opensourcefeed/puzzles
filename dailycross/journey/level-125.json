@@ -4,112 +4,133 @@
   "title": "Level 125",
   "words": [
     {
-      "clue": "Buddhist holiday celebrating the birth of Buddha",
-      "answer": "BUDDHASDAY",
-      "row": 7,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A mathematical statement that two expressions are equal",
+      "answer": "EQUATION",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of moisture or water vapor present in the air",
+      "answer": "HUMIDITY",
+      "row": 11,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Small blue round fruit used in muffins",
-      "answer": "BLUEBERRY",
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
       "row": 5,
-      "col": 3,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The middle day of the school week",
-      "answer": "WEDNESDAY",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Item you hold above your head to stay dry in rain",
-      "answer": "UMBRELLA",
-      "row": 5,
+      "clue": "The scientific study of matter, energy, and their interactions",
+      "answer": "PHYSICS",
+      "row": 3,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Tiny floating organisms that form the base of the ocean food chain",
-      "answer": "PLANKTON",
-      "row": 2,
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 13,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A substance that speeds up a chemical reaction",
-      "answer": "CATALYST",
-      "row": 7,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Colored pencils used in art class",
-      "answer": "MARKERS",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The eighth and farthest planet from the sun",
-      "answer": "NEPTUNE",
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Scandinavian country with the city of Stockholm",
-      "answer": "SWEDEN",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Smooth creamy food made from milk",
-      "answer": "YOGURT",
-      "row": 14,
+      "clue": "The loud sound that follows a flash of lightning",
+      "answer": "THUNDER",
+      "row": 9,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Sport played with a racket and a small yellow ball",
-      "answer": "TENNIS",
-      "row": 12,
-      "col": 5,
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A colorful bird that can copy human speech and other sounds",
+      "answer": "PARROT",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Your female parent",
-      "answer": "MOTHER",
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep blue-purple color, like the plant used for dye",
+      "answer": "INDIGO",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of open; not open or allowing access",
+      "answer": "CLOSED",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Hard protective layer at the tip of your fingers",
-      "answer": "NAILS",
-      "row": 2,
-      "col": 12,
+      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
+      "answer": "RULER",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
+      "row": 6,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Feeling pleased with yourself after doing something well",
-      "answer": "PROUD",
-      "row": 4,
+      "clue": "The largest organ of the human body, covering and protecting it",
+      "answer": "SKIN",
+      "row": 13,
       "col": 2,
       "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 18,
   "targetWords": 22,
   "difficulty": "hard"
 }

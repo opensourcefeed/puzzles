@@ -4,60 +4,67 @@
   "title": "2026-07-03",
   "words": [
     {
-      "clue": "Building where scientists do research and experiments",
-      "answer": "LABORATORY",
-      "row": 2,
+      "clue": "A shape that does not have symmetry and cannot be divided into identical halves",
+      "answer": "ASYMMETRIC",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Portable battery pack that recharges your phone on the go",
-      "answer": "POWERBANK",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A curved shape like a banana or the moon",
-      "answer": "CRESCENT",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "US holiday in September honoring working people",
-      "answer": "LABORDAY",
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
       "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Warm pullover top worn in cold weather",
-      "answer": "SWEATER",
-      "row": 6,
-      "col": 6,
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The color of a ripe banana",
-      "answer": "YELLOW",
+      "clue": "A scale for measuring temperature, named after Anders Celsius",
+      "answer": "CELSIUS",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A very fast-running bird that cannot fly",
+      "answer": "OSTRICH",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with straight sides that form corners",
+      "answer": "POLYGON",
       "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
+      "row": 2,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Large whiskered mammal with flippers that lives in cold seas",
-      "answer": "WALRUS",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet fried ring-shaped pastry",
-      "answer": "DONUT",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
+      "clue": "A series of musical notes arranged in ascending or descending order",
+      "answer": "SCALE",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 21

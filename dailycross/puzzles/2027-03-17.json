@@ -4,73 +4,66 @@
   "title": "2027-03-17",
   "words": [
     {
-      "clue": "The eleventh month of the year",
-      "answer": "NOVEMBER",
+      "clue": "The result obtained by subtracting one number from another",
+      "answer": "DIFFERENCE",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A cabinet with shelves for storing food and dishes",
+      "answer": "CUPBOARD",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
       "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 0,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Person who trains animals to behave or do tricks",
-      "answer": "TRAINER",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Shiny gray color of a coin",
-      "answer": "SILVER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Special song played to honor a country",
-      "answer": "ANTHEM",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling pleased with yourself after doing something well",
-      "answer": "PROUD",
-      "row": 8,
+      "clue": "A day when the sky is covered with many clouds",
+      "answer": "CLOUDY",
+      "row": 10,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Baked food made from flour and water",
-      "answer": "BREAD",
-      "row": 2,
-      "col": 10,
+      "clue": "Plant tissue that carries food made in leaves to other parts",
+      "answer": "PHLOEM",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The organ that filters waste from your blood and produces urine",
+      "answer": "KIDNEY",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Garment worn by girls or women that falls below the waist",
-      "answer": "DRESS",
-      "row": 5,
+      "clue": "The side of your face between your eye and ear",
+      "answer": "CHEEK",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The fan-shaped area where a river spreads out before the sea",
-      "answer": "DELTA",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
+      "clue": "A machine that dries clothes by spinning and heating",
+      "answer": "DRYER",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "The part of your body that sits on top of your neck",
-      "answer": "HEAD",
-      "row": 2,
-      "col": 0,
+      "clue": "The organ in your chest that pumps blood throughout your body",
+      "answer": "HEART",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     }
   ],

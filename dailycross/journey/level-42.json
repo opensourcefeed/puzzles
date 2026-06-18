@@ -4,63 +4,70 @@
   "title": "Level 42",
   "words": [
     {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 4,
-      "col": 1,
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with exactly three sides and three corners",
-      "answer": "TRIANGLE",
-      "row": 1,
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 6,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Paper money used by a country",
-      "answer": "CURRENCY",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Fine hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 2,
-      "col": 2,
+      "clue": "A scientist who studies plants and their growth",
+      "answer": "BOTANIST",
+      "row": 11,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Two-wheeled vehicle you pedal with your feet",
-      "answer": "BICYCLE",
+      "clue": "A climbing plant that grows green peas in pods",
+      "answer": "PEAVINE",
       "row": 9,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "European country with the city of Budapest",
-      "answer": "HUNGARY",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Country that bridges Europe and Asia with Istanbul",
-      "answer": "TURKEY",
+      "clue": "A bird kept on farms for its eggs and meat",
+      "answer": "CHICKEN",
       "row": 5,
-      "col": 8,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The gas that plants release which we breathe",
-      "answer": "OXYGEN",
-      "row": 7,
-      "col": 0,
+      "clue": "A point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A region of a circle bounded by two radii and the arc between them",
+      "answer": "SECTOR",
+      "row": 5,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 9,
   "targetWords": 11,
   "difficulty": "medium"
 }

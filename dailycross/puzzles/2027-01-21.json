@@ -4,66 +4,73 @@
   "title": "2027-01-21",
   "words": [
     {
-      "clue": "Person who studies rocks and the history of the Earth",
-      "answer": "GEOLOGIST",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Round green vegetable that grows on a vine",
-      "answer": "ZUCCHINI",
-      "row": 8,
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
-      "answer": "VITAMINC",
+      "clue": "The tough outer layer that covers and protects a seed",
+      "answer": "SEEDCOAT",
       "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Long wardrobe cabinet for hanging clothes",
-      "answer": "WARDROBE",
-      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
-      "answer": "GINGER",
-      "row": 12,
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The side or direction from which the wind is blowing",
+      "answer": "WINDWARD",
+      "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Microsoft program used to create spreadsheets",
-      "answer": "EXCEL",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Forcing air from your lungs through your mouth",
-      "answer": "COUGH",
-      "row": 8,
-      "col": 3,
+      "clue": "A line that touches a circle at exactly one point",
+      "answer": "TANGENT",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A low wet land often covered with water",
-      "answer": "SWAMP",
-      "row": 0,
+      "clue": "A perfectly round solid shape like a ball",
+      "answer": "SPHERE",
+      "row": 11,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A short green plant that covers lawns and fields",
+      "answer": "GRASS",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of flat land with few trees",
+      "answer": "PLAIN",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A collection of data stored under a single name on a computer",
+      "answer": "FILE",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     }
   ],

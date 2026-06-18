@@ -4,74 +4,67 @@
   "title": "2026-07-15",
   "words": [
     {
-      "clue": "Yellow tropical fruit with a rough skin",
-      "answer": "PINEAPPLE",
-      "row": 5,
-      "col": 3,
+      "clue": "An animal that feeds only on plants and plant material",
+      "answer": "HERBIVORE",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Machine that heats bread slices until they are golden brown",
-      "answer": "TOASTER",
+      "clue": "A mathematical statement that two expressions are equal",
+      "answer": "EQUATION",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A symbol on a screen that shows where the mouse is pointing",
+      "answer": "CURSOR",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
       "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with a flat top, used for eating, working, or placing things",
+      "answer": "TABLE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A rich, earthy yellow color, like the pigment",
+      "answer": "OCHRE",
+      "row": 2,
       "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Your tummy where food is digested",
-      "answer": "STOMACH",
-      "row": 3,
-      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Sliding compartment in a chest or desk used to store items",
-      "answer": "DRAWER",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Rock that comes from space and burns as it falls",
-      "answer": "METEOR",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Folder where you keep your papers",
-      "answer": "BINDER",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that removes waste from the blood to make urine",
-      "answer": "KIDNEY",
-      "row": 8,
+      "clue": "A dwarf planet in our solar system that was once considered the ninth planet",
+      "answer": "PLUTO",
+      "row": 6,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Large boat that carries vehicles across water",
-      "answer": "FERRY",
-      "row": 7,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Physical money in the form of coins and notes",
-      "answer": "CASH",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A small pill or tablet containing medicine",
-      "answer": "PILL",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "dayNumber": 33

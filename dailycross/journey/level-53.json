@@ -4,84 +4,70 @@
   "title": "Level 53",
   "words": [
     {
-      "clue": "Flat wide brush used to paint walls",
-      "answer": "PAINTBRUSH",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
-      "answer": "MOTORCYCLE",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Room where you do science experiments",
-      "answer": "LABORATORY",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The energy content of food measured in units",
-      "answer": "CALORIES",
+      "clue": "The movement of one object around another in an orbital path",
+      "answer": "REVOLUTION",
       "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Fine thin rain that barely gets you wet",
-      "answer": "DRIZZLE",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who fixes water pipes and drains in buildings",
-      "answer": "PLUMBER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Thick yellow dairy spread put on bread",
-      "answer": "BUTTER",
-      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Fine yellow powder made by flowers to make seeds",
-      "answer": "POLLEN",
-      "row": 6,
-      "col": 12,
+      "clue": "A person who makes and repairs wooden objects and furniture",
+      "answer": "CARPENTER",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Worn on both hands to keep them warm in winter",
-      "answer": "GLOVES",
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Organ that filters waste from your blood to make urine",
-      "answer": "KIDNEY",
-      "row": 11,
-      "col": 9,
+      "clue": "A device that converts physical documents into digital images",
+      "answer": "SCANNER",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The planet we live on, third from the sun",
-      "answer": "EARTH",
-      "row": 11,
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "To transfer data from a computer or device to the internet",
+      "answer": "UPLOAD",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 7,
       "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 9,
   "targetWords": 12,
   "difficulty": "medium"
 }

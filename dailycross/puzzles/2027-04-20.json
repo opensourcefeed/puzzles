@@ -4,60 +4,74 @@
   "title": "2027-04-20",
   "words": [
     {
-      "clue": "The day that comes after today",
-      "answer": "TOMORROW",
-      "row": 7,
-      "col": 1,
+      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "answer": "HURRICANE",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "You use these to cut paper in class",
-      "answer": "SCISSORS",
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
       "row": 2,
-      "col": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Sport where you jump as far as you can from a running start",
-      "answer": "LONGJUMP",
-      "row": 6,
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of deep; of little depth",
+      "answer": "SHALLOW",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The scientific study of living organisms and their life processes",
+      "answer": "BIOLOGY",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round solid shape where every point on its surface is the same distance from its center",
+      "answer": "SPHERE",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that controls the flow of water from a pipe",
+      "answer": "FAUCET",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Jewelry clipped or hooked onto the ear",
-      "answer": "EARRING",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
+      "clue": "A form of energy that travels in waves and allows us to see",
+      "answer": "LIGHT",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
     },
     {
-      "clue": "Ocean creature with eight arms that can squirt ink",
-      "answer": "OCTOPUS",
+      "clue": "A device that shows the time, usually hung on a wall or placed on a surface",
+      "answer": "CLOCK",
       "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Owning a small part of a company",
-      "answer": "SHARE",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Soft orange fruit with a stone inside",
-      "answer": "PEACH",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where a family lives",
-      "answer": "HOUSE",
-      "row": 0,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
+    },
+    {
+      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
+      "answer": "BRASS",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 312

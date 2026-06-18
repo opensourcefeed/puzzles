@@ -4,133 +4,126 @@
   "title": "Level 113",
   "words": [
     {
-      "clue": "Machine that uses microwave energy to heat food quickly",
-      "answer": "MICROWAVE",
-      "row": 7,
-      "col": 3,
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Room where you eat lunch at school",
-      "answer": "CAFETERIA",
-      "row": 6,
+      "clue": "A shape that can be divided into two identical halves",
+      "answer": "SYMMETRIC",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A number that is the product of a number multiplied by itself",
+      "answer": "SQUAREDO",
+      "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Building with tanks where you can see fish and sea creatures",
-      "answer": "AQUARIUM",
-      "row": 12,
-      "col": 5,
+      "clue": "A green vegetable with a thick stalk and a head of tiny buds",
+      "answer": "BROCCOLI",
+      "row": 11,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Tall feature on land formed by pushing earth upward",
-      "answer": "MOUNTAIN",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who inspects and repairs cars and engines",
-      "answer": "MECHANIC",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Salty food made from peanuts",
-      "answer": "PEANUTS",
-      "row": 14,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The tenth month of the year",
-      "answer": "OCTOBER",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Spring holiday with Easter eggs and a bunny",
-      "answer": "EASTER",
-      "row": 4,
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 8,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Place where a river begins",
-      "answer": "SOURCE",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Light rock full of small holes made by a volcano",
-      "answer": "PUMICE",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Thick soft covering placed on the floor in a room",
-      "answer": "CARPET",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A man on the day he gets married",
-      "answer": "GROOM",
+      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
+      "answer": "TSUNAMI",
       "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The dense, central core of an atom containing protons and neutrons",
+      "answer": "NUCLEUS",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 4,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Sturdy blue trousers made from denim",
-      "answer": "JEANS",
-      "row": 10,
-      "col": 13,
+      "clue": "A small, lens-shaped dried seed often used in soups and stews",
+      "answer": "LENTIL",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A ball of ice and dust that has a glowing tail in space",
-      "answer": "COMET",
-      "row": 2,
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large body of salt water that covers most of Earth's surface",
+      "answer": "OCEAN",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of clean; untidy or dirty",
+      "answer": "MESSY",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A musical term meaning to play loudly",
+      "answer": "FORTE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The sixth month of the year",
-      "answer": "JUNE",
-      "row": 14,
-      "col": 0,
-      "direction": "across"
+      "clue": "A farm animal with horns and a beard under its chin",
+      "answer": "GOAT",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 20,
   "difficulty": "hard"
 }

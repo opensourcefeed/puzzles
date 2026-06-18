@@ -4,53 +4,74 @@
   "title": "2027-06-01",
   "words": [
     {
-      "clue": "Southeast Asian country with the city of Bangkok",
-      "answer": "THAILAND",
-      "row": 4,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "You draw circles using this tool",
-      "answer": "COMPASS",
-      "row": 0,
-      "col": 8,
+      "clue": "The speed at which the wind is moving",
+      "answer": "WINDSPEED",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Small piece of land surrounded by water",
-      "answer": "ISLAND",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Clothing that covers both your legs",
-      "answer": "PANTS",
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
       "row": 7,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Largest animal in the ocean",
-      "answer": "WHALE",
-      "row": 3,
-      "col": 4,
+      "clue": "Feeling worried, nervous, or uneasy about something",
+      "answer": "ANXIOUS",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of land covered with many trees",
+      "answer": "FOREST",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Teacher writes on this at the front of the class",
-      "answer": "BOARD",
-      "row": 1,
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 12,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Fragrant green herb used on pizzas and in Italian cooking",
-      "answer": "BASIL",
-      "row": 6,
-      "col": 0,
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape that has no straight edges or corners",
+      "answer": "ROUND",
+      "row": 3,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "A fine powder made by grinding wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     }
   ],
   "dayNumber": 354

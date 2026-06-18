@@ -4,66 +4,66 @@
   "title": "2027-01-28",
   "words": [
     {
-      "clue": "The ninth month of the year",
-      "answer": "SEPTEMBER",
+      "clue": "An instrument used to measure wind speed",
+      "answer": "ANEMOMETER",
       "row": 4,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with five sides and five corners",
-      "answer": "PENTAGON",
+      "clue": "An instrument that uses lenses to make very small objects appear larger",
+      "answer": "MICROSCOPE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of accurate; not correct or precise",
+      "answer": "INACCURATE",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
       "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Jewelry hung around the neck",
-      "answer": "NECKLACE",
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
       "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The first day of the weekend",
-      "answer": "SATURDAY",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Salty food made from peanuts",
-      "answer": "PEANUTS",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Game console made by Nintendo that you can also use on the go",
-      "answer": "SWITCH",
-      "row": 10,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Shellfish attached to rocks that opens when in water",
-      "answer": "MUSSEL",
-      "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Underwater mountain chain that runs along the ocean floor",
-      "answer": "RIDGE",
+      "clue": "A large reptile with very strong jaws that lives in rivers",
+      "answer": "CROCODILE",
       "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A high mountain pass between two peaks",
-      "answer": "PASS",
+      "clue": "A plant that grows round, red fruits often used in cooking",
+      "answer": "TOMATO",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
       "row": 2,
-      "col": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An unmanned spacecraft sent to explore and gather information in space",
+      "answer": "PROBE",
+      "row": 11,
+      "col": 9,
       "direction": "across"
     }
   ],

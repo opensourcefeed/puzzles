@@ -4,77 +4,91 @@
   "title": "Level 54",
   "words": [
     {
-      "clue": "Holiday on October 31 when children wear costumes",
-      "answer": "HALLOWEEN",
-      "row": 1,
+      "clue": "A triangle with two sides of equal length",
+      "answer": "ISOSCELES",
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Holiday celebrating Earth and the environment in April",
-      "answer": "EARTHDAY",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you hit a white ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Website where you watch and share videos",
-      "answer": "YOUTUBE",
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
       "row": 4,
-      "col": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 11,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Country in West Africa with the city of Lagos",
-      "answer": "NIGERIA",
-      "row": 1,
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who is trained in or good at sports",
+      "answer": "ATHLETE",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A slow-moving reptile with a hard shell on its back",
+      "answer": "TURTLE",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 8,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Finding something funny or entertaining",
+      "answer": "AMUSED",
+      "row": 7,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Building where Muslims go to pray",
-      "answer": "MOSQUE",
-      "row": 3,
-      "col": 7,
+      "clue": "A solid food made from milk, often yellow and sliced",
+      "answer": "CHEESE",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Eggs beaten and cooked flat in a pan",
-      "answer": "OMELET",
-      "row": 3,
+      "clue": "A black and white bear that eats bamboo",
+      "answer": "PANDA",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Huge body of salty water that covers most of the Earth",
-      "answer": "OCEAN",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "How fast an object is traveling",
-      "answer": "SPEED",
-      "row": 8,
-      "col": 4,
+      "clue": "The skin covering the top of your head where hair grows",
+      "answer": "SCALP",
+      "row": 0,
+      "col": 9,
       "direction": "across"
-    },
-    {
-      "clue": "Curved tool used to eat soup or stir drinks",
-      "answer": "SPOON",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 12,
   "targetWords": 12,
   "difficulty": "medium"
 }

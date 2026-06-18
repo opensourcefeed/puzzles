@@ -4,67 +4,74 @@
   "title": "2026-08-07",
   "words": [
     {
-      "clue": "Person who creates new devices or ways of doing things",
-      "answer": "INVENTOR",
-      "row": 3,
-      "col": 0,
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Colored pencils used in art class",
-      "answer": "MARKERS",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Giant ocean wave caused by underwater earthquakes",
-      "answer": "TSUNAMI",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Helsinki",
-      "answer": "FINLAND",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The time of day just after you wake up",
-      "answer": "MORNING",
-      "row": 0,
+      "clue": "A scientist who studies chemicals and their reactions",
+      "answer": "CHEMIST",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A couple that is legally joined in marriage",
-      "answer": "COUPLE",
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
       "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A team sport where players kick a ball into the opposing team's goal",
+      "answer": "SOCCER",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A clickable element on a screen that triggers an action",
+      "answer": "BUTTON",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A musical term meaning to play loudly",
+      "answer": "FORTE",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The body parts at the ends of your legs",
+      "answer": "FEET",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A small green amphibian that jumps and lives near water",
+      "answer": "FROG",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A sturdy vehicle designed for traveling over rough terrain",
+      "answer": "JEEP",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tool used to check if a surface is perfectly flat",
-      "answer": "LEVEL",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Large boat that carries vehicles across water",
-      "answer": "FERRY",
-      "row": 5,
+      "clue": "A two-wheeled vehicle that you ride by pedaling",
+      "answer": "BIKE",
+      "row": 0,
       "col": 6,
       "direction": "across"
-    },
-    {
-      "clue": "Thin layer of ice on roads and surfaces on cold mornings",
-      "answer": "FROST",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "dayNumber": 56

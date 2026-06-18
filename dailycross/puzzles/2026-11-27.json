@@ -4,74 +4,67 @@
   "title": "2026-11-27",
   "words": [
     {
-      "clue": "A watch with a screen that shows apps and notifications",
-      "answer": "SMARTWATCH",
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that mows and harvests crops in fields",
-      "answer": "HARVESTER",
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with six straight sides and six angles",
+      "answer": "HEXAGON",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
       "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Large device that sprays water on a lawn or garden",
-      "answer": "SPRINKLER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Animal with a bushy tail that collects nuts",
-      "answer": "SQUIRREL",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The celebration ceremony when two people get married",
-      "answer": "WEDDING",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The country that has London as its capital city",
-      "answer": "ENGLAND",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Long loose garment worn to bed",
-      "answer": "PAJAMAS",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The gas that plants release which we breathe",
-      "answer": "OXYGEN",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Color made by mixing red and yellow",
-      "answer": "ORANGE",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of money something costs in a shop",
-      "answer": "PRICE",
+      "clue": "An underground layer of rock that holds and transmits water",
+      "answer": "AQUIFER",
       "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
+      "row": 3,
       "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Weather that feels damp and has a lot of moisture in the air",
+      "answer": "HUMID",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A kitchen appliance used for baking, roasting, and heating food",
+      "answer": "OVEN",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 168

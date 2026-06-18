@@ -4,66 +4,73 @@
   "title": "2027-01-22",
   "words": [
     {
-      "clue": "Scandinavian country with the city of Copenhagen",
-      "answer": "DENMARK",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who grows crops and raises animals for food",
-      "answer": "FARMER",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Small piece of land surrounded by water",
-      "answer": "ISLAND",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Metal tool with sharp holes used to grate cheese",
-      "answer": "GRATER",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Portable computer used in class",
-      "answer": "LAPTOP",
+      "clue": "A long-distance running race of 26.2 miles",
+      "answer": "MARATHON",
       "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Organ in your belly that helps digest food",
-      "answer": "LIVER",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A low wet land often covered with water",
-      "answer": "SWAMP",
-      "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The line where land meets the sea",
-      "answer": "COAST",
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
       "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The dense, central core of an atom containing protons and neutrons",
+      "answer": "NUCLEUS",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, curved yellow fruit with a soft inside",
+      "answer": "BANANA",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
+      "answer": "PULSAR",
+      "row": 6,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Very light blue like a robin egg",
-      "answer": "CYAN",
-      "row": 2,
-      "col": 3,
+      "clue": "A large bowl or sink used for washing",
+      "answer": "BASIN",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A comparison of two quantities using division",
+      "answer": "RATIO",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Instructions written in a programming language for a computer",
+      "answer": "CODE",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     }
   ],

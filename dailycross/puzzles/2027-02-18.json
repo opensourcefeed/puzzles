@@ -4,66 +4,59 @@
   "title": "2027-02-18",
   "words": [
     {
-      "clue": "The complete path of water from ocean to sky and back",
-      "answer": "WATERCYCLE",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Light fitting that hangs from the ceiling",
-      "answer": "CHANDELIER",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A large group of musicians playing instruments together",
-      "answer": "ORCHESTRA",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "You use these to cut paper in class",
-      "answer": "SCISSORS",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with the cities of Dublin and the Cliffs of Moher",
-      "answer": "IRELAND",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Shop where fresh bread and pastries are made and sold",
-      "answer": "BAKERY",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Large black bear-like animal from the forest",
-      "answer": "BEAR",
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "All the food and drink you consume regularly",
-      "answer": "DIET",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The main above-ground stalk that holds up a plant",
-      "answer": "STEM",
-      "row": 6,
+      "clue": "Feeling deep sorrow, especially after a loss",
+      "answer": "GRIEVING",
+      "row": 4,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A mathematical statement that two expressions are equal",
+      "answer": "EQUATION",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat container with a handle, used with a broom to collect dirt",
+      "answer": "DUSTPAN",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A scientist who studies chemicals and their reactions",
+      "answer": "CHEMIST",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The side of your face between your eye and ear",
+      "answer": "CHEEK",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The pair of parallel metal rails that trains run on",
+      "answer": "TRACK",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     }
   ],

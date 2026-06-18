@@ -4,74 +4,67 @@
   "title": "2027-02-07",
   "words": [
     {
-      "clue": "Sport where you jump over a high bar",
-      "answer": "HIGHJUMP",
+      "clue": "A machine that automatically washes and dries dishes",
+      "answer": "DISHWASHER",
       "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "This holds your papers together with metal clips",
-      "answer": "STAPLER",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A push or pull that makes objects move or stop",
-      "answer": "FORCE",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large building where concerts and events are held",
-      "answer": "ARENA",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat dish used to serve a meal",
-      "answer": "PLATE",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Subject where you sing and play instruments",
-      "answer": "MUSIC",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "White fluffy shapes floating in the sky",
-      "answer": "CLOUD",
-      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "This grows on top of your head",
-      "answer": "HAIR",
-      "row": 9,
+      "clue": "A sudden shaking of the ground caused by movements in Earth's crust",
+      "answer": "EARTHQUAKE",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A triangle with two sides of equal length",
+      "answer": "ISOSCELES",
+      "row": 3,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that produces colorful, often scented blooms",
+      "answer": "FLOWER",
+      "row": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The color of the sky on a clear day",
-      "answer": "BLUE",
-      "row": 1,
+      "clue": "A deep, rich purple color, like the flower",
+      "answer": "VIOLET",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The unit we use to measure electric pressure",
-      "answer": "VOLT",
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
       "row": 0,
-      "col": 7,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "An unmanned spacecraft sent to explore and gather information in space",
+      "answer": "PROBE",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The hard, white structures that form the skeleton inside your body",
+      "answer": "BONES",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 240

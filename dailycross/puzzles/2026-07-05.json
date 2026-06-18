@@ -4,73 +4,66 @@
   "title": "2026-07-05",
   "words": [
     {
-      "clue": "Long thin pasta dish with tomato sauce",
-      "answer": "SPAGHETTI",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Physical activity that keeps your body strong and fit",
-      "answer": "EXERCISE",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewelry worn around the wrist",
-      "answer": "BRACELET",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The day on which you were born each year",
-      "answer": "BIRTHDAY",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you hit a white ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Being in good physical condition from exercise and good food",
-      "answer": "HEALTHY",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large white box that keeps food cold",
-      "answer": "FRIDGE",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of land completely surrounded by water",
-      "answer": "ISLAND",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat measuring stick marked with centimeters and inches",
-      "answer": "RULER",
-      "row": 6,
+      "clue": "A large vehicle that includes living quarters and can be driven",
+      "answer": "MOTORHOME",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The dark time after sunset when you sleep",
-      "answer": "NIGHT",
+      "clue": "A tree that keeps its green leaves throughout the entire year",
+      "answer": "EVERGREEN",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
       "row": 0,
-      "col": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of fabric hung over a window to block light or provide privacy",
+      "answer": "CURTAIN",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
+      "answer": "BRASS",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A bulb vegetable with layers and a strong smell used in cooking",
+      "answer": "ONION",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A wet, low-lying area where the ground is often covered with water",
+      "answer": "MARSH",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Drops of water that fall from clouds to the ground",
+      "answer": "RAIN",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of players who play together against another group",
+      "answer": "TEAM",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     }
   ],

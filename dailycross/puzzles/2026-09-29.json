@@ -4,67 +4,60 @@
   "title": "2026-09-29",
   "words": [
     {
-      "clue": "Small device you plug into a computer to store files",
+      "clue": "A small, portable storage device that plugs into a USB port",
       "answer": "FLASHDRIVE",
-      "row": 4,
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "One thousand years is called this",
-      "answer": "MILLENNIUM",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Flash of electricity in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 3,
+      "clue": "The display screen of a computer that shows images and text",
+      "answer": "MONITOR",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Device that converts paper documents into digital files",
-      "answer": "SCANNER",
-      "row": 8,
-      "col": 4,
+      "clue": "The movement or change in position of an object",
+      "answer": "MOTION",
+      "row": 1,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with six sides like a honeycomb cell",
-      "answer": "HEXAGON",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The unit of British money used in England",
-      "answer": "POUND",
-      "row": 0,
-      "col": 5,
+      "clue": "The amount of three-dimensional space occupied by a solid object",
+      "answer": "VOLUME",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Electric tool with beaters used to mix cake batter",
-      "answer": "MIXER",
+      "clue": "A large area of land covered with many trees",
+      "answer": "FOREST",
       "row": 5,
-      "col": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A narrow, deep valley with very steep rocky sides",
+      "answer": "GORGE",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Tiny lights you see in the sky at night",
-      "answer": "STARS",
-      "row": 4,
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Sweet baked dessert with candles on your birthday",
-      "answer": "CAKE",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
+      "clue": "The natural satellite that orbits Earth and reflects the Sun's light",
+      "answer": "MOON",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 109

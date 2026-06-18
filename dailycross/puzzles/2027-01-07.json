@@ -4,74 +4,67 @@
   "title": "2027-01-07",
   "words": [
     {
-      "clue": "Putting your money into a business to earn more",
-      "answer": "INVESTMENT",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Software that protects your computer from viruses",
-      "answer": "ANTIVIRUS",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Southeast Asian country with the city of Hanoi",
-      "answer": "VIETNAM",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The celebration ceremony when two people get married",
-      "answer": "WEDDING",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Long deep crack in the ground with steep walls",
-      "answer": "CANYON",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Very dark red like dried blood",
-      "answer": "MAROON",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Long strip of material wrapped around your neck for warmth",
-      "answer": "SCARF",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Long flat area of sand next to the ocean",
-      "answer": "BEACH",
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
       "row": 1,
-      "col": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The soft red part around your teeth",
-      "answer": "GUMS",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Light red color of a flamingo",
-      "answer": "PINK",
-      "row": 4,
-      "col": 0,
+      "clue": "A large vehicle that includes living quarters and can be driven",
+      "answer": "MOTORHOME",
+      "row": 0,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "A large system of winds rotating around a center of low pressure",
+      "answer": "CYCLONE",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A breakfast food made from processed grains, often eaten with milk",
+      "answer": "CEREAL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The movement or change in position of an object",
+      "answer": "MOTION",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that shows the time, usually hung on a wall or placed on a surface",
+      "answer": "CLOCK",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with six identical square faces",
+      "answer": "CUBE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 209

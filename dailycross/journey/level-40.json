@@ -4,70 +4,77 @@
   "title": "Level 40",
   "words": [
     {
-      "clue": "Small round fish that puffs up when threatened",
-      "answer": "PUFFERFISH",
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with straight sides that form corners",
+      "answer": "POLYGON",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
+      "answer": "PERCENT",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A part of a line that has two distinct endpoints",
+      "answer": "SEGMENT",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of furniture with drawers for storing items",
+      "answer": "CABINET",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "PITCHER",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Money given to a charity or cause",
-      "answer": "DONATION",
+      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "answer": "METEOR",
       "row": 0,
-      "col": 7,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Sport where you move through water with your arms and legs",
-      "answer": "SWIMMING",
-      "row": 7,
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 9,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Your male sibling",
-      "answer": "BROTHER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Special song played to honor a country",
-      "answer": "ANTHEM",
-      "row": 3,
+      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
+      "answer": "POTATO",
+      "row": 12,
       "col": 7,
       "direction": "across"
-    },
-    {
-      "clue": "Sport played with a racket and a small yellow ball",
-      "answer": "TENNIS",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Cloth or paper used to wipe your mouth during a meal",
-      "answer": "NAPKIN",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ in your belly that helps digest food",
-      "answer": "LIVER",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny lights you see in the sky at night",
-      "answer": "STARS",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 10,
   "targetWords": 10,
   "difficulty": "medium"
 }

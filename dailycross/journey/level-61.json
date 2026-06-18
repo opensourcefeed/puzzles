@@ -4,88 +4,88 @@
   "title": "Level 61",
   "words": [
     {
-      "clue": "Where a computer saves all its files and programs",
-      "answer": "HARDDRIVE",
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
       "row": 6,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Animal with a bushy tail that collects nuts",
-      "answer": "SQUIRREL",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A reduction in price when something goes on sale",
-      "answer": "DISCOUNT",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried that something bad will happen",
-      "answer": "ANXIOUS",
-      "row": 6,
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A device worn on your face to help you see clearly",
-      "answer": "GLASSES",
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
       "row": 3,
-      "col": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling confused because something is difficult to understand",
+      "answer": "PUZZLED",
+      "row": 10,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Small purple or blue wildflower found in meadows",
-      "answer": "VIOLET",
-      "row": 0,
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "An object that attracts iron and steel",
-      "answer": "MAGNET",
-      "row": 13,
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who works on a farm growing crops and raising animals",
+      "answer": "FARMER",
+      "row": 9,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A young plant just starting to grow",
+      "answer": "SPROUT",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of planets and other objects orbiting a star",
+      "answer": "SYSTEM",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a spout and handle used for boiling water",
+      "answer": "KETTLE",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Person who grows crops and raises animals for food",
-      "answer": "FARMER",
-      "row": 1,
-      "col": 4,
+      "clue": "A piece of furniture with a flat top, used for eating, working, or placing things",
+      "answer": "TABLE",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Round orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for tacos, pyramids and sombreros",
-      "answer": "MEXICO",
-      "row": 9,
+      "clue": "A tray on a desk used to hold incoming papers or documents",
+      "answer": "INBOX",
+      "row": 2,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Person who brings food to your table in a restaurant",
-      "answer": "WAITER",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Herb with a strong smell used on pizza",
-      "answer": "BASIL",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
     }
   ],
   "wordCount": 12,

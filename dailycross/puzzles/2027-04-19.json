@@ -4,66 +4,73 @@
   "title": "2027-04-19",
   "words": [
     {
-      "clue": "Dense tropical forest near the equator with heavy rain",
-      "answer": "RAINFOREST",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A very tall natural rise of land formed by rock",
-      "answer": "MOUNTAIN",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Warm dry wind that blows down the side of a mountain",
-      "answer": "CHINOOK",
-      "row": 5,
+      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
+      "answer": "PROTRACTOR",
+      "row": 4,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Black and white bird that cannot fly",
-      "answer": "PENGUIN",
-      "row": 9,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Person who cuts and styles men's hair",
-      "answer": "BARBER",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The thin connecting part between your foot and leg",
-      "answer": "ANKLE",
-      "row": 3,
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Device used to weigh out exact amounts of ingredients",
-      "answer": "SCALE",
+      "clue": "Feeling kind and pleasant toward others",
+      "answer": "FRIENDLY",
       "row": 3,
-      "col": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 7,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Building where a family lives",
-      "answer": "HOUSE",
-      "row": 0,
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The loud sound that follows a flash of lightning",
+      "answer": "THUNDER",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Money you earn for each hour of work",
-      "answer": "WAGE",
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
       "row": 4,
-      "col": 2,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A warm yellow-brown color, like the fossilized tree resin",
+      "answer": "AMBER",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     }
   ],

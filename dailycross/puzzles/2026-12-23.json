@@ -4,74 +4,67 @@
   "title": "2026-12-23",
   "words": [
     {
-      "clue": "Building where a judge decides legal cases",
-      "answer": "COURTHOUSE",
-      "row": 6,
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Small island city-state in Southeast Asia",
-      "answer": "SINGAPORE",
-      "row": 0,
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "When a bone cracks or snaps from force or impact",
-      "answer": "FRACTURE",
-      "row": 5,
+      "clue": "A sport where two people fight using their fists while wearing gloves",
+      "answer": "BOXING",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A narrow, deep valley with very steep rocky sides",
+      "answer": "GORGE",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Pink wading bird that stands on one leg",
-      "answer": "FLAMINGO",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
+      "clue": "A bright yellow citrus fruit with a very sour taste",
+      "answer": "LEMON",
       "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Green leafy vegetable full of iron",
-      "answer": "SPINACH",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "How heavy something is measured in grams or kilograms",
-      "answer": "WEIGHT",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A large body of flowing water that runs to the sea",
-      "answer": "RIVER",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Water that falls from clouds",
-      "answer": "RAIN",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The stage when a caterpillar wraps itself in a cocoon",
-      "answer": "PUPA",
-      "row": 10,
       "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "Energy that travels in waves and is detected by our ears",
+      "answer": "SOUND",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of hard; easy to press or shape",
+      "answer": "SOFT",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of fast; moving at a low speed",
+      "answer": "SLOW",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 194

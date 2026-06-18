@@ -4,67 +4,74 @@
   "title": "2027-01-03",
   "words": [
     {
-      "clue": "Room where you do science experiments",
-      "answer": "LABORATORY",
-      "row": 2,
-      "col": 0,
+      "clue": "The movement of one object around another in an orbital path",
+      "answer": "REVOLUTION",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Sport where you hit a shuttlecock with a racket",
-      "answer": "BADMINTON",
-      "row": 1,
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Tight stretchy pants worn for sports",
-      "answer": "LEGGINGS",
-      "row": 2,
-      "col": 0,
+      "clue": "The process by which the body breaks down food into nutrients",
+      "answer": "DIGESTION",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Flat star-shaped ocean creature with five arms",
-      "answer": "STARFISH",
-      "row": 7,
-      "col": 4,
+      "clue": "A prediction or estimate of future weather conditions",
+      "answer": "FORECAST",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Ocean creature with eight arms that can squirt ink",
-      "answer": "OCTOPUS",
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
       "row": 2,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A piece of land completely surrounded by water",
-      "answer": "ISLAND",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The device on a wall that shows the time",
-      "answer": "CLOCK",
-      "row": 0,
-      "col": 7,
+      "clue": "A very dry area that receives very little rainfall",
+      "answer": "DESERT",
+      "row": 4,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "About thirty days long, there are twelve in a year",
-      "answer": "MONTH",
+      "clue": "A deep blue-purple color, like the plant used for dye",
+      "answer": "INDIGO",
       "row": 9,
-      "col": 3,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Small shop where you buy coffee and light snacks",
-      "answer": "CAFE",
-      "row": 0,
-      "col": 7,
+      "clue": "An area of open land used for playing sports",
+      "answer": "FIELD",
+      "row": 9,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A large keyboard instrument with black and white keys",
+      "answer": "PIANO",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
+      "answer": "SPOON",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 205

@@ -4,119 +4,91 @@
   "title": "Level 100",
   "words": [
     {
-      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
-      "answer": "MOTORCYCLE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Room where you do science experiments",
-      "answer": "LABORATORY",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The bony structure that supports your body",
-      "answer": "SKELETON",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Dangerous winter storm with heavy snow and strong winds",
-      "answer": "BLIZZARD",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Purple vegetable that is long and oval, also called aubergine",
-      "answer": "EGGPLANT",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal with a bushy tail that collects nuts",
-      "answer": "SQUIRREL",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A brother or sister",
-      "answer": "SIBLING",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat tool used to flip pancakes and burgers",
-      "answer": "SPATULA",
-      "row": 8,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Celebration at the start of a new year on January 1",
-      "answer": "NEWYEAR",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who educates students in a school classroom",
-      "answer": "TEACHER",
-      "row": 14,
+      "clue": "The movement of one object around another in an orbital path",
+      "answer": "REVOLUTION",
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The regular repeating beat in music",
-      "answer": "RHYTHM",
-      "row": 10,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Light rock full of small holes made by a volcano",
-      "answer": "PUMICE",
-      "row": 8,
-      "col": 13,
+      "clue": "A flying vehicle with rotating blades that can take off and land vertically",
+      "answer": "HELICOPTER",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Metal tool with sharp holes used to grate cheese",
-      "answer": "GRATER",
-      "row": 2,
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat container with a handle, used with a broom to collect dirt",
+      "answer": "DUSTPAN",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
+      "row": 3,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Spinning tool used to make holes in wood or walls",
-      "answer": "DRILL",
-      "row": 0,
+      "clue": "A sudden, brief storm with strong winds and often rain or snow",
+      "answer": "SQUALL",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who leads and assists groups of tourists",
+      "answer": "GUIDE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "An unmanned spacecraft sent to explore and gather information in space",
+      "answer": "PROBE",
+      "row": 10,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The action of pressing and releasing a mouse button",
+      "answer": "CLICK",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A fraction where the numerator equals the denominator, representing one whole",
+      "answer": "UNITY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 8,
+      "col": 2,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 12,
   "targetWords": 18,
-  "difficulty": "hard"
+  "difficulty": "medium"
 }

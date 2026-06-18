@@ -4,66 +4,73 @@
   "title": "2026-10-20",
   "words": [
     {
-      "clue": "Protective glass or plastic building used to grow plants indoors",
-      "answer": "GREENHOUSE",
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
       "row": 5,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Sport where you throw and catch an orange ball through a hoop",
-      "answer": "BASKETBALL",
+      "clue": "The passing of genetic traits from parents to offspring",
+      "answer": "HEREDITY",
       "row": 3,
-      "col": 8,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Feeling suddenly shocked by unexpected news",
-      "answer": "SURPRISED",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The region of space from which nothing can escape",
-      "answer": "BLACKHOLE",
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
       "row": 0,
-      "col": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Organ that turns food into nutrients your body uses",
-      "answer": "STOMACH",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Underground room below a house sometimes used for storage",
-      "answer": "CELLAR",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling scared of something",
-      "answer": "AFRAID",
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
       "row": 2,
-      "col": 5,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Neat row of low bushes forming a border or boundary",
-      "answer": "HEDGE",
-      "row": 4,
+      "clue": "The front part of your neck that contains your voice box",
+      "answer": "THROAT",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The hard center of the Earth",
-      "answer": "CORE",
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A short stick passed from one runner to the next in a relay race",
+      "answer": "BATON",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling in need of rest or sleep",
+      "answer": "TIRED",
+      "row": 7,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
       "row": 9,
-      "col": 6,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain that is often rolled or ground and used to make porridge",
+      "answer": "OATS",
+      "row": 7,
+      "col": 1,
       "direction": "down"
     }
   ],

@@ -4,45 +4,66 @@
   "title": "2027-06-06",
   "words": [
     {
-      "clue": "Wooden block used to store and organize kitchen knives",
-      "answer": "KNIFEBLOCK",
-      "row": 1,
-      "col": 0,
+      "clue": "A race where each competitor tries to complete a course in the shortest time",
+      "answer": "TIMETRIAL",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small pig-shaped container children save coins in",
-      "answer": "PIGGYBANK",
-      "row": 0,
-      "col": 2,
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Small book where you write notes",
-      "answer": "NOTEBOOK",
+      "clue": "A group of living organisms that can reproduce with each other",
+      "answer": "SPECIES",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The country that has London as its capital city",
-      "answer": "ENGLAND",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Large box or trunk used to store blankets and items",
-      "answer": "CHEST",
-      "row": 3,
-      "col": 5,
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 2,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Teacher writes on this at the front of the class",
-      "answer": "BOARD",
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A scientist who studies chemicals and their reactions",
+      "answer": "CHEMIST",
       "row": 5,
-      "col": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Data storage that is accessed over the internet rather than locally",
+      "answer": "CLOUD",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A round percussion instrument with a skin stretched over it, played with sticks",
+      "answer": "DRUM",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     }
   ],

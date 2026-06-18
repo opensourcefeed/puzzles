@@ -4,63 +4,56 @@
   "title": "Level 31",
   "words": [
     {
-      "clue": "Book with words and their meanings",
-      "answer": "DICTIONARY",
+      "clue": "A scientist who specializes in the study of plants",
+      "answer": "BOTANIST",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat container with a handle, used with a broom to collect dirt",
+      "answer": "DUSTPAN",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling worried, nervous, or uneasy about something",
+      "answer": "ANXIOUS",
       "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A part of a song that is repeated after each verse",
+      "answer": "CHORUS",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that grows, flowers, and dies within a single year",
+      "answer": "ANNUAL",
+      "row": 4,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Sport where you throw and catch an orange ball through a hoop",
-      "answer": "BASKETBALL",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny floating organisms that form the base of the ocean food chain",
-      "answer": "PLANKTON",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The process of a planet spinning on its center line",
-      "answer": "ROTATION",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Turning around and around on a central point",
-      "answer": "ROTATION",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The time of day just after you wake up",
-      "answer": "MORNING",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Vast flat open grassland in Africa",
-      "answer": "SAVANNA",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Mountain with a hole at the top that can erupt",
-      "answer": "VOLCANO",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 7,
   "targetWords": 9,
   "difficulty": "medium"
 }

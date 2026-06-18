@@ -4,56 +4,63 @@
   "title": "Level 23",
   "words": [
     {
-      "clue": "The largest ocean in the world between Asia and America",
-      "answer": "PACIFIC",
-      "row": 6,
-      "col": 1,
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Mountain with a hole at the top that can erupt",
-      "answer": "VOLCANO",
-      "row": 3,
-      "col": 3,
+      "clue": "A light, bright blue color like the sky on a clear day",
+      "answer": "SKYBLUE",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The booming sound you hear after lightning",
-      "answer": "THUNDER",
-      "row": 8,
+      "clue": "A polygon where all sides and all angles are equal",
+      "answer": "REGULAR",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A very intelligent and playful ocean mammal",
+      "answer": "DOLPHIN",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Very dark red like dried blood",
-      "answer": "MAROON",
-      "row": 4,
-      "col": 0,
+      "clue": "The amount of three-dimensional space occupied by a solid object",
+      "answer": "VOLUME",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Small piece of land surrounded by water",
-      "answer": "ISLAND",
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
       "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of fresh snow, milk, and paper",
+      "answer": "WHITE",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Brown vegetable that grows underground and is often fried",
-      "answer": "POTATO",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint at the bottom of your hand connecting to your arm",
-      "answer": "WRIST",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
+      "clue": "A large bowl or sink used for washing",
+      "answer": "BASIN",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 8,
   "targetWords": 8,
   "difficulty": "easy"
 }

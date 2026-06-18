@@ -4,66 +4,73 @@
   "title": "2026-11-22",
   "words": [
     {
-      "clue": "Large building where goods are stored",
-      "answer": "WAREHOUSE",
-      "row": 5,
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "All the bones that support your body together",
-      "answer": "SKELETON",
-      "row": 5,
-      "col": 7,
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Animal with a bushy tail that collects nuts",
-      "answer": "SQUIRREL",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Organ that filters waste from your blood to make urine",
-      "answer": "KIDNEY",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Hindu festival of lights celebrated in autumn",
-      "answer": "DIWALI",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The words written in a song",
-      "answer": "LYRICS",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The dark time after sunset when you sleep",
-      "answer": "NIGHT",
-      "row": 3,
+      "clue": "A leafy green vegetable commonly used as a base for salads",
+      "answer": "LETTUCE",
+      "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Reddish orange color like a sunset",
-      "answer": "CORAL",
-      "row": 0,
-      "col": 3,
+      "clue": "A deep, rich purple color, like the flower",
+      "answer": "VIOLET",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Curved tool used to eat soup or stir drinks",
-      "answer": "SPOON",
-      "row": 11,
-      "col": 5,
+      "clue": "A small, lockable storage compartment for personal belongings at school",
+      "answer": "LOCKER",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A grain that is often rolled or ground and used to make porridge",
+      "answer": "OATS",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of matter contained in an object",
+      "answer": "MASS",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The natural satellite that orbits Earth and reflects the Sun's light",
+      "answer": "MOON",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     }
   ],

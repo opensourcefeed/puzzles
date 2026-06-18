@@ -4,63 +4,70 @@
   "title": "Level 39",
   "words": [
     {
-      "clue": "Wireless technology used to connect devices over short distances",
-      "answer": "BLUETOOTH",
-      "row": 4,
-      "col": 3,
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Light purple color of a lavender flower",
-      "answer": "LAVENDER",
-      "row": 4,
-      "col": 4,
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "European country with the city of Berlin",
-      "answer": "GERMANY",
-      "row": 3,
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "How much matter is packed into an object",
-      "answer": "DENSITY",
-      "row": 10,
-      "col": 3,
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Small stringed instrument you play with a bow",
-      "answer": "VIOLIN",
-      "row": 2,
-      "col": 8,
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
+      "row": 6,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Lightweight aircraft with one small engine",
-      "answer": "GLIDER",
-      "row": 7,
+      "clue": "Finding something funny or entertaining",
+      "answer": "AMUSED",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling safe, protected, and free from worry",
+      "answer": "SECURE",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
+      "answer": "POTATO",
+      "row": 0,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Shorts worn for swimming at the pool or beach",
-      "answer": "TRUNKS",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The line where land meets the sea",
-      "answer": "COAST",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 9,
   "targetWords": 10,
   "difficulty": "medium"
 }

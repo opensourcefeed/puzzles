@@ -4,52 +4,66 @@
   "title": "2027-02-11",
   "words": [
     {
-      "clue": "Country of kangaroos, koalas and the outback",
-      "answer": "AUSTRALIA",
-      "row": 2,
+      "clue": "A pair of speakers worn over the ears for listening to audio",
+      "answer": "HEADPHONES",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A large group of musicians playing instruments together",
-      "answer": "ORCHESTRA",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful arc of light in the sky after rain",
-      "answer": "RAINBOW",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "An unwanted reaction your body has to a food or substance",
-      "answer": "ALLERGY",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The seventh planet from the sun which spins on its side",
-      "answer": "URANUS",
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
       "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Sport played with a racket and a small yellow ball",
-      "answer": "TENNIS",
-      "row": 7,
-      "col": 5,
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "PITCHER",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Cooked meat in a round bun",
-      "answer": "BURGER",
-      "row": 8,
+      "clue": "The place where a river or stream begins its journey",
+      "answer": "SOURCE",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of propelling a boat using oars",
+      "answer": "ROWING",
+      "row": 6,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A tray on a desk used to hold incoming papers or documents",
+      "answer": "INBOX",
+      "row": 6,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
+      "answer": "MEDAL",
+      "row": 2,
+      "col": 6,
       "direction": "across"
     }
   ],

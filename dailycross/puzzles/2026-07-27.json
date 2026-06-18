@@ -4,60 +4,74 @@
   "title": "2026-07-27",
   "words": [
     {
-      "clue": "Small table beside your bed for a lamp or glass of water",
-      "answer": "NIGHTSTAND",
-      "row": 4,
-      "col": 0,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Creamy dip made from mashed avocado",
-      "answer": "GUACAMOLE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "What you must eat to keep your body working properly",
-      "answer": "NUTRITION",
-      "row": 2,
+      "clue": "An organ behind the stomach that produces insulin",
+      "answer": "PANCREAS",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Light purple color of a lavender flower",
-      "answer": "LAVENDER",
-      "row": 0,
-      "col": 0,
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Tree vegetable that looks like tiny green trees",
-      "answer": "BROCCOLI",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "Large orange ocean crustacean with big claws",
-      "answer": "LOBSTER",
-      "row": 0,
+      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
+      "answer": "TSUNAMI",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Screen attached to a computer that shows you what is happening",
-      "answer": "MONITOR",
+      "clue": "A card with a student's name and photo used for identification",
+      "answer": "IDCARD",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
       "row": 3,
-      "col": 10,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A hot dry region with very little rainfall and few plants",
-      "answer": "DESERT",
-      "row": 10,
-      "col": 6,
+      "clue": "An unmanned spacecraft sent to explore and gather information in space",
+      "answer": "PROBE",
+      "row": 4,
+      "col": 10,
       "direction": "across"
+    },
+    {
+      "clue": "The third planet from the Sun, our home planet",
+      "answer": "EARTH",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant tissue that transports water and minerals from roots upward",
+      "answer": "XYLEM",
+      "row": 1,
+      "col": 14,
+      "direction": "down"
     }
   ],
   "dayNumber": 45

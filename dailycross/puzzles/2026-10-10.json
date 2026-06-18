@@ -4,60 +4,74 @@
   "title": "2026-10-10",
   "words": [
     {
-      "clue": "A plastic card used to buy things now and pay later",
-      "answer": "CREDITCARD",
-      "row": 3,
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Largest archipelago country in Southeast Asia",
-      "answer": "INDONESIA",
-      "row": 1,
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The day that came before today",
-      "answer": "YESTERDAY",
-      "row": 0,
+      "clue": "Feeling sure of oneself and one's abilities",
+      "answer": "CONFIDENT",
+      "row": 6,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Box used to carry a packed lunch to school",
-      "answer": "LUNCHBOX",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
+      "clue": "The result obtained by multiplying two or more numbers together",
+      "answer": "PRODUCT",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "Color made by mixing red and blue",
-      "answer": "PURPLE",
-      "row": 1,
+      "clue": "The scientific study of matter, energy, and their interactions",
+      "answer": "PHYSICS",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A narrow stretch of water connecting two larger bodies of water",
-      "answer": "STRAIT",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A ring-shaped coral island with a lagoon in the middle",
-      "answer": "ATOLL",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Color of ash and storm clouds",
-      "answer": "GRAY",
-      "row": 5,
+      "clue": "The part of a flower's stamen that produces and holds pollen",
+      "answer": "ANTHER",
+      "row": 13,
       "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "answer": "CANYON",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round solid shape where every point on its surface is the same distance from its center",
+      "answer": "SPHERE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of three-dimensional space an object occupies",
+      "answer": "VOLUME",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 120

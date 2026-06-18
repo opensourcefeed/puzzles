@@ -4,45 +4,73 @@
   "title": "2026-06-20",
   "words": [
     {
-      "clue": "Two-wheeled vehicle you pedal with your feet",
-      "answer": "BICYCLE",
+      "clue": "The result obtained by subtracting one number from another",
+      "answer": "DIFFERENCE",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Animal with a shell that moves very slowly",
-      "answer": "TURTLE",
-      "row": 2,
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Heavy headed tool used to bang nails into wood",
-      "answer": "HAMMER",
+      "clue": "A large, colorful bird that cannot fly and lives in rainforests",
+      "answer": "CASSOWARY",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round flat shape with no corners or edges",
+      "answer": "CIRCLE",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of three-dimensional space an object occupies",
+      "answer": "VOLUME",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A safe building where you keep and save your money",
-      "answer": "BANK",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Money you owe to someone else that you must pay back",
-      "answer": "DEBT",
-      "row": 2,
-      "col": 2,
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Large plant with a wooden trunk and branches",
-      "answer": "TREE",
+      "clue": "A large area of flat land with few trees",
+      "answer": "PLAIN",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
       "row": 0,
-      "col": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A thin cloud of tiny water droplets very close to the ground",
+      "answer": "MIST",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     }
   ],

@@ -4,112 +4,119 @@
   "title": "Level 89",
   "words": [
     {
-      "clue": "Moving staircase found in malls and airports",
-      "answer": "ESCALATOR",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Round abrasive paper used to smooth rough wood",
-      "answer": "SANDPAPER",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Padded glove used to hold hot pots from the oven",
-      "answer": "OVENMITT",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Pink wading bird that stands on one leg",
-      "answer": "FLAMINGO",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The eleventh month of the year",
-      "answer": "NOVEMBER",
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
       "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
+      "row": 4,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A young person between thirteen and nineteen years old",
-      "answer": "TEENAGER",
-      "row": 3,
-      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Day honoring civil rights leader Martin Luther King Jr",
-      "answer": "MLKDAY",
-      "row": 0,
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 9,
       "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of people all related to each other",
-      "answer": "FAMILY",
-      "row": 0,
-      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Fine yellow powder made by flowers to make seeds",
-      "answer": "POLLEN",
-      "row": 2,
+      "clue": "The loud sound that follows a flash of lightning",
+      "answer": "THUNDER",
+      "row": 6,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The ocean around the North Pole",
-      "answer": "ARCTIC",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Small flow of water moving across land",
-      "answer": "STREAM",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Small egg-shaped instrument you shake to make sound",
-      "answer": "MARACA",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Shop where fresh bread and pastries are made and sold",
-      "answer": "BAKERY",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A low wet land often covered with water",
-      "answer": "SWAMP",
-      "row": 4,
+      "clue": "A colorful bird that can copy human speech and other sounds",
+      "answer": "PARROT",
+      "row": 6,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Electric tool with beaters used to mix cake batter",
-      "answer": "MIXER",
+      "clue": "A bird that was historically used to carry messages",
+      "answer": "PIGEON",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of grass, leaves, and many plants",
+      "answer": "GREEN",
       "row": 11,
-      "col": 2,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A black and white bear that eats bamboo",
+      "answer": "PANDA",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint in the middle of your arm that allows it to bend",
+      "answer": "ELBOW",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "To find and fix errors in a computer program",
+      "answer": "DEBUG",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
+      "answer": "BROOM",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing strong displeasure about something unfair",
+      "answer": "ANGRY",
+      "row": 2,
+      "col": 7,
       "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 16,
   "targetWords": 17,
   "difficulty": "medium"
 }

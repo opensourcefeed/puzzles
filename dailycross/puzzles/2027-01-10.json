@@ -4,67 +4,74 @@
   "title": "2027-01-10",
   "words": [
     {
-      "clue": "The day that comes after today",
-      "answer": "TOMORROW",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Brass instrument with a long slide that goes in and out",
-      "answer": "TROMBONE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried that something bad will happen",
-      "answer": "ANXIOUS",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The five thin parts at the end of your hand",
-      "answer": "FINGERS",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Open shoe worn in summer",
-      "answer": "SANDALS",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Small flow of water moving across land",
-      "answer": "STREAM",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Shaking from feeling very cold or being very scared",
-      "answer": "SHIVER",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling full of happiness and smiling a lot",
-      "answer": "HAPPY",
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The large organ that covers your whole body",
-      "answer": "SKIN",
-      "row": 4,
+      "clue": "An angle that measures exactly 90 degrees",
+      "answer": "RIGHTANGLE",
+      "row": 2,
       "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of moisture or water vapor present in the air",
+      "answer": "HUMIDITY",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of fast; moving at a low speed",
+      "answer": "SLOW",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 212

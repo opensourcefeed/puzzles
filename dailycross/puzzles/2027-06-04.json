@@ -4,59 +4,73 @@
   "title": "2027-06-04",
   "words": [
     {
-      "clue": "Long vehicle used to transport many children to school",
-      "answer": "SCHOOLBUS",
+      "clue": "A series of games or contests with several rounds to find a winner",
+      "answer": "TOURNAMENT",
       "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who organizes and manages books in a library",
-      "answer": "LIBRARIAN",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Large gray animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Small furry animal that carries babies in a pouch",
-      "answer": "OPOSSUM",
-      "row": 4,
-      "col": 4,
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A piece of land completely surrounded by water",
-      "answer": "ISLAND",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Thin layer of ice on roads and surfaces on cold mornings",
-      "answer": "FROST",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Very strong wind that can damage trees and buildings",
-      "answer": "GALE",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Physical money in the form of coins and notes",
-      "answer": "CASH",
-      "row": 0,
+      "clue": "An electronic device that processes data and runs programs",
+      "answer": "COMPUTER",
+      "row": 2,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of land that is completely surrounded by water",
+      "answer": "ISLAND",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The basic unit of time in music that you tap your foot to",
+      "answer": "BEAT",
+      "row": 5,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A light reddish color, like bubblegum or cotton candy",
+      "answer": "PINK",
+      "row": 6,
+      "col": 5,
       "direction": "down"
     }
   ],

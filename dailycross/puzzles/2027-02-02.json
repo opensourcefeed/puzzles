@@ -4,66 +4,73 @@
   "title": "2027-02-02",
   "words": [
     {
-      "clue": "A rock from space that falls and hits Earth",
-      "answer": "METEORITE",
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
       "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The joint where your arm meets your body",
-      "answer": "SHOULDER",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Rolled tortilla filled with rice and beans",
-      "answer": "BURRITO",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Oslo and fjords",
-      "answer": "NORWAY",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Sweet liquid that flowers make to attract bees",
-      "answer": "NECTAR",
+      "clue": "A person who works in a library and helps people find books",
+      "answer": "LIBRARIAN",
       "row": 3,
-      "col": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Long yellow curved fruit",
-      "answer": "BANANA",
-      "row": 0,
+      "clue": "A mathematical statement that two expressions are equal",
+      "answer": "EQUATION",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The state of the atmosphere at a particular time and place",
+      "answer": "WEATHER",
+      "row": 7,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Country with the Great Wall and the Forbidden City",
-      "answer": "CHINA",
-      "row": 2,
-      "col": 11,
+      "clue": "The phase of the Moon when it is not visible from Earth",
+      "answer": "NEWMOON",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The curved path a planet takes around the sun",
-      "answer": "ORBIT",
-      "row": 9,
-      "col": 5,
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "This is the current day you are living right now",
-      "answer": "TODAY",
-      "row": 7,
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 6,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who bakes bread, cakes, and other baked goods",
+      "answer": "BAKER",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A specific characteristic that is passed from parents to offspring",
+      "answer": "TRAIT",
+      "row": 10,
+      "col": 5,
       "direction": "across"
     }
   ],

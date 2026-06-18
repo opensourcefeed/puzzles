@@ -4,59 +4,66 @@
   "title": "2026-09-18",
   "words": [
     {
-      "clue": "Small red fruit eaten on cakes and ice cream",
-      "answer": "STRAWBERRY",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who builds and repairs things using wood",
-      "answer": "CARPENTER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A curved shape like a banana or the moon",
-      "answer": "CRESCENT",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny air sacs inside the lungs where gas exchange happens",
-      "answer": "ALVEOLI",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The celebration ceremony when two people get married",
-      "answer": "WEDDING",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who manages the money and accounts at a bank",
-      "answer": "BANKER",
+      "clue": "A person whose job is to drive a bus",
+      "answer": "BUSDRIVER",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sweet round red or yellow vegetable used in salads",
-      "answer": "PEPPER",
-      "row": 3,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who makes and repairs wooden objects and furniture",
+      "answer": "CARPENTER",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The number above the line in a fraction, showing how many parts are taken",
+      "answer": "NUMERATOR",
+      "row": 11,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Lazy animal that hangs from trees in South America",
-      "answer": "SLOTH",
-      "row": 4,
-      "col": 6,
+      "clue": "A point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 9,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "One of the three main forms that matter can take",
+      "answer": "STATE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet, sticky food made by bees from flower nectar",
+      "answer": "HONEY",
+      "row": 9,
+      "col": 2,
       "direction": "down"
     }
   ],

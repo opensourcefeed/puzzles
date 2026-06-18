@@ -4,74 +4,67 @@
   "title": "2026-10-25",
   "words": [
     {
-      "clue": "Island country known for kiwi birds and rugby",
-      "answer": "NEWZEALAND",
+      "clue": "The ability to continue a physical activity for a long time",
+      "answer": "ENDURANCE",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Holiday on October 31 when children wear costumes",
-      "answer": "HALLOWEEN",
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
       "row": 4,
-      "col": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Where a computer saves all its files and programs",
-      "answer": "HARDDRIVE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Extra money you must pay when you borrow from a bank",
-      "answer": "INTEREST",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where you park your vehicle",
-      "answer": "GARAGE",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Country famous for the Eiffel Tower and croissants",
-      "answer": "FRANCE",
+      "clue": "A scientist who studies living organisms and their life processes",
+      "answer": "BIOLOGIST",
       "row": 10,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Person who cuts and styles men's hair",
-      "answer": "BARBER",
-      "row": 1,
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A huge collection of billions of stars in space",
-      "answer": "GALAXY",
-      "row": 2,
-      "col": 0,
+      "clue": "An underground layer of rock that holds and transmits water",
+      "answer": "AQUIFER",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that runs on metal rails and carries passengers",
-      "answer": "TRAIN",
-      "row": 6,
-      "col": 3,
+      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
+      "answer": "NEPTUNE",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Soft orange fruit with a stone inside",
-      "answer": "PEACH",
+      "clue": "A device that converts paper documents into digital images",
+      "answer": "SCANNER",
       "row": 0,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 4,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Data storage that is accessed over the internet rather than locally",
+      "answer": "CLOUD",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 135

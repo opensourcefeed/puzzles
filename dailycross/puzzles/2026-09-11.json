@@ -4,73 +4,66 @@
   "title": "2026-09-11",
   "words": [
     {
-      "clue": "A large concert hall where orchestras perform",
-      "answer": "AUDITORIUM",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape with many sides, more than eight",
-      "answer": "POLYGON",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Loud boom you hear after lightning",
-      "answer": "THUNDER",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest and closest planet to the sun",
-      "answer": "MERCURY",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A baby bird that has just hatched from an egg",
-      "answer": "CHICK",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You hold things and wave with these",
-      "answer": "HANDS",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Herb with a strong smell used on pizza",
-      "answer": "BASIL",
-      "row": 5,
+      "clue": "A bright, vivid greenish-yellow color named after a liqueur",
+      "answer": "CHARTREUSE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The color of fresh cut grass",
-      "answer": "GREEN",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Storage space directly under the roof of a house",
-      "answer": "ATTIC",
-      "row": 0,
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 4,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A digital container for organizing files on a computer",
+      "answer": "FOLDER",
+      "row": 6,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Very large boat that carries people or cargo across oceans",
-      "answer": "SHIP",
-      "row": 5,
+      "clue": "A clickable element on a screen that triggers an action",
+      "answer": "BUTTON",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The front part of your neck that contains your voice box",
+      "answer": "THROAT",
+      "row": 0,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, pale yellow color, like the dairy product",
+      "answer": "BUTTER",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Music that is sung without instrumental accompaniment",
+      "answer": "VOCAL",
+      "row": 2,
+      "col": 0,
       "direction": "down"
     }
   ],

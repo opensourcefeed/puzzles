@@ -4,98 +4,112 @@
   "title": "Level 98",
   "words": [
     {
-      "clue": "Balls, ropes and hoops used in PE class",
-      "answer": "EQUIPMENT",
+      "clue": "A liquid fuel made from petroleum, used in most cars",
+      "answer": "GASOLINE",
       "row": 7,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The most northerly point of Earth",
-      "answer": "NORTHPOLE",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Holiday on December 25 when gifts are exchanged",
-      "answer": "CHRISTMAS",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
-      "answer": "VITAMINC",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you hit a white ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape like a can or tube",
-      "answer": "CYLINDER",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Dark green leafy vegetable rich in iron",
-      "answer": "SPINACH",
-      "row": 12,
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 7,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
+      "answer": "AIRPLANE",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with straight sides that form corners",
+      "answer": "POLYGON",
+      "row": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Country in West Africa with the city of Lagos",
-      "answer": "NIGERIA",
-      "row": 2,
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Helsinki",
-      "answer": "FINLAND",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A device worn on your face to help you see clearly",
-      "answer": "GLASSES",
-      "row": 0,
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 1,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Bird with colorful tail feathers",
-      "answer": "PEACOCK",
-      "row": 7,
+      "clue": "Feeling embarrassed or guilty about something",
+      "answer": "ASHAMED",
+      "row": 13,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A regular, repeated pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 9,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The ocean found around the continent of India",
-      "answer": "INDIAN",
-      "row": 2,
-      "col": 1,
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A very large body of salt water that covers most of Earth's surface",
+      "answer": "OCEAN",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A number that has exactly two different factors: itself and 1",
+      "answer": "PRIME",
+      "row": 9,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright, vivid yellow-green color like the fruit",
+      "answer": "LIME",
+      "row": 11,
+      "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 15,
   "targetWords": 18,
-  "difficulty": "hard"
+  "difficulty": "medium"
 }

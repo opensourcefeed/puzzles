@@ -4,126 +4,119 @@
   "title": "Level 135",
   "words": [
     {
-      "clue": "Building where you go to eat a meal prepared by a chef",
-      "answer": "RESTAURANT",
+      "clue": "A vehicle with skis and tracks designed for traveling on snow",
+      "answer": "SNOWMOBILE",
       "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Light fitting that hangs from the ceiling",
-      "answer": "CHANDELIER",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The head of a school",
-      "answer": "PRINCIPAL",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who does experiments to learn how the world works",
-      "answer": "SCIENTIST",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that puts out fires with water",
-      "answer": "FIRETRUCK",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling strong and full of energy",
-      "answer": "ENERGETIC",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with eight sides like a stop sign",
-      "answer": "OCTAGON",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Machine with spinning blades used to blend smoothies and soups",
-      "answer": "BLENDER",
-      "row": 14,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge slow moving mass of ice found in cold regions",
-      "answer": "GLACIER",
-      "row": 14,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Island country in East Asia known for technology and night markets",
-      "answer": "TAIWAN",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Small purple or blue wildflower found in meadows",
-      "answer": "VIOLET",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Soft square used to wipe and clean surfaces and dishes",
-      "answer": "SPONGE",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Eggs beaten and cooked flat in a pan",
-      "answer": "OMELET",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The colorful part of a plant that attracts bees and butterflies",
-      "answer": "PETAL",
-      "row": 12,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on your feet to protect them outside",
-      "answer": "SHOES",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Small bag carried by women to hold their belongings",
-      "answer": "PURSE",
-      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Small device that counts down while food is cooking",
-      "answer": "TIMER",
+      "clue": "A powerful explosion of a star at the end of its life cycle",
+      "answer": "SUPERNOVA",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A symbol, usually a letter, that represents an unknown number",
+      "answer": "VARIABLE",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A triangle with all three sides of different lengths",
+      "answer": "SCALENE",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of living organisms that can reproduce with each other",
+      "answer": "SPECIES",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The scientific study of living organisms and their life processes",
+      "answer": "BIOLOGY",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with six straight sides and six angles",
+      "answer": "HEXAGON",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, red fruit often used in salads and sauces",
+      "answer": "TOMATO",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A region of a circle bounded by two radii and the arc between them",
+      "answer": "SECTOR",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
       "row": 0,
-      "col": 9,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A long legless reptile that sheds its skin as it grows",
+      "answer": "SNAKE",
+      "row": 10,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
+      "row": 14,
+      "col": 6,
       "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 16,
   "targetWords": 23,
   "difficulty": "hard"
 }

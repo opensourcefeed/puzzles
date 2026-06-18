@@ -4,67 +4,74 @@
   "title": "2026-06-14",
   "words": [
     {
-      "clue": "Vehicle police officers drive",
-      "answer": "POLICECAR",
+      "clue": "The movement of one object around another in an orbital path",
+      "answer": "REVOLUTION",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A substance that speeds up a chemical reaction",
-      "answer": "CATALYST",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The outer coat of a seed that protects it",
-      "answer": "SEEDCOAT",
-      "row": 0,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "European country with the city of Athens",
-      "answer": "GREECE",
+      "clue": "An underground layer of rock that holds and transmits water",
+      "answer": "AQUIFER",
       "row": 2,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A shallow wound on the skin from scraping against something rough",
-      "answer": "SCRAPE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "East African country with the city of Nairobi and safaris",
-      "answer": "KENYA",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Our group of planets, moons, and sun together",
-      "answer": "SOLAR",
-      "row": 3,
+      "clue": "A person who is trained in or good at sports",
+      "answer": "ATHLETE",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Body of water surrounded by land",
-      "answer": "LAKE",
-      "row": 6,
+      "clue": "The natural environment where an organism lives and grows",
+      "answer": "HABITAT",
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Farm building where cows and hay are kept",
-      "answer": "BARN",
+      "clue": "A person who operates and controls a vehicle",
+      "answer": "DRIVER",
       "row": 6,
-      "col": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A figure formed by two rays sharing a common endpoint",
+      "answer": "ANGLE",
+      "row": 0,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Weather that is bright and free of clouds or rain",
+      "answer": "CLEAR",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather with strong or gusty winds",
+      "answer": "WINDY",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A musical term meaning to play loudly",
+      "answer": "FORTE",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 2

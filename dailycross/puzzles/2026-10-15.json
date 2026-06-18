@@ -4,60 +4,74 @@
   "title": "2026-10-15",
   "words": [
     {
-      "clue": "A large area of land belonging to one country",
-      "answer": "TERRITORY",
-      "row": 5,
+      "clue": "The process by which plants use sunlight to make their own food",
+      "answer": "PHOTOSYNTH",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who designs buildings and plans how they will be built",
-      "answer": "ARCHITECT",
-      "row": 4,
-      "col": 3,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Person who studies rocks and the history of the Earth",
-      "answer": "GEOLOGIST",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Building with tanks where you can see fish and sea creatures",
-      "answer": "AQUARIUM",
-      "row": 1,
+      "clue": "The ability to continue a physical activity for a long time",
+      "answer": "ENDURANCE",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "All the bones that support your body together",
-      "answer": "SKELETON",
-      "row": 0,
-      "col": 5,
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Large arena where sports teams play matches",
-      "answer": "STADIUM",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A device worn on your face to help you see clearly",
-      "answer": "GLASSES",
+      "clue": "A powerful vehicle used on farms for pulling machinery and heavy loads",
+      "answer": "TRACTOR",
       "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A tropical fruit with orange flesh and a cluster of black seeds",
+      "answer": "PAPAYA",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling like you want company because you have no one to talk to",
-      "answer": "LONELY",
-      "row": 3,
-      "col": 1,
+      "clue": "The finger next to your little finger, often where a ring is worn",
+      "answer": "RING",
+      "row": 9,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "Drops of water that fall from clouds to the ground",
+      "answer": "RAIN",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant with many woody stems",
+      "answer": "BUSH",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 125

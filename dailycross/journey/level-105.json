@@ -4,105 +4,112 @@
   "title": "Level 105",
   "words": [
     {
-      "clue": "Handheld device used to measure electrical current",
-      "answer": "MULTIMETER",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Small table beside your bed for a lamp or glass of water",
-      "answer": "NIGHTSTAND",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Flash of electricity in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Box that takes people up and down in a building",
-      "answer": "ELEVATOR",
-      "row": 8,
+      "clue": "A folder on a computer where deleted files are temporarily stored",
+      "answer": "RECYCLEBIN",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Two or more atoms joined together",
-      "answer": "MOLECULE",
-      "row": 1,
+      "clue": "A flat shape with eleven straight sides and eleven angles",
+      "answer": "HENDECAGON",
+      "row": 3,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A truck with an open bed that can be tilted to dump its load",
+      "answer": "DUMPTRUCK",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 12,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The eighth and farthest planet from the sun",
-      "answer": "NEPTUNE",
-      "row": 1,
+      "clue": "A person who conducts scientific research in a laboratory",
+      "answer": "SCIENTIST",
+      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Spicy root used in Asian cooking",
-      "answer": "GINGER",
-      "row": 3,
-      "col": 6,
+      "clue": "A number that has more than two factors",
+      "answer": "COMPOSITE",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The season when leaves turn red and fall from trees",
-      "answer": "AUTUMN",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Oslo and fjords",
-      "answer": "NORWAY",
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
       "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that removes waste from the blood to make urine",
-      "answer": "KIDNEY",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Country famous for the Eiffel Tower and croissants",
-      "answer": "FRANCE",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Money given back to you when you return something to a shop",
-      "answer": "REFUND",
-      "row": 5,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Two children born at the same time to the same mother",
-      "answer": "TWINS",
-      "row": 1,
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of gliding on ice using ice skates",
+      "answer": "SKATING",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A symbol on a screen that shows where the mouse is pointing",
+      "answer": "CURSOR",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable device with a touch screen, larger than a phone",
+      "answer": "TABLET",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of fresh snow, milk, and paper",
+      "answer": "WHITE",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large boat that carries vehicles across water",
-      "answer": "FERRY",
-      "row": 0,
-      "col": 14,
-      "direction": "down"
+      "clue": "Feeling or showing strong displeasure about something unfair",
+      "answer": "ANGRY",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A solid shape with two parallel, identical polygonal bases and rectangular faces",
+      "answer": "PRISM",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 19,
   "difficulty": "hard"
 }

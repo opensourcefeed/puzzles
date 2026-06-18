@@ -4,98 +4,98 @@
   "title": "Level 93",
   "words": [
     {
-      "clue": "Wooden block used to store and organize kitchen knives",
-      "answer": "KNIFEBLOCK",
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
       "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Sport where you hit a shuttlecock with a racket",
-      "answer": "BADMINTON",
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
       "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Subject where you learn about countries and maps",
-      "answer": "GEOGRAPHY",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Brown sweet powder used in desserts",
-      "answer": "CHOCOLATE",
+      "clue": "An animal that eats both plants and other animals",
+      "answer": "OMNIVORE",
       "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The person who makes sure rules are followed in a game",
-      "answer": "REFEREE",
-      "row": 12,
-      "col": 7,
+      "clue": "A polygon where all sides and all angles are equal",
+      "answer": "REGULAR",
+      "row": 10,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
       "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large, flat dish used for serving food",
+      "answer": "PLATTER",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "European country with the city of Warsaw",
-      "answer": "POLAND",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where students go to learn every day",
-      "answer": "SCHOOL",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that lifts off straight up with rocket engines",
+      "clue": "A vehicle powered by engines that can travel into space",
       "answer": "ROCKET",
-      "row": 8,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Covered area attached to a house where you park your car",
-      "answer": "GARAGE",
-      "row": 7,
+      "row": 3,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The last day of the weekend",
-      "answer": "SUNDAY",
-      "row": 10,
-      "col": 1,
+      "clue": "The color of a ripe banana or the sun",
+      "answer": "YELLOW",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather during which snow is falling",
+      "answer": "SNOWY",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Color made by mixing red and blue",
-      "answer": "PURPLE",
+      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
+      "answer": "SPOON",
       "row": 0,
-      "col": 12,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Cloth worn over clothes to keep them clean while cooking",
-      "answer": "APRON",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
+      "clue": "A plant that grows in water with flat leaves that float on the surface",
+      "answer": "LILY",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "wordCount": 13,
   "targetWords": 17,
-  "difficulty": "hard"
+  "difficulty": "medium"
 }

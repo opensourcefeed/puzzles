@@ -4,91 +4,77 @@
   "title": "Level 101",
   "words": [
     {
-      "clue": "Very tall building found in city centers",
-      "answer": "SKYSCRAPER",
-      "row": 7,
-      "col": 0,
+      "clue": "A small, portable storage device that plugs into a USB port",
+      "answer": "FLASHDRIVE",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Room where you do science experiments",
-      "answer": "LABORATORY",
-      "row": 3,
-      "col": 5,
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A large concert hall where orchestras perform",
-      "answer": "AUDITORIUM",
-      "row": 9,
-      "col": 1,
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A number that has more than two factors",
+      "answer": "COMPOSITE",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Person who builds and repairs things using wood",
-      "answer": "CARPENTER",
-      "row": 4,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 11,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The ninth month of the year",
-      "answer": "SEPTEMBER",
-      "row": 0,
-      "col": 8,
+      "clue": "An ordered list of numbers or objects that follows a specific rule",
+      "answer": "SEQUENCE",
+      "row": 3,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Small blue round fruit used in muffins",
-      "answer": "BLUEBERRY",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who catches fish as their job",
-      "answer": "FISHERMAN",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The process of a planet spinning on its center line",
-      "answer": "ROTATION",
-      "row": 11,
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The seventh planet from the sun which spins on its side",
-      "answer": "URANUS",
+      "clue": "A large system of winds rotating around a center of low pressure",
+      "answer": "CYCLONE",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A short green plant that covers lawns and fields",
+      "answer": "GRASS",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The colorful part of many flowers",
+      "answer": "PETAL",
       "row": 9,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Round orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Your parent's brother",
-      "answer": "UNCLE",
-      "row": 13,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The long part of your body between your head and hips",
-      "answer": "TORSO",
-      "row": 4,
-      "col": 3,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 10,
   "targetWords": 18,
   "difficulty": "hard"
 }

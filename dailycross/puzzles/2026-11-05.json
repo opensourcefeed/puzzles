@@ -4,59 +4,66 @@
   "title": "2026-11-05",
   "words": [
     {
-      "clue": "Holiday on October 31 when children wear costumes",
-      "answer": "HALLOWEEN",
-      "row": 4,
+      "clue": "A scientist who specializes in the study of plants",
+      "answer": "BOTANIST",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tall yellow flower that grows facing the sun",
-      "answer": "SUNFLOWER",
-      "row": 0,
-      "col": 3,
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A vehicle with a powerful engine used to launch into space",
-      "answer": "ROCKET",
+      "clue": "A prediction or estimate of future weather conditions",
+      "answer": "FORECAST",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The largest planet in our solar system, known for its Great Red Spot",
+      "answer": "JUPITER",
       "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The last day of the weekend",
-      "answer": "SUNDAY",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Wide flat tool used to dig and move snow or earth",
-      "answer": "SHOVEL",
+      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
+      "answer": "DECIMAL",
       "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Island country in East Asia known for technology and night markets",
-      "answer": "TAIWAN",
-      "row": 6,
-      "col": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Hottest season of the year",
-      "answer": "SUMMER",
+      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
+      "answer": "VOLCANO",
       "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A complete path through which electric current can flow",
+      "answer": "CIRCUIT",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The process of writing instructions for a computer to follow",
+      "answer": "CODING",
+      "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The joint at the bottom of your hand connecting to your arm",
-      "answer": "WRIST",
-      "row": 2,
-      "col": 5,
+      "clue": "A game or contest between two players or teams",
+      "answer": "MATCH",
+      "row": 12,
+      "col": 7,
       "direction": "across"
     }
   ],

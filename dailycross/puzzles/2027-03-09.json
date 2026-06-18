@@ -4,74 +4,67 @@
   "title": "2027-03-09",
   "words": [
     {
-      "clue": "Small table beside your bed for a lamp or glass of water",
-      "answer": "NIGHTSTAND",
-      "row": 7,
-      "col": 0,
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Person who studies rocks and the history of the Earth",
-      "answer": "GEOLOGIST",
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Long vehicle used to transport many children to school",
-      "answer": "SCHOOLBUS",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that does not let electricity pass through",
-      "answer": "INSULATOR",
-      "row": 6,
+      "clue": "A plant that lives and grows for more than two years",
+      "answer": "PERENNIAL",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "You carry your books in this on your back",
-      "answer": "BACKPACK",
-      "row": 11,
+      "clue": "A line that touches a circle at exactly one point",
+      "answer": "TANGENT",
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Large farm vehicle used to pull plows and equipment",
-      "answer": "TRACTOR",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Water in the form of a gas or steam",
-      "answer": "VAPOR",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very upset and wanting to shout",
-      "answer": "ANGRY",
-      "row": 6,
-      "col": 0,
+      "clue": "A colorful bird that can copy human speech and other sounds",
+      "answer": "PARROT",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Large organ that processes nutrients from digested food",
-      "answer": "LIVER",
-      "row": 1,
-      "col": 2,
+      "clue": "Extremely happy and excited",
+      "answer": "ELATED",
+      "row": 3,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Large vehicle that carries heavy goods on highways",
-      "answer": "TRUCK",
-      "row": 7,
-      "col": 10,
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A yellow metallic color associated with the precious metal",
+      "answer": "GOLD",
+      "row": 5,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "A neutral color between black and white, like an elephant",
+      "answer": "GRAY",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 270

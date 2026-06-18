@@ -4,73 +4,66 @@
   "title": "2026-11-19",
   "words": [
     {
-      "clue": "South Asian country with the city of Dhaka",
-      "answer": "BANGLADESH",
-      "row": 6,
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Ocean creature with eight arms that can squirt ink",
-      "answer": "OCTOPUS",
-      "row": 0,
-      "col": 8,
+      "clue": "A tree that sheds all its leaves each autumn",
+      "answer": "DECIDUOUS",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Difficulty breathing smoothly and clearly",
-      "answer": "ASTHMA",
+      "clue": "A number that is the product of a number multiplied by itself",
+      "answer": "SQUAREDO",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The phase of the Moon when it is not visible from Earth",
+      "answer": "NEWMOON",
       "row": 6,
       "col": 5,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Shiny gray color of a coin",
-      "answer": "SILVER",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who reads the news on television",
-      "answer": "ANCHOR",
+      "clue": "A series of connected vehicles that run on railway tracks",
+      "answer": "TRAIN",
       "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Cookies baked with oats and raisins",
-      "answer": "COOKIE",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Paper you use to wrap your books",
-      "answer": "COVER",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Dark yellowish brown color",
-      "answer": "KHAKI",
-      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The hard center of the Earth",
-      "answer": "CORE",
-      "row": 11,
-      "col": 6,
+      "clue": "The organ in your chest that pumps blood throughout your body",
+      "answer": "HEART",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The tiny basic building block of all matter",
-      "answer": "ATOM",
-      "row": 10,
-      "col": 2,
+      "clue": "A very dark blue color, like the deep ocean",
+      "answer": "NAVY",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A movable barrier used to close an entrance to a room",
+      "answer": "DOOR",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     }
   ],

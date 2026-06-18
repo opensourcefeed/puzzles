@@ -4,84 +4,98 @@
   "title": "Level 73",
   "words": [
     {
-      "clue": "Money that the government takes from people's wages",
-      "answer": "INCOMETAX",
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
       "row": 6,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The ninth month of the year",
-      "answer": "SEPTEMBER",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Wooden bar instrument you hit with mallets",
-      "answer": "XYLOPHONE",
+      "clue": "Feeling sure of oneself and one's abilities",
+      "answer": "CONFIDENT",
       "row": 3,
-      "col": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Long wardrobe cabinet for hanging clothes",
-      "answer": "WARDROBE",
+      "clue": "A large reptile with very strong jaws that lives in rivers",
+      "answer": "CROCODILE",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of brave; feeling fear or anxiety",
+      "answer": "AFRAID",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, smooth stone worn by water over time",
+      "answer": "PEBBLE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling in need of rest or sleep",
+      "answer": "TIRED",
+      "row": 11,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The hard, white structures that form the skeleton inside your body",
+      "answer": "BONES",
       "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A secret word used to protect your accounts",
-      "answer": "PASSWORD",
+      "clue": "A large keyboard instrument with black and white keys",
+      "answer": "PIANO",
       "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The time of day just after you wake up",
-      "answer": "MORNING",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large seabird with a pouch under its beak",
-      "answer": "PELICAN",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The tenth month of the year",
-      "answer": "OCTOBER",
+      "clue": "Tiny, loose grains of worn-down rock found on beaches and deserts",
+      "answer": "SAND",
       "row": 11,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Fragrant green herb used on pizzas and in Italian cooking",
-      "answer": "BASIL",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
+      "clue": "A sport played on horseback where players try to score goals with a mallet",
+      "answer": "POLO",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 13,
   "targetWords": 15,
   "difficulty": "medium"
 }

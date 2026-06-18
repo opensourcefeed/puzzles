@@ -4,52 +4,73 @@
   "title": "2027-05-03",
   "words": [
     {
-      "clue": "Being in good physical condition from exercise and good food",
-      "answer": "HEALTHY",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A large flat area of high land",
-      "answer": "PLATEAU",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge slow moving mass of ice found in cold regions",
-      "answer": "GLACIER",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Country famous for the Eiffel Tower and croissants",
-      "answer": "FRANCE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Small curved pink ocean crustacean eaten in salads",
-      "answer": "SHRIMP",
+      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
+      "answer": "GEOLOGIST",
       "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Water in the form of a gas or steam",
-      "answer": "VAPOR",
-      "row": 2,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Evergreen tree with needles and cones",
-      "answer": "PINE",
-      "row": 11,
-      "col": 5,
+      "clue": "A shape that can be divided into two identical halves",
+      "answer": "SYMMETRIC",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with drawers for storing items",
+      "answer": "CABINET",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that grows round, red fruits often used in cooking",
+      "answer": "TOMATO",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The process of writing instructions for a computer to follow",
+      "answer": "CODING",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A symbol on a screen that shows where the mouse is pointing",
+      "answer": "CURSOR",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing pleasure and contentment",
+      "answer": "HAPPY",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     }
   ],

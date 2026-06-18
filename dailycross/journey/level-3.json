@@ -4,39 +4,39 @@
   "title": "Level 3",
   "words": [
     {
-      "clue": "Sport where you do flips and balances in a gym",
-      "answer": "GYMNASTICS",
-      "row": 4,
+      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
+      "answer": "COCONUT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The middle day of the school week",
-      "answer": "WEDNESDAY",
-      "row": 1,
-      "col": 3,
+      "clue": "The state of the atmosphere at a particular time and place",
+      "answer": "WEATHER",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Holiday on December 25 when gifts are exchanged",
-      "answer": "CHRISTMAS",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An unwanted reaction your body has to a food or substance",
-      "answer": "ALLERGY",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The booming sound you hear after lightning",
-      "answer": "THUNDER",
-      "row": 1,
+      "clue": "An opening in a wall with glass that lets in light and air",
+      "answer": "WINDOW",
+      "row": 4,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
+      "answer": "BERRY",
+      "row": 4,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "The name of our galaxy, which appears as a milky band across the night sky",
+      "answer": "MILKY",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "wordCount": 5,

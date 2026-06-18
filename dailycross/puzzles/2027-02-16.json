@@ -4,66 +4,73 @@
   "title": "2027-02-16",
   "words": [
     {
-      "clue": "Vehicle police officers drive",
-      "answer": "POLICECAR",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Building with tanks where you can see fish and sea creatures",
-      "answer": "AQUARIUM",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling deeply thankful for what someone did for you",
-      "answer": "GRATEFUL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Celebration at the start of a new year on January 1",
-      "answer": "NEWYEAR",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The booming sound you hear after lightning",
-      "answer": "THUNDER",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Brown vegetable that grows underground and is often fried",
-      "answer": "POTATO",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Container with a lid and handle used to boil water for tea",
-      "answer": "KETTLE",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The repeated section at the end of each verse of a song",
-      "answer": "CHORUS",
-      "row": 9,
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The gas that plants release which we breathe",
-      "answer": "OXYGEN",
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "An Australian animal that hops and carries babies in a pouch",
+      "answer": "KANGAROO",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
+      "answer": "GRAVITY",
       "row": 6,
-      "col": 12,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A musical term meaning to play loudly",
+      "answer": "FORTE",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A tree with needle-like leaves",
+      "answer": "PINE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge, bright ball of burning gas in space",
+      "answer": "STAR",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     }
   ],

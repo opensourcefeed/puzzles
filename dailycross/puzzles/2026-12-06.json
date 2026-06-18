@@ -4,60 +4,74 @@
   "title": "2026-12-06",
   "words": [
     {
-      "clue": "The ninth month of the year",
-      "answer": "SEPTEMBER",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal with a bushy tail that collects nuts",
-      "answer": "SQUIRREL",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Black and white bird that cannot fly",
-      "answer": "PENGUIN",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Country known for tacos, pyramids and sombreros",
-      "answer": "MEXICO",
+      "clue": "The speed at which the wind is moving",
+      "answer": "WINDSPEED",
       "row": 7,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large whiskered mammal with flippers that lives in cold seas",
-      "answer": "WALRUS",
-      "row": 0,
-      "col": 8,
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The device on a wall that shows the time",
-      "answer": "CLOCK",
-      "row": 5,
+      "clue": "A symbol, usually a letter, that represents an unknown number",
+      "answer": "VARIABLE",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Animal known for spraying a bad smell",
-      "answer": "SKUNK",
-      "row": 9,
-      "col": 5,
+      "clue": "A mathematical statement that two expressions are equal",
+      "answer": "EQUATION",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Strap that keeps your pants from falling down",
-      "answer": "BELT",
-      "row": 6,
-      "col": 2,
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 7,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of open; not open or allowing access",
+      "answer": "CLOSED",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 9,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who leads and assists groups of tourists",
+      "answer": "GUIDE",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 177

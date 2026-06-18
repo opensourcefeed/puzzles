@@ -4,91 +4,119 @@
   "title": "Level 117",
   "words": [
     {
-      "clue": "Room where you do science experiments",
-      "answer": "LABORATORY",
+      "clue": "A bright, vivid greenish-yellow color named after a liqueur",
+      "answer": "CHARTREUSE",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "What you must eat to keep your body working properly",
-      "answer": "NUTRITION",
+      "clue": "The opposite of accurate; not correct or precise",
+      "answer": "INACCURATE",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
       "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Small book where you write notes",
-      "answer": "NOTEBOOK",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Three children born at the same time to the same mother",
-      "answer": "TRIPLETS",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport where you jump as far as you can from a running start",
-      "answer": "LONGJUMP",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Box that takes people up and down in a building",
-      "answer": "ELEVATOR",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport of racing on foot as fast as you can",
-      "answer": "RUNNING",
-      "row": 13,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Screen attached to a computer that shows you what is happening",
-      "answer": "MONITOR",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with the cities of Dublin and the Cliffs of Moher",
-      "answer": "IRELAND",
-      "row": 6,
+      "clue": "The process by which the body breaks down food into nutrients",
+      "answer": "DIGESTION",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "You write with this long thin tool",
-      "answer": "PENCIL",
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
       "row": 0,
-      "col": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Feeling worn out after a long day of activity",
-      "answer": "TIRED",
-      "row": 1,
-      "col": 1,
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Fragrant green herb used on pizzas and in Italian cooking",
-      "answer": "BASIL",
-      "row": 5,
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 11,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A bright yellow citrus fruit with a very sour taste",
+      "answer": "LEMON",
+      "row": 3,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A large natural stream of water that flows across land",
+      "answer": "RIVER",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The pair of parallel metal rails that trains run on",
+      "answer": "TRACK",
+      "row": 9,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A large string instrument played while seated, held between the knees",
+      "answer": "CELLO",
+      "row": 10,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The outer layer of tissue that covers and protects your body",
+      "answer": "SKIN",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A very large brass instrument with a deep, low sound",
+      "answer": "TUBA",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 16,
   "targetWords": 21,
   "difficulty": "hard"
 }

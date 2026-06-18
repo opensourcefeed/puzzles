@@ -4,67 +4,74 @@
   "title": "2026-09-03",
   "words": [
     {
-      "clue": "Building where scientists do research and experiments",
-      "answer": "LABORATORY",
-      "row": 2,
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Light fitting that hangs from the ceiling",
-      "answer": "CHANDELIER",
+      "clue": "The outermost layer of Earth's atmosphere, where it meets space",
+      "answer": "EXOSPHERE",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Large gray animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 5,
-      "col": 5,
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A young person between thirteen and nineteen years old",
-      "answer": "TEENAGER",
-      "row": 2,
-      "col": 11,
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Person who reads the news on television",
-      "answer": "ANCHOR",
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "An object that produces a magnetic field and attracts iron",
+      "answer": "MAGNET",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who performs roles in plays, movies, or television",
+      "answer": "ACTOR",
       "row": 2,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Oslo and fjords",
-      "answer": "NORWAY",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Your male parent",
-      "answer": "FATHER",
-      "row": 8,
-      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "What your body does when you sleep to repair itself",
-      "answer": "REST",
-      "row": 4,
-      "col": 7,
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Flat unleavened food cooked in a pan often with fillings",
-      "answer": "WRAP",
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
       "row": 7,
-      "col": 0,
-      "direction": "across"
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 83

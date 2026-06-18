@@ -4,60 +4,74 @@
   "title": "2026-11-20",
   "words": [
     {
-      "clue": "Person who does experiments to learn how the world works",
-      "answer": "SCIENTIST",
-      "row": 2,
-      "col": 0,
+      "clue": "A vehicle equipped with equipment for fighting fires",
+      "answer": "FIRETRUCK",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Padded glove used to hold hot pots from the oven",
-      "answer": "OVENMITT",
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
       "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The spinning motion of a planet around its own axis",
+      "answer": "ROTATION",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
       "row": 2,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Animal with a long neck that drinks from rivers",
-      "answer": "GIRAFFE",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Low platform that holds your television set",
-      "answer": "TVSTAND",
+      "clue": "A place where trains stop to pick up and drop off passengers",
+      "answer": "STATION",
       "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Red round salad vegetable",
-      "answer": "TOMATO",
-      "row": 0,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Microsoft program used to create spreadsheets",
-      "answer": "EXCEL",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Round container used to mix ingredients",
-      "answer": "BOWL",
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
       "row": 4,
-      "col": 9,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 161

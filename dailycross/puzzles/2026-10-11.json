@@ -4,72 +4,58 @@
   "title": "2026-10-11",
   "words": [
     {
-      "clue": "The day that came before today",
-      "answer": "YESTERDAY",
-      "row": 6,
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The person who teaches you in class",
-      "answer": "TEACHER",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling very pleased after winning or succeeding",
-      "answer": "EXCITED",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A portable device for reading digital books",
-      "answer": "EREADER",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "European country with the city of Warsaw",
-      "answer": "POLAND",
+      "clue": "A substance made from two or more different elements chemically bonded",
+      "answer": "COMPOUND",
       "row": 3,
-      "col": 8,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Small purple or blue wildflower found in meadows",
-      "answer": "VIOLET",
-      "row": 4,
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 3,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Plant tissue that carries food made in leaves to other parts",
+      "answer": "PHLOEM",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cooked meat in a round bun",
-      "answer": "BURGER",
+      "clue": "A very large body of salt water that covers most of Earth's surface",
+      "answer": "OCEAN",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Hot, liquid rock that flows from a volcano onto the Earth's surface",
+      "answer": "LAVA",
       "row": 0,
-      "col": 10,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Area of land covered with many trees",
-      "answer": "FOREST",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet smelling white flower that blooms in spring",
-      "answer": "LILY",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Light red color of a flamingo",
-      "answer": "PINK",
-      "row": 4,
+      "clue": "The action of moving through water by moving your arms and legs",
+      "answer": "SWIM",
+      "row": 5,
       "col": 0,
       "direction": "across"
     }

@@ -4,60 +4,67 @@
   "title": "2026-06-15",
   "words": [
     {
-      "clue": "Building where Jews go to worship",
-      "answer": "SYNAGOGUE",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Electronic machine that processes information and runs programs",
-      "answer": "COMPUTER",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A brother or sister",
-      "answer": "SIBLING",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The booming sound you hear after lightning",
-      "answer": "THUNDER",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The first day of the week",
-      "answer": "MONDAY",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Country that bridges Europe and Asia with Istanbul",
-      "answer": "TURKEY",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport where two boxers punch each other wearing gloves",
-      "answer": "BOXING",
-      "row": 6,
+      "clue": "The number above the line in a fraction, showing how many parts are taken",
+      "answer": "NUMERATOR",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Spicy root used in Asian cooking",
-      "answer": "GINGER",
-      "row": 0,
-      "col": 12,
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
+      "row": 2,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A property of a shape that can be divided into two identical halves",
+      "answer": "SYMMETRY",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with nine straight sides and nine angles",
+      "answer": "NONAGON",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of three-dimensional space an object occupies",
+      "answer": "VOLUME",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Yellow powder made by flowers",
+      "answer": "POLLEN",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A small carpet used as a floor covering",
+      "answer": "RUG",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 3

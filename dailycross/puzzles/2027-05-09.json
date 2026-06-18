@@ -4,67 +4,74 @@
   "title": "2027-05-09",
   "words": [
     {
-      "clue": "Your tummy where food is digested",
-      "answer": "STOMACH",
-      "row": 2,
-      "col": 3,
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "An unwanted reaction your body has to a food or substance",
-      "answer": "ALLERGY",
-      "row": 2,
-      "col": 7,
+      "clue": "An Australian animal that hops and carries babies in a pouch",
+      "answer": "KANGAROO",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
       "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where students go to learn every day",
-      "answer": "SCHOOL",
-      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The color of a ripe banana",
-      "answer": "YELLOW",
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep blue-purple color, like the plant used for dye",
+      "answer": "INDIGO",
       "row": 5,
-      "col": 6,
-      "direction": "across"
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "Person who performs dance as a profession",
-      "answer": "DANCER",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Thick yellow dairy spread put on bread",
-      "answer": "BUTTER",
+      "clue": "The display surface of a computer that shows images and text",
+      "answer": "SCREEN",
       "row": 7,
-      "col": 0,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Long padded seat usually placed against a wall",
-      "answer": "BENCH",
+      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
+      "answer": "PULSAR",
       "row": 2,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A food made by baking a mixture of flour, water, and yeast",
+      "answer": "BREAD",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Very light blue like a robin egg",
-      "answer": "CYAN",
-      "row": 1,
-      "col": 9,
-      "direction": "across"
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The thick muscle at the back of your lower leg",
+      "answer": "CALF",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 331

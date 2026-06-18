@@ -4,59 +4,59 @@
   "title": "2026-09-08",
   "words": [
     {
-      "clue": "Tall yellow flower that grows facing the sun",
-      "answer": "SUNFLOWER",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The first day of the weekend",
-      "answer": "SATURDAY",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who creates new devices or ways of doing things",
-      "answer": "INVENTOR",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Box that takes people up and down in a building",
-      "answer": "ELEVATOR",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Very dark green like pine needles",
-      "answer": "FOREST",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The last day of the school week",
-      "answer": "FRIDAY",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A high body temperature caused by fighting an infection",
-      "answer": "FEVER",
+      "clue": "The total distance around the outside of a shape",
+      "answer": "PERIMETER",
       "row": 5,
-      "col": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Salty snack that comes in a bag and is very crunchy",
-      "answer": "CHIPS",
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A unit for measuring angles, where a full circle is 360",
+      "answer": "DEGREE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A digital container for organizing files on a computer",
+      "answer": "FOLDER",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, tropical area filled with many trees and plants",
+      "answer": "JUNGLE",
       "row": 0,
-      "col": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, narrow boat propelled by one or more paddles",
+      "answer": "CANOE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A light purple-pink color, like the flower",
+      "answer": "LILAC",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     }
   ],

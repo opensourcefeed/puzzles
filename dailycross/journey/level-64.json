@@ -4,77 +4,91 @@
   "title": "Level 64",
   "words": [
     {
-      "clue": "Sea creature with a shell on its back that lives on beaches",
-      "answer": "HERMITCRAB",
-      "row": 5,
-      "col": 2,
+      "clue": "A small electronic device used for mathematical calculations",
+      "answer": "CALCULATOR",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Mountain with a hole at the top that can erupt",
-      "answer": "VOLCANO",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Machine that can create three-dimensional objects from digital files",
-      "answer": "PRINTER",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Your male sibling",
-      "answer": "BROTHER",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The person who makes sure rules are followed in a game",
-      "answer": "REFEREE",
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
       "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Long period of very little or no rainfall",
-      "answer": "DROUGHT",
+      "clue": "The scientific study of substances, their properties, and how they react",
+      "answer": "CHEMISTRY",
       "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A tree that sheds all its leaves each autumn",
+      "answer": "DECIDUOUS",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Animal with a long neck that drinks from rivers",
-      "answer": "GIRAFFE",
-      "row": 1,
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who tends and cultivates gardens and plants",
+      "answer": "GARDENER",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Wide flat tool used to dig and move snow or earth",
-      "answer": "SHOVEL",
-      "row": 11,
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
+      "row": 6,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Metal tool with sharp holes used to grate cheese",
-      "answer": "GRATER",
-      "row": 3,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Long flat area of sand next to the ocean",
-      "answer": "BEACH",
-      "row": 7,
-      "col": 9,
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 9,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 12,
   "targetWords": 13,
   "difficulty": "medium"
 }

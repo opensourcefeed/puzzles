@@ -4,53 +4,67 @@
   "title": "2027-04-08",
   "words": [
     {
-      "clue": "Room where you do science experiments",
-      "answer": "LABORATORY",
-      "row": 2,
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful arc of light in the sky after rain",
-      "answer": "RAINBOW",
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
       "row": 2,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The tenth month of the year",
-      "answer": "OCTOBER",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A hot dry region with very little rainfall and few plants",
-      "answer": "DESERT",
-      "row": 4,
-      "col": 6,
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Feeling deep sadness and missing someone very much",
-      "answer": "GRIEF",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of fresh snow",
-      "answer": "WHITE",
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
       "row": 9,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "answer": "CANYON",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The name of our galaxy, which appears as a milky band across the night sky",
+      "answer": "MILKY",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
+      "answer": "BRASS",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The symbol (+) used to show that numbers are being added",
+      "answer": "PLUS",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A light reddish color, like bubblegum or cotton candy",
+      "answer": "PINK",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 300

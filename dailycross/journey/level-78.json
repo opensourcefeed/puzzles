@@ -4,91 +4,105 @@
   "title": "Level 78",
   "words": [
     {
-      "clue": "Vehicle that travels under the water",
-      "answer": "SUBMARINE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Portable battery pack that recharges your phone on the go",
-      "answer": "POWERBANK",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "South American country famous for the tango dance",
-      "answer": "ARGENTINA",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A large area of land belonging to one country",
-      "answer": "TERRITORY",
-      "row": 4,
+      "clue": "A brush with a handle and bristles used for cleaning teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with exactly three sides and three corners",
-      "answer": "TRIANGLE",
-      "row": 7,
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
+      "answer": "EGGPLANT",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
+      "answer": "REPORTER",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A cabinet with shelves for storing food and dishes",
+      "answer": "CUPBOARD",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of living organisms that can reproduce with each other",
+      "answer": "SPECIES",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who bakes bread, cakes, and other baked goods",
+      "answer": "BAKER",
+      "row": 4,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Sport where you ride a two-wheeled vehicle on a track",
-      "answer": "CYCLING",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean bird that hovers over waves and dives for fish",
-      "answer": "SEAGULL",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Huge deep trench in the ocean floor",
-      "answer": "TRENCH",
-      "row": 9,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "How heavy something is measured in grams or kilograms",
-      "answer": "WEIGHT",
-      "row": 12,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Day honoring civil rights leader Martin Luther King Jr",
-      "answer": "MLKDAY",
-      "row": 1,
+      "clue": "The smallest unit of a digital image, represented as a tiny square",
+      "answer": "PIXEL",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large white box that keeps food cold",
-      "answer": "FRIDGE",
-      "row": 14,
-      "col": 6,
-      "direction": "across"
+      "clue": "A series of musical notes arranged in ascending or descending order",
+      "answer": "SCALE",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
     },
     {
-      "clue": "Flat surface with four legs where you eat meals or work",
-      "answer": "TABLE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 14,
   "targetWords": 15,
   "difficulty": "medium"
 }

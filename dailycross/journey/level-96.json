@@ -4,98 +4,112 @@
   "title": "Level 96",
   "words": [
     {
-      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
-      "answer": "MOTORCYCLE",
-      "row": 6,
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Person who organizes and manages books in a library",
-      "answer": "LIBRARIAN",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Small blue round fruit used in muffins",
-      "answer": "BLUEBERRY",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A rock from space that falls and hits Earth",
-      "answer": "METEORITE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that puts out fires with water",
-      "answer": "FIRETRUCK",
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
       "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Hopeful and confident, even in difficult situations",
+      "answer": "POSITIVE",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "When a substance dissolves in a liquid",
-      "answer": "SOLUTION",
-      "row": 0,
-      "col": 2,
+      "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
+      "answer": "GASGIANT",
+      "row": 7,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Two slices of bread with filling inside",
-      "answer": "SANDWICH",
-      "row": 0,
-      "col": 2,
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Sport where you jump as far as you can from a running start",
-      "answer": "LONGJUMP",
+      "clue": "An Australian animal that hops and carries babies in a pouch",
+      "answer": "KANGAROO",
       "row": 2,
-      "col": 0,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The day before Friday",
-      "answer": "THURSDAY",
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
       "row": 11,
-      "col": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small adhesive strip used to cover a minor cut",
-      "answer": "BANDAID",
-      "row": 5,
-      "col": 11,
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 8,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The sixth planet from the sun, almost as large as Jupiter",
-      "answer": "SATURN",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep cut on the skin that bleeds and needs treatment",
-      "answer": "WOUND",
-      "row": 9,
+      "clue": "A brass instrument with three valves and a bright, clear sound",
+      "answer": "TRUMPET",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A ball of ice and dust that has a glowing tail in space",
-      "answer": "COMET",
+      "clue": "A device that fastens sheets of paper together with staples",
+      "answer": "STAPLER",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The short, thick finger on your hand that helps you grip things",
+      "answer": "THUMB",
+      "row": 14,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A series of connected vehicles that run on railway tracks",
+      "answer": "TRAIN",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
+      "answer": "BERRY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A black and white striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 10,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A line or group of connected mountains forming a chain",
+      "answer": "RANGE",
       "row": 0,
-      "col": 8,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 15,
   "targetWords": 18,
-  "difficulty": "hard"
+  "difficulty": "medium"
 }

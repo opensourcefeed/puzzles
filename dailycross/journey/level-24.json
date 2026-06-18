@@ -4,49 +4,63 @@
   "title": "Level 24",
   "words": [
     {
-      "clue": "Person who delivers your letters and packages to your home",
-      "answer": "MAILMAN",
-      "row": 5,
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Season when flowers bloom and it gets warmer",
-      "answer": "SPRING",
-      "row": 2,
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A strip of material used to mark a reader's place in a book",
+      "answer": "BOOKMARK",
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The ocean around the North Pole",
-      "answer": "ARCTIC",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A low wet land often covered with water",
-      "answer": "SWAMP",
-      "row": 2,
-      "col": 2,
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Long animal without legs that slithers",
-      "answer": "SNAKE",
+      "clue": "A purple flower known for its calming, pleasant scent",
+      "answer": "LAVENDER",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Physical money in the form of coins and notes",
-      "answer": "CASH",
-      "row": 7,
-      "col": 5,
+      "clue": "A light, narrow boat propelled by one or more paddles",
+      "answer": "CANOE",
+      "row": 3,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "The land along the edge of an ocean or sea",
+      "answer": "COAST",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 8,
   "targetWords": 8,
   "difficulty": "easy"
 }

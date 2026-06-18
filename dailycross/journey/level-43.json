@@ -4,84 +4,77 @@
   "title": "Level 43",
   "words": [
     {
-      "clue": "Book with words and their meanings",
-      "answer": "DICTIONARY",
-      "row": 6,
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The ninth month of the year",
-      "answer": "SEPTEMBER",
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies living organisms and their life processes",
+      "answer": "BIOLOGIST",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A bag with straps worn on the back to carry books and school supplies",
+      "answer": "BACKPACK",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A document on the internet that can be viewed in a browser",
+      "answer": "WEBSITE",
       "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Person who catches fish as their job",
-      "answer": "FISHERMAN",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who studies marine biology and ocean life",
-      "answer": "BIOLOGIST",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very pleased after winning or succeeding",
-      "answer": "EXCITED",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Salty food made from peanuts",
-      "answer": "PEANUTS",
-      "row": 2,
+      "clue": "A light, bright blue color like the sky on a clear day",
+      "answer": "SKYBLUE",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Website where you watch and share videos",
-      "answer": "YOUTUBE",
-      "row": 6,
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who leads and assists groups of tourists",
+      "answer": "GUIDE",
+      "row": 0,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The operating system used on most Android phones and Windows computers",
-      "answer": "ANDROID",
-      "row": 12,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with four equal sides and four corners",
-      "answer": "SQUARE",
-      "row": 0,
-      "col": 10,
+      "clue": "A small handheld device that moves the cursor on a computer screen",
+      "answer": "MOUSE",
+      "row": 10,
+      "col": 2,
       "direction": "down"
-    },
-    {
-      "clue": "White soft food made from curdled milk",
-      "answer": "CHEESE",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 10,
   "targetWords": 11,
   "difficulty": "medium"
 }

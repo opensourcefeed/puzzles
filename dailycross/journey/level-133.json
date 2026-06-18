@@ -4,105 +4,126 @@
   "title": "Level 133",
   "words": [
     {
-      "clue": "A shape with four sides and only one pair of parallel sides",
-      "answer": "TRAPEZOID",
+      "clue": "An angle that measures exactly 90 degrees",
+      "answer": "RIGHTANGLE",
       "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who builds and repairs things using wood",
-      "answer": "CARPENTER",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where two people try to throw each other to the ground",
-      "answer": "WRESTLING",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Paper money used by a country",
-      "answer": "CURRENCY",
-      "row": 14,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape like a can or tube",
-      "answer": "CYLINDER",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "When a substance dissolves in a liquid",
-      "answer": "SOLUTION",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A brother or sister",
-      "answer": "SIBLING",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Money given back to you when you return something to a shop",
-      "answer": "REFUND",
-      "row": 10,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Lightweight aircraft with one small engine",
-      "answer": "GLIDER",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who manages the money and accounts at a bank",
-      "answer": "BANKER",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Country that bridges Europe and Asia with Istanbul",
-      "answer": "TURKEY",
-      "row": 9,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who trains and prepares athletes for competitions",
-      "answer": "COACH",
-      "row": 4,
-      "col": 10,
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A facility from which spacecraft and rockets are launched",
+      "answer": "SPACEPORT",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "answer": "SAXOPHONE",
+      "row": 13,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Hard protective layer at the tip of your fingers",
-      "answer": "NAILS",
-      "row": 0,
+      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "answer": "HURRICANE",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that converts paper documents into digital images",
+      "answer": "SCANNER",
+      "row": 4,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The state of the atmosphere at a particular time and place",
+      "answer": "WEATHER",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A short green plant that covers lawns and fields",
+      "answer": "GRASS",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, round fruit that grows in bunches on vines",
+      "answer": "GRAPE",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A wet, low-lying area where the ground is often covered with water",
+      "answer": "MARSH",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The red liquid that circulates through your heart and blood vessels",
+      "answer": "BLOOD",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The symbol (×) used to show that numbers are being multiplied",
+      "answer": "TIMES",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A narrow, deep valley with very steep rocky sides",
+      "answer": "GORGE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A collection of maps in book form",
+      "answer": "ATLAS",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest particle of a chemical element that can exist",
+      "answer": "ATOM",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A single sound of a specific pitch in music",
+      "answer": "NOTE",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 17,
   "targetWords": 23,
   "difficulty": "hard"
 }

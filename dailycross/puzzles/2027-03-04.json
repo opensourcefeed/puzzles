@@ -4,67 +4,74 @@
   "title": "2027-03-04",
   "words": [
     {
-      "clue": "The day that came before today",
-      "answer": "YESTERDAY",
-      "row": 3,
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The imaginary line around the middle of the Earth",
-      "answer": "EQUATOR",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Shiny gray color of a coin",
-      "answer": "SILVER",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where Hindus go to worship",
-      "answer": "TEMPLE",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat open land covered with grass",
-      "answer": "MEADOW",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful reef structure made by tiny ocean animals",
-      "answer": "CORAL",
+      "clue": "A number that is the product of a number multiplied by itself",
+      "answer": "SQUAREDO",
       "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling relaxed and peaceful with no worries",
-      "answer": "CALM",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Large low-sounding brass instrument held on your lap",
-      "answer": "TUBA",
-      "row": 2,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Money you earn for each hour of work",
-      "answer": "WAGE",
+      "clue": "The opposite of deep; of little depth",
+      "answer": "SHALLOW",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A whole number that can be positive, negative, or zero",
+      "answer": "INTEGER",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark, rich red color, like the color of chestnuts",
+      "answer": "MAROON",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
       "row": 0,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sudden, brief storm with strong winds and often rain or snow",
+      "answer": "SQUALL",
+      "row": 1,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A slow-moving reptile with a hard shell on its back",
+      "answer": "TURTLE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 265

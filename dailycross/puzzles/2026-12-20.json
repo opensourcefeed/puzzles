@@ -4,45 +4,59 @@
   "title": "2026-12-20",
   "words": [
     {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 1,
-      "col": 1,
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "You use these to cut paper in class",
-      "answer": "SCISSORS",
-      "row": 0,
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape where every point on its boundary is the same distance from its center",
+      "answer": "CIRCULAR",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Round green vegetable that grows on a vine",
-      "answer": "ZUCCHINI",
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with seven straight sides and seven angles",
+      "answer": "HEPTAGON",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
       "row": 0,
-      "col": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Two-wheeled vehicle you pedal with your feet",
-      "answer": "BICYCLE",
-      "row": 3,
-      "col": 0,
+      "clue": "A perfectly round flat shape with no corners or edges",
+      "answer": "CIRCLE",
+      "row": 5,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Large bird with a curved beak that can talk",
-      "answer": "PARROT",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Folder in your email where new messages arrive",
-      "answer": "INBOX",
-      "row": 1,
-      "col": 0,
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 2,
+      "col": 12,
       "direction": "down"
     }
   ],

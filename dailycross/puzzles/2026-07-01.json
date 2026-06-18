@@ -4,67 +4,74 @@
   "title": "2026-07-01",
   "words": [
     {
-      "clue": "Asian country with the city of Seoul",
-      "answer": "SOUTHKOREA",
+      "clue": "An instrument used to measure wind speed",
+      "answer": "ANEMOMETER",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Small device you plug into a computer to store files",
-      "answer": "FLASHDRIVE",
-      "row": 2,
-      "col": 4,
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The main processing chip inside a computer",
-      "answer": "PROCESSOR",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Very heavy rainfall in a short amount of time",
-      "answer": "DOWNPOUR",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "European country with the city of Vienna and Mozart",
-      "answer": "AUSTRIA",
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
       "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The flat bottomed region of the deep ocean",
-      "answer": "SEABED",
-      "row": 9,
+      "clue": "A sweet, brown food made from roasted cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A line that touches a circle at exactly one point",
+      "answer": "TANGENT",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 12,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Device used to take photos and record videos",
-      "answer": "CAMERA",
-      "row": 6,
-      "col": 10,
+      "clue": "Feeling fear or worry about a possible danger",
+      "answer": "SCARED",
+      "row": 0,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Cloth worn over clothes to keep them clean while cooking",
-      "answer": "APRON",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Holiday in spring to plant trees and care for forests",
-      "answer": "ARBOR",
+      "clue": "The symbol (-) used to show that one number is being subtracted from another",
+      "answer": "MINUS",
       "row": 0,
       "col": 8,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 19

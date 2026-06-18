@@ -4,67 +4,74 @@
   "title": "2027-02-05",
   "words": [
     {
-      "clue": "Large gray animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 6,
-      "col": 2,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cold sweet treat on a stick or in a cone",
-      "answer": "ICECREAM",
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
       "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A child who has been legally taken into a new family",
-      "answer": "ADOPTED",
-      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Room where you borrow books to read",
-      "answer": "LIBRARY",
-      "row": 4,
-      "col": 3,
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Shorts worn for swimming at the pool or beach",
-      "answer": "TRUNKS",
-      "row": 6,
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
+      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Wide flat tool used to dig and move snow or earth",
-      "answer": "SHOVEL",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The largest country in the world by area",
-      "answer": "RUSSIA",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The joint at the bottom of your hand connecting to your arm",
-      "answer": "WRIST",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "East African country with the city of Nairobi and safaris",
-      "answer": "KENYA",
+      "clue": "A vehicle that travels into space, powered by rocket engines",
+      "answer": "ROCKET",
       "row": 0,
-      "col": 7,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
+      "answer": "SPOON",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, white food made from soybeans, often used in cooking",
+      "answer": "TOFU",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 238

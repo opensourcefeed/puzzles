@@ -4,63 +4,56 @@
   "title": "Level 22",
   "words": [
     {
-      "clue": "Injection that prevents you from catching a disease",
-      "answer": "VACCINE",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
+      "clue": "A flying vehicle with rotating blades that can take off and land vertically",
+      "answer": "HELICOPTER",
       "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Special song played to honor a country",
-      "answer": "ANTHEM",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Break time when you go outside to play",
-      "answer": "RECESS",
-      "row": 6,
-      "col": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Device used to take photos and record videos",
-      "answer": "CAMERA",
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The child of your aunt or uncle",
-      "answer": "COUSIN",
-      "row": 3,
-      "col": 11,
+      "clue": "A scientist who specializes in the study of plants",
+      "answer": "BOTANIST",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Money you earn every month from your job",
-      "answer": "SALARY",
+      "clue": "A panel of keys used to type text and commands into a computer",
+      "answer": "KEYBOARD",
       "row": 1,
-      "col": 6,
-      "direction": "across"
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "Long flat area of sand next to the ocean",
-      "answer": "BEACH",
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
       "row": 6,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 7,
   "targetWords": 8,
   "difficulty": "easy"
 }

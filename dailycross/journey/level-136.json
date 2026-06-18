@@ -4,126 +4,119 @@
   "title": "Level 136",
   "words": [
     {
-      "clue": "Asian country with the city of Seoul",
-      "answer": "SOUTHKOREA",
-      "row": 6,
-      "col": 2,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that mows and harvests crops in fields",
-      "answer": "HARVESTER",
-      "row": 4,
-      "col": 9,
+      "clue": "The longest side of a right-angled triangle, opposite the right angle",
+      "answer": "HYPOTENUSE",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Vehicle police officers drive",
-      "answer": "POLICECAR",
+      "clue": "A machine that automatically washes and dries dishes",
+      "answer": "DISHWASHER",
       "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A triangle with two sides of equal length",
+      "answer": "ISOSCELES",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Paper money used by a country",
-      "answer": "CURRENCY",
-      "row": 8,
-      "col": 5,
+      "clue": "A person who creates detailed technical drawings and plans",
+      "answer": "DRAFTER",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A line that touches a circle at exactly one point",
+      "answer": "TANGENT",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Cold sweet treat on a stick or in a cone",
-      "answer": "ICECREAM",
+      "clue": "The opposite of open; not open or allowing access",
+      "answer": "CLOSED",
       "row": 11,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Padded glove used to hold hot pots from the oven",
-      "answer": "OVENMITT",
+      "clue": "Feeling or showing care and concern for others",
+      "answer": "CARING",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Greatly surprised or impressed",
+      "answer": "AMAZED",
+      "row": 9,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The color created by mixing red and yellow, like a carrot",
+      "answer": "ORANGE",
       "row": 0,
-      "col": 5,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with exactly three sides and three corners",
-      "answer": "TRIANGLE",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling that you want something very much",
-      "answer": "JEALOUS",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
-      "row": 7,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The ocean found around the continent of India",
-      "answer": "INDIAN",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Crunchy pale green stalk vegetable used in salads",
-      "answer": "CELERY",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The last day of the school week",
-      "answer": "FRIDAY",
-      "row": 2,
+      "clue": "An area of open land used for playing sports",
+      "answer": "FIELD",
+      "row": 10,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Organ that filters waste from your blood to make urine",
-      "answer": "KIDNEY",
-      "row": 13,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Protective cover worn over clothing while cooking",
-      "answer": "APRON",
-      "row": 9,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A baby bird that has just hatched from an egg",
-      "answer": "CHICK",
-      "row": 9,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 11,
-      "col": 0,
+      "clue": "A small handheld device that moves the cursor on a computer screen",
+      "answer": "MOUSE",
+      "row": 0,
+      "col": 9,
       "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 16,
   "targetWords": 23,
   "difficulty": "hard"
 }

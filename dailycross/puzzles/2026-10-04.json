@@ -4,66 +4,66 @@
   "title": "2026-10-04",
   "words": [
     {
-      "clue": "Vehicle that collects garbage from houses",
-      "answer": "TRASHCAR",
-      "row": 6,
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
+      "answer": "GASGIANT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "An ordered list of numbers or objects that follows a specific rule",
+      "answer": "SEQUENCE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground layer of rock that holds and transmits water",
+      "answer": "AQUIFER",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of clean; covered or marked with dirt",
+      "answer": "DIRTY",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A large ocean fish with many sharp teeth",
+      "answer": "SHARK",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge, bright ball of burning gas in space",
+      "answer": "STAR",
+      "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "These protect your eyes from sun and rain",
-      "answer": "EYELIDS",
+      "clue": "The basic unit of time in music that you tap your foot to",
+      "answer": "BEAT",
       "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with many sides, more than eight",
-      "answer": "POLYGON",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Shop where fresh bread and pastries are made and sold",
-      "answer": "BAKERY",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle with a powerful engine used to launch into space",
-      "answer": "ROCKET",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Spicy root used in Asian cooking",
-      "answer": "GINGER",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A trained person who helps sick people recover in hospital",
-      "answer": "NURSE",
-      "row": 8,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Ridged fastener you turn with a screwdriver",
-      "answer": "SCREW",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A baby bird that has just hatched from an egg",
-      "answer": "CHICK",
-      "row": 9,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small carpet used as a floor covering",
+      "answer": "RUG",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     }
   ],

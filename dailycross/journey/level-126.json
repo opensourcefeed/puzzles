@@ -4,119 +4,133 @@
   "title": "Level 126",
   "words": [
     {
-      "clue": "Very tall building found in city centers",
-      "answer": "SKYSCRAPER",
-      "row": 6,
-      "col": 2,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Sea creature with a shell on its back that lives on beaches",
-      "answer": "HERMITCRAB",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The region of space from which nothing can escape",
-      "answer": "BLACKHOLE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Jewelry worn around the wrist",
-      "answer": "BRACELET",
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
       "row": 5,
-      "col": 11,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The second month of the year",
-      "answer": "FEBRUARY",
-      "row": 13,
+      "clue": "A tree that keeps its green leaves throughout the entire year",
+      "answer": "EVERGREEN",
+      "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The time of day just after you wake up",
-      "answer": "MORNING",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge collection of billions of stars in space",
-      "answer": "GALAXY",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Stringed instrument with six strings you strum or pluck",
-      "answer": "GUITAR",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Money given back to you when you return something to a shop",
-      "answer": "REFUND",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A large group of singers performing together",
-      "answer": "CHOIR",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Tall bar stool used at a kitchen counter",
-      "answer": "STOOL",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Herb with a strong smell used on pizza",
-      "answer": "BASIL",
+      "clue": "The outermost layer of Earth's atmosphere, where it meets space",
+      "answer": "EXOSPHERE",
       "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You read stories printed in this",
-      "answer": "BOOK",
-      "row": 10,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft green plant that grows on damp rocks and trees",
-      "answer": "MOSS",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Round container used to mix ingredients",
-      "answer": "BOWL",
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
       "row": 5,
-      "col": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A symbol, usually a letter, that represents an unknown number",
+      "answer": "VARIABLE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
+      "row": 14,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who is trained in or good at sports",
+      "answer": "ATHLETE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A breakfast food made from processed grains, often eaten with milk",
+      "answer": "CEREAL",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that controls the flow of water from a pipe",
+      "answer": "FAUCET",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A rich, earthy yellow color, like the pigment",
+      "answer": "OCHRE",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of easy; requiring great effort",
+      "answer": "HARD",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A small picture or symbol on a computer screen that represents a program",
+      "answer": "ICON",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A blue-green color, like the color of a duck's feathers",
+      "answer": "TEAL",
+      "row": 13,
+      "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 18,
   "targetWords": 22,
   "difficulty": "hard"
 }

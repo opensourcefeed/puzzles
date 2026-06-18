@@ -4,60 +4,74 @@
   "title": "2026-07-10",
   "words": [
     {
-      "clue": "Vehicle that puts out fires with water",
-      "answer": "FIRETRUCK",
-      "row": 4,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The set of black and white keys on a piano",
-      "answer": "KEYBOARD",
+      "clue": "The opposite of accurate; not correct or precise",
+      "answer": "INACCURATE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An instrument used to measure the amount of rain that falls",
+      "answer": "RAINGAUGE",
       "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Two slices of bread with filling inside",
-      "answer": "SANDWICH",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The day that comes after today",
-      "answer": "TOMORROW",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Your tummy where food is digested",
-      "answer": "STOMACH",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The person who teaches you in class",
-      "answer": "TEACHER",
-      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Feeling that you care about what others are going through",
-      "answer": "EMPATHY",
+      "clue": "A straight line joining two opposite corners of a shape",
+      "answer": "DIAGONAL",
       "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Sport where you throw a round flat disc as far as you can",
-      "answer": "DISCUS",
-      "row": 3,
-      "col": 1,
+      "clue": "A panel of keys used to type text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 4,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A positive whole number used for counting objects",
+      "answer": "NATURAL",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The curved path of an object as it moves around another in space",
+      "answer": "ORBIT",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 28

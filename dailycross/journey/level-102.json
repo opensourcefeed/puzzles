@@ -4,98 +4,133 @@
   "title": "Level 102",
   "words": [
     {
-      "clue": "Building where scientists do research and experiments",
-      "answer": "LABORATORY",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Flying vehicle with spinning blades on the roof",
-      "answer": "HELICOPTER",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Shaking of the ground caused by moving rock plates",
-      "answer": "EARTHQUAKE",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Wooden block used to store and organize kitchen knives",
-      "answer": "KNIFEBLOCK",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who leads tourists around historical sites",
-      "answer": "TOURGUIDE",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Long wardrobe cabinet for hanging clothes",
-      "answer": "WARDROBE",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Device with letters and numbers you press to type",
-      "answer": "KEYBOARD",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who organizes weddings and other events",
-      "answer": "PLANNER",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling anxious before a big test or event",
-      "answer": "NERVOUS",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport played with a racket and a small yellow ball",
-      "answer": "TENNIS",
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
       "row": 7,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A shallow wound on the skin from scraping against something rough",
-      "answer": "SCRAPE",
-      "row": 11,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The tiny dwarf planet beyond Neptune",
-      "answer": "PLUTO",
-      "row": 0,
-      "col": 8,
+      "clue": "A person who is trained to travel and work in space",
+      "answer": "ASTRONAUT",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Flat measuring stick marked with centimeters and inches",
-      "answer": "RULER",
+      "clue": "The spinning motion of a planet around its own axis",
+      "answer": "ROTATION",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The passing of genetic traits from parents to offspring",
+      "answer": "HEREDITY",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates and designs clothing and accessories",
+      "answer": "DESIGNER",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A shape where every point on its boundary is the same distance from its center",
+      "answer": "CIRCULAR",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who is trained in or good at sports",
+      "answer": "ATHLETE",
       "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A very intelligent and playful ocean mammal",
+      "answer": "DOLPHIN",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A positive whole number used for counting objects",
+      "answer": "NATURAL",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with nine straight sides and nine angles",
+      "answer": "NONAGON",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep, rich purple color, like the flower",
+      "answer": "VIOLET",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a spout and handle used for boiling water",
+      "answer": "KETTLE",
+      "row": 14,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
+      "row": 0,
       "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 10,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A large organ that filters harmful substances from the blood",
+      "answer": "LIVER",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The third planet from the Sun, our home planet",
+      "answer": "EARTH",
+      "row": 12,
+      "col": 9,
+      "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 18,
   "targetWords": 19,
   "difficulty": "hard"
 }

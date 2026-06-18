@@ -4,73 +4,66 @@
   "title": "2027-04-18",
   "words": [
     {
-      "clue": "Device worn on your head to listen to music or audio",
-      "answer": "HEADPHONES",
-      "row": 6,
-      "col": 2,
+      "clue": "A four-sided shape with all sides equal in length",
+      "answer": "RHOMBUS",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Handheld device used to measure electrical current",
-      "answer": "MULTIMETER",
-      "row": 0,
+      "clue": "A soft, pale yellow color, like the dairy product",
+      "answer": "BUTTER",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The head of a school",
-      "answer": "PRINCIPAL",
-      "row": 4,
-      "col": 5,
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 7,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Person who does experiments to learn how the world works",
-      "answer": "SCIENTIST",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A substance taken to treat or prevent illness",
-      "answer": "MEDICINE",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The words written in a song",
-      "answer": "LYRICS",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Light rock full of small holes made by a volcano",
-      "answer": "PUMICE",
-      "row": 1,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who makes official decisions during a baseball game",
-      "answer": "UMPIRE",
+      "clue": "A device that shows the time, usually hung on a wall or placed on a surface",
+      "answer": "CLOCK",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Large spoon with a long handle used to serve soup",
-      "answer": "LADLE",
-      "row": 5,
-      "col": 1,
+      "clue": "A dark color like chocolate or tree bark",
+      "answer": "BROWN",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The bending joint in the middle of your leg",
-      "answer": "KNEE",
-      "row": 8,
-      "col": 8,
+      "clue": "A series of connected vehicles that run on railway tracks",
+      "answer": "TRAIN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A dwarf planet in our solar system that was once considered the ninth planet",
+      "answer": "PLUTO",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of music performed by a single singer",
+      "answer": "SOLO",
+      "row": 2,
+      "col": 10,
       "direction": "across"
     }
   ],

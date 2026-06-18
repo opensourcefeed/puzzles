@@ -4,105 +4,126 @@
   "title": "Level 144",
   "words": [
     {
-      "clue": "Room where you do science experiments",
-      "answer": "LABORATORY",
+      "clue": "A sudden shaking of the ground caused by movements in Earth's crust",
+      "answer": "EARTHQUAKE",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "South Asian country with the city of Dhaka",
-      "answer": "BANGLADESH",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Long thin pasta dish with tomato sauce",
-      "answer": "SPAGHETTI",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that travels under the water",
-      "answer": "SUBMARINE",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Floating transparent ocean creature with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Moving staircase found in malls and airports",
-      "answer": "ESCALATOR",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where Jews go to worship",
-      "answer": "SYNAGOGUE",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A young person between thirteen and nineteen years old",
-      "answer": "TEENAGER",
-      "row": 13,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The fifth and largest planet from the sun",
-      "answer": "JUPITER",
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
       "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Small furry animal that lives in a cage and runs on a wheel",
-      "answer": "HAMSTER",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Long padded seat usually placed against a wall",
-      "answer": "BENCH",
-      "row": 5,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Handheld device you use to call people and browse the internet",
-      "answer": "PHONE",
-      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Soft fabric worn on your feet inside shoes",
-      "answer": "SOCKS",
+      "clue": "A large tropical fruit with rough, spiky skin and sweet yellow flesh",
+      "answer": "PINEAPPLE",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who is trained to travel and work in space",
+      "answer": "ASTRONAUT",
       "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling deep sadness and missing someone very much",
-      "answer": "GRIEF",
+      "clue": "A strip of material used to mark a reader's place in a book",
+      "answer": "BOOKMARK",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The dense, central core of an atom containing protons and neutrons",
+      "answer": "NUCLEUS",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 13,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "An object that produces a magnetic field and attracts iron",
+      "answer": "MAGNET",
+      "row": 9,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A food made by baking a mixture of flour, water, and yeast",
+      "answer": "BREAD",
       "row": 0,
-      "col": 12,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
+      "answer": "MEDAL",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of loud; making little or no noise",
+      "answer": "QUIET",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The symbol (-) used to show that one number is being subtracted from another",
+      "answer": "MINUS",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The outer layer of tissue that covers and protects your body",
+      "answer": "SKIN",
+      "row": 10,
+      "col": 7,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 17,
   "targetWords": 24,
   "difficulty": "hard"
 }

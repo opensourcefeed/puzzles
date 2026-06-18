@@ -4,67 +4,74 @@
   "title": "2026-07-11",
   "words": [
     {
-      "clue": "When a substance dissolves in a liquid",
-      "answer": "SOLUTION",
-      "row": 4,
-      "col": 0,
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Vast flat open grassland in Africa",
-      "answer": "SAVANNA",
-      "row": 4,
-      "col": 0,
+      "clue": "An animal that feeds only on the flesh of other animals",
+      "answer": "CARNIVORE",
+      "row": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Celebration at the start of a new year on January 1",
-      "answer": "NEWYEAR",
-      "row": 4,
+      "clue": "The phase of the Moon when it is not visible from Earth",
+      "answer": "NEWMOON",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "You use this to rub out pencil marks",
-      "answer": "ERASER",
-      "row": 8,
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Writing instructions for a computer in a special language",
-      "answer": "CODING",
-      "row": 1,
+      "clue": "The place where a river or stream begins its journey",
+      "answer": "SOURCE",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that controls the flow of water from a pipe",
+      "answer": "FAUCET",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
+      "answer": "PULSAR",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A polygon where all interior angles are less than 180 degrees",
+      "answer": "CONVEX",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of loud; making little or no noise",
+      "answer": "QUIET",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Folder where you keep your papers",
-      "answer": "BINDER",
-      "row": 10,
-      "col": 2,
+      "clue": "A dark color like chocolate or tree bark",
+      "answer": "BROWN",
+      "row": 12,
+      "col": 10,
       "direction": "across"
-    },
-    {
-      "clue": "Hindu festival of lights celebrated in autumn",
-      "answer": "DIWALI",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling pleased with yourself after doing something well",
-      "answer": "PROUD",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Small ring worn on a finger as jewelry",
-      "answer": "RING",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
     }
   ],
   "dayNumber": 29

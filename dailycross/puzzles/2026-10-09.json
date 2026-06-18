@@ -4,65 +4,72 @@
   "title": "2026-10-09",
   "words": [
     {
-      "clue": "Long thin pasta dish with tomato sauce",
-      "answer": "SPAGHETTI",
-      "row": 4,
-      "col": 3,
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The operating system used on most Android phones and Windows computers",
-      "answer": "ANDROID",
-      "row": 4,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Cloth worn around your waist below the shirt",
-      "answer": "SKIRT",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Large vehicle that carries heavy goods on highways",
-      "answer": "TRUCK",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Japanese dish of rice and raw fish",
-      "answer": "SUSHI",
-      "row": 6,
-      "col": 8,
+      "clue": "An animal that eats both plants and other animals",
+      "answer": "OMNIVORE",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Large spoon with a long handle used to serve soup",
-      "answer": "LADLE",
-      "row": 0,
-      "col": 8,
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Group of students who learn together",
-      "answer": "CLASS",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The planet we live on, third from the sun",
-      "answer": "EARTH",
-      "row": 8,
+      "clue": "A part of a line that has two distinct endpoints",
+      "answer": "SEGMENT",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small pill or tablet containing medicine",
-      "answer": "PILL",
-      "row": 5,
+      "clue": "The result obtained by multiplying two or more numbers together",
+      "answer": "PRODUCT",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of furniture with a flat top, used for eating, working, or placing things",
+      "answer": "TABLE",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of up; toward or in a lower position",
+      "answer": "DOWN",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of right; on the side that is toward the west when facing north",
+      "answer": "LEFT",
+      "row": 0,
       "col": 12,
       "direction": "down"
     }

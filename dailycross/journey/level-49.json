@@ -4,84 +4,70 @@
   "title": "Level 49",
   "words": [
     {
-      "clue": "Sport where you throw and catch an orange ball through a hoop",
-      "answer": "BASKETBALL",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that collects garbage from houses",
-      "answer": "TRASHCAR",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle used on a farm to pull heavy equipment",
-      "answer": "TRACTOR",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Large ape that lives in African forests",
-      "answer": "GORILLA",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Small furry animal that carries babies in a pouch",
-      "answer": "OPOSSUM",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet round red or yellow vegetable used in salads",
-      "answer": "PEPPER",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A shallow wound on the skin from scraping against something rough",
-      "answer": "SCRAPE",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Spring holiday with Easter eggs and a bunny",
-      "answer": "EASTER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Thick yellow dairy spread put on bread",
-      "answer": "BUTTER",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A large round object in space that orbits a star",
-      "answer": "PLANET",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Colorful reef structure made by tiny ocean animals",
-      "answer": "CORAL",
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
       "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A number that has more than two factors",
+      "answer": "COMPOSITE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport or activity of moving through water using arms and legs",
+      "answer": "SWIMMING",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who tends and cultivates gardens and plants",
+      "answer": "GARDENER",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A young plant just starting to grow",
+      "answer": "SPROUT",
+      "row": 0,
       "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "The distance from the center of a circle to any point on its edge",
+      "answer": "RADIUS",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 9,
   "targetWords": 11,
   "difficulty": "medium"
 }

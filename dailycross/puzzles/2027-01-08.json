@@ -4,74 +4,60 @@
   "title": "2027-01-08",
   "words": [
     {
-      "clue": "A place with equipment where scientists do experiments",
-      "answer": "LABORATORY",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Software that protects your computer from viruses",
-      "answer": "ANTIVIRUS",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Green salad vegetable that is long and crunchy",
-      "answer": "CUCUMBER",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Vast flat open grassland in Africa",
-      "answer": "SAVANNA",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The last day of the weekend",
-      "answer": "SUNDAY",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft square used to wipe and clean surfaces and dishes",
-      "answer": "SPONGE",
-      "row": 8,
+      "clue": "A series of games or contests with several rounds to find a winner",
+      "answer": "TOURNAMENT",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Fine yellow powder made by flowers to make seeds",
-      "answer": "POLLEN",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Microsoft program used to create spreadsheets",
-      "answer": "EXCEL",
+      "clue": "A bright, vivid greenish-yellow color named after a liqueur",
+      "answer": "CHARTREUSE",
       "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Large building where concerts and events are held",
-      "answer": "ARENA",
-      "row": 3,
-      "col": 9,
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 6,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A prediction or estimate of future weather conditions",
+      "answer": "FORECAST",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A shape where every point on its boundary is the same distance from its center",
+      "answer": "CIRCULAR",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that stores chemical energy and converts it to electrical energy",
+      "answer": "BATTERY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A narrow boat for one person, propelled by a double-bladed paddle",
+      "answer": "KAYAK",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 210

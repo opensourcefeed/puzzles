@@ -4,105 +4,112 @@
   "title": "Level 110",
   "words": [
     {
-      "clue": "Energy stored in an object ready to be released",
-      "answer": "POTENTIAL",
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
       "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The region of space from which nothing can escape",
-      "answer": "BLACKHOLE",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Software that protects your computer from viruses",
-      "answer": "ANTIVIRUS",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The middle day of the school week",
-      "answer": "WEDNESDAY",
-      "row": 14,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Money given to a charity or cause",
-      "answer": "DONATION",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who keeps schools and offices clean",
-      "answer": "JANITOR",
-      "row": 11,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Captain who is in charge of a large ship",
-      "answer": "CAPTAIN",
-      "row": 5,
-      "col": 1,
+      "clue": "A plant that lives and grows for more than two years",
+      "answer": "PERENNIAL",
+      "row": 6,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Organ that turns food into nutrients your body uses",
-      "answer": "STOMACH",
-      "row": 2,
+      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "answer": "HURRICANE",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A large animal with a trunk",
+      "answer": "ELEPHANT",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling embarrassed or guilty about something",
+      "answer": "ASHAMED",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 9,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Sport played with a racket and a small yellow ball",
-      "answer": "TENNIS",
-      "row": 0,
-      "col": 8,
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Animal that hisses and has venom",
-      "answer": "COBRA",
-      "row": 10,
-      "col": 7,
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 8,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Small device that counts down while food is cooking",
-      "answer": "TIMER",
-      "row": 9,
+      "clue": "A black and white bird that lives in cold oceans and cannot fly",
+      "answer": "PENGUIN",
+      "row": 5,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Flat top of the stove with burners used for cooking",
-      "answer": "STOVE",
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
       "row": 0,
-      "col": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 10,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Machine used to lift and move very heavy loads",
-      "answer": "CRANE",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
+      "clue": "A perfectly round solid shape like a ball",
+      "answer": "SPHERE",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The smallest unit of a digital image, represented as a tiny square",
+      "answer": "PIXEL",
+      "row": 14,
+      "col": 2,
+      "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 20,
   "difficulty": "hard"
 }

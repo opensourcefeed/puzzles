@@ -4,60 +4,60 @@
   "title": "Level 48",
   "words": [
     {
-      "clue": "Warm pullover top worn in cold weather",
-      "answer": "SWEATER",
-      "row": 1,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Being in good physical condition from exercise and good food",
-      "answer": "HEALTHY",
-      "row": 0,
-      "col": 4,
+      "clue": "A part of a whole number, written with a numerator and denominator",
+      "answer": "FRACTION",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Hindu festival of lights celebrated in autumn",
-      "answer": "DIWALI",
+      "clue": "An electronic device that processes data and runs programs",
+      "answer": "COMPUTER",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
+      "answer": "PERCENT",
       "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A triangle with all three sides of different lengths",
+      "answer": "SCALENE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sport where you throw a round flat disc as far as you can",
-      "answer": "DISCUS",
-      "row": 2,
-      "col": 1,
+      "clue": "A sea creature with eight arms and a soft body",
+      "answer": "OCTOPUS",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Large white box that keeps food cold",
-      "answer": "FRIDGE",
+      "clue": "The phase of the Moon when it is not visible from Earth",
+      "answer": "NEWMOON",
       "row": 0,
-      "col": 8,
+      "col": 2,
       "direction": "down"
-    },
-    {
-      "clue": "Country that bridges Europe and Asia with Istanbul",
-      "answer": "TURKEY",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Stockholm",
-      "answer": "SWEDEN",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Soft orange fruit with a stone inside",
-      "answer": "PEACH",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "wordCount": 8,

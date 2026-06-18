@@ -4,63 +4,70 @@
   "title": "Level 29",
   "words": [
     {
-      "clue": "Mineral in milk and cheese needed for strong bones",
-      "answer": "CALCIUM",
-      "row": 2,
+      "clue": "An angle that measures exactly 90 degrees",
+      "answer": "RIGHTANGLE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Dark green leafy vegetable rich in iron",
-      "answer": "SPINACH",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A large flat area of high land",
-      "answer": "PLATEAU",
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
       "row": 1,
-      "col": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with four equal sides and four corners",
-      "answer": "SQUARE",
-      "row": 0,
-      "col": 4,
+      "clue": "An animal that feeds only on plants and plant material",
+      "answer": "HERBIVORE",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
+      "row": 13,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Feeling scared of something",
-      "answer": "AFRAID",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
     },
     {
-      "clue": "Large cupboard built into the wall for storing clothes",
-      "answer": "CLOSET",
-      "row": 2,
+      "clue": "Feeling confused because something is difficult to understand",
+      "answer": "PUZZLED",
+      "row": 9,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Your sister's or brother's daughter",
-      "answer": "NIECE",
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
       "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A black and white striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 0,
       "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "Microsoft program used to create spreadsheets",
-      "answer": "EXCEL",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 9,
   "targetWords": 9,
   "difficulty": "easy"
 }

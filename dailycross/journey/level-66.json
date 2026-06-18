@@ -4,98 +4,91 @@
   "title": "Level 66",
   "words": [
     {
-      "clue": "Cabinet in the kitchen used to store dishes and glasses",
-      "answer": "CUPBOARD",
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
       "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Person who builds roads, bridges and large structures",
-      "answer": "ENGINEER",
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
       "row": 0,
-      "col": 8,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Animal with spots that lives in Africa",
-      "answer": "LEOPARD",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling anxious before a big test or event",
-      "answer": "NERVOUS",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Being in good physical condition from exercise and good food",
-      "answer": "HEALTHY",
-      "row": 8,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling that you want something very much",
-      "answer": "JEALOUS",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Container with a lid and handle used to boil water for tea",
-      "answer": "KETTLE",
-      "row": 12,
+      "clue": "A bag with straps worn on the back to carry books and school supplies",
+      "answer": "BACKPACK",
+      "row": 13,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Starchy vegetable that grows underground often made into chips",
-      "answer": "POTATO",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that attracts iron and steel",
-      "answer": "MAGNET",
-      "row": 6,
+      "clue": "To transfer data from the internet to a computer or device",
+      "answer": "DOWNLOAD",
+      "row": 7,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Sport where you row a boat on water",
-      "answer": "ROWING",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of people all related to each other",
-      "answer": "FAMILY",
-      "row": 14,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat dish used to serve a meal",
-      "answer": "PLATE",
-      "row": 4,
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 10,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The symbol (-) used to show that one number is being subtracted from another",
+      "answer": "MINUS",
+      "row": 10,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A professional cook who prepares meals in a kitchen",
+      "answer": "CHEF",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A neutral color between black and white, like an elephant",
+      "answer": "GRAY",
+      "row": 8,
+      "col": 3,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 12,
   "targetWords": 14,
   "difficulty": "medium"
 }

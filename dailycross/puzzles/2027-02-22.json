@@ -4,53 +4,74 @@
   "title": "2027-02-22",
   "words": [
     {
-      "clue": "Person who designs buildings and plans how they will be built",
-      "answer": "ARCHITECT",
-      "row": 4,
-      "col": 0,
+      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
+      "answer": "SPACECRAFT",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Building where Jews go to worship",
-      "answer": "SYNAGOGUE",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Tall feature on land formed by pushing earth upward",
-      "answer": "MOUNTAIN",
+      "clue": "The process by which the body breaks down food into nutrients",
+      "answer": "DIGESTION",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A shape like a can or tube",
-      "answer": "CYLINDER",
+      "clue": "A scientist who specializes in the study of plants",
+      "answer": "BOTANIST",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with ten straight sides and ten angles",
+      "answer": "DECAGON",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 7,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of flat land with few trees",
+      "answer": "PLAIN",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A very slow-moving animal that carries a shell on its back",
+      "answer": "SNAIL",
       "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Giant ocean wave caused by underwater earthquakes",
-      "answer": "TSUNAMI",
-      "row": 2,
-      "col": 3,
+      "clue": "Plant tissue that transports water and minerals from roots upward",
+      "answer": "XYLEM",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who cleans and checks your teeth",
-      "answer": "DENTIST",
-      "row": 5,
-      "col": 8,
+      "clue": "A storm with thunder, lightning, and usually heavy rain",
+      "answer": "STORM",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "European country with the city of Vienna and Mozart",
-      "answer": "AUSTRIA",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
+      "clue": "Weather that is gentle and neither very hot nor very cold",
+      "answer": "MILD",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 255

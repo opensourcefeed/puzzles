@@ -4,63 +4,56 @@
   "title": "Level 25",
   "words": [
     {
-      "clue": "Device that plays sound from a computer or phone",
-      "answer": "SPEAKER",
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
       "row": 3,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The first month of the year",
-      "answer": "JANUARY",
+      "clue": "A very light purple color, like the flower",
+      "answer": "LAVENDER",
       "row": 2,
-      "col": 7,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Machine that can create three-dimensional objects from digital files",
-      "answer": "PRINTER",
-      "row": 3,
-      "col": 5,
+      "clue": "A person whose job is to paint walls, buildings, and other surfaces",
+      "answer": "PAINTER",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Hottest season of the year",
-      "answer": "SUMMER",
-      "row": 5,
+      "clue": "Feeling fear or worry about a possible danger",
+      "answer": "SCARED",
+      "row": 0,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A push or pull that can change the motion of an object",
+      "answer": "FORCE",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A deep narrow valley with steep rocky sides",
-      "answer": "CANYON",
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who sews and makes clothes for a living",
-      "answer": "TAILOR",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Black and white striped animal like a horse",
-      "answer": "ZEBRA",
+      "clue": "A farm animal that gives wool",
+      "answer": "SHEEP",
       "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Sturdy blue trousers made from denim",
-      "answer": "JEANS",
-      "row": 3,
-      "col": 2,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 7,
   "targetWords": 8,
   "difficulty": "easy"
 }

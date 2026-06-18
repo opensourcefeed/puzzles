@@ -4,59 +4,66 @@
   "title": "2027-05-28",
   "words": [
     {
-      "clue": "An object that allows electricity to flow through it",
-      "answer": "CONDUCTOR",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport where two people try to throw each other to the ground",
-      "answer": "WRESTLING",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Round green vegetable that grows on a vine",
-      "answer": "ZUCCHINI",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who lives in the house next to yours",
-      "answer": "NEIGHBOR",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Hindu festival of lights celebrated in autumn",
-      "answer": "DIWALI",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Sweet round red or yellow vegetable used in salads",
-      "answer": "PEPPER",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The flat area where a football match is played",
-      "answer": "FIELD",
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
       "row": 5,
-      "col": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Flat measuring stick marked with centimeters and inches",
-      "answer": "RULER",
-      "row": 8,
+      "clue": "A flat shape with twelve straight sides and twelve angles",
+      "answer": "DODECAGON",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A prediction or estimate of future weather conditions",
+      "answer": "FORECAST",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The display screen of a computer that shows images and text",
+      "answer": "MONITOR",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A polygon where all sides and all angles are equal",
+      "answer": "REGULAR",
+      "row": 3,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The color created by mixing red and yellow, like a carrot",
+      "answer": "ORANGE",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where players hit a ball over a net using rackets",
+      "answer": "TENNIS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that grows round, red fruits often used in cooking",
+      "answer": "TOMATO",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     }
   ],

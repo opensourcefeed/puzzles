@@ -4,59 +4,59 @@
   "title": "Level 28",
   "words": [
     {
-      "clue": "Brown drink made from roasted beans",
-      "answer": "COFFEE",
+      "clue": "A scientist who specializes in the study of animals",
+      "answer": "ZOOLOGIST",
       "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A coin that is worth five cents",
-      "answer": "NICKEL",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Protective head cover worn in sports like cycling",
-      "answer": "HELMET",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat touchscreen device without a physical keyboard",
-      "answer": "TABLET",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The regular repeating beat in music",
-      "answer": "RHYTHM",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny lights you see in the sky at night",
-      "answer": "STARS",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Tall bar stool used at a kitchen counter",
-      "answer": "STOOL",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Tool used to check if a surface is perfectly flat",
-      "answer": "LEVEL",
-      "row": 4,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A team sport where players hit a ball with a bat and run bases",
+      "answer": "BASEBALL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A green, pear-shaped fruit with a large pit inside",
+      "answer": "AVOCADO",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A large, round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of correct; not correct or true",
+      "answer": "WRONG",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A figure formed by two rays sharing a common endpoint",
+      "answer": "ANGLE",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of printed pages bound together for reading or learning",
+      "answer": "BOOK",
+      "row": 0,
+      "col": 7,
       "direction": "across"
     }
   ],

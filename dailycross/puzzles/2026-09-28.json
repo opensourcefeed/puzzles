@@ -4,74 +4,67 @@
   "title": "2026-09-28",
   "words": [
     {
-      "clue": "Shaking of the ground caused by moving rock plates",
-      "answer": "EARTHQUAKE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that puts out fires with water",
-      "answer": "FIRETRUCK",
-      "row": 3,
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
+      "row": 2,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Tall yellow spring flower with a trumpet-shaped center",
-      "answer": "DAFFODIL",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The tenth month of the year",
-      "answer": "OCTOBER",
-      "row": 8,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
-      "row": 5,
-      "col": 0,
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Color made by mixing red and yellow",
-      "answer": "ORANGE",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of a ripe banana",
-      "answer": "YELLOW",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Folder where you keep your papers",
-      "answer": "BINDER",
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
       "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Stringed instrument with six strings you strum or pluck",
-      "answer": "GUITAR",
-      "row": 2,
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 8,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Large residence where a king or queen lives",
-      "answer": "PALACE",
-      "row": 0,
-      "col": 0,
+      "clue": "A group of living organisms that can reproduce with each other",
+      "answer": "SPECIES",
+      "row": 3,
+      "col": 13,
       "direction": "down"
+    },
+    {
+      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
+      "answer": "VOLCANO",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of your face below your mouth and above your neck",
+      "answer": "CHIN",
+      "row": 6,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 108

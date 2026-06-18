@@ -4,66 +4,73 @@
   "title": "2026-08-24",
   "words": [
     {
-      "clue": "Small device you plug into a computer to store files",
-      "answer": "FLASHDRIVE",
-      "row": 5,
+      "clue": "A shape that does not have symmetry and cannot be divided into identical halves",
+      "answer": "ASYMMETRIC",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sport of running long distances across a city",
-      "answer": "MARATHON",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where you can borrow books to read for free",
-      "answer": "LIBRARY",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Your tummy where food is digested",
-      "answer": "STOMACH",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Empire that once ruled modern-day Turkey and beyond",
-      "answer": "OTTOMAN",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Small stringed instrument you play with a bow",
-      "answer": "VIOLIN",
+      "clue": "An instrument used to measure atmospheric pressure",
+      "answer": "BAROMETER",
       "row": 4,
-      "col": 12,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Ocean reptile with a hard shell that also lives on land",
-      "answer": "TURTLE",
-      "row": 0,
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
+      "row": 6,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Farm building where horses are kept",
-      "answer": "STABLE",
-      "row": 5,
-      "col": 3,
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The part of your body that sits on top of your neck",
-      "answer": "HEAD",
-      "row": 10,
+      "clue": "A race in which runners must jump over barriers",
+      "answer": "HURDLES",
+      "row": 11,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A regular, repeated pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A very light yellow color, like the top of milk",
+      "answer": "CREAM",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small vessel for traveling on water",
+      "answer": "BOAT",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     }
   ],

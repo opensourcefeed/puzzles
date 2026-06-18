@@ -4,84 +4,91 @@
   "title": "Level 85",
   "words": [
     {
-      "clue": "Software that protects your computer from viruses",
-      "answer": "ANTIVIRUS",
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
       "row": 7,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "What you must eat to keep your body working properly",
-      "answer": "NUTRITION",
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
       "row": 6,
-      "col": 9,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A powerful instrument used to see distant stars and planets",
-      "answer": "TELESCOPE",
-      "row": 13,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 10,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Tall yellow flower that grows facing the sun",
-      "answer": "SUNFLOWER",
-      "row": 6,
+      "clue": "A person whose job is to drive a bus",
+      "answer": "BUSDRIVER",
+      "row": 3,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The part of a computer you can see and touch",
-      "answer": "HARDWARE",
-      "row": 6,
-      "col": 2,
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Person who trains animals to behave or do tricks",
-      "answer": "TRAINER",
-      "row": 9,
+      "clue": "An Australian animal that hops and carries babies in a pouch",
+      "answer": "KANGAROO",
+      "row": 2,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Subject where you learn about events from the past",
-      "answer": "HISTORY",
-      "row": 4,
-      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "European country with the city of Budapest",
-      "answer": "HUNGARY",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Brown vegetable that grows underground and is often fried",
-      "answer": "POTATO",
-      "row": 11,
+      "clue": "A scientist who studies plants and their growth",
+      "answer": "BOTANIST",
+      "row": 5,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Round flat Italian dish with cheese and toppings",
-      "answer": "PIZZA",
+      "clue": "The opposite of generous; lacking consideration for others",
+      "answer": "SELFISH",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
       "row": 0,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The planet we live on, third from the sun",
-      "answer": "EARTH",
-      "row": 4,
-      "col": 0,
+      "clue": "The two organs in your chest that help you breathe",
+      "answer": "LUNGS",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "How high or low a musical sound is",
+      "answer": "PITCH",
+      "row": 3,
+      "col": 6,
       "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 12,
   "targetWords": 16,
   "difficulty": "medium"
 }

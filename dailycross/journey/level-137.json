@@ -4,98 +4,119 @@
   "title": "Level 137",
   "words": [
     {
-      "clue": "Wooden block used to store and organize kitchen knives",
-      "answer": "KNIFEBLOCK",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Light fitting that hangs from the ceiling",
-      "answer": "CHANDELIER",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The main processing chip inside a computer",
-      "answer": "PROCESSOR",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with four sides where opposite sides are equal",
-      "answer": "RECTANGLE",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that does not let electricity pass through",
-      "answer": "INSULATOR",
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
       "row": 6,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The day that comes after today",
-      "answer": "TOMORROW",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "A very tall natural rise of land formed by rock",
-      "answer": "MOUNTAIN",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
     },
     {
-      "clue": "Bird with colorful tail feathers",
-      "answer": "PEACOCK",
-      "row": 9,
+      "clue": "Feeling deep sorrow, especially after a loss",
+      "answer": "GRIEVING",
+      "row": 3,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "What happens when ice or chocolate becomes liquid from heat",
-      "answer": "MELTING",
-      "row": 4,
-      "col": 0,
+      "clue": "A scientist who specializes in the study of plants",
+      "answer": "BOTANIST",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Rock that comes from space and burns as it falls",
-      "answer": "METEOR",
-      "row": 5,
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of open; not open or allowing access",
+      "answer": "CLOSED",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The process of writing instructions for a computer to follow",
+      "answer": "CODING",
+      "row": 7,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Animal with a shell that moves very slowly",
-      "answer": "TURTLE",
-      "row": 14,
-      "col": 0,
+      "clue": "Feeling fear or worry about a possible danger",
+      "answer": "SCARED",
+      "row": 10,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Animal known for spraying a bad smell",
-      "answer": "SKUNK",
-      "row": 8,
+      "clue": "A deep blue-purple color, like the plant used for dye",
+      "answer": "INDIGO",
+      "row": 2,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The biological information passed from parent to child",
-      "answer": "GENE",
+      "clue": "A regular, repeated pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 8,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A fine powder made by grinding wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the three main forms that matter can take",
+      "answer": "STATE",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The action of moving something on a screen by holding and pulling it",
+      "answer": "DRAG",
       "row": 0,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 16,
   "targetWords": 23,
   "difficulty": "hard"
 }

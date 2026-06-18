@@ -4,126 +4,119 @@
   "title": "Level 149",
   "words": [
     {
-      "clue": "Book with words and their meanings",
-      "answer": "DICTIONARY",
-      "row": 7,
+      "clue": "A bright, vivid greenish-yellow color named after a liqueur",
+      "answer": "CHARTREUSE",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Person who does experiments to learn how the world works",
+      "clue": "A person who conducts scientific research in a laboratory",
       "answer": "SCIENTIST",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A triangle with two sides of equal length",
+      "answer": "ISOSCELES",
       "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A race where each competitor tries to complete a course in the shortest time",
+      "answer": "TIMETRIAL",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Vehicle police officers drive",
-      "answer": "POLICECAR",
-      "row": 4,
+      "clue": "A person whose job is to drive a bus",
+      "answer": "BUSDRIVER",
+      "row": 12,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sure of yourself and your abilities",
-      "answer": "CONFIDENT",
-      "row": 9,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Two slices of bread with filling inside",
-      "answer": "SANDWICH",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Physical activity that keeps your body strong and fit",
-      "answer": "EXERCISE",
-      "row": 12,
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Your male sibling",
-      "answer": "BROTHER",
-      "row": 6,
+      "clue": "A long, narrow board with a padded surface used for ironing",
+      "answer": "IRONBOARD",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A woodwind instrument with a single reed and keys",
+      "answer": "CLARINET",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The phase of the Moon when it is not visible from Earth",
+      "answer": "NEWMOON",
+      "row": 0,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Person who grows crops and raises animals for food",
-      "answer": "FARMER",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who keeps the public safe and enforces laws",
-      "answer": "POLICE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 12,
+      "clue": "The organ that filters waste from your blood and produces urine",
+      "answer": "KIDNEY",
+      "row": 0,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Country string instrument with five strings and a round body",
-      "answer": "BANJO",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
+      "clue": "A crisp, green vegetable with long, fibrous stalks",
+      "answer": "CELERY",
+      "row": 10,
+      "col": 9,
+      "direction": "across"
     },
     {
-      "clue": "Large box or trunk used to store blankets and items",
-      "answer": "CHEST",
+      "clue": "A colorless, odorless gas that is essential for human life",
+      "answer": "OXYGEN",
       "row": 8,
       "col": 14,
       "direction": "down"
     },
     {
-      "clue": "A living thing that makes its own food from sunlight",
-      "answer": "PLANT",
-      "row": 1,
+      "clue": "A deep, rich purple color, like the flower",
+      "answer": "VIOLET",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A bird that was historically used to carry messages",
+      "answer": "PIGEON",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The land along the edge of an ocean or sea",
+      "answer": "COAST",
+      "row": 9,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The bony part of your back going down the center",
-      "answer": "SPINE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Large flow of water that runs to the sea",
-      "answer": "RIVER",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal that carries its home on its back",
-      "answer": "SNAIL",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A body of fresh water completely surrounded by land",
-      "answer": "LAKE",
-      "row": 0,
-      "col": 12,
       "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 16,
   "targetWords": 25,
   "difficulty": "hard"
 }

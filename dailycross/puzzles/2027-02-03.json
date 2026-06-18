@@ -4,73 +4,59 @@
   "title": "2027-02-03",
   "words": [
     {
-      "clue": "Person who writes computer programs",
-      "answer": "PROGRAMMER",
-      "row": 5,
+      "clue": "A pair of speakers worn over the ears for listening to audio",
+      "answer": "HEADPHONES",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who organizes and manages books in a library",
-      "answer": "LIBRARIAN",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "European country with the city of Budapest",
-      "answer": "HUNGARY",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Device that converts paper documents into digital files",
-      "answer": "SCANNER",
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
       "row": 0,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A child who has been legally taken into a new family",
-      "answer": "ADOPTED",
-      "row": 3,
-      "col": 2,
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Small egg-shaped instrument you shake to make sound",
-      "answer": "MARACA",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Sixty seconds equal one of these",
-      "answer": "MINUTE",
-      "row": 3,
-      "col": 6,
+      "clue": "The amount of rain that falls over a period of time",
+      "answer": "RAINFALL",
+      "row": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Very dark shade of blue like a school uniform",
-      "answer": "NAVY",
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A line that touches a circle at exactly one point",
+      "answer": "TANGENT",
       "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A tiny organism that can cause illness and infection",
-      "answer": "GERM",
-      "row": 0,
-      "col": 6,
+      "clue": "A part of a song that is repeated after each verse",
+      "answer": "CHORUS",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A high mountain pass between two peaks",
-      "answer": "PASS",
-      "row": 5,
-      "col": 0,
+      "clue": "The symbol (÷) used to show that one number is being divided by another",
+      "answer": "DIVIDE",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     }
   ],

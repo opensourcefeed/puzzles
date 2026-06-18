@@ -4,74 +4,46 @@
   "title": "2026-08-30",
   "words": [
     {
-      "clue": "Heavy cylinder rolled over dough to flatten it",
-      "answer": "ROLLINGPIN",
-      "row": 4,
-      "col": 2,
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
-      "answer": "MOTORCYCLE",
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep red-purple color, like the wine from the region",
+      "answer": "BURGUNDY",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The tough outer layer that covers and protects a seed",
+      "answer": "SEEDCOAT",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that converts physical documents into digital images",
+      "answer": "SCANNER",
       "row": 1,
       "col": 3,
       "direction": "down"
-    },
-    {
-      "clue": "A place with equipment where scientists do experiments",
-      "answer": "LABORATORY",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where you can borrow books to read for free",
-      "answer": "LIBRARY",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who educates students in a school classroom",
-      "answer": "TEACHER",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "European country with the city of Budapest",
-      "answer": "HUNGARY",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who creates paintings, drawings and sculptures",
-      "answer": "ARTIST",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on your feet to protect them outside",
-      "answer": "SHOES",
-      "row": 2,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Farm animal that gives us wool",
-      "answer": "SHEEP",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Small building in a garden where tools are stored",
-      "answer": "SHED",
-      "row": 0,
-      "col": 9,
-      "direction": "across"
     }
   ],
   "dayNumber": 79

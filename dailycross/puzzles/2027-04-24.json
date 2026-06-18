@@ -4,66 +4,73 @@
   "title": "2027-04-24",
   "words": [
     {
-      "clue": "Sport where you throw and catch an orange ball through a hoop",
-      "answer": "BASKETBALL",
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
       "row": 5,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Small island city-state in Southeast Asia",
-      "answer": "SINGAPORE",
-      "row": 1,
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The most southerly point of Earth covered in ice",
-      "answer": "SOUTHPOLE",
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
       "row": 2,
-      "col": 5,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Brown sweet powder used in desserts",
-      "answer": "CHOCOLATE",
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Hinged cutting tool used to cut paper or fabric",
-      "answer": "SCISSORS",
+      "clue": "A figure formed by two rays sharing a common endpoint",
+      "answer": "ANGLE",
       "row": 1,
-      "col": 0,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "You carry your books in this on your back",
-      "answer": "BACKPACK",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Animal that glows in the dark at night",
-      "answer": "FIREFLY",
-      "row": 10,
-      "col": 2,
+      "clue": "Weather that is bright and free of clouds or rain",
+      "answer": "CLEAR",
+      "row": 8,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that slides on snow pulled by dogs or horses",
-      "answer": "SLED",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The soft red part around your teeth",
-      "answer": "GUMS",
-      "row": 2,
-      "col": 2,
+      "clue": "A solid shape with six identical square faces",
+      "answer": "CUBE",
+      "row": 7,
+      "col": 1,
       "direction": "down"
     }
   ],

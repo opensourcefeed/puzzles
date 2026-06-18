@@ -4,52 +4,52 @@
   "title": "Level 14",
   "words": [
     {
-      "clue": "You use this to color and draw pictures",
-      "answer": "CRAYONS",
-      "row": 2,
-      "col": 3,
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Vehicle used on a farm to pull heavy equipment",
-      "answer": "TRACTOR",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Long period of very little or no rainfall",
-      "answer": "DROUGHT",
+      "clue": "A cabinet with shelves for storing food and dishes",
+      "answer": "CUPBOARD",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The color of a ripe banana",
-      "answer": "YELLOW",
-      "row": 6,
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates art through drawing, painting, or other visual media",
+      "answer": "ARTIST",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who operates and controls a vehicle",
+      "answer": "DRIVER",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Hottest season of the year",
-      "answer": "SUMMER",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A quality or characteristic passed down through generations",
-      "answer": "TRAIT",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A large group of singers performing together",
-      "answer": "CHOIR",
-      "row": 4,
-      "col": 11,
+      "clue": "The curved path of an object as it moves around another in space",
+      "answer": "ORBIT",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     }
   ],

@@ -4,74 +4,67 @@
   "title": "2026-12-04",
   "words": [
     {
-      "clue": "Green salad vegetable that is long and crunchy",
-      "answer": "CUCUMBER",
-      "row": 2,
-      "col": 3,
+      "clue": "An instrument used to measure wind speed",
+      "answer": "ANEMOMETER",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Two or more atoms joined together",
-      "answer": "MOLECULE",
-      "row": 2,
-      "col": 7,
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
+      "row": 5,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Box used to carry a packed lunch to school",
-      "answer": "LUNCHBOX",
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who specializes in the study of plants",
+      "answer": "BOTANIST",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
+      "answer": "CONCAVE",
       "row": 4,
-      "col": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest planet in our solar system and closest to the Sun",
+      "answer": "MERCURY",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Very tiny living things you can only see with a microscope",
-      "answer": "BACTERIA",
+      "clue": "A series of musical notes arranged in ascending or descending order",
+      "answer": "SCALE",
+      "row": 11,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A fine powder made by grinding wheat, used for baking",
+      "answer": "FLOUR",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Tall yellow spring flower with a trumpet-shaped center",
-      "answer": "DAFFODIL",
-      "row": 0,
+      "clue": "A number that has exactly two different factors: itself and 1",
+      "answer": "PRIME",
+      "row": 7,
       "col": 13,
       "direction": "down"
-    },
-    {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A large flat area of high land",
-      "answer": "PLATEAU",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Giant ocean wave caused by underwater earthquakes",
-      "answer": "TSUNAMI",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Special song played to honor a country",
-      "answer": "ANTHEM",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A curved bay formed by the sea cutting into land",
-      "answer": "GULF",
-      "row": 7,
-      "col": 11,
-      "direction": "across"
     }
   ],
   "dayNumber": 175

@@ -4,67 +4,74 @@
   "title": "2026-09-22",
   "words": [
     {
-      "clue": "Small island city-state in Southeast Asia",
-      "answer": "SINGAPORE",
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
       "row": 3,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "When a bone cracks or snaps from force or impact",
-      "answer": "FRACTURE",
-      "row": 1,
-      "col": 7,
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sport where you move through water with your arms and legs",
-      "answer": "SWIMMING",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Dark green leafy vegetable rich in iron",
-      "answer": "SPINACH",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who fixes water pipes and drains in buildings",
-      "answer": "PLUMBER",
+      "clue": "A large vehicle that includes living quarters and can be driven",
+      "answer": "MOTORHOME",
       "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where students go to learn every day",
-      "answer": "SCHOOL",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Garment worn by girls or women that falls below the waist",
-      "answer": "DRESS",
-      "row": 2,
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
+      "row": 4,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Feathery leafed plant that grows in shady damp areas",
-      "answer": "FERN",
+      "clue": "A piece of furniture with drawers for storing items",
+      "answer": "CABINET",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of loud; making little or no noise",
+      "answer": "QUIET",
       "row": 9,
-      "col": 0,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Wireless connection that lets you use the internet without cables",
-      "answer": "WIFI",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
+      "clue": "The opposite of full; containing nothing",
+      "answer": "EMPTY",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A collection of data stored under a single name on a computer",
+      "answer": "FILE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 102

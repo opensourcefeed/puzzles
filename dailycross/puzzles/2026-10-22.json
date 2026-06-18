@@ -4,73 +4,66 @@
   "title": "2026-10-22",
   "words": [
     {
-      "clue": "A large area of land belonging to one country",
-      "answer": "TERRITORY",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Southeast Asian country with the city of Bangkok",
-      "answer": "THAILAND",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Color made by mixing red and blue",
-      "answer": "PURPLE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Country known for the Amazon jungle and Carnival festival",
-      "answer": "BRAZIL",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Scandinavian country with the city of Stockholm",
-      "answer": "SWEDEN",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "White vegetable made up of many layers",
-      "answer": "ONION",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The dark time after sunset when you sleep",
-      "answer": "NIGHT",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A metal strongly attracted to magnets",
-      "answer": "IRON",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The main above-ground stalk that holds up a plant",
-      "answer": "STEM",
-      "row": 4,
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Plant that produces oxygen and food through its leaves",
-      "answer": "TREE",
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The tough outer layer that covers and protects a seed",
+      "answer": "SEEDCOAT",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "An electronic device that processes data and runs programs",
+      "answer": "COMPUTER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A very intelligent and playful ocean mammal",
+      "answer": "DOLPHIN",
       "row": 1,
-      "col": 8,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A warm yellow-brown color, like the fossilized tree resin",
+      "answer": "AMBER",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The uppermost part of your body that contains your brain",
+      "answer": "HEAD",
+      "row": 8,
+      "col": 7,
       "direction": "down"
     }
   ],

@@ -4,45 +4,45 @@
   "title": "Level 6",
   "words": [
     {
-      "clue": "Large arena where sports teams play matches",
-      "answer": "STADIUM",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport where you surf waves in the ocean on a board",
-      "answer": "SURFING",
-      "row": 7,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "European country with the city of Berlin",
-      "answer": "GERMANY",
+      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
+      "answer": "PROTRACTOR",
       "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Your sister's or brother's son",
-      "answer": "NEPHEW",
-      "row": 4,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Flat touchscreen device without a physical keyboard",
-      "answer": "TABLET",
-      "row": 0,
-      "col": 5,
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The season when leaves turn red and fall from trees",
-      "answer": "AUTUMN",
+      "clue": "A flat shape with ten straight sides and ten angles",
+      "answer": "DECAGON",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of moving quickly on foot",
+      "answer": "RUNNING",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
       "row": 0,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of a ripe banana or the sun",
+      "answer": "YELLOW",
+      "row": 7,
+      "col": 5,
       "direction": "across"
     }
   ],

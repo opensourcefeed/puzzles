@@ -4,53 +4,74 @@
   "title": "2026-10-08",
   "words": [
     {
-      "clue": "Important substances in food like vitamins and minerals",
-      "answer": "NUTRIENTS",
-      "row": 1,
+      "clue": "An instrument used to measure wind speed",
+      "answer": "ANEMOMETER",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A very pale, soft green color, like the ceramic glaze",
+      "answer": "CELADON",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A crisp, green vegetable with long, fibrous stalks",
+      "answer": "CELERY",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An object that does not let electricity pass through",
-      "answer": "INSULATOR",
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet, sticky food made by bees from flower nectar",
+      "answer": "HONEY",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Largest archipelago country in Southeast Asia",
-      "answer": "INDONESIA",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Bright flash of electricity between clouds and ground",
-      "answer": "LIGHTNING",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Brass instrument with a long slide that goes in and out",
-      "answer": "TROMBONE",
+      "clue": "The dense, bright central region of a galaxy",
+      "answer": "CORE",
       "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Very intelligent ocean mammal that swims in groups",
-      "answer": "DOLPHIN",
-      "row": 7,
       "col": 5,
       "direction": "across"
-    },
-    {
-      "clue": "Black and white bird that cannot fly",
-      "answer": "PENGUIN",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
     }
   ],
   "dayNumber": 118

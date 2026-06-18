@@ -4,60 +4,67 @@
   "title": "2027-01-16",
   "words": [
     {
-      "clue": "Sea creature with a shell on its back that lives on beaches",
-      "answer": "HERMITCRAB",
-      "row": 5,
+      "clue": "A flat shape with twelve straight sides and twelve angles",
+      "answer": "DODECAGON",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An object that allows electricity to flow through it",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 6,
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Tool used to spray paint evenly over a surface",
-      "answer": "SPRAYER",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Large orange ocean crustacean with big claws",
-      "answer": "LOBSTER",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Country known for tacos, pyramids and sombreros",
-      "answer": "MEXICO",
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
       "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Folder where you keep your papers",
-      "answer": "BINDER",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A plan for how to spend your money each month",
-      "answer": "BUDGET",
-      "row": 1,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A high mountain pass between two peaks",
-      "answer": "PASS",
-      "row": 8,
-      "col": 5,
+      "clue": "The amount of moisture or water vapor present in the air",
+      "answer": "HUMIDITY",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A round green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 0,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The number of points earned by a player or team in a game",
+      "answer": "SCORE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 218

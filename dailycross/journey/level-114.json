@@ -4,98 +4,91 @@
   "title": "Level 114",
   "words": [
     {
-      "clue": "Dense tropical forest near the equator with heavy rain",
-      "answer": "RAINFOREST",
-      "row": 7,
-      "col": 2,
+      "clue": "The opposite of accurate; not correct or precise",
+      "answer": "INACCURATE",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Light fitting that hangs from the ceiling",
-      "answer": "CHANDELIER",
-      "row": 4,
-      "col": 5,
+      "clue": "The longest side of a right-angled triangle, opposite the right angle",
+      "answer": "HYPOTENUSE",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "You use this tool to do math sums",
-      "answer": "CALCULATOR",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who leads tourists around historical sites",
-      "answer": "TOURGUIDE",
-      "row": 6,
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling strong and full of energy",
-      "answer": "ENERGETIC",
-      "row": 12,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that mows and harvests crops in fields",
-      "answer": "HARVESTER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "Portable battery pack that recharges your phone on the go",
-      "answer": "POWERBANK",
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
       "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape like a can or tube",
-      "answer": "CYLINDER",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you ride a two-wheeled vehicle on a track",
-      "answer": "CYCLING",
-      "row": 10,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Very strong storm with spinning winds",
-      "answer": "TORNADO",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Mountain with a hole at the top that can erupt",
-      "answer": "VOLCANO",
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
       "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Mineral in milk and cheese needed for strong bones",
-      "answer": "CALCIUM",
-      "row": 8,
-      "col": 11,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Portable steps used to reach high places safely",
-      "answer": "LADDER",
-      "row": 14,
-      "col": 3,
-      "direction": "across"
+      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
+      "answer": "BROOM",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 12,
   "targetWords": 20,
   "difficulty": "hard"
 }

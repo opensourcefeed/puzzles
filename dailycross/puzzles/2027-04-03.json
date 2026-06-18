@@ -4,59 +4,73 @@
   "title": "2027-04-03",
   "words": [
     {
-      "clue": "Vehicle police officers drive",
-      "answer": "POLICECAR",
-      "row": 3,
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who inspects and repairs cars and engines",
-      "answer": "MECHANIC",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape like a can or tube",
-      "answer": "CYLINDER",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling positive that good things will happen",
-      "answer": "HOPEFUL",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The last day of the school week",
-      "answer": "FRIDAY",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Place where a river begins",
-      "answer": "SOURCE",
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
       "row": 0,
-      "col": 8,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Building where people who break laws are kept",
-      "answer": "PRISON",
-      "row": 1,
+      "clue": "A flat shape with twelve straight sides and twelve angles",
+      "answer": "DODECAGON",
+      "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Person who flies a passenger aircraft",
-      "answer": "PILOT",
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
       "row": 3,
-      "col": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A very light yellow color, like the top of milk",
+      "answer": "CREAM",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who performs roles in plays, movies, or television",
+      "answer": "ACTOR",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with two parallel, identical polygonal bases and rectangular faces",
+      "answer": "PRISM",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where players hit a small ball into holes using clubs",
+      "answer": "GOLF",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     }
   ],

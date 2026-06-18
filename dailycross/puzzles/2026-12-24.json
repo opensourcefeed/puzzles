@@ -4,60 +4,67 @@
   "title": "2026-12-24",
   "words": [
     {
-      "clue": "Insect with beautiful colored wings",
-      "answer": "BUTTERFLY",
-      "row": 5,
+      "clue": "A folder on a computer where deleted files are temporarily stored",
+      "answer": "RECYCLEBIN",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Portable battery pack that recharges your phone on the go",
-      "answer": "POWERBANK",
-      "row": 2,
-      "col": 4,
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sport where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 0,
+      "clue": "A scientist who studies living organisms and their life processes",
+      "answer": "BIOLOGIST",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 1,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Scandinavian country with the city of Copenhagen",
-      "answer": "DENMARK",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
+      "clue": "A bird kept on farms for its eggs and meat",
+      "answer": "CHICKEN",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "The early water stage of a frog before it grows legs",
-      "answer": "TADPOLE",
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
       "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Long deep crack in the ground with steep walls",
-      "answer": "CANYON",
-      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Flat dish used to serve a meal",
-      "answer": "PLATE",
-      "row": 7,
-      "col": 6,
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
+      "row": 5,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Tall bar stool used at a kitchen counter",
-      "answer": "STOOL",
-      "row": 3,
-      "col": 2,
+      "clue": "A form of energy that travels in waves and allows us to see",
+      "answer": "LIGHT",
+      "row": 2,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing strong displeasure about something unfair",
+      "answer": "ANGRY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "dayNumber": 195

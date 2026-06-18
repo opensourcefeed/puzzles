@@ -4,74 +4,74 @@
   "title": "2027-01-15",
   "words": [
     {
-      "clue": "A watch with a screen that shows apps and notifications",
-      "answer": "SMARTWATCH",
-      "row": 2,
-      "col": 2,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Island country known for kiwi birds and rugby",
-      "answer": "NEWZEALAND",
-      "row": 0,
-      "col": 7,
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Round abrasive paper used to smooth rough wood",
-      "answer": "SANDPAPER",
+      "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
+      "answer": "GASGIANT",
       "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge collection of stars, gas, and dust held together by gravity",
+      "answer": "GALAXY",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The hard, white structures that form the skeleton inside your body",
+      "answer": "BONES",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Person who does experiments to learn how the world works",
-      "answer": "SCIENTIST",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "When a bone cracks or snaps from force or impact",
-      "answer": "FRACTURE",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle used on a farm to pull heavy equipment",
-      "answer": "TRACTOR",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Writing instructions for a computer in a special language",
-      "answer": "CODING",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The colorful part of a plant that attracts bees and butterflies",
-      "answer": "PETAL",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Black and white bear from China",
-      "answer": "PANDA",
-      "row": 6,
+      "clue": "A comparison of two quantities using division",
+      "answer": "RATIO",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tiny picture on your screen that opens an app when tapped",
-      "answer": "ICON",
+      "clue": "A machine that dries clothes by spinning and heating",
+      "answer": "DRYER",
+      "row": 6,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The action of moving something on a screen by holding and pulling it",
+      "answer": "DRAG",
       "row": 1,
-      "col": 10,
-      "direction": "down"
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 217

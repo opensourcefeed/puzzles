@@ -4,98 +4,77 @@
   "title": "Level 63",
   "words": [
     {
-      "clue": "Putting your money into a business to earn more",
-      "answer": "INVESTMENT",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The day that came before today",
-      "answer": "YESTERDAY",
+      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "answer": "SAXOPHONE",
       "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Brass instrument with a long slide that goes in and out",
-      "answer": "TROMBONE",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The twelfth and last month of the year",
-      "answer": "DECEMBER",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Large building where sick people go to be treated",
-      "answer": "HOSPITAL",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Website where you watch and share videos",
-      "answer": "YOUTUBE",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat open land covered with grass",
-      "answer": "MEADOW",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The gas that plants release which we breathe",
-      "answer": "OXYGEN",
-      "row": 14,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The bony part of your back going down the center",
-      "answer": "SPINE",
-      "row": 0,
-      "col": 6,
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A deep cut on the skin that bleeds and needs treatment",
-      "answer": "WOUND",
-      "row": 8,
+      "clue": "A liquid fuel made from petroleum, used in most cars",
+      "answer": "GASOLINE",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who repairs and maintains vehicles and machinery",
+      "answer": "MECHANIC",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "PITCHER",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A two-wheeled vehicle that you ride by pushing pedals with your feet",
+      "answer": "BICYCLE",
+      "row": 2,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Large keyboard instrument with black and white keys",
-      "answer": "PIANO",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The second most populated country with the Taj Mahal",
-      "answer": "INDIA",
-      "row": 12,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "East African country with the city of Nairobi and safaris",
-      "answer": "KENYA",
-      "row": 8,
-      "col": 13,
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 0,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
+      "answer": "SPOON",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 10,
   "targetWords": 13,
   "difficulty": "medium"
 }

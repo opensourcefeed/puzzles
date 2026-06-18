@@ -4,63 +4,84 @@
   "title": "Level 67",
   "words": [
     {
-      "clue": "Heavy cylinder rolled over dough to flatten it",
-      "answer": "ROLLINGPIN",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Island country known for kiwi birds and rugby",
-      "answer": "NEWZEALAND",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you move through water with your arms and legs",
-      "answer": "SWIMMING",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Large vehicle with wings that flies through the air",
-      "answer": "AIRPLANE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Device that converts paper documents into digital files",
-      "answer": "SCANNER",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Ten years is called this",
-      "answer": "DECADE",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A wide treeless land in the far north",
-      "answer": "TUNDRA",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where people who break laws are kept",
-      "answer": "PRISON",
-      "row": 8,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 7,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A climbing plant that grows green peas in pods",
+      "answer": "PEAVINE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
+      "answer": "POTATO",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The place where a river or stream begins its journey",
+      "answer": "SOURCE",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A large, round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A storm with thunder, lightning, and usually heavy rain",
+      "answer": "STORM",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A musical term meaning to play softly",
+      "answer": "PIANO",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
+      "row": 9,
+      "col": 3,
       "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 11,
   "targetWords": 14,
   "difficulty": "medium"
 }

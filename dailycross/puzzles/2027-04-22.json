@@ -4,66 +4,73 @@
   "title": "2027-04-22",
   "words": [
     {
-      "clue": "You use this tool to do math sums",
-      "answer": "CALCULATOR",
-      "row": 3,
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Animal that changes color to hide from enemies",
-      "answer": "CHAMELEON",
-      "row": 1,
+      "clue": "A triangle with two sides of equal length",
+      "answer": "ISOSCELES",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "No longer feeling worried or anxious",
+      "answer": "RELIEVED",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Tall yellow flower that grows facing the sun",
-      "answer": "SUNFLOWER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Helsinki",
-      "answer": "FINLAND",
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
       "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A clickable element on a screen that triggers an action",
+      "answer": "BUTTON",
+      "row": 12,
       "col": 2,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Salty food made from peanuts",
-      "answer": "PEANUTS",
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
+      "answer": "SPOON",
       "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Large bird with a curved beak that can talk",
-      "answer": "PARROT",
-      "row": 4,
-      "col": 8,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sport where you slide down a snowy hill on long boards",
-      "answer": "SKIING",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling uninterested and having nothing fun to do",
-      "answer": "BORED",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The sixth month of the year",
-      "answer": "JUNE",
-      "row": 5,
-      "col": 0,
+      "clue": "A farm animal that gives wool",
+      "answer": "SHEEP",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     }
   ],

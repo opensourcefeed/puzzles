@@ -4,98 +4,91 @@
   "title": "Level 72",
   "words": [
     {
-      "clue": "Flat wide brush used to paint walls",
-      "answer": "PAINTBRUSH",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport where two people try to throw each other to the ground",
-      "answer": "WRESTLING",
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
       "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large area of land such as Asia or Africa",
-      "answer": "CONTINENT",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Work your teacher gives you to do at home",
-      "answer": "HOMEWORK",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Box used to carry a packed lunch to school",
-      "answer": "LUNCHBOX",
-      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The fifth and largest planet from the sun",
-      "answer": "JUPITER",
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A facility from which spacecraft and rockets are launched",
+      "answer": "SPACEPORT",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape that can be divided into two identical halves",
+      "answer": "SYMMETRIC",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A tool with two arms used for drawing circles and arcs",
+      "answer": "COMPASS",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
       "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A climbing plant that grows green peas in pods",
+      "answer": "PEAVINE",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A team sport played on ice or field where players use sticks to hit a puck or ball",
+      "answer": "HOCKEY",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Green leafy vegetable full of iron",
-      "answer": "SPINACH",
-      "row": 1,
-      "col": 11,
+      "clue": "A comparison of two quantities using division",
+      "answer": "RATIO",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Animal that glows in the dark at night",
-      "answer": "FIREFLY",
+      "clue": "A round vegetable with layers and a strong, sharp smell",
+      "answer": "ONION",
       "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Being in good physical condition from exercise and good food",
-      "answer": "HEALTHY",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on both hands to keep them warm in winter",
-      "answer": "GLOVES",
-      "row": 12,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A large cloud of gas and dust between the stars",
-      "answer": "NEBULA",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A couple that is legally joined in marriage",
-      "answer": "COUPLE",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who manages the money and accounts at a bank",
-      "answer": "BANKER",
-      "row": 8,
-      "col": 13,
+      "col": 7,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 12,
   "targetWords": 15,
   "difficulty": "medium"
 }

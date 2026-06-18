@@ -4,74 +4,74 @@
   "title": "2026-08-12",
   "words": [
     {
-      "clue": "Sea creature with a shell on its back that lives on beaches",
-      "answer": "HERMITCRAB",
-      "row": 4,
+      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
+      "answer": "SPACECRAFT",
+      "row": 1,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Brown sweet powder used in desserts",
-      "answer": "CHOCOLATE",
-      "row": 1,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Device with letters and numbers you press to type",
-      "answer": "KEYBOARD",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Southeast Asian country with the city of Hanoi",
-      "answer": "VIETNAM",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Two-wheeled vehicle you pedal with your feet",
-      "answer": "BICYCLE",
+      "clue": "A cabinet with shelves for storing food and dishes",
+      "answer": "CUPBOARD",
       "row": 1,
-      "col": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Person who creates paintings, drawings and sculptures",
-      "answer": "ARTIST",
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A spiky plant that stores water and grows in deserts",
+      "answer": "CACTUS",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A part of a song that is repeated after each verse",
+      "answer": "CHORUS",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A boat or ship that carries passengers and vehicles across a body of water",
+      "answer": "FERRY",
       "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A hot dry region with very little rainfall and few plants",
-      "answer": "DESERT",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Sixty minutes equals one of these",
-      "answer": "HOUR",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sea mammal that claps and balances balls",
-      "answer": "SEAL",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "What a tadpole develops into over time",
-      "answer": "FROG",
+      "clue": "Weather that is bright and free of clouds or rain",
+      "answer": "CLEAR",
       "row": 7,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 61

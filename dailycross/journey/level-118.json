@@ -4,126 +4,112 @@
   "title": "Level 118",
   "words": [
     {
-      "clue": "Small island city-state in Southeast Asia",
-      "answer": "SINGAPORE",
-      "row": 6,
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Large vehicle with wings that flies through the air",
-      "answer": "AIRPLANE",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The bony structure that supports your body",
-      "answer": "SKELETON",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport of running long distances across a city",
-      "answer": "MARATHON",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Brass instrument with a long slide that goes in and out",
-      "answer": "TROMBONE",
-      "row": 12,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Tallest animal on land",
-      "answer": "GIRAFFE",
-      "row": 0,
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
+      "row": 4,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Person who fixes water pipes and drains in buildings",
-      "answer": "PLUMBER",
+      "clue": "A person who is traveling in a vehicle but not driving it",
+      "answer": "PASSENGER",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A part of a whole number, written with a numerator and denominator",
+      "answer": "FRACTION",
       "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Dark green leafy vegetable rich in iron",
-      "answer": "SPINACH",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Long yellow curved fruit",
-      "answer": "BANANA",
+      "clue": "An animal that eats both plants and other animals",
+      "answer": "OMNIVORE",
       "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who keeps the public safe and enforces laws",
-      "answer": "POLICE",
-      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Large cupboard built into the wall for storing clothes",
-      "answer": "CLOSET",
-      "row": 0,
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with six straight sides and six angles",
+      "answer": "HEXAGON",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 2,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "You write with this long thin tool",
-      "answer": "PENCIL",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "European country with the city of Warsaw",
-      "answer": "POLAND",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Farm animal that gives us wool",
-      "answer": "SHEEP",
-      "row": 2,
+      "clue": "A sport where two people fight using their fists while wearing gloves",
+      "answer": "BOXING",
+      "row": 6,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The flat area where a football match is played",
-      "answer": "FIELD",
-      "row": 1,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Country famous for the Colosseum, pasta and pizza",
-      "answer": "ITALY",
-      "row": 9,
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 13,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that runs on metal rails and carries passengers",
-      "answer": "TRAIN",
-      "row": 6,
+      "clue": "A piece of land that is completely surrounded by water",
+      "answer": "ISLAND",
+      "row": 11,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A sudden, brief storm with strong winds and often rain or snow",
+      "answer": "SQUALL",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of matter contained in an object",
+      "answer": "MASS",
+      "row": 11,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The body parts at the ends of your legs",
+      "answer": "FEET",
+      "row": 0,
+      "col": 12,
       "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 15,
   "targetWords": 21,
   "difficulty": "hard"
 }

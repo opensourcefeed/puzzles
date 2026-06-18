@@ -4,133 +4,126 @@
   "title": "Level 130",
   "words": [
     {
-      "clue": "A place with equipment where scientists do experiments",
-      "answer": "LABORATORY",
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
       "row": 7,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Two-wheeled motorized vehicle faster than a bicycle",
-      "answer": "MOTORCYCLE",
-      "row": 5,
+      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
+      "answer": "GEOLOGIST",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A powerful instrument used to see distant stars and planets",
-      "answer": "TELESCOPE",
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
       "row": 5,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Long green vegetable related to the pumpkin",
-      "answer": "ZUCCHINI",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The first day of the weekend",
-      "answer": "SATURDAY",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where you buy prescription medicine",
-      "answer": "PHARMACY",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Ocean bird that hovers over waves and dives for fish",
-      "answer": "SEAGULL",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "An unwanted reaction your body has to a food or substance",
-      "answer": "ALLERGY",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 2,
+      "clue": "A mathematical statement that two expressions are equal",
+      "answer": "EQUATION",
+      "row": 7,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The five thin parts at the end of your hand",
-      "answer": "FINGERS",
-      "row": 8,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The largest country in the world by area",
-      "answer": "RUSSIA",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Grain eaten for breakfast with milk",
-      "answer": "CEREAL",
-      "row": 1,
+      "clue": "The passing of genetic traits from parents to offspring",
+      "answer": "HEREDITY",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Large residence where a king or queen lives",
-      "answer": "PALACE",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
-      "answer": "GINGER",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The repeated section at the end of each verse of a song",
-      "answer": "CHORUS",
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
       "row": 0,
-      "col": 0,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The unit of British money used in England",
-      "answer": "POUND",
-      "row": 5,
-      "col": 10,
+      "clue": "The result obtained by multiplying two or more numbers together",
+      "answer": "PRODUCT",
+      "row": 0,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Asian country known as the land of the rising sun",
-      "answer": "JAPAN",
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A positive whole number used for counting objects",
+      "answer": "NATURAL",
       "row": 1,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The third month of the year",
-      "answer": "MARCH",
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
       "row": 13,
-      "col": 10,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The color created by mixing red and yellow, like a carrot",
+      "answer": "ORANGE",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing care and concern for others",
+      "answer": "CARING",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft, pale orange-yellow color like the fruit",
+      "answer": "PEACH",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of long; measuring a small distance from end to end",
+      "answer": "SHORT",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The organ in your chest that pumps blood throughout your body",
+      "answer": "HEART",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 22,
   "difficulty": "hard"
 }

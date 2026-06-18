@@ -4,73 +4,73 @@
   "title": "2027-03-27",
   "words": [
     {
-      "clue": "The ninth month of the year",
-      "answer": "SEPTEMBER",
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
       "row": 6,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Long vehicle used to transport many children to school",
-      "answer": "SCHOOLBUS",
-      "row": 0,
-      "col": 8,
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Jewelry worn around the wrist",
-      "answer": "BRACELET",
-      "row": 2,
-      "col": 6,
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Tallest animal on land",
-      "answer": "GIRAFFE",
-      "row": 8,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tiny air sacs inside the lungs where gas exchange happens",
-      "answer": "ALVEOLI",
+      "clue": "An underground layer of rock that holds and transmits water",
+      "answer": "AQUIFER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Finding something funny or entertaining",
+      "answer": "AMUSED",
       "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A narrow, deep valley with very steep rocky sides",
+      "answer": "GORGE",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The fifth and largest planet from the sun",
-      "answer": "JUPITER",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Animal that carries its home on its back",
-      "answer": "SNAIL",
+      "clue": "The number that represents nothing or no quantity",
+      "answer": "ZERO",
       "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Small pie filled with fruit or cream",
-      "answer": "TART",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Small shop where you buy coffee and light snacks",
-      "answer": "CAFE",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Glass container with a lid used to store jam or spices",
-      "answer": "JAR",
-      "row": 1,
-      "col": 3,
+      "col": 6,
       "direction": "across"
     }
   ],

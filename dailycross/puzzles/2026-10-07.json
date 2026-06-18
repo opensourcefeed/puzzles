@@ -4,73 +4,59 @@
   "title": "2026-10-07",
   "words": [
     {
-      "clue": "The most southerly point of Earth covered in ice",
-      "answer": "SOUTHPOLE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The middle day of the school week",
-      "answer": "WEDNESDAY",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who inspects and repairs cars and engines",
-      "answer": "MECHANIC",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Building with tanks where you can see fish and sea creatures",
-      "answer": "AQUARIUM",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Small furry animal that carries babies in a pouch",
-      "answer": "OPOSSUM",
+      "clue": "The result obtained by subtracting one number from another",
+      "answer": "DIFFERENCE",
       "row": 3,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Animal with a shell that moves very slowly",
-      "answer": "TURTLE",
-      "row": 7,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Shellfish attached to rocks that opens when in water",
-      "answer": "MUSSEL",
-      "row": 10,
+      "clue": "Feeling deep sorrow, especially after a loss",
+      "answer": "GRIEVING",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A round green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Huge deep trench in the ocean floor",
-      "answer": "TRENCH",
-      "row": 1,
-      "col": 4,
+      "clue": "The point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The tiny dwarf planet beyond Neptune",
-      "answer": "PLUTO",
-      "row": 2,
+      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
+      "answer": "BRASS",
+      "row": 7,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Instructions written in a programming language for a computer",
+      "answer": "CODE",
+      "row": 1,
+      "col": 0,
       "direction": "down"
     }
   ],

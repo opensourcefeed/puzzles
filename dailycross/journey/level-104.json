@@ -4,98 +4,105 @@
   "title": "Level 104",
   "words": [
     {
-      "clue": "Building where a judge decides legal cases",
-      "answer": "COURTHOUSE",
-      "row": 7,
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Wooden block used to store and organize kitchen knives",
-      "answer": "KNIFEBLOCK",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Software that protects your computer from viruses",
-      "answer": "ANTIVIRUS",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Insect with beautiful colored wings",
-      "answer": "BUTTERFLY",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Small book where you write notes",
-      "answer": "NOTEBOOK",
+      "clue": "The movement of one object around another in an orbital path",
+      "answer": "REVOLUTION",
       "row": 3,
       "col": 4,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Purple vegetable also called aubergine",
-      "answer": "EGGPLANT",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Long loose garment worn to bed",
-      "answer": "PAJAMAS",
-      "row": 13,
+      "clue": "A scientist who studies matter, energy, and their interactions",
+      "answer": "PHYSICIST",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who writes novels, stories or non-fiction books",
-      "answer": "AUTHOR",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Sliding compartment in a chest or desk used to store items",
-      "answer": "DRAWER",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Difficulty breathing smoothly and clearly",
-      "answer": "ASTHMA",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The bony part of your back going down the center",
-      "answer": "SPINE",
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
       "row": 0,
-      "col": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The fan-shaped area where a river spreads out before the sea",
-      "answer": "DELTA",
-      "row": 13,
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A solid food made from milk, often yellow and sliced",
+      "answer": "CHEESE",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle that travels into space, powered by rocket engines",
+      "answer": "ROCKET",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
+      "answer": "PULSAR",
+      "row": 8,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Lazy animal that hangs from trees in South America",
-      "answer": "SLOTH",
+      "clue": "The opposite of full; containing nothing",
+      "answer": "EMPTY",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "An area of open land used for playing sports",
+      "answer": "FIELD",
       "row": 9,
-      "col": 10,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A reddish-brown color, like the color of iron oxide",
+      "answer": "RUST",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A common black bird that gathers in large groups",
+      "answer": "CROW",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A sturdy vehicle designed for traveling over rough terrain",
+      "answer": "JEEP",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 19,
   "difficulty": "hard"
 }

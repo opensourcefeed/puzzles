@@ -4,60 +4,67 @@
   "title": "2026-06-30",
   "words": [
     {
-      "clue": "Room below the ground floor of a house",
-      "answer": "BASEMENT",
-      "row": 5,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tree vegetable that looks like tiny green trees",
-      "answer": "BROCCOLI",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint where your arm meets your body",
-      "answer": "SHOULDER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat star-shaped ocean creature with five arms",
-      "answer": "STARFISH",
-      "row": 4,
+      "clue": "A scientist who studies living organisms and their life processes",
+      "answer": "BIOLOGIST",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A book or chart showing all the days of a year",
-      "answer": "CALENDAR",
-      "row": 2,
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Organ that turns food into nutrients your body uses",
-      "answer": "STOMACH",
-      "row": 3,
-      "col": 1,
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The largest country in the world by area",
-      "answer": "RUSSIA",
-      "row": 0,
-      "col": 1,
+      "clue": "Plant tissue that transports water and minerals from roots upward",
+      "answer": "XYLEM",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "You breathe air into these two organs in your chest",
-      "answer": "LUNGS",
-      "row": 10,
-      "col": 3,
+      "clue": "A specific characteristic that is passed from parents to offspring",
+      "answer": "TRAIT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of clean; covered or marked with dirt",
+      "answer": "DIRTY",
+      "row": 8,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "The pair of parallel metal rails that trains run on",
+      "answer": "TRACK",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A very slow-moving animal that carries a shell on its back",
+      "answer": "SNAIL",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 18

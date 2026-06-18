@@ -4,63 +4,56 @@
   "title": "Level 26",
   "words": [
     {
-      "clue": "Empire that once ruled modern-day Turkey and beyond",
-      "answer": "OTTOMAN",
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
       "row": 4,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The color of a ripe banana",
-      "answer": "YELLOW",
+      "clue": "A person who tends and cultivates gardens and plants",
+      "answer": "GARDENER",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A panel of keys used to input text and commands into a computer",
+      "answer": "KEYBOARD",
       "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 8,
       "col": 4,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Person trained to examine and treat sick patients",
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A medical professional who diagnoses and treats illnesses",
       "answer": "DOCTOR",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Starchy vegetable that grows underground often made into chips",
-      "answer": "POTATO",
-      "row": 7,
+      "row": 6,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A huge collection of billions of stars in space",
-      "answer": "GALAXY",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Red fruit that keeps the doctor away",
-      "answer": "APPLE",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The fourth month of the year",
-      "answer": "APRIL",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Asian country known as the land of the rising sun",
-      "answer": "JAPAN",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 7,
   "targetWords": 8,
   "difficulty": "easy"
 }

@@ -4,53 +4,67 @@
   "title": "2026-08-25",
   "words": [
     {
-      "clue": "Small animal with sharp quills on its back",
-      "answer": "HEDGEHOG",
-      "row": 4,
+      "clue": "The opposite of accurate; not correct or precise",
+      "answer": "INACCURATE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Work your teacher gives you to do at home",
-      "answer": "HOMEWORK",
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
       "row": 4,
-      "col": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The pulling force that keeps us on the ground",
-      "answer": "GRAVITY",
-      "row": 4,
+      "clue": "A car used by police officers to patrol and respond to emergencies",
+      "answer": "POLICECAR",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 7,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who brings food to your table in a restaurant",
-      "answer": "WAITER",
-      "row": 8,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Colorful part of a plant that attracts bees",
-      "answer": "FLOWER",
-      "row": 4,
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A container with a spout and handle used for boiling water",
+      "answer": "KETTLE",
+      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Person who cuts and styles men's hair",
-      "answer": "BARBER",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "Extra money you receive as a reward for doing great work",
-      "answer": "BONUS",
-      "row": 0,
-      "col": 1,
+      "clue": "To find and fix errors in a computer program",
+      "answer": "DEBUG",
+      "row": 1,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "The action of moving something on a screen by holding and pulling it",
+      "answer": "DRAG",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 74

@@ -4,67 +4,74 @@
   "title": "2027-01-06",
   "words": [
     {
-      "clue": "Building where scientists do research and experiments",
-      "answer": "LABORATORY",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Book with words and their meanings",
-      "answer": "DICTIONARY",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A reduction in price when something goes on sale",
-      "answer": "DISCOUNT",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "African-American holiday celebrated December 26 to January 1",
-      "answer": "KWANZAA",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you sail a boat using wind",
-      "answer": "SAILING",
+      "clue": "A flat shape with eleven straight sides and eleven angles",
+      "answer": "HENDECAGON",
       "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Your sister's or brother's son",
-      "answer": "NEPHEW",
-      "row": 1,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling scared of something",
-      "answer": "AFRAID",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Long flat area of sand next to the ocean",
-      "answer": "BEACH",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "White vegetable that makes you cry when you cut it",
-      "answer": "ONION",
-      "row": 5,
-      "col": 7,
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "An instrument used to measure the amount of rain that falls",
+      "answer": "RAINGAUGE",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A positive whole number used for counting objects",
+      "answer": "NATURAL",
+      "row": 11,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A flat shape with six straight sides and six angles",
+      "answer": "HEXAGON",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 9,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Energy that travels in waves and is detected by our ears",
+      "answer": "SOUND",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 208

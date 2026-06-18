@@ -4,58 +4,65 @@
   "title": "2026-09-15",
   "words": [
     {
-      "clue": "Flat wide brush used to paint walls",
-      "answer": "PAINTBRUSH",
+      "clue": "A small electronic device used for mathematical calculations",
+      "answer": "CALCULATOR",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The outermost layer of Earth's atmosphere, where it meets space",
+      "answer": "EXOSPHERE",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A triangle with two sides of equal length",
+      "answer": "ISOSCELES",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who conducts scientific research in a laboratory",
+      "answer": "SCIENTIST",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sport where you ride a two-wheeled vehicle on a track",
-      "answer": "CYCLING",
+      "clue": "A bulb vegetable with layers and a strong smell used in cooking",
+      "answer": "ONION",
       "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A printed paper record showing how much you paid",
-      "answer": "RECEIPT",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Screen attached to a computer that shows you what is happening",
-      "answer": "MONITOR",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Game console made by Nintendo that you can also use on the go",
-      "answer": "SWITCH",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "African country with pyramids and the Nile River",
-      "answer": "EGYPT",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The colorful area of ocean with coral and tropical fish",
-      "answer": "REEF",
-      "row": 8,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Frozen water falling like rain",
-      "answer": "HAIL",
-      "row": 4,
       "col": 9,
       "direction": "down"
     }

@@ -4,91 +4,84 @@
   "title": "Level 80",
   "words": [
     {
-      "clue": "Building where scientists do research and experiments",
-      "answer": "LABORATORY",
-      "row": 4,
+      "clue": "The process by which the body breaks down food into nutrients",
+      "answer": "DIGESTION",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sport where you hit a shuttlecock with a racket",
-      "answer": "BADMINTON",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Where a computer saves all its files and programs",
-      "answer": "HARDDRIVE",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Orange and white striped clown fish made famous by a movie",
-      "answer": "CLOWNFISH",
-      "row": 2,
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Animal with a bushy tail that collects nuts",
-      "answer": "SQUIRREL",
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A team sport where players hit a ball with a bat and run bases",
+      "answer": "BASEBALL",
       "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that converts physical documents into digital images",
+      "answer": "SCANNER",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The energy content of food measured in units",
-      "answer": "CALORIES",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with five sides and five corners",
-      "answer": "PENTAGON",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very interested and wanting to explore and find out more",
-      "answer": "CURIOUS",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Loud boom you hear after lightning",
-      "answer": "THUNDER",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who makes official decisions during a baseball game",
-      "answer": "UMPIRE",
+      "clue": "A place where trains stop to pick up and drop off passengers",
+      "answer": "STATION",
       "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with six straight sides and six angles",
+      "answer": "HEXAGON",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A building where vehicles are kept or repaired",
+      "answer": "GARAGE",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
+      "row": 1,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Building where Hindus go to worship",
-      "answer": "TEMPLE",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Cooked meat in a round bun",
-      "answer": "BURGER",
-      "row": 2,
-      "col": 12,
+      "clue": "A large natural stream of water that flows across land",
+      "answer": "RIVER",
+      "row": 7,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 11,
   "targetWords": 16,
   "difficulty": "medium"
 }

@@ -4,126 +4,133 @@
   "title": "Level 139",
   "words": [
     {
-      "clue": "Buddhist holiday celebrating the birth of Buddha",
-      "answer": "BUDDHASDAY",
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Small round instrument with metal discs around the edge you shake",
-      "answer": "TAMBOURINE",
-      "row": 4,
-      "col": 2,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 6,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "What you must eat to keep your body working properly",
-      "answer": "NUTRITION",
+      "clue": "A period of unusually cold weather that lasts for several days",
+      "answer": "COLDSPELL",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A purple flower known for its calming, pleasant scent",
+      "answer": "LAVENDER",
       "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest planet in our solar system and closest to the Sun",
+      "answer": "MERCURY",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The main processing chip inside a computer",
-      "answer": "PROCESSOR",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport of running long distances across a city",
-      "answer": "MARATHON",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Brass instrument with a long slide that goes in and out",
-      "answer": "TROMBONE",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You use these to cut paper in class",
-      "answer": "SCISSORS",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A mountain that can erupt with lava and ash",
-      "answer": "VOLCANO",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who cleans and checks your teeth",
-      "answer": "DENTIST",
-      "row": 13,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Garden insect that makes a web",
-      "answer": "SPIDER",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Your female parent",
-      "answer": "MOTHER",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Season when snow falls and it is very cold",
-      "answer": "WINTER",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A shallow wound on the skin from scraping against something rough",
-      "answer": "SCRAPE",
-      "row": 5,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat top of the stove with burners used for cooking",
-      "answer": "STOVE",
-      "row": 8,
+      "clue": "A card with a student's name and photo used for identification",
+      "answer": "IDCARD",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Large organ that processes nutrients from digested food",
-      "answer": "LIVER",
+      "clue": "A dark, rich red color, like the color of chestnuts",
+      "answer": "MAROON",
+      "row": 11,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
       "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of open; not open or allowing access",
+      "answer": "CLOSED",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance from the center of a circle to any point on its edge",
+      "answer": "RADIUS",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where two people fight using their fists while wearing gloves",
+      "answer": "BOXING",
+      "row": 7,
       "col": 14,
       "direction": "down"
     },
     {
-      "clue": "Shellfish that buries in sand and filters the water",
-      "answer": "CLAM",
-      "row": 5,
-      "col": 0,
+      "clue": "The opposite of loud; making little or no noise",
+      "answer": "QUIET",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A large organ that filters harmful substances from the blood",
+      "answer": "LIVER",
+      "row": 9,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Thick warm outerwear you wear in cold weather",
-      "answer": "COAT",
-      "row": 5,
-      "col": 0,
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A woodwind instrument held sideways and played by blowing across a hole",
+      "answer": "FLUTE",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 18,
   "targetWords": 24,
   "difficulty": "hard"
 }

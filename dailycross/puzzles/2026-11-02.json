@@ -4,73 +4,59 @@
   "title": "2026-11-02",
   "words": [
     {
-      "clue": "Putting your money into a business to earn more",
-      "answer": "INVESTMENT",
-      "row": 7,
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Wooden bar instrument you hit with mallets",
-      "answer": "XYLOPHONE",
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
       "row": 0,
-      "col": 8,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Portable battery pack that recharges your phone on the go",
-      "answer": "POWERBANK",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The first month of the year",
-      "answer": "JANUARY",
-      "row": 10,
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 0,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Light rock full of small holes made by a volcano",
-      "answer": "PUMICE",
-      "row": 9,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Red round salad vegetable",
-      "answer": "TOMATO",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who keeps the public safe and enforces laws",
-      "answer": "POLICE",
+      "clue": "A place where ships are built, repaired, and maintained",
+      "answer": "DOCKYARD",
       "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Spring holiday with Easter eggs and a bunny",
-      "answer": "EASTER",
-      "row": 14,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who performs dance as a profession",
-      "answer": "DANCER",
-      "row": 5,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Place where students go to learn every day",
-      "answer": "SCHOOL",
-      "row": 2,
-      "col": 11,
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of clean; untidy or dirty",
+      "answer": "MESSY",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A push or pull that can change the motion of an object",
+      "answer": "FORCE",
+      "row": 7,
+      "col": 10,
       "direction": "down"
     }
   ],

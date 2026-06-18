@@ -4,66 +4,73 @@
   "title": "2027-01-25",
   "words": [
     {
-      "clue": "Money that the government takes from people's wages",
-      "answer": "INCOMETAX",
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
       "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The main processing chip inside a computer",
-      "answer": "PROCESSOR",
+      "clue": "A device that detects smoke and sounds an alarm",
+      "answer": "SMOKEALARM",
       "row": 1,
-      "col": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Sport where you hit a shuttlecock with a racket",
-      "answer": "BADMINTON",
-      "row": 2,
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 1,
-      "col": 4,
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Area of land covered with many trees",
-      "answer": "FOREST",
-      "row": 0,
-      "col": 6,
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Large spoon with a long handle used to serve soup",
-      "answer": "LADLE",
+      "clue": "A small, lockable storage compartment for personal belongings at school",
+      "answer": "LOCKER",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large flow of water that runs to the sea",
-      "answer": "RIVER",
-      "row": 6,
+      "clue": "A long seat where players sit when they are not on the field",
+      "answer": "BENCH",
+      "row": 0,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The number of points a team has in a game",
-      "answer": "SCORE",
+      "clue": "A small, narrow stream of water",
+      "answer": "CREEK",
       "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Largest animal in the ocean",
-      "answer": "WHALE",
-      "row": 2,
-      "col": 0,
+      "col": 13,
       "direction": "down"
     }
   ],

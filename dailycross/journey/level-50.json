@@ -4,80 +4,80 @@
   "title": "Level 50",
   "words": [
     {
-      "clue": "Building where a judge decides legal cases",
-      "answer": "COURTHOUSE",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling pleased and content with what you have",
-      "answer": "SATISFIED",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Pink wading bird that stands on one leg",
-      "answer": "FLAMINGO",
+      "clue": "The result obtained by subtracting one number from another",
+      "answer": "DIFFERENCE",
       "row": 5,
-      "col": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You use this to color and draw pictures",
-      "answer": "CRAYONS",
+      "clue": "A green vegetable with a thick stalk and a head of tiny buds",
+      "answer": "BROCCOLI",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of moisture or water vapor present in the air",
+      "answer": "HUMIDITY",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
       "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Long period of very little or no rainfall",
-      "answer": "DROUGHT",
-      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "This holds your papers together with metal clips",
-      "answer": "STAPLER",
-      "row": 8,
-      "col": 1,
+      "clue": "Feeling kind and pleasant toward others",
+      "answer": "FRIENDLY",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Dark green leafy vegetable rich in iron",
-      "answer": "SPINACH",
-      "row": 2,
-      "col": 12,
+      "clue": "The dense, central core of an atom containing protons and neutrons",
+      "answer": "NUCLEUS",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A very dry area that receives very little rainfall",
+      "answer": "DESERT",
+      "row": 7,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A device worn on your face to help you see clearly",
-      "answer": "GLASSES",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Cookies baked with oats and raisins",
-      "answer": "COOKIE",
+      "clue": "The front part of your neck that contains your voice box",
+      "answer": "THROAT",
       "row": 3,
-      "col": 14,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of big; of a size that is less than average",
+      "answer": "SMALL",
+      "row": 8,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Country in the Middle East where Jerusalem is located",
-      "answer": "ISRAEL",
+      "clue": "A small flower with white petals and a yellow center, common in fields",
+      "answer": "DAISY",
       "row": 10,
-      "col": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
+      "answer": "MEDAL",
+      "row": 10,
+      "col": 1,
       "direction": "across"
     }
   ],

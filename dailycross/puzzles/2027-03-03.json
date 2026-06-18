@@ -4,67 +4,46 @@
   "title": "2027-03-03",
   "words": [
     {
-      "clue": "Largest archipelago country in Southeast Asia",
-      "answer": "INDONESIA",
-      "row": 5,
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who studies marine biology and ocean life",
-      "answer": "BIOLOGIST",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who builds roads, bridges and large structures",
-      "answer": "ENGINEER",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Long green vegetable related to the pumpkin",
-      "answer": "ZUCCHINI",
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Jewish holiday with eight nights of candles and gifts",
-      "answer": "HANUKKAH",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Sea plant that grows on rocks and comes in many colors",
-      "answer": "SEAWEED",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Folder where you keep your papers",
-      "answer": "BINDER",
+      "clue": "A race in which runners must jump over barriers",
+      "answer": "HURDLES",
       "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Animal with a shell that moves very slowly",
-      "answer": "TURTLE",
-      "row": 12,
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 2,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "White vegetable made up of many layers",
-      "answer": "ONION",
+      "clue": "A group of planets and other objects orbiting a star",
+      "answer": "SYSTEM",
       "row": 4,
-      "col": 1,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "A cup or other decorative object awarded as a prize for winning",
+      "answer": "TROPHY",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 264

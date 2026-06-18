@@ -4,73 +4,73 @@
   "title": "2027-05-26",
   "words": [
     {
-      "clue": "Long period of very little or no rainfall",
-      "answer": "DROUGHT",
-      "row": 7,
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with nine straight sides and nine angles",
+      "answer": "NONAGON",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The phase of the Moon when it is not visible from Earth",
+      "answer": "NEWMOON",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Bird with colorful tail feathers",
-      "answer": "PEACOCK",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The eighth month of the year",
-      "answer": "AUGUST",
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
       "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat surface with four legs where you eat meals or work",
-      "answer": "TABLE",
-      "row": 5,
-      "col": 3,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "This is the current day you are living right now",
-      "answer": "TODAY",
-      "row": 7,
+      "clue": "Feeling safe, protected, and free from worry",
+      "answer": "SECURE",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "To find and fix errors in a computer program",
+      "answer": "DEBUG",
+      "row": 8,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of clean; covered or marked with dirt",
+      "answer": "DIRTY",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Large keyboard instrument with black and white keys",
-      "answer": "PIANO",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The planet we live on, third from the sun",
-      "answer": "EARTH",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Colorful reef structure made by tiny ocean animals",
-      "answer": "CORAL",
+      "clue": "A star that suddenly increases greatly in brightness",
+      "answer": "NOVA",
       "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Extra money you receive as a reward for doing great work",
-      "answer": "BONUS",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A body of fresh water completely surrounded by land",
-      "answer": "LAKE",
-      "row": 2,
-      "col": 7,
+      "col": 9,
       "direction": "down"
     }
   ],

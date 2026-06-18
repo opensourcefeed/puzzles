@@ -4,45 +4,45 @@
   "title": "Level 12",
   "words": [
     {
-      "clue": "A brother or sister",
-      "answer": "SIBLING",
-      "row": 0,
+      "clue": "An angle that measures exactly 90 degrees",
+      "answer": "RIGHTANGLE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Covered area attached to a house where you park your car",
-      "answer": "GARAGE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft square used to wipe and clean surfaces and dishes",
-      "answer": "SPONGE",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Thick soft covering placed on the floor in a room",
-      "answer": "CARPET",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Colorful reef structure made by tiny ocean animals",
-      "answer": "CORAL",
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
       "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "White fluffy shapes floating in the sky",
-      "answer": "CLOUD",
-      "row": 6,
+      "clue": "The distance across a circle passing through its center",
+      "answer": "DIAMETER",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling confused because something is difficult to understand",
+      "answer": "PUZZLED",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "PITCHER",
+      "row": 7,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A young plant just starting to grow",
+      "answer": "SPROUT",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     }
   ],

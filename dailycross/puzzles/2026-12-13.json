@@ -4,74 +4,60 @@
   "title": "2026-12-13",
   "words": [
     {
-      "clue": "Sport where you throw and catch an orange ball through a hoop",
-      "answer": "BASKETBALL",
-      "row": 5,
+      "clue": "A folder on a computer where deleted files are temporarily stored",
+      "answer": "RECYCLEBIN",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large green and red fruit with seeds inside",
-      "answer": "WATERMELON",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The set of black and white keys on a piano",
-      "answer": "KEYBOARD",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The outer coat of a seed that protects it",
-      "answer": "SEEDCOAT",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "What happens when ice or chocolate becomes liquid from heat",
-      "answer": "MELTING",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you slide down a snowy hill on long boards",
-      "answer": "SKIING",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Small purple or blue wildflower found in meadows",
-      "answer": "VIOLET",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The words written in a song",
-      "answer": "LYRICS",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Shellfish attached to rocks that opens when in water",
-      "answer": "MUSSEL",
-      "row": 0,
+      "clue": "A race where each competitor tries to complete a course in the shortest time",
+      "answer": "TIMETRIAL",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Person who cuts and styles men's hair",
-      "answer": "BARBER",
-      "row": 2,
-      "col": 0,
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The scientific study of substances, their properties, and how they react",
+      "answer": "CHEMISTRY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 5,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "A black and white striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The rounded back part of your foot below your ankle",
+      "answer": "HEEL",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A common black bird that gathers in large groups",
+      "answer": "CROW",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 184

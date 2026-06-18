@@ -4,74 +4,74 @@
   "title": "2026-08-01",
   "words": [
     {
-      "clue": "Sea creature with a shell on its back that lives on beaches",
-      "answer": "HERMITCRAB",
+      "clue": "An instrument used to measure atmospheric pressure",
+      "answer": "BAROMETER",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A number that is the product of a number multiplied by itself",
+      "answer": "SQUAREDO",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A panel of keys used to input text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A large building or outdoor area with seats for watching sports events",
+      "answer": "STADIUM",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
       "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that grows round, red fruits often used in cooking",
+      "answer": "TOMATO",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a ripe banana or the sun",
+      "answer": "YELLOW",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Physical activity that keeps your body strong and fit",
-      "answer": "EXERCISE",
-      "row": 7,
-      "col": 1,
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "When a substance dissolves in a liquid",
-      "answer": "SOLUTION",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you sail a boat using wind",
-      "answer": "SAILING",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Portable steps used to reach high places safely",
-      "answer": "LADDER",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The red wet part inside your mouth you taste with",
-      "answer": "TONGUE",
-      "row": 9,
+      "clue": "How high or low a musical sound is",
+      "answer": "PITCH",
+      "row": 0,
       "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "The dark circle in the middle of your eye",
-      "answer": "PUPIL",
-      "row": 8,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who watches over a building to keep it safe",
-      "answer": "GUARD",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Group of students who learn together",
-      "answer": "CLASS",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Country famous for the Colosseum, pasta and pizza",
-      "answer": "ITALY",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
     }
   ],
   "dayNumber": 50

@@ -4,67 +4,74 @@
   "title": "2026-06-24",
   "words": [
     {
-      "clue": "Colorful arc of light in the sky after rain",
-      "answer": "RAINBOW",
-      "row": 4,
-      "col": 3,
+      "clue": "A sport or activity of moving through water using arms and legs",
+      "answer": "SWIMMING",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A digital container for organizing files on a computer",
+      "answer": "FOLDER",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The time halfway between noon and midnight",
-      "answer": "EVENING",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who cleans and checks your teeth",
-      "answer": "DENTIST",
-      "row": 1,
-      "col": 5,
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 10,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Country in West Africa with the city of Lagos",
-      "answer": "NIGERIA",
+      "clue": "A figure formed by two rays sharing a common endpoint",
+      "answer": "ANGLE",
       "row": 6,
-      "col": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A fertile area in a desert where water is found and plants can grow",
+      "answer": "OASIS",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The season when leaves turn red and fall from trees",
-      "answer": "AUTUMN",
-      "row": 6,
-      "col": 12,
+      "clue": "A tall grain plant with yellow kernels arranged on a cob",
+      "answer": "CORN",
+      "row": 8,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Person who creates paintings, drawings and sculptures",
-      "answer": "ARTIST",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat surface with four legs where you eat meals or work",
-      "answer": "TABLE",
-      "row": 0,
-      "col": 0,
+      "clue": "A solid shape with six identical square faces",
+      "answer": "CUBE",
+      "row": 4,
+      "col": 1,
       "direction": "across"
-    },
-    {
-      "clue": "Tall bar stool used at a kitchen counter",
-      "answer": "STOOL",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
     }
   ],
   "dayNumber": 12

@@ -4,73 +4,66 @@
   "title": "2027-05-25",
   "words": [
     {
-      "clue": "Brown sweet powder used in desserts",
-      "answer": "CHOCOLATE",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Turning around and around on a central point",
-      "answer": "ROTATION",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewish holiday with eight nights of candles and gifts",
-      "answer": "HANUKKAH",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "US holiday in September honoring working people",
-      "answer": "LABORDAY",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The first month of the year",
-      "answer": "JANUARY",
+      "clue": "The number above the line in a fraction, showing how many parts are taken",
+      "answer": "NUMERATOR",
       "row": 2,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Handle tool used to tighten or loosen nuts and bolts",
-      "answer": "WRENCH",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "European country with the city of Madrid",
-      "answer": "SPAIN",
-      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Dark yellowish brown color",
-      "answer": "KHAKI",
-      "row": 1,
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The words or text of a song",
+      "answer": "LYRICS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A number that is exactly divisible by two",
+      "answer": "EVEN",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A sticky substance used to join paper or other materials together",
+      "answer": "GLUE",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The rounded back part of your foot below your ankle",
+      "answer": "HEEL",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Basin in the kitchen where you wash dishes and vegetables",
-      "answer": "SINK",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Yellow vegetable that grows on a cob",
-      "answer": "CORN",
-      "row": 6,
-      "col": 6,
+      "clue": "A farm animal that says moo",
+      "answer": "COW",
+      "row": 4,
+      "col": 8,
       "direction": "across"
     }
   ],

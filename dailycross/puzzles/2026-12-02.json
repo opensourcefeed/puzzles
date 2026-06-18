@@ -4,60 +4,74 @@
   "title": "2026-12-02",
   "words": [
     {
-      "clue": "Sport where two people try to throw each other to the ground",
-      "answer": "WRESTLING",
+      "clue": "Having no fear; brave and courageous",
+      "answer": "FEARLESS",
       "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "An organ behind the stomach that produces insulin",
+      "answer": "PANCREAS",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A long-distance running race of 26.2 miles",
+      "answer": "MARATHON",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A line that touches a circle at exactly one point",
+      "answer": "TANGENT",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Physical activity that keeps your body strong and fit",
-      "answer": "EXERCISE",
+      "clue": "The place where a river or stream begins its journey",
+      "answer": "SOURCE",
       "row": 5,
-      "col": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Round green vegetable that grows on a vine",
-      "answer": "ZUCCHINI",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Mineral in milk and cheese needed for strong bones",
-      "answer": "CALCIUM",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with six sides like a honeycomb cell",
-      "answer": "HEXAGON",
-      "row": 12,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The regular repeating beat in music",
-      "answer": "RHYTHM",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A coin that is worth five cents",
-      "answer": "NICKEL",
+      "clue": "A person who bakes bread, cakes, and other baked goods",
+      "answer": "BAKER",
       "row": 10,
-      "col": 1,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Farm building where cows and hay are kept",
-      "answer": "BARN",
-      "row": 9,
-      "col": 7,
+      "clue": "A grain crop whose flour is used to make bread",
+      "answer": "WHEAT",
+      "row": 4,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "A small, sweet, brown fruit that grows on palm trees",
+      "answer": "DATE",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 173

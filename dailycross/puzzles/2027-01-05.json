@@ -4,60 +4,74 @@
   "title": "2027-01-05",
   "words": [
     {
-      "clue": "A person who studies stars and space",
-      "answer": "ASTRONOMER",
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
       "row": 1,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A massive worldwide network connecting computers everywhere",
-      "answer": "INTERNET",
+      "clue": "A deep red-purple color, like the wine from the region",
+      "answer": "BURGUNDY",
       "row": 0,
-      "col": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Very tiny living things you can only see with a microscope",
-      "answer": "BACTERIA",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The day that comes after today",
-      "answer": "TOMORROW",
-      "row": 7,
-      "col": 5,
+      "clue": "The largest planet in our solar system, known for its Great Red Spot",
+      "answer": "JUPITER",
+      "row": 4,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Feeling deeply thankful for what someone did for you",
-      "answer": "GRATEFUL",
-      "row": 0,
+      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
+      "answer": "TSUNAMI",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "One hundred years is called this",
-      "answer": "CENTURY",
+      "clue": "A game or contest between two players or teams",
+      "answer": "MATCH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of day; the time of darkness between sunset and sunrise",
+      "answer": "NIGHT",
       "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried that something bad will happen",
-      "answer": "ANXIOUS",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for tacos, pyramids and sombreros",
-      "answer": "MEXICO",
-      "row": 2,
       "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "A large organ that filters harmful substances from the blood",
+      "answer": "LIVER",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The main support of a plant",
+      "answer": "STEM",
+      "row": 7,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A tiny, soft green plant that grows on rocks, trees, and damp ground",
+      "answer": "MOSS",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The star at the center of our solar system that provides light and heat",
+      "answer": "SUN",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 207

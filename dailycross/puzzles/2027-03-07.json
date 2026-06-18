@@ -4,74 +4,67 @@
   "title": "2027-03-07",
   "words": [
     {
-      "clue": "Yellow tropical fruit with a rough skin",
-      "answer": "PINEAPPLE",
-      "row": 2,
-      "col": 3,
+      "clue": "The longest side of a right-angled triangle, opposite the right angle",
+      "answer": "HYPOTENUSE",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Money that the government takes from people's wages",
-      "answer": "INCOMETAX",
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A chemical change that produces one or more new substances",
+      "answer": "REACTION",
       "row": 1,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewelry worn around the wrist",
-      "answer": "BRACELET",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A book or chart showing all the days of a year",
-      "answer": "CALENDAR",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Machine that puts words and pictures from a computer onto paper",
-      "answer": "PRINTER",
-      "row": 6,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Handle tool used to tighten or loosen nuts and bolts",
-      "answer": "WRENCH",
-      "row": 7,
+      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
+      "answer": "PULSAR",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A string instrument with a flat back, played by strumming or plucking",
+      "answer": "GUITAR",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A digital container for organizing files on a computer",
+      "answer": "FOLDER",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 5,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Light rock full of small holes made by a volcano",
-      "answer": "PUMICE",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
-      "answer": "GINGER",
-      "row": 4,
-      "col": 8,
+      "clue": "A figure formed by two rays sharing a common endpoint",
+      "answer": "ANGLE",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The clear liquid your body needs to stay alive every day",
-      "answer": "WATER",
-      "row": 1,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Protective cover worn over clothing while cooking",
-      "answer": "APRON",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
+      "clue": "A food made by baking a mixture of flour, water, and yeast",
+      "answer": "BREAD",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 268

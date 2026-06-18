@@ -4,73 +4,73 @@
   "title": "2027-04-29",
   "words": [
     {
-      "clue": "Very strong storm with spinning winds",
-      "answer": "TORNADO",
-      "row": 5,
-      "col": 3,
+      "clue": "A tree that keeps its green leaves throughout the entire year",
+      "answer": "EVERGREEN",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Captain who is in charge of a large ship",
-      "answer": "CAPTAIN",
-      "row": 4,
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A prediction or estimate of future weather conditions",
+      "answer": "FORECAST",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The largest ocean in the world between Asia and America",
-      "answer": "PACIFIC",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal with a long neck that drinks from rivers",
-      "answer": "GIRAFFE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Folder where you keep your papers",
-      "answer": "BINDER",
-      "row": 7,
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The most popular internet search engine",
-      "answer": "GOOGLE",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where works of art are displayed for visitors",
-      "answer": "MUSEUM",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The dark time after sunset when you sleep",
-      "answer": "NIGHT",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "High shoe that covers the ankle",
-      "answer": "BOOT",
-      "row": 5,
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A piece of music sung or played as one work",
-      "answer": "SONG",
+      "clue": "A device that controls the flow of water from a pipe",
+      "answer": "FAUCET",
       "row": 0,
-      "col": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The body part used for tasting food",
+      "answer": "TONGUE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather during which snow is falling",
+      "answer": "SNOWY",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The speed at which a piece of music is played",
+      "answer": "TEMPO",
+      "row": 4,
+      "col": 11,
       "direction": "down"
     }
   ],

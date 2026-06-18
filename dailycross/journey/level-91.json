@@ -4,98 +4,98 @@
   "title": "Level 91",
   "words": [
     {
-      "clue": "Machine that washes and dries your plates and cups",
-      "answer": "DISHWASHER",
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
       "row": 7,
-      "col": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Tall yellow spring flower with a trumpet-shaped center",
-      "answer": "DAFFODIL",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Two or more atoms joined together",
-      "answer": "MOLECULE",
-      "row": 10,
+      "clue": "A vehicle equipped with equipment for fighting fires",
+      "answer": "FIRETRUCK",
+      "row": 4,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Three children born at the same time to the same mother",
-      "answer": "TRIPLETS",
-      "row": 5,
-      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The joint where your arm meets your body",
-      "answer": "SHOULDER",
-      "row": 6,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 9,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The first day of the weekend",
-      "answer": "SATURDAY",
-      "row": 5,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Outdoor cooking surface used to grill meat over fire",
-      "answer": "BARBECUE",
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
       "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 5,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Feeling like you need to sleep",
-      "answer": "SLEEPY",
-      "row": 13,
+      "clue": "The dense, central core of an atom containing protons and neutrons",
+      "answer": "NUCLEUS",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "answer": "PEACOCK",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "An object that produces a magnetic field and attracts iron",
+      "answer": "MAGNET",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The empty space between stars and galaxies that contains no matter",
+      "answer": "VACUUM",
+      "row": 2,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Day honoring civil rights leader Martin Luther King Jr",
-      "answer": "MLKDAY",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The tiny dwarf planet beyond Neptune",
-      "answer": "PLUTO",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of fresh cut grass",
-      "answer": "GREEN",
-      "row": 8,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Fragrant green herb used on pizzas and in Italian cooking",
-      "answer": "BASIL",
-      "row": 3,
+      "clue": "A solid shape with a circular base that narrows to a point",
+      "answer": "CONE",
+      "row": 7,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "White vegetable that makes you cry when you cut it",
-      "answer": "ONION",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "wordCount": 13,
   "targetWords": 17,
-  "difficulty": "hard"
+  "difficulty": "medium"
 }

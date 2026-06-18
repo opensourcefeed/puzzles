@@ -4,74 +4,67 @@
   "title": "2026-08-03",
   "words": [
     {
-      "clue": "South American country famous for the tango dance",
-      "answer": "ARGENTINA",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The day that comes after today",
-      "answer": "TOMORROW",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Colored pencils used in art class",
-      "answer": "MARKERS",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Small stringed instrument you play with a bow",
-      "answer": "VIOLIN",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft square used to wipe and clean surfaces and dishes",
-      "answer": "SPONGE",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Red fruit that keeps the doctor away",
-      "answer": "APPLE",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Green soft plant that covers lawns",
-      "answer": "GRASS",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Large building where concerts and events are held",
-      "answer": "ARENA",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Farm animal that gives us wool",
-      "answer": "SHEEP",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The stage when a caterpillar wraps itself in a cocoon",
-      "answer": "PUPA",
-      "row": 5,
+      "clue": "A period of unusually cold weather that lasts for several days",
+      "answer": "COLDSPELL",
+      "row": 6,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A deep red-purple color, like the wine from the region",
+      "answer": "BURGUNDY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A two-wheeled vehicle that you ride by pushing pedals with your feet",
+      "answer": "BICYCLE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two arms used for drawing circles and arcs",
+      "answer": "COMPASS",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A very fast-running bird that cannot fly",
+      "answer": "OSTRICH",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that grows, flowers, and dies within a single year",
+      "answer": "ANNUAL",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A medical professional who diagnoses and treats illnesses",
+      "answer": "DOCTOR",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A specific characteristic that is passed from parents to offspring",
+      "answer": "TRAIT",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of flat land with few trees",
+      "answer": "PLAIN",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 52

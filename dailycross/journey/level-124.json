@@ -4,105 +4,112 @@
   "title": "Level 124",
   "words": [
     {
-      "clue": "You write on this with a marker",
-      "answer": "WHITEBOARD",
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
       "row": 7,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Book with words and their meanings",
-      "answer": "DICTIONARY",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Small blue round fruit used in muffins",
-      "answer": "BLUEBERRY",
-      "row": 3,
+      "clue": "Feeling or showing surprise at something unexpected",
+      "answer": "SURPRISED",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Large gray animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle used on a farm to pull heavy equipment",
-      "answer": "TRACTOR",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 6,
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Being in good physical condition from exercise and good food",
-      "answer": "HEALTHY",
-      "row": 0,
-      "col": 13,
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A vehicle that carries astronauts from one spacecraft to another",
-      "answer": "SHUTTLE",
-      "row": 1,
-      "col": 7,
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A trained person who helps sick people recover in hospital",
-      "answer": "NURSE",
-      "row": 10,
-      "col": 10,
-      "direction": "down"
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "The tiny dwarf planet beyond Neptune",
-      "answer": "PLUTO",
-      "row": 10,
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Red fruit that keeps the doctor away",
-      "answer": "APPLE",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The unit of British money used in England",
-      "answer": "POUND",
-      "row": 8,
+      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
+      "answer": "DECIMAL",
+      "row": 0,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The tiny basic building block of all matter",
-      "answer": "ATOM",
-      "row": 0,
-      "col": 10,
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
+      "row": 13,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The body part used for tasting food",
+      "answer": "TONGUE",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Plant tissue that carries food made in leaves to other parts",
+      "answer": "PHLOEM",
+      "row": 7,
+      "col": 13,
       "direction": "down"
+    },
+    {
+      "clue": "A region of a circle bounded by two radii and the arc between them",
+      "answer": "SECTOR",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A farm animal that gives wool",
+      "answer": "SHEEP",
+      "row": 9,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A rich, dark green color, like the gemstone",
+      "answer": "JADE",
+      "row": 5,
+      "col": 11,
+      "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 22,
   "difficulty": "hard"
 }

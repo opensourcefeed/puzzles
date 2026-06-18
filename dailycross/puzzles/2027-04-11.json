@@ -4,66 +4,73 @@
   "title": "2027-04-11",
   "words": [
     {
-      "clue": "A shape that is taller than it is wide, with four sides",
-      "answer": "RECTANGLE",
-      "row": 6,
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The amount of water vapor in the air",
-      "answer": "HUMIDITY",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you hit a white ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Light purple color of a lavender flower",
-      "answer": "LAVENDER",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Helsinki",
-      "answer": "FINLAND",
-      "row": 4,
+      "clue": "The process by which plants use sunlight to make their own food",
+      "answer": "PHOTOSYNTH",
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Lightweight aircraft with one small engine",
-      "answer": "GLIDER",
-      "row": 12,
-      "col": 3,
+      "clue": "A truck with an open bed that can be tilted to dump its load",
+      "answer": "DUMPTRUCK",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Shellfish attached to rocks that opens when in water",
-      "answer": "MUSSEL",
-      "row": 2,
-      "col": 3,
+      "clue": "A person who creates and designs clothing and accessories",
+      "answer": "DESIGNER",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Hopeful and confident, even in difficult situations",
+      "answer": "POSITIVE",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Building where a family lives",
-      "answer": "HOUSE",
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
       "row": 0,
-      "col": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark, earthy brown color, like the pigment",
+      "answer": "UMBER",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A farm animal that gives wool",
+      "answer": "SHEEP",
+      "row": 14,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather during which rain is falling",
+      "answer": "RAINY",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     }
   ],

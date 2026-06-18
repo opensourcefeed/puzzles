@@ -4,60 +4,67 @@
   "title": "2026-09-25",
   "words": [
     {
-      "clue": "Dense tropical forest near the equator with heavy rain",
-      "answer": "RAINFOREST",
-      "row": 2,
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Jewish holiday with eight nights of candles and gifts",
-      "answer": "HANUKKAH",
+      "clue": "The total distance around the outside of a shape",
+      "answer": "PERIMETER",
       "row": 0,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Machine that can create three-dimensional objects from digital files",
-      "answer": "PRINTER",
+      "clue": "A shape where every point on its boundary is the same distance from its center",
+      "answer": "CIRCULAR",
       "row": 1,
-      "col": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with four equal sides and four corners",
-      "answer": "SQUARE",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Thick yellow dairy spread put on bread",
-      "answer": "BUTTER",
+      "clue": "A person who repairs and maintains vehicles and machinery",
+      "answer": "MECHANIC",
       "row": 4,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A ball of ice and dust that has a glowing tail in space",
-      "answer": "COMET",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest coin worth only one cent",
-      "answer": "PENNY",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Large boat that carries vehicles across water",
-      "answer": "FERRY",
+      "clue": "The display surface of a computer that shows images and text",
+      "answer": "SCREEN",
       "row": 0,
       "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "A plant that grows, flowers, and dies within a single year",
+      "answer": "ANNUAL",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A long seat where players sit when they are not on the field",
+      "answer": "BENCH",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that grows in water with flat leaves that float on the surface",
+      "answer": "LILY",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The upper limb of your body between your shoulder and hand",
+      "answer": "ARM",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 105

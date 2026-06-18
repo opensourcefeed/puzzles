@@ -4,105 +4,112 @@
   "title": "Level 129",
   "words": [
     {
-      "clue": "Asian country with the city of Seoul",
-      "answer": "SOUTHKOREA",
-      "row": 6,
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An object that does not let electricity pass through",
-      "answer": "INSULATOR",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Long vehicle used to transport many children to school",
-      "answer": "SCHOOLBUS",
+      "clue": "A flat shape with twelve straight sides and twelve angles",
+      "answer": "DODECAGON",
       "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who creates new devices or ways of doing things",
-      "answer": "INVENTOR",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny floating organisms that form the base of the ocean food chain",
-      "answer": "PLANKTON",
-      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Person who travels to new places to discover and learn",
-      "answer": "EXPLORER",
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The side or direction from which the wind is blowing",
+      "answer": "WINDWARD",
       "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Test done by a doctor to measure your body temperature",
-      "answer": "CHECKUP",
-      "row": 12,
-      "col": 8,
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
+      "row": 13,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The city where a country's government is based",
-      "answer": "CAPITAL",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Colored pencils used in art class",
-      "answer": "MARKERS",
-      "row": 0,
+      "clue": "A team sport where players hit a ball with a bat and run bases",
+      "answer": "BASEBALL",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Sport where you ride a two-wheeled vehicle on a track",
-      "answer": "CYCLING",
-      "row": 9,
-      "col": 7,
+      "clue": "A person who designs, builds, and maintains engines and machines",
+      "answer": "ENGINEER",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The scientific study of living organisms and their life processes",
+      "answer": "BIOLOGY",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "How heavy something is measured in grams or kilograms",
-      "answer": "WEIGHT",
-      "row": 6,
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 0,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A group of people all related to each other",
-      "answer": "FAMILY",
-      "row": 1,
-      "col": 4,
+      "clue": "A very slow-moving animal that carries a shell on its back",
+      "answer": "SNAIL",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Money you earn every month from your job",
-      "answer": "SALARY",
-      "row": 6,
-      "col": 1,
-      "direction": "down"
+      "clue": "A specific characteristic that is passed from parents to offspring",
+      "answer": "TRAIT",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
     },
     {
-      "clue": "Cloth worn over clothes to keep them clean while cooking",
-      "answer": "APRON",
+      "clue": "A real-time conversation using typed messages over the internet",
+      "answer": "CHAT",
       "row": 1,
       "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "A basin with running water for washing hands and dishes",
+      "answer": "SINK",
+      "row": 9,
+      "col": 11,
+      "direction": "across"
+    },
+    {
+      "clue": "A thin cloud of tiny water droplets very close to the ground",
+      "answer": "MIST",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 22,
   "difficulty": "hard"
 }

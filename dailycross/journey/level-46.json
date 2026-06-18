@@ -4,84 +4,70 @@
   "title": "Level 46",
   "words": [
     {
-      "clue": "Flying vehicle with spinning blades on the roof",
-      "answer": "HELICOPTER",
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
       "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Yellow tropical fruit with a rough skin",
-      "answer": "PINEAPPLE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
-      "answer": "VITAMINC",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The first day of the weekend",
-      "answer": "SATURDAY",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 0,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A narrow stretch of water connecting two larger bodies of water",
-      "answer": "STRAIT",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Small curved pink ocean crustacean eaten in salads",
-      "answer": "SHRIMP",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Thick yellow dairy spread put on bread",
-      "answer": "BUTTER",
-      "row": 5,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where players hit a shuttlecock over a net using rackets",
+      "answer": "BADMINTON",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Wide flat tool used to dig and move snow or earth",
-      "answer": "SHOVEL",
-      "row": 0,
-      "col": 3,
+      "clue": "A card with a student's name and photo used for identification",
+      "answer": "IDCARD",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Soft fabric worn on your feet inside shoes",
-      "answer": "SOCKS",
-      "row": 2,
-      "col": 2,
+      "clue": "A light purple-pink color, like the flower",
+      "answer": "LILAC",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A form of energy that travels in waves and allows us to see",
+      "answer": "LIGHT",
+      "row": 9,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Curved tool used to eat soup or stir drinks",
-      "answer": "SPOON",
+      "clue": "The joint in the middle of your arm that allows it to bend",
+      "answer": "ELBOW",
       "row": 0,
-      "col": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of day; the time of darkness between sunset and sunrise",
+      "answer": "NIGHT",
+      "row": 11,
+      "col": 7,
       "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 9,
   "targetWords": 11,
   "difficulty": "medium"
 }

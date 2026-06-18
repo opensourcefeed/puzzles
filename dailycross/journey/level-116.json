@@ -4,112 +4,105 @@
   "title": "Level 116",
   "words": [
     {
-      "clue": "Feeling pleased and content with what you have",
-      "answer": "SATISFIED",
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
       "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Tall feature on land formed by pushing earth upward",
-      "answer": "MOUNTAIN",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Large vehicle with wings that flies through the air",
-      "answer": "AIRPLANE",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A young person between thirteen and nineteen years old",
-      "answer": "TEENAGER",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Room where you borrow books to read",
-      "answer": "LIBRARY",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large seabird with a pouch under its beak",
-      "answer": "PELICAN",
-      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Person who keeps schools and offices clean",
-      "answer": "JANITOR",
-      "row": 7,
-      "col": 14,
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The eighth and farthest planet from the sun",
-      "answer": "NEPTUNE",
-      "row": 8,
-      "col": 3,
+      "clue": "An organ behind the stomach that produces insulin",
+      "answer": "PANCREAS",
+      "row": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Heavy headed tool used to bang nails into wood",
-      "answer": "HAMMER",
-      "row": 3,
+      "clue": "A symbol, usually a letter, that represents an unknown number",
+      "answer": "VARIABLE",
+      "row": 12,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The last day of the weekend",
-      "answer": "SUNDAY",
+      "clue": "A chemical change that produces one or more new substances",
+      "answer": "REACTION",
       "row": 4,
-      "col": 11,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Building where Muslims go to pray",
-      "answer": "MOSQUE",
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
       "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The display screen of a computer that shows images and text",
+      "answer": "MONITOR",
+      "row": 9,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Top with no collar or buttons worn by students",
-      "answer": "SHIRT",
-      "row": 0,
-      "col": 8,
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 6,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Curved tool used to eat soup or stir drinks",
-      "answer": "SPOON",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
     },
     {
-      "clue": "The hard center of the Earth",
-      "answer": "CORE",
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
       "row": 14,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Mineral in red meat and spinach needed to carry oxygen in blood",
-      "answer": "IRON",
-      "row": 11,
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A region of a circle bounded by two radii and the arc between them",
+      "answer": "SECTOR",
+      "row": 14,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather that is bright and warm with lots of sunshine",
+      "answer": "SUNNY",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 14,
   "targetWords": 20,
   "difficulty": "hard"
 }

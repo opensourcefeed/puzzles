@@ -4,74 +4,67 @@
   "title": "2026-06-25",
   "words": [
     {
-      "clue": "Yellow tropical fruit with a rough skin",
-      "answer": "PINEAPPLE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Holiday on December 25 when gifts are exchanged",
-      "answer": "CHRISTMAS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Large vehicle with wings that flies through the air",
-      "answer": "AIRPLANE",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The largest ocean in the world between Asia and America",
-      "answer": "PACIFIC",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Shellfish that produces a shiny pearl inside its shell",
-      "answer": "OYSTER",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Salty snack that comes in a bag and is very crunchy",
-      "answer": "CHIPS",
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
       "row": 3,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Organ in your belly that helps digest food",
-      "answer": "LIVER",
-      "row": 7,
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The ability to continue a physical activity for a long time",
+      "answer": "ENDURANCE",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep red-purple color, like the wine from the region",
+      "answer": "BURGUNDY",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A primate that lives in trees and swings from branch to branch",
+      "answer": "MONKEY",
+      "row": 5,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Small bag carried by women to hold their belongings",
-      "answer": "PURSE",
-      "row": 11,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "East African country with the city of Nairobi and safaris",
-      "answer": "KENYA",
-      "row": 9,
+      "clue": "A small, round fruit that grows in bunches on vines",
+      "answer": "GRAPE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The dark circle in the middle of your eye",
-      "answer": "PUPIL",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
+      "clue": "A grain crop whose flour is used to make bread",
+      "answer": "WHEAT",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 13

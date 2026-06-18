@@ -4,67 +4,74 @@
   "title": "2026-10-21",
   "words": [
     {
-      "clue": "You write on this with a marker",
-      "answer": "WHITEBOARD",
-      "row": 5,
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "One thousand years is called this",
-      "answer": "MILLENNIUM",
+      "clue": "A tree that keeps its green leaves throughout the entire year",
+      "answer": "EVERGREEN",
       "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The day that came before today",
-      "answer": "YESTERDAY",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Machine that uses microwave energy to heat food quickly",
-      "answer": "MICROWAVE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Electronic machine that processes information and runs programs",
-      "answer": "COMPUTER",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who fixes water pipes and drains in buildings",
-      "answer": "PLUMBER",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Large seabird with a pouch under its beak",
-      "answer": "PELICAN",
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
       "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Extremely happy and excited",
+      "answer": "ELATED",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sport where two boxers punch each other wearing gloves",
-      "answer": "BOXING",
-      "row": 7,
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A series of connected vehicles that run on railway tracks",
+      "answer": "TRAIN",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The bending joint in the middle of your arm",
-      "answer": "ELBOW",
-      "row": 3,
+      "clue": "Hot, liquid rock beneath the Earth's surface",
+      "answer": "MAGMA",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A number that is exactly divisible by two",
+      "answer": "EVEN",
+      "row": 2,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A small picture or symbol on a computer screen that represents a program",
+      "answer": "ICON",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 131

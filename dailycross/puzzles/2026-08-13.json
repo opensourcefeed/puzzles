@@ -4,74 +4,67 @@
   "title": "2026-08-13",
   "words": [
     {
-      "clue": "Feeling sure of yourself and your abilities",
-      "answer": "CONFIDENT",
-      "row": 5,
+      "clue": "The result obtained by subtracting one number from another",
+      "answer": "DIFFERENCE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Electronic machine that processes information and runs programs",
-      "answer": "COMPUTER",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint where your arm meets your body",
-      "answer": "SHOULDER",
-      "row": 0,
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Holiday celebrating Earth and the environment in April",
-      "answer": "EARTHDAY",
-      "row": 7,
-      "col": 3,
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Marine animal with a star shape",
-      "answer": "STARFISH",
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A tropical fruit with orange flesh and a cluster of black seeds",
+      "answer": "PAPAYA",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A race in which team members take turns running and passing a baton",
+      "answer": "RELAY",
       "row": 5,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A small adhesive strip used to cover a minor cut",
-      "answer": "BANDAID",
+      "clue": "Tiny, loose grains of worn-down rock found on beaches and deserts",
+      "answer": "SAND",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A sturdy vehicle designed for traveling over rough terrain",
+      "answer": "JEEP",
       "row": 10,
-      "col": 4,
+      "col": 6,
       "direction": "across"
-    },
-    {
-      "clue": "Green soft plant that covers lawns",
-      "answer": "GRASS",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Energy that travels through the air as vibrations we can hear",
-      "answer": "SOUND",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The shared money used in most countries in Europe",
-      "answer": "EURO",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The colorful area of ocean with coral and tropical fish",
-      "answer": "REEF",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
     }
   ],
   "dayNumber": 62

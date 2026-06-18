@@ -4,74 +4,67 @@
   "title": "2026-11-25",
   "words": [
     {
-      "clue": "June holiday to honor and give gifts to fathers",
-      "answer": "FATHERSDAY",
-      "row": 5,
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "April 1 holiday when people play pranks on each other",
-      "answer": "APRILFOOLS",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A large concert hall where orchestras perform",
-      "answer": "AUDITORIUM",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Brown sweet powder used in desserts",
-      "answer": "CHOCOLATE",
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
       "row": 4,
-      "col": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Organ that turns food into nutrients your body uses",
-      "answer": "STOMACH",
-      "row": 7,
-      "col": 8,
+      "clue": "A sport where players hit a shuttlecock over a net using rackets",
+      "answer": "BADMINTON",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An ordered list of numbers or objects that follows a specific rule",
+      "answer": "SEQUENCE",
+      "row": 11,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Person who shapes clay into pottery and bowls",
-      "answer": "POTTER",
-      "row": 12,
-      "col": 1,
-      "direction": "across"
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "The ocean found around the continent of India",
-      "answer": "INDIAN",
-      "row": 10,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Smooth creamy food made from milk",
-      "answer": "YOGURT",
-      "row": 3,
+      "clue": "A panel of keys used to type text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that runs on metal rails and carries passengers",
-      "answer": "TRAIN",
-      "row": 5,
-      "col": 12,
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of three-dimensional space an object occupies",
+      "answer": "VOLUME",
+      "row": 1,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "A straight line connecting two points on the circumference of a circle",
+      "answer": "CHORD",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 166

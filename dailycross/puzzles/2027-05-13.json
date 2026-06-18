@@ -4,73 +4,59 @@
   "title": "2027-05-13",
   "words": [
     {
-      "clue": "You use this tool to do math sums",
-      "answer": "CALCULATOR",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Protective glass or plastic building used to grow plants indoors",
-      "answer": "GREENHOUSE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle that mows and harvests crops in fields",
-      "answer": "HARVESTER",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you jump as far as you can from a running start",
-      "answer": "LONGJUMP",
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
       "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Long green vegetable related to the pumpkin",
-      "answer": "ZUCCHINI",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling very interested and wanting to explore and find out more",
-      "answer": "CURIOUS",
-      "row": 14,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large farm vehicle used to pull plows and equipment",
-      "answer": "TRACTOR",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Country between France and Spain with the Pyrenees mountains",
-      "answer": "ANDORRA",
-      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A printed paper record showing how much you paid",
-      "answer": "RECEIPT",
-      "row": 1,
-      "col": 5,
+      "clue": "A positive whole number used for counting objects",
+      "answer": "NATURAL",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An electrical appliance that cleans floors by sucking up dirt",
+      "answer": "VACUUM",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Holiday in spring to plant trees and care for forests",
-      "answer": "ARBOR",
-      "row": 8,
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 0,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A collection of maps in book form",
+      "answer": "ATLAS",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
+      "answer": "BROOM",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A rich, earthy yellow color, like the pigment",
+      "answer": "OCHRE",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     }
   ],

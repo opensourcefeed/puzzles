@@ -4,74 +4,67 @@
   "title": "2026-07-30",
   "words": [
     {
-      "clue": "South Asian country with the city of Dhaka",
-      "answer": "BANGLADESH",
-      "row": 6,
-      "col": 0,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A rock from space that falls and hits Earth",
-      "answer": "METEORITE",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Amount of rain that falls in a place",
-      "answer": "RAINFALL",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The eighth and farthest planet from the sun",
-      "answer": "NEPTUNE",
-      "row": 8,
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 4,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who repairs and maintains vehicles and machinery",
+      "answer": "MECHANIC",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
+      "answer": "REPORTER",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
+      "answer": "CONCAVE",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A mountain that can erupt with lava and ash",
-      "answer": "VOLCANO",
-      "row": 2,
+      "clue": "A low area of land between hills or mountains, often with a river",
+      "answer": "VALLEY",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of land that is completely surrounded by water",
+      "answer": "ISLAND",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A small adhesive strip used to cover a minor cut",
-      "answer": "BANDAID",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with the Sahara desert and Casablanca",
-      "answer": "MOROCCO",
-      "row": 3,
+      "clue": "A fine powder made by grinding wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Shiny gray color of a coin",
-      "answer": "SILVER",
-      "row": 13,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Garment worn by girls or women that falls below the waist",
-      "answer": "DRESS",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of the night sky with no moon",
-      "answer": "BLACK",
+      "clue": "Air that moves naturally across the Earth's surface",
+      "answer": "WIND",
       "row": 0,
-      "col": 4,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 48

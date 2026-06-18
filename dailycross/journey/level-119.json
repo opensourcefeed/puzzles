@@ -4,140 +4,126 @@
   "title": "Level 119",
   "words": [
     {
-      "clue": "Building where scientists do research and experiments",
-      "answer": "LABORATORY",
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The outer coat of a seed that protects it",
-      "answer": "SEEDCOAT",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Small motor vehicle like a bicycle used in cities",
-      "answer": "SCOOTER",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Device that plays sound from a computer or phone",
-      "answer": "SPEAKER",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very interested and wanting to explore and find out more",
-      "answer": "CURIOUS",
+      "clue": "A period of unusually cold weather that lasts for several days",
+      "answer": "COLDSPELL",
       "row": 3,
-      "col": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Sixty seconds equal one of these",
-      "answer": "MINUTE",
-      "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Sweet round red or yellow vegetable used in salads",
-      "answer": "PEPPER",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who creates paintings, drawings and sculptures",
-      "answer": "ARTIST",
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
       "row": 7,
-      "col": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Brown vegetable that grows underground and is often fried",
-      "answer": "POTATO",
-      "row": 12,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Small device that counts down while food is cooking",
-      "answer": "TIMER",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Black and white striped animal like a horse",
-      "answer": "ZEBRA",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Large keyboard instrument with black and white keys",
-      "answer": "PIANO",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling deep sadness and missing someone very much",
-      "answer": "GRIEF",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Neat row of low bushes forming a border or boundary",
-      "answer": "HEDGE",
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
       "row": 9,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A living thing that makes its own food from sunlight",
-      "answer": "PLANT",
-      "row": 1,
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A number that is greater than zero",
+      "answer": "POSITIVE",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A strip of material used to mark a reader's place in a book",
+      "answer": "BOOKMARK",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A document on the internet that can be viewed in a browser",
+      "answer": "WEBSITE",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Flat surface with four legs where you eat meals or work",
-      "answer": "TABLE",
-      "row": 5,
-      "col": 1,
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Salty snack that comes in a bag and is very crunchy",
-      "answer": "CHIPS",
+      "clue": "A sudden, brief storm with strong winds and often rain or snow",
+      "answer": "SQUALL",
       "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Hard protective layer at the tip of your fingers",
-      "answer": "NAILS",
-      "row": 3,
-      "col": 0,
+      "clue": "A small, lens-shaped dried seed often used in soups and stews",
+      "answer": "LENTIL",
+      "row": 14,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A fertile area in a desert where water is found and plants can grow",
+      "answer": "OASIS",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A black and white striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 1,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A storm with thunder, lightning, and usually heavy rain",
+      "answer": "STORM",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
     }
   ],
-  "wordCount": 19,
+  "wordCount": 17,
   "targetWords": 21,
   "difficulty": "hard"
 }

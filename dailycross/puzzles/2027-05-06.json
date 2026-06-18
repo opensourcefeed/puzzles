@@ -4,67 +4,74 @@
   "title": "2027-05-06",
   "words": [
     {
-      "clue": "Brown sweet powder used in desserts",
-      "answer": "CHOCOLATE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with five sides and five corners",
-      "answer": "PENTAGON",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Low platform that holds your television set",
-      "answer": "TVSTAND",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large seabird with a pouch under its beak",
-      "answer": "PELICAN",
+      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
+      "answer": "EGGPLANT",
       "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A device worn on your face to help you see clearly",
-      "answer": "GLASSES",
-      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large round object in space that orbits a star",
-      "answer": "PLANET",
-      "row": 5,
-      "col": 10,
+      "clue": "The passing of genetic traits from parents to offspring",
+      "answer": "HEREDITY",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The gas that plants release which we breathe",
-      "answer": "OXYGEN",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling pleased with yourself after doing something well",
-      "answer": "PROUD",
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
       "row": 2,
-      "col": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A sudden, heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Green soft plant that covers lawns",
-      "answer": "GRASS",
+      "clue": "A device that fastens sheets of paper together with staples",
+      "answer": "STAPLER",
       "row": 0,
-      "col": 8,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "The dense, central core of an atom containing protons and neutrons",
+      "answer": "NUCLEUS",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "answer": "PEACOCK",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A closed railroad car used for carrying freight",
+      "answer": "BOXCAR",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The colorful part of many flowers",
+      "answer": "PETAL",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 328

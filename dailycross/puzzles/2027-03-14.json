@@ -4,67 +4,74 @@
   "title": "2027-03-14",
   "words": [
     {
-      "clue": "Person who leads tourists around historical sites",
-      "answer": "TOURGUIDE",
-      "row": 4,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A very tall natural rise of land formed by rock",
-      "answer": "MOUNTAIN",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Heavy headed tool used to bang nails into wood",
-      "answer": "HAMMER",
-      "row": 6,
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Person who reads the news on television",
-      "answer": "ANCHOR",
-      "row": 9,
+      "clue": "A person whose job is to paint walls, buildings, and other surfaces",
+      "answer": "PAINTER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A bird that was historically used to carry messages",
+      "answer": "PIGEON",
+      "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Country in the Middle East where Jerusalem is located",
-      "answer": "ISRAEL",
+      "clue": "A digital container for organizing files on a computer",
+      "answer": "FOLDER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A device used to communicate with others over long distances",
+      "answer": "PHONE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark color like chocolate or tree bark",
+      "answer": "BROWN",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Long deep crack in the ground with steep walls",
-      "answer": "CANYON",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The hard center of the Earth",
-      "answer": "CORE",
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
       "row": 2,
-      "col": 6,
-      "direction": "across"
+      "col": 0,
+      "direction": "down"
     },
     {
-      "clue": "Plant that produces oxygen and food through its leaves",
-      "answer": "TREE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
+      "clue": "A very dark blue color, like the deep ocean",
+      "answer": "NAVY",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 275

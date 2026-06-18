@@ -4,105 +4,98 @@
   "title": "Level 68",
   "words": [
     {
-      "clue": "Small red fruit eaten on cakes and ice cream",
-      "answer": "STRAWBERRY",
-      "row": 5,
-      "col": 1,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The middle day of the school week",
-      "answer": "WEDNESDAY",
+      "clue": "A facility from which spacecraft and rockets are launched",
+      "answer": "SPACEPORT",
       "row": 4,
-      "col": 7,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Vehicle that puts out fires with water",
-      "answer": "FIRETRUCK",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
+      "clue": "The process by which the body breaks down food into nutrients",
+      "answer": "DIGESTION",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "Insect with beautiful colored wings",
-      "answer": "BUTTERFLY",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling pleased and content with what you have",
-      "answer": "SATISFIED",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Tall yellow spring flower with a trumpet-shaped center",
-      "answer": "DAFFODIL",
-      "row": 11,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Sport where you row a boat on water",
-      "answer": "ROWING",
+      "clue": "A liquid fuel made from petroleum, used in most cars",
+      "answer": "GASOLINE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A purple flower known for its calming, pleasant scent",
+      "answer": "LAVENDER",
       "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A large cloud of gas and dust between the stars",
-      "answer": "NEBULA",
-      "row": 1,
-      "col": 6,
+      "clue": "A person whose job is to paint walls, buildings, and other surfaces",
+      "answer": "PAINTER",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Person trained to examine and treat sick patients",
-      "answer": "DOCTOR",
-      "row": 3,
-      "col": 6,
+      "clue": "Feeling fear or worry about a possible danger",
+      "answer": "SCARED",
+      "row": 4,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Reddish orange color like a sunset",
-      "answer": "CORAL",
-      "row": 7,
+      "clue": "A day when the sky is covered with many clouds",
+      "answer": "CLOUDY",
+      "row": 0,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A small device you wear on your wrist to tell time",
-      "answer": "WATCH",
-      "row": 2,
+      "clue": "A small, smooth stone worn by water over time",
+      "answer": "PEBBLE",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The front part of your neck that contains your voice box",
+      "answer": "THROAT",
+      "row": 8,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of old; having lived for only a short time",
+      "answer": "YOUNG",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Animal that carries its home on its back",
-      "answer": "SNAIL",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Microsoft program used to create spreadsheets",
-      "answer": "EXCEL",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The seventh month of the year",
-      "answer": "JULY",
-      "row": 9,
-      "col": 2,
+      "clue": "An object that has length, width, and height",
+      "answer": "SOLID",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 13,
   "targetWords": 14,
   "difficulty": "medium"
 }

@@ -4,73 +4,66 @@
   "title": "2027-02-14",
   "words": [
     {
-      "clue": "Building where Jews go to worship",
-      "answer": "SYNAGOGUE",
-      "row": 5,
+      "clue": "A series of games or contests with several rounds to find a winner",
+      "answer": "TOURNAMENT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who lives in the house next to yours",
-      "answer": "NEIGHBOR",
+      "clue": "A person who repairs and maintains vehicles and machinery",
+      "answer": "MECHANIC",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
       "row": 5,
-      "col": 2,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Work your teacher gives you to do at home",
-      "answer": "HOMEWORK",
-      "row": 4,
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
+      "row": 10,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean bird that hovers over waves and dives for fish",
-      "answer": "SEAGULL",
-      "row": 7,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Large orange ocean crustacean with big claws",
-      "answer": "LOBSTER",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Soft gentle movement of cool air",
-      "answer": "BREEZE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Small purple or blue wildflower found in meadows",
-      "answer": "VIOLET",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The most popular internet search engine",
-      "answer": "GOOGLE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The third month of the year",
-      "answer": "MARCH",
-      "row": 1,
+      "clue": "A vegetable with an orange root that grows underground",
+      "answer": "CARROT",
+      "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Cloth worn over clothes to keep them clean while cooking",
-      "answer": "APRON",
+      "clue": "A tropical fruit with orange flesh and a cluster of black seeds",
+      "answer": "PAPAYA",
       "row": 1,
-      "col": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A very slow-moving animal that carries a shell on its back",
+      "answer": "SNAIL",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     }
   ],

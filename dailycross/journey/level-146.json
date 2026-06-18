@@ -4,119 +4,154 @@
   "title": "Level 146",
   "words": [
     {
-      "clue": "South American country famous for the tango dance",
-      "answer": "ARGENTINA",
+      "clue": "The result obtained by subtracting one number from another",
+      "answer": "DIFFERENCE",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 1,
-      "col": 7,
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Purple vegetable that is long and oval, also called aubergine",
-      "answer": "EGGPLANT",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Two or more atoms joined together",
-      "answer": "MOLECULE",
+      "clue": "A sport where players hit a shuttlecock over a net using rackets",
+      "answer": "BADMINTON",
       "row": 5,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The part of a computer you can see and touch",
-      "answer": "HARDWARE",
-      "row": 6,
-      "col": 3,
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 4,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with five sides and five corners",
-      "answer": "PENTAGON",
-      "row": 7,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling that you care about what others are going through",
-      "answer": "EMPATHY",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Southeast Asian country with the city of Hanoi",
-      "answer": "VIETNAM",
-      "row": 11,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Large cupboard built into the wall for storing clothes",
-      "answer": "CLOSET",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sorry after making a mistake",
-      "answer": "GUILTY",
+      "clue": "A symbol, usually a letter, that represents an unknown number",
+      "answer": "VARIABLE",
       "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The spinning motion of a planet around its own axis",
+      "answer": "ROTATION",
+      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Person who cuts and styles men's hair",
-      "answer": "BARBER",
-      "row": 9,
-      "col": 6,
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A prediction or estimate of future weather conditions",
+      "answer": "FORECAST",
+      "row": 7,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Soft gentle movement of cool air",
-      "answer": "BREEZE",
-      "row": 13,
+      "clue": "A part of a whole number, written with a numerator and denominator",
+      "answer": "FRACTION",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 4,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright, vivid pinkish-purple color",
+      "answer": "MAGENTA",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The natural environment where an organism lives and grows",
+      "answer": "HABITAT",
+      "row": 14,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of three-dimensional space an object occupies",
+      "answer": "VOLUME",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A large natural stream of water that flows across land",
+      "answer": "RIVER",
+      "row": 10,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A large area of flat land used for farming",
-      "answer": "PLAIN",
-      "row": 0,
-      "col": 9,
+      "clue": "A tool with a sharp blade used for cutting food",
+      "answer": "KNIFE",
+      "row": 8,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Protective cover worn over clothing while cooking",
-      "answer": "APRON",
-      "row": 0,
-      "col": 8,
+      "clue": "A large string instrument played while seated, held between the knees",
+      "answer": "CELLO",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A group of musicians who play together",
-      "answer": "BAND",
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A fraction where the numerator equals the denominator, representing one whole",
+      "answer": "UNITY",
       "row": 14,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of hard; easy to press or shape",
+      "answer": "SOFT",
+      "row": 0,
       "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A collection of data stored under a single name on a computer",
+      "answer": "FILE",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 21,
   "targetWords": 24,
   "difficulty": "hard"
 }

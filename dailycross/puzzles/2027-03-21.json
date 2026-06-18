@@ -4,67 +4,74 @@
   "title": "2027-03-21",
   "words": [
     {
-      "clue": "The second month of the year",
-      "answer": "FEBRUARY",
-      "row": 2,
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A shape like the base of a pyramid with four triangular faces",
-      "answer": "PYRAMID",
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
       "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with six straight sides and six angles",
+      "answer": "HEXAGON",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The time of day just after you wake up",
-      "answer": "MORNING",
-      "row": 4,
-      "col": 3,
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 5,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Fine thin rain that barely gets you wet",
-      "answer": "DRIZZLE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Thick soft covering placed on the floor in a room",
-      "answer": "CARPET",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Worn on both hands to keep them warm in winter",
-      "answer": "GLOVES",
-      "row": 4,
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 7,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Sour yellow citrus fruit",
-      "answer": "LEMON",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Thick warm outerwear you wear in cold weather",
-      "answer": "COAT",
-      "row": 6,
-      "col": 8,
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Yellow vegetable that grows on a cob",
-      "answer": "CORN",
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 9,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A large motor vehicle used for transporting goods by road",
+      "answer": "TRUCK",
       "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, bright sphere of hot gas in space that produces its own light",
+      "answer": "STAR",
+      "row": 3,
       "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Not excited, nervous, or upset; peaceful",
+      "answer": "CALM",
+      "row": 7,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 282

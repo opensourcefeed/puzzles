@@ -4,98 +4,91 @@
   "title": "Level 88",
   "words": [
     {
-      "clue": "Person who makes and dispenses medicine",
-      "answer": "PHARMACIST",
-      "row": 7,
-      "col": 1,
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sport where you do flips and balances in a gym",
-      "answer": "GYMNASTICS",
-      "row": 5,
-      "col": 5,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Building where scientists do research and experiments",
-      "answer": "LABORATORY",
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
+      "answer": "ORGANISM",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The loud sound that follows a flash of lightning",
+      "answer": "THUNDER",
       "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Energy stored in an object ready to be released",
-      "answer": "POTENTIAL",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Country of kangaroos, koalas and the outback",
-      "answer": "AUSTRALIA",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Round green vegetable that grows on a vine",
-      "answer": "ZUCCHINI",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Box used to carry a packed lunch to school",
-      "answer": "LUNCHBOX",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The tenth month of the year",
-      "answer": "OCTOBER",
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
       "row": 6,
-      "col": 11,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Very intelligent ocean mammal that swims in groups",
-      "answer": "DOLPHIN",
-      "row": 4,
-      "col": 1,
+      "clue": "A green, pear-shaped fruit with a large pit inside",
+      "answer": "AVOCADO",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Injection that prevents you from catching a disease",
-      "answer": "VACCINE",
-      "row": 13,
+      "clue": "A piece of furniture for sitting on, used in classrooms",
+      "answer": "CHAIR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A short stick passed from one runner to the next in a relay race",
+      "answer": "BATON",
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "One hundred years is called this",
-      "answer": "CENTURY",
-      "row": 1,
+      "clue": "The joint that connects your foot to your lower leg",
+      "answer": "ANKLE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The two organs in your chest that help you breathe",
+      "answer": "LUNGS",
+      "row": 12,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A natural underground chamber inside a rock",
-      "answer": "CAVE",
-      "row": 3,
+      "clue": "A huge, bright sphere of hot gas in space that produces its own light",
+      "answer": "STAR",
+      "row": 12,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Frozen water falling like rain",
-      "answer": "HAIL",
-      "row": 5,
-      "col": 6,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 12,
   "targetWords": 17,
   "difficulty": "medium"
 }

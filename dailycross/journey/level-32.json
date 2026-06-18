@@ -4,63 +4,70 @@
   "title": "Level 32",
   "words": [
     {
-      "clue": "Long thin pasta dish with tomato sauce",
-      "answer": "SPAGHETTI",
-      "row": 4,
-      "col": 2,
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Very heavy rainfall in a short amount of time",
-      "answer": "DOWNPOUR",
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The day that comes after Monday",
-      "answer": "TUESDAY",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Smooth creamy food made from milk",
-      "answer": "YOGURT",
-      "row": 2,
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 11,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that filters waste from your blood to make urine",
-      "answer": "KIDNEY",
-      "row": 8,
-      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Person who creates paintings, drawings and sculptures",
-      "answer": "ARTIST",
-      "row": 1,
-      "col": 10,
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Scandinavian country with the city of Oslo and fjords",
-      "answer": "NORWAY",
-      "row": 2,
+      "clue": "A four-sided shape with all sides equal in length",
+      "answer": "RHOMBUS",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Organ in your belly that helps digest food",
-      "answer": "LIVER",
-      "row": 2,
-      "col": 6,
+      "clue": "A piece of furniture with drawers for storing items",
+      "answer": "CABINET",
+      "row": 3,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 9,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A railway carriage for carrying passengers",
+      "answer": "COACH",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 9,
   "targetWords": 9,
   "difficulty": "medium"
 }

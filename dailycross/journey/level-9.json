@@ -4,45 +4,45 @@
   "title": "Level 9",
   "words": [
     {
-      "clue": "Salty food made from peanuts",
-      "answer": "PEANUTS",
+      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
+      "answer": "ORGANISM",
       "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Long yellow curved fruit",
-      "answer": "BANANA",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Portable computer used in class",
-      "answer": "LAPTOP",
-      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Person who sews and makes clothes for a living",
-      "answer": "TAILOR",
-      "row": 3,
-      "col": 4,
+      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
+      "answer": "GRAVITY",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Organ in your belly that helps digest food",
-      "answer": "LIVER",
+      "clue": "The scientific study of living organisms and their life processes",
+      "answer": "BIOLOGY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The symbol (÷) used to show that one number is being divided by another",
+      "answer": "DIVIDE",
       "row": 5,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A man on the day he gets married",
-      "answer": "GROOM",
-      "row": 4,
-      "col": 7,
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A short green plant that covers lawns and fields",
+      "answer": "GRASS",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     }
   ],

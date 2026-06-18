@@ -14,6 +14,12 @@
       "difficulty": "easy"
     },
     {
+      "level": 3,
+      "wordCount": 5,
+      "targetWords": 5,
+      "difficulty": "easy"
+    },
+    {
       "level": 4,
       "wordCount": 5,
       "targetWords": 5,
@@ -21,7 +27,7 @@
     },
     {
       "level": 5,
-      "wordCount": 5,
+      "wordCount": 6,
       "targetWords": 6,
       "difficulty": "easy"
     },
@@ -51,7 +57,7 @@
     },
     {
       "level": 10,
-      "wordCount": 6,
+      "wordCount": 5,
       "targetWords": 6,
       "difficulty": "easy"
     },
@@ -69,7 +75,7 @@
     },
     {
       "level": 13,
-      "wordCount": 5,
+      "wordCount": 6,
       "targetWords": 7,
       "difficulty": "easy"
     },
@@ -87,13 +93,13 @@
     },
     {
       "level": 16,
-      "wordCount": 6,
+      "wordCount": 7,
       "targetWords": 7,
       "difficulty": "easy"
     },
     {
       "level": 17,
-      "wordCount": 6,
+      "wordCount": 7,
       "targetWords": 7,
       "difficulty": "easy"
     },
@@ -105,13 +111,13 @@
     },
     {
       "level": 19,
-      "wordCount": 5,
+      "wordCount": 7,
       "targetWords": 7,
       "difficulty": "easy"
     },
     {
       "level": 20,
-      "wordCount": 7,
+      "wordCount": 8,
       "targetWords": 8,
       "difficulty": "easy"
     },
@@ -123,31 +129,31 @@
     },
     {
       "level": 22,
-      "wordCount": 8,
-      "targetWords": 8,
-      "difficulty": "easy"
-    },
-    {
-      "level": 23,
       "wordCount": 7,
       "targetWords": 8,
       "difficulty": "easy"
     },
     {
+      "level": 23,
+      "wordCount": 8,
+      "targetWords": 8,
+      "difficulty": "easy"
+    },
+    {
       "level": 24,
-      "wordCount": 6,
+      "wordCount": 8,
       "targetWords": 8,
       "difficulty": "easy"
     },
     {
       "level": 25,
-      "wordCount": 8,
+      "wordCount": 7,
       "targetWords": 8,
       "difficulty": "easy"
     },
     {
       "level": 26,
-      "wordCount": 8,
+      "wordCount": 7,
       "targetWords": 8,
       "difficulty": "easy"
     },
@@ -165,25 +171,25 @@
     },
     {
       "level": 29,
-      "wordCount": 8,
+      "wordCount": 9,
       "targetWords": 9,
       "difficulty": "easy"
     },
     {
       "level": 30,
-      "wordCount": 7,
+      "wordCount": 9,
       "targetWords": 9,
       "difficulty": "easy"
     },
     {
       "level": 31,
-      "wordCount": 8,
+      "wordCount": 7,
       "targetWords": 9,
       "difficulty": "medium"
     },
     {
       "level": 32,
-      "wordCount": 8,
+      "wordCount": 9,
       "targetWords": 9,
       "difficulty": "medium"
     },
@@ -195,7 +201,7 @@
     },
     {
       "level": 34,
-      "wordCount": 9,
+      "wordCount": 8,
       "targetWords": 9,
       "difficulty": "medium"
     },
@@ -207,7 +213,7 @@
     },
     {
       "level": 36,
-      "wordCount": 10,
+      "wordCount": 9,
       "targetWords": 10,
       "difficulty": "medium"
     },
@@ -225,13 +231,13 @@
     },
     {
       "level": 39,
-      "wordCount": 8,
+      "wordCount": 9,
       "targetWords": 10,
       "difficulty": "medium"
     },
     {
       "level": 40,
-      "wordCount": 9,
+      "wordCount": 10,
       "targetWords": 10,
       "difficulty": "medium"
     },
@@ -243,31 +249,31 @@
     },
     {
       "level": 42,
-      "wordCount": 8,
+      "wordCount": 9,
       "targetWords": 11,
       "difficulty": "medium"
     },
     {
       "level": 43,
-      "wordCount": 11,
-      "targetWords": 11,
-      "difficulty": "medium"
-    },
-    {
-      "level": 44,
-      "wordCount": 11,
-      "targetWords": 11,
-      "difficulty": "medium"
-    },
-    {
-      "level": 45,
       "wordCount": 10,
       "targetWords": 11,
       "difficulty": "medium"
     },
     {
-      "level": 46,
+      "level": 44,
+      "wordCount": 10,
+      "targetWords": 11,
+      "difficulty": "medium"
+    },
+    {
+      "level": 45,
       "wordCount": 11,
+      "targetWords": 11,
+      "difficulty": "medium"
+    },
+    {
+      "level": 46,
+      "wordCount": 9,
       "targetWords": 11,
       "difficulty": "medium"
     },
@@ -285,7 +291,7 @@
     },
     {
       "level": 49,
-      "wordCount": 11,
+      "wordCount": 9,
       "targetWords": 11,
       "difficulty": "medium"
     },
@@ -297,49 +303,49 @@
     },
     {
       "level": 51,
-      "wordCount": 11,
+      "wordCount": 10,
       "targetWords": 12,
       "difficulty": "medium"
     },
     {
       "level": 52,
-      "wordCount": 10,
+      "wordCount": 11,
       "targetWords": 12,
       "difficulty": "medium"
     },
     {
       "level": 53,
-      "wordCount": 11,
+      "wordCount": 9,
       "targetWords": 12,
       "difficulty": "medium"
     },
     {
       "level": 54,
-      "wordCount": 10,
+      "wordCount": 12,
       "targetWords": 12,
       "difficulty": "medium"
     },
     {
       "level": 55,
-      "wordCount": 11,
+      "wordCount": 10,
       "targetWords": 12,
       "difficulty": "medium"
     },
     {
       "level": 56,
-      "wordCount": 11,
+      "wordCount": 12,
       "targetWords": 12,
       "difficulty": "medium"
     },
     {
       "level": 57,
-      "wordCount": 10,
+      "wordCount": 13,
       "targetWords": 13,
       "difficulty": "medium"
     },
     {
       "level": 58,
-      "wordCount": 9,
+      "wordCount": 11,
       "targetWords": 13,
       "difficulty": "medium"
     },
@@ -363,49 +369,49 @@
     },
     {
       "level": 62,
-      "wordCount": 13,
+      "wordCount": 11,
       "targetWords": 13,
       "difficulty": "medium"
     },
     {
       "level": 63,
-      "wordCount": 13,
-      "targetWords": 13,
-      "difficulty": "medium"
-    },
-    {
-      "level": 64,
       "wordCount": 10,
       "targetWords": 13,
       "difficulty": "medium"
     },
     {
-      "level": 65,
-      "wordCount": 9,
-      "targetWords": 14,
+      "level": 64,
+      "wordCount": 12,
+      "targetWords": 13,
       "difficulty": "medium"
     },
     {
-      "level": 66,
+      "level": 65,
       "wordCount": 13,
       "targetWords": 14,
       "difficulty": "medium"
     },
     {
+      "level": 66,
+      "wordCount": 12,
+      "targetWords": 14,
+      "difficulty": "medium"
+    },
+    {
       "level": 67,
-      "wordCount": 8,
+      "wordCount": 11,
       "targetWords": 14,
       "difficulty": "medium"
     },
     {
       "level": 68,
-      "wordCount": 14,
+      "wordCount": 13,
       "targetWords": 14,
       "difficulty": "medium"
     },
     {
       "level": 69,
-      "wordCount": 11,
+      "wordCount": 13,
       "targetWords": 14,
       "difficulty": "medium"
     },
@@ -423,67 +429,67 @@
     },
     {
       "level": 72,
-      "wordCount": 13,
+      "wordCount": 12,
       "targetWords": 15,
       "difficulty": "medium"
     },
     {
       "level": 73,
-      "wordCount": 11,
+      "wordCount": 13,
       "targetWords": 15,
       "difficulty": "medium"
     },
     {
       "level": 74,
-      "wordCount": 11,
+      "wordCount": 14,
       "targetWords": 15,
       "difficulty": "medium"
     },
     {
       "level": 75,
-      "wordCount": 12,
+      "wordCount": 14,
       "targetWords": 15,
       "difficulty": "medium"
     },
     {
       "level": 76,
-      "wordCount": 13,
-      "targetWords": 15,
-      "difficulty": "medium"
-    },
-    {
-      "level": 77,
       "wordCount": 11,
       "targetWords": 15,
       "difficulty": "medium"
     },
     {
+      "level": 77,
+      "wordCount": 13,
+      "targetWords": 15,
+      "difficulty": "medium"
+    },
+    {
       "level": 78,
-      "wordCount": 12,
+      "wordCount": 14,
       "targetWords": 15,
       "difficulty": "medium"
     },
     {
       "level": 79,
-      "wordCount": 13,
+      "wordCount": 11,
       "targetWords": 15,
       "difficulty": "medium"
     },
     {
       "level": 80,
-      "wordCount": 12,
+      "wordCount": 11,
       "targetWords": 16,
       "difficulty": "medium"
     },
     {
       "level": 81,
-      "wordCount": 14,
+      "wordCount": 13,
       "targetWords": 16,
       "difficulty": "medium"
     },
     {
       "level": 82,
-      "wordCount": 13,
+      "wordCount": 14,
       "targetWords": 16,
       "difficulty": "medium"
     },
@@ -501,7 +507,7 @@
     },
     {
       "level": 85,
-      "wordCount": 11,
+      "wordCount": 12,
       "targetWords": 16,
       "difficulty": "medium"
     },
@@ -513,25 +519,25 @@
     },
     {
       "level": 87,
-      "wordCount": 10,
+      "wordCount": 14,
       "targetWords": 17,
       "difficulty": "medium"
     },
     {
       "level": 88,
-      "wordCount": 13,
+      "wordCount": 12,
       "targetWords": 17,
       "difficulty": "medium"
     },
     {
       "level": 89,
-      "wordCount": 15,
+      "wordCount": 16,
       "targetWords": 17,
       "difficulty": "medium"
     },
     {
       "level": 90,
-      "wordCount": 14,
+      "wordCount": 15,
       "targetWords": 17,
       "difficulty": "medium"
     },
@@ -539,71 +545,71 @@
       "level": 91,
       "wordCount": 13,
       "targetWords": 17,
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "level": 92,
-      "wordCount": 11,
+      "wordCount": 15,
       "targetWords": 17,
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "level": 93,
       "wordCount": 13,
       "targetWords": 17,
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "level": 94,
-      "wordCount": 14,
+      "wordCount": 12,
       "targetWords": 17,
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "level": 95,
-      "wordCount": 15,
+      "wordCount": 12,
       "targetWords": 18,
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "level": 96,
-      "wordCount": 13,
+      "wordCount": 15,
       "targetWords": 18,
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "level": 97,
-      "wordCount": 15,
+      "wordCount": 17,
       "targetWords": 18,
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "level": 98,
-      "wordCount": 13,
+      "wordCount": 15,
       "targetWords": 18,
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "level": 99,
+      "wordCount": 11,
+      "targetWords": 18,
+      "difficulty": "medium"
+    },
+    {
+      "level": 100,
+      "wordCount": 12,
+      "targetWords": 18,
+      "difficulty": "medium"
+    },
+    {
+      "level": 101,
       "wordCount": 10,
       "targetWords": 18,
       "difficulty": "hard"
     },
     {
-      "level": 100,
-      "wordCount": 16,
-      "targetWords": 18,
-      "difficulty": "hard"
-    },
-    {
-      "level": 101,
-      "wordCount": 12,
-      "targetWords": 18,
-      "difficulty": "hard"
-    },
-    {
       "level": 102,
-      "wordCount": 13,
+      "wordCount": 18,
       "targetWords": 19,
       "difficulty": "hard"
     },
@@ -615,13 +621,13 @@
     },
     {
       "level": 104,
-      "wordCount": 13,
+      "wordCount": 14,
       "targetWords": 19,
       "difficulty": "hard"
     },
     {
       "level": 105,
-      "wordCount": 14,
+      "wordCount": 15,
       "targetWords": 19,
       "difficulty": "hard"
     },
@@ -645,37 +651,37 @@
     },
     {
       "level": 109,
-      "wordCount": 14,
+      "wordCount": 15,
       "targetWords": 19,
       "difficulty": "hard"
     },
     {
       "level": 110,
-      "wordCount": 14,
+      "wordCount": 15,
       "targetWords": 20,
       "difficulty": "hard"
     },
     {
       "level": 111,
-      "wordCount": 13,
+      "wordCount": 12,
       "targetWords": 20,
       "difficulty": "hard"
     },
     {
       "level": 112,
-      "wordCount": 16,
+      "wordCount": 13,
       "targetWords": 20,
       "difficulty": "hard"
     },
     {
       "level": 113,
-      "wordCount": 18,
+      "wordCount": 17,
       "targetWords": 20,
       "difficulty": "hard"
     },
     {
       "level": 114,
-      "wordCount": 13,
+      "wordCount": 12,
       "targetWords": 20,
       "difficulty": "hard"
     },
@@ -687,25 +693,25 @@
     },
     {
       "level": 116,
-      "wordCount": 15,
+      "wordCount": 14,
       "targetWords": 20,
       "difficulty": "hard"
     },
     {
       "level": 117,
-      "wordCount": 12,
+      "wordCount": 16,
       "targetWords": 21,
       "difficulty": "hard"
     },
     {
       "level": 118,
-      "wordCount": 17,
+      "wordCount": 15,
       "targetWords": 21,
       "difficulty": "hard"
     },
     {
       "level": 119,
-      "wordCount": 19,
+      "wordCount": 17,
       "targetWords": 21,
       "difficulty": "hard"
     },
@@ -717,37 +723,37 @@
     },
     {
       "level": 121,
-      "wordCount": 17,
+      "wordCount": 15,
       "targetWords": 21,
       "difficulty": "hard"
     },
     {
       "level": 122,
-      "wordCount": 16,
+      "wordCount": 14,
       "targetWords": 21,
       "difficulty": "hard"
     },
     {
       "level": 123,
-      "wordCount": 13,
+      "wordCount": 14,
       "targetWords": 21,
       "difficulty": "hard"
     },
     {
       "level": 124,
-      "wordCount": 14,
-      "targetWords": 22,
-      "difficulty": "hard"
-    },
-    {
-      "level": 125,
       "wordCount": 15,
       "targetWords": 22,
       "difficulty": "hard"
     },
     {
+      "level": 125,
+      "wordCount": 18,
+      "targetWords": 22,
+      "difficulty": "hard"
+    },
+    {
       "level": 126,
-      "wordCount": 16,
+      "wordCount": 18,
       "targetWords": 22,
       "difficulty": "hard"
     },
@@ -759,19 +765,19 @@
     },
     {
       "level": 128,
-      "wordCount": 15,
+      "wordCount": 13,
       "targetWords": 22,
       "difficulty": "hard"
     },
     {
       "level": 129,
-      "wordCount": 14,
+      "wordCount": 15,
       "targetWords": 22,
       "difficulty": "hard"
     },
     {
       "level": 130,
-      "wordCount": 18,
+      "wordCount": 17,
       "targetWords": 22,
       "difficulty": "hard"
     },
@@ -783,97 +789,97 @@
     },
     {
       "level": 132,
-      "wordCount": 19,
+      "wordCount": 16,
       "targetWords": 23,
       "difficulty": "hard"
     },
     {
       "level": 133,
-      "wordCount": 14,
+      "wordCount": 17,
       "targetWords": 23,
       "difficulty": "hard"
     },
     {
       "level": 134,
-      "wordCount": 15,
+      "wordCount": 16,
       "targetWords": 23,
       "difficulty": "hard"
     },
     {
       "level": 135,
-      "wordCount": 17,
+      "wordCount": 16,
       "targetWords": 23,
       "difficulty": "hard"
     },
     {
       "level": 136,
-      "wordCount": 17,
+      "wordCount": 16,
       "targetWords": 23,
       "difficulty": "hard"
     },
     {
       "level": 137,
-      "wordCount": 13,
+      "wordCount": 16,
       "targetWords": 23,
       "difficulty": "hard"
     },
     {
       "level": 138,
-      "wordCount": 15,
+      "wordCount": 19,
       "targetWords": 23,
       "difficulty": "hard"
     },
     {
       "level": 139,
-      "wordCount": 17,
-      "targetWords": 24,
-      "difficulty": "hard"
-    },
-    {
-      "level": 140,
-      "wordCount": 19,
-      "targetWords": 24,
-      "difficulty": "hard"
-    },
-    {
-      "level": 141,
-      "wordCount": 14,
-      "targetWords": 24,
-      "difficulty": "hard"
-    },
-    {
-      "level": 142,
-      "wordCount": 15,
-      "targetWords": 24,
-      "difficulty": "hard"
-    },
-    {
-      "level": 143,
       "wordCount": 18,
       "targetWords": 24,
       "difficulty": "hard"
     },
     {
-      "level": 144,
-      "wordCount": 14,
+      "level": 140,
+      "wordCount": 18,
       "targetWords": 24,
       "difficulty": "hard"
     },
     {
-      "level": 145,
-      "wordCount": 19,
-      "targetWords": 24,
-      "difficulty": "hard"
-    },
-    {
-      "level": 146,
+      "level": 141,
       "wordCount": 16,
       "targetWords": 24,
       "difficulty": "hard"
     },
     {
-      "level": 147,
+      "level": 142,
+      "wordCount": 14,
+      "targetWords": 24,
+      "difficulty": "hard"
+    },
+    {
+      "level": 143,
+      "wordCount": 15,
+      "targetWords": 24,
+      "difficulty": "hard"
+    },
+    {
+      "level": 144,
       "wordCount": 17,
+      "targetWords": 24,
+      "difficulty": "hard"
+    },
+    {
+      "level": 145,
+      "wordCount": 16,
+      "targetWords": 24,
+      "difficulty": "hard"
+    },
+    {
+      "level": 146,
+      "wordCount": 21,
+      "targetWords": 24,
+      "difficulty": "hard"
+    },
+    {
+      "level": 147,
+      "wordCount": 15,
       "targetWords": 25,
       "difficulty": "hard"
     },
@@ -885,13 +891,13 @@
     },
     {
       "level": 149,
-      "wordCount": 17,
+      "wordCount": 16,
       "targetWords": 25,
       "difficulty": "hard"
     },
     {
       "level": 150,
-      "wordCount": 16,
+      "wordCount": 18,
       "targetWords": 25,
       "difficulty": "hard"
     }

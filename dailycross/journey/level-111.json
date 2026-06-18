@@ -4,98 +4,91 @@
   "title": "Level 111",
   "words": [
     {
-      "clue": "Person who writes computer programs",
-      "answer": "PROGRAMMER",
-      "row": 7,
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Flat wide brush used to paint walls",
-      "answer": "PAINTBRUSH",
+      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
+      "answer": "SPACECRAFT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
       "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A large group of musicians playing instruments together",
-      "answer": "ORCHESTRA",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Small island city-state in Southeast Asia",
-      "answer": "SINGAPORE",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that travels under the water",
-      "answer": "SUBMARINE",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "What you must eat to keep your body working properly",
-      "answer": "NUTRITION",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that allows electricity to flow through it",
-      "answer": "CONDUCTOR",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Holiday on October 31 when children wear costumes",
-      "answer": "HALLOWEEN",
-      "row": 2,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A small pig-shaped container children save coins in",
-      "answer": "PIGGYBANK",
-      "row": 14,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Light rock full of small holes made by a volcano",
-      "answer": "PUMICE",
+      "clue": "A scientist who studies matter, energy, and their interactions",
+      "answer": "PHYSICIST",
       "row": 0,
       "col": 4,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Sweet fried ring-shaped pastry",
-      "answer": "DONUT",
+      "clue": "A powerful explosion of a star at the end of its life cycle",
+      "answer": "SUPERNOVA",
       "row": 0,
-      "col": 13,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The colorful part of a plant that attracts bees and butterflies",
-      "answer": "PETAL",
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies plants and their growth",
+      "answer": "BOTANIST",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A small handheld device that moves the cursor on a computer screen",
+      "answer": "MOUSE",
       "row": 6,
       "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather that feels damp and has a lot of moisture in the air",
+      "answer": "HUMID",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The land along the edge of an ocean or sea",
+      "answer": "COAST",
+      "row": 3,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Machine used to lift and move very heavy loads",
-      "answer": "CRANE",
-      "row": 5,
-      "col": 0,
+      "clue": "A sweet tropical fruit with orange flesh and a large flat seed",
+      "answer": "MANGO",
+      "row": 8,
+      "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 12,
   "targetWords": 20,
   "difficulty": "hard"
 }

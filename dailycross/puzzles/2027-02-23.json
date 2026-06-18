@@ -4,53 +4,74 @@
   "title": "2027-02-23",
   "words": [
     {
-      "clue": "Wooden block used to store and organize kitchen knives",
-      "answer": "KNIFEBLOCK",
-      "row": 2,
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Subject where you learn about countries and maps",
-      "answer": "GEOGRAPHY",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Energy stored in an object ready to be released",
-      "answer": "POTENTIAL",
-      "row": 1,
+      "clue": "An instrument used to measure wind speed",
+      "answer": "ANEMOMETER",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with five sides and five corners",
-      "answer": "PENTAGON",
-      "row": 5,
-      "col": 5,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The outer coat of a seed that protects it",
-      "answer": "SEEDCOAT",
-      "row": 0,
-      "col": 11,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Subject where you read and write stories and essays",
-      "answer": "ENGLISH",
-      "row": 0,
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two arms used for drawing circles and arcs",
+      "answer": "COMPASS",
+      "row": 7,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The seventh planet from the sun which spins on its side",
-      "answer": "URANUS",
-      "row": 3,
-      "col": 9,
+      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
+      "answer": "PERCENT",
+      "row": 0,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "A shiny, light gray color like the precious metal",
+      "answer": "SILVER",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that dries clothes by spinning and heating",
+      "answer": "DRYER",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 256

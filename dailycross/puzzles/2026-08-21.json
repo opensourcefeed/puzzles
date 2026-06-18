@@ -4,53 +4,74 @@
   "title": "2026-08-21",
   "words": [
     {
-      "clue": "Feeling sure of yourself and your abilities",
-      "answer": "CONFIDENT",
-      "row": 3,
-      "col": 0,
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling worried that something bad will happen",
-      "answer": "ANXIOUS",
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
       "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A crisp, green vegetable with long, fibrous stalks",
+      "answer": "CELERY",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "answer": "CANYON",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather that feels damp and has a lot of moisture in the air",
+      "answer": "HUMID",
+      "row": 3,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, bright sphere of hot gas in space that produces its own light",
+      "answer": "STAR",
+      "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Animal with a long neck that drinks from rivers",
-      "answer": "GIRAFFE",
+      "clue": "The basic unit of time in music that you tap your foot to",
+      "answer": "BEAT",
       "row": 2,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Large residence where a king or queen lives",
-      "answer": "PALACE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Large cupboard built into the wall for storing clothes",
-      "answer": "CLOSET",
+      "clue": "A plant with long, thin stems that climbs up walls or trees",
+      "answer": "VINE",
       "row": 3,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Large boat that carries vehicles across water",
-      "answer": "FERRY",
-      "row": 7,
-      "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "The color of fresh cut grass",
-      "answer": "GREEN",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
     }
   ],
   "dayNumber": 70

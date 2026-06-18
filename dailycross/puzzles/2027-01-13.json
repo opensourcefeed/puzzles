@@ -4,59 +4,73 @@
   "title": "2027-01-13",
   "words": [
     {
-      "clue": "Buddhist holiday celebrating the birth of Buddha",
-      "answer": "BUDDHASDAY",
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
       "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Your child's child in general",
-      "answer": "GRANDCHILD",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Wooden bar instrument you hit with mallets",
-      "answer": "XYLOPHONE",
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
       "row": 4,
-      "col": 10,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The energy content of food measured in units",
-      "answer": "CALORIES",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The eighth and farthest planet from the sun",
-      "answer": "NEPTUNE",
-      "row": 1,
-      "col": 2,
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Person who manages the money and accounts at a bank",
-      "answer": "BANKER",
-      "row": 1,
+      "clue": "A person who conducts scientific research in a laboratory",
+      "answer": "SCIENTIST",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The colorful part of a plant that attracts bees and butterflies",
-      "answer": "PETAL",
-      "row": 7,
-      "col": 1,
+      "clue": "The tough outer layer that covers and protects a seed",
+      "answer": "SEEDCOAT",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "These are the white hard parts inside your mouth",
-      "answer": "TEETH",
-      "row": 0,
-      "col": 4,
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A tree with long, thin branches that hang down toward the ground",
+      "answer": "WILLOW",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A railway carriage for carrying passengers",
+      "answer": "COACH",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of big; of a size that is less than average",
+      "answer": "SMALL",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     }
   ],

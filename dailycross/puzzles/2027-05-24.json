@@ -4,73 +4,66 @@
   "title": "2027-05-24",
   "words": [
     {
-      "clue": "The region of space from which nothing can escape",
-      "answer": "BLACKHOLE",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A substance taken to treat or prevent illness",
-      "answer": "MEDICINE",
+      "clue": "The result obtained by subtracting one number from another",
+      "answer": "DIFFERENCE",
       "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A young person between thirteen and nineteen years old",
-      "answer": "TEENAGER",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Fine thin rain that barely gets you wet",
-      "answer": "DRIZZLE",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep narrow valley with steep rocky sides",
-      "answer": "CANYON",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you kick a black and white ball into a net",
-      "answer": "SOCCER",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Very light pink color",
-      "answer": "BLUSH",
-      "row": 7,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
+      "answer": "AIRPLANE",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A large body of flowing water that runs to the sea",
-      "answer": "RIVER",
-      "row": 13,
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The fan-shaped area where a river spreads out before the sea",
-      "answer": "DELTA",
-      "row": 5,
-      "col": 1,
+      "clue": "An underground layer of rock that holds and transmits water",
+      "answer": "AQUIFER",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The phase of the Moon when it is not visible from Earth",
+      "answer": "NEWMOON",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A black and white bear that eats bamboo",
+      "answer": "PANDA",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Large powerful ocean fish with rows of sharp teeth",
-      "answer": "SHARK",
-      "row": 0,
-      "col": 9,
+      "clue": "Music that is sung without instrumental accompaniment",
+      "answer": "VOCAL",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A single sound of a specific pitch in music",
+      "answer": "NOTE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The thick muscle at the back of your lower leg",
+      "answer": "CALF",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     }
   ],

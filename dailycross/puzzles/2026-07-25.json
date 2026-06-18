@@ -4,73 +4,73 @@
   "title": "2026-07-25",
   "words": [
     {
-      "clue": "A person who studies stars and space",
-      "answer": "ASTRONOMER",
-      "row": 0,
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Sport where you glide on ice wearing blades on your feet",
-      "answer": "SKATING",
+      "clue": "The scientific study of matter, energy, and their interactions",
+      "answer": "PHYSICS",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A positive whole number used for counting objects",
+      "answer": "NATURAL",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, smooth stone worn by water over time",
+      "answer": "PEBBLE",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Person who delivers your letters and packages to your home",
-      "answer": "MAILMAN",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Tallest animal on land",
-      "answer": "GIRAFFE",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Heavy headed tool used to bang nails into wood",
-      "answer": "HAMMER",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Money given back to you when you return something to a shop",
-      "answer": "REFUND",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A large cloud of gas and dust between the stars",
-      "answer": "NEBULA",
-      "row": 6,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Lazy animal that hangs from trees in South America",
-      "answer": "SLOTH",
+      "clue": "Data storage that is accessed over the internet rather than locally",
+      "answer": "CLOUD",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Long metal fastener hammered into wood to join pieces",
-      "answer": "NAIL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
+      "clue": "The land along the edge of an ocean or sea",
+      "answer": "COAST",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "A natural underground chamber inside a rock",
-      "answer": "CAVE",
-      "row": 1,
-      "col": 11,
+      "clue": "The joint in the middle of your leg that allows it to bend",
+      "answer": "KNEE",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     }
   ],

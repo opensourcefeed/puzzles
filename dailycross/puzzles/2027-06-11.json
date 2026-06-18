@@ -4,46 +4,74 @@
   "title": "2027-06-11",
   "words": [
     {
-      "clue": "Very strong storm with spinning winds",
-      "answer": "TORNADO",
-      "row": 1,
-      "col": 0,
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Large farm vehicle used to pull plows and equipment",
-      "answer": "TRACTOR",
-      "row": 0,
-      "col": 2,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Small curved pink ocean crustacean eaten in salads",
-      "answer": "SHRIMP",
+      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
+      "answer": "ORGANISM",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
+      "answer": "WARDROBE",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A prediction or estimate of future weather conditions",
+      "answer": "FORECAST",
+      "row": 2,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A whole number that can be positive, negative, or zero",
+      "answer": "INTEGER",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country that bridges Europe and Asia with Istanbul",
-      "answer": "TURKEY",
-      "row": 4,
-      "col": 2,
+      "clue": "A flat shape with straight sides that form corners",
+      "answer": "POLYGON",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, narrow stream of water",
+      "answer": "CREEK",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that dries clothes by spinning and heating",
+      "answer": "DRYER",
+      "row": 9,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Person who creates paintings, drawings and sculptures",
-      "answer": "ARTIST",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The speed at which a piece of music is played",
-      "answer": "TEMPO",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
+      "clue": "A sturdy vehicle designed for traveling over rough terrain",
+      "answer": "JEEP",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 364

@@ -4,73 +4,59 @@
   "title": "2027-05-15",
   "words": [
     {
-      "clue": "Very heavy rainfall in a short amount of time",
-      "answer": "DOWNPOUR",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Turning around and around on a central point",
-      "answer": "ROTATION",
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
       "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Large orange ocean crustacean with big claws",
-      "answer": "LOBSTER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Southeast Asian country with the city of Hanoi",
-      "answer": "VIETNAM",
-      "row": 7,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Very intelligent ocean mammal that swims in groups",
-      "answer": "DOLPHIN",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Sea plant that grows on rocks and comes in many colors",
-      "answer": "SEAWEED",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport played with a racket and a small yellow ball",
-      "answer": "TENNIS",
+      "clue": "A car used by police officers to patrol and respond to emergencies",
+      "answer": "POLICECAR",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Starchy vegetable that grows underground often made into chips",
-      "answer": "POTATO",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     },
     {
-      "clue": "Spicy root used in Asian cooking",
-      "answer": "GINGER",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
+      "clue": "The total distance around the outside of a shape",
+      "answer": "PERIMETER",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "You use this to draw straight lines",
-      "answer": "RULER",
+      "clue": "A long, curved yellow fruit with a soft inside",
+      "answer": "BANANA",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A narrow, deep valley with very steep rocky sides",
+      "answer": "GORGE",
       "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A tropical fruit with green skin and sweet, soft flesh",
+      "answer": "GUAVA",
+      "row": 5,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A woody plant that is smaller than a tree and grows close to the ground",
+      "answer": "SHRUB",
+      "row": 9,
+      "col": 8,
       "direction": "across"
     }
   ],

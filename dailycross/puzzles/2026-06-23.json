@@ -4,74 +4,74 @@
   "title": "2026-06-23",
   "words": [
     {
-      "clue": "Book with words and their meanings",
-      "answer": "DICTIONARY",
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
       "row": 5,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The outer coat of a seed that protects it",
-      "answer": "SEEDCOAT",
-      "row": 0,
+      "clue": "An instrument used to measure atmospheric pressure",
+      "answer": "BAROMETER",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Small book where you write notes",
-      "answer": "NOTEBOOK",
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
       "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A couple that is legally joined in marriage",
-      "answer": "COUPLE",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A perfectly round flat shape",
-      "answer": "CIRCLE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Oslo and fjords",
-      "answer": "NORWAY",
+      "clue": "A place where ships are built, repaired, and maintained",
+      "answer": "DOCKYARD",
       "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Tiny lights you see in the sky at night",
-      "answer": "STARS",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large building where concerts and events are held",
-      "answer": "ARENA",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The stage when a caterpillar wraps itself in a cocoon",
-      "answer": "PUPA",
-      "row": 8,
-      "col": 5,
+      "clue": "A polygon where all interior angles are less than 180 degrees",
+      "answer": "CONVEX",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The five small parts at the end of your foot",
-      "answer": "TOES",
-      "row": 0,
-      "col": 2,
+      "clue": "The longest finger in the middle of your hand",
+      "answer": "MIDDLE",
+      "row": 10,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling in need of rest or sleep",
+      "answer": "TIRED",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Information processed or stored by a computer",
+      "answer": "DATA",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The beginning stage of many plants",
+      "answer": "SEED",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 11

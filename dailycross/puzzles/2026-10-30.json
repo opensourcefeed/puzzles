@@ -4,74 +4,67 @@
   "title": "2026-10-30",
   "words": [
     {
-      "clue": "Small book where you write notes",
-      "answer": "NOTEBOOK",
-      "row": 3,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The number above the line in a fraction, showing how many parts are taken",
+      "answer": "NUMERATOR",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
+      "answer": "EGGPLANT",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small string instrument played with a bow, held under the chin",
+      "answer": "VIOLIN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark, earthy brown color, like the pigment",
+      "answer": "UMBER",
+      "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Purple vegetable also called aubergine",
-      "answer": "EGGPLANT",
-      "row": 3,
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
+      "row": 7,
       "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "What happens when ice or chocolate becomes liquid from heat",
-      "answer": "MELTING",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Brass instrument you blow into with three buttons",
-      "answer": "TRUMPET",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The repeated section at the end of each verse of a song",
-      "answer": "CHORUS",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot dry area with very little rain",
-      "answer": "DESERT",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny lights you see in the sky at night",
-      "answer": "STARS",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A natural underground chamber inside a rock",
-      "answer": "CAVE",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Evergreen tree with needles and cones",
-      "answer": "PINE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Sea mammal that claps and balances balls",
-      "answer": "SEAL",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 140

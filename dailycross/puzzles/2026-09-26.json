@@ -4,60 +4,67 @@
   "title": "2026-09-26",
   "words": [
     {
-      "clue": "Marine animal with a star shape",
-      "answer": "STARFISH",
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
       "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Machine that can create three-dimensional objects from digital files",
-      "answer": "PRINTER",
-      "row": 4,
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A powerful vehicle used on farms for pulling machinery and heavy loads",
+      "answer": "TRACTOR",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
+      "answer": "DECIMAL",
+      "row": 10,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
+      "answer": "PULSAR",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Screen attached to a computer that shows you what is happening",
-      "answer": "MONITOR",
-      "row": 2,
+      "clue": "The five horizontal lines on which music is written",
+      "answer": "STAFF",
+      "row": 3,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A professional cook who prepares meals in a kitchen",
+      "answer": "CHEF",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Injection that prevents you from catching a disease",
-      "answer": "VACCINE",
-      "row": 7,
+      "clue": "A tool with teeth used to untangle and smooth hair",
+      "answer": "COMB",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A star that suddenly increases greatly in brightness",
+      "answer": "NOVA",
+      "row": 8,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "Cooked meat in a round bun",
-      "answer": "BURGER",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Smooth creamy food made from milk",
-      "answer": "YOGURT",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling sorry after making a mistake",
-      "answer": "GUILTY",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Person trained to examine and treat sick patients",
-      "answer": "DOCTOR",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
     }
   ],
   "dayNumber": 106

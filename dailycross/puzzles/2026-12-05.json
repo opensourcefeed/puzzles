@@ -4,74 +4,67 @@
   "title": "2026-12-05",
   "words": [
     {
-      "clue": "Creamy dip made from mashed avocado",
-      "answer": "GUACAMOLE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where Jews go to worship",
-      "answer": "SYNAGOGUE",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Long period of very little or no rainfall",
-      "answer": "DROUGHT",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft gentle movement of cool air",
-      "answer": "BREEZE",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Farm building where horses are kept",
-      "answer": "STABLE",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Dark yellowish brown color",
-      "answer": "KHAKI",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The device on a wall that shows the time",
-      "answer": "CLOCK",
-      "row": 5,
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A quality or characteristic passed down through generations",
-      "answer": "TRAIT",
-      "row": 0,
-      "col": 7,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The curved path a planet takes around the sun",
-      "answer": "ORBIT",
-      "row": 1,
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest planet in our solar system and closest to the Sun",
+      "answer": "MERCURY",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The scientific study of matter, energy, and their interactions",
+      "answer": "PHYSICS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, orange root vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Small building in a garden where tools are stored",
-      "answer": "SHED",
-      "row": 5,
-      "col": 10,
+      "clue": "A long, curved yellow fruit with a soft inside",
+      "answer": "BANANA",
+      "row": 7,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 176

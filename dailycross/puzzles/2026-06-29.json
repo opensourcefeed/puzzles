@@ -4,67 +4,74 @@
   "title": "2026-06-29",
   "words": [
     {
-      "clue": "Creamy dip made from mashed avocado",
-      "answer": "GUACAMOLE",
-      "row": 5,
-      "col": 1,
+      "clue": "The opposite of accurate; not correct or precise",
+      "answer": "INACCURATE",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The celebration ceremony when two people get married",
-      "answer": "WEDDING",
-      "row": 4,
+      "clue": "Musical instruments that produce sound by being struck or shaken",
+      "answer": "PERCUSSION",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A number that has more than two factors",
+      "answer": "COMPOSITE",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A panel of keys used to type text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Metal tool with sharp holes used to grate cheese",
-      "answer": "GRATER",
-      "row": 3,
-      "col": 5,
+      "clue": "The dense, central core of an atom containing protons and neutrons",
+      "answer": "NUCLEUS",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A polygon where all interior angles are less than 180 degrees",
+      "answer": "CONVEX",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A plan for how to spend your money each month",
-      "answer": "BUDGET",
+      "clue": "The words or text of a song",
+      "answer": "LYRICS",
       "row": 7,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
-      "answer": "GINGER",
-      "row": 3,
-      "col": 5,
+      "clue": "A sweet, sticky food made by bees from flower nectar",
+      "answer": "HONEY",
+      "row": 5,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A coin that is worth five cents",
-      "answer": "NICKEL",
-      "row": 3,
+      "clue": "A soft, pale orange-yellow color like the fruit",
+      "answer": "PEACH",
+      "row": 4,
       "col": 11,
       "direction": "down"
-    },
-    {
-      "clue": "Container with a lid and handle used to boil water for tea",
-      "answer": "KETTLE",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "This grows on top of your head",
-      "answer": "HAIR",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "You use this to smell flowers and food",
-      "answer": "NOSE",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
     }
   ],
   "dayNumber": 17

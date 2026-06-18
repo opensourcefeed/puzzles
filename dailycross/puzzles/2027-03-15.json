@@ -4,74 +4,67 @@
   "title": "2027-03-15",
   "words": [
     {
-      "clue": "You use this tool to do math sums",
-      "answer": "CALCULATOR",
-      "row": 3,
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Device worn on your head to listen to music or audio",
-      "answer": "HEADPHONES",
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
       "row": 1,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Heavy cylinder rolled over dough to flatten it",
-      "answer": "ROLLINGPIN",
-      "row": 1,
+      "clue": "Feeling or showing surprise at something unexpected",
+      "answer": "SURPRISED",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Tall yellow flower that grows facing the sun",
-      "answer": "SUNFLOWER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Box used to carry a packed lunch to school",
-      "answer": "LUNCHBOX",
+      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
+      "answer": "VOLCANO",
       "row": 0,
-      "col": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "When a substance dissolves in a liquid",
-      "answer": "SOLUTION",
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A long seat where players sit when they are not on the field",
+      "answer": "BENCH",
       "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who lives in the house next to yours",
-      "answer": "NEIGHBOR",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The booming sound you hear after lightning",
-      "answer": "THUNDER",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Large residence where a king or queen lives",
-      "answer": "PALACE",
-      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Asian country known as the land of the rising sun",
-      "answer": "JAPAN",
+      "clue": "A group of musicians who play instruments together",
+      "answer": "BAND",
       "row": 3,
-      "col": 12,
-      "direction": "down"
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 276

@@ -4,67 +4,74 @@
   "title": "2026-07-16",
   "words": [
     {
-      "clue": "A shape with four sides and only one pair of parallel sides",
-      "answer": "TRAPEZOID",
+      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "answer": "SAXOPHONE",
       "row": 5,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The day before Friday",
-      "answer": "THURSDAY",
-      "row": 5,
-      "col": 0,
+      "clue": "A long, narrow board with a padded surface used for ironing",
+      "answer": "IRONBOARD",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Small jumping insect that chirps at night",
-      "answer": "CRICKET",
-      "row": 3,
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Device that converts paper documents into digital files",
-      "answer": "SCANNER",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The person who makes sure rules are followed in a game",
-      "answer": "REFEREE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Area of land covered with many trees",
-      "answer": "FOREST",
+      "clue": "A deep red-purple color, like the wine from the region",
+      "answer": "BURGUNDY",
       "row": 2,
-      "col": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Shellfish attached to rocks that opens when in water",
-      "answer": "MUSSEL",
-      "row": 6,
+      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
+      "answer": "COCONUT",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Rock that comes from space and burns as it falls",
-      "answer": "METEOR",
-      "row": 10,
-      "col": 1,
+      "clue": "A series of musical notes arranged in ascending or descending order",
+      "answer": "SCALE",
+      "row": 7,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Small device that counts down while food is cooking",
-      "answer": "TIMER",
-      "row": 1,
-      "col": 1,
+      "clue": "A figure formed by two rays sharing a common endpoint",
+      "answer": "ANGLE",
+      "row": 7,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "A collection of data stored under a single name on a computer",
+      "answer": "FILE",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "White frozen crystals that fall from clouds in cold weather",
+      "answer": "SNOW",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 34

@@ -4,74 +4,67 @@
   "title": "2026-07-29",
   "words": [
     {
-      "clue": "Very tiny living things you can only see with a microscope",
-      "answer": "BACTERIA",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A brother or sister",
-      "answer": "SIBLING",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A closed loop that electricity flows around",
-      "answer": "CIRCUIT",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "One hundred years is called this",
-      "answer": "CENTURY",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for the Amazon jungle and Carnival festival",
-      "answer": "BRAZIL",
-      "row": 9,
+      "clue": "A device that detects smoke and sounds an alarm",
+      "answer": "SMOKEALARM",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A perfectly round flat shape",
-      "answer": "CIRCLE",
-      "row": 2,
-      "col": 4,
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A deep narrow valley with steep rocky sides",
-      "answer": "CANYON",
+      "clue": "The total distance around the outside of a shape",
+      "answer": "PERIMETER",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
       "row": 5,
-      "col": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You breathe air into these two organs in your chest",
-      "answer": "LUNGS",
-      "row": 10,
-      "col": 8,
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The joint at the bottom of your hand connecting to your arm",
-      "answer": "WRIST",
-      "row": 3,
+      "clue": "A huge collection of stars, gas, and dust held together by gravity",
+      "answer": "GALAXY",
+      "row": 0,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "All the food and drink you consume regularly",
-      "answer": "DIET",
-      "row": 0,
-      "col": 6,
+      "clue": "A person who creates art through drawing, painting, or other visual media",
+      "answer": "ARTIST",
+      "row": 5,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "A musical composition for a single instrument or voice",
+      "answer": "SONATA",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A large bowl or sink used for washing",
+      "answer": "BASIN",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 47

@@ -4,60 +4,74 @@
   "title": "2027-04-17",
   "words": [
     {
-      "clue": "Asian country with the city of Seoul",
-      "answer": "SOUTHKOREA",
-      "row": 3,
+      "clue": "The result obtained by subtracting one number from another",
+      "answer": "DIFFERENCE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Machine that uses microwave energy to heat food quickly",
-      "answer": "MICROWAVE",
-      "row": 0,
-      "col": 7,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Green leafy vegetable full of iron",
-      "answer": "SPINACH",
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, narrow board with a padded surface used for ironing",
+      "answer": "IRONBOARD",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
       "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Your tummy where food is digested",
-      "answer": "STOMACH",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Spring holiday with Easter eggs and a bunny",
-      "answer": "EASTER",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A plan for how to spend your money each month",
-      "answer": "BUDGET",
-      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Building where Muslims go to pray",
-      "answer": "MOSQUE",
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tree whose sap is used to make sweet syrup",
+      "answer": "MAPLE",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
       "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Striped big cat from Asia",
-      "answer": "TIGER",
-      "row": 8,
-      "col": 4,
+      "clue": "Thin material made from wood pulp, used for writing or printing",
+      "answer": "PAPER",
+      "row": 2,
+      "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "A wide, paved way for vehicles to travel on",
+      "answer": "ROAD",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 309

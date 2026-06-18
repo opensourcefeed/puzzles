@@ -4,70 +4,98 @@
   "title": "Level 65",
   "words": [
     {
-      "clue": "A place with equipment where scientists do experiments",
-      "answer": "LABORATORY",
-      "row": 2,
-      "col": 2,
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 0,
-      "col": 4,
+      "clue": "A scientist who specializes in the study of animals",
+      "answer": "ZOOLOGIST",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Device with a wheel used to open the lids of cans",
-      "answer": "CANOPENER",
-      "row": 1,
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "An object that does not let electricity pass through",
-      "answer": "INSULATOR",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The day that came before today",
-      "answer": "YESTERDAY",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling unsure about what to do or think",
-      "answer": "CONFUSED",
-      "row": 1,
+      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
+      "answer": "REPORTER",
+      "row": 6,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Loud boom you hear after lightning",
-      "answer": "THUNDER",
-      "row": 1,
-      "col": 1,
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A scientist who studies chemicals and their reactions",
+      "answer": "CHEMIST",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
+      "row": 8,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Long deep crack in the ground with steep walls",
-      "answer": "CANYON",
-      "row": 0,
-      "col": 3,
+      "clue": "The words or text of a song",
+      "answer": "LYRICS",
+      "row": 13,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A piece of land completely surrounded by water",
-      "answer": "ISLAND",
-      "row": 6,
-      "col": 8,
+      "clue": "A point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A slow-moving reptile with a hard shell on its back",
+      "answer": "TURTLE",
+      "row": 4,
+      "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "A very slow-moving animal that carries a shell on its back",
+      "answer": "SNAIL",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright yellow citrus fruit with a very sour taste",
+      "answer": "LEMON",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain crop whose flour is used to make bread",
+      "answer": "WHEAT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 13,
   "targetWords": 14,
   "difficulty": "medium"
 }

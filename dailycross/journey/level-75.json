@@ -4,91 +4,105 @@
   "title": "Level 75",
   "words": [
     {
-      "clue": "Large device that sprays water on a lawn or garden",
-      "answer": "SPRINKLER",
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Sport where you hit a shuttlecock with a racket",
-      "answer": "BADMINTON",
-      "row": 3,
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A substance taken to treat or prevent illness",
-      "answer": "MEDICINE",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
+      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
+      "answer": "ORGANISM",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "A flat shape with five sides and five corners",
-      "answer": "PENTAGON",
-      "row": 7,
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
+      "row": 6,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The force that keeps planets orbiting the sun",
-      "answer": "GRAVITY",
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A four-sided shape with all sides equal in length",
+      "answer": "RHOMBUS",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of a ripe banana or the sun",
+      "answer": "YELLOW",
       "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Light rock full of small holes made by a volcano",
-      "answer": "PUMICE",
-      "row": 9,
+      "clue": "Feeling sad because of being alone or without company",
+      "answer": "LONELY",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of big; of a size that is less than average",
+      "answer": "SMALL",
+      "row": 12,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Sweet round red or yellow vegetable used in salads",
-      "answer": "PEPPER",
-      "row": 8,
+      "clue": "The land along the edge of an ocean or sea",
+      "answer": "COAST",
+      "row": 7,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Sport where two boxers punch each other wearing gloves",
-      "answer": "BOXING",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Small building where a doctor sees patients",
-      "answer": "CLINIC",
+      "clue": "The color of fresh snow, milk, and paper",
+      "answer": "WHITE",
       "row": 0,
-      "col": 8,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A large group of singers performing together",
-      "answer": "CHOIR",
+      "clue": "A food made by baking a mixture of flour, water, and yeast",
+      "answer": "BREAD",
       "row": 2,
-      "col": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Black and white striped animal like a horse",
-      "answer": "ZEBRA",
-      "row": 11,
+      "clue": "The natural satellite that orbits Earth and reflects the Sun's light",
+      "answer": "MOON",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Animal known for spraying a bad smell",
-      "answer": "SKUNK",
-      "row": 9,
-      "col": 1,
+      "clue": "The opposite of strong; lacking physical strength",
+      "answer": "WEAK",
+      "row": 0,
+      "col": 5,
       "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 14,
   "targetWords": 15,
   "difficulty": "medium"
 }

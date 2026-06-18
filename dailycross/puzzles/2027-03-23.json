@@ -4,73 +4,66 @@
   "title": "2027-03-23",
   "words": [
     {
-      "clue": "Very tall building found in city centers",
-      "answer": "SKYSCRAPER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape that is taller than it is wide, with four sides",
-      "answer": "RECTANGLE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who leads tourists around historical sites",
-      "answer": "TOURGUIDE",
-      "row": 3,
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Very tiny living things you can only see with a microscope",
-      "answer": "BACTERIA",
-      "row": 4,
+      "clue": "A green vegetable with a thick stalk and a head of tiny buds",
+      "answer": "BROCCOLI",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "An unwanted reaction your body has to a food or substance",
-      "answer": "ALLERGY",
-      "row": 11,
-      "col": 6,
+      "clue": "Plant tissue that carries food made in leaves to other parts",
+      "answer": "PHLOEM",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Large seabird with a pouch under its beak",
-      "answer": "PELICAN",
+      "clue": "A team sport where players kick a ball into the opposing team's goal",
+      "answer": "SOCCER",
       "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Season when flowers bloom and it gets warmer",
-      "answer": "SPRING",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where you park your vehicle",
-      "answer": "GARAGE",
-      "row": 9,
+      "clue": "A long seat where players sit when they are not on the field",
+      "answer": "BENCH",
+      "row": 8,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "European country with the city of Athens",
-      "answer": "GREECE",
-      "row": 4,
-      "col": 12,
+      "clue": "A number that has exactly two different factors: itself and 1",
+      "answer": "PRIME",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Large whiskered mammal with flippers that lives in cold seas",
-      "answer": "WALRUS",
+      "clue": "The speed at which a piece of music is played",
+      "answer": "TEMPO",
       "row": 0,
-      "col": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A blue-green color, like the color of a duck's feathers",
+      "answer": "TEAL",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     }
   ],

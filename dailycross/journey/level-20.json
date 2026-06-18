@@ -4,56 +4,63 @@
   "title": "Level 20",
   "words": [
     {
-      "clue": "Person who educates students in a school classroom",
-      "answer": "TEACHER",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Small jumping insect that chirps at night",
-      "answer": "CRICKET",
-      "row": 1,
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 4,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Large arena where sports teams play matches",
-      "answer": "STADIUM",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The five thin parts at the end of your hand",
-      "answer": "FINGERS",
-      "row": 3,
-      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Very dark green like pine needles",
-      "answer": "FOREST",
-      "row": 1,
-      "col": 7,
+      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
+      "answer": "NEPTUNE",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Season when snow falls and it is very cold",
-      "answer": "WINTER",
-      "row": 6,
+      "clue": "The scientific study of living organisms and their life processes",
+      "answer": "BIOLOGY",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling worried, nervous, or uneasy about something",
+      "answer": "ANXIOUS",
+      "row": 4,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Yellow powder made by flowers",
+      "answer": "POLLEN",
+      "row": 6,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 3,
-      "col": 9,
+      "clue": "An electrical appliance that cleans floors by sucking up dirt",
+      "answer": "VACUUM",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A large natural stream of water that flows across land",
+      "answer": "RIVER",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 8,
   "targetWords": 8,
   "difficulty": "easy"
 }

@@ -4,84 +4,77 @@
   "title": "Level 44",
   "words": [
     {
-      "clue": "Person who organizes and manages books in a library",
-      "answer": "LIBRARIAN",
-      "row": 7,
-      "col": 2,
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Land that sticks out into the sea on three sides",
-      "answer": "PENINSULA",
+      "clue": "A bright flash of light in the sky during a thunderstorm",
+      "answer": "LIGHTNING",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with seven straight sides and seven angles",
+      "answer": "HEPTAGON",
       "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle that mows and harvests crops in fields",
-      "answer": "HARVESTER",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Small animal with sharp quills on its back",
-      "answer": "HEDGEHOG",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Machine with spinning blades used to blend smoothies and soups",
-      "answer": "BLENDER",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling very interested and wanting to explore and find out more",
-      "answer": "CURIOUS",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling anxious before a big test or event",
-      "answer": "NERVOUS",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle that lifts off straight up with rocket engines",
-      "answer": "ROCKET",
-      "row": 14,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Starchy vegetable that grows underground often made into chips",
-      "answer": "POTATO",
+      "clue": "A very light purple color, like the flower",
+      "answer": "LAVENDER",
       "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
+      "answer": "AIRPLANE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 3,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Cooked meat in a round bun",
-      "answer": "BURGER",
-      "row": 9,
+      "clue": "A container with a spout and handle used for boiling water",
+      "answer": "KETTLE",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A black and white striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Country with the Great Wall and the Forbidden City",
-      "answer": "CHINA",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
+      "clue": "Feeling in need of rest or sleep",
+      "answer": "TIRED",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 10,
   "targetWords": 11,
   "difficulty": "medium"
 }

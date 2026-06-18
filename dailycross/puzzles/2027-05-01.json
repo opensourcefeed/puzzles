@@ -4,67 +4,74 @@
   "title": "2027-05-01",
   "words": [
     {
-      "clue": "Person who organizes and manages books in a library",
-      "answer": "LIBRARIAN",
-      "row": 4,
-      "col": 1,
+      "clue": "A series of games or contests with several rounds to find a winner",
+      "answer": "TOURNAMENT",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A reduction in price when something goes on sale",
-      "answer": "DISCOUNT",
-      "row": 3,
-      "col": 7,
+      "clue": "The speed at which the wind is moving",
+      "answer": "WINDSPEED",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Celebration at the start of a new year on January 1",
-      "answer": "NEWYEAR",
-      "row": 4,
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "You draw circles using this tool",
-      "answer": "COMPASS",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
+      "clue": "A part of a whole number, written with a numerator and denominator",
+      "answer": "FRACTION",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "Sport where you sail a boat using wind",
-      "answer": "SAILING",
+      "clue": "A triangle with all three sides of different lengths",
+      "answer": "SCALENE",
       "row": 9,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Fried potato strips served with burgers",
-      "answer": "FRIES",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
+      "clue": "A part of a song that is repeated after each verse",
+      "answer": "CHORUS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "The second most populated country with the Taj Mahal",
-      "answer": "INDIA",
+      "clue": "A sweet tropical fruit with orange flesh and a large flat seed",
+      "answer": "MANGO",
       "row": 1,
-      "col": 2,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The area between your hips and ribs",
-      "answer": "WAIST",
+      "clue": "A frozen object in space that develops a glowing tail as it nears the Sun",
+      "answer": "COMET",
       "row": 7,
-      "col": 4,
-      "direction": "down"
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "Person who looks after children when parents are away",
-      "answer": "NANNY",
-      "row": 2,
+      "clue": "A large hoofed animal that people ride",
+      "answer": "HORSE",
+      "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A straight line connecting two points on the circumference of a circle",
+      "answer": "CHORD",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 323

@@ -4,67 +4,60 @@
   "title": "2027-03-25",
   "words": [
     {
-      "clue": "Money that the government takes from people's wages",
-      "answer": "INCOMETAX",
-      "row": 3,
+      "clue": "An animal that feeds only on the flesh of other animals",
+      "answer": "CARNIVORE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A secret word used to protect your accounts",
-      "answer": "PASSWORD",
-      "row": 2,
-      "col": 7,
+      "clue": "A person who makes and repairs wooden objects and furniture",
+      "answer": "CARPENTER",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Building where you can borrow books to read for free",
-      "answer": "LIBRARY",
-      "row": 2,
-      "col": 0,
+      "clue": "A scientist who studies living organisms and their life processes",
+      "answer": "BIOLOGIST",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Person who brings food to your table in a restaurant",
-      "answer": "WAITER",
+      "clue": "A black and white bird that lives in cold oceans and cannot fly",
+      "answer": "PENGUIN",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
       "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of planets and other objects orbiting a star",
+      "answer": "SYSTEM",
+      "row": 1,
       "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "Shop where fresh bread and pastries are made and sold",
-      "answer": "BAKERY",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Small stringed instrument you play with a bow",
-      "answer": "VIOLIN",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of fresh snow",
-      "answer": "WHITE",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of money something costs in a shop",
-      "answer": "PRICE",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Small device you move on a flat surface to control the cursor",
-      "answer": "MOUSE",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
     }
   ],
   "dayNumber": 286

@@ -4,42 +4,49 @@
   "title": "Level 5",
   "words": [
     {
-      "clue": "A flat four-sided shape with a pointy top and bottom",
-      "answer": "DIAMOND",
-      "row": 4,
-      "col": 0,
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Country of maple leaves, Niagara Falls and hockey",
-      "answer": "CANADA",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Money given back to you when you return something to a shop",
-      "answer": "REFUND",
-      "row": 0,
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Hottest season of the year",
-      "answer": "SUMMER",
+      "clue": "A device that fastens sheets of paper together with staples",
+      "answer": "STAPLER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of fabric hung over a window to block light or provide privacy",
+      "answer": "CURTAIN",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick, tropical area filled with many trees and plants",
+      "answer": "JUNGLE",
       "row": 1,
-      "col": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Person who brings food to your table in a restaurant",
-      "answer": "WAITER",
-      "row": 6,
-      "col": 1,
+      "clue": "A series of musical notes arranged in ascending or descending order",
+      "answer": "SCALE",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

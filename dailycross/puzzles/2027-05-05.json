@@ -4,67 +4,74 @@
   "title": "2027-05-05",
   "words": [
     {
-      "clue": "The bony structure that supports your body",
-      "answer": "SKELETON",
+      "clue": "The amount of rain that falls over a period of time",
+      "answer": "RAINFALL",
       "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A symbol, usually a letter, that represents an unknown number",
+      "answer": "VARIABLE",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An organ behind the stomach that produces insulin",
+      "answer": "PANCREAS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of open; not open or allowing access",
+      "answer": "CLOSED",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Color made by mixing red and blue",
-      "answer": "PURPLE",
+      "clue": "The skin covering the top of your head where hair grows",
+      "answer": "SCALP",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A container made of glass used for drinking",
+      "answer": "GLASS",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A wet, low-lying area where the ground is often covered with water",
+      "answer": "MARSH",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A storm with thunder, lightning, and usually heavy rain",
+      "answer": "STORM",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who reads the news on television",
-      "answer": "ANCHOR",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Huge deep trench in the ocean floor",
-      "answer": "TRENCH",
-      "row": 2,
       "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "Person who manages the money and accounts at a bank",
-      "answer": "BANKER",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Cloth worn over clothes to keep them clean while cooking",
-      "answer": "APRON",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Large box or trunk used to store blankets and items",
-      "answer": "CHEST",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You hold things and wave with these",
-      "answer": "HANDS",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Electric tool with beaters used to mix cake batter",
-      "answer": "MIXER",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "dayNumber": 327

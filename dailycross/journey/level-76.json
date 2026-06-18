@@ -4,98 +4,84 @@
   "title": "Level 76",
   "words": [
     {
-      "clue": "South Asian country with the city of Dhaka",
-      "answer": "BANGLADESH",
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
       "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Emergency vehicle with flashing lights that takes sick people to hospital",
-      "answer": "AMBULANCE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The day that came before today",
-      "answer": "YESTERDAY",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Physical activity that keeps your body strong and fit",
-      "answer": "EXERCISE",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest and closest planet to the sun",
-      "answer": "MERCURY",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal with a long neck that drinks from rivers",
-      "answer": "GIRAFFE",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Brown vegetable that grows underground and is often fried",
-      "answer": "POTATO",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The gas that plants release which we breathe",
-      "answer": "OXYGEN",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a river begins",
-      "answer": "SOURCE",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Long yellow curved fruit",
-      "answer": "BANANA",
-      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The bony part of your back going down the center",
-      "answer": "SPINE",
-      "row": 0,
-      "col": 6,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 2,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Owning a small part of a company",
-      "answer": "SHARE",
-      "row": 0,
-      "col": 6,
+      "clue": "A number that has more than two factors",
+      "answer": "COMPOSITE",
+      "row": 4,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A car used by police officers to patrol and respond to emergencies",
+      "answer": "POLICECAR",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 8,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A scale for measuring temperature, named after Anders Celsius",
+      "answer": "CELSIUS",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A part of a line that has two distinct endpoints",
+      "answer": "SEGMENT",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who works on a farm growing crops and raising animals",
+      "answer": "FARMER",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 9,
+      "col": 5,
+      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 11,
   "targetWords": 15,
   "difficulty": "medium"
 }

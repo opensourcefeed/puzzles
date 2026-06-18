@@ -4,67 +4,74 @@
   "title": "2027-03-31",
   "words": [
     {
-      "clue": "Large vehicle with wings that flies through the air",
-      "answer": "AIRPLANE",
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
       "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tree with long, thin branches that hang down toward the ground",
+      "answer": "WILLOW",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, orange citrus fruit with a sweet taste",
+      "answer": "ORANGE",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A device used to communicate with others over long distances",
+      "answer": "PHONE",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The force that keeps planets orbiting the sun",
-      "answer": "GRAVITY",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Two-wheeled vehicle you pedal with your feet",
-      "answer": "BICYCLE",
+      "clue": "The opposite of big; of a size that is less than average",
+      "answer": "SMALL",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "You use this to color and draw pictures",
-      "answer": "CRAYONS",
-      "row": 2,
-      "col": 4,
+      "clue": "A tool with teeth used to untangle and smooth hair",
+      "answer": "COMB",
+      "row": 6,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Soft shoe worn indoors",
-      "answer": "SLIPPER",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The sixth planet from the sun, almost as large as Jupiter",
-      "answer": "SATURN",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Fine yellow powder made by flowers to make seeds",
-      "answer": "POLLEN",
-      "row": 1,
+      "clue": "A grain crop commonly used as feed for farm animals",
+      "answer": "OATS",
+      "row": 3,
       "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "These are the white hard parts inside your mouth",
-      "answer": "TEETH",
-      "row": 7,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with the Great Wall and the Forbidden City",
-      "answer": "CHINA",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "dayNumber": 292

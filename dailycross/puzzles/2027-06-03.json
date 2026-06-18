@@ -4,74 +4,74 @@
   "title": "2027-06-03",
   "words": [
     {
-      "clue": "The complete path of water from ocean to sky and back",
-      "answer": "WATERCYCLE",
-      "row": 5,
+      "clue": "The ability to continue a physical activity for a long time",
+      "answer": "ENDURANCE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A spacecraft designed to carry astronauts into space",
+      "answer": "CREWCRAFT",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who conducts scientific research in a laboratory",
+      "answer": "SCIENTIST",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A push or pull that can change the motion of an object",
+      "answer": "FORCE",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A boat or ship that carries passengers and vehicles across a body of water",
+      "answer": "FERRY",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of the sky on a clear, sunny day",
+      "answer": "BLUE",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An object that does not let electricity pass through",
-      "answer": "INSULATOR",
-      "row": 1,
-      "col": 8,
+      "clue": "Drops of water that fall from clouds to the ground",
+      "answer": "RAIN",
+      "row": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Wireless technology used to connect devices over short distances",
-      "answer": "BLUETOOTH",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Green leafy vegetable full of iron",
-      "answer": "SPINACH",
+      "clue": "A rich, dark green color, like the gemstone",
+      "answer": "JADE",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Machine that puts words and pictures from a computer onto paper",
-      "answer": "PRINTER",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Special pen used to draw on touchscreens",
-      "answer": "STYLUS",
+      "clue": "You use these to see",
+      "answer": "EYES",
       "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Area of land covered with many trees",
-      "answer": "FOREST",
-      "row": 9,
-      "col": 6,
+      "col": 8,
       "direction": "across"
-    },
-    {
-      "clue": "Scandinavian country with the city of Stockholm",
-      "answer": "SWEDEN",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Vehicle that runs on metal rails and carries passengers",
-      "answer": "TRAIN",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Water in the form of a gas or steam",
-      "answer": "VAPOR",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
     }
   ],
   "dayNumber": 356

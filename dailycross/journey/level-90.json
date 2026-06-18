@@ -4,105 +4,112 @@
   "title": "Level 90",
   "words": [
     {
-      "clue": "Purple vegetable also called aubergine",
-      "answer": "EGGPLANT",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport where you climb up a rock wall",
-      "answer": "CLIMBING",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Large gray animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who trains animals to behave or do tricks",
-      "answer": "TRAINER",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean bird that hovers over waves and dives for fish",
-      "answer": "SEAGULL",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The day that comes after Monday",
-      "answer": "TUESDAY",
-      "row": 11,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Light rock full of small holes made by a volcano",
-      "answer": "PUMICE",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Difficulty breathing smoothly and clearly",
-      "answer": "ASTHMA",
-      "row": 1,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "You write with this long thin tool",
-      "answer": "PENCIL",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "The ocean around the North Pole",
-      "answer": "ARCTIC",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The fourth month of the year",
-      "answer": "APRIL",
-      "row": 9,
+      "clue": "The movement of one object around another in an orbital path",
+      "answer": "REVOLUTION",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A low wet land often covered with water",
-      "answer": "SWAMP",
-      "row": 0,
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Your parent's brother",
-      "answer": "UNCLE",
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A number that has more than two factors",
+      "answer": "COMPOSITE",
+      "row": 13,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "An animal that feeds only on plants and plant material",
+      "answer": "HERBIVORE",
       "row": 2,
-      "col": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who tends and cultivates gardens and plants",
+      "answer": "GARDENER",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling embarrassed or guilty about something",
+      "answer": "ASHAMED",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of furniture for sitting on, used in classrooms",
+      "answer": "CHAIR",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The number of points earned by a player or team in a game",
+      "answer": "SCORE",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A race in which team members take turns running and passing a baton",
+      "answer": "RELAY",
+      "row": 14,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "The action of moving something on a screen by holding and pulling it",
+      "answer": "DRAG",
+      "row": 10,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The outer layer of tissue that covers and protects your body",
+      "answer": "SKIN",
+      "row": 11,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 17,
   "difficulty": "medium"
 }

@@ -4,67 +4,74 @@
   "title": "2026-07-20",
   "words": [
     {
-      "clue": "A large concert hall where orchestras perform",
-      "answer": "AUDITORIUM",
-      "row": 7,
-      "col": 0,
+      "clue": "An instrument used to measure atmospheric pressure",
+      "answer": "BAROMETER",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Purple vegetable that is long and oval, also called aubergine",
-      "answer": "EGGPLANT",
-      "row": 0,
+      "clue": "A vehicle equipped with equipment for fighting fires",
+      "answer": "FIRETRUCK",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with six sides like a honeycomb cell",
-      "answer": "HEXAGON",
-      "row": 5,
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of furniture with drawers for storing items",
+      "answer": "CABINET",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that shows the time, usually hung on a wall or placed on a surface",
+      "answer": "CLOCK",
+      "row": 9,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Person who reads the news on television",
-      "answer": "ANCHOR",
-      "row": 7,
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A wet, low-lying area where the ground is often covered with water",
+      "answer": "MARSH",
+      "row": 3,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Thick soft covering placed on the floor in a room",
-      "answer": "CARPET",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for tacos, pyramids and sombreros",
-      "answer": "MEXICO",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Blood vessel that carries blood away from the heart",
-      "answer": "ARTERY",
-      "row": 6,
+      "clue": "The hard, white structures that form the skeleton inside your body",
+      "answer": "BONES",
+      "row": 0,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who trains and prepares athletes for competitions",
-      "answer": "COACH",
-      "row": 12,
-      "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "Building where a family lives",
-      "answer": "HOUSE",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
     }
   ],
   "dayNumber": 38

@@ -4,105 +4,91 @@
   "title": "Level 94",
   "words": [
     {
-      "clue": "Person who builds and repairs things using wood",
-      "answer": "CARPENTER",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Bright flash of electricity between clouds and ground",
-      "answer": "LIGHTNING",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape like a can or tube",
-      "answer": "CYLINDER",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Rocky objects that orbit the sun between Mars and Jupiter",
-      "answer": "ASTEROID",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Animal with a bushy tail that collects nuts",
-      "answer": "SQUIRREL",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Vast flat open grassland in Africa",
-      "answer": "SAVANNA",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The country that has London as its capital city",
-      "answer": "ENGLAND",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The eighth and farthest planet from the sun",
-      "answer": "NEPTUNE",
-      "row": 2,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling that you want something very much",
-      "answer": "JEALOUS",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Animal that glows in the dark at night",
-      "answer": "FIREFLY",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Thick yellow dairy spread put on bread",
-      "answer": "BUTTER",
-      "row": 9,
+      "clue": "An instrument that uses lenses to make very small objects appear larger",
+      "answer": "MICROSCOPE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who writes novels, stories or non-fiction books",
-      "answer": "AUTHOR",
-      "row": 7,
-      "col": 2,
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Black and white bear from China",
-      "answer": "PANDA",
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
       "row": 9,
-      "col": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The tough outer layer that covers and protects a seed",
+      "answer": "SEEDCOAT",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A natural underground chamber inside a rock",
-      "answer": "CAVE",
+      "clue": "The amount of moisture or water vapor present in the air",
+      "answer": "HUMIDITY",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
+      "answer": "CONCAVE",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
       "row": 8,
-      "col": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A medical professional who diagnoses and treats illnesses",
+      "answer": "DOCTOR",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "answer": "MUSIC",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A fine powder made by grinding wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 12,
   "targetWords": 17,
-  "difficulty": "hard"
+  "difficulty": "medium"
 }

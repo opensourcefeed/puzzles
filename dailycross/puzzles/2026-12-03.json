@@ -4,53 +4,74 @@
   "title": "2026-12-03",
   "words": [
     {
-      "clue": "Large building where sick people go to be treated",
-      "answer": "HOSPITAL",
-      "row": 4,
-      "col": 0,
+      "clue": "The phase of the Moon when it is not visible from Earth",
+      "answer": "NEWMOON",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with five sides and five corners",
-      "answer": "PENTAGON",
-      "row": 4,
-      "col": 3,
+      "clue": "A piece of fabric hung over a window to block light or provide privacy",
+      "answer": "CURTAIN",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "European country with the city of Berlin",
-      "answer": "GERMANY",
-      "row": 0,
+      "clue": "A small string instrument played with a bow, held under the chin",
+      "answer": "VIOLIN",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with eight sides like a stop sign",
-      "answer": "OCTAGON",
-      "row": 7,
-      "col": 1,
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "White soft food made from curdled milk",
-      "answer": "CHEESE",
-      "row": 1,
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Horizontal plank attached to a wall to hold books or objects",
-      "answer": "SHELF",
-      "row": 3,
-      "col": 0,
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 8,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Underwater mountain chain that runs along the ocean floor",
-      "answer": "RIDGE",
-      "row": 9,
-      "col": 0,
+      "clue": "A black and white striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 13,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "A small, narrow stream of water",
+      "answer": "CREEK",
+      "row": 9,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The action of pressing and releasing a mouse button",
+      "answer": "CLICK",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A push or pull that can change the motion of an object",
+      "answer": "FORCE",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 174

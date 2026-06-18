@@ -4,56 +4,70 @@
   "title": "Level 30",
   "words": [
     {
-      "clue": "A narrow strip of land connecting two larger land masses",
-      "answer": "ISTHMUS",
+      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
+      "answer": "PROTRACTOR",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Room where you borrow books to read",
-      "answer": "LIBRARY",
-      "row": 4,
-      "col": 0,
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Tiny air sacs inside the lungs where gas exchange happens",
-      "answer": "ALVEOLI",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Small flow of water moving across land",
-      "answer": "STREAM",
-      "row": 0,
-      "col": 4,
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Person who manages the money and accounts at a bank",
-      "answer": "BANKER",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The colorful part of a plant that attracts bees and butterflies",
-      "answer": "PETAL",
+      "clue": "A piece of furniture with drawers for storing items",
+      "answer": "CABINET",
       "row": 7,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The smallest planet in our solar system and closest to the Sun",
+      "answer": "MERCURY",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A very dry area that receives very little rainfall",
+      "answer": "DESERT",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Tool used to hold things firmly in place while working",
-      "answer": "CLAMP",
-      "row": 7,
-      "col": 5,
+      "clue": "A machine that washes clothes automatically",
+      "answer": "WASHER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The smallest finger on your hand, located farthest from your thumb",
+      "answer": "PINKY",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 9,
   "targetWords": 9,
   "difficulty": "easy"
 }

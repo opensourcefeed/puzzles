@@ -4,119 +4,133 @@
   "title": "Level 150",
   "words": [
     {
-      "clue": "The complete path of water from ocean to sky and back",
-      "answer": "WATERCYCLE",
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Asian country with the city of Seoul",
-      "answer": "SOUTHKOREA",
-      "row": 4,
+      "clue": "Sports and games that involve running, jumping, and throwing",
+      "answer": "ATHLETICS",
+      "row": 6,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "You use this tool to do math sums",
-      "answer": "CALCULATOR",
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
       "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow tropical fruit with a rough skin",
-      "answer": "PINEAPPLE",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving staircase found in malls and airports",
-      "answer": "ESCALATOR",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Metal plates you crash together to make a loud sound",
-      "answer": "CYMBALS",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Bird with colorful tail feathers",
-      "answer": "PEACOCK",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Small motor vehicle like a bicycle used in cities",
-      "answer": "SCOOTER",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Season when flowers bloom and it gets warmer",
-      "answer": "SPRING",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Shorts worn for swimming at the pool or beach",
-      "answer": "TRUNKS",
-      "row": 13,
       "col": 8,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Feeling full of happiness and smiling a lot",
-      "answer": "HAPPY",
+      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
+      "answer": "GEOLOGIST",
       "row": 10,
-      "col": 8,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The smallest coin worth only one cent",
-      "answer": "PENNY",
-      "row": 9,
+      "clue": "Feeling or showing surprise at something unexpected",
+      "answer": "SURPRISED",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A chemical change that produces one or more new substances",
+      "answer": "REACTION",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A four-sided shape with all sides equal in length",
+      "answer": "RHOMBUS",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The curved path a planet takes around the sun",
-      "answer": "ORBIT",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You use these to listen to sounds",
-      "answer": "EARS",
-      "row": 7,
-      "col": 11,
-      "direction": "across"
-    },
-    {
-      "clue": "Small building in a garden where tools are stored",
-      "answer": "SHED",
-      "row": 7,
-      "col": 14,
+      "clue": "A deep, dark green color like the trees in a forest",
+      "answer": "FOREST",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling relaxed and peaceful with no worries",
-      "answer": "CALM",
-      "row": 4,
-      "col": 7,
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 3,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The opposite of loud; making little or no noise",
+      "answer": "QUIET",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A series of connected vehicles that run on railway tracks",
+      "answer": "TRAIN",
+      "row": 10,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
+      "answer": "SPOON",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A frozen object in space that develops a glowing tail as it nears the Sun",
+      "answer": "COMET",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The smallest particle of a chemical element that can exist",
+      "answer": "ATOM",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 18,
   "targetWords": 25,
   "difficulty": "hard"
 }

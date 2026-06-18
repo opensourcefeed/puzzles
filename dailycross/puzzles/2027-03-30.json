@@ -4,74 +4,67 @@
   "title": "2027-03-30",
   "words": [
     {
-      "clue": "The amount of water vapor in the air",
-      "answer": "HUMIDITY",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with five sides and five corners",
-      "answer": "PENTAGON",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The second month of the year",
-      "answer": "FEBRUARY",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The ocean surrounding Antarctica at the south of the Earth",
-      "answer": "SOUTHERN",
-      "row": 8,
+      "clue": "A series of games or contests with several rounds to find a winner",
+      "answer": "TOURNAMENT",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sport where you ride a two-wheeled vehicle on a track",
-      "answer": "CYCLING",
-      "row": 0,
+      "clue": "A plant that lives and grows for more than two years",
+      "answer": "PERENNIAL",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "White soft food made from curdled milk",
-      "answer": "CHEESE",
-      "row": 2,
-      "col": 4,
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A coin that is worth five cents",
-      "answer": "NICKEL",
-      "row": 8,
-      "col": 7,
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "An oval egg-like flat shape",
-      "answer": "OVAL",
-      "row": 8,
+      "clue": "A device that converts paper documents into digital images",
+      "answer": "SCANNER",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A safe building where you keep and save your money",
-      "answer": "BANK",
-      "row": 5,
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 1,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Very dark shade of blue like a school uniform",
-      "answer": "NAVY",
-      "row": 6,
-      "col": 9,
-      "direction": "across"
+      "clue": "A large, round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 291

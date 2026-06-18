@@ -4,67 +4,60 @@
   "title": "2027-04-06",
   "words": [
     {
-      "clue": "A rock from space that falls and hits Earth",
-      "answer": "METEORITE",
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
       "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling sure of yourself and your abilities",
-      "answer": "CONFIDENT",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The ocean that lies between North America and Europe",
-      "answer": "ATLANTIC",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "All the bones that support your body together",
-      "answer": "SKELETON",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who fixes water pipes and drains in buildings",
-      "answer": "PLUMBER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Warm dry wind that blows down the side of a mountain",
-      "answer": "CHINOOK",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape with many sides, more than eight",
-      "answer": "POLYGON",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Country famous for the Eiffel Tower and croissants",
-      "answer": "FRANCE",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Hot dry area with very little rain",
-      "answer": "DESERT",
-      "row": 5,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 2,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who specializes in the study of physics",
+      "answer": "PHYSICIST",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 6,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A cabinet with shelves for storing food and dishes",
+      "answer": "CUPBOARD",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who creates detailed technical drawings and plans",
+      "answer": "DRAFTER",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A large motor vehicle used for transporting goods by road",
+      "answer": "TRUCK",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 298

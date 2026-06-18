@@ -4,112 +4,98 @@
   "title": "Level 128",
   "words": [
     {
-      "clue": "Small table beside your bed for a lamp or glass of water",
-      "answer": "NIGHTSTAND",
+      "clue": "A small, portable storage device that plugs into a USB port",
+      "answer": "FLASHDRIVE",
       "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Winter holiday with candles and gift-giving in December",
-      "answer": "CHRISTMAS",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A rock from space that falls and hits Earth",
-      "answer": "METEORITE",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "When a substance dissolves in a liquid",
-      "answer": "SOLUTION",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Very tiny living things you can only see with a microscope",
-      "answer": "BACTERIA",
-      "row": 13,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Marine animal with a star shape",
-      "answer": "STARFISH",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful arc of light in the sky after rain",
-      "answer": "RAINBOW",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Dark green leafy vegetable rich in iron",
-      "answer": "SPINACH",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The celebration ceremony when two people get married",
-      "answer": "WEDDING",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The eighth and farthest planet from the sun",
-      "answer": "NEPTUNE",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Country known for the Amazon jungle and Carnival festival",
-      "answer": "BRAZIL",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The sixth planet from the sun, almost as large as Jupiter",
-      "answer": "SATURN",
-      "row": 4,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Striped big cat from Asia",
-      "answer": "TIGER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "White vegetable made up of many layers",
-      "answer": "ONION",
-      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "East African country with the city of Nairobi and safaris",
-      "answer": "KENYA",
-      "row": 8,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A number that has more than two factors",
+      "answer": "COMPOSITE",
+      "row": 9,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A tree that keeps its green leaves throughout the entire year",
+      "answer": "EVERGREEN",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The number above the line in a fraction, showing how many parts are taken",
+      "answer": "NUMERATOR",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling kind and pleasant toward others",
+      "answer": "FRIENDLY",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A line that touches a circle at exactly one point",
+      "answer": "TANGENT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person whose job is to paint walls, buildings, and other surfaces",
+      "answer": "PAINTER",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of land covered with many trees",
+      "answer": "FOREST",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A part of a song that is repeated after each verse",
+      "answer": "CHORUS",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The process of writing instructions for a computer to follow",
+      "answer": "CODING",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 13,
   "targetWords": 22,
   "difficulty": "hard"
 }

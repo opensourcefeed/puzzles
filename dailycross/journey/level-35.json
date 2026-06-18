@@ -4,67 +4,67 @@
   "title": "Level 35",
   "words": [
     {
-      "clue": "Tall feature on land formed by pushing earth upward",
-      "answer": "MOUNTAIN",
-      "row": 6,
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Mountain with a hole at the top that can erupt",
-      "answer": "VOLCANO",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Ocean bird that hovers over waves and dives for fish",
-      "answer": "SEAGULL",
-      "row": 4,
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Lightweight aircraft with one small engine",
-      "answer": "GLIDER",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat touchscreen device without a physical keyboard",
-      "answer": "TABLET",
-      "row": 5,
-      "col": 11,
+      "clue": "The movement or change in position of an object",
+      "answer": "MOTION",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Light rock full of small holes made by a volcano",
-      "answer": "PUMICE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Shellfish attached to rocks that opens when in water",
-      "answer": "MUSSEL",
-      "row": 4,
+      "clue": "A primate that lives in trees and swings from branch to branch",
+      "answer": "MONKEY",
+      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Building where people stay overnight when traveling",
-      "answer": "HOTEL",
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
       "row": 0,
-      "col": 11,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Paper you use to wrap your books",
-      "answer": "COVER",
-      "row": 1,
-      "col": 10,
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
+      "row": 7,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A musical term meaning to play softly",
+      "answer": "PIANO",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
+      "answer": "SPOON",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A very slow-moving animal that carries a shell on its back",
+      "answer": "SNAIL",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "wordCount": 9,

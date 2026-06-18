@@ -4,67 +4,74 @@
   "title": "2027-05-16",
   "words": [
     {
-      "clue": "Vehicle that collects garbage from houses",
-      "answer": "TRASHCAR",
-      "row": 7,
+      "clue": "A person who is traveling in a vehicle but not driving it",
+      "answer": "PASSENGER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Physical activity that keeps your body strong and fit",
-      "answer": "EXERCISE",
-      "row": 3,
-      "col": 5,
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "European country with the city of Brussels",
-      "answer": "BELGIUM",
-      "row": 5,
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A plan for how to spend your money each month",
-      "answer": "BUDGET",
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
       "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of gliding on ice using ice skates",
+      "answer": "SKATING",
+      "row": 6,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The last day of the weekend",
-      "answer": "SUNDAY",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Device used to weigh out exact amounts of ingredients",
-      "answer": "SCALE",
-      "row": 3,
-      "col": 1,
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 8,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Your sister's or brother's daughter",
-      "answer": "NIECE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "Round container used to mix ingredients",
-      "answer": "BOWL",
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The hard center of the Earth",
-      "answer": "CORE",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
+      "clue": "The opposite of fast; moving at a low speed",
+      "answer": "SLOW",
+      "row": 9,
+      "col": 6,
+      "direction": "down"
     }
   ],
   "dayNumber": 338

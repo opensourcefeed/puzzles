@@ -4,42 +4,56 @@
   "title": "Level 19",
   "words": [
     {
-      "clue": "Arctic black and white swimming bird",
-      "answer": "PENGUIN",
-      "row": 1,
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A coin that is worth twenty-five cents",
-      "answer": "QUARTER",
-      "row": 0,
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The person who teaches you in class",
-      "answer": "TEACHER",
-      "row": 0,
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Celebration at the start of a new year on January 1",
-      "answer": "NEWYEAR",
-      "row": 5,
-      "col": 0,
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Scandinavian country with the city of Oslo and fjords",
-      "answer": "NORWAY",
-      "row": 3,
+      "clue": "The color of fresh snow, milk, and paper",
+      "answer": "WHITE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A very slow-moving animal that carries a shell on its back",
+      "answer": "SNAIL",
+      "row": 2,
       "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
+      "answer": "BERRY",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 7,
   "targetWords": 7,
   "difficulty": "easy"
 }

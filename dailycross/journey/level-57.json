@@ -4,77 +4,98 @@
   "title": "Level 57",
   "words": [
     {
-      "clue": "Large green and red fruit with seeds inside",
-      "answer": "WATERMELON",
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
       "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Person who leads tourists around historical sites",
-      "answer": "TOURGUIDE",
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
       "row": 4,
-      "col": 10,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Sport where you jump as far as you can from a running start",
-      "answer": "LONGJUMP",
-      "row": 8,
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 11,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Turning around and around on a central point",
-      "answer": "ROTATION",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A secret word used to protect your accounts",
-      "answer": "PASSWORD",
+      "clue": "To transfer data from the internet to a computer or device",
+      "answer": "DOWNLOAD",
       "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Person who fixes water pipes and drains in buildings",
-      "answer": "PLUMBER",
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A crisp, green vegetable with long, fibrous stalks",
+      "answer": "CELERY",
       "row": 0,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "European country with the city of Brussels",
-      "answer": "BELGIUM",
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
       "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Round orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 12,
-      "col": 5,
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The short, thick finger on your hand that helps you grip things",
+      "answer": "THUMB",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A woman on the day she gets married",
-      "answer": "BRIDE",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
+      "clue": "A small handheld device that moves the cursor on a computer screen",
+      "answer": "MOUSE",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "An object that has length, width, and height",
+      "answer": "SOLID",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 13,
   "targetWords": 13,
   "difficulty": "medium"
 }

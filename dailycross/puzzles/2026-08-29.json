@@ -4,74 +4,67 @@
   "title": "2026-08-29",
   "words": [
     {
-      "clue": "June holiday to honor and give gifts to fathers",
-      "answer": "FATHERSDAY",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
-      "answer": "VITAMINC",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest and closest planet to the sun",
-      "answer": "MERCURY",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Animal that glows in the dark at night",
-      "answer": "FIREFLY",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewelry clipped or hooked onto the ear",
-      "answer": "EARRING",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Handle tool used to tighten or loosen nuts and bolts",
-      "answer": "WRENCH",
+      "clue": "A very tall flower with a large yellow head that turns toward the sun",
+      "answer": "SUNFLOWER",
       "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Large fast silver fish often eaten in sandwiches",
-      "answer": "TUNA",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The unit we use to measure electric pressure",
-      "answer": "VOLT",
-      "row": 0,
-      "col": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The large organ that covers your whole body",
-      "answer": "SKIN",
+      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
+      "answer": "GEOLOGIST",
       "row": 3,
-      "col": 10,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A person who conducts scientific research in a laboratory",
+      "answer": "SCIENTIST",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The passing of genetic traits from parents to offspring",
+      "answer": "HEREDITY",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground layer of rock that holds and transmits water",
+      "answer": "AQUIFER",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Finding something funny or entertaining",
+      "answer": "AMUSED",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 78

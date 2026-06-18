@@ -4,74 +4,74 @@
   "title": "2026-09-12",
   "words": [
     {
-      "clue": "Wooden block used to store and organize kitchen knives",
-      "answer": "KNIFEBLOCK",
-      "row": 7,
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The total distance around the outside of a shape",
+      "answer": "PERIMETER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape that can be divided into two identical halves",
+      "answer": "SYMMETRIC",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "May holiday to honor and give gifts to mothers",
-      "answer": "MOTHERSDAY",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Mineral in milk and cheese needed for strong bones",
-      "answer": "CALCIUM",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Black and white bird that cannot fly",
-      "answer": "PENGUIN",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The imaginary line around the middle of the Earth",
-      "answer": "EQUATOR",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Large flat horizontal surface of a room above your head",
-      "answer": "CEILING",
-      "row": 9,
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 4,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Small piece of land surrounded by water",
-      "answer": "ISLAND",
-      "row": 5,
-      "col": 10,
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "You use this to draw straight lines",
-      "answer": "RULER",
-      "row": 8,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A push or pull that makes objects move or stop",
-      "answer": "FORCE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Large spoon with a long handle used to serve soup",
-      "answer": "LADLE",
+      "clue": "Plant tissue that carries food made in leaves to other parts",
+      "answer": "PHLOEM",
       "row": 0,
       "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
+      "row": 9,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A race in which team members take turns running and passing a baton",
+      "answer": "RELAY",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 92

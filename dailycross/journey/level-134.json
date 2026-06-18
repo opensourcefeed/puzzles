@@ -4,112 +4,119 @@
   "title": "Level 134",
   "words": [
     {
-      "clue": "Book with words and their meanings",
-      "answer": "DICTIONARY",
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
       "row": 7,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Small red fruit eaten on cakes and ice cream",
-      "answer": "STRAWBERRY",
-      "row": 5,
-      "col": 10,
+      "clue": "A long, narrow board with a padded surface used for ironing",
+      "answer": "IRONBOARD",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Floating transparent ocean creature with stinging tentacles",
-      "answer": "JELLYFISH",
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A car used by police officers to patrol and respond to emergencies",
+      "answer": "POLICECAR",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The phase of the Moon when it is not visible from Earth",
+      "answer": "NEWMOON",
       "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A shape with four sides and only one pair of parallel sides",
-      "answer": "TRAPEZOID",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A curved shape like a banana or the moon",
-      "answer": "CRESCENT",
-      "row": 3,
-      "col": 4,
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
+      "row": 8,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The part of a computer you can see and touch",
-      "answer": "HARDWARE",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
+      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
+      "answer": "GRAVITY",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
     },
     {
-      "clue": "The day before Friday",
-      "answer": "THURSDAY",
+      "clue": "A black and white bird that lives in cold oceans and cannot fly",
+      "answer": "PENGUIN",
       "row": 6,
-      "col": 14,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Building where you buy prescription medicine",
-      "answer": "PHARMACY",
+      "clue": "The dense, central core of an atom containing protons and neutrons",
+      "answer": "NUCLEUS",
       "row": 13,
-      "col": 7,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A person who lives in the house next to yours",
-      "answer": "NEIGHBOR",
-      "row": 2,
-      "col": 12,
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Vehicle used on a farm to pull heavy equipment",
-      "answer": "TRACTOR",
-      "row": 3,
+      "clue": "The opposite of brave; feeling fear or anxiety",
+      "answer": "AFRAID",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
+      "row": 11,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Fine thin rain that barely gets you wet",
-      "answer": "DRIZZLE",
-      "row": 7,
-      "col": 2,
+      "clue": "A small rodent that is known for liking cheese",
+      "answer": "MOUSE",
+      "row": 10,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The basic unit of money used in the United States",
-      "answer": "DOLLAR",
-      "row": 12,
+      "clue": "A piece of absorbent cloth used for drying after washing",
+      "answer": "TOWEL",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of flexible; not easily bent or changed",
+      "answer": "STIFF",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Farm animal that gives us wool",
+      "clue": "A farm animal that gives wool",
       "answer": "SHEEP",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Ridged fastener you turn with a screwdriver",
-      "answer": "SCREW",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The area between your hips and ribs",
-      "answer": "WAIST",
-      "row": 0,
-      "col": 9,
+      "row": 9,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 16,
   "targetWords": 23,
   "difficulty": "hard"
 }

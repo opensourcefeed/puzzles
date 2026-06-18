@@ -4,67 +4,74 @@
   "title": "2026-08-08",
   "words": [
     {
-      "clue": "Water plant with large flat leaves and beautiful flowers",
-      "answer": "WATERLILY",
-      "row": 7,
-      "col": 1,
+      "clue": "A person who is traveling in a vehicle but not driving it",
+      "answer": "PASSENGER",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Padded glove used to hold hot pots from the oven",
-      "answer": "OVENMITT",
-      "row": 5,
-      "col": 4,
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Large arena where sports teams play matches",
-      "answer": "STADIUM",
-      "row": 5,
-      "col": 2,
+      "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
+      "answer": "GASGIANT",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Your tummy where food is digested",
-      "answer": "STOMACH",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Colorful part of a plant that attracts bees",
-      "answer": "FLOWER",
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
       "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who looks after nature in a national park or forest",
-      "answer": "RANGER",
-      "row": 11,
-      "col": 6,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Country known for tacos, pyramids and sombreros",
-      "answer": "MEXICO",
-      "row": 0,
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A tropical fruit with green skin and sweet, soft flesh",
+      "answer": "GUAVA",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The part of your face below your nose",
-      "answer": "CHIN",
-      "row": 9,
+      "clue": "Feeling in need of rest or sleep",
+      "answer": "TIRED",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "To find and fix errors in a computer program",
+      "answer": "DEBUG",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A metal strongly attracted to magnets",
-      "answer": "IRON",
-      "row": 8,
-      "col": 8,
+      "clue": "A small, round fruit that grows in bunches on vines",
+      "answer": "GRAPE",
+      "row": 0,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "Music that is sung without instrumental accompaniment",
+      "answer": "VOCAL",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 57

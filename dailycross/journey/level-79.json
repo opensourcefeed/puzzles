@@ -4,98 +4,84 @@
   "title": "Level 79",
   "words": [
     {
-      "clue": "Small round instrument with metal discs around the edge you shake",
-      "answer": "TAMBOURINE",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Turning around and around on a central point",
-      "answer": "ROTATION",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Brass instrument with a long slide that goes in and out",
-      "answer": "TROMBONE",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Southeast Asian country with the city of Kuala Lumpur",
-      "answer": "MALAYSIA",
+      "clue": "A person who works in a library and helps people find books",
+      "answer": "LIBRARIAN",
       "row": 7,
-      "col": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Giant ocean wave caused by underwater earthquakes",
-      "answer": "TSUNAMI",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A device worn on your face to help you see clearly",
-      "answer": "GLASSES",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who educates students in a school classroom",
-      "answer": "TEACHER",
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
       "row": 4,
-      "col": 2,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
       "row": 5,
-      "col": 12,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "European country with the city of Warsaw",
-      "answer": "POLAND",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The last day of the weekend",
-      "answer": "SUNDAY",
-      "row": 3,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Handle tool used to tighten or loosen nuts and bolts",
-      "answer": "WRENCH",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Black and white striped animal like a horse",
-      "answer": "ZEBRA",
-      "row": 0,
+      "clue": "A scientist who studies plants and their growth",
+      "answer": "BOTANIST",
+      "row": 7,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Electric tool with beaters used to mix cake batter",
-      "answer": "MIXER",
-      "row": 1,
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A region of a circle bounded by two radii and the arc between them",
+      "answer": "SECTOR",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large keyboard instrument with black and white keys",
+      "answer": "PIANO",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather during which rain is falling",
+      "answer": "RAINY",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 11,
   "targetWords": 15,
   "difficulty": "medium"
 }

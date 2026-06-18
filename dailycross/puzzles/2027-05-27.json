@@ -4,53 +4,74 @@
   "title": "2027-05-27",
   "words": [
     {
-      "clue": "A powerful instrument used to see distant stars and planets",
-      "answer": "TELESCOPE",
-      "row": 0,
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Box that takes people up and down in a building",
-      "answer": "ELEVATOR",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who delivers your letters and packages to your home",
-      "answer": "MAILMAN",
-      "row": 4,
+      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
+      "answer": "ORGANISM",
+      "row": 3,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The day that comes after Monday",
-      "answer": "TUESDAY",
-      "row": 0,
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 1,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Large residence where a king or queen lives",
-      "answer": "PALACE",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Small mountain country between India and China",
-      "answer": "NEPAL",
-      "row": 7,
-      "col": 4,
+      "clue": "A warm yellow-brown color, like the fossilized tree resin",
+      "answer": "AMBER",
+      "row": 10,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Water that falls from clouds",
-      "answer": "RAIN",
-      "row": 1,
-      "col": 8,
+      "clue": "The part of your face below your mouth and above your neck",
+      "answer": "CHIN",
+      "row": 4,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "A utensil with prongs used for picking up and eating food",
+      "answer": "FORK",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A white liquid produced by mammals to feed their young",
+      "answer": "MILK",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A wireless networking technology that allows devices to connect to the internet",
+      "answer": "WIFI",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 349

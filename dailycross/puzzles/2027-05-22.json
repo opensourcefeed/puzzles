@@ -4,73 +4,66 @@
   "title": "2027-05-22",
   "words": [
     {
-      "clue": "Buddhist holiday celebrating the birth of Buddha",
-      "answer": "BUDDHASDAY",
+      "clue": "A long, narrow board with a padded surface used for ironing",
+      "answer": "IRONBOARD",
       "row": 4,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A shape that is taller than it is wide, with four sides",
-      "answer": "RECTANGLE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who organizes and manages books in a library",
-      "answer": "LIBRARIAN",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with five sides and five corners",
-      "answer": "PENTAGON",
-      "row": 1,
+      "clue": "An animal that eats both plants and other animals",
+      "answer": "OMNIVORE",
+      "row": 4,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Sport where you surf waves in the ocean on a board",
-      "answer": "SURFING",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country in West Africa with the city of Lagos",
-      "answer": "NIGERIA",
-      "row": 1,
-      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Feeling that you care about what others are going through",
-      "answer": "EMPATHY",
-      "row": 8,
+      "clue": "A number that is the product of a number multiplied by itself",
+      "answer": "SQUAREDO",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge collection of stars, gas, and dust held together by gravity",
+      "answer": "GALAXY",
+      "row": 10,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Soft fabric worn on your feet inside shoes",
-      "answer": "SOCKS",
-      "row": 3,
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
+      "row": 2,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "The amount of money something costs in a shop",
-      "answer": "PRICE",
-      "row": 5,
+      "clue": "The opposite of flexible; not easily bent or changed",
+      "answer": "STIFF",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A number that has exactly two different factors: itself and 1",
+      "answer": "PRIME",
+      "row": 7,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Light red color of a flamingo",
-      "answer": "PINK",
-      "row": 8,
-      "col": 9,
       "direction": "down"
     }
   ],

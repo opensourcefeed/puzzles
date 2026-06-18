@@ -4,44 +4,72 @@
   "title": "2027-02-27",
   "words": [
     {
-      "clue": "Tall feature on land formed by pushing earth upward",
-      "answer": "MOUNTAIN",
-      "row": 5,
-      "col": 0,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "All the bones that support your body together",
-      "answer": "SKELETON",
-      "row": 0,
+      "clue": "A mathematical statement that two expressions are equal",
+      "answer": "EQUATION",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat container with a handle, used with a broom to collect dirt",
+      "answer": "DUSTPAN",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large system of winds rotating around a center of low pressure",
+      "answer": "CYCLONE",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Very tiny living things you can only see with a microscope",
-      "answer": "BACTERIA",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Gripping tool used to hold and bend wire or small parts",
-      "answer": "PLIERS",
-      "row": 3,
+      "clue": "The scientific study of living organisms and their life processes",
+      "answer": "BIOLOGY",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Liquid squeezed from oranges",
-      "answer": "JUICE",
-      "row": 4,
-      "col": 2,
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, red fruit often used in salads and sauces",
+      "answer": "TOMATO",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The bending joint in the middle of your leg",
-      "answer": "KNEE",
-      "row": 8,
+      "clue": "A number that has exactly two different factors: itself and 1",
+      "answer": "PRIME",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
+      "row": 10,
       "col": 0,
       "direction": "across"
     }

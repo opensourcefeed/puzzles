@@ -4,72 +4,65 @@
   "title": "2027-04-26",
   "words": [
     {
-      "clue": "One thousand years is called this",
-      "answer": "MILLENNIUM",
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A specific characteristic that is passed from parents to offspring",
+      "answer": "TRAIT",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Jewelry worn around the wrist",
-      "answer": "BRACELET",
+      "clue": "A sweet, sticky food made by bees from flower nectar",
+      "answer": "HONEY",
       "row": 3,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Small furry animal that lives in a cage and runs on a wheel",
-      "answer": "HAMSTER",
-      "row": 5,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Large farm vehicle used to pull plows and equipment",
-      "answer": "TRACTOR",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Garden insect that makes a web",
-      "answer": "SPIDER",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Handle tool used to tighten or loosen nuts and bolts",
-      "answer": "WRENCH",
-      "row": 9,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where Hindus go to worship",
-      "answer": "TEMPLE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Small tool used to peel the skin off vegetables",
-      "answer": "PEELER",
+      "clue": "A container made of glass used for drinking",
+      "answer": "GLASS",
       "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Farm building where horses are kept",
-      "answer": "STABLE",
-      "row": 8,
-      "col": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Long padded seat usually placed against a wall",
-      "answer": "BENCH",
-      "row": 13,
+      "clue": "The hard, white structures that form the skeleton inside your body",
+      "answer": "BONES",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Data storage that is accessed over the internet rather than locally",
+      "answer": "CLOUD",
+      "row": 1,
       "col": 5,
       "direction": "across"
     }

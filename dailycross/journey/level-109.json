@@ -4,105 +4,112 @@
   "title": "Level 109",
   "words": [
     {
-      "clue": "You write on this with a marker",
-      "answer": "WHITEBOARD",
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
       "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "An instrument that uses lenses to make very small objects appear larger",
+      "answer": "MICROSCOPE",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A pair of speakers worn over the ears for listening to audio",
+      "answer": "HEADPHONES",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The ability to continue a physical activity for a long time",
+      "answer": "ENDURANCE",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Handheld device used to measure electrical current",
-      "answer": "MULTIMETER",
-      "row": 4,
+      "clue": "An organ behind the stomach that produces insulin",
+      "answer": "PANCREAS",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
+      "answer": "VOLCANO",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A line that touches a circle at exactly one point",
+      "answer": "TANGENT",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
+      "answer": "POTATO",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A slow-moving reptile with a hard shell on its back",
+      "answer": "TURTLE",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Long thin pasta dish with tomato sauce",
-      "answer": "SPAGHETTI",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The day that came before today",
-      "answer": "YESTERDAY",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling sure of yourself and your abilities",
-      "answer": "CONFIDENT",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The second month of the year",
-      "answer": "FEBRUARY",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Box that takes people up and down in a building",
-      "answer": "ELEVATOR",
-      "row": 14,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Device that converts paper documents into digital files",
-      "answer": "SCANNER",
+      "clue": "The opposite of flexible; not easily bent or changed",
+      "answer": "STIFF",
       "row": 0,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Knobbly tan root vegetable with a spicy flavor used in cooking",
-      "answer": "GINGER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Your female sibling",
-      "answer": "SISTER",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Scandinavian country with the city of Oslo and fjords",
-      "answer": "NORWAY",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Grain eaten for breakfast with milk",
-      "answer": "CEREAL",
-      "row": 8,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Fried potato strips served with burgers",
-      "answer": "FRIES",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The third month of the year",
-      "answer": "MARCH",
-      "row": 2,
-      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 19,
   "difficulty": "hard"
 }

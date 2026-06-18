@@ -4,112 +4,91 @@
   "title": "Level 95",
   "words": [
     {
-      "clue": "Large green and red fruit with seeds inside",
-      "answer": "WATERMELON",
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Orange and white striped clown fish made famous by a movie",
-      "answer": "CLOWNFISH",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who organizes and manages books in a library",
-      "answer": "LIBRARIAN",
-      "row": 4,
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Subject where you learn about countries and maps",
-      "answer": "GEOGRAPHY",
-      "row": 14,
-      "col": 1,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Round green vegetable that grows on a vine",
-      "answer": "ZUCCHINI",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A curved shape like a banana or the moon",
-      "answer": "CRESCENT",
-      "row": 1,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A coin that is worth twenty-five cents",
-      "answer": "QUARTER",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The booming sound you hear after lightning",
-      "answer": "THUNDER",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you glide on ice wearing blades on your feet",
-      "answer": "SKATING",
-      "row": 8,
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 1,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Scandinavian country with the city of Copenhagen",
-      "answer": "DENMARK",
-      "row": 10,
-      "col": 6,
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The number of points a team has in a game",
-      "answer": "SCORE",
+      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
+      "answer": "ORGANISM",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
       "row": 5,
-      "col": 9,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Long flat area of sand next to the ocean",
-      "answer": "BEACH",
-      "row": 2,
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The speed at which a piece of music is played",
+      "answer": "TEMPO",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Black and white striped animal like a horse",
-      "answer": "ZEBRA",
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
       "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Country with the Great Wall and the Forbidden City",
-      "answer": "CHINA",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The soft part of your face",
-      "answer": "CHEEK",
-      "row": 6,
-      "col": 12,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 12,
   "targetWords": 18,
-  "difficulty": "hard"
+  "difficulty": "medium"
 }

@@ -4,74 +4,67 @@
   "title": "2026-07-12",
   "words": [
     {
-      "clue": "A large area of land belonging to one country",
-      "answer": "TERRITORY",
-      "row": 7,
-      "col": 2,
+      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
+      "answer": "PROTRACTOR",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The middle day of the school week",
-      "answer": "WEDNESDAY",
-      "row": 6,
-      "col": 3,
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with four sides where opposite sides are equal",
-      "answer": "RECTANGLE",
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The display surface of a computer that shows images and text",
+      "answer": "SCREEN",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round flat shape with no corners or edges",
+      "answer": "CIRCLE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Yellow powder made by flowers",
+      "answer": "POLLEN",
       "row": 4,
       "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Australian animal that hops and has a pouch",
-      "answer": "KANGAROO",
-      "row": 9,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Building where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "One hundred years is called this",
-      "answer": "CENTURY",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Southeast Asian country with the city of Hanoi",
-      "answer": "VIETNAM",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Stringed instrument with six strings you strum or pluck",
-      "answer": "GUITAR",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Thick yellow dairy spread put on bread",
-      "answer": "BUTTER",
+      "clue": "A pale blue-green color, like water",
+      "answer": "AQUA",
       "row": 4,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The smallest particle of a chemical element that can exist",
+      "answer": "ATOM",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 30

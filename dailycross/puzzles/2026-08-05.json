@@ -4,67 +4,74 @@
   "title": "2026-08-05",
   "words": [
     {
-      "clue": "Fine hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who trains animals to behave or do tricks",
-      "answer": "TRAINER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The first month of the year",
-      "answer": "JANUARY",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Covered area attached to a house where you park your car",
-      "answer": "GARAGE",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet with beautiful rings made of ice and rock",
-      "answer": "SATURN",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Long padded seat usually placed against a wall",
-      "answer": "BENCH",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who watches over a building to keep it safe",
-      "answer": "GUARD",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who trains and prepares athletes for competitions",
-      "answer": "COACH",
-      "row": 3,
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tiny picture on your screen that opens an app when tapped",
-      "answer": "ICON",
-      "row": 1,
+      "clue": "A string instrument with a flat back, played by strumming or plucking",
+      "answer": "GUITAR",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The display surface of a computer that shows images and text",
+      "answer": "SCREEN",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where two people fight using their fists while wearing gloves",
+      "answer": "BOXING",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A fraction where the numerator equals the denominator, representing one whole",
+      "answer": "UNITY",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A solid shape with two parallel, identical polygonal bases and rectangular faces",
+      "answer": "PRISM",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A long seat where players sit when they are not on the field",
+      "answer": "BENCH",
+      "row": 4,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "The opposite of easy; requiring great effort",
+      "answer": "HARD",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 54

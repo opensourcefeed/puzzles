@@ -4,53 +4,74 @@
   "title": "2027-01-11",
   "words": [
     {
-      "clue": "Floating transparent ocean creature with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 2,
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Person who studies marine biology and ocean life",
-      "answer": "BIOLOGIST",
-      "row": 1,
-      "col": 6,
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
+      "row": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Jewelry hung around the neck",
-      "answer": "NECKLACE",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "When a bone cracks or snaps from force or impact",
-      "answer": "FRACTURE",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Empire that once ruled modern-day Turkey and beyond",
-      "answer": "OTTOMAN",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very pleased after winning or succeeding",
-      "answer": "EXCITED",
+      "clue": "A very light purple color, like the flower",
+      "answer": "LAVENDER",
       "row": 7,
-      "col": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 10,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The child of your aunt or uncle",
-      "answer": "COUSIN",
-      "row": 0,
-      "col": 9,
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 7,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "A sweet tropical fruit with orange flesh and a large flat seed",
+      "answer": "MANGO",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of long; measuring a small distance from end to end",
+      "answer": "SHORT",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A desert animal with one or two humps on its back",
+      "answer": "CAMEL",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 213

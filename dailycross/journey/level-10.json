@@ -4,49 +4,42 @@
   "title": "Level 10",
   "words": [
     {
-      "clue": "Person who manages the money and accounts at a bank",
-      "answer": "BANKER",
-      "row": 4,
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The largest country in the world by area",
-      "answer": "RUSSIA",
-      "row": 4,
-      "col": 5,
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Soft gentle movement of cool air",
-      "answer": "BREEZE",
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
       "row": 4,
-      "col": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "European country with the city of Madrid",
-      "answer": "SPAIN",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Flat surface with four legs where you eat meals or work",
-      "answer": "TABLE",
+      "clue": "The largest planet in our solar system, known for its Great Red Spot",
+      "answer": "JUPITER",
       "row": 0,
-      "col": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Handheld device you use to call people and browse the internet",
-      "answer": "PHONE",
-      "row": 1,
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 10,
       "col": 2,
-      "direction": "down"
+      "direction": "across"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 5,
   "targetWords": 6,
   "difficulty": "easy"
 }

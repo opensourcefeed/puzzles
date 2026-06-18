@@ -4,67 +4,74 @@
   "title": "2027-02-19",
   "words": [
     {
-      "clue": "Wooden block used to store and organize kitchen knives",
-      "answer": "KNIFEBLOCK",
-      "row": 7,
+      "clue": "A long, narrow board with a padded surface used for ironing",
+      "answer": "IRONBOARD",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tall feature on land formed by pushing earth upward",
-      "answer": "MOUNTAIN",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Two or more atoms joined together",
-      "answer": "MOLECULE",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The twelfth and last month of the year",
-      "answer": "DECEMBER",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Country with the cities of Dublin and the Cliffs of Moher",
-      "answer": "IRELAND",
-      "row": 2,
+      "clue": "A plant that lives and grows for more than two years",
+      "answer": "PERENNIAL",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Machine that can create three-dimensional objects from digital files",
-      "answer": "PRINTER",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A narrow strip of land connecting two larger land masses",
-      "answer": "ISTHMUS",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot dry area with very little rain",
-      "answer": "DESERT",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Metal tool with sharp holes used to grate cheese",
-      "answer": "GRATER",
+      "clue": "A truck with an open bed that can be tilted to dump its load",
+      "answer": "DUMPTRUCK",
       "row": 0,
-      "col": 6,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Filled with wonder and admiration",
+      "answer": "AWESTRUCK",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A scientist who specializes in the study of plants",
+      "answer": "BOTANIST",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright yellow citrus fruit with a very sour taste",
+      "answer": "LEMON",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A steep, high rock face overlooking lower land or water",
+      "answer": "CLIFF",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The basic unit of time in music that you tap your foot to",
+      "answer": "BEAT",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of right; on the side that is toward the west when facing north",
+      "answer": "LEFT",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 252

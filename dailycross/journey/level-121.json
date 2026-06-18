@@ -4,126 +4,112 @@
   "title": "Level 121",
   "words": [
     {
-      "clue": "Your child's child in general",
-      "answer": "GRANDCHILD",
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
       "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Important substances in food like vitamins and minerals",
-      "answer": "NUTRIENTS",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The process of a planet spinning on its center line",
-      "answer": "ROTATION",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Vitamin found in oranges and lemons that helps prevent colds",
-      "answer": "VITAMINC",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Dangerous winter storm with heavy snow and strong winds",
-      "answer": "BLIZZARD",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Padded glove used to hold hot pots from the oven",
-      "answer": "OVENMITT",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who cleans and checks your teeth",
-      "answer": "DENTIST",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling that you want something very much",
-      "answer": "JEALOUS",
-      "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The person who teaches you in class",
-      "answer": "TEACHER",
-      "row": 11,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A large flat area of high land",
-      "answer": "PLATEAU",
+      "clue": "A person who conducts scientific research in a laboratory",
+      "answer": "SCIENTIST",
       "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Shop where fresh bread and pastries are made and sold",
-      "answer": "BAKERY",
-      "row": 8,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Country known for the Amazon jungle and Carnival festival",
-      "answer": "BRAZIL",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep narrow valley with steep rocky sides",
-      "answer": "CANYON",
-      "row": 3,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "The red wet part inside your mouth you taste with",
-      "answer": "TONGUE",
-      "row": 12,
       "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Baked food made from flour and water",
-      "answer": "BREAD",
-      "row": 10,
-      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Frozen water falling like rain",
-      "answer": "HAIL",
-      "row": 11,
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A very tall flower with a large yellow head that turns toward the sun",
+      "answer": "SUNFLOWER",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "No longer feeling worried or anxious",
+      "answer": "RELIEVED",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Red flower given as a symbol of love on Valentine's Day",
-      "answer": "ROSE",
-      "row": 1,
-      "col": 12,
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ that filters waste from your blood and produces urine",
+      "answer": "KIDNEY",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small string instrument played with a bow, held under the chin",
+      "answer": "VIOLIN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "One of the three main forms that matter can take",
+      "answer": "STATE",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opening in your face used for eating, speaking, and smiling",
+      "answer": "MOUTH",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The red liquid that circulates through your heart and blood vessels",
+      "answer": "BLOOD",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 15,
   "targetWords": 21,
   "difficulty": "hard"
 }

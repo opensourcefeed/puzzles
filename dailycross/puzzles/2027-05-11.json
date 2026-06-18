@@ -4,66 +4,73 @@
   "title": "2027-05-11",
   "words": [
     {
-      "clue": "Person who studies marine biology and ocean life",
-      "answer": "BIOLOGIST",
-      "row": 3,
+      "clue": "A brush with a handle and bristles used for cleaning teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The passing of genetic traits from parents to offspring",
+      "answer": "HEREDITY",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with six straight sides and six angles",
+      "answer": "HEXAGON",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The largest planet in our solar system, known for its Great Red Spot",
+      "answer": "JUPITER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling sad because of being alone or without company",
+      "answer": "LONELY",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A straight line connecting two points on the circumference of a circle",
+      "answer": "CHORD",
+      "row": 9,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The dense, bright central region of a galaxy",
+      "answer": "CORE",
+      "row": 9,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Country in West Africa with the city of Lagos",
-      "answer": "NIGERIA",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Scandinavian country with the city of Helsinki",
-      "answer": "FINLAND",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport played with a racket and a small yellow ball",
-      "answer": "TENNIS",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Brown vegetable that grows underground and is often fried",
-      "answer": "POTATO",
-      "row": 2,
+      "clue": "A white grain that is a staple food for many meals worldwide",
+      "answer": "RICE",
+      "row": 3,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The second planet from the sun, covered in thick clouds",
-      "answer": "VENUS",
-      "row": 7,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Animal people ride on farms and in races",
-      "answer": "HORSE",
-      "row": 2,
+      "clue": "A green plant that grows in damp, shady places and does not produce flowers",
+      "answer": "FERN",
+      "row": 5,
       "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat top of the stove with burners used for cooking",
-      "answer": "STOVE",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "High shoe that covers the ankle",
-      "answer": "BOOT",
-      "row": 0,
-      "col": 9,
       "direction": "down"
     }
   ],

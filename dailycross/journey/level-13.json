@@ -4,42 +4,49 @@
   "title": "Level 13",
   "words": [
     {
-      "clue": "Green leafy vegetable full of iron",
-      "answer": "SPINACH",
-      "row": 3,
+      "clue": "An instrument that uses lenses to make very small objects appear larger",
+      "answer": "MICROSCOPE",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The time halfway between noon and midnight",
-      "answer": "EVENING",
+      "clue": "Hopeful and confident, even in difficult situations",
+      "answer": "POSITIVE",
       "row": 0,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Lightweight aircraft with one small engine",
-      "answer": "GLIDER",
-      "row": 6,
-      "col": 3,
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A primate that lives in trees and swings from branch to branch",
+      "answer": "MONKEY",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Sweet sticky spread made by bees",
-      "answer": "HONEY",
+      "clue": "The opposite of flexible; not easily bent or changed",
+      "answer": "STIFF",
       "row": 3,
-      "col": 7,
-      "direction": "down"
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "Tool used to check if a surface is perfectly flat",
-      "answer": "LEVEL",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
+      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
+      "answer": "BERRY",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 7,
   "difficulty": "easy"
 }

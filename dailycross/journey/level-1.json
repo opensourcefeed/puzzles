@@ -4,38 +4,38 @@
   "title": "Level 1",
   "words": [
     {
-      "clue": "A flat shape with six sides like a honeycomb cell",
-      "answer": "HEXAGON",
-      "row": 4,
+      "clue": "A sweet, brown food made from roasted cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Season when flowers bloom and it gets warmer",
-      "answer": "SPRING",
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A huge collection of billions of stars in space",
-      "answer": "GALAXY",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
+      "clue": "A digital container for organizing files on a computer",
+      "answer": "FOLDER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "A high body temperature caused by fighting an infection",
-      "answer": "FEVER",
-      "row": 2,
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
+      "row": 0,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of big; of a size that is less than average",
+      "answer": "SMALL",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     }
   ],

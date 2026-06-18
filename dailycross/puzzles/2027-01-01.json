@@ -4,73 +4,66 @@
   "title": "2027-01-01",
   "words": [
     {
-      "clue": "Small red fruit eaten on cakes and ice cream",
-      "answer": "STRAWBERRY",
-      "row": 7,
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright, vivid pink color named after a flower",
+      "answer": "FUCHSIA",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A large area of land belonging to one country",
-      "answer": "TERRITORY",
-      "row": 6,
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sudden, brief storm with strong winds and often rain or snow",
+      "answer": "SQUALL",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Extra money you must pay when you borrow from a bank",
-      "answer": "INTEREST",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who builds roads, bridges and large structures",
-      "answer": "ENGINEER",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you hit a white ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Tight stretchy pants worn for sports",
-      "answer": "LEGGINGS",
-      "row": 5,
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who creates new music",
-      "answer": "COMPOSER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Screen attached to a computer that shows you what is happening",
-      "answer": "MONITOR",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of people all related to each other",
-      "answer": "FAMILY",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Organ that filters waste from your blood to make urine",
-      "answer": "KIDNEY",
-      "row": 1,
-      "col": 0,
+      "clue": "A musical term meaning to play loudly",
+      "answer": "FORTE",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     }
   ],

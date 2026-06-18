@@ -4,74 +4,60 @@
   "title": "2027-05-30",
   "words": [
     {
-      "clue": "Light fitting that hangs from the ceiling",
-      "answer": "CHANDELIER",
-      "row": 6,
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Device with a wheel used to open the lids of cans",
-      "answer": "CANOPENER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "South American country famous for the tango dance",
-      "answer": "ARGENTINA",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Orange and white striped clown fish made famous by a movie",
-      "answer": "CLOWNFISH",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where you can borrow books to read for free",
-      "answer": "LIBRARY",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The smallest and closest planet to the sun",
-      "answer": "MERCURY",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful arc of light in the sky after rain",
-      "answer": "RAINBOW",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A mixture of two metals melted together",
-      "answer": "ALLOY",
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
       "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Green soft plant that covers lawns",
-      "answer": "GRASS",
-      "row": 13,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "White grain cooked in water and eaten as a staple",
-      "answer": "RICE",
-      "row": 4,
-      "col": 0,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that lives and grows for more than two years",
+      "answer": "PERENNIAL",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling calm and not worried or tense",
+      "answer": "RELAXED",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The body part used for tasting food",
+      "answer": "TONGUE",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A woodwind instrument held sideways and played by blowing across a hole",
+      "answer": "FLUTE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A straight path that extends infinitely in both directions",
+      "answer": "LINE",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 352

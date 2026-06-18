@@ -4,105 +4,119 @@
   "title": "Level 141",
   "words": [
     {
-      "clue": "Long vehicle used to transport many children to school",
-      "answer": "SCHOOLBUS",
-      "row": 6,
-      "col": 3,
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The day that came before today",
-      "answer": "YESTERDAY",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape that is taller than it is wide, with four sides",
-      "answer": "RECTANGLE",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Turning around and around on a central point",
-      "answer": "ROTATION",
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
       "row": 5,
-      "col": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Sport where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The time of day just after you wake up",
-      "answer": "MORNING",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Brown vegetable that grows underground and is often fried",
-      "answer": "POTATO",
-      "row": 11,
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
+      "row": 10,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Very dark red like dried blood",
-      "answer": "MAROON",
-      "row": 0,
-      "col": 8,
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling sorry after making a mistake",
-      "answer": "GUILTY",
+      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
+      "answer": "WARDROBE",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The side or direction from which the wind is blowing",
+      "answer": "WINDWARD",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A woodwind instrument with a single reed and keys",
+      "answer": "CLARINET",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling calm and not worried or tense",
+      "answer": "RELAXED",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "answer": "PEACOCK",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling embarrassed or guilty about something",
+      "answer": "ASHAMED",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A tray on a desk used to hold incoming papers or documents",
+      "answer": "INBOX",
       "row": 2,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Long deep crack in the ground with steep walls",
-      "answer": "CANYON",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The second most populated country with the Taj Mahal",
-      "answer": "INDIA",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who watches over a building to keep it safe",
-      "answer": "GUARD",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that slides on snow pulled by dogs or horses",
-      "answer": "SLED",
-      "row": 10,
+      "clue": "A musical term meaning to play softly",
+      "answer": "PIANO",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A red raised mark on skin caused by rubbing or allergy",
-      "answer": "RASH",
-      "row": 10,
-      "col": 8,
+      "clue": "A small fruit with fuzzy brown skin and bright green flesh",
+      "answer": "KIWI",
+      "row": 8,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "A utensil with prongs used for picking up and eating food",
+      "answer": "FORK",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 16,
   "targetWords": 24,
   "difficulty": "hard"
 }

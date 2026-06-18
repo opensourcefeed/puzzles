@@ -4,98 +4,84 @@
   "title": "Level 62",
   "words": [
     {
-      "clue": "Round abrasive paper used to smooth rough wood",
-      "answer": "SANDPAPER",
-      "row": 7,
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "An electronic device that processes data and runs programs",
+      "answer": "COMPUTER",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A panel of keys used to type text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A large wild cat with orange fur and black stripes",
+      "answer": "TIGER",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that travels under the water",
-      "answer": "SUBMARINE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Large building where sick people go to be treated",
-      "answer": "HOSPITAL",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Building with tanks where you can see fish and sea creatures",
-      "answer": "AQUARIUM",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A substance taken to treat or prevent illness",
-      "answer": "MEDICINE",
+      "clue": "A large area of flat land with few trees",
+      "answer": "PLAIN",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Extra money you must pay when you borrow from a bank",
-      "answer": "INTEREST",
-      "row": 10,
-      "col": 4,
+      "clue": "The opposite of clean; untidy or dirty",
+      "answer": "MESSY",
+      "row": 6,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Large arena where sports teams play matches",
-      "answer": "STADIUM",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where you can borrow books to read for free",
-      "answer": "LIBRARY",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Website where you watch and share videos",
-      "answer": "YOUTUBE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Black and white bear from China",
-      "answer": "PANDA",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Microsoft program used to create spreadsheets",
-      "answer": "EXCEL",
+      "clue": "The opposite of flexible; not easily bent or changed",
+      "answer": "STIFF",
       "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Cool green herb used in toothpaste and chewing gum",
-      "answer": "MINT",
-      "row": 14,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Long brown plant that grows in underwater forests",
-      "answer": "KELP",
-      "row": 9,
-      "col": 9,
+      "col": 12,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 11,
   "targetWords": 13,
   "difficulty": "medium"
 }

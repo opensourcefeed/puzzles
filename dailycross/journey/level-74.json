@@ -4,84 +4,105 @@
   "title": "Level 74",
   "words": [
     {
-      "clue": "Very tall building found in city centers",
-      "answer": "SKYSCRAPER",
+      "clue": "A flat shape with twelve straight sides and twelve angles",
+      "answer": "DODECAGON",
       "row": 7,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "One thousand years is called this",
-      "answer": "MILLENNIUM",
-      "row": 3,
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Floating transparent ocean creature with stinging tentacles",
-      "answer": "JELLYFISH",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The eleventh month of the year",
-      "answer": "NOVEMBER",
-      "row": 12,
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 6,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 9,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A substance taken to treat or prevent illness",
-      "answer": "MEDICINE",
-      "row": 5,
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A green, pear-shaped fruit with a large pit inside",
+      "answer": "AVOCADO",
+      "row": 1,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Work your teacher gives you to do at home",
-      "answer": "HOMEWORK",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The early water stage of a frog before it grows legs",
-      "answer": "TADPOLE",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Organ that turns food into nutrients your body uses",
-      "answer": "STOMACH",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where you go to watch movies on a big screen",
-      "answer": "THEATER",
-      "row": 14,
-      "col": 3,
+      "clue": "Feeling embarrassed or guilty about something",
+      "answer": "ASHAMED",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Wide flat tool used to dig and move snow or earth",
-      "answer": "SHOVEL",
-      "row": 7,
-      "col": 0,
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
+      "row": 8,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Brown drink made from roasted beans",
-      "answer": "COFFEE",
-      "row": 1,
+      "clue": "The opposite of generous; lacking consideration for others",
+      "answer": "SELFISH",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 13,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The curved path of an object as it moves around another in space",
+      "answer": "ORBIT",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The side of your face between your eye and ear",
+      "answer": "CHEEK",
+      "row": 11,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large brass instrument with a deep, low sound",
+      "answer": "TUBA",
+      "row": 13,
+      "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 14,
   "targetWords": 15,
   "difficulty": "medium"
 }

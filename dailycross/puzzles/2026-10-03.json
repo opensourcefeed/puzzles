@@ -4,74 +4,67 @@
   "title": "2026-10-03",
   "words": [
     {
-      "clue": "A plastic card used to buy things now and pay later",
-      "answer": "CREDITCARD",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A place with equipment where scientists do experiments",
-      "answer": "LABORATORY",
+      "clue": "A truck with an open bed that can be tilted to dump its load",
+      "answer": "DUMPTRUCK",
       "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A very tall natural rise of land formed by rock",
-      "answer": "MOUNTAIN",
-      "row": 4,
-      "col": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Small furry animal that lives in a cage and runs on a wheel",
-      "answer": "HAMSTER",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Small tool used to peel the skin off vegetables",
-      "answer": "PEELER",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Hard protective layer at the tip of your fingers",
-      "answer": "NAILS",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Money you earn for each hour of work",
-      "answer": "WAGE",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The colored part of your eye",
-      "answer": "IRIS",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Shiny yellow color of a trophy",
-      "answer": "GOLD",
+      "clue": "A race in which runners must jump over barriers",
+      "answer": "HURDLES",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A piece of music sung or played as one work",
-      "answer": "SONG",
-      "row": 9,
-      "col": 7,
+      "clue": "The opposite of generous; lacking consideration for others",
+      "answer": "SELFISH",
+      "row": 4,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "answer": "METEOR",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who trains and directs a sports team",
+      "answer": "COACH",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "You use this to chew food",
+      "answer": "TEETH",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, sweet, brown fruit that grows on palm trees",
+      "answer": "DATE",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 113

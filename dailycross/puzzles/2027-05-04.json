@@ -4,73 +4,73 @@
   "title": "2027-05-04",
   "words": [
     {
-      "clue": "Person who travels to new places to discover and learn",
-      "answer": "EXPLORER",
-      "row": 5,
+      "clue": "The process by which plants use sunlight to make their own food",
+      "answer": "PHOTOSYNTH",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The passing of genetic traits from parents to offspring",
+      "answer": "HEREDITY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Australian animal that hops and has a pouch",
-      "answer": "KANGAROO",
+      "clue": "A two-wheeled vehicle that you ride by pushing pedals with your feet",
+      "answer": "BICYCLE",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "answer": "CANYON",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The set of black and white keys on a piano",
-      "answer": "KEYBOARD",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A closed loop that electricity flows around",
-      "answer": "CIRCUIT",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "These protect your eyes from sun and rain",
-      "answer": "EYELIDS",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Fastest land animal",
-      "answer": "CHEETAH",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Your male parent",
-      "answer": "FATHER",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "This is the current day you are living right now",
-      "answer": "TODAY",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Cloth worn over clothes to keep them clean while cooking",
-      "answer": "APRON",
-      "row": 8,
+      "clue": "A person who operates and controls a vehicle",
+      "answer": "DRIVER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The hard center of the Earth",
-      "answer": "CORE",
-      "row": 6,
+      "clue": "Plant tissue that carries food made in leaves to other parts",
+      "answer": "PHLOEM",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 4,
       "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing care and concern for others",
+      "answer": "CARING",
+      "row": 0,
+      "col": 8,
       "direction": "across"
     }
   ],

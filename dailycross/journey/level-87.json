@@ -4,77 +4,105 @@
   "title": "Level 87",
   "words": [
     {
-      "clue": "Light fitting that hangs from the ceiling",
-      "answer": "CHANDELIER",
-      "row": 6,
-      "col": 1,
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Small red fruit eaten on cakes and ice cream",
-      "answer": "STRAWBERRY",
-      "row": 4,
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A very tall flower with a large yellow head that turns toward the sun",
+      "answer": "SUNFLOWER",
+      "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Flash of electricity in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 5,
-      "col": 8,
+      "clue": "A panel of keys used to input text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A trained person who travels to space",
-      "answer": "ASTRONAUT",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling sure of yourself and your abilities",
-      "answer": "CONFIDENT",
-      "row": 0,
+      "clue": "A card with a student's name and photo used for identification",
+      "answer": "IDCARD",
+      "row": 10,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A pen with a broad tip used for writing on whiteboards",
+      "answer": "MARKER",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
+      "row": 4,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The outer coat of a seed that protects it",
-      "answer": "SEEDCOAT",
+      "clue": "A very dry area that receives very little rainfall",
+      "answer": "DESERT",
       "row": 0,
-      "col": 2,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Feeling deeply thankful for what someone did for you",
-      "answer": "GRATEFUL",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The first month of the year",
-      "answer": "JANUARY",
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
       "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
-      "row": 5,
+      "clue": "A large wild cat with orange fur and black stripes",
+      "answer": "TIGER",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A fine powder made by grinding wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain crop whose flour is used to make bread",
+      "answer": "WHEAT",
+      "row": 2,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with six sides like a honeycomb cell",
-      "answer": "HEXAGON",
-      "row": 12,
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
+      "row": 7,
       "col": 2,
-      "direction": "across"
+      "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 14,
   "targetWords": 17,
   "difficulty": "medium"
 }

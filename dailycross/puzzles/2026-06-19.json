@@ -4,67 +4,67 @@
   "title": "2026-06-19",
   "words": [
     {
-      "clue": "The part of a computer you can see and touch",
-      "answer": "HARDWARE",
-      "row": 2,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Huge deep trench in the ocean floor",
-      "answer": "TRENCH",
+      "clue": "An animal that feeds only on the flesh of other animals",
+      "answer": "CARNIVORE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
       "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who is traveling in a vehicle but not driving it",
+      "answer": "PASSENGER",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The distance across a circle passing through its center",
+      "answer": "DIAMETER",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A chemical change that produces one or more new substances",
+      "answer": "REACTION",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Country that bridges Europe and Asia with Istanbul",
-      "answer": "TURKEY",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where people stay overnight when traveling",
-      "answer": "HOTEL",
-      "row": 0,
-      "col": 4,
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 8,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Long padded seat usually placed against a wall",
-      "answer": "BENCH",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of fresh snow",
-      "answer": "WHITE",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A tiny picture on your screen that opens an app when tapped",
-      "answer": "ICON",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow vegetable that grows on a cob",
-      "answer": "CORN",
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
       "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Long metal fastener hammered into wood to join pieces",
-      "answer": "NAIL",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
+      "clue": "A large bowl or sink used for washing",
+      "answer": "BASIN",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 7

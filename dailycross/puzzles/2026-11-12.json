@@ -4,73 +4,66 @@
   "title": "2026-11-12",
   "words": [
     {
-      "clue": "A chart showing the relationships in a family going back in time",
-      "answer": "FAMILYTREE",
-      "row": 5,
-      "col": 0,
+      "clue": "An instrument used to measure atmospheric pressure",
+      "answer": "BAROMETER",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Feeling strong and full of energy",
-      "answer": "ENERGETIC",
-      "row": 3,
+      "clue": "A person who makes and repairs wooden objects and furniture",
+      "answer": "CARPENTER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Long wardrobe cabinet for hanging clothes",
-      "answer": "WARDROBE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The bony structure that supports your body",
-      "answer": "SKELETON",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "European country with the city of Brussels",
-      "answer": "BELGIUM",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Soft shoe worn indoors",
-      "answer": "SLIPPER",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Horizontal plank attached to a wall to hold books or objects",
-      "answer": "SHELF",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Large flow of water that runs to the sea",
-      "answer": "RIVER",
+      "clue": "A prediction or estimate of future weather conditions",
+      "answer": "FORECAST",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Soft orange fruit with a stone inside",
-      "answer": "PEACH",
-      "row": 11,
-      "col": 5,
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Shallow body of water in a garden",
-      "answer": "POND",
-      "row": 2,
+      "clue": "Feeling calm and not worried or tense",
+      "answer": "RELAXED",
+      "row": 0,
       "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A medical professional who diagnoses and treats illnesses",
+      "answer": "DOCTOR",
+      "row": 2,
+      "col": 14,
       "direction": "down"
     }
   ],

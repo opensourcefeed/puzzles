@@ -4,49 +4,56 @@
   "title": "Level 16",
   "words": [
     {
-      "clue": "The eighth and farthest planet from the sun",
-      "answer": "NEPTUNE",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Underground room below a house sometimes used for storage",
-      "answer": "CELLAR",
-      "row": 4,
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 2,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Area of land covered with many trees",
-      "answer": "FOREST",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Cookies baked with oats and raisins",
-      "answer": "COOKIE",
-      "row": 1,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Shaking from feeling very cold or being very scared",
-      "answer": "SHIVER",
-      "row": 3,
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who is trained in or good at sports",
+      "answer": "ATHLETE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who works on a farm growing crops and raising animals",
+      "answer": "FARMER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A form of energy that travels in waves and allows us to see",
+      "answer": "LIGHT",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Long padded seat usually placed against a wall",
-      "answer": "BENCH",
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
       "row": 4,
-      "col": 7,
-      "direction": "down"
+      "col": 8,
+      "direction": "across"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 7,
   "targetWords": 7,
   "difficulty": "easy"
 }

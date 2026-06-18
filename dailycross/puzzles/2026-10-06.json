@@ -4,74 +4,67 @@
   "title": "2026-10-06",
   "words": [
     {
-      "clue": "Holiday on December 25 when gifts are exchanged",
-      "answer": "CHRISTMAS",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who organizes and manages books in a library",
-      "answer": "LIBRARIAN",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Fine hairs above your eyes",
-      "answer": "EYEBROWS",
+      "clue": "A device that detects smoke and sounds an alarm",
+      "answer": "SMOKEALARM",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Room where you borrow books to read",
-      "answer": "LIBRARY",
-      "row": 0,
-      "col": 8,
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Small purple or blue wildflower found in meadows",
-      "answer": "VIOLET",
-      "row": 0,
-      "col": 5,
+      "clue": "The result obtained by dividing one number by another",
+      "answer": "QUOTIENT",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A woodwind instrument with a single reed and keys",
+      "answer": "CLARINET",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Flat dish used to serve a meal",
-      "answer": "PLATE",
-      "row": 1,
-      "col": 6,
+      "clue": "A scientist who studies plants and their growth",
+      "answer": "BOTANIST",
+      "row": 2,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Flat top of the stove with burners used for cooking",
-      "answer": "STOVE",
-      "row": 6,
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A push or pull that makes objects move or stop",
-      "answer": "FORCE",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep cut on the skin that bleeds and needs treatment",
-      "answer": "WOUND",
+      "clue": "How high or low a musical sound is",
+      "answer": "PITCH",
       "row": 11,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The flat area where a football match is played",
-      "answer": "FIELD",
-      "row": 4,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 116

@@ -4,77 +4,84 @@
   "title": "Level 99",
   "words": [
     {
-      "clue": "Creamy dip made from mashed avocado",
-      "answer": "GUACAMOLE",
-      "row": 2,
-      "col": 3,
+      "clue": "A folder on a computer where deleted files are temporarily stored",
+      "answer": "RECYCLEBIN",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The main processing chip inside a computer",
-      "answer": "PROCESSOR",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The first day of the weekend",
-      "answer": "SATURDAY",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Box used to carry a packed lunch to school",
-      "answer": "LUNCHBOX",
+      "clue": "The process by which plants use sunlight to make their own food",
+      "answer": "PHOTOSYNTH",
       "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The country that has London as its capital city",
-      "answer": "ENGLAND",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Thin layer of ice on roads and surfaces on cold mornings",
-      "answer": "FROST",
-      "row": 5,
-      "col": 6,
+      "clue": "A machine that automatically washes and dries dishes",
+      "answer": "DISHWASHER",
+      "row": 10,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "These are the white hard parts inside your mouth",
-      "answer": "TEETH",
+      "clue": "A person who makes and repairs wooden objects and furniture",
+      "answer": "CARPENTER",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A number that has more than two factors",
+      "answer": "COMPOSITE",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The soft part of your face",
-      "answer": "CHEEK",
-      "row": 2,
+      "clue": "A large reptile with very strong jaws that lives in rivers",
+      "answer": "CROCODILE",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who works in a library and helps people find books",
+      "answer": "LIBRARIAN",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A clickable element on a screen that triggers an action",
+      "answer": "BUTTON",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A regular, repeated pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Storage space directly under the roof of a house",
-      "answer": "ATTIC",
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
       "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Money you owe to someone else that you must pay back",
-      "answer": "DEBT",
-      "row": 8,
-      "col": 11,
+      "col": 8,
       "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 11,
   "targetWords": 18,
-  "difficulty": "hard"
+  "difficulty": "medium"
 }

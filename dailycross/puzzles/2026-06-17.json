@@ -4,74 +4,74 @@
   "title": "2026-06-17",
   "words": [
     {
-      "clue": "Very tiny living things you can only see with a microscope",
-      "answer": "BACTERIA",
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
       "row": 6,
-      "col": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person who creates new music",
-      "answer": "COMPOSER",
-      "row": 6,
-      "col": 3,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
-      "row": 6,
-      "col": 5,
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The fifth and largest planet from the sun",
-      "answer": "JUPITER",
+      "clue": "The sport of gliding on ice using ice skates",
+      "answer": "SKATING",
       "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape with four equal sides tilted at an angle",
-      "answer": "RHOMBUS",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Long period of very little or no rainfall",
-      "answer": "DROUGHT",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Long loose garment worn to bed",
-      "answer": "PAJAMAS",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Building where works of art are displayed for visitors",
-      "answer": "MUSEUM",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Japanese dish of rice and raw fish",
-      "answer": "SUSHI",
-      "row": 2,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "White fluffy shapes floating in the sky",
-      "answer": "CLOUD",
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
       "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A polygon where all interior angles are less than 180 degrees",
+      "answer": "CONVEX",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling safe, protected, and free from worry",
+      "answer": "SECURE",
+      "row": 12,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The many points of light visible in the night sky",
+      "answer": "STARS",
+      "row": 9,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 5

@@ -4,60 +4,74 @@
   "title": "2027-01-29",
   "words": [
     {
-      "clue": "Small round fish that puffs up when threatened",
-      "answer": "PUFFERFISH",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Vehicle that puts out fires with water",
-      "answer": "FIRETRUCK",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Long green vegetable related to the pumpkin",
-      "answer": "ZUCCHINI",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport where you surf waves in the ocean on a board",
-      "answer": "SURFING",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Tall chest with a mirror on top used for storing clothes",
-      "answer": "DRESSER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Island country in East Asia known for technology and night markets",
-      "answer": "TAIWAN",
-      "row": 9,
+      "clue": "The longest side of a right-angled triangle, opposite the right angle",
+      "answer": "HYPOTENUSE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Brown drink made from roasted beans",
-      "answer": "COFFEE",
-      "row": 1,
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A deep cut on the skin that bleeds and needs treatment",
-      "answer": "WOUND",
-      "row": 0,
-      "col": 5,
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
+      "row": 4,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "The opposite of deep; of little depth",
+      "answer": "SHALLOW",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest planet in our solar system and closest to the Sun",
+      "answer": "MERCURY",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of land that is completely surrounded by water",
+      "answer": "ISLAND",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of land covered with many trees",
+      "answer": "FOREST",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint in the middle of your arm that allows it to bend",
+      "answer": "ELBOW",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 231

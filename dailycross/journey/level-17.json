@@ -4,49 +4,56 @@
   "title": "Level 17",
   "words": [
     {
-      "clue": "A printed paper record showing how much you paid",
-      "answer": "RECEIPT",
-      "row": 5,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small adhesive strip used to cover a minor cut",
-      "answer": "BANDAID",
-      "row": 0,
+      "clue": "A sweet, brown food made from roasted cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Container with a lid and handle used to boil water for tea",
-      "answer": "KETTLE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Gripping tool used to hold and bend wire or small parts",
-      "answer": "PLIERS",
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
       "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that attracts iron and steel",
-      "answer": "MAGNET",
-      "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "This is the current day you are living right now",
-      "answer": "TODAY",
-      "row": 5,
-      "col": 6,
+      "clue": "A piece of land that is completely surrounded by water",
+      "answer": "ISLAND",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An electrical appliance that cleans floors by sucking up dirt",
+      "answer": "VACUUM",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A bulb vegetable with layers and a strong smell used in cooking",
+      "answer": "ONION",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A light purple-pink color, like the flower",
+      "answer": "LILAC",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 7,
   "targetWords": 7,
   "difficulty": "easy"
 }

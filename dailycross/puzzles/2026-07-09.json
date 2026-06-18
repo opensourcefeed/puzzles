@@ -4,66 +4,73 @@
   "title": "2026-07-09",
   "words": [
     {
-      "clue": "A plastic card used to buy things now and pay later",
-      "answer": "CREDITCARD",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You write on this with a marker",
-      "answer": "WHITEBOARD",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Person who inspects and repairs cars and engines",
-      "answer": "MECHANIC",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Room where you borrow books to read",
-      "answer": "LIBRARY",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Metal plates you crash together to make a loud sound",
-      "answer": "CYMBALS",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Place where a river meets and mixes with the sea",
-      "answer": "ESTUARY",
-      "row": 11,
+      "clue": "A series of games or contests with several rounds to find a winner",
+      "answer": "TOURNAMENT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Storage space directly under the roof of a house",
-      "answer": "ATTIC",
-      "row": 1,
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "White liquid you drink that comes from a cow",
-      "answer": "MILK",
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
       "row": 3,
-      "col": 8,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A straight line joining two opposite corners of a shape",
+      "answer": "DIAGONAL",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling deep sorrow, especially after a loss",
+      "answer": "GRIEVING",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of space inside the boundary of a flat shape",
+      "answer": "AREA",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A tree with needle-like leaves",
+      "answer": "PINE",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small green amphibian that jumps and lives near water",
+      "answer": "FROG",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A farm animal with horns and a beard under its chin",
+      "answer": "GOAT",
+      "row": 12,
+      "col": 3,
       "direction": "across"
     }
   ],

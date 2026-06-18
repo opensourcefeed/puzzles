@@ -4,45 +4,45 @@
   "title": "Level 7",
   "words": [
     {
-      "clue": "Round orange citrus fruit",
-      "answer": "ORANGE",
-      "row": 4,
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The colorful part of a plant that attracts bees and butterflies",
-      "answer": "PETAL",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Small mountain country between India and China",
-      "answer": "NEPAL",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "About thirty days long, there are twelve in a year",
-      "answer": "MONTH",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat dish used to serve a meal",
-      "answer": "PLATE",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Asian country known as the land of the rising sun",
-      "answer": "JAPAN",
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
       "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The display surface of a computer that shows images and text",
+      "answer": "SCREEN",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A fine powder made by grinding wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 1,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A large motor vehicle used for transporting goods by road",
+      "answer": "TRUCK",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of absorbent cloth used for drying after washing",
+      "answer": "TOWEL",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     }
   ],

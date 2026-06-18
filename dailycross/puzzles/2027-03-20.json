@@ -4,60 +4,74 @@
   "title": "2027-03-20",
   "words": [
     {
-      "clue": "A powerful instrument used to see distant stars and planets",
-      "answer": "TELESCOPE",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who travels to new places to discover and learn",
-      "answer": "EXPLORER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny floating organisms that form the base of the ocean food chain",
-      "answer": "PLANKTON",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Large gray animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Subject where you learn about events from the past",
-      "answer": "HISTORY",
+      "clue": "A brush with a handle and bristles used for cleaning teeth",
+      "answer": "TOOTHBRUSH",
       "row": 7,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "White soft food made from curdled milk",
-      "answer": "CHEESE",
-      "row": 0,
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A very light purple color, like the flower",
+      "answer": "LAVENDER",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of generous; lacking consideration for others",
+      "answer": "SELFISH",
+      "row": 7,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Handle tool used to tighten or loosen nuts and bolts",
-      "answer": "WRENCH",
-      "row": 2,
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
+      "row": 14,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Long-necked water bird that is usually white",
-      "answer": "SWAN",
-      "row": 2,
-      "col": 0,
+      "clue": "A race in which runners must jump over barriers",
+      "answer": "HURDLES",
+      "row": 9,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "A huge collection of stars, gas, and dust held together by gravity",
+      "answer": "GALAXY",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Drops of water that fall from clouds to the ground",
+      "answer": "RAIN",
+      "row": 9,
+      "col": 6,
+      "direction": "down"
     }
   ],
   "dayNumber": 281

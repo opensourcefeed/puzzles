@@ -4,140 +4,119 @@
   "title": "Level 132",
   "words": [
     {
-      "clue": "Dense tropical forest near the equator with heavy rain",
-      "answer": "RAINFOREST",
-      "row": 6,
-      "col": 2,
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Person who designs buildings and plans how they will be built",
-      "answer": "ARCHITECT",
-      "row": 5,
+      "clue": "An animal that feeds only on plants and plant material",
+      "answer": "HERBIVORE",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A young person between thirteen and nineteen years old",
-      "answer": "TEENAGER",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Room below the ground floor of a house",
-      "answer": "BASEMENT",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Work your teacher gives you to do at home",
-      "answer": "HOMEWORK",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Person who travels to new places to discover and learn",
-      "answer": "EXPLORER",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Decomposed plant matter mixed into soil to help plants grow",
-      "answer": "COMPOST",
-      "row": 7,
+      "clue": "A car used by police officers to patrol and respond to emergencies",
+      "answer": "POLICECAR",
+      "row": 10,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Spring holiday with Easter eggs and a bunny",
-      "answer": "EASTER",
-      "row": 4,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Folder where you keep your papers",
-      "answer": "BINDER",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Blood vessel that carries blood away from the heart",
-      "answer": "ARTERY",
-      "row": 6,
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 5,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Large vehicle that carries heavy goods on highways",
-      "answer": "TRUCK",
-      "row": 13,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very upset and wanting to shout",
-      "answer": "ANGRY",
-      "row": 11,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Soft fabric worn on your feet inside shoes",
-      "answer": "SOCKS",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "This is the current day you are living right now",
-      "answer": "TODAY",
+      "clue": "A number that is the product of a number multiplied by itself",
+      "answer": "SQUAREDO",
       "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Finding something funny or entertaining",
+      "answer": "AMUSED",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
+      "row": 13,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "The curved path a planet takes around the sun",
-      "answer": "ORBIT",
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
       "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Long padded seat usually placed against a wall",
-      "answer": "BENCH",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Small mountain country between India and China",
-      "answer": "NEPAL",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Long soft padded seat for several people in the living room",
-      "answer": "SOFA",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The shared money used in most countries in Europe",
-      "answer": "EURO",
-      "row": 7,
       "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A slow-moving reptile with a hard shell on its back",
+      "answer": "TURTLE",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "An electrical appliance that cleans floors by sucking up dirt",
+      "answer": "VACUUM",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 14,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 9,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with teeth used to untangle and smooth hair",
+      "answer": "COMB",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A farm animal with horns and a beard under its chin",
+      "answer": "GOAT",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 19,
+  "wordCount": 16,
   "targetWords": 23,
   "difficulty": "hard"
 }

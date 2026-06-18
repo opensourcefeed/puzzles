@@ -4,140 +4,119 @@
   "title": "Level 145",
   "words": [
     {
-      "clue": "Book with words and their meanings",
-      "answer": "DICTIONARY",
+      "clue": "An instrument that uses lenses to make very small objects appear larger",
+      "answer": "MICROSCOPE",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The complete path of water from ocean to sky and back",
-      "answer": "WATERCYCLE",
+      "clue": "An animal that feeds only on the flesh of other animals",
+      "answer": "CARNIVORE",
       "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Person who studies marine biology and ocean life",
-      "answer": "BIOLOGIST",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat cooked breakfast food made from batter",
-      "answer": "PANCAKE",
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
       "row": 6,
-      "col": 9,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Mineral in milk and cheese needed for strong bones",
-      "answer": "CALCIUM",
-      "row": 10,
-      "col": 8,
+      "clue": "The ability to continue a physical activity for a long time",
+      "answer": "ENDURANCE",
+      "row": 12,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Large arena where sports teams play matches",
-      "answer": "STADIUM",
-      "row": 13,
-      "col": 6,
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Wide flat tool used to dig and move snow or earth",
-      "answer": "SHOVEL",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Heavy headed tool used to bang nails into wood",
-      "answer": "HAMMER",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Worn on both hands to keep them warm in winter",
-      "answer": "GLOVES",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Stringed instrument with six strings you strum or pluck",
-      "answer": "GUITAR",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling like you want company because you have no one to talk to",
-      "answer": "LONELY",
-      "row": 2,
+      "clue": "A symbol, usually a letter, that represents an unknown number",
+      "answer": "VARIABLE",
+      "row": 0,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The sixth planet from the sun, almost as large as Jupiter",
-      "answer": "SATURN",
-      "row": 4,
-      "col": 6,
+      "clue": "A person who designs, builds, and maintains engines and machines",
+      "answer": "ENGINEER",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Wire tool used to beat eggs into a smooth mixture",
-      "answer": "WHISK",
-      "row": 8,
-      "col": 12,
+      "clue": "Hopeful and confident, even in difficult situations",
+      "answer": "POSITIVE",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, bright blue color like the sky on a clear day",
+      "answer": "SKYBLUE",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling confused because something is difficult to understand",
+      "answer": "PUZZLED",
+      "row": 4,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Black and white bear from China",
-      "answer": "PANDA",
-      "row": 0,
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 9,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A musical composition for a single instrument or voice",
+      "answer": "SONATA",
+      "row": 14,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The huge, empty area beyond Earth's atmosphere containing stars and planets",
+      "answer": "SPACE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A light purple-pink color, like the flower",
+      "answer": "LILAC",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The color of fresh cut grass",
-      "answer": "GREEN",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Neat row of low bushes forming a border or boundary",
-      "answer": "HEDGE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worn out after a long day of activity",
-      "answer": "TIRED",
+      "clue": "A small, narrow stream of water",
+      "answer": "CREEK",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "These are the white hard parts inside your mouth",
-      "answer": "TEETH",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Physical money in the form of coins and notes",
-      "answer": "CASH",
-      "row": 2,
+      "clue": "A clear, colorless liquid that all living things need to survive",
+      "answer": "WATER",
+      "row": 1,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     }
   ],
-  "wordCount": 19,
+  "wordCount": 16,
   "targetWords": 24,
   "difficulty": "hard"
 }

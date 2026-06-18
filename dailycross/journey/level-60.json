@@ -4,81 +4,81 @@
   "title": "Level 60",
   "words": [
     {
-      "clue": "Very tall building found in city centers",
-      "answer": "SKYSCRAPER",
-      "row": 5,
-      "col": 2,
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling strong and full of energy",
-      "answer": "ENERGETIC",
+      "clue": "A triangle with two sides of equal length",
+      "answer": "ISOSCELES",
       "row": 2,
-      "col": 7,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Box that takes people up and down in a building",
-      "answer": "ELEVATOR",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Your son's son",
-      "answer": "GRANDSON",
+      "clue": "A community of living organisms and their physical environment",
+      "answer": "ECOSYSTEM",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Tiny air sacs inside the lungs where gas exchange happens",
-      "answer": "ALVEOLI",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Flat cooked breakfast food made from batter",
-      "answer": "PANCAKE",
-      "row": 2,
-      "col": 1,
+      "clue": "The passing of genetic traits from parents to offspring",
+      "answer": "HEREDITY",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with eight sides like a stop sign",
-      "answer": "OCTAGON",
-      "row": 10,
-      "col": 6,
+      "clue": "A long, green vegetable with a crisp texture, often used in salads",
+      "answer": "CUCUMBER",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Machine with spinning blades used to blend smoothies and soups",
-      "answer": "BLENDER",
+      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
+      "answer": "PERCENT",
       "row": 0,
-      "col": 10,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Southeast Asian country with the city of Hanoi",
-      "answer": "VIETNAM",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Shellfish that produces a shiny pearl inside its shell",
-      "answer": "OYSTER",
+      "clue": "A device that stores chemical energy and converts it to electrical energy",
+      "answer": "BATTERY",
       "row": 3,
-      "col": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round flat shape",
-      "answer": "CIRCLE",
-      "row": 8,
+      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "answer": "PEACOCK",
+      "row": 9,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A perfectly round solid shape like a ball",
+      "answer": "SPHERE",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of big; of a size that is less than average",
+      "answer": "SMALL",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The two organs in your chest that help you breathe",
+      "answer": "LUNGS",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "wordCount": 11,

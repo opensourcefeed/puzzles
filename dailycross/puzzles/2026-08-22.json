@@ -4,73 +4,66 @@
   "title": "2026-08-22",
   "words": [
     {
-      "clue": "Small round fish that puffs up when threatened",
-      "answer": "PUFFERFISH",
-      "row": 4,
+      "clue": "The result obtained by subtracting one number from another",
+      "answer": "DIFFERENCE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Physical activity that keeps your body strong and fit",
-      "answer": "EXERCISE",
+      "clue": "A series of games or contests with several rounds to find a winner",
+      "answer": "TOURNAMENT",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
       "row": 4,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Open shoe worn in summer",
-      "answer": "SANDALS",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Huge deep trench in the ocean floor",
-      "answer": "TRENCH",
-      "row": 6,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Cooked meat in a round bun",
-      "answer": "BURGER",
-      "row": 3,
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 5,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The seventh planet from the sun which spins on its side",
-      "answer": "URANUS",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Country in the Middle East where Jerusalem is located",
-      "answer": "ISRAEL",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Water in the form of a gas or steam",
-      "answer": "VAPOR",
-      "row": 0,
-      "col": 5,
+      "clue": "An electronic device that processes data and runs programs",
+      "answer": "COMPUTER",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Large plant with a wooden trunk and branches",
-      "answer": "TREE",
-      "row": 8,
-      "col": 0,
+      "clue": "A sea creature with eight arms and a soft body",
+      "answer": "OCTOPUS",
+      "row": 11,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The seventh month of the year",
-      "answer": "JULY",
-      "row": 7,
-      "col": 6,
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A closed railroad car used for carrying freight",
+      "answer": "BOXCAR",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round flat shape with no corners or edges",
+      "answer": "CIRCLE",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     }
   ],

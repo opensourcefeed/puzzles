@@ -4,77 +4,84 @@
   "title": "Level 52",
   "words": [
     {
-      "clue": "A very large area of land such as Asia or Africa",
-      "answer": "CONTINENT",
+      "clue": "A machine that automatically washes and dries dishes",
+      "answer": "DISHWASHER",
       "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Australian animal that hops and has a pouch",
-      "answer": "KANGAROO",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Item you hold above your head to stay dry in rain",
-      "answer": "UMBRELLA",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You use these to cut paper in class",
-      "answer": "SCISSORS",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Sport of running long distances across a city",
-      "answer": "MARATHON",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Fine hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Injection that prevents you from catching a disease",
-      "answer": "VACCINE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A portable device for reading digital books",
-      "answer": "EREADER",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Cooked meat in a round bun",
-      "answer": "BURGER",
-      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Small stringed instrument you play with a bow",
-      "answer": "VIOLIN",
-      "row": 0,
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
+      "row": 4,
       "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An animal that eats both plants and other animals",
+      "answer": "OMNIVORE",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A four-sided shape with all sides equal in length",
+      "answer": "RHOMBUS",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The largest planet in our solar system, known for its Great Red Spot",
+      "answer": "JUPITER",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of brave; feeling fear or anxiety",
+      "answer": "AFRAID",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
+      "row": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who performs roles in plays, movies, or television",
+      "answer": "ACTOR",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that is bright and free of clouds or rain",
+      "answer": "CLEAR",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 11,
   "targetWords": 12,
   "difficulty": "medium"
 }

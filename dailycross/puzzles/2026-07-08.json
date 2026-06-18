@@ -4,67 +4,74 @@
   "title": "2026-07-08",
   "words": [
     {
-      "clue": "Small device you plug into a computer to store files",
-      "answer": "FLASHDRIVE",
-      "row": 6,
+      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
+      "answer": "SPACECRAFT",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Vehicle that travels under the water",
-      "answer": "SUBMARINE",
-      "row": 1,
+      "clue": "A person who creates and designs clothing and accessories",
+      "answer": "DESIGNER",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two arms used for drawing circles and arcs",
+      "answer": "COMPASS",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Vehicle used on a farm to pull heavy equipment",
-      "answer": "TRACTOR",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A brother or sister",
-      "answer": "SIBLING",
-      "row": 3,
-      "col": 4,
+      "clue": "A very fast-running bird that cannot fly",
+      "answer": "OSTRICH",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Spicy root used in Asian cooking",
-      "answer": "GINGER",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Small bag carried by women to hold their belongings",
-      "answer": "PURSE",
+      "clue": "A piece of furniture with drawers for storing items",
+      "answer": "CABINET",
       "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Extremely happy and excited",
+      "answer": "ELATED",
+      "row": 12,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Red fruit that keeps the doctor away",
-      "answer": "APPLE",
-      "row": 0,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "You sit at this to do your work",
-      "answer": "DESK",
-      "row": 7,
-      "col": 8,
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 9,
+      "col": 11,
       "direction": "down"
-    },
-    {
-      "clue": "You read stories printed in this",
-      "answer": "BOOK",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
     }
   ],
   "dayNumber": 26

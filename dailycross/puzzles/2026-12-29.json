@@ -4,73 +4,66 @@
   "title": "2026-12-29",
   "words": [
     {
-      "clue": "Dense tropical forest near the equator with heavy rain",
-      "answer": "RAINFOREST",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Tight stretchy pants worn for sports",
-      "answer": "LEGGINGS",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Box used to carry a packed lunch to school",
-      "answer": "LUNCHBOX",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Jewelry worn around the wrist",
-      "answer": "BRACELET",
-      "row": 5,
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Long green vegetable related to the pumpkin",
-      "answer": "ZUCCHINI",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The early water stage of a frog before it grows legs",
-      "answer": "TADPOLE",
-      "row": 7,
-      "col": 11,
+      "clue": "The result obtained by dividing one number by another",
+      "answer": "QUOTIENT",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Tall chest with a mirror on top used for storing clothes",
-      "answer": "DRESSER",
-      "row": 13,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Colorful part of a plant that attracts bees",
-      "answer": "FLOWER",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Protective head cover worn in sports like cycling",
-      "answer": "HELMET",
-      "row": 0,
+      "clue": "A substance made from two or more different elements chemically bonded",
+      "answer": "COMPOUND",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The area along the edge of the ocean where waves crash",
-      "answer": "SHORE",
-      "row": 1,
+      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
+      "answer": "STOMATA",
+      "row": 6,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A race in which runners must jump over barriers",
+      "answer": "HURDLES",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
+      "answer": "COCONUT",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A team sport where players kick a ball into the opposing team's goal",
+      "answer": "SOCCER",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A steep, high rock face overlooking lower land or water",
+      "answer": "CLIFF",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     }
   ],

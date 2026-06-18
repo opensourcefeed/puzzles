@@ -4,98 +4,105 @@
   "title": "Level 82",
   "words": [
     {
-      "clue": "Person who does experiments to learn how the world works",
-      "answer": "SCIENTIST",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Holiday celebrating Earth and the environment in April",
-      "answer": "EARTHDAY",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Outdoor cooking surface used to grill meat over fire",
-      "answer": "BARBECUE",
-      "row": 9,
+      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
+      "answer": "GEOLOGIST",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A substance that speeds up a chemical reaction",
-      "answer": "CATALYST",
-      "row": 0,
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Building where you can borrow books to read for free",
-      "answer": "LIBRARY",
+      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
+      "answer": "WARDROBE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
       "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Subject where you read and write stories and essays",
-      "answer": "ENGLISH",
-      "row": 2,
-      "col": 1,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Feeling able to wait calmly without getting upset",
-      "answer": "PATIENT",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Machine with spinning blades used to blend smoothies and soups",
-      "answer": "BLENDER",
-      "row": 12,
+      "clue": "A triangle with all three sides of different lengths",
+      "answer": "SCALENE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Dark green leafy vegetable rich in iron",
-      "answer": "SPINACH",
-      "row": 1,
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 0,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The seventh planet from the sun which spins on its side",
-      "answer": "URANUS",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Colorful part of a plant that attracts bees",
-      "answer": "FLOWER",
-      "row": 5,
-      "col": 0,
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Smooth creamy food made from milk",
-      "answer": "YOGURT",
-      "row": 14,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
+      "clue": "A machine that makes exact copies of documents on paper",
+      "answer": "COPIER",
       "row": 0,
-      "col": 4,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "To transfer data from a computer or device to the internet",
+      "answer": "UPLOAD",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 16,
   "difficulty": "medium"
 }

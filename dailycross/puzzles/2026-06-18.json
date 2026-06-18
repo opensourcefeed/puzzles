@@ -4,67 +4,67 @@
   "title": "2026-06-18",
   "words": [
     {
-      "clue": "Heavy cylinder rolled over dough to flatten it",
-      "answer": "ROLLINGPIN",
-      "row": 2,
+      "clue": "A vehicle with skis and tracks designed for traveling on snow",
+      "answer": "SNOWMOBILE",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A part of a line that has two distinct endpoints",
+      "answer": "SEGMENT",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A black and white bird that lives in cold oceans and cannot fly",
+      "answer": "PENGUIN",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The day that comes after today",
-      "answer": "TOMORROW",
-      "row": 1,
-      "col": 1,
+      "clue": "A breakfast food made from processed grains, often eaten with milk",
+      "answer": "CEREAL",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Green leafy vegetable full of iron",
-      "answer": "SPINACH",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that attracts iron and steel",
-      "answer": "MAGNET",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The soft part of your face",
-      "answer": "CHEEK",
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
       "row": 6,
-      "col": 7,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "The fan-shaped area where a river spreads out before the sea",
-      "answer": "DELTA",
-      "row": 0,
-      "col": 3,
+      "clue": "A group of singers who perform together",
+      "answer": "CHOIR",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Long thin instrument you blow across the top of to make music",
-      "answer": "FLUTE",
+      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
+      "answer": "RULER",
       "row": 2,
-      "col": 10,
+      "col": 13,
       "direction": "down"
-    },
-    {
-      "clue": "The time just after the sun goes down",
-      "answer": "DUSK",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Mist that makes it hard to see in the morning",
-      "answer": "FOG",
-      "row": 2,
-      "col": 10,
-      "direction": "across"
     }
   ],
   "dayNumber": 6

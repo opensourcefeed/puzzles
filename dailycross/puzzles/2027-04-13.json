@@ -4,67 +4,60 @@
   "title": "2027-04-13",
   "words": [
     {
-      "clue": "Bright blue-green color of tropical water",
-      "answer": "TURQUOISE",
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "All the bones that support your body together",
-      "answer": "SKELETON",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with four equal sides tilted at an angle",
-      "answer": "RHOMBUS",
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
       "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Decomposed plant matter mixed into soil to help plants grow",
-      "answer": "COMPOST",
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
       "row": 2,
-      "col": 5,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Country between France and Spain with the Pyrenees mountains",
-      "answer": "ANDORRA",
-      "row": 9,
+      "clue": "A place where ships are built, repaired, and maintained",
+      "answer": "DOCKYARD",
+      "row": 2,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The smallest coin worth only one cent",
-      "answer": "PENNY",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The planet we live on",
-      "answer": "EARTH",
-      "row": 0,
-      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The five small parts at the end of your foot",
-      "answer": "TOES",
-      "row": 5,
+      "clue": "The part of a flower's stamen that produces and holds pollen",
+      "answer": "ANTHER",
+      "row": 10,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The time just after the sun goes down",
-      "answer": "DUSK",
-      "row": 7,
-      "col": 3,
+      "clue": "A portable device with a touch screen, larger than a phone",
+      "answer": "TABLET",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, lens-shaped dried seed often used in soups and stews",
+      "answer": "LENTIL",
+      "row": 6,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "A round vegetable with layers and a strong, sharp smell",
+      "answer": "ONION",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     }
   ],
   "dayNumber": 305
