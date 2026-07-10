@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Word Plant",
+  "name": "Word Plant - Find the Hidden Word",
+  "description": "Discover the hidden word in Word Plant puzzle and grow a tree. Improve your memory and analytical skill in this exciting game.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -16,10 +17,25 @@
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "logo192-maskable.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/puzzles/word-plant-practice/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "orientation": "portrait",
+  "theme_color": "#8cc32a",
+  "background_color": "#8cc32a",
+  "categories": ["games", "puzzle", "word"],
+  "lang": "en"
 }
