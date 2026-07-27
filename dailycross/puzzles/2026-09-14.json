@@ -4,73 +4,66 @@
   "title": "2026-09-14",
   "words": [
     {
-      "clue": "Musical instruments that produce sound by being struck or shaken",
-      "answer": "PERCUSSION",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
-      "answer": "PENINSULA",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who repairs and maintains vehicles and machinery",
-      "answer": "MECHANIC",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
-      "answer": "DECIMAL",
-      "row": 6,
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Calm, peaceful, and untroubled",
-      "answer": "SERENE",
+      "clue": "Feeling bored and unhappy about a lack of activity",
+      "answer": "RESTLESS",
       "row": 4,
-      "col": 7,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A card with a student's name and photo used for identification",
-      "answer": "IDCARD",
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
       "row": 4,
-      "col": 9,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Feeling satisfaction and pleasure from one's own achievements",
-      "answer": "PROUD",
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
       "row": 8,
-      "col": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A short green plant that covers lawns and fields",
-      "answer": "GRASS",
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A very pale pink color, like a flushed cheek",
-      "answer": "BLUSH",
-      "row": 10,
-      "col": 2,
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The opposite of light; weighing a lot",
-      "answer": "HEAVY",
-      "row": 5,
-      "col": 1,
+      "clue": "A very intelligent and playful ocean mammal",
+      "answer": "DOLPHIN",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A dwarf planet in our solar system that was once considered the ninth planet",
+      "answer": "PLUTO",
+      "row": 8,
+      "col": 10,
       "direction": "down"
     }
   ],

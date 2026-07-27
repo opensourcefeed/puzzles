@@ -4,74 +4,67 @@
   "title": "2027-02-01",
   "words": [
     {
-      "clue": "An instrument used to measure wind speed",
-      "answer": "ANEMOMETER",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
-      "answer": "GASGIANT",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The spinning motion of a planet around its own axis",
-      "answer": "ROTATION",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A round green vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
       "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of open; not open or allowing access",
-      "answer": "CLOSED",
-      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A container with a spout and handle used for boiling water",
-      "answer": "KETTLE",
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
       "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where ships are built, repaired, and maintained",
+      "answer": "DOCKYARD",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A boat or ship that carries passengers and vehicles across a body of water",
+      "answer": "FERRY",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The huge, empty area beyond Earth's atmosphere containing stars and planets",
+      "answer": "SPACE",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "An area of open land used for playing sports",
+      "answer": "FIELD",
+      "row": 0,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 2,
+      "clue": "A long seat where players sit when they are not on the field",
+      "answer": "BENCH",
+      "row": 1,
       "col": 1,
       "direction": "down"
-    },
-    {
-      "clue": "A clear, colorless liquid that all living things need to survive",
-      "answer": "WATER",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "White frozen crystals that fall from clouds in cold weather",
-      "answer": "SNOW",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "dayNumber": 234

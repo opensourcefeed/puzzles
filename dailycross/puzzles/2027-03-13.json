@@ -4,67 +4,67 @@
   "title": "2027-03-13",
   "words": [
     {
-      "clue": "A scientist who studies matter, energy, and their interactions",
-      "answer": "PHYSICIST",
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
       "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who uses their voice to produce musical sounds",
-      "answer": "SINGER",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Greatly surprised or impressed",
-      "answer": "AMAZED",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The fold of skin that covers and protects each eye",
-      "answer": "EYELID",
-      "row": 0,
-      "col": 7,
+      "clue": "Weather with a gentle breeze and comfortable temperature",
+      "answer": "PLEASANT",
+      "row": 1,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A polygon where all interior angles are less than 180 degrees",
-      "answer": "CONVEX",
-      "row": 2,
+      "clue": "A person who designs, builds, and maintains engines and machines",
+      "answer": "ENGINEER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
+      "row": 10,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
-      "answer": "RULER",
-      "row": 0,
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 7,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your hand to your forearm",
-      "answer": "WRIST",
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of full; containing nothing",
+      "answer": "EMPTY",
       "row": 0,
-      "col": 9,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The part of a plant that grows underground",
-      "answer": "ROOT",
+      "clue": "The sweet liquid inside a fruit or plant",
+      "answer": "JUICE",
       "row": 0,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The basic unit of time in music that you tap your foot to",
-      "answer": "BEAT",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 274

@@ -4,66 +4,73 @@
   "title": "2026-06-15",
   "words": [
     {
-      "clue": "The number above the line in a fraction, showing how many parts are taken",
-      "answer": "NUMERATOR",
-      "row": 3,
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
-      "answer": "CARRIAGE",
-      "row": 2,
-      "col": 5,
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
+      "row": 6,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A property of a shape that can be divided into two identical halves",
-      "answer": "SYMMETRY",
-      "row": 1,
-      "col": 2,
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with nine straight sides and nine angles",
-      "answer": "NONAGON",
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A form of energy that travels in waves and allows us to see",
+      "answer": "LIGHT",
       "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ in your abdomen that breaks down food after you swallow",
-      "answer": "STOMACH",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A software application used to access and view websites",
-      "answer": "BROWSER",
-      "row": 5,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of big; of a size that is less than average",
+      "answer": "SMALL",
+      "row": 10,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The amount of three-dimensional space an object occupies",
-      "answer": "VOLUME",
-      "row": 0,
+      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
+      "answer": "MEDAL",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of maps in book form",
+      "answer": "ATLAS",
+      "row": 8,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Yellow powder made by flowers",
-      "answer": "POLLEN",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
+      "clue": "A blue-green color, like the color of a duck's feathers",
+      "answer": "TEAL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "A small carpet used as a floor covering",
-      "answer": "RUG",
-      "row": 7,
-      "col": 2,
+      "clue": "The beginning stage of many plants",
+      "answer": "SEED",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],

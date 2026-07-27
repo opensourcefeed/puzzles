@@ -4,73 +4,73 @@
   "title": "2026-06-23",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
-      "answer": "MOTORCYCLE",
-      "row": 5,
-      "col": 1,
+      "clue": "A folder on a computer where deleted files are temporarily stored",
+      "answer": "RECYCLEBIN",
+      "row": 7,
+      "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "An instrument used to measure atmospheric pressure",
-      "answer": "BAROMETER",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
     },
     {
       "clue": "A place where ships are built, repaired, and maintained",
       "answer": "DOCKYARD",
-      "row": 3,
-      "col": 8,
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A polygon where all interior angles are less than 180 degrees",
-      "answer": "CONVEX",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
+      "clue": "A sudden, heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
     },
     {
-      "clue": "The longest finger in the middle of your hand",
-      "answer": "MIDDLE",
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
       "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that converts electrical signals into sound",
+      "answer": "SPEAKER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Three or more musical notes played together at the same time",
-      "answer": "CHORD",
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 8,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
       "row": 2,
       "col": 8,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Feeling in need of rest or sleep",
-      "answer": "TIRED",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Information processed or stored by a computer",
-      "answer": "DATA",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The beginning stage of many plants",
-      "answer": "SEED",
+      "clue": "A person who bakes bread, cakes, and other baked goods",
+      "answer": "BAKER",
       "row": 0,
-      "col": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling unhappy when something doesn't go as planned",
+      "answer": "UPSET",
+      "row": 5,
+      "col": 10,
       "direction": "down"
     }
   ],

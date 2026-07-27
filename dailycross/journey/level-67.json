@@ -4,84 +4,105 @@
   "title": "Level 67",
   "words": [
     {
-      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
-      "answer": "MICROWAVE",
-      "row": 7,
-      "col": 0,
+      "clue": "A video call made over the internet",
+      "answer": "VIDEOCALL",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A small piece of bent wire used to hold papers together",
-      "answer": "PAPERCLIP",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A book containing information and lessons for a particular school subject",
-      "answer": "TEXTBOOK",
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
       "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
-      "row": 3,
-      "col": 3,
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A climbing plant that grows green peas in pods",
-      "answer": "PEAVINE",
-      "row": 3,
-      "col": 1,
+      "clue": "A black and white bird that lives in cold oceans and cannot fly",
+      "answer": "PENGUIN",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that fastens sheets of paper together with staples",
+      "answer": "STAPLER",
+      "row": 12,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
-      "answer": "POTATO",
-      "row": 5,
-      "col": 1,
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 9,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The place where a river or stream begins its journey",
-      "answer": "SOURCE",
-      "row": 11,
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge collection of stars, gas, and dust held together by gravity",
+      "answer": "GALAXY",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, orange citrus fruit with a sweet taste",
+      "answer": "ORANGE",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of a ripe banana or the sun",
+      "answer": "YELLOW",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "An unmanned spacecraft sent to explore and gather information in space",
+      "answer": "PROBE",
+      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large, round object in space that orbits a star",
-      "answer": "PLANET",
-      "row": 14,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A storm with thunder, lightning, and usually heavy rain",
-      "answer": "STORM",
-      "row": 3,
+      "clue": "The wire used to charge a phone or connect devices",
+      "answer": "CABLE",
+      "row": 2,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A musical term meaning to play softly",
-      "answer": "PIANO",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The finger next to your thumb, used for pointing",
-      "answer": "INDEX",
-      "row": 9,
-      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "The vehicle astronauts use to walk on the Moon",
+      "answer": "ROVER",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 14,
   "targetWords": 14,
   "difficulty": "medium"
 }

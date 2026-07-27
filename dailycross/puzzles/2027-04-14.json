@@ -4,60 +4,74 @@
   "title": "2027-04-14",
   "words": [
     {
-      "clue": "A small piece of bent wire used to hold papers together",
-      "answer": "PAPERCLIP",
-      "row": 1,
+      "clue": "Musical instruments that produce sound by being struck or shaken",
+      "answer": "PERCUSSION",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A container used to carry a packed meal to school",
-      "answer": "LUNCHBOX",
-      "row": 1,
-      "col": 6,
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
-      "answer": "SCOOTER",
-      "row": 4,
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "answer": "METEOR",
+      "row": 5,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 0,
-      "col": 1,
+      "clue": "Weather that feels damp and has a lot of moisture in the air",
+      "answer": "HUMID",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A thin stick of graphite in wood, used for writing on paper",
-      "answer": "PENCIL",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The darkest color, like coal or the night sky",
-      "answer": "BLACK",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing strong displeasure about something unfair",
-      "answer": "ANGRY",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your foot to your lower leg",
-      "answer": "ANKLE",
-      "row": 5,
+      "clue": "A black and white bear that eats bamboo",
+      "answer": "PANDA",
+      "row": 3,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A game or contest between two players or teams",
+      "answer": "MATCH",
+      "row": 10,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A sticky substance used to join paper or other materials together",
+      "answer": "GLUE",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport played on horseback where players try to score goals with a mallet",
+      "answer": "POLO",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 306

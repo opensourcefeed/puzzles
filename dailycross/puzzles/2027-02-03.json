@@ -4,59 +4,52 @@
   "title": "2027-02-03",
   "words": [
     {
-      "clue": "A pair of speakers worn over the ears for listening to audio",
-      "answer": "HEADPHONES",
-      "row": 2,
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A container used to carry a packed meal to school",
-      "answer": "LUNCHBOX",
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A small bushy-tailed animal that collects and stores nuts",
-      "answer": "SQUIRREL",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The amount of rain that falls over a period of time",
-      "answer": "RAINFALL",
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
       "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A book containing information and lessons for a particular school subject",
-      "answer": "TEXTBOOK",
-      "row": 1,
-      "col": 1,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 8,
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 3,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A part of a song that is repeated after each verse",
-      "answer": "CHORUS",
+      "clue": "A bird that was historically used to carry messages",
+      "answer": "PIGEON",
       "row": 1,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The symbol (÷) used to show that one number is being divided by another",
-      "answer": "DIVIDE",
-      "row": 2,
+      "clue": "The opposite of clean; covered or marked with dirt",
+      "answer": "DIRTY",
+      "row": 7,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A warm yellow-brown color, like the fossilized tree resin",
+      "answer": "AMBER",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     }
   ],

@@ -4,67 +4,74 @@
   "title": "2026-12-12",
   "words": [
     {
-      "clue": "The scientific study of stars, planets, and other objects in space",
-      "answer": "ASTRONOMY",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "An object placed into orbit around a planet to collect information or communicate",
-      "answer": "SATELLITE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
-      "answer": "SAXOPHONE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A symbol, usually a letter, that represents an unknown number",
-      "answer": "VARIABLE",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Hopeful and confident, even in difficult situations",
-      "answer": "POSITIVE",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A portable computer that folds flat for easy carrying",
-      "answer": "LAPTOP",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
-      "answer": "CRANE",
-      "row": 9,
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The name of our galaxy, which appears as a milky band across the night sky",
-      "answer": "MILKY",
-      "row": 5,
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 6,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A group of players who play together against another group",
-      "answer": "TEAM",
-      "row": 9,
-      "col": 7,
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
+      "row": 4,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep blue-purple color, like the plant used for dye",
+      "answer": "INDIGO",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that is bright and warm with lots of sunshine",
+      "answer": "SUNNY",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 183

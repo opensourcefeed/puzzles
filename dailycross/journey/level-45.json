@@ -4,84 +4,70 @@
   "title": "Level 45",
   "words": [
     {
-      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
-      "answer": "PROTRACTOR",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who studies matter, energy, and their interactions",
-      "answer": "PHYSICIST",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling kind and pleasant toward others",
-      "answer": "FRIENDLY",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-      "answer": "STOMATA",
-      "row": 4,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling resentful because of someone else's success or advantages",
-      "answer": "JEALOUS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright green color, like the precious gemstone",
-      "answer": "EMERALD",
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with four equal sides and four right angles",
-      "answer": "SQUARE",
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
       "row": 1,
-      "col": 12,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Calm, peaceful, and untroubled",
-      "answer": "SERENE",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that produces colorful, often scented blooms",
-      "answer": "FLOWER",
-      "row": 12,
-      "col": 7,
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A device that forwards data between computer networks",
-      "answer": "ROUTER",
-      "row": 0,
-      "col": 2,
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
+      "row": 3,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round flat shape with no corners or edges",
+      "answer": "CIRCLE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 9,
   "targetWords": 11,
   "difficulty": "medium"
 }

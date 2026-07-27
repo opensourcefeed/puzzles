@@ -4,112 +4,133 @@
   "title": "Level 109",
   "words": [
     {
-      "clue": "An electronic device that receives broadcast signals and displays moving images",
-      "answer": "TELEVISION",
-      "row": 7,
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An instrument that uses lenses to make very small objects appear larger",
-      "answer": "MICROSCOPE",
-      "row": 2,
-      "col": 8,
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A pair of speakers worn over the ears for listening to audio",
-      "answer": "HEADPHONES",
-      "row": 10,
-      "col": 4,
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle equipped with equipment for fighting fires",
+      "answer": "FIRETRUCK",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 11,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A person who directs the performance of an orchestra or choir",
-      "answer": "CONDUCTOR",
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep, dark green color like the trees in a forest",
+      "answer": "FOREST",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The number of points earned by a player or team in a game",
+      "answer": "SCORE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain crop whose flour is used to make bread",
+      "answer": "WHEAT",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opening in your face used for eating, speaking, and smiling",
+      "answer": "MOUTH",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The ability to continue a physical activity for a long time",
-      "answer": "ENDURANCE",
-      "row": 4,
-      "col": 1,
+      "clue": "The opposite of right; on the side that is toward the west when facing north",
+      "answer": "LEFT",
+      "row": 8,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "An organ behind the stomach that produces insulin",
-      "answer": "PANCREAS",
-      "row": 5,
-      "col": 12,
+      "clue": "A small fruit with fuzzy brown skin and bright green flesh",
+      "answer": "KIWI",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A container used to carry a packed meal to school",
-      "answer": "LUNCHBOX",
+      "clue": "Not excited, nervous, or upset; peaceful",
+      "answer": "CALM",
       "row": 0,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A small, green or yellow bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 0,
-      "col": 1,
+      "clue": "A white grain that is a staple food for many meals worldwide",
+      "answer": "RICE",
+      "row": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
-      "answer": "VOLCANO",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
-      "answer": "POTATO",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The fold of skin that covers and protects each eye",
-      "answer": "EYELID",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A slow-moving reptile with a hard shell on its back",
-      "answer": "TURTLE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of flexible; not easily bent or changed",
-      "answer": "STIFF",
-      "row": 0,
+      "clue": "A group of three musicians performing together",
+      "answer": "TRIO",
+      "row": 11,
       "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 18,
   "targetWords": 19,
   "difficulty": "hard"
 }

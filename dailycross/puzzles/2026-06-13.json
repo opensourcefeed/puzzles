@@ -4,67 +4,74 @@
   "title": "2026-06-13",
   "words": [
     {
-      "clue": "Giving help and encouragement to others",
-      "answer": "SUPPORTIVE",
-      "row": 3,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The person who directs and leads an orchestra",
-      "answer": "CONDUCTOR",
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
       "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The opposite of honest; not truthful or trustworthy",
-      "answer": "DISHONEST",
-      "row": 2,
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A green, pear-shaped fruit with a large pit inside",
-      "answer": "AVOCADO",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that produces text and images on paper",
-      "answer": "PRINTER",
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
       "row": 10,
-      "col": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A bulb vegetable with layers and a strong smell used in cooking",
-      "answer": "ONION",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The hard, white structures that form the skeleton inside your body",
-      "answer": "BONES",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A sea creature with a hard shell, claws, and that walks sideways",
-      "answer": "CRAB",
-      "row": 0,
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
+      "row": 2,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The smallest particle of a chemical element that can exist",
-      "answer": "ATOM",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
+      "clue": "A person who cuts hair for a living",
+      "answer": "BARBER",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A boat or ship that carries passengers and vehicles across a body of water",
+      "answer": "FERRY",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A large string instrument played while seated, held between the knees",
+      "answer": "CELLO",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 1

@@ -4,66 +4,52 @@
   "title": "2027-02-08",
   "words": [
     {
-      "clue": "The longest side of a right-angled triangle, opposite the right angle",
-      "answer": "HYPOTENUSE",
-      "row": 4,
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A powerful explosion of a star at the end of its life cycle",
-      "answer": "SUPERNOVA",
-      "row": 3,
-      "col": 7,
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling worried or uneasy about what might happen",
-      "answer": "NERVOUS",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
-      "answer": "TSUNAMI",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who creates detailed technical drawings and plans",
-      "answer": "DRAFTER",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
-      "answer": "TUNDRA",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who trains and instructs athletes or sports teams",
-      "answer": "COACH",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
-      "answer": "BERRY",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The body part between your head and shoulders",
-      "answer": "NECK",
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
       "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when leaves change color and fall",
+      "answer": "AUTUMN",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round solid shape where every point on its surface is the same distance from its center",
+      "answer": "SPHERE",
+      "row": 4,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that produces colorful, often scented blooms",
+      "answer": "FLOWER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "answer": "CANYON",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     }
   ],

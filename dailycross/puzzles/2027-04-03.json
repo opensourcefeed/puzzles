@@ -4,73 +4,66 @@
   "title": "2027-04-03",
   "words": [
     {
-      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
-      "answer": "VOLLEYBALL",
-      "row": 4,
+      "clue": "A device that fastens sheets of paper together with staples",
+      "answer": "STAPLER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with twelve straight sides and twelve angles",
-      "answer": "DODECAGON",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of safe; likely to cause harm or injury",
-      "answer": "DANGEROUS",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
-      "answer": "SCOOTER",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A very light yellow color, like the top of milk",
-      "answer": "CREAM",
-      "row": 0,
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
+      "row": 5,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who performs roles in plays, movies, or television",
-      "answer": "ACTOR",
-      "row": 7,
-      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A solid shape with two parallel, identical polygonal bases and rectangular faces",
-      "answer": "PRISM",
+      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
+      "answer": "NEPTUNE",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep blue-purple color, like the plant used for dye",
+      "answer": "INDIGO",
       "row": 11,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A sport where players hit a small ball into holes using clubs",
-      "answer": "GOLF",
-      "row": 2,
-      "col": 3,
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round solid shape like a ball",
+      "answer": "SPHERE",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The main support of a plant",
+      "answer": "STEM",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant with many woody stems",
+      "answer": "BUSH",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     }
   ],

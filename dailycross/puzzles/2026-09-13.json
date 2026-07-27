@@ -4,74 +4,74 @@
   "title": "2026-09-13",
   "words": [
     {
-      "clue": "A flat shape with eleven straight sides and eleven angles",
-      "answer": "HENDECAGON",
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
       "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling sure of oneself and one's abilities",
-      "answer": "CONFIDENT",
-      "row": 3,
-      "col": 10,
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A folded piece of cardboard used to hold and organize loose papers",
+      "answer": "FOLDER",
+      "row": 2,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A tree that sheds all its leaves each autumn",
-      "answer": "DECIDUOUS",
-      "row": 3,
+      "clue": "A device that shows the time, usually hung on a wall or placed on a surface",
+      "answer": "CLOCK",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "To transfer data from the internet to a computer or device",
-      "answer": "DOWNLOAD",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The joint that connects your arm to your upper body",
-      "answer": "SHOULDER",
-      "row": 3,
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A person who owns or works on a ranch raising livestock",
-      "answer": "RANCHER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A slow-moving reptile with a hard shell on its back",
-      "answer": "TURTLE",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A place where water naturally flows out of the ground",
-      "answer": "SPRING",
-      "row": 0,
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 2,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot, liquid rock beneath the Earth's surface",
-      "answer": "MAGMA",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A fine powder made by grinding wheat, used for baking",
-      "answer": "FLOUR",
-      "row": 8,
-      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A farm animal with horns and a beard under its chin",
+      "answer": "GOAT",
+      "row": 10,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 93

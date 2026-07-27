@@ -4,77 +4,84 @@
   "title": "Level 43",
   "words": [
     {
-      "clue": "Hopeful and confident about the future",
-      "answer": "OPTIMISTIC",
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
       "row": 7,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A powerful tractor with a large blade for moving earth and rocks",
-      "answer": "BULLDOZER",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies living organisms and their life processes",
-      "answer": "BIOLOGIST",
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
       "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An athletic event where athletes jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A bag with straps worn on the back to carry books and school supplies",
-      "answer": "BACKPACK",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A document on the internet that can be viewed in a browser",
-      "answer": "WEBSITE",
-      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A light, bright blue color like the sky on a clear day",
-      "answer": "SKYBLUE",
-      "row": 1,
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A part of a whole number, written with a numerator and denominator",
+      "answer": "FRACTION",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 10,
-      "col": 2,
+      "clue": "A low area of land between hills or mountains, often with a river",
+      "answer": "VALLEY",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The body part used for tasting food",
+      "answer": "TONGUE",
+      "row": 9,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who leads and assists groups of tourists",
-      "answer": "GUIDE",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A small handheld device that moves the cursor on a computer screen",
-      "answer": "MOUSE",
-      "row": 10,
-      "col": 2,
-      "direction": "down"
+      "clue": "A deep, dark green color like the trees in a forest",
+      "answer": "FOREST",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

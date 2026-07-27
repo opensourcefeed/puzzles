@@ -4,60 +4,67 @@
   "title": "2027-02-17",
   "words": [
     {
-      "clue": "An electronic device that receives broadcast signals and displays moving images",
-      "answer": "TELEVISION",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling bitter or angry about unfair treatment",
-      "answer": "RESENTFUL",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A bus that takes children to and from school",
-      "answer": "SCHOOLBUS",
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
       "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of visible; unable to be seen",
-      "answer": "INVISIBLE",
-      "row": 8,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A bright blue color, like the precious gemstone",
-      "answer": "SAPPHIRE",
-      "row": 0,
+      "clue": "A person who creates and designs clothing and accessories",
+      "answer": "DESIGNER",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A team sport where players hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
+      "clue": "A container with a spout and handle used for boiling water",
+      "answer": "KETTLE",
       "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A leafy green vegetable commonly used as a base for salads",
-      "answer": "LETTUCE",
-      "row": 4,
-      "col": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The two organs in your chest that help you breathe",
-      "answer": "LUNGS",
-      "row": 10,
-      "col": 4,
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 5,
+      "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A low area of land between hills or mountains, often with a river",
+      "answer": "VALLEY",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
+      "answer": "BERRY",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Drops of water that fall from clouds to the ground",
+      "answer": "RAIN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 250

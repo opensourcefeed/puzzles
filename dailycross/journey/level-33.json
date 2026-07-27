@@ -4,70 +4,63 @@
   "title": "Level 33",
   "words": [
     {
-      "clue": "A person who creates and writes original music",
-      "answer": "COMPOSER",
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The small amount of water in the form of vapor in the air",
-      "answer": "MOISTURE",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
+      "clue": "A green, pear-shaped fruit with a large pit inside",
+      "answer": "AVOCADO",
       "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A board or area where student work is displayed for others to see",
-      "answer": "DISPLAY",
-      "row": 7,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A deep blue-purple color, like the plant used for dye",
-      "answer": "INDIGO",
+      "clue": "A vegetable with an orange root that grows underground",
+      "answer": "CARROT",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round solid shape where every point on its surface is the same distance from its center",
+      "answer": "SPHERE",
       "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A sport where players hit a ball over a net using rackets",
-      "answer": "TENNIS",
+      "clue": "A huge collection of stars, gas, and dust held together by gravity",
+      "answer": "GALAXY",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The land along the edge of an ocean or sea",
+      "answer": "COAST",
       "row": 11,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
+      "clue": "A healthcare professional who assists doctors and cares for patients",
+      "answer": "NURSE",
       "row": 1,
-      "col": 7,
+      "col": 5,
       "direction": "down"
-    },
-    {
-      "clue": "A railway carriage for carrying passengers",
-      "answer": "COACH",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A small device moved by hand to control the cursor on a screen",
-      "answer": "MOUSE",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 8,
   "targetWords": 9,
   "difficulty": "medium"
 }

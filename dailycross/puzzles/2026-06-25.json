@@ -4,67 +4,74 @@
   "title": "2026-06-25",
   "words": [
     {
-      "clue": "A reference book containing words and their meanings",
-      "answer": "DICTIONARY",
-      "row": 3,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sport involving exercises and routines requiring balance and strength",
-      "answer": "GYMNASTICS",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The ability to continue a physical activity for a long time",
-      "answer": "ENDURANCE",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep red-purple color, like the wine from the region",
-      "answer": "BURGUNDY",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A container for holding waste or garbage",
-      "answer": "TRASHCAN",
+      "clue": "A woodwind instrument with a single reed and keys",
+      "answer": "CLARINET",
       "row": 3,
-      "col": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
-      "row": 6,
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A primate that lives in trees and swings from branch to branch",
-      "answer": "MONKEY",
-      "row": 5,
-      "col": 10,
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A small, round fruit that grows in bunches on vines",
-      "answer": "GRAPE",
-      "row": 6,
+      "clue": "A clickable element on a screen that triggers an action",
+      "answer": "BUTTON",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round solid shape where every point on its surface is the same distance from its center",
+      "answer": "SPHERE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A grain crop whose flour is used to make bread",
-      "answer": "WHEAT",
-      "row": 1,
-      "col": 0,
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 0,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with a flat top, used for eating, working, or placing things",
+      "answer": "TABLE",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 13

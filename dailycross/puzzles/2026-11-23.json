@@ -4,73 +4,66 @@
   "title": "2026-11-23",
   "words": [
     {
-      "clue": "Filled with wonder and admiration",
-      "answer": "AWESTRUCK",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A number that has more than two factors",
-      "answer": "COMPOSITE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
-      "answer": "GASGIANT",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Involved and interested in something",
-      "answer": "ENGAGED",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing care and concern for others",
-      "answer": "CARING",
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
       "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The movement or change in position of an object",
-      "answer": "MOTION",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet tropical fruit with orange flesh and a large flat seed",
-      "answer": "MANGO",
-      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small flower with white petals and a yellow center, common in fields",
-      "answer": "DAISY",
-      "row": 8,
-      "col": 10,
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A group of musicians who play instruments together",
-      "answer": "BAND",
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
       "row": 5,
-      "col": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The body part used for smelling",
-      "answer": "NOSE",
-      "row": 8,
-      "col": 5,
+      "clue": "The point where two or more lines or edges meet",
+      "answer": "VERTEX",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The five horizontal lines on which music is written",
+      "answer": "STAFF",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the straight lines that form the boundary of a shape",
+      "answer": "SIDE",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     }
   ],

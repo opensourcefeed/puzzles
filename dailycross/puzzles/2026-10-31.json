@@ -4,73 +4,66 @@
   "title": "2026-10-31",
   "words": [
     {
-      "clue": "An instrument used to measure wind speed",
-      "answer": "ANEMOMETER",
-      "row": 5,
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A global network connecting millions of computers worldwide",
-      "answer": "INTERNET",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The combination of musical notes played together to produce a pleasing sound",
-      "answer": "HARMONY",
-      "row": 7,
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 1,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A thick, creamy food made by fermenting milk with bacteria",
-      "answer": "YOGURT",
-      "row": 4,
-      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The amount of three-dimensional space an object occupies",
-      "answer": "VOLUME",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Extremely happy and excited",
-      "answer": "ELATED",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A grain crop whose flour is used to make bread",
-      "answer": "WHEAT",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A steep, high rock face overlooking lower land or water",
-      "answer": "CLIFF",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A wireless networking technology that allows devices to connect to the internet",
-      "answer": "WIFI",
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
       "row": 0,
-      "col": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A straight line joining two opposite corners of a shape",
+      "answer": "DIAGONAL",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A medical professional who diagnoses and treats illnesses",
+      "answer": "DOCTOR",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A very light yellow color, like the top of milk",
+      "answer": "CREAM",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "To find and fix errors in a computer program",
+      "answer": "DEBUG",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     }
   ],

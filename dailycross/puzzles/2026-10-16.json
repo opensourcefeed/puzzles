@@ -4,67 +4,74 @@
   "title": "2026-10-16",
   "words": [
     {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 4,
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A scientist who specializes in the study of plants",
-      "answer": "BOTANIST",
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
       "row": 4,
-      "col": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A shape where every point on its boundary is the same distance from its center",
-      "answer": "CIRCULAR",
-      "row": 9,
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A telescope famous for taking pictures of distant galaxies, named after a scientist",
+      "answer": "HUBBLE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of absorbent cloth used for drying after washing",
+      "answer": "TOWEL",
+      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A low area of land between hills or mountains, often with a river",
-      "answer": "VALLEY",
+      "clue": "A thin cloud of tiny water droplets very close to the ground",
+      "answer": "MIST",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A part of a song that is repeated after each verse",
-      "answer": "CHORUS",
+      "clue": "The fourth planet from the Sun, known for its reddish color",
+      "answer": "MARS",
       "row": 5,
-      "col": 8,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A cup or other decorative object awarded as a prize for winning",
-      "answer": "TROPHY",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A device used to communicate with others over long distances",
-      "answer": "PHONE",
+      "clue": "A number that is exactly divisible by two",
+      "answer": "EVEN",
       "row": 0,
-      "col": 6,
+      "col": 2,
       "direction": "down"
-    },
-    {
-      "clue": "A person who trains and instructs athletes or sports teams",
-      "answer": "COACH",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
     }
   ],
   "dayNumber": 126

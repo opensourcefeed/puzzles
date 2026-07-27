@@ -4,91 +4,119 @@
   "title": "Level 100",
   "words": [
     {
-      "clue": "The movement of one object around another in an orbital path",
-      "answer": "REVOLUTION",
-      "row": 6,
-      "col": 1,
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A flying vehicle with rotating blades that can take off and land vertically",
-      "answer": "HELICOPTER",
-      "row": 4,
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 4,
-      "col": 7,
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather with a gentle breeze and comfortable temperature",
+      "answer": "PLEASANT",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A flat container with a handle, used with a broom to collect dirt",
-      "answer": "DUSTPAN",
-      "row": 0,
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 7,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A machine that produces text and images on paper from a computer",
-      "answer": "PRINTER",
-      "row": 3,
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A sudden, brief storm with strong winds and often rain or snow",
-      "answer": "SQUALL",
-      "row": 1,
-      "col": 8,
+      "clue": "A very dry area that receives very little rainfall",
+      "answer": "DESERT",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, curved yellow fruit with a soft inside",
+      "answer": "BANANA",
+      "row": 11,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A rodent that cuts down trees and builds dams in rivers",
-      "answer": "BEAVER",
-      "row": 8,
-      "col": 7,
+      "clue": "The season when leaves change color and fall",
+      "answer": "AUTUMN",
+      "row": 12,
+      "col": 1,
       "direction": "across"
     },
     {
       "clue": "A person who leads and assists groups of tourists",
       "answer": "GUIDE",
-      "row": 2,
-      "col": 2,
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A line or group of connected mountains forming a chain",
+      "answer": "RANGE",
+      "row": 10,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "An unmanned spacecraft sent to explore and gather information in space",
-      "answer": "PROBE",
+      "clue": "A series of connected vehicles that run on railway tracks",
+      "answer": "TRAIN",
       "row": 10,
-      "col": 5,
-      "direction": "across"
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "The action of pressing and releasing a mouse button",
-      "answer": "CLICK",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A fraction where the numerator equals the denominator, representing one whole",
-      "answer": "UNITY",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Three or more musical notes played together at the same time",
-      "answer": "CHORD",
-      "row": 8,
-      "col": 2,
+      "clue": "A large natural stream of water that flows across land",
+      "answer": "RIVER",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 16,
   "targetWords": 18,
   "difficulty": "medium"
 }

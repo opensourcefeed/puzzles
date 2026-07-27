@@ -4,91 +4,119 @@
   "title": "Level 94",
   "words": [
     {
-      "clue": "An instrument that uses lenses to make very small objects appear larger",
-      "answer": "MICROSCOPE",
+      "clue": "A pair of speakers worn over the ears for listening to audio",
+      "answer": "HEADPHONES",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A large tropical fruit with rough, spiky skin and sweet yellow flesh",
+      "answer": "PINEAPPLE",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that converts electrical signals into sound",
+      "answer": "SPEAKER",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright, vivid pinkish-purple color",
+      "answer": "MAGENTA",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
       "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A digital container for organizing files on a computer",
+      "answer": "FOLDER",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A vegetable with an orange root that grows underground",
+      "answer": "CARROT",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The wire used to charge a phone or connect devices",
+      "answer": "CABLE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of flat land with few trees",
+      "answer": "PLAIN",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of absorbent cloth used for drying after washing",
+      "answer": "TOWEL",
+      "row": 1,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long, thin animal that burrows underground and has no legs",
-      "answer": "EARTHWORM",
-      "row": 5,
-      "col": 3,
+      "clue": "A short green plant that covers lawns and fields",
+      "answer": "GRASS",
+      "row": 2,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A small device used to make a pencil point sharp",
-      "answer": "SHARPENER",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The tough outer layer that covers and protects a seed",
-      "answer": "SEEDCOAT",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The amount of moisture or water vapor present in the air",
-      "answer": "HUMIDITY",
-      "row": 13,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
-      "answer": "CONCAVE",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A large cloud of gas and dust in space where stars are born",
-      "answer": "NEBULA",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A thick, creamy food made by fermenting milk with bacteria",
-      "answer": "YOGURT",
+      "clue": "A small, round fruit that grows in bunches on vines",
+      "answer": "GRAPE",
       "row": 0,
-      "col": 9,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A medical professional who diagnoses and treats illnesses",
-      "answer": "DOCTOR",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Sounds arranged in a way that is pleasant to listen to",
-      "answer": "MUSIC",
-      "row": 3,
-      "col": 3,
+      "clue": "A device that produces light, usually with a shade or cover",
+      "answer": "LAMP",
+      "row": 2,
+      "col": 5,
       "direction": "across"
-    },
-    {
-      "clue": "A fine powder made by grinding wheat, used for baking",
-      "answer": "FLOUR",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 16,
   "targetWords": 17,
   "difficulty": "medium"
 }

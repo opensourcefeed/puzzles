@@ -4,74 +4,74 @@
   "title": "Level 40",
   "words": [
     {
-      "clue": "An insect with large, colorful wings that was once a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A small piece of bent wire used to hold papers together",
-      "answer": "PAPERCLIP",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with straight sides that form corners",
-      "answer": "POLYGON",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
-      "answer": "PERCENT",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a line that has two distinct endpoints",
-      "answer": "SEGMENT",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A container with a handle and spout for serving drinks",
-      "answer": "PITCHER",
-      "row": 5,
+      "clue": "A big pile of snow blown together by wind",
+      "answer": "SNOWDRIFT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bright streak of light in the sky caused by a space rock burning up",
-      "answer": "METEOR",
-      "row": 0,
-      "col": 12,
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
-      "answer": "HANGER",
-      "row": 9,
-      "col": 1,
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 8,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
-      "answer": "POTATO",
-      "row": 12,
-      "col": 7,
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 13,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "The path a spacecraft takes when it lifts off from Earth",
+      "answer": "LAUNCH",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that washes clothes automatically",
+      "answer": "WASHER",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "wordCount": 10,

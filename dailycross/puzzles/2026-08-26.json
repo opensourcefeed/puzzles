@@ -4,74 +4,74 @@
   "title": "2026-08-26",
   "words": [
     {
-      "clue": "A bright flash of light in the sky during a thunderstorm",
-      "answer": "LIGHTNING",
+      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "answer": "SAXOPHONE",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "answer": "METEOR",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark, earthy brown color, like the pigment",
+      "answer": "UMBER",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "To find and fix errors in a computer program",
+      "answer": "DEBUG",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small device used to make a pencil point sharp",
-      "answer": "SHARPENER",
-      "row": 4,
-      "col": 3,
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The outermost layer of Earth's atmosphere, where it meets space",
-      "answer": "EXOSPHERE",
+      "clue": "Feeling unhappy when something doesn't go as planned",
+      "answer": "UPSET",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling or showing respect and admiration",
-      "answer": "ADMIRING",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A long, green vegetable with a crisp texture, often used in salads",
-      "answer": "CUCUMBER",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
-      "answer": "TSUNAMI",
-      "row": 7,
+      "clue": "The amount of space inside the boundary of a flat shape",
+      "answer": "AREA",
+      "row": 0,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The combination of musical notes played together to produce a pleasing sound",
-      "answer": "HARMONY",
-      "row": 0,
-      "col": 5,
       "direction": "down"
-    },
-    {
-      "clue": "A very intelligent and playful ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A large bird with a long, colorful tail that it can fan out",
-      "answer": "PEACOCK",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
-      "answer": "RADISH",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
     }
   ],
   "dayNumber": 75

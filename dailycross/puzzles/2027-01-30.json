@@ -4,66 +4,66 @@
   "title": "2027-01-30",
   "words": [
     {
-      "clue": "A small container used to hold pencils, pens, and other writing tools",
-      "answer": "PENCILCASE",
-      "row": 3,
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
+      "answer": "NEPTUNE",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling deep sorrow, especially after a loss",
-      "answer": "GRIEVING",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
-      "answer": "GLACIER",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your arm between your elbow and your wrist",
-      "answer": "FOREARM",
+      "clue": "The season with the most snow and cold",
+      "answer": "WINTER",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A small, oval nut that grows underground and is used to make butter",
-      "answer": "PEANUT",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A thick, creamy food made by fermenting milk with bacteria",
-      "answer": "YOGURT",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A large ocean fish with many sharp teeth",
-      "answer": "SHARK",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Sounds arranged in a way that is pleasant to listen to",
-      "answer": "MUSIC",
+      "clue": "The opposite of hard; easy to press or shape",
+      "answer": "SOFT",
       "row": 3,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A tall grain plant with yellow kernels arranged on a cob",
-      "answer": "CORN",
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
       "row": 5,
-      "col": 9,
+      "col": 3,
       "direction": "down"
     }
   ],

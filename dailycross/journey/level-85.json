@@ -4,91 +4,98 @@
   "title": "Level 85",
   "words": [
     {
-      "clue": "A clock that makes a sound at a set time to wake someone up",
-      "answer": "ALARMCLOCK",
+      "clue": "A small electronic device used for mathematical calculations",
+      "answer": "CALCULATOR",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Hopeful and confident, even in difficult situations",
+      "answer": "POSITIVE",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
       "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The state of the atmosphere at a particular time and place",
+      "answer": "WEATHER",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of clothes worn by members of a team for their sport",
+      "answer": "UNIFORM",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies animals and their behavior",
-      "answer": "ZOOLOGIST",
-      "row": 6,
-      "col": 7,
+      "clue": "A regular, repeated pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 9,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 1,
+      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
-      "answer": "METEORITE",
+      "clue": "A warm yellow-brown color, like the fossilized tree resin",
+      "answer": "AMBER",
+      "row": 8,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of singers who perform together",
+      "answer": "CHOIR",
       "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "An Australian animal that hops and carries babies in a pouch",
-      "answer": "KANGAROO",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies plants and their growth",
-      "answer": "BOTANIST",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of generous; lacking consideration for others",
-      "answer": "SELFISH",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
-      "row": 14,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A short, fast race run at top speed",
-      "answer": "SPRINT",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The two organs in your chest that help you breathe",
-      "answer": "LUNGS",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "How high or low a musical sound is",
-      "answer": "PITCH",
-      "row": 3,
-      "col": 6,
+      "col": 4,
       "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 13,
   "targetWords": 16,
   "difficulty": "medium"
 }

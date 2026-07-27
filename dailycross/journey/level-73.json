@@ -4,98 +4,91 @@
   "title": "Level 73",
   "words": [
     {
-      "clue": "An insect with large, colorful wings that was once a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 6,
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Feeling sure of oneself and one's abilities",
-      "answer": "CONFIDENT",
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
       "row": 3,
-      "col": 9,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A large reptile with very strong jaws that lives in rivers",
-      "answer": "CROCODILE",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who helps students learn in a school",
-      "answer": "TEACHER",
-      "row": 9,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 2,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
+      "row": 2,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The opposite of brave; feeling fear or anxiety",
-      "answer": "AFRAID",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
+      "clue": "A woodwind instrument with a single reed and keys",
+      "answer": "CLARINET",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "A small, smooth stone worn by water over time",
-      "answer": "PEBBLE",
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
       "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The third planet from the Sun, where all known life exists",
-      "answer": "EARTH",
-      "row": 5,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Feeling in need of rest or sleep",
-      "answer": "TIRED",
-      "row": 11,
+      "clue": "A very fast-running bird that cannot fly",
+      "answer": "OSTRICH",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "PITCHER",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
+      "row": 0,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "The hard, white structures that form the skeleton inside your body",
-      "answer": "BONES",
-      "row": 9,
+      "clue": "A small, smooth stone worn by water over time",
+      "answer": "PEBBLE",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large keyboard instrument with black and white keys",
-      "answer": "PIANO",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny, loose grains of worn-down rock found on beaches and deserts",
-      "answer": "SAND",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport played on horseback where players try to score goals with a mallet",
-      "answer": "POLO",
-      "row": 0,
-      "col": 8,
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 6,
+      "col": 14,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 12,
   "targetWords": 15,
   "difficulty": "medium"
 }

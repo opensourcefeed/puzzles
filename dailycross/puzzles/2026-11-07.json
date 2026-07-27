@@ -4,74 +4,60 @@
   "title": "2026-11-07",
   "words": [
     {
-      "clue": "A scientist who studies stars, planets, and other objects in space",
-      "answer": "ASTRONOMER",
-      "row": 6,
-      "col": 2,
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies animals and their behavior",
-      "answer": "ZOOLOGIST",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A powerful explosion of a star at the end of its life cycle",
-      "answer": "SUPERNOVA",
+      "clue": "A small piece of paper with a strip of adhesive on the back for notes",
+      "answer": "STICKYNOTE",
       "row": 3,
-      "col": 10,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A person who directs the performance of an orchestra or choir",
-      "answer": "CONDUCTOR",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
-      "answer": "CONCAVE",
-      "row": 5,
-      "col": 8,
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A climbing plant that grows green peas in pods",
-      "answer": "PEAVINE",
+      "clue": "A four-sided shape with one pair of parallel sides",
+      "answer": "TRAPEZOID",
       "row": 11,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "White or gray masses of water droplets floating in the sky",
-      "answer": "CLOUDS",
-      "row": 1,
-      "col": 3,
+      "clue": "A person who leads a country or company",
+      "answer": "PRESIDENT",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
-      "row": 1,
-      "col": 0,
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A musical term meaning to play softly",
-      "answer": "PIANO",
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A narrow boat for one person, propelled by a double-bladed paddle",
-      "answer": "KAYAK",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
+      "clue": "An object that produces a magnetic field and attracts iron",
+      "answer": "MAGNET",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 148

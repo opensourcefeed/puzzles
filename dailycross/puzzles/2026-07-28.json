@@ -4,60 +4,53 @@
   "title": "2026-07-28",
   "words": [
     {
-      "clue": "To transfer data from the internet to a computer or device",
-      "answer": "DOWNLOAD",
-      "row": 4,
+      "clue": "A yellow flower that turns into a fluffy ball you blow to make a wish",
+      "answer": "DANDELION",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with six straight sides and six angles",
-      "answer": "HEXAGON",
-      "row": 1,
-      "col": 6,
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of riding a bicycle",
+      "answer": "CYCLING",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A four-sided shape with all sides equal in length",
+      "answer": "RHOMBUS",
       "row": 4,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A race in which runners must jump over barriers",
-      "answer": "HURDLES",
-      "row": 2,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
-      "answer": "CANYON",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant tissue that carries food made in leaves to other parts",
-      "answer": "PHLOEM",
+      "clue": "Finding something funny or entertaining",
+      "answer": "AMUSED",
       "row": 1,
-      "col": 1,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
-      "answer": "MEDAL",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of furniture with a flat top for writing, used by students",
-      "answer": "DESK",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 46

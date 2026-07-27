@@ -4,52 +4,45 @@
   "title": "2026-09-19",
   "words": [
     {
-      "clue": "A clock that makes a sound at a set time to wake someone up",
-      "answer": "ALARMCLOCK",
-      "row": 4,
+      "clue": "Weather with a gentle breeze and comfortable temperature",
+      "answer": "PLEASANT",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A truck with an open bed that can be tilted to dump its load",
-      "answer": "DUMPTRUCK",
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
       "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A rodent that cuts down trees and builds dams in rivers",
-      "answer": "BEAVER",
-      "row": 2,
+      "clue": "A low area of land between hills or mountains, often with a river",
+      "answer": "VALLEY",
+      "row": 4,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 8,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A sweet tropical fruit with orange flesh and a large flat seed",
-      "answer": "MANGO",
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A line or group of connected mountains forming a chain",
+      "answer": "RANGE",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     }
   ],

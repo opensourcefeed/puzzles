@@ -4,74 +4,67 @@
   "title": "2026-11-14",
   "words": [
     {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
-      "row": 4,
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A mathematical statement that two expressions are equal",
-      "answer": "EQUATION",
-      "row": 4,
-      "col": 1,
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
       "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A fish known for swimming upstream to lay eggs",
-      "answer": "SALMON",
-      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The five horizontal lines on which music is written",
-      "answer": "STAFF",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A fraction where the numerator equals the denominator, representing one whole",
-      "answer": "UNITY",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Weather during which snow is falling",
-      "answer": "SNOWY",
-      "row": 7,
+      "clue": "A round green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A mixture of rain and snow or partially melted snow",
-      "answer": "SLEET",
-      "row": 0,
-      "col": 3,
+      "clue": "A machine that washes clothes automatically",
+      "answer": "WASHER",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A light reddish color, like bubblegum or cotton candy",
-      "answer": "PINK",
-      "row": 10,
-      "col": 3,
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 11,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A soft, white food made from soybeans, often used in cooking",
-      "answer": "TOFU",
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
       "row": 0,
-      "col": 10,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 155

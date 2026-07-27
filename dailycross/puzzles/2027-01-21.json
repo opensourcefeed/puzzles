@@ -4,74 +4,67 @@
   "title": "2027-01-21",
   "words": [
     {
-      "clue": "A small piece of bent wire used to hold papers together",
-      "answer": "PAPERCLIP",
-      "row": 4,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The tough outer layer that covers and protects a seed",
-      "answer": "SEEDCOAT",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
-      "answer": "CARRIAGE",
-      "row": 4,
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The side or direction from which the wind is blowing",
-      "answer": "WINDWARD",
-      "row": 8,
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 5,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 3,
-      "col": 1,
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
-      "row": 11,
+      "clue": "A thick, tropical area filled with many trees and plants",
+      "answer": "JUNGLE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The fold of skin that covers and protects each eye",
-      "answer": "EYELID",
-      "row": 0,
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the straight lines that form the boundary of a shape",
+      "answer": "SIDE",
+      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A short green plant that covers lawns and fields",
-      "answer": "GRASS",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A large area of flat land with few trees",
-      "answer": "PLAIN",
-      "row": 6,
-      "col": 9,
+      "clue": "A very small insect that lives and works in large colonies",
+      "answer": "ANT",
+      "row": 1,
+      "col": 3,
       "direction": "down"
-    },
-    {
-      "clue": "A collection of data stored under a single name on a computer",
-      "answer": "FILE",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
     }
   ],
   "dayNumber": 223

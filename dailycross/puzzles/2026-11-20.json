@@ -4,8 +4,8 @@
   "title": "2026-11-20",
   "words": [
     {
-      "clue": "A vehicle equipped with equipment for fighting fires",
-      "answer": "FIRETRUCK",
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
       "row": 4,
       "col": 1,
       "direction": "across"
@@ -13,64 +13,64 @@
     {
       "clue": "The opposite of patient; unable to wait calmly",
       "answer": "IMPATIENT",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
       "row": 3,
-      "col": 8,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The spinning motion of a planet around its own axis",
-      "answer": "ROTATION",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that produces text and images on paper from a computer",
-      "answer": "PRINTER",
-      "row": 2,
-      "col": 5,
+      "clue": "To transfer data from the internet to a computer or device",
+      "answer": "DOWNLOAD",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The combination of musical notes played together to produce a pleasing sound",
-      "answer": "HARMONY",
-      "row": 9,
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A bright green color, like the precious gemstone",
-      "answer": "EMERALD",
+      "clue": "A bright, vivid pink color named after a flower",
+      "answer": "FUCHSIA",
       "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A place where trains stop to pick up and drop off passengers",
-      "answer": "STATION",
+      "clue": "A person who works on a farm growing crops and raising animals",
+      "answer": "FARMER",
       "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your arm between your elbow and your wrist",
-      "answer": "FOREARM",
-      "row": 4,
-      "col": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A small, oval nut that grows underground and is used to make butter",
-      "answer": "PEANUT",
-      "row": 11,
+      "clue": "A small string instrument played with a bow, held under the chin",
+      "answer": "VIOLIN",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 3,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of singers who perform together",
+      "answer": "CHOIR",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of grass, leaves, and many plants",
+      "answer": "GREEN",
+      "row": 10,
+      "col": 2,
       "direction": "across"
     }
   ],

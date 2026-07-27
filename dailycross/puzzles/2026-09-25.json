@@ -4,67 +4,74 @@
   "title": "2026-09-25",
   "words": [
     {
-      "clue": "A spacecraft designed to carry astronauts into space",
-      "answer": "CREWCRAFT",
-      "row": 1,
+      "clue": "A sweet, brown food made from roasted cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The total distance around the outside of a shape",
-      "answer": "PERIMETER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape where every point on its boundary is the same distance from its center",
-      "answer": "CIRCULAR",
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
       "row": 1,
-      "col": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A person who repairs and maintains vehicles and machinery",
-      "answer": "MECHANIC",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The display surface of a computer that shows images and text",
-      "answer": "SCREEN",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that grows, flowers, and dies within a single year",
-      "answer": "ANNUAL",
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
       "row": 7,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
-      "row": 2,
-      "col": 7,
+      "clue": "A breakfast food made from processed grains, often eaten with milk",
+      "answer": "CEREAL",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A plant that grows in water with flat leaves that float on the surface",
-      "answer": "LILY",
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A small rodent that is known for liking cheese",
+      "answer": "MOUSE",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A boat or ship that carries passengers and vehicles across a body of water",
+      "answer": "FERRY",
       "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of the sky on a clear, sunny day",
+      "answer": "BLUE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling brave enough to try something new",
+      "answer": "BOLD",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The uppermost part of your body that contains your brain",
+      "answer": "HEAD",
+      "row": 6,
       "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "The upper limb of your body between your shoulder and hand",
-      "answer": "ARM",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
     }
   ],
   "dayNumber": 105

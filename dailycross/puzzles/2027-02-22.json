@@ -4,73 +4,73 @@
   "title": "2027-02-22",
   "words": [
     {
-      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
-      "answer": "SPACECRAFT",
-      "row": 3,
-      "col": 1,
+      "clue": "A device you use to make phone calls and browse the internet",
+      "answer": "SMARTPHONE",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The process by which the body breaks down food into nutrients",
-      "answer": "DIGESTION",
+      "clue": "Musical instruments that produce sound by being struck or shaken",
+      "answer": "PERCUSSION",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The two organs in your chest that help you breathe",
+      "answer": "LUNGS",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A food made by baking a mixture of flour, water, and yeast",
+      "answer": "BREAD",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A scientist who specializes in the study of plants",
-      "answer": "BOTANIST",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with ten straight sides and ten angles",
-      "answer": "DECAGON",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
-      "answer": "TUNDRA",
+      "clue": "A neutral color between black and white, like an elephant",
+      "answer": "GRAY",
       "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A large area of flat land with few trees",
-      "answer": "PLAIN",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A very slow-moving animal that carries a shell on its back",
-      "answer": "SNAIL",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant tissue that transports water and minerals from roots upward",
-      "answer": "XYLEM",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A storm with thunder, lightning, and usually heavy rain",
-      "answer": "STORM",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Weather that is gentle and neither very hot nor very cold",
-      "answer": "MILD",
-      "row": 4,
-      "col": 11,
+      "col": 5,
       "direction": "down"
     }
   ],

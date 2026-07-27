@@ -4,98 +4,84 @@
   "title": "Level 57",
   "words": [
     {
-      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
-      "answer": "VOLLEYBALL",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small piece of bent wire used to hold papers together",
-      "answer": "PAPERCLIP",
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
       "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "To transfer data from the internet to a computer or device",
-      "answer": "DOWNLOAD",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An electrical appliance for browning slices of bread",
-      "answer": "TOASTER",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A crisp, green vegetable with long, fibrous stalks",
-      "answer": "CELERY",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with four equal sides and four right angles",
-      "answer": "SQUARE",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A website or tool that helps find information on the internet",
-      "answer": "SEARCH",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The short, thick finger on your hand that helps you grip things",
-      "answer": "THUMB",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who operates and controls an aircraft",
-      "answer": "PILOT",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small handheld device that moves the cursor on a computer screen",
-      "answer": "MOUSE",
-      "row": 7,
-      "col": 14,
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "An object that has length, width, and height",
-      "answer": "SOLID",
+      "clue": "A long-distance running race of 26.2 miles",
+      "answer": "MARATHON",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
       "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A bird kept on farms for its eggs and meat",
+      "answer": "CHICKEN",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of flexible; not easily bent or changed",
+      "answer": "STIFF",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain that is often rolled or ground and used to make porridge",
+      "answer": "OATS",
+      "row": 7,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall plant with a thick trunk",
+      "answer": "TREE",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A two-wheeled vehicle that you ride by pedaling",
+      "answer": "BIKE",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 11,
   "targetWords": 13,
   "difficulty": "medium"
 }

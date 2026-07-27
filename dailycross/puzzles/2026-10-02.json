@@ -4,66 +4,73 @@
   "title": "2026-10-02",
   "words": [
     {
-      "clue": "Hopeful and confident about the future",
-      "answer": "OPTIMISTIC",
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A bird kept on farms for its eggs and meat",
+      "answer": "CHICKEN",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The total distance around the outside of a shape",
-      "answer": "PERIMETER",
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
       "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling bitter or angry about unfair treatment",
-      "answer": "RESENTFUL",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of safe; likely to cause harm or injury",
-      "answer": "DANGEROUS",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape where every point on its boundary is the same distance from its center",
-      "answer": "CIRCULAR",
-      "row": 0,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A deep, dark green color like the trees in a forest",
-      "answer": "FOREST",
-      "row": 1,
-      "col": 7,
+      "clue": "The opposite of light; weighing a lot",
+      "answer": "HEAVY",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A device that captures and stores photographs digitally",
-      "answer": "CAMERA",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A sheltered place along a coast where ships and boats can moor",
-      "answer": "HARBOR",
-      "row": 2,
-      "col": 3,
+      "clue": "A small picture or symbol on a computer screen that represents a program",
+      "answer": "ICON",
+      "row": 3,
+      "col": 9,
       "direction": "across"
     }
   ],

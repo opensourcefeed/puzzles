@@ -4,59 +4,66 @@
   "title": "2026-12-28",
   "words": [
     {
-      "clue": "The opposite of possible; not able to happen or exist",
-      "answer": "IMPOSSIBLE",
-      "row": 4,
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
-      "answer": "ORGANISM",
-      "row": 4,
-      "col": 3,
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A triangle with all three sides of different lengths",
-      "answer": "SCALENE",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A building where vehicles are kept or repaired",
-      "answer": "GARAGE",
-      "row": 6,
-      "col": 4,
+      "clue": "A large, flat dish used for serving food",
+      "answer": "PLATTER",
+      "row": 10,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A large, round object in space that orbits a star",
-      "answer": "PLANET",
+      "clue": "A four-sided shape with all sides equal in length",
+      "answer": "RHOMBUS",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Feeling or showing love and affection",
-      "answer": "LOVING",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
+      "clue": "A perfectly round flat shape with no corners or edges",
+      "answer": "CIRCLE",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "Extremely happy and excited",
-      "answer": "ELATED",
-      "row": 2,
-      "col": 7,
+      "clue": "A vehicle that travels into space, powered by rocket engines",
+      "answer": "ROCKET",
+      "row": 8,
+      "col": 8,
       "direction": "across"
     }
   ],

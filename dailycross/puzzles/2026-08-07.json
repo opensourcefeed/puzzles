@@ -4,74 +4,74 @@
   "title": "2026-08-07",
   "words": [
     {
-      "clue": "An electronic device that processes data and performs tasks",
-      "answer": "COMPUTER",
-      "row": 2,
-      "col": 1,
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies chemicals and their reactions",
-      "answer": "CHEMIST",
-      "row": 2,
-      "col": 1,
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A short, fast race run at top speed",
-      "answer": "SPRINT",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A team sport where players kick a ball into the opposing team's goal",
-      "answer": "SOCCER",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A clickable element on a screen that triggers an action",
-      "answer": "BUTTON",
-      "row": 0,
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A musical term meaning to play loudly",
-      "answer": "FORTE",
-      "row": 4,
+      "clue": "A round green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 11,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The body parts at the ends of your legs",
-      "answer": "FEET",
-      "row": 2,
-      "col": 9,
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A small green amphibian that jumps and lives near water",
-      "answer": "FROG",
-      "row": 2,
-      "col": 9,
-      "direction": "across"
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "A sturdy vehicle designed for traveling over rough terrain",
-      "answer": "JEEP",
-      "row": 4,
+      "clue": "A small flower with white petals and a yellow center, common in fields",
+      "answer": "DAISY",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A two-wheeled vehicle that you ride by pedaling",
-      "answer": "BIKE",
-      "row": 0,
-      "col": 6,
+      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "answer": "MUSIC",
+      "row": 2,
+      "col": 9,
       "direction": "across"
+    },
+    {
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
     }
   ],
   "dayNumber": 56

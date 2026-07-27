@@ -4,67 +4,74 @@
   "title": "2027-03-22",
   "words": [
     {
-      "clue": "A scientist who specializes in the study of physics",
-      "answer": "PHYSICIST",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who is traveling in a vehicle but not driving it",
-      "answer": "PASSENGER",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who works in a library and helps people find books",
-      "answer": "LIBRARIAN",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The side or direction from which the wind is blowing",
-      "answer": "WINDWARD",
-      "row": 8,
+      "clue": "A person whose job is to drive a bus",
+      "answer": "BUSDRIVER",
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with nine straight sides and nine angles",
-      "answer": "NONAGON",
-      "row": 12,
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A document on the internet that can be viewed in a browser",
-      "answer": "WEBSITE",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A bird that was historically used to carry messages",
-      "answer": "PIGEON",
-      "row": 5,
-      "col": 0,
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 6,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Thin material made from wood pulp, used for writing or printing",
-      "answer": "PAPER",
-      "row": 3,
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a ripe banana or the sun",
+      "answer": "YELLOW",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Hot, liquid rock that flows from a volcano onto the Earth's surface",
-      "answer": "LAVA",
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
       "row": 0,
-      "col": 4,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 283

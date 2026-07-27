@@ -4,74 +4,67 @@
   "title": "2026-11-11",
   "words": [
     {
-      "clue": "A dark, heavy cloud that often brings rain or a storm",
-      "answer": "STORMCLOUD",
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
       "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A cup or other decorative object awarded as a prize for winning",
+      "answer": "TROPHY",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A device used to communicate with others over long distances",
+      "answer": "PHONE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A period of unusually cold weather that lasts for several days",
-      "answer": "COLDSPELL",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The total distance around the outside of a shape",
-      "answer": "PERIMETER",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A woodwind instrument with a single reed and keys",
-      "answer": "CLARINET",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
-      "answer": "ALMOND",
+      "clue": "A collection of data stored under a single name on a computer",
+      "answer": "FILE",
       "row": 0,
-      "col": 9,
+      "col": 10,
       "direction": "down"
-    },
-    {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of kind; unkind or unpleasant",
-      "answer": "MEAN",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "dayNumber": 152

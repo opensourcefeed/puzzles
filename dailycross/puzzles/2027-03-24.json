@@ -4,74 +4,74 @@
   "title": "2027-03-24",
   "words": [
     {
-      "clue": "A small piece of paper with a strip of adhesive on the back for notes",
-      "answer": "STICKYNOTE",
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An electronic device that receives broadcast signals and displays moving images",
-      "answer": "TELEVISION",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that is greater than zero",
-      "answer": "POSITIVE",
+      "clue": "A four-sided shape with one pair of parallel sides",
+      "answer": "TRAPEZOID",
       "row": 4,
-      "col": 7,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A spotted wild cat that is the fastest land animal",
-      "answer": "CHEETAH",
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
       "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A board or area where student work is displayed for others to see",
-      "answer": "DISPLAY",
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
       "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that forwards data between computer networks",
-      "answer": "ROUTER",
-      "row": 11,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A series of connected vehicles that run on railway tracks",
-      "answer": "TRAIN",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet, sticky syrup made from the sap of certain trees",
-      "answer": "MAPLE",
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
       "row": 0,
-      "col": 5,
-      "direction": "across"
+      "col": 6,
+      "direction": "down"
     },
     {
-      "clue": "How high or low a musical sound is",
-      "answer": "PITCH",
-      "row": 9,
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
+      "row": 3,
       "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
+      "row": 7,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A storm with thunder, lightning, and usually heavy rain",
+      "answer": "STORM",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The top layer of Earth's surface in which plants grow",
+      "answer": "SOIL",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 285

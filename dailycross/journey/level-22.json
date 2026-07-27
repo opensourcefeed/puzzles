@@ -4,56 +4,49 @@
   "title": "Level 22",
   "words": [
     {
-      "clue": "A flying vehicle with rotating blades that can take off and land vertically",
-      "answer": "HELICOPTER",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Dark clouds that bring rain",
-      "answer": "RAINCLOUD",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Water that falls from a high cliff or rock face",
-      "answer": "WATERFALL",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who specializes in the study of plants",
-      "answer": "BOTANIST",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A panel of keys used to type text and commands into a computer",
-      "answer": "KEYBOARD",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
-      "row": 6,
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A place where water naturally flows out of the ground",
-      "answer": "SPRING",
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The path a spacecraft takes when it lifts off from Earth",
+      "answer": "LAUNCH",
       "row": 0,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, round fruit that grows in bunches on vines",
+      "answer": "GRAPE",
+      "row": 1,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "The two organs in your chest that help you breathe",
+      "answer": "LUNGS",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The place where a river flows into a larger river, lake, or ocean",
+      "answer": "MOUTH",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 6,
   "targetWords": 8,
   "difficulty": "easy"
 }

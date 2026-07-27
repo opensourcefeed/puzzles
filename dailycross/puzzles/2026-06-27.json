@@ -4,59 +4,73 @@
   "title": "2026-06-27",
   "words": [
     {
-      "clue": "A person who plans and designs buildings and other structures",
-      "answer": "ARCHITECT",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your face above your eyes and below your hairline",
-      "answer": "FOREHEAD",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A container for holding waste or garbage",
-      "answer": "TRASHCAN",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that converts physical documents into digital images",
-      "answer": "SCANNER",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A plant that grows, flowers, and dies within a single year",
-      "answer": "ANNUAL",
-      "row": 9,
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Anything that has mass and occupies space",
-      "answer": "MATTER",
-      "row": 3,
-      "col": 11,
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A container with a handle and spout for serving drinks",
-      "answer": "BOTTLE",
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing surprise at something unexpected",
+      "answer": "SURPRISED",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A colorless, odorless gas that is essential for human life",
+      "answer": "OXYGEN",
       "row": 0,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     }
   ],

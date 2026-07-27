@@ -4,67 +4,74 @@
   "title": "2027-04-08",
   "words": [
     {
-      "clue": "The opposite of possible; not able to happen or exist",
-      "answer": "IMPOSSIBLE",
-      "row": 4,
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large building or outdoor area with seats for watching sports events",
+      "answer": "STADIUM",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small string instrument played with a bow, held under the chin",
+      "answer": "VIOLIN",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who writes and tests computer programs",
-      "answer": "PROGRAMMER",
+      "clue": "Feeling in need of rest or sleep",
+      "answer": "TIRED",
       "row": 2,
-      "col": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "An insect with large, colorful wings that was once a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Having a strong reason or desire to do something",
-      "answer": "MOTIVATED",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
-      "answer": "CANYON",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The name of our galaxy, which appears as a milky band across the night sky",
-      "answer": "MILKY",
-      "row": 4,
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
+      "row": 5,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
-      "answer": "BRASS",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The symbol (+) used to show that numbers are being added",
-      "answer": "PLUS",
-      "row": 1,
-      "col": 7,
+      "clue": "The opposite of first",
+      "answer": "LAST",
+      "row": 3,
+      "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "A light reddish color, like bubblegum or cotton candy",
-      "answer": "PINK",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
     }
   ],
   "dayNumber": 300

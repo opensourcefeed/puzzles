@@ -4,66 +4,73 @@
   "title": "2027-01-16",
   "words": [
     {
-      "clue": "A flat shape with twelve straight sides and twelve angles",
-      "answer": "DODECAGON",
-      "row": 6,
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
-      "row": 6,
+      "clue": "A person trained to help people in emergencies before they reach a hospital",
+      "answer": "PARAMEDIC",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who creates and writes original music",
-      "answer": "COMPOSER",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The amount of moisture or water vapor present in the air",
-      "answer": "HUMIDITY",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The combination of musical notes played together to produce a pleasing sound",
-      "answer": "HARMONY",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A round green vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A long, thin tool used to point at things on a board or screen",
-      "answer": "POINTER",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing love and affection",
-      "answer": "LOVING",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The number of points earned by a player or team in a game",
-      "answer": "SCORE",
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
       "row": 2,
-      "col": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark, rich red color, like the color of chestnuts",
+      "answer": "MAROON",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The huge, empty area beyond Earth's atmosphere containing stars and planets",
+      "answer": "SPACE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather during which snow is falling",
+      "answer": "SNOWY",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The dense, bright central region of a galaxy",
+      "answer": "CORE",
+      "row": 10,
+      "col": 5,
       "direction": "across"
     }
   ],

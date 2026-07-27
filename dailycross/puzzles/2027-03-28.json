@@ -4,60 +4,74 @@
   "title": "2027-03-28",
   "words": [
     {
-      "clue": "A large tropical fruit with rough, spiky skin and sweet yellow flesh",
-      "answer": "PINEAPPLE",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A short-range wireless technology for connecting devices",
-      "answer": "BLUETOOTH",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The act of defeating an opponent in a competition",
-      "answer": "VICTORY",
+      "clue": "A person who sells goods in a shop",
+      "answer": "SHOPKEEPER",
       "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright streak of light in the sky caused by a space rock burning up",
-      "answer": "METEOR",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A sheltered place along a coast where ships and boats can moor",
-      "answer": "HARBOR",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A rodent that cuts down trees and builds dams in rivers",
-      "answer": "BEAVER",
-      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The amount of three-dimensional space an object occupies",
-      "answer": "VOLUME",
-      "row": 0,
-      "col": 1,
+      "clue": "A vehicle equipped with equipment for fighting fires",
+      "answer": "FIRETRUCK",
+      "row": 1,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, orange root vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small rodent that is known for liking cheese",
+      "answer": "MOUSE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A grain that is often rolled or ground and used to make porridge",
+      "answer": "OATS",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of related web pages under a single domain name",
+      "answer": "SITE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 289

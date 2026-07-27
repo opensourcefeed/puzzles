@@ -4,73 +4,66 @@
   "title": "2026-07-16",
   "words": [
     {
-      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
-      "answer": "SAXOPHONE",
-      "row": 5,
-      "col": 1,
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A long, narrow board with a padded surface used for ironing",
-      "answer": "IRONBOARD",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep red-purple color, like the wine from the region",
-      "answer": "BURGUNDY",
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
       "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
-      "answer": "COCONUT",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A curved band of colors that appears in the sky after rain",
-      "answer": "RAINBOW",
-      "row": 4,
-      "col": 2,
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A series of musical notes arranged in ascending or descending order",
-      "answer": "SCALE",
-      "row": 7,
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 5,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A figure formed by two rays sharing a common endpoint",
-      "answer": "ANGLE",
-      "row": 7,
-      "col": 9,
+      "clue": "A fertile area in a desert where water is found and plants can grow",
+      "answer": "OASIS",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A collection of data stored under a single name on a computer",
-      "answer": "FILE",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "White frozen crystals that fall from clouds in cold weather",
-      "answer": "SNOW",
-      "row": 9,
+      "clue": "The color of grass, leaves, and many plants",
+      "answer": "GREEN",
+      "row": 6,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A movable barrier used to close an entrance to a room",
+      "answer": "DOOR",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     }
   ],

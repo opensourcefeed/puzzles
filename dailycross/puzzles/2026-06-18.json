@@ -4,67 +4,74 @@
   "title": "2026-06-18",
   "words": [
     {
-      "clue": "A vehicle with skis and tracks designed for traveling on snow",
-      "answer": "SNOWMOBILE",
-      "row": 1,
-      "col": 2,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "An athletic event where athletes jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a line that has two distinct endpoints",
-      "answer": "SEGMENT",
+      "clue": "A large tropical fruit with rough, spiky skin and sweet yellow flesh",
+      "answer": "PINEAPPLE",
       "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A black and white bird that lives in cold oceans and cannot fly",
-      "answer": "PENGUIN",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A breakfast food made from processed grains, often eaten with milk",
-      "answer": "CEREAL",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 6,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of singers who perform together",
-      "answer": "CHOIR",
-      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
-      "answer": "RULER",
-      "row": 2,
-      "col": 13,
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 0,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "A person who makes and sells meat",
+      "answer": "BUTCHER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A clickable element on a screen that triggers an action",
+      "answer": "BUTTON",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The sport of propelling a boat using oars",
+      "answer": "ROWING",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep blue-purple color, like the plant used for dye",
+      "answer": "INDIGO",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing strong displeasure about something unfair",
+      "answer": "ANGRY",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark color like chocolate or tree bark",
+      "answer": "BROWN",
+      "row": 8,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 6

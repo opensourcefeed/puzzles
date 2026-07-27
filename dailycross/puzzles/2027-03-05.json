@@ -4,73 +4,66 @@
   "title": "2027-03-05",
   "words": [
     {
-      "clue": "A scientist who specializes in the study of physics",
-      "answer": "PHYSICIST",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who conducts scientific research in a laboratory",
-      "answer": "SCIENTIST",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A truck with an open bed that can be tilted to dump its load",
-      "answer": "DUMPTRUCK",
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
       "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The result obtained by dividing one number by another",
-      "answer": "QUOTIENT",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The spinning motion of a planet around its own axis",
-      "answer": "ROTATION",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried, nervous, or uneasy about something",
-      "answer": "ANXIOUS",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
-      "answer": "BROOM",
-      "row": 4,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The two organs in your chest that help you breathe",
-      "answer": "LUNGS",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that has length, width, and height",
-      "answer": "SOLID",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Air that moves naturally across the Earth's surface",
-      "answer": "WIND",
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
       "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 5,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A string instrument with a flat back, played by strumming or plucking",
+      "answer": "GUITAR",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your foot to your lower leg",
+      "answer": "ANKLE",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint in the middle of your arm that allows it to bend",
+      "answer": "ELBOW",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of early; after the expected or usual time",
+      "answer": "LATE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A reddish-brown color, like the color of iron oxide",
+      "answer": "RUST",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A large string instrument with pedals, played by plucking strings",
+      "answer": "HARP",
+      "row": 1,
+      "col": 6,
       "direction": "across"
     }
   ],

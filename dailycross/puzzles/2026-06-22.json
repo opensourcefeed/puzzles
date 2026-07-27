@@ -4,8 +4,8 @@
   "title": "2026-06-22",
   "words": [
     {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
       "row": 6,
       "col": 0,
       "direction": "across"
@@ -14,63 +14,63 @@
       "clue": "A device that projects images or presentations onto a screen",
       "answer": "PROJECTOR",
       "row": 5,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A long-distance running race of 26.2 miles",
-      "answer": "MARATHON",
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright, vivid pink color named after a flower",
+      "answer": "FUCHSIA",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A flat container with a handle, used with a broom to collect dirt",
-      "answer": "DUSTPAN",
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
       "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with six straight sides and six angles",
-      "answer": "HEXAGON",
-      "row": 5,
-      "col": 8,
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
-      "answer": "CONCAVE",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
     },
     {
-      "clue": "A dark, rich red color, like the color of chestnuts",
-      "answer": "MAROON",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A vegetable with an orange root that grows underground",
-      "answer": "CARROT",
+      "clue": "A round vegetable with layers and a strong, sharp smell",
+      "answer": "ONION",
       "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that has exactly two different factors: itself and 1",
-      "answer": "PRIME",
-      "row": 2,
-      "col": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A person who trains and instructs athletes or sports teams",
-      "answer": "COACH",
-      "row": 12,
-      "col": 1,
+      "clue": "A popular flower with thorns on its stem, often given as a gift",
+      "answer": "ROSE",
+      "row": 13,
+      "col": 3,
       "direction": "across"
     }
   ],

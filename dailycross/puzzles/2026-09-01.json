@@ -4,73 +4,66 @@
   "title": "2026-09-01",
   "words": [
     {
-      "clue": "A large reptile with very strong jaws that lives in rivers",
-      "answer": "CROCODILE",
-      "row": 2,
-      "col": 2,
+      "clue": "A vehicle equipped with equipment for fighting fires",
+      "answer": "FIRETRUCK",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tree that sheds all its leaves each autumn",
-      "answer": "DECIDUOUS",
-      "row": 0,
-      "col": 5,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A very light purple color, like the flower",
-      "answer": "LAVENDER",
+      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
+      "answer": "EGGPLANT",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "An opening in a wall with glass that lets in light and air",
+      "answer": "WINDOW",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
       "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The distance from the center of a circle to any point on its edge",
+      "answer": "RADIUS",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant with many woody stems",
+      "answer": "BUSH",
+      "row": 6,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Feeling deep sorrow, especially after a loss",
-      "answer": "GRIEVING",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who specializes in the study of plants",
-      "answer": "BOTANIST",
-      "row": 1,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that grows round, red fruits often used in cooking",
-      "answer": "TOMATO",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
-      "answer": "POTATO",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who leads and assists groups of tourists",
-      "answer": "GUIDE",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A grain crop commonly used as feed for farm animals",
-      "answer": "OATS",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The colored ring in the center of the eye that controls light entry",
-      "answer": "IRIS",
-      "row": 9,
-      "col": 8,
+      "clue": "The opposite of win",
+      "answer": "LOSE",
+      "row": 10,
+      "col": 1,
       "direction": "across"
     }
   ],

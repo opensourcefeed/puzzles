@@ -4,60 +4,67 @@
   "title": "2026-09-08",
   "words": [
     {
-      "clue": "The total distance around the outside of a shape",
-      "answer": "PERIMETER",
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A brass instrument with a slide that changes the pitch",
-      "answer": "TROMBONE",
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
       "row": 5,
-      "col": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "An electrical appliance for browning slices of bread",
-      "answer": "TOASTER",
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
       "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A unit for measuring angles, where a full circle is 360",
-      "answer": "DEGREE",
-      "row": 4,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A digital container for organizing files on a computer",
-      "answer": "FOLDER",
-      "row": 10,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A thick, tropical area filled with many trees and plants",
-      "answer": "JUNGLE",
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
       "row": 0,
-      "col": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A light, narrow boat propelled by one or more paddles",
-      "answer": "CANOE",
-      "row": 2,
+      "clue": "The longest finger in the middle of your hand",
+      "answer": "MIDDLE",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling safe, protected, and free from worry",
+      "answer": "SECURE",
+      "row": 0,
       "col": 3,
       "direction": "across"
-    },
-    {
-      "clue": "A light purple-pink color, like the flower",
-      "answer": "LILAC",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
     }
   ],
   "dayNumber": 88

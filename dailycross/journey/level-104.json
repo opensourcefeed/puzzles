@@ -4,105 +4,112 @@
   "title": "Level 104",
   "words": [
     {
-      "clue": "A person who writes and tests computer programs",
-      "answer": "PROGRAMMER",
-      "row": 6,
+      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
+      "answer": "AIRPLANE",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The movement of one object around another in an orbital path",
-      "answer": "REVOLUTION",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies matter, energy, and their interactions",
-      "answer": "PHYSICIST",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A very dark gray color, like burnt wood",
-      "answer": "CHARCOAL",
+      "clue": "A light, bright blue color like the sky on a clear day",
+      "answer": "SKYBLUE",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A violent, rotating column of air that touches the ground",
-      "answer": "TORNADO",
-      "row": 3,
+      "clue": "Feeling embarrassed or guilty about something",
+      "answer": "ASHAMED",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A solid food made from milk, often yellow and sliced",
-      "answer": "CHEESE",
-      "row": 4,
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A black and white bird that lives in cold oceans and cannot fly",
+      "answer": "PENGUIN",
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A vehicle that travels into space, powered by rocket engines",
-      "answer": "ROCKET",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "Feeling or showing love and affection",
-      "answer": "LOVING",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
-      "answer": "PULSAR",
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
       "row": 8,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The opposite of full; containing nothing",
-      "answer": "EMPTY",
+      "clue": "A person who works on a farm growing crops and raising animals",
+      "answer": "FARMER",
       "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "An area of open land used for playing sports",
-      "answer": "FIELD",
-      "row": 9,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A reddish-brown color, like the color of iron oxide",
-      "answer": "RUST",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A common black bird that gathers in large groups",
-      "answer": "CROW",
-      "row": 7,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A sturdy vehicle designed for traveling over rough terrain",
-      "answer": "JEEP",
-      "row": 4,
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of grass, leaves, and many plants",
+      "answer": "GREEN",
+      "row": 9,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A large wild cat with orange fur and black stripes",
+      "answer": "TIGER",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
+      "answer": "BRASS",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The action of throwing a ball to a teammate",
+      "answer": "PASS",
+      "row": 8,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Information processed or stored by a computer",
+      "answer": "DATA",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 19,
   "difficulty": "hard"
 }

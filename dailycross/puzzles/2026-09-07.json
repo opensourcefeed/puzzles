@@ -4,74 +4,53 @@
   "title": "2026-09-07",
   "words": [
     {
-      "clue": "Musical instruments that produce sound by being struck or shaken",
-      "answer": "PERCUSSION",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A sudden shaking of the ground caused by movements in Earth's crust",
-      "answer": "EARTHQUAKE",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape that can be divided into two identical halves",
-      "answer": "SYMMETRIC",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A small device used to make a pencil point sharp",
-      "answer": "SHARPENER",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The passing of genetic traits from parents to offspring",
-      "answer": "HEREDITY",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of deep; of little depth",
-      "answer": "SHALLOW",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A wet, low-lying area where the ground is often covered with water",
-      "answer": "MARSH",
-      "row": 9,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large body of salt water that covers most of Earth's surface",
-      "answer": "OCEAN",
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
       "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool used to look closely at something far away",
+      "answer": "TELESCOPE",
+      "row": 2,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The place where a river flows into a larger river, lake, or ocean",
-      "answer": "MOUTH",
-      "row": 2,
-      "col": 7,
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 10,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large natural hole in the side of a cliff or underground",
-      "answer": "CAVE",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
+      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "answer": "PEACOCK",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 87

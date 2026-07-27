@@ -4,73 +4,73 @@
   "title": "2026-11-16",
   "words": [
     {
-      "clue": "A bright, vivid greenish-yellow color named after a liqueur",
-      "answer": "CHARTREUSE",
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
       "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
+      "row": 12,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A device that makes holes in paper for filing in binders",
-      "answer": "HOLEPUNCH",
-      "row": 0,
-      "col": 8,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Water that falls from a high cliff or rock face",
-      "answer": "WATERFALL",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
+      "clue": "A purple flower known for its calming, pleasant scent",
+      "answer": "LAVENDER",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "The small amount of water in the form of vapor in the air",
-      "answer": "MOISTURE",
-      "row": 1,
+      "clue": "The sport of moving quickly on foot",
+      "answer": "RUNNING",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 6,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of generous; lacking consideration for others",
-      "answer": "SELFISH",
-      "row": 3,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A document on the internet that can be viewed in a browser",
-      "answer": "WEBSITE",
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
       "row": 0,
-      "col": 14,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who catches fish as a job",
-      "answer": "FISHER",
-      "row": 7,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant tissue that carries food made in leaves to other parts",
-      "answer": "PHLOEM",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
-      "answer": "ALMOND",
+      "clue": "The color of fresh snow, milk, and paper",
+      "answer": "WHITE",
       "row": 3,
-      "col": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A series of connected vehicles that run on railway tracks",
-      "answer": "TRAIN",
-      "row": 7,
-      "col": 0,
+      "clue": "A clear, colorless liquid that all living things need to survive",
+      "answer": "WATER",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     }
   ],

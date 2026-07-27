@@ -4,119 +4,126 @@
   "title": "Level 141",
   "words": [
     {
-      "clue": "A team sport where players throw a ball through a raised hoop",
-      "answer": "BASKETBALL",
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large, juicy fruit with green striped skin and red flesh",
-      "answer": "WATERMELON",
-      "row": 5,
-      "col": 7,
+      "clue": "Sports and games that involve running, jumping, and throwing",
+      "answer": "ATHLETICS",
+      "row": 6,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The layer of gases that surrounds Earth and protects life",
-      "answer": "ATMOSPHERE",
+      "clue": "A big pile of snow blown together by wind",
+      "answer": "SNOWDRIFT",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bored and unhappy about a lack of activity",
+      "answer": "RESTLESS",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The symbol (÷) used to show that one number is being divided by another",
+      "answer": "DIVIDE",
       "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small device used to make a pencil point sharp",
-      "answer": "SHARPENER",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
-      "answer": "WARDROBE",
-      "row": 5,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The side or direction from which the wind is blowing",
-      "answer": "WINDWARD",
+      "clue": "A device that controls the flow of water from a pipe",
+      "answer": "FAUCET",
       "row": 14,
-      "col": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A woodwind instrument with a single reed and keys",
-      "answer": "CLARINET",
-      "row": 7,
-      "col": 13,
+      "clue": "The small hard part inside a seed's shell, like an acorn's contents",
+      "answer": "KERNEL",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling calm and not worried or tense",
-      "answer": "RELAXED",
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
       "row": 12,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A large bird with a long, colorful tail that it can fan out",
-      "answer": "PEACOCK",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling embarrassed or guilty about something",
-      "answer": "ASHAMED",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
-      "answer": "GLACIER",
+      "clue": "A wet, low-lying area where the ground is often covered with water",
+      "answer": "MARSH",
       "row": 0,
-      "col": 14,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "An underground passage through which vehicles can travel",
-      "answer": "TUNNEL",
-      "row": 1,
+      "clue": "A bright yellow citrus fruit with a very sour taste",
+      "answer": "LEMON",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A farm animal that gives wool",
+      "answer": "SHEEP",
+      "row": 2,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A tray on a desk used to hold incoming papers or documents",
-      "answer": "INBOX",
-      "row": 2,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A musical term meaning to play softly",
-      "answer": "PIANO",
-      "row": 11,
+      "clue": "Drops of water that fall from clouds to the ground",
+      "answer": "RAIN",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small fruit with fuzzy brown skin and bright green flesh",
-      "answer": "KIWI",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A utensil with prongs used for picking up and eating food",
-      "answer": "FORK",
-      "row": 13,
-      "col": 1,
+      "clue": "A group of players who play together against another group",
+      "answer": "TEAM",
+      "row": 5,
+      "col": 8,
       "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 17,
   "targetWords": 24,
   "difficulty": "hard"
 }

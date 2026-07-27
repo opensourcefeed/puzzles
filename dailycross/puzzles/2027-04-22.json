@@ -4,74 +4,60 @@
   "title": "2027-04-22",
   "words": [
     {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 6,
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A triangle with two sides of equal length",
-      "answer": "ISOSCELES",
-      "row": 4,
-      "col": 1,
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A solid shape with two parallel circular ends and a curved side",
-      "answer": "CYLINDER",
-      "row": 8,
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
+      "answer": "NEPTUNE",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "No longer feeling worried or anxious",
-      "answer": "RELIEVED",
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
       "row": 0,
-      "col": 6,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A violent, rotating column of air that touches the ground",
-      "answer": "TORNADO",
+      "clue": "The opposite of brave; feeling fear or anxiety",
+      "answer": "AFRAID",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
       "row": 0,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The arrangement of visual elements on a screen or page",
-      "answer": "LAYOUT",
-      "row": 8,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A clickable element on a screen that triggers an action",
-      "answer": "BUTTON",
-      "row": 12,
+      "clue": "The finger next to your little finger, often where a ring is worn",
+      "answer": "RING",
+      "row": 0,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
-      "answer": "ALMOND",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
-      "answer": "SPOON",
-      "row": 9,
-      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "A farm animal that gives wool",
-      "answer": "SHEEP",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
     }
   ],
   "dayNumber": 314

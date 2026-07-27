@@ -4,56 +4,49 @@
   "title": "Level 16",
   "words": [
     {
-      "clue": "Water that falls from a high cliff or rock face",
-      "answer": "WATERFALL",
-      "row": 2,
-      "col": 2,
+      "clue": "A person who drives a taxi for passengers",
+      "answer": "TAXIDRIVER",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A solid shape with two parallel circular ends and a curved side",
-      "answer": "CYLINDER",
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
       "row": 0,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who is trained in or good at sports",
-      "answer": "ATHLETE",
+      "clue": "The sport of riding a bicycle",
+      "answer": "CYCLING",
       "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 6,
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A person who works on a farm growing crops and raising animals",
-      "answer": "FARMER",
-      "row": 0,
-      "col": 6,
+      "clue": "A person who trains and directs a sports team",
+      "answer": "COACH",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A form of energy that travels in waves and allows us to see",
-      "answer": "LIGHT",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The finger next to your thumb, used for pointing",
-      "answer": "INDEX",
+      "clue": "A very large body of salt water that covers most of Earth's surface",
+      "answer": "OCEAN",
       "row": 4,
       "col": 8,
-      "direction": "across"
+      "direction": "down"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 6,
   "targetWords": 7,
   "difficulty": "easy"
 }

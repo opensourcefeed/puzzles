@@ -4,67 +4,74 @@
   "title": "2027-04-12",
   "words": [
     {
-      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
-      "answer": "VOLLEYBALL",
-      "row": 4,
-      "col": 0,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A short-range wireless technology for connecting devices",
-      "answer": "BLUETOOTH",
-      "row": 3,
+      "clue": "A folder on a computer where deleted files are temporarily stored",
+      "answer": "RECYCLEBIN",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Content and pleased with what has happened",
-      "answer": "SATISFIED",
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
       "row": 3,
-      "col": 7,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A person who creates detailed technical drawings and plans",
-      "answer": "DRAFTER",
-      "row": 8,
-      "col": 4,
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
+      "row": 10,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A dark, rich red color, like the color of chestnuts",
-      "answer": "MAROON",
-      "row": 6,
-      "col": 5,
+      "clue": "An Australian animal that hops and carries babies in a pouch",
+      "answer": "KANGAROO",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A website or tool that helps find information on the internet",
-      "answer": "SEARCH",
-      "row": 10,
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of brave; feeling fear or anxiety",
+      "answer": "AFRAID",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "An electrical appliance that cleans floors by sucking up dirt",
-      "answer": "VACUUM",
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A person who operates and controls an aircraft",
-      "answer": "PILOT",
-      "row": 6,
+      "clue": "A perfectly round solid shape where every point on its surface is the same distance from its center",
+      "answer": "SPHERE",
+      "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
       "clue": "The dark circular opening in the center of the iris",
       "answer": "PUPIL",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
+      "row": 12,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 304

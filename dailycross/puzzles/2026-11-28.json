@@ -4,67 +4,74 @@
   "title": "2026-11-28",
   "words": [
     {
-      "clue": "The side or direction from which the wind is blowing",
-      "answer": "WINDWARD",
-      "row": 3,
-      "col": 2,
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A very light purple color, like the flower",
-      "answer": "LAVENDER",
-      "row": 2,
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A leafy green vegetable commonly used as a base for salads",
+      "answer": "LETTUCE",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat container with a handle, used with a broom to collect dirt",
+      "answer": "DUSTPAN",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The sport of moving quickly on foot",
-      "answer": "RUNNING",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A short performance of music or dance",
-      "answer": "RECITAL",
-      "row": 5,
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A spotted wild cat that is the fastest land animal",
-      "answer": "CHEETAH",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of big; of a size that is less than average",
-      "answer": "SMALL",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Weather during which snow is falling",
-      "answer": "SNOWY",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large body of salt water that covers most of Earth's surface",
-      "answer": "OCEAN",
-      "row": 6,
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The column of bones that runs down your back and protects your spinal cord",
-      "answer": "SPINE",
-      "row": 0,
-      "col": 2,
+      "clue": "A folded piece of cardboard used to hold and organize loose papers",
+      "answer": "FOLDER",
+      "row": 1,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "A telescope famous for taking pictures of distant galaxies, named after a scientist",
+      "answer": "HUBBLE",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
+      "answer": "BROOM",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "dayNumber": 169

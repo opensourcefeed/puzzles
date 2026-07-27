@@ -4,74 +4,53 @@
   "title": "2026-07-27",
   "words": [
     {
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
       "clue": "Content and pleased with what has happened",
       "answer": "SATISFIED",
-      "row": 1,
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 0,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An organ behind the stomach that produces insulin",
-      "answer": "PANCREAS",
+      "clue": "The opposite of open; not open or allowing access",
+      "answer": "CLOSED",
       "row": 0,
-      "col": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your arm to your upper body",
-      "answer": "SHOULDER",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A place with runways where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
-      "answer": "TSUNAMI",
-      "row": 6,
+      "clue": "A person who trains and directs a sports team",
+      "answer": "COACH",
+      "row": 3,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A card with a student's name and photo used for identification",
-      "answer": "IDCARD",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The level of loudness or softness in music",
-      "answer": "VOLUME",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "An unmanned spacecraft sent to explore and gather information in space",
-      "answer": "PROBE",
-      "row": 4,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "The third planet from the Sun, our home planet",
-      "answer": "EARTH",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant tissue that transports water and minerals from roots upward",
-      "answer": "XYLEM",
-      "row": 1,
-      "col": 14,
-      "direction": "down"
     }
   ],
   "dayNumber": 45

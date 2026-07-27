@@ -4,66 +4,52 @@
   "title": "2027-02-04",
   "words": [
     {
-      "clue": "A folder on a computer where deleted files are temporarily stored",
-      "answer": "RECYCLEBIN",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who creates and writes original music",
-      "answer": "COMPOSER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dark gray color, like burnt wood",
-      "answer": "CHARCOAL",
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
       "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Involved and interested in something",
-      "answer": "ENGAGED",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
-      "answer": "GRAVITY",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A hollow instrument filled with beads, shaken to make sound",
-      "answer": "MARACA",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The joint that connects your hand to your forearm",
-      "answer": "WRIST",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The largest organ of the human body, covering and protecting it",
-      "answer": "SKIN",
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that controls the flow of water from a pipe",
+      "answer": "FAUCET",
       "row": 6,
-      "col": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small handheld device that moves the cursor on a computer screen",
+      "answer": "MOUSE",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, white food made from soybeans, often used in cooking",
+      "answer": "TOFU",
+      "row": 3,
+      "col": 7,
       "direction": "across"
     }
   ],

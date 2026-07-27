@@ -4,60 +4,67 @@
   "title": "2026-10-05",
   "words": [
     {
-      "clue": "A sudden shaking of the ground caused by movements in Earth's crust",
-      "answer": "EARTHQUAKE",
-      "row": 2,
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 1,
-      "col": 9,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
-      "answer": "CONCAVE",
-      "row": 5,
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 4,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A short, fast race run at top speed",
-      "answer": "SPRINT",
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
       "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, orange root vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A card with a student's name and photo used for identification",
+      "answer": "IDCARD",
+      "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A vegetable with an orange root that grows underground",
-      "answer": "CARROT",
-      "row": 7,
-      "col": 5,
+      "clue": "A narrow, deep valley with very steep rocky sides",
+      "answer": "GORGE",
+      "row": 8,
+      "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "The point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The green part of a plant",
-      "answer": "LEAF",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A green plant that grows in damp, shady places and does not produce flowers",
-      "answer": "FERN",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
     }
   ],
   "dayNumber": 115

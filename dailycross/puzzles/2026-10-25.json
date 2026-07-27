@@ -4,67 +4,74 @@
   "title": "2026-10-25",
   "words": [
     {
-      "clue": "The ability to continue a physical activity for a long time",
-      "answer": "ENDURANCE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A watercraft that can operate underwater",
-      "answer": "SUBMARINE",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies living organisms and their life processes",
-      "answer": "BIOLOGIST",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "An athletic event where athletes jump as far as possible from a running start",
-      "answer": "LONGJUMP",
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
       "row": 3,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "An underground layer of rock that holds and transmits water",
-      "answer": "AQUIFER",
-      "row": 8,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
-      "answer": "NEPTUNE",
-      "row": 0,
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A device that converts paper documents into digital images",
-      "answer": "SCANNER",
-      "row": 0,
-      "col": 3,
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A device that captures and stores photographs digitally",
-      "answer": "CAMERA",
-      "row": 4,
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
+      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Data storage that is accessed over the internet rather than locally",
-      "answer": "CLOUD",
+      "clue": "The smallest planet in our solar system and closest to the Sun",
+      "answer": "MERCURY",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
+      "answer": "POTATO",
       "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "An unmanned spacecraft sent to explore and gather information in space",
+      "answer": "PROBE",
+      "row": 8,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
+      "answer": "BROOM",
+      "row": 1,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The thick muscle at the back of your lower leg",
+      "answer": "CALF",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 135

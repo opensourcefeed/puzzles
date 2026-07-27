@@ -4,133 +4,119 @@
   "title": "Level 102",
   "words": [
     {
-      "clue": "A sport involving exercises and routines requiring balance and strength",
-      "answer": "GYMNASTICS",
-      "row": 7,
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who is trained to travel and work in space",
-      "answer": "ASTRONAUT",
-      "row": 6,
-      "col": 7,
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The spinning motion of a planet around its own axis",
-      "answer": "ROTATION",
-      "row": 9,
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Hopeful and confident, even in difficult situations",
+      "answer": "POSITIVE",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of clothes worn by members of a team for their sport",
+      "answer": "UNIFORM",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when leaves change color and fall",
+      "answer": "AUTUMN",
+      "row": 7,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A large string instrument played while seated, held between the knees",
+      "answer": "CELLO",
+      "row": 12,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The passing of genetic traits from parents to offspring",
-      "answer": "HEREDITY",
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
       "row": 4,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A person who creates and designs clothing and accessories",
-      "answer": "DESIGNER",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape where every point on its boundary is the same distance from its center",
-      "answer": "CIRCULAR",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who is trained in or good at sports",
-      "answer": "ATHLETE",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very intelligent and playful ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A positive whole number used for counting objects",
-      "answer": "NATURAL",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with nine straight sides and nine angles",
-      "answer": "NONAGON",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep, rich purple color, like the flower",
-      "answer": "VIOLET",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A container with a spout and handle used for boiling water",
-      "answer": "KETTLE",
-      "row": 14,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A place where water naturally flows out of the ground",
-      "answer": "SPRING",
+      "clue": "Water in the form of a gas, especially when heated",
+      "answer": "VAPOR",
       "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 10,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A large organ that filters harmful substances from the blood",
-      "answer": "LIVER",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A small device moved by hand to control the cursor on a screen",
-      "answer": "MOUSE",
-      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The third planet from the Sun, our home planet",
-      "answer": "EARTH",
-      "row": 12,
-      "col": 9,
+      "clue": "Feeling or showing pleasure and contentment",
+      "answer": "HAPPY",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The vehicle astronauts use to walk on the Moon",
+      "answer": "ROVER",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A round fruit with red or green skin and white flesh inside",
+      "answer": "APPLE",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large body of salt water that covers most of Earth's surface",
+      "answer": "OCEAN",
+      "row": 3,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of bright; with little or no light",
+      "answer": "DARK",
+      "row": 9,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of your face below your mouth and above your neck",
+      "answer": "CHIN",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 16,
   "targetWords": 19,
   "difficulty": "hard"
 }

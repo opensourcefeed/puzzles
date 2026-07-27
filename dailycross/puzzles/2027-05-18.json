@@ -4,66 +4,66 @@
   "title": "2027-05-18",
   "words": [
     {
-      "clue": "The scientific study of stars, planets, and other objects in space",
-      "answer": "ASTRONOMY",
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sweet, brown food made from roasted cocoa beans",
-      "answer": "CHOCOLATE",
-      "row": 3,
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
-      "row": 5,
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark, rich red color, like the color of chestnuts",
+      "answer": "MAROON",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A long seat where players sit when they are not on the field",
+      "answer": "BENCH",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of light; weighing a lot",
+      "answer": "HEAVY",
+      "row": 7,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A bright blue color, like the precious gemstone",
-      "answer": "SAPPHIRE",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A brass instrument with three valves and a bright, clear sound",
-      "answer": "TRUMPET",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The color created by mixing red and yellow, like a carrot",
-      "answer": "ORANGE",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that dries clothes by spinning and heating",
-      "answer": "DRYER",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A dark, earthy brown color, like the pigment",
-      "answer": "UMBER",
+      "clue": "A thin cloud of tiny water droplets very close to the ground",
+      "answer": "MIST",
       "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of a plant that grows underground",
-      "answer": "ROOT",
-      "row": 7,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     }
   ],

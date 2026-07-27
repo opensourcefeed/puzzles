@@ -4,74 +4,60 @@
   "title": "2027-05-01",
   "words": [
     {
-      "clue": "A series of games or contests with several rounds to find a winner",
-      "answer": "TOURNAMENT",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The speed at which the wind is moving",
-      "answer": "WINDSPEED",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a whole number, written with a numerator and denominator",
-      "answer": "FRACTION",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A triangle with all three sides of different lengths",
-      "answer": "SCALENE",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A part of a song that is repeated after each verse",
-      "answer": "CHORUS",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet tropical fruit with orange flesh and a large flat seed",
-      "answer": "MANGO",
-      "row": 1,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A frozen object in space that develops a glowing tail as it nears the Sun",
-      "answer": "COMET",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A large hoofed animal that people ride",
-      "answer": "HORSE",
-      "row": 5,
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A straight line connecting two points on the circumference of a circle",
-      "answer": "CHORD",
-      "row": 3,
+      "clue": "The distance across a circle passing through its center",
+      "answer": "DIAMETER",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very happy and full of joy",
+      "answer": "JOYFUL",
+      "row": 2,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
+      "answer": "BERRY",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 323

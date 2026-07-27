@@ -4,91 +4,77 @@
   "title": "Level 54",
   "words": [
     {
-      "clue": "A triangle with two sides of equal length",
-      "answer": "ISOSCELES",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Involved and interested in something",
-      "answer": "ENGAGED",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A violent, rotating column of air that touches the ground",
-      "answer": "TORNADO",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who constructs buildings and other structures",
-      "answer": "BUILDER",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who is trained in or good at sports",
-      "answer": "ATHLETE",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A slow-moving reptile with a hard shell on its back",
-      "answer": "TURTLE",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Light exercises or practice done before a game to prepare the body",
-      "answer": "WARMUP",
-      "row": 8,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "Finding something funny or entertaining",
-      "answer": "AMUSED",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A solid food made from milk, often yellow and sliced",
-      "answer": "CHEESE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A black and white bear that eats bamboo",
-      "answer": "PANDA",
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The skin covering the top of your head where hair grows",
-      "answer": "SCALP",
-      "row": 0,
+      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "answer": "SAXOPHONE",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A tree that produces sweet, juicy apples",
+      "answer": "APPLETREE",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who designs, builds, and maintains engines and machines",
+      "answer": "ENGINEER",
+      "row": 7,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
+      "answer": "WARDROBE",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling confused because something is difficult to understand",
+      "answer": "PUZZLED",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, bright blue color like the sky on a clear day",
+      "answer": "SKYBLUE",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A bird kept on farms for its eggs and meat",
+      "answer": "CHICKEN",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "PITCHER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 12,
+      "col": 7,
       "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 10,
   "targetWords": 12,
   "difficulty": "medium"
 }

@@ -4,74 +4,74 @@
   "title": "2027-01-26",
   "words": [
     {
-      "clue": "A powerful tractor with a large blade for moving earth and rocks",
-      "answer": "BULLDOZER",
-      "row": 3,
+      "clue": "A small chip that stores photos in a camera",
+      "answer": "MEMORYCARD",
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A triangle with all three sides of different lengths",
-      "answer": "SCALENE",
-      "row": 0,
-      "col": 4,
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The smallest planet in our solar system and closest to the Sun",
-      "answer": "MERCURY",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
-      "answer": "CONCAVE",
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
       "row": 5,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A folded piece of cardboard used to hold and organize loose papers",
-      "answer": "FOLDER",
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
       "row": 4,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "To transfer data from a computer or device to the internet",
-      "answer": "UPLOAD",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A railway carriage for carrying passengers",
-      "answer": "COACH",
-      "row": 1,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A large organ that filters harmful substances from the blood",
-      "answer": "LIVER",
-      "row": 8,
+      "clue": "A team sport where players kick a ball into the opposing team's goal",
+      "answer": "SOCCER",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of furniture for sitting on, used in classrooms",
+      "answer": "CHAIR",
+      "row": 9,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A musical term meaning to play loudly",
-      "answer": "FORTE",
-      "row": 1,
-      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "White frozen crystals that fall from clouds in cold weather",
-      "answer": "SNOW",
-      "row": 6,
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
+      "row": 12,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of fresh snow, milk, and paper",
+      "answer": "WHITE",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 228

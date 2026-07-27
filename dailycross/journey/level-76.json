@@ -4,84 +4,91 @@
   "title": "Level 76",
   "words": [
     {
-      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
-      "answer": "VOLLEYBALL",
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A reference book containing words and their meanings",
-      "answer": "DICTIONARY",
-      "row": 2,
-      "col": 1,
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A number that has more than two factors",
-      "answer": "COMPOSITE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A car used by police officers to patrol and respond to emergencies",
-      "answer": "POLICECAR",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who creates and writes original music",
-      "answer": "COMPOSER",
+      "clue": "Sports and games that involve running, jumping, and throwing",
+      "answer": "ATHLETICS",
       "row": 9,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A long, thin tool used to point at things on a board or screen",
-      "answer": "POINTER",
-      "row": 8,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A scale for measuring temperature, named after Anders Celsius",
-      "answer": "CELSIUS",
-      "row": 8,
-      "col": 9,
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 5,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A part of a line that has two distinct endpoints",
-      "answer": "SEGMENT",
-      "row": 0,
-      "col": 9,
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A person who installs and repairs water pipes and fixtures",
-      "answer": "PLUMBER",
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
       "row": 1,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person who works on a farm growing crops and raising animals",
-      "answer": "FARMER",
-      "row": 13,
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A sweet, sticky syrup made from the sap of certain trees",
-      "answer": "MAPLE",
-      "row": 9,
-      "col": 5,
+      "clue": "A small rubber block used to remove pencil marks from paper",
+      "answer": "ERASER",
+      "row": 6,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "A large motor vehicle used for transporting goods by road",
+      "answer": "TRUCK",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 12,
   "targetWords": 15,
   "difficulty": "medium"
 }

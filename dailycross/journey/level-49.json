@@ -4,70 +4,84 @@
   "title": "Level 49",
   "words": [
     {
-      "clue": "A scientist who studies animals and their behavior",
-      "answer": "ZOOLOGIST",
-      "row": 5,
-      "col": 2,
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A number that has more than two factors",
-      "answer": "COMPOSITE",
-      "row": 4,
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 6,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A sport or activity of moving through water using arms and legs",
-      "answer": "SWIMMING",
-      "row": 5,
-      "col": 9,
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who tends and cultivates gardens and plants",
-      "answer": "GARDENER",
-      "row": 12,
-      "col": 0,
+      "clue": "The front part of your neck that contains your voice box",
+      "answer": "THROAT",
+      "row": 4,
+      "col": 5,
       "direction": "across"
-    },
-    {
-      "clue": "A device that captures and stores photographs digitally",
-      "answer": "CAMERA",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A structure built to carry a road or railway over a river or valley",
-      "answer": "BRIDGE",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The seventh planet from the Sun, which rotates on its side",
-      "answer": "URANUS",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
     },
     {
       "clue": "A young plant just starting to grow",
       "answer": "SPROUT",
-      "row": 0,
-      "col": 10,
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of brave; feeling fear or anxiety",
+      "answer": "AFRAID",
+      "row": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The distance from the center of a circle to any point on its edge",
-      "answer": "RADIUS",
-      "row": 9,
-      "col": 1,
+      "clue": "A sport where players hit a ball over a net using rackets",
+      "answer": "TENNIS",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with a back and legs, designed for one person to sit on",
+      "answer": "CHAIR",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
+      "row": 11,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "An area of open land used for playing sports",
+      "answer": "FIELD",
+      "row": 9,
+      "col": 11,
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

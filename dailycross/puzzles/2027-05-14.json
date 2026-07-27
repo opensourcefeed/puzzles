@@ -4,67 +4,60 @@
   "title": "2027-05-14",
   "words": [
     {
-      "clue": "A device that detects smoke and sounds an alarm",
-      "answer": "SMOKEALARM",
-      "row": 3,
-      "col": 0,
+      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "answer": "SAXOPHONE",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Feeling or showing surprise at something unexpected",
-      "answer": "SURPRISED",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies plants and their growth",
-      "answer": "BOTANIST",
+      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
+      "answer": "REPORTER",
       "row": 0,
-      "col": 5,
+      "col": 7,
       "direction": "down"
-    },
-    {
-      "clue": "A property of a shape that can be divided into two identical halves",
-      "answer": "SYMMETRY",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
     },
     {
       "clue": "A place where ships are built, repaired, and maintained",
       "answer": "DOCKYARD",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling embarrassed or guilty about something",
-      "answer": "ASHAMED",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with six straight sides and six angles",
-      "answer": "HEXAGON",
       "row": 1,
-      "col": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 0,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A breakfast food made from processed grains, often eaten with milk",
-      "answer": "CEREAL",
-      "row": 5,
-      "col": 6,
+      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
+      "answer": "GRAVITY",
+      "row": 7,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A plant that grows, flowers, and dies within a single year",
-      "answer": "ANNUAL",
+      "clue": "A spiky plant that stores water and grows in deserts",
+      "answer": "CACTUS",
       "row": 1,
-      "col": 10,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "The third planet from the Sun, our home planet",
+      "answer": "EARTH",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 336

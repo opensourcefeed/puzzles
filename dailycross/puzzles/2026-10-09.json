@@ -4,73 +4,66 @@
   "title": "2026-10-09",
   "words": [
     {
-      "clue": "Able to understand and share the feelings of others",
-      "answer": "EMPATHETIC",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who directs the performance of an orchestra or choir",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that eats both plants and other animals",
-      "answer": "OMNIVORE",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
-      "answer": "SEATBELT",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a line that has two distinct endpoints",
-      "answer": "SEGMENT",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The result obtained by multiplying two or more numbers together",
-      "answer": "PRODUCT",
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
       "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of furniture with a flat top, used for eating, working, or placing things",
-      "answer": "TABLE",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of up; toward or in a lower position",
-      "answer": "DOWN",
-      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The opposite of right; on the side that is toward the west when facing north",
-      "answer": "LEFT",
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
+      "answer": "AIRPLANE",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The loud sound that follows a flash of lightning",
+      "answer": "THUNDER",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A very fast-running bird that cannot fly",
+      "answer": "OSTRICH",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who makes and sells meat",
+      "answer": "BUTCHER",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
       "row": 0,
-      "col": 12,
+      "col": 8,
       "direction": "down"
     }
   ],

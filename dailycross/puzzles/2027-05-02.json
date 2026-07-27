@@ -4,74 +4,74 @@
   "title": "2027-05-02",
   "words": [
     {
-      "clue": "The state of the atmosphere at a particular time and place",
-      "answer": "WEATHER",
+      "clue": "A person who sells goods in a shop",
+      "answer": "SHOPKEEPER",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Musical instruments that produce sound by vibrating strings",
-      "answer": "STRINGS",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle that travels into space, powered by rocket engines",
-      "answer": "ROCKET",
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
       "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, gentle wind",
-      "answer": "BREEZE",
-      "row": 8,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Greatly surprised or impressed",
-      "answer": "AMAZED",
-      "row": 0,
-      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A message sent and received electronically over a network",
-      "answer": "EMAIL",
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid food made from milk, often yellow and sliced",
+      "answer": "CHEESE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "To find and fix errors in a computer program",
+      "answer": "DEBUG",
+      "row": 9,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A long legless reptile that sheds its skin as it grows",
+      "answer": "SNAKE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The uppermost part of your body that contains your brain",
+      "answer": "HEAD",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A number that has exactly two different factors: itself and 1",
-      "answer": "PRIME",
+      "clue": "A light reddish color, like bubblegum or cotton candy",
+      "answer": "PINK",
       "row": 0,
-      "col": 5,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "A rich, earthy yellow color, like the pigment",
-      "answer": "OCHRE",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Thin material made from wood pulp, used for writing or printing",
-      "answer": "PAPER",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The end part of your arm with fingers and a thumb",
-      "answer": "HAND",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 324

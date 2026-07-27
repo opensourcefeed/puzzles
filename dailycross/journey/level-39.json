@@ -4,70 +4,77 @@
   "title": "Level 39",
   "words": [
     {
-      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
-      "answer": "VOLLEYBALL",
+      "clue": "A small piece of paper with a strip of adhesive on the back for notes",
+      "answer": "STICKYNOTE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
       "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 0,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 1,
+      "clue": "A number written with digits after a dot, like 2.5",
+      "answer": "DECIMAL",
+      "row": 10,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The short hairs that grow along the ridge above each eye",
-      "answer": "EYEBROWS",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your arm between your elbow and your wrist",
-      "answer": "FOREARM",
-      "row": 3,
-      "col": 5,
       "direction": "across"
     },
     {
       "clue": "A person who catches fish as a job",
       "answer": "FISHER",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Finding something funny or entertaining",
-      "answer": "AMUSED",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling safe, protected, and free from worry",
-      "answer": "SECURE",
-      "row": 8,
-      "col": 1,
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
-      "answer": "POTATO",
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A large, round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An object that produces a magnetic field and attracts iron",
+      "answer": "MAGNET",
       "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
+      "row": 10,
       "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 10,
   "targetWords": 10,
   "difficulty": "medium"
 }

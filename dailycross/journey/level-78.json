@@ -4,101 +4,101 @@
   "title": "Level 78",
   "words": [
     {
-      "clue": "A brush with a handle and bristles used for cleaning teeth",
-      "answer": "TOOTHBRUSH",
+      "clue": "A device you use to make phone calls and browse the internet",
+      "answer": "SMARTPHONE",
       "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "To transfer data from the internet to a computer or device",
+      "answer": "DOWNLOAD",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 10,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "An electronic device that receives broadcast signals and displays moving images",
-      "answer": "TELEVISION",
+      "clue": "A two-wheeled vehicle that you ride by pushing pedals with your feet",
+      "answer": "BICYCLE",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A piece of furniture with shelves for storing books",
-      "answer": "BOOKSHELF",
-      "row": 5,
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 7,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
-      "answer": "EGGPLANT",
-      "row": 2,
-      "col": 5,
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
-      "answer": "REPORTER",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A cabinet with shelves for storing food and dishes",
-      "answer": "CUPBOARD",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of living organisms that can reproduce with each other",
-      "answer": "SPECIES",
+      "clue": "A very dry area that receives very little rainfall",
+      "answer": "DESERT",
       "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who owns or works on a ranch raising livestock",
-      "answer": "RANCHER",
-      "row": 10,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A hollow instrument filled with beads, shaken to make sound",
-      "answer": "MARACA",
+      "clue": "Finding something funny or entertaining",
+      "answer": "AMUSED",
       "row": 8,
-      "col": 13,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who bakes bread, cakes, and other baked goods",
-      "answer": "BAKER",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest unit of a digital image, represented as a tiny square",
-      "answer": "PIXEL",
-      "row": 11,
-      "col": 0,
+      "clue": "A series of connected vehicles that run on railway tracks",
+      "answer": "TRAIN",
+      "row": 8,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A series of musical notes arranged in ascending or descending order",
-      "answer": "SCALE",
-      "row": 7,
-      "col": 5,
+      "clue": "A line or group of connected mountains forming a chain",
+      "answer": "RANGE",
+      "row": 6,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The part of a plant that grows from a flower and contains seeds",
-      "answer": "FRUIT",
-      "row": 0,
-      "col": 5,
+      "clue": "A large keyboard instrument with black and white keys",
+      "answer": "PIANO",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A bulb vegetable with layers and a strong smell used in cooking",
+      "answer": "ONION",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A collection of data stored under a single name on a computer",
+      "answer": "FILE",
+      "row": 12,
+      "col": 1,
       "direction": "across"
     }
   ],

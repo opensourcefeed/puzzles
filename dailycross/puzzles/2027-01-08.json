@@ -4,60 +4,74 @@
   "title": "2027-01-08",
   "words": [
     {
-      "clue": "A series of games or contests with several rounds to find a winner",
-      "answer": "TOURNAMENT",
-      "row": 7,
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where players hit a shuttlecock over a net using rackets",
+      "answer": "BADMINTON",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bright, vivid greenish-yellow color named after a liqueur",
-      "answer": "CHARTREUSE",
-      "row": 5,
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A large wild cat with orange fur and black stripes",
+      "answer": "TIGER",
+      "row": 6,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A device that makes holes in paper for filing in binders",
-      "answer": "HOLEPUNCH",
-      "row": 6,
+      "clue": "A frozen object in space that develops a glowing tail as it nears the Sun",
+      "answer": "COMET",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "An insect with large, colorful wings that was once a caterpillar",
-      "answer": "BUTTERFLY",
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
       "row": 9,
-      "col": 3,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A prediction or estimate of future weather conditions",
-      "answer": "FORECAST",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape where every point on its boundary is the same distance from its center",
-      "answer": "CIRCULAR",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that stores chemical energy and converts it to electrical energy",
-      "answer": "BATTERY",
+      "clue": "A real-time conversation using typed messages over the internet",
+      "answer": "CHAT",
       "row": 0,
-      "col": 3,
+      "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "A narrow boat for one person, propelled by a double-bladed paddle",
-      "answer": "KAYAK",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
     }
   ],
   "dayNumber": 210

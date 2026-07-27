@@ -4,73 +4,66 @@
   "title": "2027-05-03",
   "words": [
     {
-      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
-      "answer": "GEOLOGIST",
-      "row": 6,
-      "col": 3,
+      "clue": "A yellow flower that turns into a fluffy ball you blow to make a wish",
+      "answer": "DANDELION",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A shape that can be divided into two identical halves",
-      "answer": "SYMMETRIC",
-      "row": 2,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A long, thin animal that burrows underground and has no legs",
-      "answer": "EARTHWORM",
-      "row": 0,
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that forwards data between computer networks",
-      "answer": "ROUTER",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that grows round, red fruits often used in cooking",
-      "answer": "TOMATO",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The process of writing instructions for a computer to follow",
-      "answer": "CODING",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A symbol on a screen that shows where the mouse is pointing",
-      "answer": "CURSOR",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing pleasure and contentment",
-      "answer": "HAPPY",
-      "row": 3,
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 10,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, red fruit often used in salads and sauces",
+      "answer": "TOMATO",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],

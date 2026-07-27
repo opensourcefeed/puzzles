@@ -4,60 +4,74 @@
   "title": "2026-12-13",
   "words": [
     {
-      "clue": "A folder on a computer where deleted files are temporarily stored",
-      "answer": "RECYCLEBIN",
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
       "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A long-distance running race of 26.2 miles",
+      "answer": "MARATHON",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with drawers for storing items",
+      "answer": "CABINET",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A bird that was historically used to carry messages",
+      "answer": "PIGEON",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, curved yellow fruit with a soft inside",
+      "answer": "BANANA",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A race where each competitor tries to complete a course in the shortest time",
-      "answer": "TIMETRIAL",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A powerful tractor with a large blade for moving earth and rocks",
-      "answer": "BULLDOZER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The scientific study of substances, their properties, and how they react",
-      "answer": "CHEMISTRY",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
-      "answer": "SATURN",
+      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
+      "answer": "BERRY",
       "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A black and white striped animal that looks like a horse",
-      "answer": "ZEBRA",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The rounded back part of your foot below your ankle",
-      "answer": "HEEL",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A common black bird that gathers in large groups",
-      "answer": "CROW",
-      "row": 4,
-      "col": 10,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
+      "answer": "RULER",
+      "row": 7,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "How high or low a musical sound is",
+      "answer": "PITCH",
+      "row": 1,
+      "col": 10,
+      "direction": "across"
     }
   ],
   "dayNumber": 184

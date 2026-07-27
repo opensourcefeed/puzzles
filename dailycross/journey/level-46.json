@@ -4,70 +4,77 @@
   "title": "Level 46",
   "words": [
     {
-      "clue": "A large white board in a classroom used for writing with markers",
-      "answer": "WHITEBOARD",
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
       "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
-      "answer": "METEORITE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where players hit a shuttlecock over a net using rackets",
-      "answer": "BADMINTON",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A card with a student's name and photo used for identification",
-      "answer": "IDCARD",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
-      "answer": "HANGER",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A light purple-pink color, like the flower",
-      "answer": "LILAC",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A form of energy that travels in waves and allows us to see",
-      "answer": "LIGHT",
-      "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The joint in the middle of your arm that allows it to bend",
-      "answer": "ELBOW",
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
       "row": 0,
-      "col": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The opposite of day; the time of darkness between sunset and sunrise",
-      "answer": "NIGHT",
-      "row": 11,
-      "col": 7,
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when leaves change color and fall",
+      "answer": "AUTUMN",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep, dark green color like the trees in a forest",
+      "answer": "FOREST",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A desert animal with one or two humps on its back",
+      "answer": "CAMEL",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of full; containing nothing",
+      "answer": "EMPTY",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 10,
   "targetWords": 11,
   "difficulty": "medium"
 }

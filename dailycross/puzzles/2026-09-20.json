@@ -4,66 +4,59 @@
   "title": "2026-09-20",
   "words": [
     {
-      "clue": "Very surprised or shocked by something unexpected",
-      "answer": "ASTONISHED",
+      "clue": "Feeling or showing surprise at something unexpected",
+      "answer": "SURPRISED",
       "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A very intelligent and playful ocean mammal",
+      "answer": "DOLPHIN",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, orange root vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The short hairs that grow along the edge of each eyelid",
-      "answer": "EYELASHES",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The small amount of water in the form of vapor in the air",
-      "answer": "MOISTURE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
-      "answer": "COCONUT",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 4,
-      "col": 0,
+      "clue": "A light, narrow boat propelled by one or more paddles",
+      "answer": "CANOE",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The part of a flower's stamen that produces and holds pollen",
-      "answer": "ANTHER",
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
       "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 0,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "The body part used for tasting food",
-      "answer": "TONGUE",
-      "row": 2,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "The skin covering the top of your head where hair grows",
-      "answer": "SCALP",
-      "row": 4,
-      "col": 8,
+      "clue": "The thick muscle at the back of your lower leg",
+      "answer": "CALF",
+      "row": 0,
+      "col": 1,
       "direction": "across"
     }
   ],

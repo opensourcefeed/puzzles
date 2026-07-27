@@ -4,65 +4,72 @@
   "title": "2026-09-27",
   "words": [
     {
-      "clue": "A scientist who studies stars, planets, and other objects in space",
-      "answer": "ASTRONOMER",
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of moving quickly on foot",
+      "answer": "RUNNING",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who serves food and drinks at a restaurant",
+      "answer": "WAITER",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A black and white striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A wild dog-like animal that howls at the moon",
+      "answer": "WOLF",
       "row": 4,
       "col": 0,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Giving help and encouragement to others",
-      "answer": "SUPPORTIVE",
+      "clue": "A white grain that is a staple food for many meals worldwide",
+      "answer": "RICE",
       "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A period of unusually cold weather that lasts for several days",
-      "answer": "COLDSPELL",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
-      "answer": "TANGERINE",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A large, colorful bird that cannot fly and lives in rainforests",
-      "answer": "CASSOWARY",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A place where trains stop to pick up and drop off passengers",
-      "answer": "STATION",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A very pale, soft green color, like the ceramic glaze",
-      "answer": "CELADON",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The display surface of a computer that shows images and text",
-      "answer": "SCREEN",
-      "row": 1,
       "col": 8,
       "direction": "down"
     }

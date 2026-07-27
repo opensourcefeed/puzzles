@@ -4,94 +4,94 @@
   "title": "Level 68",
   "words": [
     {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
       "row": 6,
-      "col": 3,
-      "direction": "across"
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "A facility from which spacecraft and rockets are launched",
-      "answer": "SPACEPORT",
+      "clue": "The suit an astronaut wears to survive in space",
+      "answer": "SPACESUIT",
       "row": 4,
-      "col": 8,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The process by which the body breaks down food into nutrients",
-      "answer": "DIGESTION",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A liquid fuel made from petroleum, used in most cars",
-      "answer": "GASOLINE",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A purple flower known for its calming, pleasant scent",
-      "answer": "LAVENDER",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person whose job is to paint walls, buildings, and other surfaces",
-      "answer": "PAINTER",
-      "row": 12,
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
+      "row": 5,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Feeling fear or worry about a possible danger",
-      "answer": "SCARED",
-      "row": 4,
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of clothes worn by members of a team for their sport",
+      "answer": "UNIFORM",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The land along the edge of an ocean or sea",
+      "answer": "COAST",
+      "row": 2,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A day when the sky is covered with many clouds",
-      "answer": "CLOUDY",
-      "row": 0,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, smooth stone worn by water over time",
-      "answer": "PEBBLE",
-      "row": 1,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "The front part of your neck that contains your voice box",
-      "answer": "THROAT",
-      "row": 8,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of old; having lived for only a short time",
-      "answer": "YOUNG",
+      "clue": "The smallest finger on your hand, located farthest from your thumb",
+      "answer": "PINKY",
       "row": 10,
-      "col": 0,
-      "direction": "across"
+      "col": 12,
+      "direction": "down"
     },
     {
-      "clue": "An object that has length, width, and height",
-      "answer": "SOLID",
-      "row": 8,
-      "col": 1,
+      "clue": "A collection of maps in book form",
+      "answer": "ATLAS",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     }
   ],

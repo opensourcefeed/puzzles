@@ -4,133 +4,112 @@
   "title": "Level 126",
   "words": [
     {
-      "clue": "A reference book containing words and their meanings",
-      "answer": "DICTIONARY",
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large white board in a classroom used for writing with markers",
-      "answer": "WHITEBOARD",
-      "row": 5,
-      "col": 5,
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A tree that keeps its green leaves throughout the entire year",
-      "answer": "EVERGREEN",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The outermost layer of Earth's atmosphere, where it meets space",
-      "answer": "EXOSPHERE",
-      "row": 3,
-      "col": 11,
+      "clue": "Feeling or showing surprise at something unexpected",
+      "answer": "SURPRISED",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A small device used to make a pencil point sharp",
-      "answer": "SHARPENER",
-      "row": 3,
+      "clue": "A person who plans and designs buildings and other structures",
+      "answer": "ARCHITECT",
+      "row": 12,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A short-range wireless technology for connecting devices",
-      "answer": "BLUETOOTH",
-      "row": 11,
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A purple flower known for its calming, pleasant scent",
+      "answer": "LAVENDER",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that converts physical documents into digital images",
+      "answer": "SCANNER",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long, thin animal that burrows underground and has no legs",
-      "answer": "EARTHWORM",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A symbol, usually a letter, that represents an unknown number",
-      "answer": "VARIABLE",
+      "clue": "A deep, dark green color like the trees in a forest",
+      "answer": "FOREST",
       "row": 6,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Musical instruments that produce sound by blowing air through them",
-      "answer": "WOODWIND",
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
       "row": 14,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who is trained in or good at sports",
-      "answer": "ATHLETE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A breakfast food made from processed grains, often eaten with milk",
-      "answer": "CEREAL",
-      "row": 8,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The color created by mixing red and blue, like a violet",
-      "answer": "PURPLE",
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
       "row": 0,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that controls the flow of water from a pipe",
-      "answer": "FAUCET",
-      "row": 0,
-      "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "A rich, earthy yellow color, like the pigment",
-      "answer": "OCHRE",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
     },
     {
       "clue": "The opposite of easy; requiring great effort",
       "answer": "HARD",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A small picture or symbol on a computer screen that represents a program",
-      "answer": "ICON",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A blue-green color, like the color of a duck's feathers",
-      "answer": "TEAL",
-      "row": 13,
+      "row": 14,
       "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 15,
   "targetWords": 22,
   "difficulty": "hard"
 }

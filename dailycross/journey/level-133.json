@@ -4,126 +4,105 @@
   "title": "Level 133",
   "words": [
     {
-      "clue": "An angle that measures exactly 90 degrees",
-      "answer": "RIGHTANGLE",
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large, juicy fruit with green striped skin and red flesh",
-      "answer": "WATERMELON",
-      "row": 5,
-      "col": 4,
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A facility from which spacecraft and rockets are launched",
-      "answer": "SPACEPORT",
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
       "row": 3,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
-      "answer": "SAXOPHONE",
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
       "row": 13,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A very large, powerful storm that forms over warm ocean waters",
-      "answer": "HURRICANE",
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
       "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 6,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A device that converts paper documents into digital images",
-      "answer": "SCANNER",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The state of the atmosphere at a particular time and place",
-      "answer": "WEATHER",
-      "row": 11,
-      "col": 6,
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 7,
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
+      "row": 4,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A short green plant that covers lawns and fields",
-      "answer": "GRASS",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, round fruit that grows in bunches on vines",
-      "answer": "GRAPE",
-      "row": 7,
-      "col": 2,
+      "clue": "A thin layer of ice that forms on surfaces when the temperature drops below freezing",
+      "answer": "FROST",
+      "row": 10,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A wet, low-lying area where the ground is often covered with water",
-      "answer": "MARSH",
-      "row": 3,
-      "col": 6,
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
+      "row": 11,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The red liquid that circulates through your heart and blood vessels",
-      "answer": "BLOOD",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The symbol (×) used to show that numbers are being multiplied",
-      "answer": "TIMES",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A narrow, deep valley with very steep rocky sides",
-      "answer": "GORGE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A collection of maps in book form",
-      "answer": "ATLAS",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest particle of a chemical element that can exist",
-      "answer": "ATOM",
+      "clue": "A warm yellow-brown color, like the fossilized tree resin",
+      "answer": "AMBER",
       "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A single sound of a specific pitch in music",
-      "answer": "NOTE",
-      "row": 2,
-      "col": 2,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 14,
   "targetWords": 23,
   "difficulty": "hard"
 }

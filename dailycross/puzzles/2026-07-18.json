@@ -4,74 +4,60 @@
   "title": "2026-07-18",
   "words": [
     {
-      "clue": "A powered railway vehicle that pulls a train",
-      "answer": "LOCOMOTIVE",
-      "row": 4,
-      "col": 0,
+      "clue": "A place where ships are built, repaired, and maintained",
+      "answer": "DOCKYARD",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small bushy-tailed animal that collects and stores nuts",
-      "answer": "SQUIRREL",
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
       "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A container used to carry a packed meal to school",
-      "answer": "LUNCHBOX",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
+      "clue": "The sport of moving quickly on foot",
+      "answer": "RUNNING",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 6,
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The point that is the same distance from every point on the circumference",
-      "answer": "CENTER",
-      "row": 4,
-      "col": 2,
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A clickable element on a screen that triggers an action",
-      "answer": "BUTTON",
+      "clue": "A deep blue-purple color, like the plant used for dye",
+      "answer": "INDIGO",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The number of points earned by a player or team in a game",
+      "answer": "SCORE",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Energy that travels in waves and is detected by our ears",
-      "answer": "SOUND",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A tall grain plant with yellow kernels arranged on a cob",
-      "answer": "CORN",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The top layer of Earth's surface in which plants grow",
-      "answer": "SOIL",
-      "row": 1,
+      "clue": "A collection of related web pages under a single domain name",
+      "answer": "SITE",
+      "row": 3,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 36

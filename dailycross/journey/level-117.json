@@ -4,119 +4,105 @@
   "title": "Level 117",
   "words": [
     {
-      "clue": "A bright, vivid greenish-yellow color named after a liqueur",
-      "answer": "CHARTREUSE",
+      "clue": "Musical instruments that produce sound by being struck or shaken",
+      "answer": "PERCUSSION",
       "row": 7,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The opposite of accurate; not correct or precise",
-      "answer": "INACCURATE",
+      "clue": "A sweet, brown food made from roasted cocoa beans",
+      "answer": "CHOCOLATE",
       "row": 5,
-      "col": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A scientist who studies stars, planets, and other objects in space",
-      "answer": "ASTRONOMER",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The process by which the body breaks down food into nutrients",
-      "answer": "DIGESTION",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The central component of a computer that processes instructions",
-      "answer": "PROCESSOR",
-      "row": 14,
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 6,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 13,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A specially equipped vehicle used to transport sick or injured people",
-      "answer": "AMBULANCE",
-      "row": 0,
-      "col": 2,
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 7,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A scientist who studies animals and their behavior",
-      "answer": "ZOOLOGIST",
-      "row": 0,
-      "col": 10,
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling or showing thanks for something received",
-      "answer": "GRATEFUL",
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of fabric hung over a window to block light or provide privacy",
+      "answer": "CURTAIN",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A powerful vehicle used on farms for pulling machinery and heavy loads",
+      "answer": "TRACTOR",
       "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A container used to carry a packed meal to school",
-      "answer": "LUNCHBOX",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright yellow citrus fruit with a very sour taste",
-      "answer": "LEMON",
-      "row": 3,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "A large natural stream of water that flows across land",
-      "answer": "RIVER",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The pair of parallel metal rails that trains run on",
-      "answer": "TRACK",
-      "row": 9,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A large string instrument played while seated, held between the knees",
-      "answer": "CELLO",
-      "row": 10,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The outer layer of tissue that covers and protects your body",
-      "answer": "SKIN",
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
       "row": 0,
-      "col": 14,
-      "direction": "down"
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "A very large brass instrument with a deep, low sound",
-      "answer": "TUBA",
+      "clue": "A card with a student's name and photo used for identification",
+      "answer": "IDCARD",
       "row": 0,
       "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "The color of a ripe banana or the sun",
+      "answer": "YELLOW",
+      "row": 9,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 14,
   "targetWords": 21,
   "difficulty": "hard"
 }

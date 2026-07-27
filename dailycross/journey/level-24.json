@@ -4,60 +4,60 @@
   "title": "Level 24",
   "words": [
     {
-      "clue": "A dark, heavy cloud that often brings rain or a storm",
-      "answer": "STORMCLOUD",
-      "row": 7,
+      "clue": "An Australian animal that hops and carries babies in a pouch",
+      "answer": "KANGAROO",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 6,
-      "col": 7,
+      "clue": "A garment worn to stay dry in the rain",
+      "answer": "RAINCOAT",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A strip of material used to mark a reader's place in a book",
-      "answer": "BOOKMARK",
+      "clue": "Feeling fear or worry about a possible danger",
+      "answer": "SCARED",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft cushion you rest your head on while sleeping",
+      "answer": "PILLOW",
       "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where two people fight using their fists while wearing gloves",
+      "answer": "BOXING",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A global network connecting millions of computers worldwide",
-      "answer": "INTERNET",
+      "clue": "Weather during which snow is falling",
+      "answer": "SNOWY",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who guards and protects a building or place",
+      "answer": "GUARD",
       "row": 10,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A purple flower known for its calming, pleasant scent",
-      "answer": "LAVENDER",
-      "row": 12,
-      "col": 4,
+      "clue": "A farm animal with horns and a beard under its chin",
+      "answer": "GOAT",
+      "row": 1,
+      "col": 1,
       "direction": "across"
-    },
-    {
-      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
-      "answer": "ICECREAM",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, narrow boat propelled by one or more paddles",
-      "answer": "CANOE",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The land along the edge of an ocean or sea",
-      "answer": "COAST",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
     }
   ],
   "wordCount": 8,

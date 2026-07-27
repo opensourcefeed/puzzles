@@ -4,66 +4,59 @@
   "title": "2026-10-26",
   "words": [
     {
-      "clue": "The movement of one object around another in an orbital path",
-      "answer": "REVOLUTION",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
-      "answer": "PENINSULA",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A specially equipped vehicle used to transport sick or injured people",
-      "answer": "AMBULANCE",
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
       "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A secret combination of characters used to access an account",
-      "answer": "PASSWORD",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A woodwind instrument with a single reed and keys",
-      "answer": "CLARINET",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that produces text and images on paper from a computer",
-      "answer": "PRINTER",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling calm and not worried or tense",
-      "answer": "RELAXED",
-      "row": 13,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Weather that feels damp and has a lot of moisture in the air",
-      "answer": "HUMID",
-      "row": 1,
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 4,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A grain crop whose flour is used to make bread",
+      "answer": "WHEAT",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A woody plant that is smaller than a tree and grows close to the ground",
+      "answer": "SHRUB",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A woodwind instrument held sideways and played by blowing across a hole",
+      "answer": "FLUTE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of clean; untidy or dirty",
+      "answer": "MESSY",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     }
   ],

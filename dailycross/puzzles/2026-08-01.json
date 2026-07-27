@@ -4,72 +4,65 @@
   "title": "2026-08-01",
   "words": [
     {
-      "clue": "An instrument used to measure atmospheric pressure",
-      "answer": "BAROMETER",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A number that is the product of a number multiplied by itself",
-      "answer": "SQUAREDO",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A panel of keys used to input text and commands into a computer",
-      "answer": "KEYBOARD",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A large building or outdoor area with seats for watching sports events",
-      "answer": "STADIUM",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who catches fish as a job",
-      "answer": "FISHER",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that grows round, red fruits often used in cooking",
-      "answer": "TOMATO",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of a ripe banana or the sun",
-      "answer": "YELLOW",
-      "row": 9,
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
-      "answer": "CRANE",
-      "row": 1,
-      "col": 10,
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "How high or low a musical sound is",
-      "answer": "PITCH",
+      "clue": "A sea creature with eight arms and a soft body",
+      "answer": "OCTOPUS",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
       "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling in need of rest or sleep",
+      "answer": "TIRED",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
+      "answer": "BERRY",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The smallest finger on your hand, located farthest from your thumb",
+      "answer": "PINKY",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of music performed by a single singer",
+      "answer": "SOLO",
+      "row": 10,
       "col": 4,
       "direction": "across"
     }

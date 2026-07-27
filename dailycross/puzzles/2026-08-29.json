@@ -4,66 +4,66 @@
   "title": "2026-08-29",
   "words": [
     {
-      "clue": "A very tall flower with a large yellow head that turns toward the sun",
-      "answer": "SUNFLOWER",
-      "row": 5,
-      "col": 0,
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
-      "answer": "GEOLOGIST",
+      "clue": "A person who designs, builds, and maintains engines and machines",
+      "answer": "ENGINEER",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
       "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who conducts scientific research in a laboratory",
-      "answer": "SCIENTIST",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that makes holes in paper for filing in binders",
-      "answer": "HOLEPUNCH",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The passing of genetic traits from parents to offspring",
-      "answer": "HEREDITY",
+      "clue": "A yellow metallic color associated with the precious metal",
+      "answer": "GOLD",
       "row": 3,
-      "col": 8,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "An underground layer of rock that holds and transmits water",
-      "answer": "AQUIFER",
+      "clue": "The action of moving through water by moving your arms and legs",
+      "answer": "SWIM",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of up; toward or in a lower position",
+      "answer": "DOWN",
       "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that produces text and images on paper",
-      "answer": "PRINTER",
-      "row": 11,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The places where two bones meet and are connected",
-      "answer": "JOINTS",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Finding something funny or entertaining",
-      "answer": "AMUSED",
-      "row": 1,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     }
   ],

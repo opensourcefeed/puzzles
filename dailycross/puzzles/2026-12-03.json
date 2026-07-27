@@ -4,74 +4,67 @@
   "title": "2026-12-03",
   "words": [
     {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of fabric hung over a window to block light or provide privacy",
-      "answer": "CURTAIN",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A small string instrument played with a bow, held under the chin",
-      "answer": "VIOLIN",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A place where water from a river or lake flows out into another body of water",
-      "answer": "OUTLET",
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The point that is the same distance from every point on the circumference",
-      "answer": "CENTER",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who writes books, articles, or other written works",
-      "answer": "WRITER",
-      "row": 8,
-      "col": 9,
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A black and white striped animal that looks like a horse",
-      "answer": "ZEBRA",
-      "row": 13,
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A colorless, odorless gas that is essential for human life",
+      "answer": "OXYGEN",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A frozen object in space that develops a glowing tail as it nears the Sun",
+      "answer": "COMET",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A bulb vegetable with layers and a strong smell used in cooking",
+      "answer": "ONION",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape that looks like a circle stretched out, like an egg",
+      "answer": "OVAL",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of furniture with a flat top for writing, used by students",
+      "answer": "DESK",
+      "row": 5,
       "col": 6,
       "direction": "across"
-    },
-    {
-      "clue": "A small, narrow stream of water",
-      "answer": "CREEK",
-      "row": 9,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The action of pressing and releasing a mouse button",
-      "answer": "CLICK",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A push or pull that can change the motion of an object",
-      "answer": "FORCE",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
     }
   ],
   "dayNumber": 174

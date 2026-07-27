@@ -4,59 +4,66 @@
   "title": "2027-05-15",
   "words": [
     {
-      "clue": "A specially equipped vehicle used to transport sick or injured people",
-      "answer": "AMBULANCE",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A car used by police officers to patrol and respond to emergencies",
-      "answer": "POLICECAR",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
-      "answer": "TANGERINE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The total distance around the outside of a shape",
-      "answer": "PERIMETER",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A long, curved yellow fruit with a soft inside",
-      "answer": "BANANA",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A narrow, deep valley with very steep rocky sides",
-      "answer": "GORGE",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A tropical fruit with green skin and sweet, soft flesh",
-      "answer": "GUAVA",
-      "row": 5,
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A woody plant that is smaller than a tree and grows close to the ground",
-      "answer": "SHRUB",
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
       "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of your face above your eyes and below your hairline",
+      "answer": "FOREHEAD",
+      "row": 4,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A black and white bird that lives in cold oceans and cannot fly",
+      "answer": "PENGUIN",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft, pale yellow color, like the dairy product",
+      "answer": "BUTTER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling in need of rest or sleep",
+      "answer": "TIRED",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     }
   ],

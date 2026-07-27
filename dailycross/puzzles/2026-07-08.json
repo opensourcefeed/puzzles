@@ -4,74 +4,67 @@
   "title": "2026-07-08",
   "words": [
     {
-      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
-      "answer": "SPACECRAFT",
-      "row": 7,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The color created by mixing red and yellow, like a carrot",
+      "answer": "ORANGE",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that makes exact copies of documents on paper",
+      "answer": "COPIER",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The smallest finger on your hand, located farthest from your thumb",
+      "answer": "PINKY",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape that has no straight edges or corners",
+      "answer": "ROUND",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A pale blue-green color, like water",
+      "answer": "AQUA",
+      "row": 6,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A person who creates and designs clothing and accessories",
-      "answer": "DESIGNER",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic device that processes data and performs tasks",
-      "answer": "COMPUTER",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A spotted wild cat that is the fastest land animal",
-      "answer": "CHEETAH",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
-      "answer": "SCOOTER",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two arms used for drawing circles and arcs",
-      "answer": "COMPASS",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A very fast-running bird that cannot fly",
-      "answer": "OSTRICH",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Extremely happy and excited",
-      "answer": "ELATED",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Three or more musical notes played together at the same time",
-      "answer": "CHORD",
-      "row": 9,
-      "col": 11,
-      "direction": "down"
     }
   ],
   "dayNumber": 26

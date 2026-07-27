@@ -4,63 +4,56 @@
   "title": "Level 21",
   "words": [
     {
-      "clue": "The result obtained by subtracting one number from another",
-      "answer": "DIFFERENCE",
-      "row": 6,
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The land along the edge of an ocean or sea",
+      "answer": "COAST",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 2,
-      "col": 5,
+      "clue": "The curved path of an object as it moves around another in space",
+      "answer": "ORBIT",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The state of the atmosphere at a particular time and place",
-      "answer": "WEATHER",
-      "row": 9,
+      "clue": "A form of energy that travels in waves and allows us to see",
+      "answer": "LIGHT",
+      "row": 5,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Feeling worried or uneasy about what might happen",
-      "answer": "NERVOUS",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A portable device with a touch screen, larger than a phone",
-      "answer": "TABLET",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of absorbent cloth used for drying after washing",
-      "answer": "TOWEL",
-      "row": 9,
+      "clue": "A bright yellow citrus fruit with a very sour taste",
+      "answer": "LEMON",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
-      "answer": "SPOON",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A clear, colorless liquid that all living things need to survive",
-      "answer": "WATER",
+      "clue": "The skin covering the top of your head where hair grows",
+      "answer": "SCALP",
       "row": 0,
-      "col": 3,
-      "direction": "down"
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 7,
   "targetWords": 8,
   "difficulty": "easy"
 }

@@ -4,42 +4,49 @@
   "title": "Level 11",
   "words": [
     {
-      "clue": "A specially equipped vehicle used to transport sick or injured people",
-      "answer": "AMBULANCE",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
-      "answer": "REPORTER",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A secret combination of characters used to access an account",
-      "answer": "PASSWORD",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
-      "answer": "WARDROBE",
-      "row": 7,
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A person who installs and repairs water pipes and fixtures",
-      "answer": "PLUMBER",
+      "clue": "A set of clothes worn by members of a team for their sport",
+      "answer": "UNIFORM",
       "row": 0,
-      "col": 3,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A dark, rich red color, like the color of chestnuts",
+      "answer": "MAROON",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cuts hair for a living",
+      "answer": "BARBER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A medical professional who diagnoses and treats illnesses",
+      "answer": "DOCTOR",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The sweet liquid inside a fruit or plant",
+      "answer": "JUICE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

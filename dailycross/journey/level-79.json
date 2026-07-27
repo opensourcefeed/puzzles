@@ -4,81 +4,81 @@
   "title": "Level 79",
   "words": [
     {
-      "clue": "A person who works in a library and helps people find books",
-      "answer": "LIBRARIAN",
-      "row": 7,
-      "col": 1,
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies animals and their behavior",
-      "answer": "ZOOLOGIST",
-      "row": 4,
-      "col": 1,
+      "clue": "A person who is traveling in a vehicle but not driving it",
+      "answer": "PASSENGER",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "The person who directs and leads an orchestra",
       "answer": "CONDUCTOR",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies plants and their growth",
-      "answer": "BOTANIST",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A board or area where student work is displayed for others to see",
-      "answer": "DISPLAY",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport where athletes throw a long, spear-like object for distance",
-      "answer": "JAVELIN",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 3,
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A region of a circle bounded by two radii and the arc between them",
-      "answer": "SECTOR",
-      "row": 4,
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A large keyboard instrument with black and white keys",
-      "answer": "PIANO",
-      "row": 0,
-      "col": 9,
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Weather during which rain is falling",
-      "answer": "RAINY",
-      "row": 2,
-      "col": 8,
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A pinkish-orange color, like the marine animal",
-      "answer": "CORAL",
-      "row": 5,
+      "clue": "A round, red fruit often used in salads and sauces",
+      "answer": "TOMATO",
+      "row": 7,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A clear, colorless liquid that all living things need to survive",
+      "answer": "WATER",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "wordCount": 11,

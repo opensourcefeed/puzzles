@@ -4,60 +4,74 @@
   "title": "2026-07-13",
   "words": [
     {
-      "clue": "A sudden shaking of the ground caused by movements in Earth's crust",
-      "answer": "EARTHQUAKE",
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A strip of material used to mark a reader's place in a book",
+      "answer": "BOOKMARK",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person whose job is to paint walls, buildings, and other surfaces",
+      "answer": "PAINTER",
       "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-      "answer": "STOMATA",
-      "row": 3,
-      "col": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A person who installs and repairs water pipes and fixtures",
-      "answer": "PLUMBER",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A colorful bird that can copy human speech and other sounds",
-      "answer": "PARROT",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A part of a song that is repeated after each verse",
-      "answer": "CHORUS",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that grows round, red fruits often used in cooking",
-      "answer": "TOMATO",
+      "clue": "A container with a spout and handle used for boiling water",
+      "answer": "KETTLE",
       "row": 7,
-      "col": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
-      "row": 1,
-      "col": 0,
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A large hoofed animal that people ride",
+      "answer": "HORSE",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The opposite of big; of a size that is less than average",
-      "answer": "SMALL",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
+      "clue": "A device with a flat, heated surface used to remove wrinkles from clothes",
+      "answer": "IRON",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 31

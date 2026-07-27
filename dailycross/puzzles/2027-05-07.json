@@ -4,67 +4,46 @@
   "title": "2027-05-07",
   "words": [
     {
-      "clue": "The scientific study of substances, their properties, and how they react",
-      "answer": "CHEMISTRY",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The number above the line in a fraction, showing how many parts are taken",
-      "answer": "NUMERATOR",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of a flower's stamen that produces and holds pollen",
-      "answer": "ANTHER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing care and concern for others",
-      "answer": "CARING",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, oval nut that grows underground and is used to make butter",
-      "answer": "PEANUT",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of three-dimensional space an object occupies",
-      "answer": "VOLUME",
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
       "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A portable computer that folds flat for easy carrying",
-      "answer": "LAPTOP",
-      "row": 6,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sweet, sticky syrup made from the sap of certain trees",
-      "answer": "MAPLE",
-      "row": 3,
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A person who bakes bread, cakes, and other baked goods",
-      "answer": "BAKER",
+      "clue": "A device that stores chemical energy and converts it to electrical energy",
+      "answer": "BATTERY",
       "row": 4,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The pair of parallel metal rails that trains run on",
+      "answer": "TRACK",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "How high or low a musical sound is",
+      "answer": "PITCH",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A dwarf planet in our solar system that was once considered the ninth planet",
+      "answer": "PLUTO",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 329

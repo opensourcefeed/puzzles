@@ -4,74 +4,74 @@
   "title": "2027-03-08",
   "words": [
     {
-      "clue": "A flat shape with eleven straight sides and eleven angles",
-      "answer": "HENDECAGON",
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
       "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The number above the line in a fraction, showing how many parts are taken",
-      "answer": "NUMERATOR",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The side or direction from which the wind is blowing",
-      "answer": "WINDWARD",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic instrument with a keyboard that produces various sounds",
-      "answer": "KEYBOARD",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "An electrical appliance for browning slices of bread",
-      "answer": "TOASTER",
-      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small, lockable storage compartment for personal belongings at school",
-      "answer": "LOCKER",
-      "row": 8,
+      "clue": "A bright flash of light in the sky during a thunderstorm",
+      "answer": "LIGHTNING",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat container with a handle, used with a broom to collect dirt",
+      "answer": "DUSTPAN",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 3,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A tall grain plant with yellow kernels arranged on a cob",
-      "answer": "CORN",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A two-wheeled vehicle that you ride by pedaling",
-      "answer": "BIKE",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Hot, liquid rock that flows from a volcano onto the Earth's surface",
-      "answer": "LAVA",
-      "row": 0,
-      "col": 3,
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 7,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of space inside the boundary of a flat shape",
+      "answer": "AREA",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 269

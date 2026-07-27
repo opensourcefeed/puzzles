@@ -4,119 +4,91 @@
   "title": "Level 89",
   "words": [
     {
-      "clue": "A dense, lush forest found in tropical regions with high rainfall",
-      "answer": "RAINFOREST",
-      "row": 6,
-      "col": 2,
+      "clue": "A folder on a computer where deleted files are temporarily stored",
+      "answer": "RECYCLEBIN",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 4,
-      "col": 7,
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Involved and interested in something",
-      "answer": "ENGAGED",
-      "row": 6,
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 2,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A tall animal with a very long neck",
-      "answer": "GIRAFFE",
+      "clue": "A person who tends and cultivates gardens and plants",
+      "answer": "GARDENER",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "PITCHER",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A green, pear-shaped fruit with a large pit inside",
+      "answer": "AVOCADO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
       "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The combination of musical notes played together to produce a pleasing sound",
-      "answer": "HARMONY",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The loud sound that follows a flash of lightning",
-      "answer": "THUNDER",
-      "row": 6,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A colorful bird that can copy human speech and other sounds",
-      "answer": "PARROT",
-      "row": 6,
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 0,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A bird that was historically used to carry messages",
-      "answer": "PIGEON",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of grass, leaves, and many plants",
-      "answer": "GREEN",
-      "row": 11,
-      "col": 10,
+      "clue": "A clickable element on a screen that triggers an action",
+      "answer": "BUTTON",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A black and white bear that eats bamboo",
-      "answer": "PANDA",
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
       "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint in the middle of your arm that allows it to bend",
-      "answer": "ELBOW",
-      "row": 4,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "To find and fix errors in a computer program",
-      "answer": "DEBUG",
-      "row": 13,
-      "col": 1,
+      "clue": "A small hill of earth",
+      "answer": "MOUND",
+      "row": 6,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
-      "answer": "BROOM",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing strong displeasure about something unfair",
-      "answer": "ANGRY",
-      "row": 2,
-      "col": 7,
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 10,
+      "col": 2,
       "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 12,
   "targetWords": 17,
   "difficulty": "medium"
 }

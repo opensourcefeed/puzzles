@@ -4,91 +4,84 @@
   "title": "Level 59",
   "words": [
     {
-      "clue": "A small electronic device used for mathematical calculations",
-      "answer": "CALCULATOR",
-      "row": 7,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The number above the line in a fraction, showing how many parts are taken",
-      "answer": "NUMERATOR",
-      "row": 6,
-      "col": 4,
+      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
+      "answer": "EGGPLANT",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The total distance around the outside of a shape",
-      "answer": "PERIMETER",
-      "row": 9,
-      "col": 3,
+      "clue": "A garment worn to stay dry in the rain",
+      "answer": "RAINCOAT",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 10,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A car used by police officers to patrol and respond to emergencies",
-      "answer": "POLICECAR",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
+      "clue": "A person who makes and sells meat",
+      "answer": "BUTCHER",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
     },
     {
-      "clue": "Feeling or showing surprise at something unexpected",
-      "answer": "SURPRISED",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The process by which the body breaks down food into nutrients",
-      "answer": "DIGESTION",
-      "row": 0,
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A violent, rotating column of air that touches the ground",
-      "answer": "TORNADO",
-      "row": 12,
-      "col": 4,
+      "clue": "The color created by mixing red and yellow, like a carrot",
+      "answer": "ORANGE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where two people fight using their fists while wearing gloves",
+      "answer": "BOXING",
+      "row": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An underground layer of rock that holds and transmits water",
-      "answer": "AQUIFER",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
+      "clue": "A folded piece of cardboard used to hold and organize loose papers",
+      "answer": "FOLDER",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
     },
     {
-      "clue": "A bright green color, like the precious gemstone",
-      "answer": "EMERALD",
-      "row": 3,
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 7,
       "col": 6,
       "direction": "across"
-    },
-    {
-      "clue": "A round, red fruit often used in salads and sauces",
-      "answer": "TOMATO",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A game or contest between two players or teams",
-      "answer": "MATCH",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
-      "row": 10,
-      "col": 7,
-      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 11,
   "targetWords": 13,
   "difficulty": "medium"
 }

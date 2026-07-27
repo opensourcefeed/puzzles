@@ -4,91 +4,84 @@
   "title": "Level 71",
   "words": [
     {
-      "clue": "A scientist who studies matter, energy, and their interactions",
-      "answer": "PHYSICIST",
-      "row": 7,
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 3,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A number that has more than two factors",
-      "answer": "COMPOSITE",
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
       "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A large open area of land covered with wild grass",
-      "answer": "GRASSLAND",
-      "row": 4,
-      "col": 10,
+      "clue": "A panel of keys used to input text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 10,
+      "clue": "A warm cover you sleep under in bed",
+      "answer": "BLANKET",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A building where vehicles are kept or repaired",
+      "answer": "GARAGE",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, orange citrus fruit with a sweet taste",
+      "answer": "ORANGE",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of true",
+      "answer": "FALSE",
+      "row": 7,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A board on a wall used for displaying notices and announcements",
-      "answer": "BULLETIN",
-      "row": 7,
+      "clue": "A farm animal that gives wool",
+      "answer": "SHEEP",
+      "row": 3,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Feeling kind and pleasant toward others",
-      "answer": "FRIENDLY",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing respect and admiration",
-      "answer": "ADMIRING",
-      "row": 14,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A scale for measuring temperature, named after Anders Celsius",
-      "answer": "CELSIUS",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
-      "row": 9,
+      "clue": "The action of throwing a ball to a teammate",
+      "answer": "PASS",
+      "row": 3,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A sport where two people fight using their fists while wearing gloves",
-      "answer": "BOXING",
-      "row": 9,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who catches fish as a job",
-      "answer": "FISHER",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The action of pressing and releasing a mouse button",
-      "answer": "CLICK",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 11,
   "targetWords": 14,
   "difficulty": "medium"
 }

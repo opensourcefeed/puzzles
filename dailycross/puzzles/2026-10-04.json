@@ -4,66 +4,59 @@
   "title": "2026-10-04",
   "words": [
     {
-      "clue": "The short hairs that grow along the edge of each eyelid",
-      "answer": "EYELASHES",
-      "row": 1,
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
-      "answer": "GASGIANT",
-      "row": 0,
-      "col": 4,
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "An ordered list of numbers or objects that follows a specific rule",
-      "answer": "SEQUENCE",
-      "row": 0,
+      "clue": "A person whose job is to drive a bus",
+      "answer": "BUSDRIVER",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "An underground layer of rock that holds and transmits water",
-      "answer": "AQUIFER",
-      "row": 5,
-      "col": 4,
+      "clue": "A person who designs, builds, and maintains engines and machines",
+      "answer": "ENGINEER",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The opposite of clean; covered or marked with dirt",
-      "answer": "DIRTY",
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
       "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A breakfast food made from processed grains, often eaten with milk",
+      "answer": "CEREAL",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A large ocean fish with many sharp teeth",
-      "answer": "SHARK",
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
       "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge, bright ball of burning gas in space",
-      "answer": "STAR",
-      "row": 7,
-      "col": 3,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The basic unit of time in music that you tap your foot to",
-      "answer": "BEAT",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A small carpet used as a floor covering",
-      "answer": "RUG",
-      "row": 3,
-      "col": 1,
+      "clue": "A small handheld device that moves the cursor on a computer screen",
+      "answer": "MOUSE",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],

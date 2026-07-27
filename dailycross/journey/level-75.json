@@ -4,105 +4,84 @@
   "title": "Level 75",
   "words": [
     {
-      "clue": "Music written or printed on paper using musical notation",
-      "answer": "SHEETMUSIC",
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
       "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
-      "answer": "ORGANISM",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "An electronic instrument with a keyboard that produces various sounds",
-      "answer": "KEYBOARD",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A four-sided shape with all sides equal in length",
-      "answer": "RHOMBUS",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of a ripe banana or the sun",
-      "answer": "YELLOW",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling sad because of being alone or without company",
-      "answer": "LONELY",
-      "row": 8,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of big; of a size that is less than average",
-      "answer": "SMALL",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The land along the edge of an ocean or sea",
-      "answer": "COAST",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of fresh snow, milk, and paper",
-      "answer": "WHITE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A food made by baking a mixture of flour, water, and yeast",
-      "answer": "BREAD",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The natural satellite that orbits Earth and reflects the Sun's light",
-      "answer": "MOON",
-      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of strong; lacking physical strength",
-      "answer": "WEAK",
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A four-sided shape with one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A panel of keys used to type text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A garment worn to stay dry in the rain",
+      "answer": "RAINCOAT",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright, vivid pinkish-purple color",
+      "answer": "MAGENTA",
       "row": 0,
-      "col": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cuts hair for a living",
+      "answer": "BARBER",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A black and white bear that eats bamboo",
+      "answer": "PANDA",
+      "row": 13,
+      "col": 6,
       "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 11,
   "targetWords": 15,
   "difficulty": "medium"
 }

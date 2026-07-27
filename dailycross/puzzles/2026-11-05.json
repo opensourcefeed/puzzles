@@ -4,67 +4,67 @@
   "title": "2026-11-05",
   "words": [
     {
-      "clue": "A scientist who specializes in the study of plants",
-      "answer": "BOTANIST",
-      "row": 5,
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who plays a musical instrument or sings professionally",
-      "answer": "MUSICIAN",
-      "row": 3,
-      "col": 6,
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 5,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A prediction or estimate of future weather conditions",
-      "answer": "FORECAST",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The largest planet in our solar system, known for its Great Red Spot",
-      "answer": "JUPITER",
+      "clue": "A panel of keys used to input text and commands into a computer",
+      "answer": "KEYBOARD",
       "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
-      "answer": "DECIMAL",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
-      "answer": "VOLCANO",
-      "row": 0,
       "col": 4,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A complete path through which electric current can flow",
-      "answer": "CIRCUIT",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The process of writing instructions for a computer to follow",
-      "answer": "CODING",
-      "row": 1,
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 10,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A game or contest between two players or teams",
-      "answer": "MATCH",
-      "row": 12,
-      "col": 7,
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 4,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "An unmanned spacecraft sent to explore and gather information in space",
+      "answer": "PROBE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 146

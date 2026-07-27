@@ -4,49 +4,42 @@
   "title": "Level 12",
   "words": [
     {
-      "clue": "An angle that measures exactly 90 degrees",
-      "answer": "RIGHTANGLE",
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Hopeful and confident about the future",
-      "answer": "OPTIMISTIC",
-      "row": 2,
-      "col": 4,
+      "clue": "A bright, vivid pinkish-purple color",
+      "answer": "MAGENTA",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The distance across a circle passing through its center",
-      "answer": "DIAMETER",
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
       "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling confused because something is difficult to understand",
-      "answer": "PUZZLED",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A container with a handle and spout for serving drinks",
-      "answer": "PITCHER",
-      "row": 7,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A young plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 1,
-      "col": 4,
+      "clue": "A device used to communicate with others over long distances",
+      "answer": "PHONE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "answer": "MUSIC",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 5,
   "targetWords": 6,
   "difficulty": "easy"
 }

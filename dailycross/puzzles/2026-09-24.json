@@ -4,74 +4,74 @@
   "title": "2026-09-24",
   "words": [
     {
-      "clue": "The opposite of visible; unable to be seen",
-      "answer": "INVISIBLE",
+      "clue": "A person who works in a library and helps people find books",
+      "answer": "LIBRARIAN",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A green vegetable with a thick stalk and a head of tiny buds",
-      "answer": "BROCCOLI",
-      "row": 7,
-      "col": 6,
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A container for holding waste or garbage",
-      "answer": "TRASHCAN",
-      "row": 4,
-      "col": 4,
+      "clue": "A sudden, heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The display screen of a computer that shows images and text",
-      "answer": "MONITOR",
+      "clue": "An electronic device that processes data and runs programs",
+      "answer": "COMPUTER",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that makes exact copies of documents on paper",
+      "answer": "COPIER",
       "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A crisp, green vegetable with long, fibrous stalks",
-      "answer": "CELERY",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A short, fast race run at top speed",
-      "answer": "SPRINT",
-      "row": 4,
+      "clue": "A huge collection of stars, gas, and dust held together by gravity",
+      "answer": "GALAXY",
+      "row": 5,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A grain crop whose flour is used to make bread",
-      "answer": "WHEAT",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The many points of light visible in the night sky",
-      "answer": "STARS",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A specific characteristic that is passed from parents to offspring",
-      "answer": "TRAIT",
-      "row": 0,
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 11,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
+      "row": 8,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A container made of glass used for drinking",
-      "answer": "GLASS",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
+      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
+      "answer": "BROOM",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Energy that travels in waves and is detected by our ears",
+      "answer": "SOUND",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
     }
   ],
   "dayNumber": 104

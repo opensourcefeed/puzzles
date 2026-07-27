@@ -4,74 +4,67 @@
   "title": "2027-05-17",
   "words": [
     {
-      "clue": "A large, flat dish used for serving food",
-      "answer": "PLATTER",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The front part of your neck that contains your voice box",
-      "answer": "THROAT",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A low area of land between hills or mountains, often with a river",
-      "answer": "VALLEY",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A regular, repeated pattern of beats in music",
-      "answer": "RHYTHM",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A short stick passed from one runner to the next in a relay race",
-      "answer": "BATON",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The dark circular opening in the center of the iris",
-      "answer": "PUPIL",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Water in the form of a gas, especially when heated",
-      "answer": "VAPOR",
-      "row": 6,
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A dull greenish-yellow color, like the fruit",
-      "answer": "OLIVE",
-      "row": 5,
-      "col": 10,
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Air that moves naturally across the Earth's surface",
-      "answer": "WIND",
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
       "row": 0,
-      "col": 10,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing care and concern for others",
+      "answer": "CARING",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, lockable storage compartment for personal belongings at school",
+      "answer": "LOCKER",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A large natural stream of water that flows across land",
+      "answer": "RIVER",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A tray on a desk used to hold incoming papers or documents",
+      "answer": "INBOX",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
+      "answer": "BRASS",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 339

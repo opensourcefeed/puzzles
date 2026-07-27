@@ -4,105 +4,98 @@
   "title": "Level 87",
   "words": [
     {
-      "clue": "A team sport where players throw a ball through a raised hoop",
-      "answer": "BASKETBALL",
-      "row": 4,
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A tree that produces sweet, juicy apples",
+      "answer": "APPLETREE",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Sports and games that involve running, jumping, and throwing",
+      "answer": "ATHLETICS",
+      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large white board in a classroom used for writing with markers",
-      "answer": "WHITEBOARD",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A very tall flower with a large yellow head that turns toward the sun",
-      "answer": "SUNFLOWER",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A panel of keys used to input text and commands into a computer",
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
       "answer": "KEYBOARD",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A card with a student's name and photo used for identification",
-      "answer": "IDCARD",
-      "row": 10,
-      "col": 6,
+      "row": 13,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A pen with a broad tip used for writing on whiteboards",
-      "answer": "MARKER",
-      "row": 8,
-      "col": 8,
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A thick, creamy food made by fermenting milk with bacteria",
-      "answer": "YOGURT",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dry area that receives very little rainfall",
-      "answer": "DESERT",
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
       "row": 0,
-      "col": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The color created by mixing red and yellow, like a carrot",
+      "answer": "ORANGE",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
-      "answer": "HANGER",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
+      "clue": "A spiky plant that stores water and grows in deserts",
+      "answer": "CACTUS",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "A flat shape with four equal sides and four right angles",
-      "answer": "SQUARE",
+      "clue": "A round, red fruit often used in salads and sauces",
+      "answer": "TOMATO",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
       "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A large wild cat with orange fur and black stripes",
-      "answer": "TIGER",
-      "row": 6,
-      "col": 0,
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 3,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "A fine powder made by grinding wheat, used for baking",
-      "answer": "FLOUR",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A grain crop whose flour is used to make bread",
-      "answer": "WHEAT",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large ocean mammal that must surface to breathe",
-      "answer": "WHALE",
-      "row": 7,
-      "col": 2,
+      "clue": "The part of your body used for thinking",
+      "answer": "BRAIN",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 13,
   "targetWords": 17,
   "difficulty": "medium"
 }

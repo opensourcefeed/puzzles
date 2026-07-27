@@ -4,98 +4,112 @@
   "title": "Level 128",
   "words": [
     {
-      "clue": "A small, portable storage device that plugs into a USB port",
-      "answer": "FLASHDRIVE",
-      "row": 7,
-      "col": 0,
+      "clue": "A brush with a handle and bristles used for cleaning teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
-      "answer": "METEORITE",
-      "row": 6,
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who works in a library and helps people find books",
+      "answer": "LIBRARIAN",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where players hit a shuttlecock over a net using rackets",
+      "answer": "BADMINTON",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "An electronic device that processes data and runs programs",
+      "answer": "COMPUTER",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A number that has more than two factors",
-      "answer": "COMPOSITE",
-      "row": 9,
-      "col": 1,
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 4,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Eager to learn or know more about something",
+      "answer": "CURIOUS",
+      "row": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
-      "row": 2,
+      "clue": "The sport of moving quickly on foot",
+      "answer": "RUNNING",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who is trained in or good at sports",
+      "answer": "ATHLETE",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The opposite of safe; likely to cause harm or injury",
-      "answer": "DANGEROUS",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A tree that keeps its green leaves throughout the entire year",
-      "answer": "EVERGREEN",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The number above the line in a fraction, showing how many parts are taken",
-      "answer": "NUMERATOR",
-      "row": 13,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling kind and pleasant toward others",
-      "answer": "FRIENDLY",
-      "row": 7,
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 3,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person whose job is to paint walls, buildings, and other surfaces",
-      "answer": "PAINTER",
-      "row": 1,
-      "col": 3,
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 7,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A large area of land covered with many trees",
-      "answer": "FOREST",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a song that is repeated after each verse",
-      "answer": "CHORUS",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The process of writing instructions for a computer to follow",
-      "answer": "CODING",
+      "clue": "An object that produces a magnetic field and attracts iron",
+      "answer": "MAGNET",
       "row": 0,
-      "col": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A food made by baking a mixture of flour, water, and yeast",
+      "answer": "BREAD",
+      "row": 3,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 15,
   "targetWords": 22,
   "difficulty": "hard"
 }

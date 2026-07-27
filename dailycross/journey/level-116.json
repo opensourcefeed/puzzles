@@ -4,105 +4,98 @@
   "title": "Level 116",
   "words": [
     {
-      "clue": "A clock that makes a sound at a set time to wake someone up",
-      "answer": "ALARMCLOCK",
+      "clue": "A person who drives a taxi for passengers",
+      "answer": "TAXIDRIVER",
       "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport involving exercises and routines requiring balance and strength",
-      "answer": "GYMNASTICS",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "An organ behind the stomach that produces insulin",
-      "answer": "PANCREAS",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A symbol, usually a letter, that represents an unknown number",
-      "answer": "VARIABLE",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A chemical change that produces one or more new substances",
-      "answer": "REACTION",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The display screen of a computer that shows images and text",
-      "answer": "MONITOR",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The combination of musical notes played together to produce a pleasing sound",
-      "answer": "HARMONY",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A long period with little or no rain",
-      "answer": "DROUGHT",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried or uneasy about what might happen",
-      "answer": "NERVOUS",
-      "row": 14,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The arrangement of visual elements on a screen or page",
-      "answer": "LAYOUT",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A region of a circle bounded by two radii and the arc between them",
-      "answer": "SECTOR",
-      "row": 14,
+      "clue": "A flying vehicle with rotating blades that can take off and land vertically",
+      "answer": "HELICOPTER",
+      "row": 4,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where players hit a shuttlecock over a net using rackets",
+      "answer": "BADMINTON",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Weather that is bright and warm with lots of sunshine",
-      "answer": "SUNNY",
-      "row": 2,
-      "col": 8,
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that converts electrical signals into sound",
+      "answer": "SPEAKER",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A grain crop whose flour is used to make bread",
+      "answer": "WHEAT",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "An unmanned spacecraft sent to explore and gather information in space",
+      "answer": "PROBE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 13,
   "targetWords": 20,
   "difficulty": "hard"
 }

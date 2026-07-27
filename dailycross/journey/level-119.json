@@ -4,126 +4,105 @@
   "title": "Level 119",
   "words": [
     {
-      "clue": "Music written or printed on paper using musical notation",
-      "answer": "SHEETMUSIC",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A period of unusually cold weather that lasts for several days",
-      "answer": "COLDSPELL",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who plays a musical instrument or sings professionally",
-      "answer": "MUSICIAN",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Comfortable shoes designed for sports or casual wear",
-      "answer": "SNEAKERS",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A very dark gray color, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that is greater than zero",
-      "answer": "POSITIVE",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A strip of material used to mark a reader's place in a book",
-      "answer": "BOOKMARK",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A document on the internet that can be viewed in a browser",
-      "answer": "WEBSITE",
-      "row": 8,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that produces text and images on paper from a computer",
-      "answer": "PRINTER",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
-      "row": 3,
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling very enthusiastic and eager about something",
-      "answer": "EXCITED",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who installs and repairs water pipes and fixtures",
-      "answer": "PLUMBER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A sudden, brief storm with strong winds and often rain or snow",
-      "answer": "SQUALL",
+      "clue": "A straight line joining two opposite corners of a shape",
+      "answer": "DIAGONAL",
       "row": 1,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A small, lens-shaped dried seed often used in soups and stews",
-      "answer": "LENTIL",
-      "row": 14,
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 2,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A fertile area in a desert where water is found and plants can grow",
-      "answer": "OASIS",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A black and white striped animal that looks like a horse",
-      "answer": "ZEBRA",
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
       "row": 1,
-      "col": 13,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A storm with thunder, lightning, and usually heavy rain",
-      "answer": "STORM",
+      "clue": "A brass instrument with three valves and a bright, clear sound",
+      "answer": "TRUMPET",
       "row": 0,
-      "col": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 2,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft cushion you rest your head on while sleeping",
+      "answer": "PILLOW",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A vehicle powered by engines that can travel into space",
+      "answer": "ROCKET",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A railway carriage for carrying passengers",
+      "answer": "COACH",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where a river flows into a larger river, lake, or ocean",
+      "answer": "MOUTH",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The darkest color, like coal or the night sky",
+      "answer": "BLACK",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 14,
   "targetWords": 21,
   "difficulty": "hard"
 }

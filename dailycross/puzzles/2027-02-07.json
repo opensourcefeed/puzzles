@@ -4,67 +4,74 @@
   "title": "2027-02-07",
   "words": [
     {
-      "clue": "A machine that automatically washes and dries dishes",
-      "answer": "DISHWASHER",
-      "row": 4,
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sudden shaking of the ground caused by movements in Earth's crust",
-      "answer": "EARTHQUAKE",
-      "row": 2,
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "answer": "PEACOCK",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A vegetable with an orange root that grows underground",
+      "answer": "CARROT",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "answer": "CANYON",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
+      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A triangle with two sides of equal length",
-      "answer": "ISOSCELES",
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
       "row": 3,
       "col": 6,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A plant that produces colorful, often scented blooms",
-      "answer": "FLOWER",
-      "row": 2,
+      "clue": "The pair of parallel metal rails that trains run on",
+      "answer": "TRACK",
+      "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A deep, rich purple color, like the flower",
-      "answer": "VIOLET",
+      "clue": "A large ocean fish with many sharp teeth",
+      "answer": "SHARK",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A fertile area in a desert where water is found and plants can grow",
+      "answer": "OASIS",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "A thin stick of graphite in wood, used for writing on paper",
-      "answer": "PENCIL",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A very pale pink color, like a flushed cheek",
-      "answer": "BLUSH",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An unmanned spacecraft sent to explore and gather information in space",
-      "answer": "PROBE",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The hard, white structures that form the skeleton inside your body",
-      "answer": "BONES",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
     }
   ],
   "dayNumber": 240

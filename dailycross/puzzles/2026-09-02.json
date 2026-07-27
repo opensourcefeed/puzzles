@@ -4,45 +4,66 @@
   "title": "2026-09-02",
   "words": [
     {
-      "clue": "A device that detects smoke and sounds an alarm",
-      "answer": "SMOKEALARM",
-      "row": 2,
-      "col": 0,
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A symbol, usually a letter, that represents an unknown number",
-      "answer": "VARIABLE",
+      "clue": "A device you use to make phone calls and browse the internet",
+      "answer": "SMARTPHONE",
       "row": 1,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The sport of moving quickly on foot",
-      "answer": "RUNNING",
-      "row": 2,
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
-      "answer": "COCONUT",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
+      "clue": "A team sport where players hit a ball with a bat and run bases",
+      "answer": "BASEBALL",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "A board or area where student work is displayed for others to see",
-      "answer": "DISPLAY",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "Yellow powder made by flowers",
-      "answer": "POLLEN",
-      "row": 7,
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 3,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     }
   ],

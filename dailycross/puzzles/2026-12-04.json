@@ -4,67 +4,74 @@
   "title": "2026-12-04",
   "words": [
     {
-      "clue": "An instrument used to measure wind speed",
-      "answer": "ANEMOMETER",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A large open area of land covered with wild grass",
-      "answer": "GRASSLAND",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A period of unusually hot weather that lasts for several days",
-      "answer": "HEATWAVE",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who specializes in the study of plants",
-      "answer": "BOTANIST",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
-      "answer": "CONCAVE",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest planet in our solar system and closest to the Sun",
-      "answer": "MERCURY",
-      "row": 4,
+      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
+      "answer": "PROTRACTOR",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A series of musical notes arranged in ascending or descending order",
-      "answer": "SCALE",
-      "row": 11,
-      "col": 9,
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The body part used for tasting food",
+      "answer": "TONGUE",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A fine powder made by grinding wheat, used for baking",
-      "answer": "FLOUR",
-      "row": 0,
-      "col": 5,
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A number that has exactly two different factors: itself and 1",
-      "answer": "PRIME",
+      "clue": "A form of energy that travels in waves and allows us to see",
+      "answer": "LIGHT",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A short piece of music with words that people sing",
+      "answer": "SONG",
       "row": 7,
-      "col": 13,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A white or brown grain that is a staple food for many people worldwide",
+      "answer": "RICE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 175

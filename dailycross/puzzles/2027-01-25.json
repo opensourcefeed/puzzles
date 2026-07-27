@@ -4,73 +4,73 @@
   "title": "2027-01-25",
   "words": [
     {
-      "clue": "A scientist who studies stars, planets, and other objects in space",
-      "answer": "ASTRONOMER",
+      "clue": "A flying vehicle with rotating blades that can take off and land vertically",
+      "answer": "HELICOPTER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
       "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that detects smoke and sounds an alarm",
-      "answer": "SMOKEALARM",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing respect and admiration",
-      "answer": "ADMIRING",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 6,
       "col": 6,
-      "direction": "across"
+      "direction": "down"
     },
     {
       "clue": "A group of computers connected together to share information",
       "answer": "NETWORK",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, lockable storage compartment for personal belongings at school",
-      "answer": "LOCKER",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Three or more musical notes played together at the same time",
-      "answer": "CHORD",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who operates and controls an aircraft",
-      "answer": "PILOT",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, narrow stream of water",
-      "answer": "CREEK",
       "row": 3,
-      "col": 13,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A vegetable with an orange root that grows underground",
+      "answer": "CARROT",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "answer": "MUSIC",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport played on horseback where players try to score goals with a mallet",
+      "answer": "POLO",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the straight lines that form the boundary of a shape",
+      "answer": "SIDE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling brave enough to try something new",
+      "answer": "BOLD",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     }
   ],

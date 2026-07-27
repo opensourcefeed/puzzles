@@ -4,77 +4,63 @@
   "title": "Level 51",
   "words": [
     {
-      "clue": "A pair of speakers worn over the ears for listening to audio",
-      "answer": "HEADPHONES",
-      "row": 7,
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A spacecraft designed to carry astronauts into space",
-      "answer": "CREWCRAFT",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle equipped with equipment for fighting fires",
-      "answer": "FIRETRUCK",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "An Australian animal that hops and carries babies in a pouch",
-      "answer": "KANGAROO",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A book containing information and lessons for a particular school subject",
-      "answer": "TEXTBOOK",
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
       "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A scientist who studies plants and their growth",
-      "answer": "BOTANIST",
-      "row": 13,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
-      "answer": "DECIMAL",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A rodent that cuts down trees and builds dams in rivers",
-      "answer": "BEAVER",
-      "row": 0,
-      "col": 2,
+      "clue": "A sudden, heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 1,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A pinkish-orange color, like the marine animal",
-      "answer": "CORAL",
-      "row": 10,
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of generous; lacking consideration for others",
+      "answer": "SELFISH",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of land that is completely surrounded by water",
+      "answer": "ISLAND",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Yellow powder made by flowers",
+      "answer": "POLLEN",
+      "row": 0,
       "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 8,
   "targetWords": 12,
   "difficulty": "medium"
 }

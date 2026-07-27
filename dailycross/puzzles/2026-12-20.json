@@ -4,60 +4,67 @@
   "title": "2026-12-20",
   "words": [
     {
-      "clue": "Musical instruments that produce sound by blowing air through them",
-      "answer": "WOODWIND",
-      "row": 3,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "An athletic event where athletes jump as far as possible from a running start",
-      "answer": "LONGJUMP",
-      "row": 2,
-      "col": 5,
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A shape where every point on its boundary is the same distance from its center",
-      "answer": "CIRCULAR",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue color, like the precious gemstone",
-      "answer": "SAPPHIRE",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with seven straight sides and seven angles",
-      "answer": "HEPTAGON",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "An electrical appliance for browning slices of bread",
-      "answer": "TOASTER",
+      "clue": "A green, pear-shaped fruit with a large pit inside",
+      "answer": "AVOCADO",
       "row": 0,
-      "col": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round flat shape with no corners or edges",
-      "answer": "CIRCLE",
-      "row": 5,
-      "col": 8,
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A place where water from a river or lake flows out into another body of water",
-      "answer": "OUTLET",
-      "row": 2,
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A large ocean fish with many sharp teeth",
+      "answer": "SHARK",
+      "row": 4,
       "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "A flat tool marked with numbers, used to measure length",
+      "answer": "RULER",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 191

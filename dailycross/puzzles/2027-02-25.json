@@ -4,74 +4,53 @@
   "title": "2027-02-25",
   "words": [
     {
-      "clue": "A folder on a computer where deleted files are temporarily stored",
-      "answer": "RECYCLEBIN",
-      "row": 5,
+      "clue": "A video call made over the internet",
+      "answer": "VIDEOCALL",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large tropical fruit with rough, spiky skin and sweet yellow flesh",
-      "answer": "PINEAPPLE",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A large open area of land covered with wild grass",
-      "answer": "GRASSLAND",
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The natural force that pulls objects toward the center of Earth",
-      "answer": "GRAVITY",
-      "row": 8,
-      "col": 6,
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A long, thin tool used to point at things on a board or screen",
-      "answer": "POINTER",
-      "row": 6,
-      "col": 10,
+      "clue": "A woodwind instrument with a single reed and keys",
+      "answer": "CLARINET",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
-      "answer": "CONCAVE",
-      "row": 5,
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A small, green or yellow bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A primate that lives in trees and swings from branch to branch",
-      "answer": "MONKEY",
-      "row": 12,
+      "clue": "Feeling or showing pleasure and contentment",
+      "answer": "HAPPY",
+      "row": 8,
       "col": 4,
       "direction": "across"
-    },
-    {
-      "clue": "The distance from the center of a circle to any point on its edge",
-      "answer": "RADIUS",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A short, fast race run at top speed",
-      "answer": "SPRINT",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
     }
   ],
   "dayNumber": 258

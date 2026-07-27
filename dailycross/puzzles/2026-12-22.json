@@ -4,67 +4,74 @@
   "title": "2026-12-22",
   "words": [
     {
-      "clue": "Having no fear; brave and courageous",
-      "answer": "FEARLESS",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A part of a line that has two distinct endpoints",
-      "answer": "SEGMENT",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
-      "answer": "TSUNAMI",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A sudden, brief storm with strong winds and often rain or snow",
-      "answer": "SQUALL",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A primate that lives in trees and swings from branch to branch",
-      "answer": "MONKEY",
-      "row": 6,
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large ocean fish with many sharp teeth",
-      "answer": "SHARK",
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
       "row": 4,
-      "col": 10,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The colorful part of many flowers",
-      "answer": "PETAL",
-      "row": 8,
-      "col": 4,
+      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "answer": "HURRICANE",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
+      "row": 7,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of correct; not correct or true",
+      "answer": "WRONG",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 193

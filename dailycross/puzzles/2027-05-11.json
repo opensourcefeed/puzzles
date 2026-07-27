@@ -4,74 +4,74 @@
   "title": "2027-05-11",
   "words": [
     {
-      "clue": "A brush with a handle and bristles used for cleaning teeth",
-      "answer": "TOOTHBRUSH",
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The passing of genetic traits from parents to offspring",
-      "answer": "HEREDITY",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
-      "answer": "SEATBELT",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with six straight sides and six angles",
-      "answer": "HEXAGON",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The largest planet in our solar system, known for its Great Red Spot",
-      "answer": "JUPITER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sad because of being alone or without company",
-      "answer": "LONELY",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A straight line connecting two points on the circumference of a circle",
-      "answer": "CHORD",
-      "row": 9,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The dense, bright central region of a galaxy",
-      "answer": "CORE",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A white grain that is a staple food for many meals worldwide",
-      "answer": "RICE",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A green plant that grows in damp, shady places and does not produce flowers",
-      "answer": "FERN",
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
       "row": 5,
-      "col": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 4,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "The small hard part inside a seed's shell, like an acorn's contents",
+      "answer": "KERNEL",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A spiky plant that stores water and grows in deserts",
+      "answer": "CACTUS",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of day; the time of darkness between sunset and sunrise",
+      "answer": "NIGHT",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, narrow stream of water",
+      "answer": "CREEK",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 333

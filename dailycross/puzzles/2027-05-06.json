@@ -4,74 +4,53 @@
   "title": "2027-05-06",
   "words": [
     {
-      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
-      "answer": "EGGPLANT",
-      "row": 2,
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The passing of genetic traits from parents to offspring",
-      "answer": "HEREDITY",
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
       "row": 1,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A sudden, heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that fastens sheets of paper together with staples",
-      "answer": "STAPLER",
-      "row": 0,
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The dense, central core of an atom containing protons and neutrons",
-      "answer": "NUCLEUS",
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
       "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A large bird with a long, colorful tail that it can fan out",
-      "answer": "PEACOCK",
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
       "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A closed railroad car used for carrying freight",
-      "answer": "BOXCAR",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The colorful part of many flowers",
-      "answer": "PETAL",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A mixture of rain and snow or partially melted snow",
-      "answer": "SLEET",
-      "row": 4,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A wild dog-like animal that howls at the moon",
+      "answer": "WOLF",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 328

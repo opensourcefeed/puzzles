@@ -4,66 +4,66 @@
   "title": "2026-12-07",
   "words": [
     {
-      "clue": "The movement of one object around another in an orbital path",
-      "answer": "REVOLUTION",
-      "row": 6,
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A panel of keys used to input text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A large system of winds rotating around a center of low pressure",
+      "answer": "CYCLONE",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A document on the internet that can be viewed in a browser",
+      "answer": "WEBSITE",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
+      "row": 8,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
-      "answer": "SAXOPHONE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An organ behind the stomach that produces insulin",
-      "answer": "PANCREAS",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, bright blue color like the sky on a clear day",
-      "answer": "SKYBLUE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling very enthusiastic and eager about something",
-      "answer": "EXCITED",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A shiny, light gray color like the precious metal",
-      "answer": "SILVER",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A short, fast race run at top speed",
-      "answer": "SPRINT",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A small vessel for traveling on water",
-      "answer": "BOAT",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A strip of adhesive material used to attach things temporarily",
-      "answer": "TAPE",
-      "row": 11,
-      "col": 0,
+      "clue": "Feeling or showing pleasure and contentment",
+      "answer": "HAPPY",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     }
   ],

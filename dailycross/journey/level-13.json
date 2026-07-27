@@ -4,46 +4,46 @@
   "title": "Level 13",
   "words": [
     {
-      "clue": "An instrument that uses lenses to make very small objects appear larger",
-      "answer": "MICROSCOPE",
-      "row": 1,
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Hopeful and confident, even in difficult situations",
-      "answer": "POSITIVE",
-      "row": 0,
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A symbol on a screen that shows where the mouse is pointing",
+      "answer": "CURSOR",
+      "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A primate that lives in trees and swings from branch to branch",
-      "answer": "MONKEY",
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
       "row": 5,
-      "col": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The opposite of flexible; not easily bent or changed",
-      "answer": "STIFF",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
-      "answer": "BERRY",
-      "row": 4,
-      "col": 9,
+      "clue": "The opposite of true",
+      "answer": "FALSE",
+      "row": 0,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A large area of flat land with few trees",
+      "answer": "PLAIN",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "wordCount": 6,

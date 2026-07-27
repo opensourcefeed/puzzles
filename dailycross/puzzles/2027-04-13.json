@@ -4,60 +4,74 @@
   "title": "2027-04-13",
   "words": [
     {
-      "clue": "The scientific study of stars, planets, and other objects in space",
-      "answer": "ASTRONOMY",
-      "row": 3,
-      "col": 0,
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A container for holding waste or garbage",
-      "answer": "TRASHCAN",
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
       "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A solid shape with two parallel circular ends and a curved side",
-      "answer": "CYLINDER",
-      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A place where ships are built, repaired, and maintained",
-      "answer": "DOCKYARD",
-      "row": 2,
+      "clue": "Yellow powder made by flowers",
+      "answer": "POLLEN",
+      "row": 8,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of a flower's stamen that produces and holds pollen",
-      "answer": "ANTHER",
-      "row": 10,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A portable device with a touch screen, larger than a phone",
-      "answer": "TABLET",
-      "row": 2,
-      "col": 0,
+      "clue": "An electrical appliance that cleans floors by sucking up dirt",
+      "answer": "VACUUM",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A small, lens-shaped dried seed often used in soups and stews",
-      "answer": "LENTIL",
-      "row": 6,
+      "clue": "A small string instrument played with a bow, held under the chin",
+      "answer": "VIOLIN",
+      "row": 5,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A closed railroad car used for carrying freight",
+      "answer": "BOXCAR",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A round vegetable with layers and a strong, sharp smell",
-      "answer": "ONION",
+      "clue": "A frozen object in space that develops a glowing tail as it nears the Sun",
+      "answer": "COMET",
       "row": 0,
       "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "A person who performs roles in plays, movies, or television",
+      "answer": "ACTOR",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A narrow, deep valley with very steep rocky sides",
+      "answer": "GORGE",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
+      "answer": "MEDAL",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 305

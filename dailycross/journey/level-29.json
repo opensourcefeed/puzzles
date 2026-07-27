@@ -4,66 +4,66 @@
   "title": "Level 29",
   "words": [
     {
-      "clue": "An angle that measures exactly 90 degrees",
-      "answer": "RIGHTANGLE",
-      "row": 6,
+      "clue": "A person whose job is to drive a bus",
+      "answer": "BUSDRIVER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A team sport where players throw a ball through a raised hoop",
-      "answer": "BASKETBALL",
-      "row": 1,
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "An animal that feeds only on plants and plant material",
-      "answer": "HERBIVORE",
-      "row": 5,
-      "col": 9,
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "An electronic device that processes data and performs tasks",
-      "answer": "COMPUTER",
-      "row": 13,
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The natural force that pulls objects toward the center of Earth",
-      "answer": "GRAVITY",
-      "row": 6,
-      "col": 7,
+      "clue": "A person who cleans buildings and offices",
+      "answer": "CLEANER",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
+      "answer": "HELMET",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that produces colorful, often scented blooms",
+      "answer": "FLOWER",
+      "row": 9,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Feeling confused because something is difficult to understand",
-      "answer": "PUZZLED",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A container made of woven material or plastic for carrying items",
-      "answer": "BASKET",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A black and white striped animal that looks like a horse",
-      "answer": "ZEBRA",
+      "clue": "A vehicle that travels into space, powered by rocket engines",
+      "answer": "ROCKET",
       "row": 0,
-      "col": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     }
   ],

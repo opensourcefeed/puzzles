@@ -4,67 +4,67 @@
   "title": "Level 30",
   "words": [
     {
-      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
-      "answer": "PROTRACTOR",
-      "row": 5,
-      "col": 0,
+      "clue": "Weather with a gentle breeze and comfortable temperature",
+      "answer": "PLEASANT",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The layer of gases that surrounds Earth and protects life",
-      "answer": "ATMOSPHERE",
+      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
+      "answer": "GRAVITY",
       "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A sheltered place along a coast where ships and boats can moor",
+      "answer": "HARBOR",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A string instrument with a flat back, played by strumming or plucking",
+      "answer": "GUITAR",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The longest finger in the middle of your hand",
+      "answer": "MIDDLE",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The smallest planet in our solar system and closest to the Sun",
-      "answer": "MERCURY",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A very dry area that receives very little rainfall",
-      "answer": "DESERT",
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
       "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that washes clothes automatically",
-      "answer": "WASHER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with four equal sides and four right angles",
-      "answer": "SQUARE",
-      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The smallest finger on your hand, located farthest from your thumb",
-      "answer": "PINKY",
-      "row": 5,
-      "col": 0,
+      "clue": "Feeling unhappy when something doesn't go as planned",
+      "answer": "UPSET",
+      "row": 3,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "The vehicle astronauts use to walk on the Moon",
+      "answer": "ROVER",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who leads and assists groups of tourists",
+      "answer": "GUIDE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "wordCount": 9,

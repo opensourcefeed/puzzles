@@ -4,105 +4,77 @@
   "title": "Level 82",
   "words": [
     {
-      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
-      "answer": "GEOLOGIST",
+      "clue": "A yellow flower that turns into a fluffy ball you blow to make a wish",
+      "answer": "DANDELION",
       "row": 6,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A person who directs the performance of an orchestra or choir",
-      "answer": "CONDUCTOR",
-      "row": 5,
-      "col": 6,
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
-      "answer": "WARDROBE",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
     },
     {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 0,
+      "clue": "The body part used for tasting food",
+      "answer": "TONGUE",
+      "row": 4,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 11,
-      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A triangle with all three sides of different lengths",
-      "answer": "SCALENE",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, green or yellow bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "An underground passage through which vehicles can travel",
-      "answer": "TUNNEL",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The state of losing a game or competition",
-      "answer": "DEFEAT",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that makes exact copies of documents on paper",
-      "answer": "COPIER",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who writes books, articles, or other written works",
-      "answer": "WRITER",
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
       "row": 8,
-      "col": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A device that captures and stores photographs digitally",
-      "answer": "CAMERA",
-      "row": 0,
-      "col": 8,
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "To transfer data from a computer or device to the internet",
-      "answer": "UPLOAD",
-      "row": 2,
-      "col": 7,
+      "clue": "A portable device with a touch screen, larger than a phone",
+      "answer": "TABLET",
+      "row": 10,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A shape that has no straight edges or corners",
+      "answer": "ROUND",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of hard; easy to press or shape",
+      "answer": "SOFT",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 10,
   "targetWords": 16,
   "difficulty": "medium"
 }

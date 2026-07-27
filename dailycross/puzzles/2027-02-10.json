@@ -4,53 +4,74 @@
   "title": "2027-02-10",
   "words": [
     {
-      "clue": "A purple flower known for its calming, pleasant scent",
-      "answer": "LAVENDER",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "An ordered list of numbers or objects that follows a specific rule",
-      "answer": "SEQUENCE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that eats both plants and other animals",
-      "answer": "OMNIVORE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
-      "answer": "SCOOTER",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a song that is repeated after each verse",
-      "answer": "CHORUS",
-      "row": 8,
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A farm animal that gives wool",
-      "answer": "SHEEP",
-      "row": 2,
-      "col": 10,
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 7,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "A green, pear-shaped fruit with a large pit inside",
+      "answer": "AVOCADO",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle that travels into space, powered by rocket engines",
+      "answer": "ROCKET",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that makes exact copies of documents on paper",
+      "answer": "COPIER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark color like chocolate or tree bark",
+      "answer": "BROWN",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat tool marked with numbers, used to measure length",
+      "answer": "RULER",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling unhappy when something doesn't go as planned",
+      "answer": "UPSET",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 243

@@ -4,60 +4,74 @@
   "title": "2026-11-02",
   "words": [
     {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 4,
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling kind and pleasant toward others",
+      "answer": "FRIENDLY",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cuts hair for a living",
+      "answer": "BARBER",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The speed at which a piece of music is played",
+      "answer": "TEMPO",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, round fruit that grows in bunches on vines",
+      "answer": "GRAPE",
+      "row": 6,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A small bushy-tailed animal that collects and stores nuts",
-      "answer": "SQUIRREL",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who plays a musical instrument or sings professionally",
-      "answer": "MUSICIAN",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A place where ships are built, repaired, and maintained",
-      "answer": "DOCKYARD",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A software application used to access and view websites",
-      "answer": "BROWSER",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of clean; untidy or dirty",
-      "answer": "MESSY",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A push or pull that can change the motion of an object",
-      "answer": "FORCE",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
     }
   ],
   "dayNumber": 143

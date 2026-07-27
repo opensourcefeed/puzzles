@@ -4,91 +4,119 @@
   "title": "Level 114",
   "words": [
     {
-      "clue": "The opposite of accurate; not correct or precise",
-      "answer": "INACCURATE",
-      "row": 5,
-      "col": 1,
+      "clue": "A pair of speakers worn over the ears for listening to audio",
+      "answer": "HEADPHONES",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The longest side of a right-angled triangle, opposite the right angle",
-      "answer": "HYPOTENUSE",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A large, juicy fruit with green striped skin and red flesh",
-      "answer": "WATERMELON",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Water that falls from a high cliff or rock face",
-      "answer": "WATERFALL",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
-      "answer": "ICECREAM",
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
       "row": 5,
-      "col": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
+      "clue": "A person who works in a library and helps people find books",
+      "answer": "LIBRARIAN",
       "row": 2,
-      "col": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A green vegetable with a thick stalk and a head of tiny buds",
+      "answer": "BROCCOLI",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
-      "answer": "LETTUCE",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "White or gray masses of water droplets floating in the sky",
-      "answer": "CLOUDS",
-      "row": 8,
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 6,
       "col": 6,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A place where water naturally flows out of the ground",
-      "answer": "SPRING",
-      "row": 3,
+      "clue": "A tool with two arms used for drawing circles and arcs",
+      "answer": "COMPASS",
+      "row": 10,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
-      "answer": "TUNDRA",
-      "row": 1,
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 13,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 3,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
-      "answer": "BROOM",
-      "row": 0,
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 8,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that washes clothes automatically",
+      "answer": "WASHER",
+      "row": 8,
       "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
+      "answer": "MEDAL",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small handheld device that moves the cursor on a computer screen",
+      "answer": "MOUSE",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A solid shape with a circular base that narrows to a point",
+      "answer": "CONE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that is gentle and neither very hot nor very cold",
+      "answer": "MILD",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 16,
   "targetWords": 20,
   "difficulty": "hard"
 }

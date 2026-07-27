@@ -6,64 +6,57 @@
     {
       "clue": "A reference book containing words and their meanings",
       "answer": "DICTIONARY",
-      "row": 5,
-      "col": 1,
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason or desire to do something",
-      "answer": "MOTIVATED",
-      "row": 4,
-      "col": 6,
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person who repairs and maintains vehicles and machinery",
-      "answer": "MECHANIC",
-      "row": 3,
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
-      "answer": "REPORTER",
-      "row": 5,
-      "col": 9,
+      "clue": "A piece of fabric hung over a window to block light or provide privacy",
+      "answer": "CURTAIN",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A polygon that has at least one interior angle greater than 180 degrees",
-      "answer": "CONCAVE",
+      "clue": "A healthcare professional who assists doctors and cares for patients",
+      "answer": "NURSE",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark color like chocolate or tree bark",
+      "answer": "BROWN",
       "row": 8,
-      "col": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A low area of land between hills or mountains, often with a river",
-      "answer": "VALLEY",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of land that is completely surrounded by water",
-      "answer": "ISLAND",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A fine powder made by grinding wheat, used for baking",
-      "answer": "FLOUR",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Air that moves naturally across the Earth's surface",
-      "answer": "WIND",
-      "row": 0,
-      "col": 0,
+      "clue": "A short green plant that covers lawns and fields",
+      "answer": "GRASS",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],

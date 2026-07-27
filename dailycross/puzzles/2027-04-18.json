@@ -4,66 +4,73 @@
   "title": "2027-04-18",
   "words": [
     {
-      "clue": "A four-sided shape with all sides equal in length",
-      "answer": "RHOMBUS",
-      "row": 2,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A warm cover you sleep under in bed",
+      "answer": "BLANKET",
+      "row": 0,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft, pale yellow color, like the dairy product",
-      "answer": "BUTTER",
-      "row": 2,
-      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A fish known for swimming upstream to lay eggs",
-      "answer": "SALMON",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A short, fast race run at top speed",
-      "answer": "SPRINT",
-      "row": 7,
-      "col": 6,
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A device that shows the time, usually hung on a wall or placed on a surface",
-      "answer": "CLOCK",
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
+      "answer": "HELMET",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, orange root vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A card with a student's name and photo used for identification",
+      "answer": "IDCARD",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A dark color like chocolate or tree bark",
-      "answer": "BROWN",
-      "row": 1,
-      "col": 4,
+      "clue": "The device on the wall used to turn lights on and off",
+      "answer": "SWITCH",
+      "row": 7,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A series of connected vehicles that run on railway tracks",
-      "answer": "TRAIN",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A dwarf planet in our solar system that was once considered the ninth planet",
-      "answer": "PLUTO",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of music performed by a single singer",
-      "answer": "SOLO",
-      "row": 2,
-      "col": 10,
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 12,
+      "col": 2,
       "direction": "across"
     }
   ],

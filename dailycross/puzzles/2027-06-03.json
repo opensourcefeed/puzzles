@@ -4,74 +4,67 @@
   "title": "2027-06-03",
   "words": [
     {
-      "clue": "The ability to continue a physical activity for a long time",
-      "answer": "ENDURANCE",
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
       "row": 2,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A spacecraft designed to carry astronauts into space",
-      "answer": "CREWCRAFT",
+      "clue": "A vehicle equipped with equipment for fighting fires",
+      "answer": "FIRETRUCK",
       "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who conducts scientific research in a laboratory",
-      "answer": "SCIENTIST",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A tall animal with a very long neck",
-      "answer": "GIRAFFE",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A push or pull that can change the motion of an object",
-      "answer": "FORCE",
-      "row": 6,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A boat or ship that carries passengers and vehicles across a body of water",
-      "answer": "FERRY",
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that converts physical documents into digital images",
+      "answer": "SCANNER",
       "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The color of the sky on a clear, sunny day",
-      "answer": "BLUE",
-      "row": 2,
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet, sticky food made by bees from flower nectar",
+      "answer": "HONEY",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Drops of water that fall from clouds to the ground",
-      "answer": "RAIN",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A rich, dark green color, like the gemstone",
-      "answer": "JADE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You use these to see",
-      "answer": "EYES",
+      "clue": "A thin layer of ice that forms on surfaces when the temperature drops below freezing",
+      "answer": "FROST",
       "row": 4,
-      "col": 8,
-      "direction": "across"
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 356

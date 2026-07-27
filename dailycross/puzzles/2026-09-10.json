@@ -4,73 +4,73 @@
   "title": "2026-09-10",
   "words": [
     {
-      "clue": "A very large, powerful storm that forms over warm ocean waters",
-      "answer": "HURRICANE",
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
       "row": 6,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A bus that takes children to and from school",
-      "answer": "SCHOOLBUS",
-      "row": 5,
-      "col": 7,
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The side or direction from which the wind is blowing",
-      "answer": "WINDWARD",
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
       "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A sea creature with eight arms and a soft body",
+      "answer": "OCTOPUS",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 5,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A person who creates and designs clothing and accessories",
-      "answer": "DESIGNER",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A whole number that can be positive, negative, or zero",
-      "answer": "INTEGER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with ten straight sides and ten angles",
-      "answer": "DECAGON",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Finding something funny or entertaining",
-      "answer": "AMUSED",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
-      "answer": "CANYON",
+      "clue": "A vehicle that travels into space, powered by rocket engines",
+      "answer": "ROCKET",
       "row": 9,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A device that controls the flow of water from a pipe",
-      "answer": "FAUCET",
-      "row": 4,
-      "col": 3,
+      "clue": "The color of fresh snow, milk, and paper",
+      "answer": "WHITE",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A warm yellow-brown color, like the fossilized tree resin",
-      "answer": "AMBER",
-      "row": 8,
-      "col": 0,
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A round percussion instrument with a skin stretched over it, played with sticks",
+      "answer": "DRUM",
+      "row": 12,
+      "col": 5,
       "direction": "across"
     }
   ],

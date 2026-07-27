@@ -4,67 +4,74 @@
   "title": "2026-11-18",
   "words": [
     {
-      "clue": "A small piece of bent wire used to hold papers together",
-      "answer": "PAPERCLIP",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A race in which runners must jump over barriers",
-      "answer": "HURDLES",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that produces text and images on paper",
-      "answer": "PRINTER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The largest planet in our solar system, known for its Great Red Spot",
-      "answer": "JUPITER",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
-      "answer": "TSUNAMI",
-      "row": 9,
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
-      "answer": "HELMET",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A vehicle that travels into space, powered by rocket engines",
-      "answer": "ROCKET",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A steep, high rock face overlooking lower land or water",
-      "answer": "CLIFF",
-      "row": 4,
-      "col": 6,
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A sticky substance used to join paper or other materials together",
-      "answer": "GLUE",
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The loud sound that follows a flash of lightning",
+      "answer": "THUNDER",
       "row": 0,
       "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A part of a song that is repeated after each verse",
+      "answer": "CHORUS",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A closed railroad car used for carrying freight",
+      "answer": "BOXCAR",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark, earthy brown color, like the pigment",
+      "answer": "UMBER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of players who play together against another group",
+      "answer": "TEAM",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 159

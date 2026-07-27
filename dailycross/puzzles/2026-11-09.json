@@ -4,67 +4,74 @@
   "title": "2026-11-09",
   "words": [
     {
-      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
-      "answer": "SPACECRAFT",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A reference book containing words and their meanings",
-      "answer": "DICTIONARY",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A violent, rotating column of air that touches the ground",
-      "answer": "TORNADO",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling calm and not worried or tense",
-      "answer": "RELAXED",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A hollow instrument filled with beads, shaken to make sound",
-      "answer": "MARACA",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The amount of three-dimensional space occupied by a solid object",
-      "answer": "VOLUME",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Hot, liquid rock beneath the Earth's surface",
-      "answer": "MAGMA",
-      "row": 7,
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The opposite of light; weighing a lot",
-      "answer": "HEAVY",
-      "row": 4,
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A team sport where players kick a ball into the opposing team's goal",
+      "answer": "SOCCER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "One of the three main forms that matter can take",
-      "answer": "STATE",
-      "row": 0,
-      "col": 7,
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The longest finger in the middle of your hand",
+      "answer": "MIDDLE",
+      "row": 3,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that is gentle and neither very hot nor very cold",
+      "answer": "MILD",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 150

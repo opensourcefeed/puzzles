@@ -4,74 +4,74 @@
   "title": "2026-07-17",
   "words": [
     {
-      "clue": "A bright, vivid greenish-yellow color named after a liqueur",
-      "answer": "CHARTREUSE",
-      "row": 7,
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 6,
-      "col": 5,
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A short-range wireless technology for connecting devices",
-      "answer": "BLUETOOTH",
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
       "row": 5,
-      "col": 7,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "An animal that feeds only on plants and plant material",
-      "answer": "HERBIVORE",
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
       "row": 5,
-      "col": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Musical instruments that produce sound by blowing air through them",
-      "answer": "WOODWIND",
+      "clue": "A piece of absorbent cloth used for drying after washing",
+      "answer": "TOWEL",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The pair of parallel metal rails that trains run on",
+      "answer": "TRACK",
       "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The number of points earned by a player or team in a game",
+      "answer": "SCORE",
+      "row": 5,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
-      "answer": "PERCENT",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A large cloud of gas and dust in space where stars are born",
-      "answer": "NEBULA",
-      "row": 14,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A cup or other decorative object awarded as a prize for winning",
-      "answer": "TROPHY",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A thick, tropical area filled with many trees and plants",
-      "answer": "JUNGLE",
+      "clue": "A piece of furniture with a back and legs, designed for one person to sit on",
+      "answer": "CHAIR",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The action of pressing and releasing a mouse button",
-      "answer": "CLICK",
+      "clue": "The red liquid that circulates through your heart and blood vessels",
+      "answer": "BLOOD",
       "row": 9,
-      "col": 8,
-      "direction": "across"
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 35

@@ -4,60 +4,60 @@
   "title": "Level 27",
   "words": [
     {
-      "clue": "A sweet, brown food made from roasted cocoa beans",
-      "answer": "CHOCOLATE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
-      "answer": "SEATBELT",
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
       "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who specializes in the study of plants",
-      "answer": "BOTANIST",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
-      "row": 4,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing surprise at something unexpected",
+      "answer": "SURPRISED",
+      "row": 5,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The opposite of deep; of little depth",
-      "answer": "SHALLOW",
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
       "row": 10,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
-      "answer": "POTATO",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
+      "clue": "The empty space between stars and galaxies that contains no matter",
+      "answer": "VACUUM",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
     },
     {
-      "clue": "A person who writes books, articles, or other written works",
-      "answer": "WRITER",
-      "row": 2,
+      "clue": "The words or text of a song",
+      "answer": "LYRICS",
+      "row": 0,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     }
   ],
   "wordCount": 8,

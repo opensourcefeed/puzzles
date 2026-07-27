@@ -4,74 +4,60 @@
   "title": "2027-04-28",
   "words": [
     {
-      "clue": "A device that detects smoke and sounds an alarm",
-      "answer": "SMOKEALARM",
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large, juicy fruit with green striped skin and red flesh",
-      "answer": "WATERMELON",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
+      "clue": "The sport of riding a bicycle",
+      "answer": "CYCLING",
       "row": 3,
-      "col": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A board on a wall used for displaying notices and announcements",
-      "answer": "BULLETIN",
-      "row": 1,
-      "col": 6,
+      "clue": "A string instrument with a flat back, played by strumming or plucking",
+      "answer": "GUITAR",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
       "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A soft, pale yellow color, like the dairy product",
-      "answer": "BUTTER",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, oval nut that grows underground and is used to make butter",
-      "answer": "PEANUT",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A pinkish-orange color, like the marine animal",
-      "answer": "CORAL",
+      "clue": "A small, lockable storage compartment for personal belongings at school",
+      "answer": "LOCKER",
       "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The opposite of hard; easy to press or shape",
-      "answer": "SOFT",
-      "row": 7,
+      "clue": "A dark, earthy brown color, like the pigment",
+      "answer": "UMBER",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
+      "answer": "BRASS",
+      "row": 0,
       "col": 0,
-      "direction": "across"
+      "direction": "down"
     }
   ],
   "dayNumber": 320

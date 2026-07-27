@@ -4,74 +4,53 @@
   "title": "2027-03-10",
   "words": [
     {
-      "clue": "An instrument used to measure wind speed",
-      "answer": "ANEMOMETER",
-      "row": 5,
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The longest side of a right-angled triangle, opposite the right angle",
-      "answer": "HYPOTENUSE",
-      "row": 2,
+      "clue": "A slow-moving reptile with a hard shell on its back",
+      "answer": "TURTLE",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The speed at which the wind is moving",
-      "answer": "WINDSPEED",
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
       "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "An electronic device that processes data and runs programs",
-      "answer": "COMPUTER",
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
       "row": 0,
-      "col": 7,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with seven straight sides and seven angles",
-      "answer": "HEPTAGON",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A leafy green vegetable commonly used as a base for salads",
-      "answer": "LETTUCE",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A portable computer that folds flat for easy carrying",
-      "answer": "LAPTOP",
-      "row": 1,
+      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
+      "answer": "RULER",
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The arrangement of visual elements on a screen or page",
-      "answer": "LAYOUT",
+      "clue": "A wireless networking technology that allows devices to connect to the internet",
+      "answer": "WIFI",
       "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that has exactly two different factors: itself and 1",
-      "answer": "PRIME",
-      "row": 7,
-      "col": 6,
+      "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "The third planet from the Sun, where all known life exists",
-      "answer": "EARTH",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
     }
   ],
   "dayNumber": 271

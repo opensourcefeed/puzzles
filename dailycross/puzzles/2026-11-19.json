@@ -4,67 +4,67 @@
   "title": "2026-11-19",
   "words": [
     {
-      "clue": "A spacecraft designed to carry astronauts into space",
-      "answer": "CREWCRAFT",
-      "row": 4,
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tree that sheds all its leaves each autumn",
-      "answer": "DECIDUOUS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that is the product of a number multiplied by itself",
-      "answer": "SQUAREDO",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A series of connected vehicles that run on railway tracks",
-      "answer": "TRAIN",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ in your chest that pumps blood throughout your body",
-      "answer": "HEART",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A small device moved by hand to control the cursor on a screen",
-      "answer": "MOUSE",
-      "row": 1,
+      "clue": "A person who makes and repairs wooden objects and furniture",
+      "answer": "CARPENTER",
+      "row": 4,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A very dark blue color, like the deep ocean",
-      "answer": "NAVY",
+      "clue": "A liquid fuel made from petroleum, used in most cars",
+      "answer": "GASOLINE",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A warm cover you sleep under in bed",
+      "answer": "BLANKET",
       "row": 6,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A movable barrier used to close an entrance to a room",
-      "answer": "DOOR",
-      "row": 8,
-      "col": 5,
+      "clue": "A piece of furniture with drawers for storing items",
+      "answer": "CABINET",
+      "row": 11,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "A string instrument with a flat back, played by strumming or plucking",
+      "answer": "GUITAR",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that feels damp and has a lot of moisture in the air",
+      "answer": "HUMID",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 160

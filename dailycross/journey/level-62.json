@@ -4,84 +4,91 @@
   "title": "Level 62",
   "words": [
     {
-      "clue": "A device that makes holes in paper for filing in binders",
-      "answer": "HOLEPUNCH",
-      "row": 4,
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "An electronic device that processes data and runs programs",
-      "answer": "COMPUTER",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A panel of keys used to type text and commands into a computer",
-      "answer": "KEYBOARD",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The seventh planet from the Sun, which rotates on its side",
-      "answer": "URANUS",
-      "row": 4,
+      "clue": "A flying vehicle with rotating blades that can take off and land vertically",
+      "answer": "HELICOPTER",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A website or tool that helps find information on the internet",
-      "answer": "SEARCH",
-      "row": 11,
-      "col": 5,
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A place where water from a river or lake flows out into another body of water",
-      "answer": "OUTLET",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The level of loudness or softness in music",
-      "answer": "VOLUME",
-      "row": 3,
-      "col": 2,
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A large wild cat with orange fur and black stripes",
-      "answer": "TIGER",
-      "row": 9,
+      "clue": "A period of rest between parts of a game",
+      "answer": "HALFTIME",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round solid shape where every point on its surface is the same distance from its center",
+      "answer": "SPHERE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large area of flat land with few trees",
-      "answer": "PLAIN",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of clean; untidy or dirty",
-      "answer": "MESSY",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of flexible; not easily bent or changed",
-      "answer": "STIFF",
+      "clue": "The device on the wall used to turn lights on and off",
+      "answer": "SWITCH",
       "row": 7,
-      "col": 12,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 12,
   "targetWords": 13,
   "difficulty": "medium"
 }

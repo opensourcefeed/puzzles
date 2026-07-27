@@ -4,98 +4,84 @@
   "title": "Level 81",
   "words": [
     {
-      "clue": "A piece of furniture with shelves for storing books",
-      "answer": "BOOKSHELF",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing surprise at something unexpected",
-      "answer": "SURPRISED",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A large building or outdoor area with seats for watching sports events",
-      "answer": "STADIUM",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright, vivid pink color named after a flower",
-      "answer": "FUCHSIA",
-      "row": 8,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A place where trains stop to pick up and drop off passengers",
-      "answer": "STATION",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that fastens sheets of paper together with staples",
-      "answer": "STAPLER",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A large system of winds rotating around a center of low pressure",
-      "answer": "CYCLONE",
-      "row": 13,
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A device that stores chemical energy and converts it to electrical energy",
-      "answer": "BATTERY",
-      "row": 7,
-      "col": 1,
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A place where water from a river or lake flows out into another body of water",
-      "answer": "OUTLET",
-      "row": 11,
-      "col": 2,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A four-sided shape with one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A large animal with a trunk",
+      "answer": "ELEPHANT",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A young plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 4,
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat container with a handle, used with a broom to collect dirt",
+      "answer": "DUSTPAN",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A colorless, odorless gas that is essential for human life",
+      "answer": "OXYGEN",
+      "row": 12,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Water in the form of a gas, especially when heated",
-      "answer": "VAPOR",
-      "row": 14,
-      "col": 7,
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A black and white striped animal that looks like a horse",
-      "answer": "ZEBRA",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who performs roles in plays, movies, or television",
-      "answer": "ACTOR",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
+      "clue": "The opposite of correct; not correct or true",
+      "answer": "WRONG",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 11,
   "targetWords": 16,
   "difficulty": "medium"
 }

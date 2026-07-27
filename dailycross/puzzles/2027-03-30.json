@@ -4,67 +4,74 @@
   "title": "2027-03-30",
   "words": [
     {
-      "clue": "A series of games or contests with several rounds to find a winner",
-      "answer": "TOURNAMENT",
+      "clue": "A four-sided shape with one pair of parallel sides",
+      "answer": "TRAPEZOID",
       "row": 3,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A plant that lives and grows for more than two years",
-      "answer": "PERENNIAL",
-      "row": 2,
-      "col": 7,
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A person who directs the performance of an orchestra or choir",
-      "answer": "CONDUCTOR",
-      "row": 1,
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
-      "row": 1,
-      "col": 3,
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
-      "answer": "SEATBELT",
-      "row": 9,
+      "clue": "A large, flat dish used for serving food",
+      "answer": "PLATTER",
+      "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A device that converts paper documents into digital images",
-      "answer": "SCANNER",
-      "row": 6,
-      "col": 3,
+      "clue": "The opposite of open; not open or allowing access",
+      "answer": "CLOSED",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of clean; untidy or dirty",
+      "answer": "MESSY",
+      "row": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The arrangement of visual elements on a screen or page",
-      "answer": "LAYOUT",
-      "row": 0,
-      "col": 1,
+      "clue": "A piece of furniture with a flat top, used for eating, working, or placing things",
+      "answer": "TABLE",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A fish known for swimming upstream to lay eggs",
-      "answer": "SALMON",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A large, round object in space that orbits a star",
-      "answer": "PLANET",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
+      "clue": "A deep red color, like the precious gemstone",
+      "answer": "RUBY",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 291

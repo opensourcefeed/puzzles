@@ -4,74 +4,74 @@
   "title": "2026-08-12",
   "words": [
     {
-      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
-      "answer": "SPACECRAFT",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A cabinet with shelves for storing food and dishes",
-      "answer": "CUPBOARD",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ in your abdomen that breaks down food after you swallow",
-      "answer": "STOMACH",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling resentful because of someone else's success or advantages",
-      "answer": "JEALOUS",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A spiky plant that stores water and grows in deserts",
-      "answer": "CACTUS",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a song that is repeated after each verse",
-      "answer": "CHORUS",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A boat or ship that carries passengers and vehicles across a body of water",
-      "answer": "FERRY",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Weather that is bright and free of clouds or rain",
-      "answer": "CLEAR",
+      "clue": "A liquid fuel made from petroleum, used in most cars",
+      "answer": "GASOLINE",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A message sent and received electronically over a network",
-      "answer": "EMAIL",
-      "row": 3,
+      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
+      "answer": "WARDROBE",
+      "row": 6,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The display surface of a computer that shows images and text",
+      "answer": "SCREEN",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where players hit a ball over a net using rackets",
+      "answer": "TENNIS",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your foot to your lower leg",
+      "answer": "ANKLE",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A fertile area in a desert where water is found and plants can grow",
+      "answer": "OASIS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A container used to hold flowers",
+      "answer": "VASE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of related web pages under a single domain name",
+      "answer": "SITE",
+      "row": 7,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 61

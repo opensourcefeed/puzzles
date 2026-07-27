@@ -4,38 +4,38 @@
   "title": "Level 1",
   "words": [
     {
-      "clue": "A sweet, brown food made from roasted cocoa beans",
-      "answer": "CHOCOLATE",
-      "row": 3,
+      "clue": "A cabinet with shelves for storing food and dishes",
+      "answer": "CUPBOARD",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Comfortable shoes designed for sports or casual wear",
-      "answer": "SNEAKERS",
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A green, pear-shaped fruit with a large pit inside",
+      "answer": "AVOCADO",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The season with the most snow and cold",
+      "answer": "WINTER",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A digital container for organizing files on a computer",
-      "answer": "FOLDER",
-      "row": 2,
+      "clue": "Feeling sad because of being alone or without company",
+      "answer": "LONELY",
+      "row": 7,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who operates and controls an aircraft",
-      "answer": "PILOT",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of big; of a size that is less than average",
-      "answer": "SMALL",
-      "row": 0,
-      "col": 6,
       "direction": "across"
     }
   ],

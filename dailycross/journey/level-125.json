@@ -4,133 +4,119 @@
   "title": "Level 125",
   "words": [
     {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A mathematical statement that two expressions are equal",
-      "answer": "EQUATION",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The amount of moisture or water vapor present in the air",
-      "answer": "HUMIDITY",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The process of practicing to improve skills for a sport",
-      "answer": "TRAINING",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The scientific study of matter, energy, and their interactions",
-      "answer": "PHYSICS",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried or uneasy about what might happen",
-      "answer": "NERVOUS",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A tall animal with a very long neck",
-      "answer": "GIRAFFE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The loud sound that follows a flash of lightning",
-      "answer": "THUNDER",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A very large and strong ape that lives in African forests",
-      "answer": "GORILLA",
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
       "row": 7,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A colorful bird that can copy human speech and other sounds",
-      "answer": "PARROT",
-      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A container made of woven material or plastic for carrying items",
-      "answer": "BASKET",
-      "row": 4,
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A deep blue-purple color, like the plant used for dye",
-      "answer": "INDIGO",
-      "row": 0,
-      "col": 1,
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The opposite of open; not open or allowing access",
-      "answer": "CLOSED",
-      "row": 0,
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "To transfer data from the internet to a computer or device",
+      "answer": "DOWNLOAD",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 6,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your hand to your forearm",
-      "answer": "WRIST",
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 8,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
+      "row": 14,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The color created by mixing red and yellow, like a carrot",
+      "answer": "ORANGE",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
-      "answer": "RULER",
-      "row": 8,
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A large, round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A dwarf planet in our solar system that was once considered the ninth planet",
+      "answer": "PLUTO",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of absorbent cloth used for drying after washing",
+      "answer": "TOWEL",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small device moved by hand to control the cursor on a screen",
-      "answer": "MOUSE",
-      "row": 6,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The largest organ of the human body, covering and protecting it",
-      "answer": "SKIN",
-      "row": 13,
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
+      "row": 1,
       "col": 2,
       "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 16,
   "targetWords": 22,
   "difficulty": "hard"
 }

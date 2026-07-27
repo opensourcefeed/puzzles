@@ -4,67 +4,74 @@
   "title": "2027-04-07",
   "words": [
     {
-      "clue": "Hopeful and confident about the future",
-      "answer": "OPTIMISTIC",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The distance across a circle passing through its center",
-      "answer": "DIAMETER",
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
       "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who creates and designs clothing and accessories",
-      "answer": "DESIGNER",
-      "row": 6,
-      "col": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A straight line joining two opposite corners of a shape",
-      "answer": "DIAGONAL",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling resentful because of someone else's success or advantages",
-      "answer": "JEALOUS",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A message sent and received electronically over a network",
-      "answer": "EMAIL",
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
       "row": 0,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A short stick passed from one runner to the next in a relay race",
-      "answer": "BATON",
-      "row": 7,
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who repairs and maintains vehicles and machinery",
+      "answer": "MECHANIC",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of deep; of little depth",
+      "answer": "SHALLOW",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A straight line connecting two points on the circumference of a circle",
-      "answer": "CHORD",
-      "row": 1,
-      "col": 1,
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
+      "row": 2,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A race in which team members take turns running and passing a baton",
+      "answer": "RELAY",
+      "row": 4,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of hard; easy to press or shape",
+      "answer": "SOFT",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 299

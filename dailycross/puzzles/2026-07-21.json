@@ -4,59 +4,52 @@
   "title": "2026-07-21",
   "words": [
     {
-      "clue": "The scientific study of stars, planets, and other objects in space",
-      "answer": "ASTRONOMY",
-      "row": 2,
-      "col": 3,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Musical instruments that produce sound by blowing air through them",
-      "answer": "WOODWIND",
-      "row": 1,
-      "col": 7,
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A software application used to access and view websites",
-      "answer": "BROWSER",
-      "row": 0,
-      "col": 9,
+      "clue": "The state of the atmosphere at a particular time and place",
+      "answer": "WEATHER",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
       "clue": "A portable computer that folds flat for easy carrying",
       "answer": "LAPTOP",
-      "row": 1,
-      "col": 3,
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The season when leaves change color and fall",
+      "answer": "AUTUMN",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The symbol (÷) used to show that one number is being divided by another",
-      "answer": "DIVIDE",
+      "clue": "A farm animal that gives wool",
+      "answer": "SHEEP",
       "row": 8,
-      "col": 7,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A polygon where all interior angles are less than 180 degrees",
-      "answer": "CONVEX",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A frozen object in space that develops a glowing tail as it nears the Sun",
-      "answer": "COMET",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that produces light, usually with a shade or cover",
-      "answer": "LAMP",
-      "row": 3,
-      "col": 0,
+      "clue": "The action of throwing a ball to a teammate",
+      "answer": "PASS",
+      "row": 0,
+      "col": 5,
       "direction": "across"
     }
   ],

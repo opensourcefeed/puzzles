@@ -4,63 +4,77 @@
   "title": "Level 48",
   "words": [
     {
-      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
-      "answer": "MICROWAVE",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A part of a whole number, written with a numerator and denominator",
-      "answer": "FRACTION",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic device that processes data and runs programs",
-      "answer": "COMPUTER",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
-      "answer": "PERCENT",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A triangle with all three sides of different lengths",
-      "answer": "SCALENE",
-      "row": 9,
+      "clue": "A person who tends and cultivates gardens and plants",
+      "answer": "GARDENER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sea creature with eight arms and a soft body",
-      "answer": "OCTOPUS",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
+      "clue": "A sport or activity of moving through water using arms and legs",
+      "answer": "SWIMMING",
       "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A powerful vehicle used on farms for pulling machinery and heavy loads",
+      "answer": "TRACTOR",
+      "row": 5,
       "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A round green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather during which rain is falling",
+      "answer": "RAINY",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The curved path of an object as it moves around another in space",
+      "answer": "ORBIT",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The pair of parallel metal rails that trains run on",
+      "answer": "TRACK",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 10,
   "targetWords": 11,
   "difficulty": "medium"
 }

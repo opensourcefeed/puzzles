@@ -4,154 +4,105 @@
   "title": "Level 146",
   "words": [
     {
-      "clue": "The result obtained by subtracting one number from another",
-      "answer": "DIFFERENCE",
-      "row": 7,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large, juicy fruit with green striped skin and red flesh",
-      "answer": "WATERMELON",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where players hit a shuttlecock over a net using rackets",
-      "answer": "BADMINTON",
+      "clue": "A tool used to look closely at something far away",
+      "answer": "TELESCOPE",
       "row": 5,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 4,
-      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A symbol, usually a letter, that represents an unknown number",
-      "answer": "VARIABLE",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The spinning motion of a planet around its own axis",
-      "answer": "ROTATION",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic instrument with a keyboard that produces various sounds",
-      "answer": "KEYBOARD",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A prediction or estimate of future weather conditions",
-      "answer": "FORECAST",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a whole number, written with a numerator and denominator",
-      "answer": "FRACTION",
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
       "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, thin tool used to point at things on a board or screen",
-      "answer": "POINTER",
-      "row": 4,
-      "col": 14,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A bright, vivid pinkish-purple color",
-      "answer": "MAGENTA",
-      "row": 8,
+      "clue": "A long, green vegetable with a crisp texture, often used in salads",
+      "answer": "CUCUMBER",
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The natural environment where an organism lives and grows",
-      "answer": "HABITAT",
-      "row": 14,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of three-dimensional space an object occupies",
-      "answer": "VOLUME",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A large natural stream of water that flows across land",
-      "answer": "RIVER",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool with a sharp blade used for cutting food",
-      "answer": "KNIFE",
-      "row": 8,
+      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
+      "answer": "REPORTER",
+      "row": 11,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A large string instrument played while seated, held between the knees",
-      "answer": "CELLO",
-      "row": 1,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A pinkish-orange color, like the marine animal",
-      "answer": "CORAL",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A fraction where the numerator equals the denominator, representing one whole",
-      "answer": "UNITY",
-      "row": 14,
-      "col": 1,
+      "clue": "Feeling kind and pleasant toward others",
+      "answer": "FRIENDLY",
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The opposite of hard; easy to press or shape",
-      "answer": "SOFT",
+      "clue": "A person who cleans buildings and offices",
+      "answer": "CLEANER",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
       "row": 0,
-      "col": 11,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A collection of data stored under a single name on a computer",
-      "answer": "FILE",
-      "row": 5,
-      "col": 1,
+      "clue": "Feeling embarrassed or guilty about something",
+      "answer": "ASHAMED",
+      "row": 8,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A bird kept on farms for its eggs and meat",
+      "answer": "CHICKEN",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
+      "answer": "POTATO",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "wordCount": 21,
+  "wordCount": 14,
   "targetWords": 24,
   "difficulty": "hard"
 }

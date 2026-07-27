@@ -4,66 +4,73 @@
   "title": "2026-09-18",
   "words": [
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Content and pleased with what has happened",
-      "answer": "SATISFIED",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who makes and repairs wooden objects and furniture",
-      "answer": "CARPENTER",
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
       "row": 5,
-      "col": 8,
-      "direction": "down"
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "A large group of musicians playing a variety of instruments",
-      "answer": "ORCHESTRA",
+      "clue": "No longer feeling worried or anxious",
+      "answer": "RELIEVED",
       "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The number above the line in a fraction, showing how many parts are taken",
-      "answer": "NUMERATOR",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 9,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
-      "answer": "ALMOND",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "One of the three main forms that matter can take",
-      "answer": "STATE",
-      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A sweet, sticky food made by bees from flower nectar",
-      "answer": "HONEY",
-      "row": 9,
-      "col": 2,
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of open; not open or allowing access",
+      "answer": "CLOSED",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who uses their voice to produce musical sounds",
+      "answer": "SINGER",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A large wild cat with orange fur and black stripes",
+      "answer": "TIGER",
+      "row": 7,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A woodwind instrument held sideways and played by blowing across a hole",
+      "answer": "FLUTE",
+      "row": 7,
+      "col": 1,
       "direction": "down"
     }
   ],

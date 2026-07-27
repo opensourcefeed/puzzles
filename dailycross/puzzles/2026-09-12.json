@@ -4,73 +4,66 @@
   "title": "2026-09-12",
   "words": [
     {
-      "clue": "A small container used to hold pencils, pens, and other writing tools",
-      "answer": "PENCILCASE",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Music written or printed on paper using musical notation",
-      "answer": "SHEETMUSIC",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The total distance around the outside of a shape",
-      "answer": "PERIMETER",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape that can be divided into two identical halves",
-      "answer": "SYMMETRIC",
-      "row": 9,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The short hairs that grow along the edge of each eyelid",
-      "answer": "EYELASHES",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
-      "answer": "SCOOTER",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Plant tissue that carries food made in leaves to other parts",
-      "answer": "PHLOEM",
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
       "row": 0,
-      "col": 7,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 11,
-      "col": 8,
+      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
+      "answer": "AIRPLANE",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
+      "row": 10,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The finger next to your thumb, used for pointing",
-      "answer": "INDEX",
-      "row": 9,
-      "col": 7,
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A race in which team members take turns running and passing a baton",
-      "answer": "RELAY",
-      "row": 2,
-      "col": 5,
+      "clue": "A round, red fruit often used in salads and sauces",
+      "answer": "TOMATO",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A breakfast food made from processed grains, often eaten with milk",
+      "answer": "CEREAL",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A healthcare professional who assists doctors and cares for patients",
+      "answer": "NURSE",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],

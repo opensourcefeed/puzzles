@@ -4,66 +4,73 @@
   "title": "2026-11-17",
   "words": [
     {
-      "clue": "The movement of one object around another in an orbital path",
-      "answer": "REVOLUTION",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with twelve straight sides and twelve angles",
-      "answer": "DODECAGON",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that is greater than zero",
-      "answer": "POSITIVE",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that produces text and images on paper",
-      "answer": "PRINTER",
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A structure built to carry a road or railway over a river or valley",
-      "answer": "BRIDGE",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "The joint that connects your foot to your lower leg",
-      "answer": "ANKLE",
-      "row": 10,
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A place where ships are built, repaired, and maintained",
+      "answer": "DOCKYARD",
+      "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The color of grass, leaves, and many plants",
-      "answer": "GREEN",
-      "row": 1,
+      "clue": "A bag with straps worn on the back to carry books and school supplies",
+      "answer": "BACKPACK",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A real-time conversation using typed messages over the internet",
-      "answer": "CHAT",
-      "row": 0,
+      "clue": "The short, thick finger on your hand that helps you grip things",
+      "answer": "THUMB",
+      "row": 10,
       "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of full; containing nothing",
+      "answer": "EMPTY",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large string instrument with pedals, played by plucking strings",
+      "answer": "HARP",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of your face below your mouth and above your neck",
+      "answer": "CHIN",
+      "row": 8,
+      "col": 6,
       "direction": "down"
     }
   ],

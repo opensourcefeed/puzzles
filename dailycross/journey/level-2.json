@@ -4,39 +4,39 @@
   "title": "Level 2",
   "words": [
     {
-      "clue": "A dark, heavy cloud that often brings rain or a storm",
-      "answer": "STORMCLOUD",
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
+      "answer": "COCONUT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A young plant just starting to grow",
+      "answer": "SPROUT",
       "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, pale yellow color, like the dairy product",
+      "answer": "BUTTER",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The longest finger in the middle of your hand",
-      "answer": "MIDDLE",
-      "row": 2,
+      "clue": "A small, smooth stone worn by water over time",
+      "answer": "PEBBLE",
+      "row": 5,
       "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "A sequence of musical notes that forms a recognizable tune",
-      "answer": "MELODY",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The body part used for tasting food",
-      "answer": "TONGUE",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
-      "answer": "HANGER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "wordCount": 5,

@@ -4,119 +4,112 @@
   "title": "Level 149",
   "words": [
     {
-      "clue": "A bright, vivid greenish-yellow color named after a liqueur",
-      "answer": "CHARTREUSE",
+      "clue": "A person who leads a country or company",
+      "answer": "PRESIDENT",
       "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who conducts scientific research in a laboratory",
-      "answer": "SCIENTIST",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A triangle with two sides of equal length",
-      "answer": "ISOSCELES",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A race where each competitor tries to complete a course in the shortest time",
-      "answer": "TIMETRIAL",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 12,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The person who directs and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 2,
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with five straight sides and five angles",
+      "answer": "PENTAGON",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that converts paper documents into digital images",
+      "answer": "SCANNER",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The smallest planet in our solar system and closest to the Sun",
+      "answer": "MERCURY",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that makes exact copies of documents on paper",
+      "answer": "COPIER",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long, narrow board with a padded surface used for ironing",
-      "answer": "IRONBOARD",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A woodwind instrument with a single reed and keys",
-      "answer": "CLARINET",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 0,
+      "clue": "A deep, dark green color like the trees in a forest",
+      "answer": "FOREST",
+      "row": 1,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The organ that filters waste from your blood and produces urine",
-      "answer": "KIDNEY",
-      "row": 0,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A crisp, green vegetable with long, fibrous stalks",
-      "answer": "CELERY",
-      "row": 10,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A colorless, odorless gas that is essential for human life",
-      "answer": "OXYGEN",
-      "row": 8,
-      "col": 14,
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A deep, rich purple color, like the flower",
-      "answer": "VIOLET",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A bird that was historically used to carry messages",
-      "answer": "PIGEON",
+      "clue": "A cup or other decorative object awarded as a prize for winning",
+      "answer": "TROPHY",
       "row": 0,
       "col": 0,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "The land along the edge of an ocean or sea",
-      "answer": "COAST",
-      "row": 9,
-      "col": 2,
-      "direction": "down"
+      "clue": "A collection of data stored under a single name on a computer",
+      "answer": "FILE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 15,
   "targetWords": 25,
   "difficulty": "hard"
 }

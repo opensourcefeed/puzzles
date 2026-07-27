@@ -4,66 +4,66 @@
   "title": "2027-06-06",
   "words": [
     {
-      "clue": "A race where each competitor tries to complete a course in the shortest time",
-      "answer": "TIMETRIAL",
-      "row": 4,
-      "col": 1,
+      "clue": "A video call made over the internet",
+      "answer": "VIDEOCALL",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
-      "answer": "SEATBELT",
-      "row": 3,
-      "col": 4,
+      "clue": "A person who is traveling in a vehicle but not driving it",
+      "answer": "PASSENGER",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A group of living organisms that can reproduce with each other",
-      "answer": "SPECIES",
+      "clue": "A sudden, heavy fall of rain",
+      "answer": "DOWNPOUR",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who constructs buildings and other structures",
-      "answer": "BUILDER",
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
       "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who studies chemicals and their reactions",
-      "answer": "CHEMIST",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
-      "answer": "BUTTER",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Data storage that is accessed over the internet rather than locally",
-      "answer": "CLOUD",
-      "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A round percussion instrument with a skin stretched over it, played with sticks",
-      "answer": "DRUM",
-      "row": 7,
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
+      "row": 3,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A very light purple color, like the flower",
+      "answer": "LAVENDER",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where a river flows into a larger river, lake, or ocean",
+      "answer": "MOUTH",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     }
   ],

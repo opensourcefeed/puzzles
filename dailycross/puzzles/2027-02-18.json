@@ -4,60 +4,74 @@
   "title": "2027-02-18",
   "words": [
     {
-      "clue": "A person who directs the performance of an orchestra or choir",
-      "answer": "CONDUCTOR",
-      "row": 5,
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling deep sorrow, especially after a loss",
-      "answer": "GRIEVING",
-      "row": 4,
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "answer": "HURRICANE",
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A mathematical statement that two expressions are equal",
-      "answer": "EQUATION",
-      "row": 3,
+      "clue": "A round green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 11,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat container with a handle, used with a broom to collect dirt",
-      "answer": "DUSTPAN",
-      "row": 7,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies chemicals and their reactions",
-      "answer": "CHEMIST",
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
       "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
+      "answer": "HELMET",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A bird that was historically used to carry messages",
+      "answer": "PIGEON",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 6,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
-      "answer": "ALMOND",
+      "clue": "A healthcare professional who assists doctors and cares for patients",
+      "answer": "NURSE",
       "row": 9,
       "col": 1,
       "direction": "across"
-    },
-    {
-      "clue": "The side of your face between your eye and ear",
-      "answer": "CHEEK",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The pair of parallel metal rails that trains run on",
-      "answer": "TRACK",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
     }
   ],
   "dayNumber": 251

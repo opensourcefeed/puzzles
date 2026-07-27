@@ -4,60 +4,74 @@
   "title": "2026-10-07",
   "words": [
     {
-      "clue": "The result obtained by subtracting one number from another",
-      "answer": "DIFFERENCE",
-      "row": 3,
-      "col": 0,
+      "clue": "A pair of speakers worn over the ears for listening to audio",
+      "answer": "HEADPHONES",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
-      "answer": "MICROWAVE",
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
       "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling deep sorrow, especially after a loss",
-      "answer": "GRIEVING",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A round green vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A room or building containing a collection of books for reading or borrowing",
-      "answer": "LIBRARY",
-      "row": 5,
-      "col": 6,
+      "clue": "A person trained to help people in emergencies before they reach a hospital",
+      "answer": "PARAMEDIC",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "An Australian animal that hops and carries babies in a pouch",
+      "answer": "KANGAROO",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 3,
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 2,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
-      "answer": "BRASS",
-      "row": 7,
-      "col": 6,
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 5,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "Instructions written in a programming language for a computer",
-      "answer": "CODE",
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
       "row": 1,
-      "col": 0,
+      "col": 14,
       "direction": "down"
+    },
+    {
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, pale orange-yellow color like the fruit",
+      "answer": "PEACH",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 117

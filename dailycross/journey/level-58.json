@@ -4,84 +4,98 @@
   "title": "Level 58",
   "words": [
     {
-      "clue": "Having a strong reason or desire to do something",
-      "answer": "MOTIVATED",
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, brown food made from roasted cocoa beans",
+      "answer": "CHOCOLATE",
       "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic device that processes data and performs tasks",
-      "answer": "COMPUTER",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Musical instruments that produce sound by blowing air through them",
-      "answer": "WOODWIND",
-      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A long-distance running race of 26.2 miles",
-      "answer": "MARATHON",
-      "row": 2,
-      "col": 0,
+      "clue": "A long, green vegetable with a crisp texture, often used in salads",
+      "answer": "CUCUMBER",
+      "row": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
-      "row": 2,
-      "col": 1,
+      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "answer": "SEATBELT",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "An official who watches a game closely and enforces the rules",
-      "answer": "REFEREE",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The act of defeating an opponent in a competition",
-      "answer": "VICTORY",
-      "row": 10,
-      "col": 0,
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 13,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A round, green vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 1,
-      "col": 8,
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 0,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "A machine that washes clothes automatically",
       "answer": "WASHER",
-      "row": 0,
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who serves food and drinks at a restaurant",
+      "answer": "WAITER",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of day; the time of darkness between sunset and sunrise",
+      "answer": "NIGHT",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft, pale orange-yellow color like the fruit",
+      "answer": "PEACH",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 2,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A large wild cat with orange fur and black stripes",
-      "answer": "TIGER",
+      "clue": "A small picture or symbol on a computer screen that represents a program",
+      "answer": "ICON",
       "row": 8,
-      "col": 9,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 13,
   "targetWords": 13,
   "difficulty": "medium"
 }

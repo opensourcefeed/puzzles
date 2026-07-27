@@ -4,66 +4,73 @@
   "title": "2027-01-20",
   "words": [
     {
-      "clue": "A small electronic device used for mathematical calculations",
-      "answer": "CALCULATOR",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "An animal that feeds only on the flesh of other animals",
-      "answer": "CARNIVORE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies plants and their growth",
-      "answer": "BOTANIST",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue color, like the precious gemstone",
-      "answer": "SAPPHIRE",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
-      "answer": "DECIMAL",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, bright blue color like the sky on a clear day",
-      "answer": "SKYBLUE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A crisp, green vegetable with long, fibrous stalks",
-      "answer": "CELERY",
-      "row": 2,
+      "clue": "The suit an astronaut wears to survive in space",
+      "answer": "SPACESUIT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A clear, colorless liquid that all living things need to survive",
-      "answer": "WATER",
-      "row": 7,
-      "col": 8,
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
-      "answer": "RULER",
+      "clue": "An electronic device that processes data and runs programs",
+      "answer": "COMPUTER",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
       "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing strong displeasure about something unfair",
+      "answer": "ANGRY",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 6,
       "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     }
   ],

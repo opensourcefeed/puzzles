@@ -4,74 +4,74 @@
   "title": "Level 37",
   "words": [
     {
-      "clue": "A large, juicy fruit with green striped skin and red flesh",
-      "answer": "WATERMELON",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
-      "answer": "GEOLOGIST",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A woodwind instrument with a single reed and keys",
-      "answer": "CLARINET",
+      "clue": "A straight line joining two opposite corners of a shape",
+      "answer": "DIAGONAL",
       "row": 7,
-      "col": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An underground layer of rock that holds and transmits water",
-      "answer": "AQUIFER",
+      "clue": "A green vegetable that looks like a small tree",
+      "answer": "BROCCOLI",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The sport of gliding on ice using ice skates",
+      "answer": "SKATING",
       "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The part of your arm between your elbow and your wrist",
-      "answer": "FOREARM",
+      "clue": "A very fast-running bird that cannot fly",
+      "answer": "OSTRICH",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where trains stop to pick up and drop off passengers",
+      "answer": "STATION",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
       "row": 3,
-      "col": 5,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The arrangement of visual elements on a screen or page",
-      "answer": "LAYOUT",
-      "row": 12,
-      "col": 2,
+      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "answer": "METEOR",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A hollow instrument filled with beads, shaken to make sound",
-      "answer": "MARACA",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The display surface of a computer that shows images and text",
-      "answer": "SCREEN",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The symbol (÷) used to show that one number is being divided by another",
-      "answer": "DIVIDE",
+      "clue": "The place where a river flows into a larger river, lake, or ocean",
+      "answer": "MOUTH",
       "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 7,
-      "col": 0,
+      "clue": "Weather during which rain is falling",
+      "answer": "RAINY",
+      "row": 12,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A warm yellow-brown color, like the fossilized tree resin",
+      "answer": "AMBER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "wordCount": 10,

@@ -4,73 +4,66 @@
   "title": "2027-04-29",
   "words": [
     {
-      "clue": "A tree that keeps its green leaves throughout the entire year",
-      "answer": "EVERGREEN",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A spacecraft designed to carry astronauts into space",
-      "answer": "CREWCRAFT",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A prediction or estimate of future weather conditions",
-      "answer": "FORECAST",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic instrument with a keyboard that produces various sounds",
-      "answer": "KEYBOARD",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A short performance of music or dance",
-      "answer": "RECITAL",
-      "row": 7,
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A device that controls the flow of water from a pipe",
-      "answer": "FAUCET",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Light exercises or practice done before a game to prepare the body",
-      "answer": "WARMUP",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The body part used for tasting food",
-      "answer": "TONGUE",
+      "clue": "No longer feeling worried or anxious",
+      "answer": "RELIEVED",
       "row": 2,
-      "col": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Weather during which snow is falling",
-      "answer": "SNOWY",
-      "row": 4,
-      "col": 2,
+      "clue": "A green vegetable that looks like a small tree",
+      "answer": "BROCCOLI",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A large, flat dish used for serving food",
+      "answer": "PLATTER",
+      "row": 11,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The speed at which a piece of music is played",
-      "answer": "TEMPO",
-      "row": 4,
-      "col": 11,
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who is trained in or good at sports",
+      "answer": "ATHLETE",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a stop sign, fire trucks, and ripe strawberries",
+      "answer": "RED",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A flying mammal that sleeps hanging upside down",
+      "answer": "BAT",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     }
   ],

@@ -4,66 +4,66 @@
   "title": "Level 42",
   "words": [
     {
-      "clue": "Hopeful and confident about the future",
-      "answer": "OPTIMISTIC",
-      "row": 7,
-      "col": 0,
+      "clue": "Musical instruments that produce sound by being struck or shaken",
+      "answer": "PERCUSSION",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A device that makes holes in paper for filing in binders",
-      "answer": "HOLEPUNCH",
-      "row": 6,
-      "col": 0,
+      "clue": "A car used by police officers to patrol and respond to emergencies",
+      "answer": "POLICECAR",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
-      "row": 6,
-      "col": 6,
+      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
+      "answer": "WARDROBE",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A scientist who studies plants and their growth",
-      "answer": "BOTANIST",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A climbing plant that grows green peas in pods",
-      "answer": "PEAVINE",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A bird kept on farms for its eggs and meat",
-      "answer": "CHICKEN",
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "PITCHER",
       "row": 5,
-      "col": 3,
-      "direction": "down"
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "A point where two or more lines or edges meet",
-      "answer": "VERTEX",
+      "clue": "A warm cover you sleep under in bed",
+      "answer": "BLANKET",
       "row": 8,
-      "col": 12,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 1,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A region of a circle bounded by two radii and the arc between them",
-      "answer": "SECTOR",
-      "row": 5,
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
+      "clue": "A dark, rich red color, like the color of chestnuts",
+      "answer": "MAROON",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that makes exact copies of documents on paper",
+      "answer": "COPIER",
       "row": 0,
-      "col": 6,
+      "col": 2,
       "direction": "down"
     }
   ],

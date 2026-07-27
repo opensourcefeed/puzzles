@@ -4,66 +4,73 @@
   "title": "2026-09-26",
   "words": [
     {
-      "clue": "A person who plays a musical instrument or sings professionally",
-      "answer": "MUSICIAN",
-      "row": 5,
-      "col": 2,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A group of stars that are held together by their mutual gravity",
-      "answer": "CLUSTER",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A powerful vehicle used on farms for pulling machinery and heavy loads",
-      "answer": "TRACTOR",
-      "row": 3,
+      "clue": "A woodwind instrument with a single reed and keys",
+      "answer": "CLARINET",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
-      "answer": "DECIMAL",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
-      "answer": "PULSAR",
-      "row": 4,
+      "clue": "A person who tends and cultivates gardens and plants",
+      "answer": "GARDENER",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The five horizontal lines on which music is written",
-      "answer": "STAFF",
-      "row": 3,
-      "col": 7,
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A professional cook who prepares meals in a kitchen",
-      "answer": "CHEF",
-      "row": 0,
-      "col": 10,
+      "clue": "A person who operates and controls a vehicle",
+      "answer": "DRIVER",
+      "row": 6,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A tool with teeth used to untangle and smooth hair",
-      "answer": "COMB",
-      "row": 8,
-      "col": 7,
+      "clue": "A low area of land between hills or mountains, often with a river",
+      "answer": "VALLEY",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A star that suddenly increases greatly in brightness",
-      "answer": "NOVA",
-      "row": 8,
-      "col": 0,
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture for sitting on, used in classrooms",
+      "answer": "CHAIR",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 10,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of strong; lacking physical strength",
+      "answer": "WEAK",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],

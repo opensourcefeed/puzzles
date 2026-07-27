@@ -4,64 +4,71 @@
   "title": "2027-01-24",
   "words": [
     {
-      "clue": "Able to understand and share the feelings of others",
-      "answer": "EMPATHETIC",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A reference book containing words and their meanings",
-      "answer": "DICTIONARY",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sure of oneself and one's abilities",
-      "answer": "CONFIDENT",
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
       "row": 6,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A shape where every point on its boundary is the same distance from its center",
-      "answer": "CIRCULAR",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A brass instrument with three valves and a bright, clear sound",
-      "answer": "TRUMPET",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A tall animal with a very long neck",
-      "answer": "GIRAFFE",
-      "row": 5,
+      "clue": "No longer feeling worried or anxious",
+      "answer": "RELIEVED",
+      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A small, lens-shaped dried seed often used in soups and stews",
-      "answer": "LENTIL",
-      "row": 11,
-      "col": 6,
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 10,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sport where players hit a small ball into holes using clubs",
-      "answer": "GOLF",
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
+      "answer": "NEPTUNE",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The front part of your neck that contains your voice box",
+      "answer": "THROAT",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A line or group of connected mountains forming a chain",
+      "answer": "RANGE",
       "row": 0,
       "col": 8,
       "direction": "down"

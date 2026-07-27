@@ -4,74 +4,60 @@
   "title": "2026-12-09",
   "words": [
     {
-      "clue": "Hopeful and confident about the future",
-      "answer": "OPTIMISTIC",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Giving help and encouragement to others",
-      "answer": "SUPPORTIVE",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A facility from which spacecraft and rockets are launched",
-      "answer": "SPACEPORT",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
-      "answer": "TANGERINE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who specializes in the study of plants",
-      "answer": "BOTANIST",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The small amount of water in the form of vapor in the air",
-      "answer": "MOISTURE",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A part of a line that has two distinct endpoints",
-      "answer": "SEGMENT",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A curved band of colors that appears in the sky after rain",
-      "answer": "RAINBOW",
-      "row": 11,
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
       "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The place where a river flows into a larger river, lake, or ocean",
-      "answer": "MOUTH",
-      "row": 5,
-      "col": 11,
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
+      "row": 1,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "Feeling calm and not worried or tense",
+      "answer": "RELAXED",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A day when the sky is covered with many clouds",
+      "answer": "CLOUDY",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A game or contest between two players or teams",
+      "answer": "MATCH",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 180

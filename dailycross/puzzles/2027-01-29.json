@@ -4,74 +4,67 @@
   "title": "2027-01-29",
   "words": [
     {
-      "clue": "The longest side of a right-angled triangle, opposite the right angle",
-      "answer": "HYPOTENUSE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, thin animal that burrows underground and has no legs",
-      "answer": "EARTHWORM",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A board on a wall used for displaying notices and announcements",
-      "answer": "BULLETIN",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A secret combination of characters used to access an account",
-      "answer": "PASSWORD",
-      "row": 4,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The opposite of deep; of little depth",
-      "answer": "SHALLOW",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest planet in our solar system and closest to the Sun",
-      "answer": "MERCURY",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Musical instruments that produce sound by vibrating strings",
-      "answer": "STRINGS",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of land that is completely surrounded by water",
-      "answer": "ISLAND",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A large area of land covered with many trees",
-      "answer": "FOREST",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The joint in the middle of your arm that allows it to bend",
-      "answer": "ELBOW",
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
       "row": 0,
-      "col": 7,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A plant that grows round, red fruits often used in cooking",
+      "answer": "TOMATO",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where a river or stream begins its journey",
+      "answer": "SOURCE",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A fertile area in a desert where water is found and plants can grow",
+      "answer": "OASIS",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A blue-green color, like the color of a duck's feathers",
+      "answer": "TEAL",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant with long, thin stems that climbs up walls or trees",
+      "answer": "VINE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 231

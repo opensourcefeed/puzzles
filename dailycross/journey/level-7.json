@@ -4,45 +4,45 @@
   "title": "Level 7",
   "words": [
     {
-      "clue": "A scientist who studies animals and their behavior",
-      "answer": "ZOOLOGIST",
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A curved band of colors that appears in the sky after rain",
-      "answer": "RAINBOW",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The display surface of a computer that shows images and text",
-      "answer": "SCREEN",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A fine powder made by grinding wheat, used for baking",
-      "answer": "FLOUR",
+      "clue": "Feeling or showing thanks for something received",
+      "answer": "GRATEFUL",
       "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A large motor vehicle used for transporting goods by road",
-      "answer": "TRUCK",
-      "row": 2,
+      "clue": "Feeling calm and not worried or tense",
+      "answer": "RELAXED",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A piece of absorbent cloth used for drying after washing",
-      "answer": "TOWEL",
-      "row": 1,
-      "col": 1,
+      "clue": "Feeling safe, protected, and free from worry",
+      "answer": "SECURE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who trains and instructs athletes or sports teams",
+      "answer": "COACH",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where a river flows into a larger river, lake, or ocean",
+      "answer": "MOUTH",
+      "row": 2,
+      "col": 0,
       "direction": "down"
     }
   ],

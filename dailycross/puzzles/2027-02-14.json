@@ -4,66 +4,66 @@
   "title": "2027-02-14",
   "words": [
     {
-      "clue": "A series of games or contests with several rounds to find a winner",
-      "answer": "TOURNAMENT",
-      "row": 6,
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with straight sides that form corners",
+      "answer": "POLYGON",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable device with a touch screen, larger than a phone",
+      "answer": "TABLET",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where two people fight using their fists while wearing gloves",
+      "answer": "BOXING",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
+      "answer": "POTATO",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who repairs and maintains vehicles and machinery",
-      "answer": "MECHANIC",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, green or yellow bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where athletes throw a long, spear-like object for distance",
-      "answer": "JAVELIN",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A vegetable with an orange root that grows underground",
-      "answer": "CARROT",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A tropical fruit with orange flesh and a cluster of black seeds",
-      "answer": "PAPAYA",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The finger next to your thumb, used for pointing",
-      "answer": "INDEX",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A very slow-moving animal that carries a shell on its back",
-      "answer": "SNAIL",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A pinkish-orange color, like the marine animal",
-      "answer": "CORAL",
-      "row": 0,
-      "col": 7,
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     }
   ],

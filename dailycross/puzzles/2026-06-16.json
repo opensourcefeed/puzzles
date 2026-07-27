@@ -4,53 +4,67 @@
   "title": "2026-06-16",
   "words": [
     {
-      "clue": "A number that has more than two factors",
-      "answer": "COMPOSITE",
-      "row": 5,
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A round, green vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 5,
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A large bird with a long, colorful tail that it can fan out",
-      "answer": "PEACOCK",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A fish known for swimming upstream to lay eggs",
-      "answer": "SALMON",
-      "row": 6,
-      "col": 5,
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "White or gray masses of water droplets floating in the sky",
-      "answer": "CLOUDS",
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
       "row": 0,
       "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A four-sided shape with all sides equal in length",
+      "answer": "RHOMBUS",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A very fast-running bird that cannot fly",
+      "answer": "OSTRICH",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling embarrassed or guilty about something",
+      "answer": "ASHAMED",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of planets and other objects orbiting a star",
+      "answer": "SYSTEM",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The number that represents nothing or no quantity",
+      "answer": "ZERO",
+      "row": 7,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 4

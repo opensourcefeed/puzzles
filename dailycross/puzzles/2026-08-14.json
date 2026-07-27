@@ -4,74 +4,60 @@
   "title": "2026-08-14",
   "words": [
     {
-      "clue": "A reference book containing words and their meanings",
-      "answer": "DICTIONARY",
-      "row": 3,
+      "clue": "A person who drives a taxi for passengers",
+      "answer": "TAXIDRIVER",
+      "row": 2,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The ability to continue a physical activity for a long time",
-      "answer": "ENDURANCE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Hopeful and confident, even in difficult situations",
-      "answer": "POSITIVE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A symbol, usually a letter, that represents an unknown number",
-      "answer": "VARIABLE",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
-      "answer": "COCONUT",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A card with a student's name and photo used for identification",
-      "answer": "IDCARD",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
-      "answer": "ALMOND",
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
       "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of long; measuring a small distance from end to end",
-      "answer": "SHORT",
-      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A fine powder made by grinding wheat, used for baking",
-      "answer": "FLOUR",
-      "row": 5,
-      "col": 11,
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A small vessel for traveling on water",
-      "answer": "BOAT",
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
       "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that washes clothes automatically",
+      "answer": "WASHER",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
+      "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A low area of land between hills or mountains, often with a river",
+      "answer": "VALLEY",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 63

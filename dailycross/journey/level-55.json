@@ -4,77 +4,91 @@
   "title": "Level 55",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
-      "answer": "MOTORCYCLE",
-      "row": 3,
-      "col": 1,
+      "clue": "A four-sided shape with one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The person who directs and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that lives and grows for more than two years",
-      "answer": "PERENNIAL",
-      "row": 2,
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A green vegetable with a thick stalk and a head of tiny buds",
-      "answer": "BROCCOLI",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with ten straight sides and ten angles",
-      "answer": "DECAGON",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The arrangement of visual elements on a screen or page",
-      "answer": "LAYOUT",
-      "row": 0,
-      "col": 2,
+      "clue": "A sport where players hit a shuttlecock over a net using rackets",
+      "answer": "BADMINTON",
+      "row": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A very large ocean mammal that must surface to breathe",
-      "answer": "WHALE",
-      "row": 1,
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 13,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A cup-shaped spring flower that grows from a bulb",
-      "answer": "TULIP",
-      "row": 4,
-      "col": 8,
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "An Australian animal that hops and carries babies in a pouch",
+      "answer": "KANGAROO",
+      "row": 6,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A black and white bear that eats bamboo",
-      "answer": "PANDA",
-      "row": 1,
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A container with a spout and handle used for boiling water",
+      "answer": "KETTLE",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cuts hair for a living",
+      "answer": "BARBER",
+      "row": 5,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, smooth stone worn by water over time",
+      "answer": "PEBBLE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling safe, protected, and free from worry",
+      "answer": "SECURE",
+      "row": 1,
+      "col": 9,
       "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 12,
   "targetWords": 12,
   "difficulty": "medium"
 }

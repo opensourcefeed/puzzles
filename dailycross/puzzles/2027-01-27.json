@@ -4,67 +4,60 @@
   "title": "2027-01-27",
   "words": [
     {
-      "clue": "A shape that does not have symmetry and cannot be divided into identical halves",
-      "answer": "ASYMMETRIC",
-      "row": 5,
+      "clue": "A big pile of snow blown together by wind",
+      "answer": "SNOWDRIFT",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A device that detects smoke and sounds an alarm",
-      "answer": "SMOKEALARM",
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
       "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A period of unusually cold weather that lasts for several days",
-      "answer": "COLDSPELL",
-      "row": 3,
+      "clue": "A person who creates and designs clothing and accessories",
+      "answer": "DESIGNER",
+      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
-      "answer": "SEATBELT",
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that captures and stores photographs digitally",
+      "answer": "CAMERA",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A large ocean fish with many sharp teeth",
+      "answer": "SHARK",
       "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A software application used to access and view websites",
-      "answer": "BROWSER",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing hope for the future",
-      "answer": "HOPEFUL",
-      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The places where two bones meet and are connected",
-      "answer": "JOINTS",
-      "row": 0,
-      "col": 3,
+      "clue": "A light purple-pink color, like the flower",
+      "answer": "LILAC",
+      "row": 4,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "The place where a river flows into a larger river, lake, or ocean",
-      "answer": "MOUTH",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with a sharp blade used for cutting food",
-      "answer": "KNIFE",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
     }
   ],
   "dayNumber": 229

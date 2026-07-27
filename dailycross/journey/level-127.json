@@ -4,98 +4,119 @@
   "title": "Level 127",
   "words": [
     {
-      "clue": "An angle that measures exactly 90 degrees",
-      "answer": "RIGHTANGLE",
-      "row": 6,
-      "col": 2,
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies matter, energy, and their interactions",
-      "answer": "PHYSICIST",
-      "row": 5,
-      "col": 5,
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 6,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A race where each competitor tries to complete a course in the shortest time",
-      "answer": "TIMETRIAL",
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
       "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A car used by police officers to patrol and respond to emergencies",
-      "answer": "POLICECAR",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
-      "answer": "WARDROBE",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The result obtained by dividing one number by another",
-      "answer": "QUOTIENT",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A purple flower known for its calming, pleasant scent",
-      "answer": "LAVENDER",
-      "row": 9,
-      "col": 7,
+      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "answer": "SAXOPHONE",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "No longer feeling worried or anxious",
       "answer": "RELIEVED",
-      "row": 3,
-      "col": 13,
+      "row": 7,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with ten straight sides and ten angles",
-      "answer": "DECAGON",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
+      "clue": "A part of a whole number, written with a numerator and denominator",
+      "answer": "FRACTION",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "A piece of absorbent cloth used for drying after washing",
-      "answer": "TOWEL",
-      "row": 8,
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 14,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The five horizontal lines on which music is written",
-      "answer": "STAFF",
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cleans buildings and offices",
+      "answer": "CLEANER",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "White or gray masses of water droplets floating in the sky",
+      "answer": "CLOUDS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A cup-shaped spring flower that grows from a bulb",
+      "answer": "TULIP",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather during which snow is falling",
+      "answer": "SNOWY",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who trains and instructs athletes or sports teams",
+      "answer": "COACH",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A container made of glass used for drinking",
+      "answer": "GLASS",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A steep, high rock face overlooking lower land or water",
-      "answer": "CLIFF",
-      "row": 4,
-      "col": 3,
+      "clue": "The beginning stage of many plants",
+      "answer": "SEED",
+      "row": 13,
+      "col": 8,
       "direction": "across"
-    },
-    {
-      "clue": "The hard, white structures that form the skeleton inside your body",
-      "answer": "BONES",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 16,
   "targetWords": 22,
   "difficulty": "hard"
 }

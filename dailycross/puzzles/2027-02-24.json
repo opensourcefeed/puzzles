@@ -4,73 +4,73 @@
   "title": "2027-02-24",
   "words": [
     {
-      "clue": "A team sport where players throw a ball through a raised hoop",
-      "answer": "BASKETBALL",
-      "row": 5,
-      "col": 1,
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sudden shaking of the ground caused by movements in Earth's crust",
-      "answer": "EARTHQUAKE",
-      "row": 2,
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A purple flower known for its calming, pleasant scent",
+      "answer": "LAVENDER",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A folder on a computer where deleted files are temporarily stored",
-      "answer": "RECYCLEBIN",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who creates and designs clothing and accessories",
-      "answer": "DESIGNER",
-      "row": 11,
-      "col": 5,
+      "clue": "A straight line joining two opposite corners of a shape",
+      "answer": "DIAGONAL",
+      "row": 10,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A small, portable device used to store and transfer digital files",
-      "answer": "USBDRIVE",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A book containing information and lessons for a particular school subject",
-      "answer": "TEXTBOOK",
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
       "row": 1,
-      "col": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 0,
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 12,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A sequence of musical notes that forms a recognizable tune",
-      "answer": "MELODY",
+      "clue": "The fold of skin that covers and protects each eye",
+      "answer": "EYELID",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The symbol (×) used to show that numbers are being multiplied",
+      "answer": "TIMES",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "How high or low a musical sound is",
+      "answer": "PITCH",
       "row": 2,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who trains and instructs athletes or sports teams",
-      "answer": "COACH",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A very light yellow color, like the top of milk",
-      "answer": "CREAM",
-      "row": 2,
-      "col": 9,
       "direction": "across"
     }
   ],

@@ -4,67 +4,67 @@
   "title": "2027-05-12",
   "words": [
     {
-      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
-      "answer": "GEOLOGIST",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The display screen of a computer that shows images and text",
-      "answer": "MONITOR",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who helps students learn in a school",
-      "answer": "TEACHER",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A medical professional who diagnoses and treats illnesses",
-      "answer": "DOCTOR",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that makes exact copies of documents on paper",
-      "answer": "COPIER",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A portable computer that folds flat for easy carrying",
-      "answer": "LAPTOP",
-      "row": 5,
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A device used to communicate with others over long distances",
-      "answer": "PHONE",
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who works on a farm growing crops and raising animals",
+      "answer": "FARMER",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small rubber block used to remove pencil marks from paper",
+      "answer": "ERASER",
       "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that is bright and warm with lots of sunshine",
+      "answer": "SUNNY",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A number that has exactly two different factors: itself and 1",
-      "answer": "PRIME",
-      "row": 0,
-      "col": 8,
+      "clue": "A game or contest between two players or teams",
+      "answer": "MATCH",
+      "row": 1,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your foot to your lower leg",
+      "answer": "ANKLE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 334

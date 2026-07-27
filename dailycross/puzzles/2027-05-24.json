@@ -4,66 +4,73 @@
   "title": "2027-05-24",
   "words": [
     {
-      "clue": "The result obtained by subtracting one number from another",
-      "answer": "DIFFERENCE",
-      "row": 6,
-      "col": 0,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
-      "answer": "AIRPLANE",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An athletic event where athletes jump as far as possible from a running start",
-      "answer": "LONGJUMP",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "An underground layer of rock that holds and transmits water",
-      "answer": "AQUIFER",
-      "row": 6,
+      "clue": "A large tropical fruit with rough, spiky skin and sweet yellow flesh",
+      "answer": "PINEAPPLE",
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 0,
-      "col": 7,
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A black and white bear that eats bamboo",
-      "answer": "PANDA",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Music that is sung without instrumental accompaniment",
-      "answer": "VOCAL",
-      "row": 4,
+      "clue": "A telescope famous for taking pictures of distant galaxies, named after a scientist",
+      "answer": "HUBBLE",
+      "row": 5,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep, dark green color like the trees in a forest",
+      "answer": "FOREST",
+      "row": 10,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A single sound of a specific pitch in music",
-      "answer": "NOTE",
-      "row": 1,
-      "col": 4,
+      "clue": "The color of grass, leaves, and many plants",
+      "answer": "GREEN",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The thick muscle at the back of your lower leg",
-      "answer": "CALF",
+      "clue": "A utensil with prongs used for picking up and eating food",
+      "answer": "FORK",
       "row": 3,
-      "col": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The colored ring in the center of the eye that controls light entry",
+      "answer": "IRIS",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     }
   ],

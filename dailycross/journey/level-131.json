@@ -4,126 +4,119 @@
   "title": "Level 131",
   "words": [
     {
-      "clue": "A large white board in a classroom used for writing with markers",
-      "answer": "WHITEBOARD",
-      "row": 6,
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A dark, heavy cloud that often brings rain or a storm",
-      "answer": "STORMCLOUD",
+      "clue": "A tree that produces sweet, juicy apples",
+      "answer": "APPLETREE",
       "row": 4,
-      "col": 8,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A facility from which spacecraft and rockets are launched",
-      "answer": "SPACEPORT",
-      "row": 2,
-      "col": 6,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
-      "row": 2,
-      "col": 6,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape like a diamond in a deck of cards",
+      "answer": "DIAMOND",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A triangle with two sides of equal length",
-      "answer": "ISOSCELES",
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
       "row": 11,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Filled with wonder and admiration",
-      "answer": "AWESTRUCK",
-      "row": 9,
-      "col": 1,
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 14,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A cabinet with shelves for storing food and dishes",
-      "answer": "CUPBOARD",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A climbing plant that grows green peas in pods",
-      "answer": "PEAVINE",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A whole number that can be positive, negative, or zero",
-      "answer": "INTEGER",
+      "clue": "The loud sound that follows a flash of lightning",
+      "answer": "THUNDER",
       "row": 0,
-      "col": 10,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The organ in your abdomen that breaks down food after you swallow",
-      "answer": "STOMACH",
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
       "row": 1,
-      "col": 12,
-      "direction": "down"
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
-      "row": 8,
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Yellow powder made by flowers",
+      "answer": "POLLEN",
+      "row": 3,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
-      "answer": "ALMOND",
-      "row": 13,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool with a sharp blade used for cutting food",
-      "answer": "KNIFE",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A figure formed by two rays sharing a common endpoint",
-      "answer": "ANGLE",
+      "clue": "A bird that was historically used to carry messages",
+      "answer": "PIGEON",
       "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The two organs in your chest that help you breathe",
-      "answer": "LUNGS",
-      "row": 7,
-      "col": 14,
+      "clue": "A small, narrow stream of water",
+      "answer": "CREEK",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A very large body of salt water that covers most of Earth's surface",
-      "answer": "OCEAN",
-      "row": 13,
-      "col": 9,
-      "direction": "across"
+      "clue": "The colored ring in the center of the eye that controls light entry",
+      "answer": "IRIS",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "The third planet from the Sun, our home planet",
-      "answer": "EARTH",
-      "row": 0,
-      "col": 14,
+      "clue": "Feeling brave enough to try something new",
+      "answer": "BOLD",
+      "row": 1,
+      "col": 13,
       "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 16,
   "targetWords": 22,
   "difficulty": "hard"
 }

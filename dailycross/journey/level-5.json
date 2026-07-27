@@ -4,46 +4,46 @@
   "title": "Level 5",
   "words": [
     {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
+      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
+      "answer": "PROTRACTOR",
       "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Hopeful and confident, even in difficult situations",
+      "answer": "POSITIVE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of planets and other objects orbiting a star",
+      "answer": "SYSTEM",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A digital container for organizing files on a computer",
+      "answer": "FOLDER",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that fastens sheets of paper together with staples",
-      "answer": "STAPLER",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of fabric hung over a window to block light or provide privacy",
-      "answer": "CURTAIN",
+      "clue": "A string instrument with a flat back, played by strumming or plucking",
+      "answer": "GUITAR",
       "row": 0,
-      "col": 8,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "A thick, tropical area filled with many trees and plants",
-      "answer": "JUNGLE",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A series of musical notes arranged in ascending or descending order",
-      "answer": "SCALE",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "wordCount": 6,

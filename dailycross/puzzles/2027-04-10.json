@@ -4,73 +4,66 @@
   "title": "2027-04-10",
   "words": [
     {
-      "clue": "Able to understand and share the feelings of others",
-      "answer": "EMPATHETIC",
-      "row": 7,
-      "col": 2,
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A powerful explosion of a star at the end of its life cycle",
-      "answer": "SUPERNOVA",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that has more than two factors",
-      "answer": "COMPOSITE",
-      "row": 5,
+      "clue": "A bright flash of light in the sky during a thunderstorm",
+      "answer": "LIGHTNING",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The opposite of patient; unable to wait calmly",
-      "answer": "IMPATIENT",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The smallest planet in our solar system and closest to the Sun",
-      "answer": "MERCURY",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of propelling a boat using oars",
-      "answer": "ROWING",
-      "row": 9,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A spiky plant that stores water and grows in deserts",
-      "answer": "CACTUS",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The symbol (÷) used to show that one number is being divided by another",
-      "answer": "DIVIDE",
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
       "row": 0,
-      "col": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The words or text of a song",
-      "answer": "LYRICS",
-      "row": 3,
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The side of your face between your eye and ear",
-      "answer": "CHEEK",
-      "row": 13,
-      "col": 0,
+      "clue": "A place where trains stop to pick up and drop off passengers",
+      "answer": "STATION",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape that looks like a circle stretched out, like an egg",
+      "answer": "OVAL",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather with low temperatures that feel very chilly",
+      "answer": "COLD",
+      "row": 6,
+      "col": 7,
       "direction": "across"
     }
   ],

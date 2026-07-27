@@ -4,66 +4,73 @@
   "title": "2027-03-12",
   "words": [
     {
-      "clue": "A powered railway vehicle that pulls a train",
-      "answer": "LOCOMOTIVE",
-      "row": 5,
-      "col": 0,
+      "clue": "A person who watches a sports event from the stands",
+      "answer": "SPECTATOR",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
-      "answer": "SPACECRAFT",
-      "row": 2,
-      "col": 2,
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Having no fear; brave and courageous",
-      "answer": "FEARLESS",
+      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
+      "answer": "COCONUT",
       "row": 4,
-      "col": 9,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "An organ behind the stomach that produces insulin",
-      "answer": "PANCREAS",
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A team sport played on ice or field where players use sticks to hit a puck or ball",
+      "answer": "HOCKEY",
       "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
-      "answer": "WARDROBE",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Hopeful and confident, even in difficult situations",
-      "answer": "POSITIVE",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep, dark green color like the trees in a forest",
-      "answer": "FOREST",
-      "row": 0,
+      "clue": "A cup-shaped spring flower that grows from a bulb",
+      "answer": "TULIP",
+      "row": 10,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A straight line connecting two points on the circumference of a circle",
-      "answer": "CHORD",
-      "row": 1,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Weather that is bright and free of clouds or rain",
-      "answer": "CLEAR",
-      "row": 3,
-      "col": 4,
+      "clue": "The joint in the middle of your arm that allows it to bend",
+      "answer": "ELBOW",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your foot to your lower leg",
+      "answer": "ANKLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The dense, bright central region of a galaxy",
+      "answer": "CORE",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     }
   ],

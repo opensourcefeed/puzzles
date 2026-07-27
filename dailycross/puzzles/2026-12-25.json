@@ -4,74 +4,67 @@
   "title": "2026-12-25",
   "words": [
     {
-      "clue": "Filled with wonder and admiration",
-      "answer": "AWESTRUCK",
-      "row": 3,
-      "col": 0,
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A straight line joining two opposite corners of a shape",
-      "answer": "DIAGONAL",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A small bushy-tailed animal that collects and stores nuts",
-      "answer": "SQUIRREL",
-      "row": 3,
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your arm to your upper body",
-      "answer": "SHOULDER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with ten straight sides and ten angles",
-      "answer": "DECAGON",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A board or area where student work is displayed for others to see",
-      "answer": "DISPLAY",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who writes books, articles, or other written works",
-      "answer": "WRITER",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
+      "clue": "A panel of keys used to input text and commands into a computer",
+      "answer": "KEYBOARD",
       "row": 4,
-      "col": 11,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A piece of furniture with a flat top for writing, used by students",
-      "answer": "DESK",
-      "row": 1,
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A huge, bright sphere of hot gas in space that produces its own light",
-      "answer": "STAR",
-      "row": 4,
-      "col": 8,
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
+      "row": 0,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "The sweet liquid inside a fruit or plant",
+      "answer": "JUICE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A long legless reptile that sheds its skin as it grows",
+      "answer": "SNAKE",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 196

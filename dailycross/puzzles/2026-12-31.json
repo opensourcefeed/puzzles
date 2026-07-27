@@ -4,66 +4,73 @@
   "title": "2026-12-31",
   "words": [
     {
-      "clue": "A shape that does not have symmetry and cannot be divided into identical halves",
-      "answer": "ASYMMETRIC",
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
       "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The scientific study of stars, planets, and other objects in space",
-      "answer": "ASTRONOMY",
-      "row": 2,
-      "col": 7,
+      "clue": "To transfer data from the internet to a computer or device",
+      "answer": "DOWNLOAD",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A large animal with a trunk",
+      "answer": "ELEPHANT",
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
       "clue": "A liquid fuel made from petroleum, used in most cars",
       "answer": "GASOLINE",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A large animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 2,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large and strong ape that lives in African forests",
-      "answer": "GORILLA",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very intelligent and playful ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of three-dimensional space occupied by a solid object",
-      "answer": "VOLUME",
-      "row": 0,
+      "row": 6,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A very dry area that receives very little rainfall",
+      "answer": "DESERT",
+      "row": 5,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A small device moved by hand to control the cursor on a screen",
-      "answer": "MOUSE",
-      "row": 1,
-      "col": 2,
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A thin layer of ice that forms on surfaces when the temperature drops below freezing",
-      "answer": "FROST",
-      "row": 2,
+      "clue": "The place where a river flows into a larger river, lake, or ocean",
+      "answer": "MOUTH",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of big; of a size that is less than average",
+      "answer": "SMALL",
+      "row": 9,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     }
   ],

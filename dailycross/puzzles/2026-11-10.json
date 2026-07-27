@@ -4,67 +4,74 @@
   "title": "2026-11-10",
   "words": [
     {
-      "clue": "A powered railway vehicle that pulls a train",
-      "answer": "LOCOMOTIVE",
-      "row": 6,
-      "col": 2,
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Giving help and encouragement to others",
-      "answer": "SUPPORTIVE",
-      "row": 2,
-      "col": 7,
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A powerful explosion of a star at the end of its life cycle",
-      "answer": "SUPERNOVA",
-      "row": 3,
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "No longer feeling worried or anxious",
+      "answer": "RELIEVED",
+      "row": 7,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "An electronic device that processes data and performs tasks",
-      "answer": "COMPUTER",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
-      "answer": "EGGPLANT",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 13,
-      "col": 7,
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
+      "row": 9,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A device that captures and stores photographs digitally",
-      "answer": "CAMERA",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
-      "answer": "BROOM",
-      "row": 8,
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large organ that filters harmful substances from the blood",
-      "answer": "LIVER",
-      "row": 9,
-      "col": 6,
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "answer": "PEANUT",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A device used to communicate with others over long distances",
+      "answer": "PHONE",
+      "row": 3,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 151

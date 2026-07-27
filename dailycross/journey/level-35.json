@@ -4,67 +4,67 @@
   "title": "Level 35",
   "words": [
     {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long, thin tool used to point at things on a board or screen",
-      "answer": "POINTER",
+      "clue": "A person who repairs and maintains vehicles and machinery",
+      "answer": "MECHANIC",
       "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The movement or change in position of an object",
-      "answer": "MOTION",
-      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A primate that lives in trees and swings from branch to branch",
-      "answer": "MONKEY",
-      "row": 5,
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Musical instruments that produce sound by vibrating strings",
+      "answer": "STRINGS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "An electrical appliance that cleans floors by sucking up dirt",
+      "answer": "VACUUM",
+      "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A structure built to carry a road or railway over a river or valley",
-      "answer": "BRIDGE",
+      "clue": "A long legless reptile that sheds its skin as it grows",
+      "answer": "SNAKE",
       "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The level of loudness or softness in music",
-      "answer": "VOLUME",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A musical term meaning to play softly",
-      "answer": "PIANO",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
-      "answer": "SPOON",
-      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A very slow-moving animal that carries a shell on its back",
-      "answer": "SNAIL",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
+      "clue": "A small rodent that is known for liking cheese",
+      "answer": "MOUSE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "wordCount": 9,

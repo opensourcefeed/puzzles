@@ -4,77 +4,98 @@
   "title": "Level 63",
   "words": [
     {
-      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
-      "answer": "SAXOPHONE",
-      "row": 6,
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A liquid fuel made from petroleum, used in most cars",
-      "answer": "GASOLINE",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who repairs and maintains vehicles and machinery",
-      "answer": "MECHANIC",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "An electronic device that processes data and performs tasks",
-      "answer": "COMPUTER",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A container with a handle and spout for serving drinks",
-      "answer": "PITCHER",
-      "row": 10,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 6,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The suit an astronaut wears to survive in space",
+      "answer": "SPACESUIT",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A two-wheeled vehicle that you ride by pushing pedals with your feet",
-      "answer": "BICYCLE",
+      "clue": "A place where ships are built, repaired, and maintained",
+      "answer": "DOCKYARD",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A warm cover you sleep under in bed",
+      "answer": "BLANKET",
       "row": 2,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 0,
-      "col": 5,
+      "clue": "A bird kept on farms for its eggs and meat",
+      "answer": "CHICKEN",
+      "row": 14,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
-      "answer": "CRANE",
-      "row": 12,
-      "col": 7,
+      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
+      "answer": "HELMET",
+      "row": 10,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
-      "answer": "SPOON",
-      "row": 8,
-      "col": 0,
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid food made from milk, often yellow and sliced",
+      "answer": "CHEESE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "answer": "MUSIC",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 13,
   "targetWords": 13,
   "difficulty": "medium"
 }

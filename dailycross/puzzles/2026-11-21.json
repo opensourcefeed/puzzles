@@ -4,73 +4,73 @@
   "title": "2026-11-21",
   "words": [
     {
-      "clue": "A dense, lush forest found in tropical regions with high rainfall",
-      "answer": "RAINFOREST",
-      "row": 5,
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A large animal with a trunk",
+      "answer": "ELEPHANT",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, portable storage device that plugs into a USB port",
-      "answer": "FLASHDRIVE",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
       "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A woodwind instrument with a single reed and keys",
-      "answer": "CLARINET",
-      "row": 7,
-      "col": 3,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "A person who owns or works on a ranch raising livestock",
-      "answer": "RANCHER",
+      "clue": "A crisp, green vegetable with long, fibrous stalks",
+      "answer": "CELERY",
       "row": 0,
-      "col": 7,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 10,
-      "col": 4,
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 9,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "White or gray masses of water droplets floating in the sky",
-      "answer": "CLOUDS",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that produces a magnetic field and attracts iron",
-      "answer": "MAGNET",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A musical term meaning to play loudly",
-      "answer": "FORTE",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The main support of a plant",
-      "answer": "STEM",
-      "row": 6,
-      "col": 10,
+      "clue": "A person who creates art through drawing, painting, or other visual media",
+      "answer": "ARTIST",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     }
   ],

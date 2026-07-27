@@ -4,60 +4,74 @@
   "title": "2027-04-05",
   "words": [
     {
-      "clue": "A scientist who specializes in the study of physics",
-      "answer": "PHYSICIST",
-      "row": 3,
+      "clue": "Musical instruments that produce sound by being struck or shaken",
+      "answer": "PERCUSSION",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A group of planets and other objects orbiting a star",
-      "answer": "SYSTEM",
-      "row": 3,
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A machine that makes exact copies of documents on paper",
-      "answer": "COPIER",
-      "row": 3,
-      "col": 5,
+      "clue": "A long, green vegetable with a crisp texture, often used in salads",
+      "answer": "CUCUMBER",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The point that is the same distance from every point on the circumference",
-      "answer": "CENTER",
-      "row": 7,
-      "col": 4,
+      "clue": "A set of clothes worn by members of a team for their sport",
+      "answer": "UNIFORM",
+      "row": 10,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A healthcare professional who assists doctors and cares for patients",
-      "answer": "NURSE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "An unmanned spacecraft sent to explore and gather information in space",
-      "answer": "PROBE",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "One of the straight lines that form the boundary of a shape",
-      "answer": "SIDE",
-      "row": 2,
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A very dark blue color, like the deep ocean",
-      "answer": "NAVY",
-      "row": 0,
-      "col": 7,
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 3,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A round, orange citrus fruit with a sweet taste",
+      "answer": "ORANGE",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark, rich red color, like the color of chestnuts",
+      "answer": "MAROON",
+      "row": 8,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The action of pressing and releasing a mouse button",
+      "answer": "CLICK",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 297

@@ -4,66 +4,73 @@
   "title": "2026-09-28",
   "words": [
     {
-      "clue": "A dark, heavy cloud that often brings rain or a storm",
-      "answer": "STORMCLOUD",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of patient; unable to wait calmly",
-      "answer": "IMPATIENT",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who directs and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A watercraft that can operate underwater",
-      "answer": "SUBMARINE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing thanks for something received",
-      "answer": "GRATEFUL",
-      "row": 0,
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 4,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your arm to your upper body",
-      "answer": "SHOULDER",
-      "row": 8,
+      "clue": "A piece of fabric hung over a window to block light or provide privacy",
+      "answer": "CURTAIN",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark, rich red color, like the color of chestnuts",
+      "answer": "MAROON",
+      "row": 6,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A group of living organisms that can reproduce with each other",
-      "answer": "SPECIES",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
-      "answer": "VOLCANO",
-      "row": 4,
-      "col": 2,
+      "clue": "A crisp, green vegetable with long, fibrous stalks",
+      "answer": "CELERY",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The part of your face below your mouth and above your neck",
-      "answer": "CHIN",
-      "row": 6,
-      "col": 9,
+      "clue": "A young plant just starting to grow",
+      "answer": "SPROUT",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of full; containing nothing",
+      "answer": "EMPTY",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of early; after the expected or usual time",
+      "answer": "LATE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The finger next to your little finger, often where a ring is worn",
+      "answer": "RING",
+      "row": 0,
+      "col": 5,
       "direction": "across"
     }
   ],

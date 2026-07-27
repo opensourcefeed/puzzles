@@ -4,66 +4,73 @@
   "title": "2027-01-12",
   "words": [
     {
-      "clue": "A powered railway vehicle that pulls a train",
-      "answer": "LOCOMOTIVE",
-      "row": 7,
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
       "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A chemical change that produces one or more new substances",
-      "answer": "REACTION",
-      "row": 5,
-      "col": 5,
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 3,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A set of clothes worn by members of a team for their sport",
-      "answer": "UNIFORM",
-      "row": 3,
-      "col": 3,
+      "clue": "A long, curved yellow fruit with a soft inside",
+      "answer": "BANANA",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The scientific study of matter, energy, and their interactions",
-      "answer": "PHYSICS",
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A railway carriage for carrying passengers",
-      "answer": "COACH",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
+      "clue": "The joint in the middle of your arm that allows it to bend",
+      "answer": "ELBOW",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "A machine that dries clothes by spinning and heating",
-      "answer": "DRYER",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The huge, empty area beyond Earth's atmosphere containing stars and planets",
-      "answer": "SPACE",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
-      "answer": "CRANE",
-      "row": 4,
-      "col": 0,
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 7,
+      "col": 7,
       "direction": "across"
     }
   ],

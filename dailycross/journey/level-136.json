@@ -4,119 +4,133 @@
   "title": "Level 136",
   "words": [
     {
-      "clue": "Music written or printed on paper using musical notation",
-      "answer": "SHEETMUSIC",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The longest side of a right-angled triangle, opposite the right angle",
-      "answer": "HYPOTENUSE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that automatically washes and dries dishes",
-      "answer": "DISHWASHER",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A small device used to make a pencil point sharp",
-      "answer": "SHARPENER",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
       "clue": "A blue-green color, like the gemstone",
       "answer": "TURQUOISE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A triangle with two sides of equal length",
-      "answer": "ISOSCELES",
-      "row": 13,
-      "col": 3,
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A solid shape with two parallel circular ends and a curved side",
-      "answer": "CYLINDER",
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
       "row": 7,
-      "col": 10,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A bright blue color, like the precious gemstone",
-      "answer": "SAPPHIRE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who creates detailed technical drawings and plans",
-      "answer": "DRAFTER",
-      "row": 2,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 9,
+      "clue": "A piece of fabric hung over a window to block light or provide privacy",
+      "answer": "CURTAIN",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of open; not open or allowing access",
-      "answer": "CLOSED",
-      "row": 11,
-      "col": 2,
+      "clue": "A large, flat dish used for serving food",
+      "answer": "PLATTER",
+      "row": 13,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Feeling or showing care and concern for others",
-      "answer": "CARING",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Greatly surprised or impressed",
-      "answer": "AMAZED",
-      "row": 9,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The color created by mixing red and yellow, like a carrot",
-      "answer": "ORANGE",
-      "row": 0,
+      "clue": "A soft, pale yellow color, like the dairy product",
+      "answer": "BUTTER",
+      "row": 3,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "An area of open land used for playing sports",
-      "answer": "FIELD",
-      "row": 10,
-      "col": 9,
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who works at sea on a ship",
+      "answer": "SAILOR",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small handheld device that moves the cursor on a computer screen",
-      "answer": "MOUSE",
-      "row": 0,
-      "col": 9,
+      "clue": "The opposite of clean; covered or marked with dirt",
+      "answer": "DIRTY",
+      "row": 5,
+      "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A large ocean fish with many sharp teeth",
+      "answer": "SHARK",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A narrow boat for one person, propelled by a double-bladed paddle",
+      "answer": "KAYAK",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A railway carriage for carrying passengers",
+      "answer": "COACH",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A kitchen appliance used for baking, roasting, and heating food",
+      "answer": "OVEN",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A solid shape with a circular base that narrows to a point",
+      "answer": "CONE",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A real-time conversation using typed messages over the internet",
+      "answer": "CHAT",
+      "row": 11,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 18,
   "targetWords": 23,
   "difficulty": "hard"
 }

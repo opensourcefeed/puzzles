@@ -4,91 +4,77 @@
   "title": "Level 61",
   "words": [
     {
-      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
-      "answer": "ICECREAM",
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
       "row": 6,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "An athletic event where athletes jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 5,
-      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-      "answer": "STOMATA",
-      "row": 3,
-      "col": 10,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 6,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Feeling confused because something is difficult to understand",
-      "answer": "PUZZLED",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who helps students learn in a school",
-      "answer": "TEACHER",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 4,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who works on a farm growing crops and raising animals",
-      "answer": "FARMER",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A young plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of planets and other objects orbiting a star",
-      "answer": "SYSTEM",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A container with a spout and handle used for boiling water",
-      "answer": "KETTLE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of furniture with a flat top, used for eating, working, or placing things",
-      "answer": "TABLE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A tray on a desk used to hold incoming papers or documents",
-      "answer": "INBOX",
-      "row": 2,
+      "clue": "A solid shape with two parallel circular ends and a curved side",
+      "answer": "CYLINDER",
+      "row": 12,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, bright blue color like the sky on a clear day",
+      "answer": "SKYBLUE",
+      "row": 13,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who uses their voice to produce musical sounds",
+      "answer": "SINGER",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A medical professional who diagnoses and treats illnesses",
+      "answer": "DOCTOR",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 10,
   "targetWords": 13,
   "difficulty": "medium"
 }

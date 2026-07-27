@@ -4,67 +4,60 @@
   "title": "2026-06-30",
   "words": [
     {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who studies living organisms and their life processes",
-      "answer": "BIOLOGIST",
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
       "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A place with runways where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant tissue that transports water and minerals from roots upward",
-      "answer": "XYLEM",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A specific characteristic that is passed from parents to offspring",
-      "answer": "TRAIT",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of clean; covered or marked with dirt",
-      "answer": "DIRTY",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The pair of parallel metal rails that trains run on",
-      "answer": "TRACK",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A very slow-moving animal that carries a shell on its back",
-      "answer": "SNAIL",
-      "row": 4,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
+      "row": 1,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
+      "answer": "GRAVITY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A blue-green color, like the color of a duck's feathers",
+      "answer": "TEAL",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A common black bird that gathers in large groups",
+      "answer": "CROW",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 18

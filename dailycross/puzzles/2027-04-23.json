@@ -4,74 +4,67 @@
   "title": "2027-04-23",
   "words": [
     {
-      "clue": "A dense, lush forest found in tropical regions with high rainfall",
-      "answer": "RAINFOREST",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small electronic device used for mathematical calculations",
-      "answer": "CALCULATOR",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A brass instrument with a slide that changes the pitch",
-      "answer": "TROMBONE",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that produces text and images on paper from a computer",
-      "answer": "PRINTER",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A very intelligent and playful ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
-      "answer": "PERCENT",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that forwards data between computer networks",
-      "answer": "ROUTER",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of propelling a boat using oars",
-      "answer": "ROWING",
-      "row": 8,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "To transfer data from a computer or device to the internet",
-      "answer": "UPLOAD",
-      "row": 8,
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
-      "answer": "PULSAR",
-      "row": 8,
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 1,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A crisp, green vegetable with long, fibrous stalks",
+      "answer": "CELERY",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who operates and controls a vehicle",
+      "answer": "DRIVER",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A fertile area in a desert where water is found and plants can grow",
+      "answer": "OASIS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall grain plant with yellow kernels arranged on a cob",
+      "answer": "CORN",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A real-time conversation using typed messages over the internet",
+      "answer": "CHAT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 315

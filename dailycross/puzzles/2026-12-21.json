@@ -6,58 +6,72 @@
     {
       "clue": "A sport involving exercises and routines requiring balance and strength",
       "answer": "GYMNASTICS",
-      "row": 2,
-      "col": 2,
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The speed at which the wind is moving",
-      "answer": "WINDSPEED",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A powerful vehicle used on farms for pulling machinery and heavy loads",
-      "answer": "TRACTOR",
-      "row": 0,
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
-      "answer": "DECIMAL",
-      "row": 7,
+      "clue": "Feeling kind and pleasant toward others",
+      "answer": "FRIENDLY",
+      "row": 4,
       "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A bird that was historically used to carry messages",
-      "answer": "PIGEON",
-      "row": 0,
-      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
-      "answer": "CANYON",
-      "row": 5,
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
-      "answer": "CRANE",
-      "row": 5,
-      "col": 13,
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 6,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The part of a plant that grows underground",
-      "answer": "ROOT",
-      "row": 0,
-      "col": 3,
+      "clue": "A thin layer of ice that forms on surfaces when the temperature drops below freezing",
+      "answer": "FROST",
+      "row": 4,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "A fine powder made by grinding wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 192

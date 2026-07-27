@@ -4,73 +4,59 @@
   "title": "2026-12-19",
   "words": [
     {
-      "clue": "A large, colorful bird that cannot fly and lives in rainforests",
-      "answer": "CASSOWARY",
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large group of musicians playing a variety of instruments",
-      "answer": "ORCHESTRA",
-      "row": 3,
-      "col": 8,
+      "clue": "A crisp, green vegetable with long, fibrous stalks",
+      "answer": "CELERY",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
       "row": 1,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 9,
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "answer": "MUSIC",
+      "row": 8,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A complete path through which electric current can flow",
-      "answer": "CIRCUIT",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A short performance of music or dance",
-      "answer": "RECITAL",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, green or yellow bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A hollow instrument filled with beads, shaken to make sound",
-      "answer": "MARACA",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape that has no straight edges or corners",
-      "answer": "ROUND",
-      "row": 0,
-      "col": 0,
       "direction": "across"
     }
   ],

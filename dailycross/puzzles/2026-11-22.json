@@ -4,73 +4,66 @@
   "title": "2026-11-22",
   "words": [
     {
-      "clue": "A sport involving exercises and routines requiring balance and strength",
-      "answer": "GYMNASTICS",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A leafy green vegetable commonly used as a base for salads",
-      "answer": "LETTUCE",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep, rich purple color, like the flower",
-      "answer": "VIOLET",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The fold of skin that covers and protects each eye",
-      "answer": "EYELID",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who catches fish as a job",
-      "answer": "FISHER",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, lockable storage compartment for personal belongings at school",
-      "answer": "LOCKER",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A grain that is often rolled or ground and used to make porridge",
-      "answer": "OATS",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The amount of matter contained in an object",
-      "answer": "MASS",
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
       "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The natural satellite that orbits Earth and reflects the Sun's light",
-      "answer": "MOON",
-      "row": 6,
-      "col": 3,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A bag with straps worn on the back to carry books and school supplies",
+      "answer": "BACKPACK",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who works at sea on a ship",
+      "answer": "SAILOR",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The words or text of a song",
+      "answer": "LYRICS",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who guards and protects a building or place",
+      "answer": "GUARD",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     }
   ],

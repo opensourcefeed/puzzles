@@ -4,112 +4,105 @@
   "title": "Level 121",
   "words": [
     {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 7,
-      "col": 3,
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who conducts scientific research in a laboratory",
-      "answer": "SCIENTIST",
-      "row": 6,
+      "clue": "A small chip that stores photos in a camera",
+      "answer": "MEMORYCARD",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The opposite of visible; unable to be seen",
-      "answer": "INVISIBLE",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
-      "row": 6,
-      "col": 3,
+      "clue": "A small electronic device used for mathematical calculations",
+      "answer": "CALCULATOR",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A very tall flower with a large yellow head that turns toward the sun",
-      "answer": "SUNFLOWER",
-      "row": 10,
-      "col": 6,
+      "clue": "A small, portable storage device that plugs into a USB port",
+      "answer": "FLASHDRIVE",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "No longer feeling worried or anxious",
-      "answer": "RELIEVED",
-      "row": 6,
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 7,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-      "answer": "STOMATA",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling resentful because of someone else's success or advantages",
-      "answer": "JEALOUS",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ that filters waste from your blood and produces urine",
-      "answer": "KIDNEY",
-      "row": 4,
-      "col": 6,
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 11,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 14,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small string instrument played with a bow, held under the chin",
-      "answer": "VIOLIN",
+      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "answer": "CANYON",
       "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "One of the three main forms that matter can take",
-      "answer": "STATE",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The opening in your face used for eating, speaking, and smiling",
-      "answer": "MOUTH",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The red liquid that circulates through your heart and blood vessels",
-      "answer": "BLOOD",
-      "row": 13,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "A small device moved by hand to control the cursor on a screen",
       "answer": "MOUSE",
-      "row": 7,
+      "row": 4,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
+      "answer": "BROOM",
+      "row": 8,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 0,
+      "col": 14,
       "direction": "down"
+    },
+    {
+      "clue": "A sturdy vehicle designed for traveling over rough terrain",
+      "answer": "JEEP",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 14,
   "targetWords": 21,
   "difficulty": "hard"
 }

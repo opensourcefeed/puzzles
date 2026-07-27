@@ -4,74 +4,53 @@
   "title": "2026-06-20",
   "words": [
     {
-      "clue": "The result obtained by subtracting one number from another",
-      "answer": "DIFFERENCE",
-      "row": 6,
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long, thin animal that burrows underground and has no legs",
-      "answer": "EARTHWORM",
-      "row": 4,
-      "col": 5,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A large, colorful bird that cannot fly and lives in rainforests",
-      "answer": "CASSOWARY",
+      "clue": "A very intelligent and playful ocean mammal",
+      "answer": "DOLPHIN",
       "row": 10,
-      "col": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A very large and strong ape that lives in African forests",
-      "answer": "GORILLA",
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
       "row": 3,
-      "col": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round flat shape with no corners or edges",
-      "answer": "CIRCLE",
-      "row": 8,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The amount of three-dimensional space an object occupies",
-      "answer": "VOLUME",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The third planet from the Sun, where all known life exists",
-      "answer": "EARTH",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A large area of flat land with few trees",
-      "answer": "PLAIN",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A small device moved by hand to control the cursor on a screen",
-      "answer": "MOUSE",
+      "clue": "A person who cuts hair for a living",
+      "answer": "BARBER",
       "row": 0,
-      "col": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A thin cloud of tiny water droplets very close to the ground",
-      "answer": "MIST",
+      "clue": "The red liquid that circulates through your heart and blood vessels",
+      "answer": "BLOOD",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather during which rain is falling",
+      "answer": "RAINY",
       "row": 1,
-      "col": 8,
-      "direction": "down"
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 8

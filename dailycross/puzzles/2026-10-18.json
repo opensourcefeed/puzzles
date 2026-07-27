@@ -4,67 +4,67 @@
   "title": "2026-10-18",
   "words": [
     {
-      "clue": "A flying vehicle with rotating blades that can take off and land vertically",
-      "answer": "HELICOPTER",
-      "row": 1,
-      "col": 1,
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
-      "answer": "AIRPLANE",
-      "row": 0,
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing gratitude",
+      "answer": "THANKFUL",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A book containing information and lessons for a particular school subject",
-      "answer": "TEXTBOOK",
+      "clue": "A curved band of colors that appears in the sky after rain",
+      "answer": "RAINBOW",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A set of clothes worn by members of a team for their sport",
+      "answer": "UNIFORM",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
       "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who catches fish as a job",
+      "answer": "FISHER",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 5,
       "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "The loud sound that follows a flash of lightning",
-      "answer": "THUNDER",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A sea creature with eight arms and a soft body",
-      "answer": "OCTOPUS",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A tropical fruit with orange flesh and a cluster of black seeds",
-      "answer": "PAPAYA",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Music that is sung without instrumental accompaniment",
-      "answer": "VOCAL",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Three or more musical notes played together at the same time",
-      "answer": "CHORD",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of grass, leaves, and many plants",
-      "answer": "GREEN",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 128

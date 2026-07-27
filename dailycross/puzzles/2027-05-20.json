@@ -4,67 +4,74 @@
   "title": "2027-05-20",
   "words": [
     {
-      "clue": "The longest side of a right-angled triangle, opposite the right angle",
-      "answer": "HYPOTENUSE",
-      "row": 3,
-      "col": 0,
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The passing of genetic traits from parents to offspring",
-      "answer": "HEREDITY",
-      "row": 2,
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A shiny, light gray color like the precious metal",
-      "answer": "SILVER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of furniture for sitting on, used in classrooms",
-      "answer": "CHAIR",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A very pale pink color, like a flushed cheek",
-      "answer": "BLUSH",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The organ in your chest that pumps blood throughout your body",
-      "answer": "HEART",
-      "row": 3,
+      "clue": "A person trained to help people in emergencies before they reach a hospital",
+      "answer": "PARAMEDIC",
+      "row": 8,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The five horizontal lines on which music is written",
-      "answer": "STAFF",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A two-wheeled vehicle that you ride by pedaling",
-      "answer": "BIKE",
-      "row": 5,
-      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet, brown fruit that grows on palm trees",
-      "answer": "DATE",
-      "row": 0,
-      "col": 9,
+      "clue": "Feeling or showing surprise at something unexpected",
+      "answer": "SURPRISED",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 6,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A person who uses their voice to produce musical sounds",
+      "answer": "SINGER",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A thin layer of ice that forms on surfaces when the temperature drops below freezing",
+      "answer": "FROST",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 342

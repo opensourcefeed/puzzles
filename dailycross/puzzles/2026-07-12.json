@@ -4,66 +4,73 @@
   "title": "2026-07-12",
   "words": [
     {
-      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
-      "answer": "PROTRACTOR",
-      "row": 2,
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A large ship designed to carry cargo across oceans",
-      "answer": "CARGOSHIP",
-      "row": 1,
+      "clue": "A person who drives a taxi for passengers",
+      "answer": "TAXIDRIVER",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A long period with little or no rain",
-      "answer": "DROUGHT",
-      "row": 1,
-      "col": 2,
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The act of defeating an opponent in a competition",
-      "answer": "VICTORY",
-      "row": 8,
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A period of rest between parts of a game",
+      "answer": "HALFTIME",
+      "row": 4,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The display surface of a computer that shows images and text",
-      "answer": "SCREEN",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A perfectly round flat shape with no corners or edges",
-      "answer": "CIRCLE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow powder made by flowers",
-      "answer": "POLLEN",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A pale blue-green color, like water",
-      "answer": "AQUA",
-      "row": 4,
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The smallest particle of a chemical element that can exist",
-      "answer": "ATOM",
-      "row": 1,
-      "col": 4,
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 10,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The wire used to charge a phone or connect devices",
+      "answer": "CABLE",
+      "row": 0,
+      "col": 12,
       "direction": "down"
     }
   ],

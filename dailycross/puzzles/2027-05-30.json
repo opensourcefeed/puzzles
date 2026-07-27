@@ -4,59 +4,66 @@
   "title": "2027-05-30",
   "words": [
     {
-      "clue": "A clock that makes a sound at a set time to wake someone up",
-      "answer": "ALARMCLOCK",
-      "row": 2,
-      "col": 0,
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A short-range wireless technology for connecting devices",
-      "answer": "BLUETOOTH",
-      "row": 1,
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A bus that takes children to and from school",
-      "answer": "SCHOOLBUS",
-      "row": 1,
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A plant that lives and grows for more than two years",
-      "answer": "PERENNIAL",
-      "row": 0,
-      "col": 3,
+      "clue": "A person who designs, builds, and maintains engines and machines",
+      "answer": "ENGINEER",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling calm and not worried or tense",
-      "answer": "RELAXED",
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
       "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The body part used for tasting food",
-      "answer": "TONGUE",
-      "row": 4,
-      "col": 7,
+      "clue": "The opposite of clean; untidy or dirty",
+      "answer": "MESSY",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A woodwind instrument held sideways and played by blowing across a hole",
-      "answer": "FLUTE",
-      "row": 6,
-      "col": 7,
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A straight path that extends infinitely in both directions",
-      "answer": "LINE",
-      "row": 6,
-      "col": 2,
+      "clue": "Water in the form of a gas, especially when heated",
+      "answer": "VAPOR",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that shows the time, usually hung on a wall or placed on a surface",
+      "answer": "CLOCK",
+      "row": 7,
+      "col": 7,
       "direction": "across"
     }
   ],

@@ -4,98 +4,105 @@
   "title": "Level 112",
   "words": [
     {
-      "clue": "Able to understand and share the feelings of others",
-      "answer": "EMPATHETIC",
-      "row": 5,
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The opposite of accurate; not correct or precise",
-      "answer": "INACCURATE",
-      "row": 3,
-      "col": 5,
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A folder on a computer where deleted files are temporarily stored",
-      "answer": "RECYCLEBIN",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of furniture with shelves for storing books",
-      "answer": "BOOKSHELF",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large, powerful storm that forms over warm ocean waters",
-      "answer": "HURRICANE",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A small piece of bent wire used to hold papers together",
-      "answer": "PAPERCLIP",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The short hairs that grow along the ridge above each eye",
-      "answer": "EYEBROWS",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The loud sound that follows a flash of lightning",
-      "answer": "THUNDER",
+      "clue": "A sudden, heavy fall of rain",
+      "answer": "DOWNPOUR",
       "row": 6,
-      "col": 13,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A team sport where players kick a ball into the opposing team's goal",
-      "answer": "SOCCER",
-      "row": 2,
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
-      "answer": "HELMET",
-      "row": 11,
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tree whose sap is used to make sweet syrup",
-      "answer": "MAPLE",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "How high or low a musical sound is",
-      "answer": "PITCH",
-      "row": 3,
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 6,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cleans buildings and offices",
+      "answer": "CLEANER",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of trees growing closely together, smaller than a forest",
+      "answer": "GROVE",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark color like chocolate or tree bark",
+      "answer": "BROWN",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A black and white bear that eats bamboo",
+      "answer": "PANDA",
+      "row": 9,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The outer layer of tissue that covers and protects your body",
+      "answer": "SKIN",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 20,
   "difficulty": "hard"
 }

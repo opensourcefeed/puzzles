@@ -4,67 +4,74 @@
   "title": "2026-12-23",
   "words": [
     {
-      "clue": "A person who writes and tests computer programs",
-      "answer": "PROGRAMMER",
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
       "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat shape with three straight sides and three angles",
+      "answer": "TRIANGLE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A sea creature with eight arms and a soft body",
+      "answer": "OCTOPUS",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A large, round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "An underground passage through which vehicles can travel",
+      "answer": "TUNNEL",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "answer": "METEOR",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
+      "row": 8,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-      "answer": "STOMATA",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where two people fight using their fists while wearing gloves",
-      "answer": "BOXING",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A narrow, deep valley with very steep rocky sides",
-      "answer": "GORGE",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright yellow citrus fruit with a very sour taste",
-      "answer": "LEMON",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Energy that travels in waves and is detected by our ears",
-      "answer": "SOUND",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of hard; easy to press or shape",
-      "answer": "SOFT",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of fast; moving at a low speed",
-      "answer": "SLOW",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
     }
   ],
   "dayNumber": 194

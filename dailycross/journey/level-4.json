@@ -4,38 +4,38 @@
   "title": "Level 4",
   "words": [
     {
-      "clue": "A very tall flower with a large yellow head that turns toward the sun",
-      "answer": "SUNFLOWER",
-      "row": 3,
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A four-sided shape with one pair of parallel sides",
-      "answer": "TRAPEZOID",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A container for holding waste or garbage",
-      "answer": "TRASHCAN",
+      "clue": "A large white bear that lives in the Arctic",
+      "answer": "POLARBEAR",
       "row": 0,
-      "col": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A machine that produces text and images on paper",
-      "answer": "PRINTER",
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The state of the atmosphere at a particular time and place",
+      "answer": "WEATHER",
       "row": 6,
-      "col": 3,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A place where water naturally flows out of the ground",
-      "answer": "SPRING",
-      "row": 4,
-      "col": 4,
+      "clue": "The body part used for tasting food",
+      "answer": "TONGUE",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     }
   ],

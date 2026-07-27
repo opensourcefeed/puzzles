@@ -4,126 +4,147 @@
   "title": "Level 144",
   "words": [
     {
-      "clue": "A sudden shaking of the ground caused by movements in Earth's crust",
-      "answer": "EARTHQUAKE",
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Content and pleased with what has happened",
-      "answer": "SATISFIED",
-      "row": 6,
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 4,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A large tropical fruit with rough, spiky skin and sweet yellow flesh",
-      "answer": "PINEAPPLE",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
+      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
+      "answer": "RECTANGLE",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "A person who is trained to travel and work in space",
-      "answer": "ASTRONAUT",
-      "row": 5,
+      "clue": "The small amount of water in the form of vapor in the air",
+      "answer": "MOISTURE",
+      "row": 6,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A large group of musicians playing a variety of instruments",
-      "answer": "ORCHESTRA",
-      "row": 2,
-      "col": 2,
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
+      "row": 14,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The opposite of visible; unable to be seen",
-      "answer": "INVISIBLE",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A strip of material used to mark a reader's place in a book",
-      "answer": "BOOKMARK",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The dense, central core of an atom containing protons and neutrons",
-      "answer": "NUCLEUS",
+      "clue": "A team sport where players hit a ball with a bat and run bases",
+      "answer": "BASEBALL",
       "row": 2,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "An official who watches a game closely and enforces the rules",
-      "answer": "REFEREE",
-      "row": 13,
-      "col": 8,
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
+      "row": 10,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "An object that produces a magnetic field and attracts iron",
-      "answer": "MAGNET",
-      "row": 9,
-      "col": 14,
+      "clue": "A person who owns or works on a ranch raising livestock",
+      "answer": "RANCHER",
+      "row": 8,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
+      "answer": "POTATO",
+      "row": 8,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The body part used for tasting food",
+      "answer": "TONGUE",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A pen with a broad tip used for writing on whiteboards",
+      "answer": "MARKER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A slow-moving reptile with a hard shell on its back",
+      "answer": "TURTLE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who serves food and drinks at a restaurant",
+      "answer": "WAITER",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
     },
     {
       "clue": "A food made by baking a mixture of flour, water, and yeast",
       "answer": "BREAD",
-      "row": 0,
-      "col": 6,
+      "row": 9,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
-      "answer": "MEDAL",
+      "clue": "Feeling unhappy when something doesn't go as planned",
+      "answer": "UPSET",
       "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of loud; making little or no noise",
-      "answer": "QUIET",
-      "row": 13,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The symbol (-) used to show that one number is being subtracted from another",
-      "answer": "MINUS",
-      "row": 5,
-      "col": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The outer layer of tissue that covers and protects your body",
-      "answer": "SKIN",
-      "row": 10,
+      "clue": "The pair of parallel metal rails that trains run on",
+      "answer": "TRACK",
+      "row": 2,
       "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "The two organs in your chest that help you breathe",
+      "answer": "LUNGS",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A small green amphibian that jumps and lives near water",
+      "answer": "FROG",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 20,
   "targetWords": 24,
   "difficulty": "hard"
 }

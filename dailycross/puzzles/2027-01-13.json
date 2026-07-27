@@ -4,74 +4,74 @@
   "title": "2027-01-13",
   "words": [
     {
-      "clue": "A scientist who studies animals and their behavior",
-      "answer": "ZOOLOGIST",
-      "row": 5,
-      "col": 1,
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A piece of furniture with shelves for storing books",
-      "answer": "BOOKSHELF",
-      "row": 4,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A short-range wireless technology for connecting devices",
-      "answer": "BLUETOOTH",
+      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
+      "answer": "METEORITE",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who conducts scientific research in a laboratory",
-      "answer": "SCIENTIST",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The tough outer layer that covers and protects a seed",
-      "answer": "SEEDCOAT",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A container made of woven material or plastic for carrying items",
-      "answer": "BASKET",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 7,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A tree with long, thin branches that hang down toward the ground",
-      "answer": "WILLOW",
-      "row": 3,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A railway carriage for carrying passengers",
-      "answer": "COACH",
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
       "row": 9,
-      "col": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The opposite of big; of a size that is less than average",
-      "answer": "SMALL",
+      "clue": "A shape like a diamond in a deck of cards",
+      "answer": "DIAMOND",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
       "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A steep, high rock face overlooking lower land or water",
+      "answer": "CLIFF",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A real-time conversation using typed messages over the internet",
+      "answer": "CHAT",
+      "row": 2,
       "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "The colored ring in the center of the eye that controls light entry",
+      "answer": "IRIS",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 215

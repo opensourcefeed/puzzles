@@ -4,67 +4,74 @@
   "title": "2027-05-28",
   "words": [
     {
-      "clue": "Giving help and encouragement to others",
-      "answer": "SUPPORTIVE",
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
       "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with twelve straight sides and twelve angles",
-      "answer": "DODECAGON",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A prediction or estimate of future weather conditions",
-      "answer": "FORECAST",
-      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A board on a wall used for displaying notices and announcements",
-      "answer": "BULLETIN",
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A video call made over the internet",
+      "answer": "VIDEOCALL",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
       "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The display screen of a computer that shows images and text",
-      "answer": "MONITOR",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A polygon where all sides and all angles are equal",
-      "answer": "REGULAR",
-      "row": 3,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The color created by mixing red and yellow, like a carrot",
-      "answer": "ORANGE",
-      "row": 12,
-      "col": 1,
+      "clue": "Feeling confused because something is difficult to understand",
+      "answer": "PUZZLED",
+      "row": 3,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A sport where players hit a ball over a net using rackets",
-      "answer": "TENNIS",
-      "row": 0,
-      "col": 0,
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that produces colorful, often scented blooms",
+      "answer": "FLOWER",
+      "row": 2,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A plant that grows round, red fruits often used in cooking",
-      "answer": "TOMATO",
-      "row": 0,
+      "clue": "A round, starchy vegetable that can be baked, mashed, or fried",
+      "answer": "POTATO",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very happy and full of joy",
+      "answer": "JOYFUL",
+      "row": 12,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A large string instrument played while seated, held between the knees",
+      "answer": "CELLO",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "dayNumber": 350

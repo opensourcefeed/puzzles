@@ -4,49 +4,42 @@
   "title": "Level 9",
   "words": [
     {
-      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
-      "answer": "ORGANISM",
-      "row": 1,
-      "col": 1,
+      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "answer": "MICROWAVE",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
-      "answer": "GRAVITY",
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
       "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The scientific study of living organisms and their life processes",
-      "answer": "BIOLOGY",
-      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The symbol (÷) used to show that one number is being divided by another",
-      "answer": "DIVIDE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with four equal sides and four right angles",
-      "answer": "SQUARE",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A short green plant that covers lawns and fields",
-      "answer": "GRASS",
+      "clue": "The point where two or more lines or edges meet",
+      "answer": "VERTEX",
       "row": 0,
-      "col": 0,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape that has no straight edges or corners",
+      "answer": "ROUND",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 5,
   "targetWords": 6,
   "difficulty": "easy"
 }

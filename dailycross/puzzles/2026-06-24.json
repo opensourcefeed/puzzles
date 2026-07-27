@@ -4,73 +4,59 @@
   "title": "2026-06-24",
   "words": [
     {
-      "clue": "A sport or activity of moving through water using arms and legs",
-      "answer": "SWIMMING",
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
       "row": 6,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "An athletic event where athletes jump as far as possible from a running start",
-      "answer": "LONGJUMP",
-      "row": 4,
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
-      "answer": "ECLIPSE",
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A regular, repeated pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft cushion you rest your head on while sleeping",
+      "answer": "PILLOW",
       "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A spacecraft that can be reused to travel to and from orbit",
-      "answer": "SHUTTLE",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A digital container for organizing files on a computer",
-      "answer": "FOLDER",
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
       "row": 0,
-      "col": 4,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A figure formed by two rays sharing a common endpoint",
-      "answer": "ANGLE",
+      "clue": "A desert animal with one or two humps on its back",
+      "answer": "CAMEL",
       "row": 6,
-      "col": 9,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A fertile area in a desert where water is found and plants can grow",
-      "answer": "OASIS",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A tall grain plant with yellow kernels arranged on a cob",
-      "answer": "CORN",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A solid shape with six identical square faces",
-      "answer": "CUBE",
-      "row": 4,
-      "col": 1,
+      "clue": "The body parts at the ends of your legs",
+      "answer": "FEET",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     }
   ],

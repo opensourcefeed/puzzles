@@ -4,66 +4,66 @@
   "title": "2027-02-15",
   "words": [
     {
-      "clue": "A plant that lives and grows for more than two years",
-      "answer": "PERENNIAL",
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An instrument used to measure atmospheric pressure",
-      "answer": "BAROMETER",
-      "row": 4,
-      "col": 7,
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A bright blue color, like the precious gemstone",
-      "answer": "SAPPHIRE",
+      "clue": "A part of a whole number, written with a numerator and denominator",
+      "answer": "FRACTION",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
       "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A shiny, light gray color like the precious metal",
+      "answer": "SILVER",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A large natural stream of water that flows across land",
+      "answer": "RIVER",
+      "row": 4,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Feeling embarrassed or guilty about something",
-      "answer": "ASHAMED",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A part of a line that has two distinct endpoints",
-      "answer": "SEGMENT",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A bird kept on farms for its eggs and meat",
-      "answer": "CHICKEN",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, green or yellow bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A whole number that can be positive, negative, or zero",
-      "answer": "INTEGER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge collection of stars, gas, and dust held together by gravity",
-      "answer": "GALAXY",
+      "clue": "A round object used in many sports, usually kicked or thrown",
+      "answer": "BALL",
       "row": 3,
-      "col": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A small green amphibian that jumps and lives near water",
+      "answer": "FROG",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     }
   ],

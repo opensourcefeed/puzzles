@@ -4,66 +4,59 @@
   "title": "2026-10-22",
   "words": [
     {
-      "clue": "A bus that takes children to and from school",
-      "answer": "SCHOOLBUS",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The tough outer layer that covers and protects a seed",
-      "answer": "SEEDCOAT",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic device that processes data and runs programs",
-      "answer": "COMPUTER",
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
       "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A strip of material used to mark a reader's place in a book",
+      "answer": "BOOKMARK",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
+      "clue": "A very light purple color, like the flower",
+      "answer": "LAVENDER",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "answer": "PEACOCK",
       "row": 3,
-      "col": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person who constructs buildings and other structures",
-      "answer": "BUILDER",
-      "row": 9,
+      "clue": "A small, lockable storage compartment for personal belongings at school",
+      "answer": "LOCKER",
+      "row": 8,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A very intelligent and playful ocean mammal",
-      "answer": "DOLPHIN",
-      "row": 1,
-      "col": 10,
+      "clue": "A breakfast food made from processed grains, often eaten with milk",
+      "answer": "CEREAL",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A warm yellow-brown color, like the fossilized tree resin",
-      "answer": "AMBER",
-      "row": 1,
+      "clue": "A black and white striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 0,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The uppermost part of your body that contains your brain",
-      "answer": "HEAD",
-      "row": 8,
-      "col": 7,
+      "clue": "The finger next to your thumb, used for pointing",
+      "answer": "INDEX",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     }
   ],

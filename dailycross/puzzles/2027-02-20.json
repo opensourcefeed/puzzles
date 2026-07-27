@@ -4,66 +4,73 @@
   "title": "2027-02-20",
   "words": [
     {
-      "clue": "A piece of furniture with shelves for storing books",
-      "answer": "BOOKSHELF",
-      "row": 3,
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A container used to carry a packed meal to school",
-      "answer": "LUNCHBOX",
-      "row": 3,
-      "col": 7,
+      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "answer": "PENCILCASE",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A number that is greater than zero",
-      "answer": "POSITIVE",
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
       "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Greatly surprised or impressed",
-      "answer": "AMAZED",
-      "row": 8,
-      "col": 0,
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A tropical fruit with green skin and sweet, soft flesh",
-      "answer": "GUAVA",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
-      "row": 5,
+      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "answer": "PEACOCK",
+      "row": 3,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The opposite of kind; unkind or unpleasant",
-      "answer": "MEAN",
-      "row": 6,
-      "col": 0,
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Weather with low temperatures that feel very chilly",
-      "answer": "COLD",
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
       "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The huge, empty area beyond Earth's atmosphere containing stars and planets",
+      "answer": "SPACE",
+      "row": 7,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A collection of related web pages under a single domain name",
-      "answer": "SITE",
-      "row": 0,
-      "col": 6,
+      "clue": "The body parts at the ends of your arms",
+      "answer": "HANDS",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A blue-green color, like the color of a duck's feathers",
+      "answer": "TEAL",
+      "row": 6,
+      "col": 11,
       "direction": "down"
     }
   ],

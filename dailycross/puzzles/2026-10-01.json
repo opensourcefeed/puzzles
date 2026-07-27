@@ -4,67 +4,74 @@
   "title": "2026-10-01",
   "words": [
     {
-      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
-      "answer": "METEORITE",
+      "clue": "A person trained to help people in emergencies before they reach a hospital",
+      "answer": "PARAMEDIC",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
       "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A book of blank pages for writing notes or doing homework",
+      "answer": "NOTEBOOK",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "To transfer data from the internet to a computer or device",
-      "answer": "DOWNLOAD",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-      "answer": "STOMATA",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A whole number that can be positive, negative, or zero",
-      "answer": "INTEGER",
+      "clue": "The sport of riding a bicycle",
+      "answer": "CYCLING",
       "row": 7,
-      "col": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, green or yellow bean used to make tofu and soy milk",
+      "answer": "SOYBEAN",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A race in which runners must jump over barriers",
-      "answer": "HURDLES",
-      "row": 5,
+      "clue": "A card with a student's name and photo used for identification",
+      "answer": "IDCARD",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "An electrical appliance that cleans floors by sucking up dirt",
-      "answer": "VACUUM",
-      "row": 10,
-      "col": 3,
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The front part of your neck that contains your voice box",
-      "answer": "THROAT",
+      "clue": "A single sound of a specific pitch in music",
+      "answer": "NOTE",
       "row": 0,
       "col": 7,
       "direction": "down"
-    },
-    {
-      "clue": "A small, sweet, brown fruit that grows on palm trees",
-      "answer": "DATE",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A utensil with prongs used for picking up and eating food",
-      "answer": "FORK",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
     }
   ],
   "dayNumber": 111

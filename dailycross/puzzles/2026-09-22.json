@@ -4,74 +4,60 @@
   "title": "2026-09-22",
   "words": [
     {
-      "clue": "Giving help and encouragement to others",
-      "answer": "SUPPORTIVE",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A spacecraft designed to carry astronauts into space",
-      "answer": "CREWCRAFT",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A large vehicle that includes living quarters and can be driven",
-      "answer": "MOTORHOME",
-      "row": 7,
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small, portable device used to store and transfer digital files",
-      "answer": "USBDRIVE",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A long period with little or no rain",
-      "answer": "DROUGHT",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport where athletes throw a long, spear-like object for distance",
-      "answer": "JAVELIN",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
       "row": 0,
-      "col": 8,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The opposite of loud; making little or no noise",
-      "answer": "QUIET",
-      "row": 9,
-      "col": 8,
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The opposite of full; containing nothing",
-      "answer": "EMPTY",
-      "row": 4,
+      "clue": "A device that controls the flow of water from a pipe",
+      "answer": "FAUCET",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A collection of data stored under a single name on a computer",
-      "answer": "FILE",
+      "clue": "A game or contest between two players or teams",
+      "answer": "MATCH",
       "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A line or group of connected mountains forming a chain",
+      "answer": "RANGE",
+      "row": 1,
       "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "A very large body of salt water that covers most of Earth's surface",
+      "answer": "OCEAN",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A small vessel for traveling on water",
+      "answer": "BOAT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 102

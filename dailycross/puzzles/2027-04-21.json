@@ -4,59 +4,66 @@
   "title": "2027-04-21",
   "words": [
     {
-      "clue": "A flat shape with eleven straight sides and eleven angles",
-      "answer": "HENDECAGON",
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An insect with large, colorful wings that was once a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A panel of keys used to type text and commands into a computer",
-      "answer": "KEYBOARD",
+      "clue": "Musical instruments that produce sound by blowing air through them",
+      "answer": "WOODWIND",
       "row": 3,
-      "col": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who creates and designs clothing and accessories",
-      "answer": "DESIGNER",
-      "row": 0,
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The front part of your neck that contains your voice box",
-      "answer": "THROAT",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of propelling a boat using oars",
-      "answer": "ROWING",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A part of a song that is repeated after each verse",
-      "answer": "CHORUS",
-      "row": 1,
+      "clue": "A bright, vivid pink color named after a flower",
+      "answer": "FUCHSIA",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A machine that washes clothes automatically",
-      "answer": "WASHER",
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, narrow boat propelled by one or more paddles",
+      "answer": "CANOE",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
       "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A real-time conversation using typed messages over the internet",
+      "answer": "CHAT",
+      "row": 1,
       "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The body parts at the ends of your legs",
+      "answer": "FEET",
+      "row": 8,
+      "col": 0,
       "direction": "down"
     }
   ],

@@ -4,73 +4,66 @@
   "title": "2026-11-03",
   "words": [
     {
-      "clue": "A very tall flower with a large yellow head that turns toward the sun",
-      "answer": "SUNFLOWER",
-      "row": 7,
-      "col": 0,
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Musical instruments that produce sound by blowing air through them",
-      "answer": "WOODWIND",
-      "row": 7,
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
+      "answer": "EGGPLANT",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A container used to carry a packed meal to school",
+      "answer": "LUNCHBOX",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "An athletic event where athletes jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Eager to learn or know more about something",
-      "answer": "CURIOUS",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A dull greenish-yellow color, like the fruit",
-      "answer": "OLIVE",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The red liquid that circulates through your heart and blood vessels",
-      "answer": "BLOOD",
-      "row": 10,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A light purple-pink color, like the flower",
-      "answer": "LILAC",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A collection of maps in book form",
-      "answer": "ATLAS",
-      "row": 0,
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A mound or ridge of sand shaped by the wind",
-      "answer": "DUNE",
-      "row": 4,
-      "col": 7,
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of brave; feeling fear or anxiety",
+      "answer": "AFRAID",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A solid shape with six identical square faces",
-      "answer": "CUBE",
-      "row": 5,
-      "col": 6,
+      "clue": "A very large body of salt water that covers most of Earth's surface",
+      "answer": "OCEAN",
+      "row": 7,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The thick muscle at the back of your lower leg",
+      "answer": "CALF",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     }
   ],

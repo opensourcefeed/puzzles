@@ -4,94 +4,94 @@
   "title": "Level 69",
   "words": [
     {
-      "clue": "A plant that lives and grows for more than two years",
-      "answer": "PERENNIAL",
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A long, thin animal that burrows underground and has no legs",
-      "answer": "EARTHWORM",
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, green vegetable with a crisp texture, often used in salads",
+      "answer": "CUCUMBER",
       "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A large open area of land covered with wild grass",
-      "answer": "GRASSLAND",
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
       "row": 6,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
-      "row": 4,
+      "clue": "The opposite of brave; feeling fear or anxiety",
+      "answer": "AFRAID",
+      "row": 13,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A small rubber block used to remove pencil marks from paper",
+      "answer": "ERASER",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 9,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark, earthy brown color, like the pigment",
+      "answer": "UMBER",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A short stick passed from one runner to the next in a relay race",
+      "answer": "BATON",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The tough outer layer that covers and protects a seed",
-      "answer": "SEEDCOAT",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright, vivid pink color named after a flower",
-      "answer": "FUCHSIA",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
-      "answer": "NEPTUNE",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The movement or change in position of an object",
-      "answer": "MOTION",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "White or gray masses of water droplets floating in the sky",
-      "answer": "CLOUDS",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
-      "row": 13,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of three-dimensional space occupied by a solid object",
-      "answer": "VOLUME",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Calm, peaceful, and untroubled",
-      "answer": "SERENE",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The action of pressing and releasing a mouse button",
-      "answer": "CLICK",
+      "clue": "The part of your face below your mouth and above your neck",
+      "answer": "CHIN",
       "row": 10,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of kind; unkind or unpleasant",
+      "answer": "MEAN",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     }
   ],

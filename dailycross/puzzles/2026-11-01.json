@@ -4,67 +4,74 @@
   "title": "2026-11-01",
   "words": [
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 1,
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large reptile with very strong jaws that lives in rivers",
-      "answer": "CROCODILE",
-      "row": 0,
-      "col": 6,
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 0,
-      "col": 10,
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     },
     {
       "clue": "A global network connecting millions of computers worldwide",
       "answer": "INTERNET",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
       "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-      "answer": "STOMATA",
-      "row": 1,
-      "col": 4,
+      "clue": "A leafy green vegetable commonly used as a base for salads",
+      "answer": "LETTUCE",
+      "row": 6,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The level of loudness or softness in music",
-      "answer": "VOLUME",
-      "row": 4,
+      "clue": "A brass instrument with three valves and a bright, clear sound",
+      "answer": "TRUMPET",
+      "row": 13,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A healthcare professional who assists doctors and cares for patients",
-      "answer": "NURSE",
-      "row": 3,
-      "col": 8,
+      "clue": "A grain crop whose flour is used to make bread",
+      "answer": "WHEAT",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft, pale orange-yellow color like the fruit",
+      "answer": "PEACH",
+      "row": 0,
+      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "The opposite of clean; covered or marked with dirt",
-      "answer": "DIRTY",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, soft seat with a back and arms for two or more people",
-      "answer": "SOFA",
-      "row": 7,
-      "col": 9,
-      "direction": "across"
     }
   ],
   "dayNumber": 142

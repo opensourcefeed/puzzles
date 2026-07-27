@@ -4,112 +4,119 @@
   "title": "Level 110",
   "words": [
     {
-      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
-      "answer": "VOLLEYBALL",
+      "clue": "A small chip that stores photos in a camera",
+      "answer": "MEMORYCARD",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A plant that lives and grows for more than two years",
-      "answer": "PERENNIAL",
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A part of a whole number, written with a numerator and denominator",
+      "answer": "FRACTION",
       "row": 6,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A very large, powerful storm that forms over warm ocean waters",
-      "answer": "HURRICANE",
-      "row": 1,
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
+      "row": 6,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A container for holding waste or garbage",
-      "answer": "TRASHCAN",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A container used to carry a packed meal to school",
-      "answer": "LUNCHBOX",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A large animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling embarrassed or guilty about something",
-      "answer": "ASHAMED",
-      "row": 13,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, thin tool used to point at things on a board or screen",
-      "answer": "POINTER",
-      "row": 9,
+      "clue": "A global network connecting millions of computers worldwide",
+      "answer": "INTERNET",
+      "row": 14,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small, green or yellow bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 7,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
-      "answer": "SCOOTER",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A black and white bird that lives in cold oceans and cannot fly",
-      "answer": "PENGUIN",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A curved band of colors that appears in the sky after rain",
-      "answer": "RAINBOW",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 10,
+      "clue": "A tool with two arms used for drawing circles and arcs",
+      "answer": "COMPASS",
+      "row": 11,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
-      "row": 3,
-      "col": 5,
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 9,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The smallest unit of a digital image, represented as a tiny square",
-      "answer": "PIXEL",
-      "row": 14,
+      "clue": "The part of your arm between your elbow and your wrist",
+      "answer": "FOREARM",
+      "row": 1,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that converts electrical signals into sound",
+      "answer": "SPEAKER",
+      "row": 4,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, orange citrus fruit with a sweet taste",
+      "answer": "ORANGE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The body part used for tasting food",
+      "answer": "TONGUE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The vehicle astronauts use to walk on the Moon",
+      "answer": "ROVER",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Water in the form of a gas, especially when heated",
+      "answer": "VAPOR",
+      "row": 10,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A kitchen appliance used for baking, roasting, and heating food",
+      "answer": "OVEN",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 16,
   "targetWords": 20,
   "difficulty": "hard"
 }

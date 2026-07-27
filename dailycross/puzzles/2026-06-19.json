@@ -4,66 +4,73 @@
   "title": "2026-06-19",
   "words": [
     {
-      "clue": "Music written or printed on paper using musical notation",
-      "answer": "SHEETMUSIC",
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
       "row": 4,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "An animal that feeds only on the flesh of other animals",
-      "answer": "CARNIVORE",
-      "row": 0,
-      "col": 8,
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A long, thin animal that burrows underground and has no legs",
-      "answer": "EARTHWORM",
-      "row": 1,
+      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
+      "answer": "REPORTER",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A person who is traveling in a vehicle but not driving it",
-      "answer": "PASSENGER",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The distance across a circle passing through its center",
-      "answer": "DIAMETER",
-      "row": 1,
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A chemical change that produces one or more new substances",
-      "answer": "REACTION",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A thin stick of graphite in wood, used for writing on paper",
-      "answer": "PENCIL",
-      "row": 8,
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
+      "row": 7,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A computer's short-term memory used for active tasks",
-      "answer": "MEMORY",
-      "row": 6,
-      "col": 5,
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A slow-moving reptile with a hard shell on its back",
+      "answer": "TURTLE",
+      "row": 2,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A large bowl or sink used for washing",
-      "answer": "BASIN",
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet, sticky food made by bees from flower nectar",
+      "answer": "HONEY",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that shows the time, usually hung on a wall or placed on a surface",
+      "answer": "CLOCK",
       "row": 5,
-      "col": 11,
+      "col": 2,
       "direction": "down"
     }
   ],

@@ -4,67 +4,74 @@
   "title": "2026-07-03",
   "words": [
     {
-      "clue": "A shape that does not have symmetry and cannot be divided into identical halves",
-      "answer": "ASYMMETRIC",
-      "row": 3,
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
-      "answer": "ICECREAM",
-      "row": 1,
-      "col": 5,
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A short performance of music or dance",
-      "answer": "RECITAL",
-      "row": 3,
-      "col": 7,
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
+      "answer": "NEPTUNE",
+      "row": 6,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A curved band of colors that appears in the sky after rain",
-      "answer": "RAINBOW",
+      "clue": "A device that converts paper documents into digital images",
+      "answer": "SCANNER",
       "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A closed railroad car used for carrying freight",
+      "answer": "BOXCAR",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A scale for measuring temperature, named after Anders Celsius",
-      "answer": "CELSIUS",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very fast-running bird that cannot fly",
-      "answer": "OSTRICH",
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
       "row": 5,
-      "col": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A colorful bird that can copy human speech and other sounds",
+      "answer": "PARROT",
+      "row": 13,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with straight sides that form corners",
-      "answer": "POLYGON",
+      "clue": "Weather that is bright and warm with lots of sunshine",
+      "answer": "SUNNY",
       "row": 0,
-      "col": 2,
+      "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
-      "answer": "RADISH",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A series of musical notes arranged in ascending or descending order",
-      "answer": "SCALE",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
     }
   ],
   "dayNumber": 21

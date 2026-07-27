@@ -4,49 +4,56 @@
   "title": "Level 18",
   "words": [
     {
-      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
-      "answer": "SEATBELT",
-      "row": 2,
-      "col": 3,
+      "clue": "A brush with a handle and bristles used for cleaning teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A strip of material used to mark a reader's place in a book",
-      "answer": "BOOKMARK",
+      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "answer": "HURRICANE",
       "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person who installs and repairs water pipes and fixtures",
-      "answer": "PLUMBER",
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who makes and sells meat",
+      "answer": "BUTCHER",
       "row": 1,
-      "col": 9,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A flat container with a handle, used with a broom to collect dirt",
-      "answer": "DUSTPAN",
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A regular, repeated pattern of beats in music",
+      "answer": "RHYTHM",
       "row": 0,
-      "col": 3,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A round, red fruit often used in salads and sauces",
-      "answer": "TOMATO",
+      "clue": "A soft, pale yellow color, like the dairy product",
+      "answer": "BUTTER",
       "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "To transfer data from a computer or device to the internet",
-      "answer": "UPLOAD",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
+      "col": 5,
+      "direction": "down"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 7,
   "targetWords": 7,
   "difficulty": "easy"
 }

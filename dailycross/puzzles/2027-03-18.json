@@ -4,67 +4,74 @@
   "title": "2027-03-18",
   "words": [
     {
-      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
-      "answer": "TANGERINE",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright flash of light in the sky during a thunderstorm",
-      "answer": "LIGHTNING",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The tough outer layer that covers and protects a seed",
-      "answer": "SEEDCOAT",
-      "row": 6,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A short performance of music or dance",
-      "answer": "RECITAL",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet, sticky food made by bees from flower nectar",
-      "answer": "HONEY",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Energy that travels in waves and is detected by our ears",
-      "answer": "SOUND",
-      "row": 1,
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 3,
       "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of kind; unkind or unpleasant",
-      "answer": "MEAN",
-      "row": 2,
-      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The smallest particle of a chemical element that can exist",
-      "answer": "ATOM",
-      "row": 8,
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of deep; of little depth",
+      "answer": "SHALLOW",
+      "row": 4,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A container made of woven material or plastic for carrying items",
+      "answer": "BASKET",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A medical professional who diagnoses and treats illnesses",
+      "answer": "DOCTOR",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A bird that was historically used to carry messages",
+      "answer": "PIGEON",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A food made by baking a mixture of flour, water, and yeast",
+      "answer": "BREAD",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 279

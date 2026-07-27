@@ -4,66 +4,73 @@
   "title": "2027-03-07",
   "words": [
     {
-      "clue": "The longest side of a right-angled triangle, opposite the right angle",
-      "answer": "HYPOTENUSE",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The short hairs that grow along the edge of each eyelid",
-      "answer": "EYELASHES",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A chemical change that produces one or more new substances",
-      "answer": "REACTION",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
-      "answer": "PULSAR",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A string instrument with a flat back, played by strumming or plucking",
-      "answer": "GUITAR",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A digital container for organizing files on a computer",
-      "answer": "FOLDER",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A pinkish-orange color, like the marine animal",
-      "answer": "CORAL",
-      "row": 5,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A figure formed by two rays sharing a common endpoint",
-      "answer": "ANGLE",
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A food made by baking a mixture of flour, water, and yeast",
-      "answer": "BREAD",
-      "row": 7,
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 4,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright flash of light in the sky during a thunderstorm",
+      "answer": "LIGHTNING",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "No longer feeling worried or anxious",
+      "answer": "RELIEVED",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
+      "answer": "RADISH",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A pen with a broad tip used for writing on whiteboards",
+      "answer": "MARKER",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, pale orange-yellow color like the fruit",
+      "answer": "PEACH",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The main support of a plant",
+      "answer": "STEM",
+      "row": 12,
+      "col": 6,
       "direction": "across"
     }
   ],

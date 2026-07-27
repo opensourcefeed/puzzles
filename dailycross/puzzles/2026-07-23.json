@@ -4,51 +4,72 @@
   "title": "2026-07-23",
   "words": [
     {
-      "clue": "A scientist who specializes in the study of physics",
-      "answer": "PHYSICIST",
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
+      "answer": "REPORTER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who delivers mail to your house",
+      "answer": "MAILMAN",
       "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick, creamy food made by fermenting milk with bacteria",
+      "answer": "YOGURT",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A region in space with gravity so strong that nothing can escape it",
-      "answer": "BLACKHOLE",
-      "row": 0,
-      "col": 5,
+      "clue": "A small rubber block used to remove pencil marks from paper",
+      "answer": "ERASER",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "An ordered list of numbers or objects that follows a specific rule",
-      "answer": "SEQUENCE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
-      "answer": "VOLCANO",
-      "row": 6,
+      "clue": "The color of grass, leaves, and many plants",
+      "answer": "GREEN",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The color created by mixing red and yellow, like a carrot",
-      "answer": "ORANGE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
-      "row": 4,
-      "col": 9,
+      "clue": "A piece of furniture with a flat top, used for eating, working, or placing things",
+      "answer": "TABLE",
+      "row": 2,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Feeling or showing pleasure and contentment",
-      "answer": "HAPPY",
-      "row": 3,
+      "clue": "A basin with running water for washing hands and dishes",
+      "answer": "SINK",
+      "row": 2,
       "col": 1,
       "direction": "down"
     }

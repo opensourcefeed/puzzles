@@ -4,91 +4,105 @@
   "title": "Level 95",
   "words": [
     {
-      "clue": "A sport involving exercises and routines requiring balance and strength",
-      "answer": "GYMNASTICS",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A clock that makes a sound at a set time to wake someone up",
-      "answer": "ALARMCLOCK",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The scientific study of stars, planets, and other objects in space",
-      "answer": "ASTRONOMY",
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
       "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 5,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
-      "row": 1,
-      "col": 1,
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 12,
+      "clue": "The part of your face above your eyes and below your hairline",
+      "answer": "FOREHEAD",
+      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
-      "answer": "ORGANISM",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
-      "answer": "ECLIPSE",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
-      "answer": "LETTUCE",
+      "clue": "A large building or outdoor area with seats for watching sports events",
+      "answer": "STADIUM",
       "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "The speed at which a piece of music is played",
-      "answer": "TEMPO",
-      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A mixture of rain and snow or partially melted snow",
-      "answer": "SLEET",
-      "row": 0,
-      "col": 11,
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 4,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "An opening in a wall with glass that lets in light and air",
+      "answer": "WINDOW",
+      "row": 8,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "To transfer data from a computer or device to the internet",
+      "answer": "UPLOAD",
+      "row": 5,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A very slow-moving animal that carries a shell on its back",
+      "answer": "SNAIL",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A tool with a sharp blade used for cutting food",
+      "answer": "KNIFE",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A small rodent that is known for liking cheese",
+      "answer": "MOUSE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of fresh snow, milk, and paper",
+      "answer": "WHITE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant with long, thin stems that climbs up walls or trees",
+      "answer": "VINE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 14,
   "targetWords": 18,
   "difficulty": "medium"
 }

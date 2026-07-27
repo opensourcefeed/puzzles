@@ -4,67 +4,74 @@
   "title": "2027-02-09",
   "words": [
     {
-      "clue": "The longest side of a right-angled triangle, opposite the right angle",
-      "answer": "HYPOTENUSE",
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of visible; unable to be seen",
-      "answer": "INVISIBLE",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
-      "answer": "METEORITE",
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
       "row": 3,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A bird kept on farms for its eggs and meat",
-      "answer": "CHICKEN",
-      "row": 4,
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The symbol (÷) used to show that one number is being divided by another",
+      "answer": "DIVIDE",
+      "row": 5,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A large bird with a long, colorful tail that it can fan out",
-      "answer": "PEACOCK",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A fish known for swimming upstream to lay eggs",
-      "answer": "SALMON",
+      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
+      "answer": "HELMET",
       "row": 8,
-      "col": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The words or text of a song",
-      "answer": "LYRICS",
-      "row": 0,
-      "col": 8,
+      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "answer": "METEOR",
+      "row": 7,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A black and white striped animal that looks like a horse",
-      "answer": "ZEBRA",
-      "row": 2,
+      "clue": "A vegetable with an orange root that grows underground",
+      "answer": "CARROT",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure built to carry a road or railway over a river or valley",
+      "answer": "BRIDGE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall plant with a thick trunk",
+      "answer": "TREE",
+      "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Plant tissue that transports water and minerals from roots upward",
-      "answer": "XYLEM",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
+      "clue": "A thin cloud of tiny water droplets very close to the ground",
+      "answer": "MIST",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 242

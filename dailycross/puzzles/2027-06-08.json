@@ -4,73 +4,66 @@
   "title": "2027-06-08",
   "words": [
     {
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
       "clue": "A large ship designed to carry cargo across oceans",
       "answer": "CARGOSHIP",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The central component of a computer that processes instructions",
-      "answer": "PROCESSOR",
-      "row": 0,
-      "col": 6,
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
-      "answer": "CARRIAGE",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dark gray color, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle powered by engines that can travel into space",
-      "answer": "ROCKET",
+      "clue": "A light, bright blue color like the sky on a clear day",
+      "answer": "SKYBLUE",
       "row": 4,
-      "col": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A very slow-moving animal that carries a shell on its back",
+      "answer": "SNAIL",
+      "row": 4,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "The huge, empty area beyond Earth's atmosphere containing stars and planets",
+      "answer": "SPACE",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
     },
     {
       "clue": "A message sent and received electronically over a network",
       "answer": "EMAIL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that feels damp and has a lot of moisture in the air",
+      "answer": "HUMID",
       "row": 9,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A very large body of salt water that covers most of Earth's surface",
-      "answer": "OCEAN",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A comparison of two quantities using division",
-      "answer": "RATIO",
+      "clue": "A bright yellow citrus fruit with a very sour taste",
+      "answer": "LEMON",
       "row": 4,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A steep, high rock face overlooking lower land or water",
-      "answer": "CLIFF",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A series of connected vehicles that run on railway tracks",
-      "answer": "TRAIN",
-      "row": 7,
-      "col": 0,
+      "col": 7,
       "direction": "across"
     }
   ],

@@ -4,73 +4,73 @@
   "title": "2026-08-21",
   "words": [
     {
-      "clue": "A dark, heavy cloud that often brings rain or a storm",
-      "answer": "STORMCLOUD",
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
       "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A device you use to make phone calls and browse the internet",
+      "answer": "SMARTPHONE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The scientific study of stars, planets, and other objects in space",
-      "answer": "ASTRONOMY",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An athletic event where athletes jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A crisp, green vegetable with long, fibrous stalks",
-      "answer": "CELERY",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
-      "answer": "CANYON",
-      "row": 2,
-      "col": 4,
+      "clue": "A powerful vehicle used on farms for pulling machinery and heavy loads",
+      "answer": "TRACTOR",
+      "row": 12,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A thin stick of graphite in wood, used for writing on paper",
-      "answer": "PENCIL",
+      "clue": "A leafy green vegetable commonly used as a base for salads",
+      "answer": "LETTUCE",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
       "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Weather that feels damp and has a lot of moisture in the air",
-      "answer": "HUMID",
-      "row": 3,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge, bright sphere of hot gas in space that produces its own light",
-      "answer": "STAR",
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
       "row": 5,
-      "col": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The basic unit of time in music that you tap your foot to",
-      "answer": "BEAT",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant with long, thin stems that climbs up walls or trees",
-      "answer": "VINE",
+      "clue": "Drops of water that fall from clouds to the ground",
+      "answer": "RAIN",
       "row": 3,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A curved stick used to hit a ball in golf",
+      "answer": "CLUB",
+      "row": 10,
+      "col": 8,
       "direction": "across"
     }
   ],

@@ -4,42 +4,49 @@
   "title": "Level 8",
   "words": [
     {
-      "clue": "A small piece of paper with a strip of adhesive on the back for notes",
-      "answer": "STICKYNOTE",
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who is traveling in a vehicle but not driving it",
-      "answer": "PASSENGER",
-      "row": 0,
-      "col": 6,
+      "clue": "Feeling sure of oneself and one's abilities",
+      "answer": "CONFIDENT",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 1,
-      "col": 3,
+      "clue": "A black and white bird that lives in cold oceans and cannot fly",
+      "answer": "PENGUIN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A bright, vivid pinkish-purple color",
-      "answer": "MAGENTA",
-      "row": 2,
-      "col": 9,
+      "clue": "A long legless reptile that sheds its skin as it grows",
+      "answer": "SNAKE",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
-      "answer": "SCOOTER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
+      "clue": "A small, round fruit that grows in bunches on vines",
+      "answer": "GRAPE",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

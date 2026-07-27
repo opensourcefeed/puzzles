@@ -4,66 +4,73 @@
   "title": "2027-03-15",
   "words": [
     {
-      "clue": "An electronic device that receives broadcast signals and displays moving images",
-      "answer": "TELEVISION",
-      "row": 5,
+      "clue": "A big pile of snow blown together by wind",
+      "answer": "SNOWDRIFT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small container used to hold pencils, pens, and other writing tools",
-      "answer": "PENCILCASE",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing surprise at something unexpected",
-      "answer": "SURPRISED",
-      "row": 0,
-      "col": 7,
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 6,
+      "col": 0,
       "direction": "down"
     },
     {
       "clue": "A board on a wall used for displaying notices and announcements",
       "answer": "BULLETIN",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
-      "answer": "VOLCANO",
       "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "White or gray masses of water droplets floating in the sky",
-      "answer": "CLOUDS",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
-      "row": 7,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A group of musicians who play instruments together",
-      "answer": "BAND",
-      "row": 3,
-      "col": 3,
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A clickable element on a screen that triggers an action",
+      "answer": "BUTTON",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A symbol in music notation that indicates a period of silence",
-      "answer": "REST",
-      "row": 10,
-      "col": 4,
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 12,
+      "col": 5,
       "direction": "across"
     }
   ],

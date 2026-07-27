@@ -4,66 +4,73 @@
   "title": "2027-01-01",
   "words": [
     {
-      "clue": "A person who directs the performance of an orchestra or choir",
-      "answer": "CONDUCTOR",
-      "row": 6,
-      "col": 0,
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
+      "clue": "Feeling sure of oneself and one's abilities",
+      "answer": "CONFIDENT",
       "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant that produces colorful, often scented blooms",
+      "answer": "FLOWER",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A very high natural landform that rises steeply above the surrounding land",
-      "answer": "MOUNTAIN",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright, vivid pink color named after a flower",
-      "answer": "FUCHSIA",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who helps students learn in a school",
-      "answer": "TEACHER",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A sudden, brief storm with strong winds and often rain or snow",
-      "answer": "SQUALL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A sequence of musical notes that forms a recognizable tune",
-      "answer": "MELODY",
+      "clue": "A large bowl or sink used for washing",
+      "answer": "BASIN",
       "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A long seat where players sit when they are not on the field",
+      "answer": "BENCH",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling or showing strong displeasure about something unfair",
+      "answer": "ANGRY",
+      "row": 0,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A musical term meaning to play loudly",
-      "answer": "FORTE",
-      "row": 12,
-      "col": 4,
+      "clue": "A round percussion instrument with a skin stretched over it, played with sticks",
+      "answer": "DRUM",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The dense, bright central region of a galaxy",
+      "answer": "CORE",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     }
   ],

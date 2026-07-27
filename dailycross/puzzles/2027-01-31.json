@@ -4,46 +4,74 @@
   "title": "2027-01-31",
   "words": [
     {
-      "clue": "A small piece of bent wire used to hold papers together",
-      "answer": "PAPERCLIP",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A book containing information and lessons for a particular school subject",
-      "answer": "TEXTBOOK",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The combination of musical notes played together to produce a pleasing sound",
-      "answer": "HARMONY",
-      "row": 6,
+      "clue": "A clock that makes a sound at a set time to wake someone up",
+      "answer": "ALARMCLOCK",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A fertile area in a desert where water is found and plants can grow",
-      "answer": "OASIS",
-      "row": 3,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 0,
       "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A green, pear-shaped fruit with a large pit inside",
+      "answer": "AVOCADO",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The season with the most snow and cold",
+      "answer": "WINTER",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A series of connected vehicles that run on railway tracks",
+      "answer": "TRAIN",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A large bowl or sink used for washing",
+      "answer": "BASIN",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 233

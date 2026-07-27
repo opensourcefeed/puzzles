@@ -4,98 +4,77 @@
   "title": "Level 91",
   "words": [
     {
-      "clue": "The short hairs that grow along the edge of each eyelid",
-      "answer": "EYELASHES",
-      "row": 7,
-      "col": 3,
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A vehicle equipped with equipment for fighting fires",
-      "answer": "FIRETRUCK",
-      "row": 4,
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person whose job is to drive a bus",
+      "answer": "BUSDRIVER",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
+      "row": 0,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A tool used to look closely at something far away",
+      "answer": "TELESCOPE",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 6,
-      "col": 10,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The process of practicing to improve skills for a sport",
-      "answer": "TRAINING",
-      "row": 13,
-      "col": 6,
+      "clue": "A green vegetable that looks like a small tree",
+      "answer": "BROCCOLI",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 5,
+      "clue": "The sport of riding a bicycle",
+      "answer": "CYCLING",
+      "row": 0,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The dense, central core of an atom containing protons and neutrons",
-      "answer": "NUCLEUS",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A large bird with a long, colorful tail that it can fan out",
-      "answer": "PEACOCK",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
-      "answer": "ALMOND",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that produces a magnetic field and attracts iron",
-      "answer": "MAGNET",
-      "row": 0,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "The empty space between stars and galaxies that contains no matter",
-      "answer": "VACUUM",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A solid shape with a circular base that narrows to a point",
-      "answer": "CONE",
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
       "row": 7,
-      "col": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A primate that lives in trees and swings from branch to branch",
+      "answer": "MONKEY",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 10,
   "targetWords": 17,
   "difficulty": "medium"
 }

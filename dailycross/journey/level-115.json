@@ -4,126 +4,98 @@
   "title": "Level 115",
   "words": [
     {
-      "clue": "A scientist who specializes in the study of animals",
-      "answer": "ZOOLOGIST",
+      "clue": "A small chip that stores photos in a camera",
+      "answer": "MEMORYCARD",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A region in space with gravity so strong that nothing can escape it",
-      "answer": "BLACKHOLE",
-      "row": 6,
-      "col": 5,
+      "clue": "A small piece of paper with a strip of adhesive on the back for notes",
+      "answer": "STICKYNOTE",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A person who is trained to travel and work in space",
-      "answer": "ASTRONAUT",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet, brown food made from roasted cocoa beans",
-      "answer": "CHOCOLATE",
-      "row": 12,
-      "col": 3,
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A number that is greater than zero",
-      "answer": "POSITIVE",
-      "row": 5,
-      "col": 11,
+      "clue": "Feeling bored and unhappy about a lack of activity",
+      "answer": "RESTLESS",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A warm cover you sleep under in bed",
+      "answer": "BLANKET",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cleans buildings and offices",
+      "answer": "CLEANER",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 0,
+      "col": 13,
       "direction": "down"
     },
     {
       "clue": "The loud sound that follows a flash of lightning",
       "answer": "THUNDER",
-      "row": 14,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A long period with little or no rain",
-      "answer": "DROUGHT",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A unit for measuring angles, where a full circle is 360",
-      "answer": "DEGREE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that produces a magnetic field and attracts iron",
-      "answer": "MAGNET",
       "row": 1,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A perfectly round flat shape with no corners or edges",
-      "answer": "CIRCLE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
-      "answer": "HELMET",
+      "clue": "A small string instrument played with a bow, held under the chin",
+      "answer": "VIOLIN",
       "row": 9,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A grain crop whose flour is used to make bread",
+      "answer": "WHEAT",
+      "row": 5,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A young plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 9,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "An electrical appliance that cleans floors by sucking up dirt",
-      "answer": "VACUUM",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that has length, width, and height",
-      "answer": "SOLID",
-      "row": 10,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who bakes bread, cakes, and other baked goods",
-      "answer": "BAKER",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A small flower with white petals and a yellow center, common in fields",
-      "answer": "DAISY",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A sea creature with a hard shell, claws, and that walks sideways",
-      "answer": "CRAB",
-      "row": 0,
-      "col": 4,
       "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 13,
   "targetWords": 20,
   "difficulty": "hard"
 }

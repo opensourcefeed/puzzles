@@ -4,105 +4,112 @@
   "title": "Level 123",
   "words": [
     {
-      "clue": "A small piece of paper with a strip of adhesive on the back for notes",
-      "answer": "STICKYNOTE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A large reptile with very strong jaws that lives in rivers",
-      "answer": "CROCODILE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
-      "answer": "PENINSULA",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 13,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The small amount of water in the form of vapor in the air",
-      "answer": "MOISTURE",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
-      "answer": "AIRPLANE",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that produces a magnetic field and attracts iron",
-      "answer": "MAGNET",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of furniture for sitting on, used in classrooms",
-      "answer": "CHAIR",
-      "row": 0,
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 7,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "answer": "SAXOPHONE",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The colorful part of many flowers",
-      "answer": "PETAL",
-      "row": 8,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of rain that falls over a period of time",
+      "answer": "RAINFALL",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A large wild cat with orange fur and black stripes",
+      "answer": "TIGER",
+      "row": 10,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small flower with white petals and a yellow center, common in fields",
+      "answer": "DAISY",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The area where a boxing match takes place",
+      "answer": "RING",
+      "row": 12,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sweet, sticky syrup made from the sap of certain trees",
-      "answer": "MAPLE",
-      "row": 0,
-      "col": 6,
+      "clue": "The opposite of fast; moving at a low speed",
+      "answer": "SLOW",
+      "row": 9,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A dull greenish-yellow color, like the fruit",
-      "answer": "OLIVE",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A solid shape with two parallel, identical polygonal bases and rectangular faces",
-      "answer": "PRISM",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The natural satellite that orbits Earth and reflects the Sun's light",
-      "answer": "MOON",
+      "clue": "A wireless networking technology that allows devices to connect to the internet",
+      "answer": "WIFI",
       "row": 0,
       "col": 6,
-      "direction": "across"
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 21,
   "difficulty": "hard"
 }

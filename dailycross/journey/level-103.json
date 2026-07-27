@@ -4,98 +4,112 @@
   "title": "Level 103",
   "words": [
     {
-      "clue": "A vehicle designed to travel beyond Earth's atmosphere",
-      "answer": "SPACECRAFT",
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A four-sided shape with one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A purple flower known for its calming, pleasant scent",
+      "answer": "LAVENDER",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "answer": "CARRIAGE",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An instrument used to measure atmospheric pressure",
-      "answer": "BAROMETER",
-      "row": 3,
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 4,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A region in space with gravity so strong that nothing can escape it",
-      "answer": "BLACKHOLE",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A global network connecting millions of computers worldwide",
-      "answer": "INTERNET",
-      "row": 10,
+      "clue": "A shiny, light gray color like the precious metal",
+      "answer": "SILVER",
+      "row": 9,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
-      "answer": "GRAVITY",
-      "row": 2,
-      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
-      "answer": "GLACIER",
-      "row": 2,
-      "col": 4,
+      "clue": "A small string instrument played with a bow, held under the chin",
+      "answer": "VIOLIN",
+      "row": 11,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
-      "answer": "DECIMAL",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who works on a farm growing crops and raising animals",
-      "answer": "FARMER",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of a ripe banana or the sun",
-      "answer": "YELLOW",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, lockable storage compartment for personal belongings at school",
-      "answer": "LOCKER",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who leads and assists groups of tourists",
-      "answer": "GUIDE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A small rodent that is known for liking cheese",
-      "answer": "MOUSE",
+      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "answer": "MUSIC",
       "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the marine animal",
+      "answer": "CORAL",
+      "row": 4,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A short green plant that covers lawns and fields",
-      "answer": "GRASS",
-      "row": 6,
-      "col": 0,
+      "clue": "The end part of your arm with fingers and a thumb",
+      "answer": "HAND",
+      "row": 11,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 15,
   "targetWords": 19,
   "difficulty": "hard"
 }

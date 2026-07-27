@@ -4,59 +4,73 @@
   "title": "2026-10-11",
   "words": [
     {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
-      "row": 3,
-      "col": 1,
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A substance made from two or more different elements chemically bonded",
-      "answer": "COMPOUND",
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
       "row": 3,
-      "col": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Feeling worried or uneasy about what might happen",
-      "answer": "NERVOUS",
+      "clue": "The part of your face above your eyes and below your hairline",
+      "answer": "FOREHEAD",
       "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that stores chemical energy and converts it to electrical energy",
+      "answer": "BATTERY",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A person who helps students learn in a school",
-      "answer": "TEACHER",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Plant tissue that carries food made in leaves to other parts",
-      "answer": "PHLOEM",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A very large body of salt water that covers most of Earth's surface",
-      "answer": "OCEAN",
-      "row": 5,
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 8,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Hot, liquid rock that flows from a volcano onto the Earth's surface",
-      "answer": "LAVA",
-      "row": 0,
-      "col": 5,
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A board or area where student work is displayed for others to see",
+      "answer": "DISPLAY",
+      "row": 5,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The action of moving through water by moving your arms and legs",
-      "answer": "SWIM",
-      "row": 5,
+      "clue": "The point that is the same distance from every point on the circumference",
+      "answer": "CENTER",
+      "row": 6,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who leads and assists groups of tourists",
+      "answer": "GUIDE",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A large bowl or sink used for washing",
+      "answer": "BASIN",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     }
   ],

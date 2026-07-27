@@ -4,53 +4,67 @@
   "title": "2026-10-23",
   "words": [
     {
-      "clue": "Filled with wonder and admiration",
-      "answer": "AWESTRUCK",
-      "row": 2,
-      "col": 0,
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A place where ships are built, repaired, and maintained",
-      "answer": "DOCKYARD",
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A place with runways where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 0,
-      "col": 5,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The largest planet in our solar system, known for its Great Red Spot",
-      "answer": "JUPITER",
-      "row": 6,
-      "col": 1,
+      "clue": "Feeling or showing respect and admiration",
+      "answer": "ADMIRING",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A round, green vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that washes clothes automatically",
-      "answer": "WASHER",
-      "row": 0,
+      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
+      "answer": "COCONUT",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A sport played on horseback where players try to score goals with a mallet",
-      "answer": "POLO",
+      "clue": "A reflective surface, usually made of glass with a coating on the back",
+      "answer": "MIRROR",
       "row": 6,
-      "col": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 3,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "A bright yellow citrus fruit with a very sour taste",
+      "answer": "LEMON",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of up; toward or in a lower position",
+      "answer": "DOWN",
+      "row": 11,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 133

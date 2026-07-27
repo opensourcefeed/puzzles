@@ -4,60 +4,74 @@
   "title": "2027-04-15",
   "words": [
     {
-      "clue": "A large, colorful bird that cannot fly and lives in rainforests",
-      "answer": "CASSOWARY",
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
       "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where ships are built, repaired, and maintained",
+      "answer": "DOCKYARD",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The level of loudness or softness in music",
+      "answer": "VOLUME",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
+      "answer": "BRASS",
+      "row": 10,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A race where each competitor tries to complete a course in the shortest time",
-      "answer": "TIMETRIAL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "An electrical appliance for browning slices of bread",
-      "answer": "TOASTER",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The front part of your neck that contains your voice box",
-      "answer": "THROAT",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep, dark green color like the trees in a forest",
-      "answer": "FOREST",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing pleasure and contentment",
-      "answer": "HAPPY",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A solid shape with six identical square faces",
-      "answer": "CUBE",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
     }
   ],
   "dayNumber": 307

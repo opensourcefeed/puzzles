@@ -4,98 +4,105 @@
   "title": "Level 93",
   "words": [
     {
-      "clue": "A large open area of land covered with wild grass",
-      "answer": "GRASSLAND",
-      "row": 6,
+      "clue": "A device you use to make phone calls and browse the internet",
+      "answer": "SMARTPHONE",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A watercraft that can operate underwater",
-      "answer": "SUBMARINE",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that eats both plants and other animals",
-      "answer": "OMNIVORE",
-      "row": 4,
+      "clue": "A strip of material used to mark a reader's place in a book",
+      "answer": "BOOKMARK",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A polygon where all sides and all angles are equal",
-      "answer": "REGULAR",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
-      "answer": "ECLIPSE",
-      "row": 1,
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 7,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A room or building containing a collection of books for reading or borrowing",
-      "answer": "LIBRARY",
-      "row": 3,
-      "col": 5,
+      "clue": "A machine that produces text and images on paper",
+      "answer": "PRINTER",
+      "row": 12,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A large, flat dish used for serving food",
-      "answer": "PLATTER",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A vehicle powered by engines that can travel into space",
-      "answer": "ROCKET",
-      "row": 3,
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The color of a ripe banana or the sun",
-      "answer": "YELLOW",
+      "clue": "A team sport played on ice or field where players use sticks to hit a puck or ball",
+      "answer": "HOCKEY",
       "row": 8,
-      "col": 6,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Weather during which snow is falling",
-      "answer": "SNOWY",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
-      "answer": "SPOON",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that grows in water with flat leaves that float on the surface",
-      "answer": "LILY",
-      "row": 8,
+      "clue": "A long, orange root vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A symbol in music notation that indicates a period of silence",
-      "answer": "REST",
-      "row": 10,
-      "col": 8,
+      "clue": "The season with the most snow and cold",
+      "answer": "WINTER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, orange citrus fruit with a sweet taste",
+      "answer": "ORANGE",
+      "row": 4,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A dark color like chocolate or tree bark",
+      "answer": "BROWN",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A black and white striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of maps in book form",
+      "answer": "ATLAS",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A device used to communicate with others over long distances",
+      "answer": "PHONE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 17,
   "difficulty": "medium"
 }

@@ -4,66 +4,52 @@
   "title": "2026-07-04",
   "words": [
     {
-      "clue": "A sport where players hit a shuttlecock over a net using rackets",
-      "answer": "BADMINTON",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Eager to learn or know more about something",
-      "answer": "CURIOUS",
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
       "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling embarrassed or guilty about something",
-      "answer": "ASHAMED",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A dark, rich red color, like the color of chestnuts",
-      "answer": "MAROON",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Causing or feeling anxiety and discomfort",
-      "answer": "UNEASY",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant tissue that carries food made in leaves to other parts",
-      "answer": "PHLOEM",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A fish known for swimming upstream to lay eggs",
-      "answer": "SALMON",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of fresh snow, milk, and paper",
-      "answer": "WHITE",
-      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A group of singers who perform together",
-      "answer": "CHOIR",
-      "row": 8,
+      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "answer": "LETTUCE",
+      "row": 1,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A person whose job is to paint walls, buildings, and other surfaces",
+      "answer": "PAINTER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A place where water from a river or lake flows out into another body of water",
+      "answer": "OUTLET",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A long seat where players sit when they are not on the field",
+      "answer": "BENCH",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sturdy vehicle designed for traveling over rough terrain",
+      "answer": "JEEP",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The fourth planet from the Sun, known for its reddish color",
+      "answer": "MARS",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     }
   ],

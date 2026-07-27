@@ -4,60 +4,60 @@
   "title": "Level 20",
   "words": [
     {
-      "clue": "A curved band of colors that appears in the sky after rain",
-      "answer": "RAINBOW",
+      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "answer": "HURRICANE",
       "row": 4,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
-      "answer": "NEPTUNE",
-      "row": 4,
+      "clue": "A bright flash of light in the sky during a thunderstorm",
+      "answer": "LIGHTNING",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The scientific study of living organisms and their life processes",
-      "answer": "BIOLOGY",
+      "clue": "A device that converts physical documents into digital images",
+      "answer": "SCANNER",
       "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Feeling worried, nervous, or uneasy about something",
-      "answer": "ANXIOUS",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Yellow powder made by flowers",
-      "answer": "POLLEN",
-      "row": 6,
+      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "answer": "METEOR",
+      "row": 7,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "An electrical appliance that cleans floors by sucking up dirt",
-      "answer": "VACUUM",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The color created by mixing red and blue, like a violet",
-      "answer": "PURPLE",
-      "row": 2,
+      "clue": "An object that produces a magnetic field and attracts iron",
+      "answer": "MAGNET",
+      "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A large natural stream of water that flows across land",
-      "answer": "RIVER",
-      "row": 0,
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 3,
       "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "The empty space between stars and galaxies that contains no matter",
+      "answer": "VACUUM",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The skin covering the top of your head where hair grows",
+      "answer": "SCALP",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "wordCount": 8,

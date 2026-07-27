@@ -4,73 +4,59 @@
   "title": "2026-07-07",
   "words": [
     {
-      "clue": "A bright flash of light in the sky during a thunderstorm",
-      "answer": "LIGHTNING",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The side or direction from which the wind is blowing",
-      "answer": "WINDWARD",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A period of unusually hot weather that lasts for several days",
-      "answer": "HEATWAVE",
-      "row": 6,
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 2,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An athletic event where athletes jump as far as possible from a running start",
-      "answer": "LONGJUMP",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Eager to learn or know more about something",
-      "answer": "CURIOUS",
-      "row": 11,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A complete path through which electric current can flow",
-      "answer": "CIRCUIT",
-      "row": 3,
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, tropical area filled with many trees and plants",
+      "answer": "JUNGLE",
+      "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A large cloud of gas and dust in space where stars are born",
-      "answer": "NEBULA",
-      "row": 13,
-      "col": 2,
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
-      "answer": "VENUS",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very slow-moving animal that carries a shell on its back",
-      "answer": "SNAIL",
-      "row": 8,
-      "col": 1,
+      "clue": "A small device moved by hand to control the cursor on a screen",
+      "answer": "MOUSE",
+      "row": 7,
+      "col": 10,
       "direction": "across"
     }
   ],

@@ -4,91 +4,77 @@
   "title": "Level 64",
   "words": [
     {
-      "clue": "A small electronic device used for mathematical calculations",
-      "answer": "CALCULATOR",
-      "row": 6,
-      "col": 1,
+      "clue": "A sport where players hit a shuttlecock over a net using rackets",
+      "answer": "BADMINTON",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A sheltered place along a coast where ships and boats can moor",
+      "answer": "HARBOR",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a ripe banana or the sun",
+      "answer": "YELLOW",
       "row": 5,
-      "col": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round solid shape where every point on its surface is the same distance from its center",
+      "answer": "SPHERE",
+      "row": 2,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The scientific study of substances, their properties, and how they react",
-      "answer": "CHEMISTRY",
+      "clue": "The sweet liquid inside a fruit or plant",
+      "answer": "JUICE",
       "row": 0,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A tree that sheds all its leaves each autumn",
-      "answer": "DECIDUOUS",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing thanks for something received",
-      "answer": "GRATEFUL",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who tends and cultivates gardens and plants",
-      "answer": "GARDENER",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
-      "answer": "CARRIAGE",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large and strong ape that lives in African forests",
-      "answer": "GORILLA",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "An underground passage through which vehicles can travel",
-      "answer": "TUNNEL",
-      "row": 8,
+      "clue": "A body of fresh or salt water that is surrounded by land",
+      "answer": "LAKE",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
-      "answer": "TUNDRA",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
-      "answer": "RADISH",
-      "row": 0,
-      "col": 13,
+      "clue": "A tree with tall, straight trunks often used for wood",
+      "answer": "PALM",
+      "row": 6,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 10,
   "targetWords": 13,
   "difficulty": "medium"
 }

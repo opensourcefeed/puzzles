@@ -4,84 +4,77 @@
   "title": "Level 52",
   "words": [
     {
-      "clue": "A machine that automatically washes and dries dishes",
-      "answer": "DISHWASHER",
-      "row": 5,
+      "clue": "A small piece of paper with a strip of adhesive on the back for notes",
+      "answer": "STICKYNOTE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large group of musicians playing a variety of instruments",
-      "answer": "ORCHESTRA",
-      "row": 4,
-      "col": 9,
+      "clue": "A small chip that stores photos in a camera",
+      "answer": "MEMORYCARD",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
-      "answer": "MICROWAVE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that eats both plants and other animals",
-      "answer": "OMNIVORE",
+      "clue": "A specially equipped vehicle used to transport sick or injured people",
+      "answer": "AMBULANCE",
       "row": 8,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A spotted wild cat that is the fastest land animal",
-      "answer": "CHEETAH",
-      "row": 0,
-      "col": 5,
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A four-sided shape with all sides equal in length",
-      "answer": "RHOMBUS",
-      "row": 1,
+      "clue": "A light, bright blue color like the sky on a clear day",
+      "answer": "SKYBLUE",
+      "row": 5,
       "col": 4,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "The largest planet in our solar system, known for its Great Red Spot",
-      "answer": "JUPITER",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of brave; feeling fear or anxiety",
-      "answer": "AFRAID",
-      "row": 12,
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 2,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The finger next to your thumb, used for pointing",
-      "answer": "INDEX",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who performs roles in plays, movies, or television",
-      "answer": "ACTOR",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Weather that is bright and free of clouds or rain",
-      "answer": "CLEAR",
-      "row": 3,
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 11,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of riding a bicycle",
+      "answer": "CYCLING",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, lockable storage compartment for personal belongings at school",
+      "answer": "LOCKER",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 10,
   "targetWords": 12,
   "difficulty": "medium"
 }

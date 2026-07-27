@@ -4,74 +4,60 @@
   "title": "2027-05-21",
   "words": [
     {
-      "clue": "A clock that makes a sound at a set time to wake someone up",
-      "answer": "ALARMCLOCK",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Musical instruments that produce sound by being struck or shaken",
-      "answer": "PERCUSSION",
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
       "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of honest; not truthful or trustworthy",
-      "answer": "DISHONEST",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing respect and admiration",
-      "answer": "ADMIRING",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The act of defeating an opponent in a competition",
-      "answer": "VICTORY",
-      "row": 11,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
-      "row": 5,
-      "col": 0,
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A climbing plant that grows green peas in pods",
-      "answer": "PEAVINE",
-      "row": 3,
-      "col": 5,
+      "clue": "A scientist who studies animals and their behavior",
+      "answer": "ZOOLOGIST",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The words or text of a song",
-      "answer": "LYRICS",
+      "clue": "A four-sided shape with one pair of parallel sides",
+      "answer": "TRAPEZOID",
       "row": 0,
-      "col": 9,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A group of planets and other objects orbiting a star",
-      "answer": "SYSTEM",
-      "row": 6,
+      "clue": "A large ship designed to carry cargo across oceans",
+      "answer": "CARGOSHIP",
+      "row": 1,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Feeling in need of rest or sleep",
-      "answer": "TIRED",
-      "row": 0,
-      "col": 11,
+      "clue": "The amount of rain that falls over a period of time",
+      "answer": "RAINFALL",
+      "row": 1,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "answer": "HARMONY",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A string instrument with a flat back, played by strumming or plucking",
+      "answer": "GUITAR",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 343

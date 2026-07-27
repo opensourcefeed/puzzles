@@ -4,73 +4,52 @@
   "title": "2026-06-29",
   "words": [
     {
-      "clue": "The opposite of accurate; not correct or precise",
-      "answer": "INACCURATE",
-      "row": 2,
+      "clue": "A place where ships are built, repaired, and maintained",
+      "answer": "DOCKYARD",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A low area of land between hills or mountains, often with a river",
+      "answer": "VALLEY",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A young plant just starting to grow",
+      "answer": "SPROUT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of light; weighing a lot",
+      "answer": "HEAVY",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Musical instruments that produce sound by being struck or shaken",
-      "answer": "PERCUSSION",
+      "clue": "A short green plant that covers lawns and fields",
+      "answer": "GRASS",
       "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of visible; unable to be seen",
-      "answer": "INVISIBLE",
-      "row": 1,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that has more than two factors",
-      "answer": "COMPOSITE",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A panel of keys used to type text and commands into a computer",
-      "answer": "KEYBOARD",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The dense, central core of an atom containing protons and neutrons",
-      "answer": "NUCLEUS",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A polygon where all interior angles are less than 180 degrees",
-      "answer": "CONVEX",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The words or text of a song",
-      "answer": "LYRICS",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet, sticky food made by bees from flower nectar",
-      "answer": "HONEY",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft, pale orange-yellow color like the fruit",
-      "answer": "PEACH",
-      "row": 4,
-      "col": 11,
       "direction": "down"
     }
   ],

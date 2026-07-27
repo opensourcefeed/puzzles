@@ -4,74 +4,67 @@
   "title": "2027-04-11",
   "words": [
     {
-      "clue": "A dense, lush forest found in tropical regions with high rainfall",
-      "answer": "RAINFOREST",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The process by which plants use sunlight to make their own food",
-      "answer": "PHOTOSYNTH",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A truck with an open bed that can be tilted to dump its load",
-      "answer": "DUMPTRUCK",
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
       "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who creates and designs clothing and accessories",
-      "answer": "DESIGNER",
-      "row": 6,
-      "col": 7,
+      "clue": "A person who is traveling in a vehicle but not driving it",
+      "answer": "PASSENGER",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Hopeful and confident, even in difficult situations",
-      "answer": "POSITIVE",
+      "clue": "A sudden, heavy fall of rain",
+      "answer": "DOWNPOUR",
       "row": 9,
-      "col": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
-      "answer": "PYRAMID",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A portable computer that folds flat for easy carrying",
-      "answer": "LAPTOP",
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A dark, earthy brown color, like the pigment",
-      "answer": "UMBER",
-      "row": 6,
-      "col": 11,
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A farm animal that gives wool",
-      "answer": "SHEEP",
-      "row": 14,
-      "col": 4,
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Weather during which rain is falling",
-      "answer": "RAINY",
-      "row": 1,
-      "col": 4,
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 8,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "A symbol on a screen that shows where the mouse is pointing",
+      "answer": "CURSOR",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The number of points earned by a player or team in a game",
+      "answer": "SCORE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 303

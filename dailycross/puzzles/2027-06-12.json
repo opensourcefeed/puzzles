@@ -4,66 +4,73 @@
   "title": "2027-06-12",
   "words": [
     {
-      "clue": "Filled with wonder and admiration",
-      "answer": "AWESTRUCK",
-      "row": 2,
-      "col": 3,
+      "clue": "The part of your face above your eyes and below your hairline",
+      "answer": "FOREHEAD",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who repairs and maintains vehicles and machinery",
-      "answer": "MECHANIC",
-      "row": 1,
-      "col": 5,
+      "clue": "The sport of propelling a boat using oars",
+      "answer": "ROWING",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
-      "answer": "WARDROBE",
-      "row": 0,
+      "clue": "A hollow instrument filled with beads, shaken to make sound",
+      "answer": "MARACA",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A sudden, heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 5,
-      "col": 7,
+      "clue": "The color created by mixing red and yellow, like a carrot",
+      "answer": "ORANGE",
+      "row": 7,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
-      "answer": "TSUNAMI",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
-      "answer": "SCOOTER",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A young plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 4,
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 6,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Feeling or showing strong displeasure about something unfair",
-      "answer": "ANGRY",
-      "row": 2,
-      "col": 3,
+      "clue": "A colorful bird that can copy human speech and other sounds",
+      "answer": "PARROT",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The place where a river or stream begins its journey",
+      "answer": "SOURCE",
+      "row": 6,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A green plant that grows in damp, shady places and does not produce flowers",
-      "answer": "FERN",
-      "row": 3,
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 9,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round flat shape with no corners or edges",
+      "answer": "CIRCLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 3,
+      "col": 5,
       "direction": "across"
     }
   ],

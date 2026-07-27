@@ -4,73 +4,59 @@
   "title": "2027-06-09",
   "words": [
     {
-      "clue": "A brass instrument with a slide that changes the pitch",
-      "answer": "TROMBONE",
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
       "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A polygon where all sides and all angles are equal",
-      "answer": "REGULAR",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried or uneasy about what might happen",
-      "answer": "NERVOUS",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of furniture with drawers for storing items",
-      "answer": "CABINET",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A tree with long, thin branches that hang down toward the ground",
-      "answer": "WILLOW",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A crisp, green vegetable with long, fibrous stalks",
-      "answer": "CELERY",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "To transfer data from a computer or device to the internet",
-      "answer": "UPLOAD",
+      "clue": "A person who delivers mail to your house",
+      "answer": "MAILMAN",
       "row": 3,
-      "col": 11,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The column of bones that runs down your back and protects your spinal cord",
-      "answer": "SPINE",
+      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "answer": "TUNDRA",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A computer's short-term memory used for active tasks",
+      "answer": "MEMORY",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A collection of maps in book form",
+      "answer": "ATLAS",
       "row": 6,
-      "col": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A piece of furniture for sitting on, used in classrooms",
-      "answer": "CHAIR",
+      "clue": "Feeling in need of rest or sleep",
+      "answer": "TIRED",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
       "row": 0,
-      "col": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A tree with needle-like leaves",
+      "answer": "PINE",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     }
   ],

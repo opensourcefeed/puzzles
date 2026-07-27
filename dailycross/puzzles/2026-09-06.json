@@ -4,73 +4,66 @@
   "title": "2026-09-06",
   "words": [
     {
-      "clue": "An animal that feeds only on the flesh of other animals",
-      "answer": "CARNIVORE",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Sports and games that involve running, jumping, and throwing",
-      "answer": "ATHLETICS",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The tough outer layer that covers and protects a seed",
-      "answer": "SEEDCOAT",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried, nervous, or uneasy about something",
-      "answer": "ANXIOUS",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A steep, high rock face overlooking lower land or water",
-      "answer": "CLIFF",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Energy that travels in waves and is detected by our ears",
-      "answer": "SOUND",
-      "row": 8,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The action of pressing and releasing a mouse button",
-      "answer": "CLICK",
-      "row": 9,
+      "clue": "The process of practicing to improve skills for a sport",
+      "answer": "TRAINING",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sweet tropical fruit with orange flesh and a large flat seed",
-      "answer": "MANGO",
-      "row": 11,
-      "col": 3,
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A soft, white food made from soybeans, often used in cooking",
-      "answer": "TOFU",
-      "row": 7,
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 0,
       "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A day when the sky is covered with many clouds",
+      "answer": "CLOUDY",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A movable barrier used to close an entrance to a room",
+      "answer": "DOOR",
+      "row": 8,
+      "col": 6,
       "direction": "down"
     }
   ],

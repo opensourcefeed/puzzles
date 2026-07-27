@@ -4,59 +4,73 @@
   "title": "2027-03-25",
   "words": [
     {
-      "clue": "An animal that feeds only on the flesh of other animals",
-      "answer": "CARNIVORE",
+      "clue": "A small electronic device used for mathematical calculations",
+      "answer": "CALCULATOR",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
+      "answer": "GRAPEVINE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat container with a handle, used with a broom to collect dirt",
+      "answer": "DUSTPAN",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A software application used to access and view websites",
+      "answer": "BROWSER",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge collection of stars, gas, and dust held together by gravity",
+      "answer": "GALAXY",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 7,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A vegetable with an orange root that grows underground",
+      "answer": "CARROT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The point where two or more lines or edges meet",
+      "answer": "VERTEX",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who makes and repairs wooden objects and furniture",
-      "answer": "CARPENTER",
-      "row": 3,
-      "col": 1,
+      "clue": "A person who performs roles in plays, movies, or television",
+      "answer": "ACTOR",
+      "row": 5,
+      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "A scientist who studies living organisms and their life processes",
-      "answer": "BIOLOGIST",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A black and white bird that lives in cold oceans and cannot fly",
-      "answer": "PENGUIN",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-      "answer": "STOMATA",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Musical instruments that produce sound by vibrating strings",
-      "answer": "STRINGS",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried or uneasy about what might happen",
-      "answer": "NERVOUS",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of planets and other objects orbiting a star",
-      "answer": "SYSTEM",
-      "row": 1,
-      "col": 2,
+      "clue": "A small fruit with fuzzy brown skin and bright green flesh",
+      "answer": "KIWI",
+      "row": 4,
+      "col": 9,
       "direction": "across"
     }
   ],

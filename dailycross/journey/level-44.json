@@ -4,77 +4,84 @@
   "title": "Level 44",
   "words": [
     {
-      "clue": "Hopeful and confident about the future",
-      "answer": "OPTIMISTIC",
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Musical instruments that produce sound by being struck or shaken",
+      "answer": "PERCUSSION",
       "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright flash of light in the sky during a thunderstorm",
-      "answer": "LIGHTNING",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with seven straight sides and seven angles",
-      "answer": "HEPTAGON",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A very light purple color, like the flower",
-      "answer": "LAVENDER",
-      "row": 0,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
-      "answer": "AIRPLANE",
-      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A container made of woven material or plastic for carrying items",
-      "answer": "BASKET",
-      "row": 3,
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling kind and pleasant toward others",
+      "answer": "FRIENDLY",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who delivers mail to your house",
+      "answer": "MAILMAN",
+      "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A container with a spout and handle used for boiling water",
-      "answer": "KETTLE",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A black and white striped animal that looks like a horse",
-      "answer": "ZEBRA",
-      "row": 6,
+      "clue": "Feeling worried, nervous, or uneasy about something",
+      "answer": "ANXIOUS",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling in need of rest or sleep",
-      "answer": "TIRED",
-      "row": 5,
-      "col": 8,
+      "clue": "The color created by mixing red and yellow, like a carrot",
+      "answer": "ORANGE",
+      "row": 7,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "The short, thick finger on your hand that helps you grip things",
+      "answer": "THUMB",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The third planet from the Sun, where all known life exists",
+      "answer": "EARTH",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

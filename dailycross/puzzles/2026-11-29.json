@@ -4,67 +4,60 @@
   "title": "2026-11-29",
   "words": [
     {
-      "clue": "A liquid fuel made from petroleum, used in most cars",
-      "answer": "GASOLINE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A substance made from two or more different elements chemically bonded",
-      "answer": "COMPOUND",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A polygon where all sides and all angles are equal",
-      "answer": "REGULAR",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A room or building containing a collection of books for reading or borrowing",
-      "answer": "LIBRARY",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling very enthusiastic and eager about something",
-      "answer": "EXCITED",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The amount of three-dimensional space occupied by a solid object",
-      "answer": "VOLUME",
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
       "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your foot to your lower leg",
-      "answer": "ANKLE",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of correct; not correct or true",
-      "answer": "WRONG",
+      "clue": "A person trained to help people in emergencies before they reach a hospital",
+      "answer": "PARAMEDIC",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A number that has exactly two different factors: itself and 1",
-      "answer": "PRIME",
-      "row": 9,
+      "clue": "A two-wheeled vehicle that you ride by pushing pedals with your feet",
+      "answer": "BICYCLE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
+      "answer": "GRAVITY",
+      "row": 7,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A document on the internet that can be viewed in a browser",
+      "answer": "WEBSITE",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 170

@@ -4,73 +4,73 @@
   "title": "2027-05-26",
   "words": [
     {
-      "clue": "A small container used to hold pencils, pens, and other writing tools",
-      "answer": "PENCILCASE",
-      "row": 3,
-      "col": 2,
+      "clue": "The opposite of possible; not able to happen or exist",
+      "answer": "IMPOSSIBLE",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your arm to your upper body",
-      "answer": "SHOULDER",
-      "row": 3,
-      "col": 10,
+      "clue": "A tool used to look closely at something far away",
+      "answer": "TELESCOPE",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A spotted wild cat that is the fastest land animal",
-      "answer": "CHEETAH",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with nine straight sides and nine angles",
-      "answer": "NONAGON",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 8,
-      "col": 0,
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling safe, protected, and free from worry",
-      "answer": "SECURE",
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
       "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "To find and fix errors in a computer program",
-      "answer": "DEBUG",
-      "row": 8,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of clean; covered or marked with dirt",
-      "answer": "DIRTY",
+      "clue": "A tray on a desk used to hold incoming papers or documents",
+      "answer": "INBOX",
       "row": 2,
-      "col": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A star that suddenly increases greatly in brightness",
-      "answer": "NOVA",
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A long legless reptile that sheds its skin as it grows",
+      "answer": "SNAKE",
       "row": 0,
-      "col": 9,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of grass, leaves, and many plants",
+      "answer": "GREEN",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your foot to your lower leg",
+      "answer": "ANKLE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The natural satellite that orbits Earth and reflects the Sun's light",
+      "answer": "MOON",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     }
   ],

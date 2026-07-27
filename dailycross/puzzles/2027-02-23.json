@@ -4,73 +4,59 @@
   "title": "2027-02-23",
   "words": [
     {
-      "clue": "A dense, lush forest found in tropical regions with high rainfall",
-      "answer": "RAINFOREST",
-      "row": 5,
-      "col": 0,
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An instrument used to measure wind speed",
-      "answer": "ANEMOMETER",
-      "row": 3,
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling bitter or angry about unfair treatment",
-      "answer": "RESENTFUL",
-      "row": 9,
-      "col": 4,
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
+      "row": 5,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
-      "answer": "MICROWAVE",
+      "clue": "A dark, rich red color, like the color of chestnuts",
+      "answer": "MAROON",
       "row": 1,
-      "col": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Dark clouds that bring rain",
-      "answer": "RAINCLOUD",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two arms used for drawing circles and arcs",
-      "answer": "COMPASS",
+      "clue": "Energy that travels in waves and is detected by our ears",
+      "answer": "SOUND",
       "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
-      "answer": "PERCENT",
-      "row": 0,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A shiny, light gray color like the precious metal",
-      "answer": "SILVER",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who operates and controls an aircraft",
-      "answer": "PILOT",
-      "row": 2,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A machine that dries clothes by spinning and heating",
-      "answer": "DRYER",
-      "row": 11,
-      "col": 4,
+      "clue": "A movable barrier used to close an entrance to a room",
+      "answer": "DOOR",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     }
   ],

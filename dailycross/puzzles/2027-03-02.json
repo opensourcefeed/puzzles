@@ -4,73 +4,66 @@
   "title": "2027-03-02",
   "words": [
     {
-      "clue": "A pair of speakers worn over the ears for listening to audio",
-      "answer": "HEADPHONES",
-      "row": 5,
+      "clue": "Musical instruments that produce sound by being struck or shaken",
+      "answer": "PERCUSSION",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A plant that lives and grows for more than two years",
-      "answer": "PERENNIAL",
-      "row": 4,
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
+      "row": 1,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A region in space with gravity so strong that nothing can escape it",
-      "answer": "BLACKHOLE",
-      "row": 3,
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
+      "row": 2,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A panel of keys used to type text and commands into a computer",
-      "answer": "KEYBOARD",
-      "row": 11,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "No longer feeling worried or anxious",
-      "answer": "RELIEVED",
-      "row": 7,
+      "clue": "A person whose job is to drive a bus",
+      "answer": "BUSDRIVER",
+      "row": 3,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A place where ships are built, repaired, and maintained",
-      "answer": "DOCKYARD",
-      "row": 0,
-      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
-      "row": 1,
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A sport where players hit a ball over a net using rackets",
-      "answer": "TENNIS",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
+      "clue": "No longer feeling worried or anxious",
+      "answer": "RELIEVED",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "A person who catches fish as a job",
-      "answer": "FISHER",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
+      "clue": "A sweet, frozen dessert made from cream or milk and sugar",
+      "answer": "ICECREAM",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
     },
     {
-      "clue": "The darkest color, like coal or the night sky",
-      "answer": "BLACK",
-      "row": 7,
+      "clue": "A low area of land between hills or mountains, often with a river",
+      "answer": "VALLEY",
+      "row": 8,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The symbol (×) used to show that numbers are being multiplied",
+      "answer": "TIMES",
+      "row": 10,
+      "col": 1,
       "direction": "across"
     }
   ],

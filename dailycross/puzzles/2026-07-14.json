@@ -4,72 +4,58 @@
   "title": "2026-07-14",
   "words": [
     {
-      "clue": "A person who writes and tests computer programs",
-      "answer": "PROGRAMMER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A powerful tractor with a large blade for moving earth and rocks",
-      "answer": "BULLDOZER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
       "clue": "A large animal with a trunk",
       "answer": "ELEPHANT",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who creates and writes original music",
-      "answer": "COMPOSER",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, green or yellow bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A black and white bird that lives in cold oceans and cannot fly",
-      "answer": "PENGUIN",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A plant that produces colorful, often scented blooms",
-      "answer": "FLOWER",
       "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The darkest color, like coal or the night sky",
-      "answer": "BLACK",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A desert animal with one or two humps on its back",
-      "answer": "CAMEL",
-      "row": 8,
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Plant tissue that transports water and minerals from roots upward",
-      "answer": "XYLEM",
-      "row": 5,
+      "clue": "A sport where athletes throw a long, spear-like object for distance",
+      "answer": "JAVELIN",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
+      "answer": "PYRAMID",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who operates and controls a vehicle",
+      "answer": "DRIVER",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "answer": "CANYON",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
+      "row": 1,
       "col": 11,
       "direction": "down"
     }

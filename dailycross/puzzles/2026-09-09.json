@@ -4,66 +4,73 @@
   "title": "2026-09-09",
   "words": [
     {
-      "clue": "An instrument used to measure atmospheric pressure",
-      "answer": "BAROMETER",
-      "row": 3,
+      "clue": "A device you use to make phone calls and browse the internet",
+      "answer": "SMARTPHONE",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A scientist who specializes in the study of animals",
-      "answer": "ZOOLOGIST",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with seven straight sides and seven angles",
-      "answer": "HEPTAGON",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that is the product of a number multiplied by itself",
-      "answer": "SQUAREDO",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
-      "answer": "GASGIANT",
-      "row": 6,
+      "clue": "A device that stores chemical energy and converts it to electrical energy",
+      "answer": "BATTERY",
+      "row": 4,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The loud sound that follows a flash of lightning",
+      "answer": "THUNDER",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 10,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A very pale, soft green color, like the ceramic glaze",
-      "answer": "CELADON",
-      "row": 3,
+      "clue": "The sport of propelling a boat using oars",
+      "answer": "ROWING",
+      "row": 7,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A small, lens-shaped dried seed often used in soups and stews",
-      "answer": "LENTIL",
-      "row": 8,
-      "col": 1,
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your hand to your forearm",
-      "answer": "WRIST",
+      "clue": "A line or group of connected mountains forming a chain",
+      "answer": "RANGE",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The dark circular opening in the center of the iris",
+      "answer": "PUPIL",
       "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A dull greenish-yellow color, like the fruit",
+      "answer": "OLIVE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A neutral color between black and white, like an elephant",
-      "answer": "GRAY",
-      "row": 6,
-      "col": 9,
+      "clue": "A collection of related web pages under a single domain name",
+      "answer": "SITE",
+      "row": 8,
+      "col": 2,
       "direction": "down"
     }
   ],

@@ -4,59 +4,66 @@
   "title": "2027-02-12",
   "words": [
     {
-      "clue": "A watercraft that can operate underwater",
-      "answer": "SUBMARINE",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The person who directs and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue color, like the precious gemstone",
-      "answer": "SAPPHIRE",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling deep sorrow, especially after a loss",
-      "answer": "GRIEVING",
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An ordered list of numbers or objects that follows a specific rule",
-      "answer": "SEQUENCE",
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two arms used for drawing circles and arcs",
+      "answer": "COMPASS",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling fear or worry about a possible danger",
+      "answer": "SCARED",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A large, round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, red fruit often used in salads and sauces",
+      "answer": "TOMATO",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, curved yellow fruit with a soft inside",
+      "answer": "BANANA",
       "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft gray-brown color, like the color of moles",
+      "answer": "TAUPE",
+      "row": 11,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with four equal sides and four right angles",
-      "answer": "SQUARE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The number of points earned by a player or team in a game",
-      "answer": "SCORE",
-      "row": 8,
-      "col": 1,
+      "clue": "A warm yellow-brown color, like the fossilized tree resin",
+      "answer": "AMBER",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     }
   ],

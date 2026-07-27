@@ -4,53 +4,53 @@
   "title": "Level 14",
   "words": [
     {
-      "clue": "A large white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A cabinet with shelves for storing food and dishes",
-      "answer": "CUPBOARD",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A handheld device used to control a television from a distance",
-      "answer": "REMOTE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who creates art through drawing, painting, or other visual media",
-      "answer": "ARTIST",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who operates and controls a vehicle",
-      "answer": "DRIVER",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A container made of woven material or plastic for carrying items",
-      "answer": "BASKET",
+      "clue": "A semicircular tool marked in degrees, used to measure and draw angles",
+      "answer": "PROTRACTOR",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The curved path of an object as it moves around another in space",
-      "answer": "ORBIT",
+      "clue": "A straight line joining two opposite corners of a shape",
+      "answer": "DIAGONAL",
       "row": 3,
-      "col": 0,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A device that converts physical documents into digital images",
+      "answer": "SCANNER",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "answer": "METEOR",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A digital container for organizing files on a computer",
+      "answer": "FOLDER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A portable device with a touch screen, larger than a phone",
+      "answer": "TABLET",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The empty space between stars and galaxies that contains no matter",
+      "answer": "VACUUM",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "wordCount": 7,

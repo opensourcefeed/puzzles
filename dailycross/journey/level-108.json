@@ -4,112 +4,119 @@
   "title": "Level 108",
   "words": [
     {
-      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
-      "answer": "VOLLEYBALL",
+      "clue": "A sport involving exercises and routines requiring balance and strength",
+      "answer": "GYMNASTICS",
       "row": 7,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "An insect with large, colorful wings that was once a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who directs and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A prediction or estimate of future weather conditions",
-      "answer": "FORECAST",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A strip of material used to mark a reader's place in a book",
-      "answer": "BOOKMARK",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The result obtained by multiplying two or more numbers together",
-      "answer": "PRODUCT",
-      "row": 8,
+      "clue": "A flying vehicle with rotating blades that can take off and land vertically",
+      "answer": "HELICOPTER",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Musical instruments that produce sound by vibrating strings",
-      "answer": "STRINGS",
-      "row": 8,
-      "col": 13,
+      "clue": "An insect with large, colorful wings that was once a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of generous; lacking consideration for others",
+      "answer": "SELFISH",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A place with runways where airplanes take off and land",
-      "answer": "AIRPORT",
+      "clue": "Feeling worried, nervous, or uneasy about something",
+      "answer": "ANXIOUS",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
+      "answer": "GRAVITY",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A team sport played on ice or field where players use sticks to hit a puck or ball",
+      "answer": "HOCKEY",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of brave; feeling fear or anxiety",
+      "answer": "AFRAID",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of strong; lacking physical strength",
+      "answer": "WEAK",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The dense, bright central region of a galaxy",
+      "answer": "CORE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A pale blue-green color, like water",
+      "answer": "AQUA",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of musicians who play instruments together",
+      "answer": "BAND",
+      "row": 11,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather with low temperatures that feel very chilly",
+      "answer": "COLD",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of space inside the boundary of a flat shape",
+      "answer": "AREA",
       "row": 5,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A person who creates detailed technical drawings and plans",
-      "answer": "DRAFTER",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A hollow instrument filled with beads, shaken to make sound",
-      "answer": "MARACA",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep blue-purple color, like the plant used for dye",
-      "answer": "INDIGO",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A polygon where all interior angles are less than 180 degrees",
-      "answer": "CONVEX",
-      "row": 13,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of three-dimensional space occupied by a solid object",
-      "answer": "VOLUME",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Calm, peaceful, and untroubled",
-      "answer": "SERENE",
-      "row": 2,
-      "col": 14,
-      "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 16,
   "targetWords": 19,
   "difficulty": "hard"
 }

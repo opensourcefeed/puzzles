@@ -4,66 +4,73 @@
   "title": "2026-09-17",
   "words": [
     {
-      "clue": "A truck with an open bed that can be tilted to dump its load",
-      "answer": "DUMPTRUCK",
-      "row": 1,
-      "col": 3,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large reptile with very strong jaws that lives in rivers",
-      "answer": "CROCODILE",
+      "clue": "Sports and games that involve running, jumping, and throwing",
+      "answer": "ATHLETICS",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The state of the atmosphere at a particular time and place",
+      "answer": "WEATHER",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "An animal that eats both plants and other animals",
-      "answer": "OMNIVORE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
-      "answer": "NEPTUNE",
-      "row": 8,
-      "col": 7,
+      "clue": "A large system of winds rotating around a center of low pressure",
+      "answer": "CYCLONE",
+      "row": 12,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A sport where athletes throw a long, spear-like object for distance",
-      "answer": "JAVELIN",
-      "row": 2,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling confused because something is difficult to understand",
-      "answer": "PUZZLED",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A piece of land that is completely surrounded by water",
-      "answer": "ISLAND",
+      "clue": "A container with a handle and spout for serving drinks",
+      "answer": "BOTTLE",
       "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that makes exact copies of documents on paper",
+      "answer": "COPIER",
+      "row": 8,
       "col": 9,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A plant that grows round, red fruits often used in cooking",
-      "answer": "TOMATO",
-      "row": 5,
+      "clue": "A folded piece of cardboard used to hold and organize loose papers",
+      "answer": "FOLDER",
+      "row": 3,
       "col": 0,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A tree with long, thin branches that hang down toward the ground",
-      "answer": "WILLOW",
+      "clue": "A huge collection of stars, gas, and dust held together by gravity",
+      "answer": "GALAXY",
       "row": 1,
-      "col": 1,
+      "col": 10,
       "direction": "down"
     }
   ],

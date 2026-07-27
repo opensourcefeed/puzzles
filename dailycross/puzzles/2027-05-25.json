@@ -4,66 +4,52 @@
   "title": "2027-05-25",
   "words": [
     {
-      "clue": "The number above the line in a fraction, showing how many parts are taken",
-      "answer": "NUMERATOR",
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A book containing information and lessons for a particular school subject",
-      "answer": "TEXTBOOK",
-      "row": 2,
-      "col": 6,
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A tall animal with a very long neck",
-      "answer": "GIRAFFE",
+      "clue": "A person who makes and sells meat",
+      "answer": "BUTCHER",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A light, gentle wind",
-      "answer": "BREEZE",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The words or text of a song",
-      "answer": "LYRICS",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that is exactly divisible by two",
-      "answer": "EVEN",
-      "row": 6,
+      "clue": "A leafy green vegetable commonly used as a base for salads",
+      "answer": "LETTUCE",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sticky substance used to join paper or other materials together",
-      "answer": "GLUE",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The rounded back part of your foot below your ankle",
-      "answer": "HEEL",
-      "row": 4,
-      "col": 2,
+      "clue": "A bright, vivid pink color named after a flower",
+      "answer": "FUCHSIA",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A farm animal that says moo",
-      "answer": "COW",
-      "row": 4,
-      "col": 8,
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
+      "answer": "SPOON",
+      "row": 7,
+      "col": 7,
       "direction": "across"
     }
   ],

@@ -4,126 +4,112 @@
   "title": "Level 113",
   "words": [
     {
-      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
-      "answer": "VOLLEYBALL",
-      "row": 6,
+      "clue": "A small chip that stores photos in a camera",
+      "answer": "MEMORYCARD",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A shape that can be divided into two identical halves",
-      "answer": "SYMMETRIC",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that is the product of a number multiplied by itself",
-      "answer": "SQUAREDO",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A green vegetable with a thick stalk and a head of tiny buds",
-      "answer": "BROCCOLI",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A short performance of music or dance",
-      "answer": "RECITAL",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
-      "answer": "TSUNAMI",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The dense, central core of an atom containing protons and neutrons",
-      "answer": "NUCLEUS",
-      "row": 3,
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A long, thin tool used to point at things on a board or screen",
-      "answer": "POINTER",
-      "row": 5,
-      "col": 3,
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-      "answer": "STOMATA",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, lens-shaped dried seed often used in soups and stews",
-      "answer": "LENTIL",
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
       "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A container with a handle and spout for serving drinks",
-      "answer": "BOTTLE",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A thick, creamy food made by fermenting milk with bacteria",
-      "answer": "YOGURT",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A very large body of salt water that covers most of Earth's surface",
-      "answer": "OCEAN",
-      "row": 13,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of clean; untidy or dirty",
-      "answer": "MESSY",
-      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A musical term meaning to play loudly",
-      "answer": "FORTE",
+      "clue": "A container for holding waste or garbage",
+      "answer": "TRASHCAN",
       "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A farm animal with horns and a beard under its chin",
-      "answer": "GOAT",
+      "clue": "A cabinet with shelves for storing food and dishes",
+      "answer": "CUPBOARD",
       "row": 0,
-      "col": 8,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "A spacecraft that can be reused to travel to and from orbit",
+      "answer": "SHUTTLE",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cuts hair for a living",
+      "answer": "BARBER",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A day when the sky is covered with many clouds",
+      "answer": "CLOUDY",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who serves food and drinks at a restaurant",
+      "answer": "WAITER",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of planets and other objects orbiting a star",
+      "answer": "SYSTEM",
+      "row": 9,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A vegetable with an orange root that grows underground",
+      "answer": "CARROT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A series of musical notes arranged in ascending or descending order",
+      "answer": "SCALE",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 15,
   "targetWords": 20,
   "difficulty": "hard"
 }

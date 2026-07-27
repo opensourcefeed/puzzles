@@ -4,133 +4,126 @@
   "title": "Level 150",
   "words": [
     {
-      "clue": "A large, juicy fruit with green striped skin and red flesh",
-      "answer": "WATERMELON",
+      "clue": "A machine that automatically washes and dries dishes",
+      "answer": "DISHWASHER",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Sports and games that involve running, jumping, and throwing",
-      "answer": "ATHLETICS",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A small piece of bent wire used to hold papers together",
-      "answer": "PAPERCLIP",
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
       "row": 4,
-      "col": 8,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
-      "answer": "GEOLOGIST",
-      "row": 10,
+      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "answer": "HURRICANE",
+      "row": 4,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Feeling or showing surprise at something unexpected",
-      "answer": "SURPRISED",
-      "row": 3,
-      "col": 6,
+      "clue": "A car used by police officers to patrol and respond to emergencies",
+      "answer": "POLICECAR",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A chemical change that produces one or more new substances",
-      "answer": "REACTION",
-      "row": 5,
-      "col": 6,
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
+      "row": 12,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
-      "row": 2,
+      "clue": "Feeling bored and unhappy about a lack of activity",
+      "answer": "RESTLESS",
+      "row": 3,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A very dark gray color, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 13,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A place with runways where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 2,
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 5,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "An electrical appliance for browning slices of bread",
-      "answer": "TOASTER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A four-sided shape with all sides equal in length",
-      "answer": "RHOMBUS",
-      "row": 3,
-      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A deep, dark green color like the trees in a forest",
-      "answer": "FOREST",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who writes books, articles, or other written works",
-      "answer": "WRITER",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of loud; making little or no noise",
-      "answer": "QUIET",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A series of connected vehicles that run on railway tracks",
-      "answer": "TRAIN",
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
       "row": 10,
-      "col": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance from the center of a circle to any point on its edge",
+      "answer": "RADIUS",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A utensil with a round, shallow bowl and a handle, used for eating soup",
-      "answer": "SPOON",
-      "row": 1,
+      "clue": "A spiky plant that stores water and grows in deserts",
+      "answer": "CACTUS",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large ocean mammal that must surface to breathe",
+      "answer": "WHALE",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opening in your face used for eating, speaking, and smiling",
+      "answer": "MOUTH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A body of fresh or salt water that is surrounded by land",
+      "answer": "LAKE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A farm animal with horns and a beard under its chin",
+      "answer": "GOAT",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A frozen object in space that develops a glowing tail as it nears the Sun",
-      "answer": "COMET",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
+      "clue": "You use these to hear sounds",
+      "answer": "EARS",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "The smallest particle of a chemical element that can exist",
-      "answer": "ATOM",
-      "row": 0,
-      "col": 11,
+      "clue": "The rounded back part of your foot below your ankle",
+      "answer": "HEEL",
+      "row": 8,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "A kitchen appliance used for baking, roasting, and heating food",
+      "answer": "OVEN",
+      "row": 8,
+      "col": 11,
+      "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 25,
   "difficulty": "hard"
 }

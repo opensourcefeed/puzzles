@@ -4,67 +4,74 @@
   "title": "2027-03-17",
   "words": [
     {
-      "clue": "The result obtained by subtracting one number from another",
-      "answer": "DIFFERENCE",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A cabinet with shelves for storing food and dishes",
-      "answer": "CUPBOARD",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing respect and admiration",
-      "answer": "ADMIRING",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A day when the sky is covered with many clouds",
-      "answer": "CLOUDY",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Plant tissue that carries food made in leaves to other parts",
-      "answer": "PHLOEM",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The organ that filters waste from your blood and produces urine",
-      "answer": "KIDNEY",
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
       "row": 5,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "An electronic device that receives broadcast signals and displays moving images",
+      "answer": "TELEVISION",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The side of your face between your eye and ear",
-      "answer": "CHEEK",
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
       "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A machine that dries clothes by spinning and heating",
-      "answer": "DRYER",
-      "row": 3,
-      "col": 6,
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The organ in your chest that pumps blood throughout your body",
-      "answer": "HEART",
-      "row": 0,
-      "col": 10,
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 5,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "A race in which team members take turns running and passing a baton",
+      "answer": "RELAY",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A mixture of rain and snow or partially melted snow",
+      "answer": "SLEET",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 278

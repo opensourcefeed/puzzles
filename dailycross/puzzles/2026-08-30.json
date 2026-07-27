@@ -4,46 +4,74 @@
   "title": "2026-08-30",
   "words": [
     {
-      "clue": "A small container used to hold pencils, pens, and other writing tools",
-      "answer": "PENCILCASE",
-      "row": 2,
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling bitter or angry about unfair treatment",
-      "answer": "RESENTFUL",
-      "row": 1,
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that makes holes in paper for filing in binders",
+      "answer": "HOLEPUNCH",
+      "row": 6,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A period of unusually hot weather that lasts for several days",
-      "answer": "HEATWAVE",
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A team sport played on ice or field where players use sticks to hit a puck or ball",
+      "answer": "HOCKEY",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Light exercises or practice done before a game to prepare the body",
+      "answer": "WARMUP",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The side of your face between your eye and ear",
+      "answer": "CHEEK",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A deep red-purple color, like the wine from the region",
-      "answer": "BURGUNDY",
-      "row": 8,
-      "col": 0,
+      "clue": "A fine powder made by grinding wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Drops of water that fall from clouds to the ground",
+      "answer": "RAIN",
+      "row": 10,
+      "col": 8,
       "direction": "across"
-    },
-    {
-      "clue": "The tough outer layer that covers and protects a seed",
-      "answer": "SEEDCOAT",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that converts physical documents into digital images",
-      "answer": "SCANNER",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
     }
   ],
   "dayNumber": 79

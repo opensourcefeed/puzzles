@@ -4,59 +4,73 @@
   "title": "2026-10-27",
   "words": [
     {
-      "clue": "An instrument used to measure atmospheric pressure",
-      "answer": "BAROMETER",
-      "row": 2,
+      "clue": "A piece of furniture with shelves for storing books",
+      "answer": "BOOKSHELF",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
-      "answer": "DECIMAL",
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, green vegetable with a crisp texture, often used in salads",
+      "answer": "CUCUMBER",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who delivers mail to your house",
+      "answer": "MAILMAN",
       "row": 1,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A digital container for organizing files on a computer",
-      "answer": "FOLDER",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A sheltered place along a coast where ships and boats can moor",
-      "answer": "HARBOR",
+      "clue": "A symbol on a screen that shows where the mouse is pointing",
+      "answer": "CURSOR",
       "row": 6,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A short, fast race run at top speed",
-      "answer": "SPRINT",
-      "row": 0,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Light exercises or practice done before a game to prepare the body",
-      "answer": "WARMUP",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The short, thick finger on your hand that helps you grip things",
-      "answer": "THUMB",
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
       "row": 4,
-      "col": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A large cloud of gas and dust in space where stars are born",
+      "answer": "NEBULA",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The front part of your neck that contains your voice box",
+      "answer": "THROAT",
+      "row": 11,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The land along the edge of an ocean or sea",
-      "answer": "COAST",
-      "row": 0,
-      "col": 7,
+      "clue": "A thick, tropical area filled with many trees and plants",
+      "answer": "JUNGLE",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     }
   ],

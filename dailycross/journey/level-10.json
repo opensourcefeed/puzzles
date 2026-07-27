@@ -4,39 +4,39 @@
   "title": "Level 10",
   "words": [
     {
-      "clue": "Comfortable shoes designed for sports or casual wear",
-      "answer": "SNEAKERS",
-      "row": 5,
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A container used to carry a packed meal to school",
-      "answer": "LUNCHBOX",
-      "row": 3,
+      "clue": "A device that fastens sheets of paper together with staples",
+      "answer": "STAPLER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Eager to learn or know more about something",
+      "answer": "CURIOUS",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A secret combination of characters used to access an account",
-      "answer": "PASSWORD",
-      "row": 4,
+      "clue": "A person who works at sea on a ship",
+      "answer": "SAILOR",
+      "row": 2,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The largest planet in our solar system, known for its Great Red Spot",
-      "answer": "JUPITER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The natural force that pulls objects toward the center of Earth",
-      "answer": "GRAVITY",
-      "row": 10,
-      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "The places where two bones meet and are connected",
+      "answer": "JOINTS",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "wordCount": 5,

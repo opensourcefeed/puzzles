@@ -4,74 +4,74 @@
   "title": "2026-08-05",
   "words": [
     {
-      "clue": "The state of losing a game or competition",
-      "answer": "DEFEAT",
-      "row": 5,
-      "col": 0,
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A string instrument with a flat back, played by strumming or plucking",
-      "answer": "GUITAR",
-      "row": 2,
-      "col": 5,
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The display surface of a computer that shows images and text",
-      "answer": "SCREEN",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
+      "clue": "A secret combination of characters used to access an account",
+      "answer": "PASSWORD",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "The seventh planet from the Sun, which rotates on its side",
-      "answer": "URANUS",
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
       "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A sport where two people fight using their fists while wearing gloves",
-      "answer": "BOXING",
-      "row": 2,
+      "clue": "The sport of riding a bicycle",
+      "answer": "CYCLING",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, orange root vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A crisp, green vegetable with long, fibrous stalks",
+      "answer": "CELERY",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A fish known for swimming upstream to lay eggs",
-      "answer": "SALMON",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A fraction where the numerator equals the denominator, representing one whole",
-      "answer": "UNITY",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A solid shape with two parallel, identical polygonal bases and rectangular faces",
-      "answer": "PRISM",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A long seat where players sit when they are not on the field",
-      "answer": "BENCH",
-      "row": 4,
+      "clue": "The sweet liquid inside a fruit or plant",
+      "answer": "JUICE",
+      "row": 6,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The opposite of easy; requiring great effort",
-      "answer": "HARD",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
+      "clue": "A dwarf planet in our solar system that was once considered the ninth planet",
+      "answer": "PLUTO",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The colorful part of many flowers",
+      "answer": "PETAL",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 54

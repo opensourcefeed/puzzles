@@ -4,112 +4,168 @@
   "title": "Level 147",
   "words": [
     {
-      "clue": "Music written or printed on paper using musical notation",
-      "answer": "SHEETMUSIC",
+      "clue": "An electronic device that processes data and performs tasks",
+      "answer": "COMPUTER",
       "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, portable storage device that plugs into a USB port",
-      "answer": "FLASHDRIVE",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that feeds only on the flesh of other animals",
-      "answer": "CARNIVORE",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who works in a library and helps people find books",
-      "answer": "LIBRARIAN",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Filled with wonder and admiration",
-      "answer": "AWESTRUCK",
-      "row": 5,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sports and games that involve running, jumping, and throwing",
-      "answer": "ATHLETICS",
-      "row": 5,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A very fast-running bird that cannot fly",
-      "answer": "OSTRICH",
-      "row": 8,
-      "col": 6,
+      "clue": "A cabinet with shelves for storing food and dishes",
+      "answer": "CUPBOARD",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling worried, nervous, or uneasy about something",
-      "answer": "ANXIOUS",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A board or area where student work is displayed for others to see",
-      "answer": "DISPLAY",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ in your abdomen that breaks down food after you swallow",
-      "answer": "STOMACH",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
-      "answer": "ECLIPSE",
-      "row": 0,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of deep; of little depth",
-      "answer": "SHALLOW",
+      "clue": "A garment worn to stay dry in the rain",
+      "answer": "RAINCOAT",
       "row": 7,
-      "col": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A solid food made from milk, often yellow and sliced",
-      "answer": "CHEESE",
-      "row": 14,
+      "clue": "A brass instrument with three valves and a bright, clear sound",
+      "answer": "TRUMPET",
+      "row": 4,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Weather during which snow is falling",
-      "answer": "SNOWY",
-      "row": 2,
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A healthcare professional who assists doctors and cares for patients",
-      "answer": "NURSE",
+      "clue": "A violent, rotating column of air that touches the ground",
+      "answer": "TORNADO",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "answer": "PEACOCK",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who helps students learn in a school",
+      "answer": "TEACHER",
+      "row": 13,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Eager to learn or know more about something",
+      "answer": "CURIOUS",
+      "row": 8,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round flat shape with no corners or edges",
+      "answer": "CIRCLE",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A clear, colorless liquid that all living things need to survive",
+      "answer": "WATER",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Thin material made from wood pulp, used for writing or printing",
+      "answer": "PAPER",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The five horizontal lines on which music is written",
+      "answer": "STAFF",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A yellow metallic color associated with the precious metal",
+      "answer": "GOLD",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "White frozen crystals that fall from clouds in cold weather",
+      "answer": "SNOW",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A symbol in music notation that indicates a period of silence",
+      "answer": "REST",
+      "row": 7,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A wild dog-like animal that howls at the moon",
+      "answer": "WOLF",
+      "row": 5,
+      "col": 11,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of related web pages under a single domain name",
+      "answer": "SITE",
       "row": 9,
       "col": 9,
       "direction": "across"
+    },
+    {
+      "clue": "You use these to hear sounds",
+      "answer": "EARS",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The basic unit of time in music that you tap your foot to",
+      "answer": "BEAT",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The colored ring in the center of the eye that controls light entry",
+      "answer": "IRIS",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 23,
   "targetWords": 25,
   "difficulty": "hard"
 }

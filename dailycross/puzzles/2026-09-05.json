@@ -4,74 +4,74 @@
   "title": "2026-09-05",
   "words": [
     {
-      "clue": "Feeling sure of oneself and one's abilities",
-      "answer": "CONFIDENT",
-      "row": 2,
+      "clue": "To transfer data from the internet to a computer or device",
+      "answer": "DOWNLOAD",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A tree that sheds all its leaves each autumn",
-      "answer": "DECIDUOUS",
-      "row": 1,
-      "col": 9,
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A triangle with two sides of equal length",
-      "answer": "ISOSCELES",
-      "row": 0,
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A liquid fuel made from petroleum, used in most cars",
+      "answer": "GASOLINE",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A whole number that can be positive, negative, or zero",
-      "answer": "INTEGER",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A colorless, odorless gas that is essential for human life",
-      "answer": "OXYGEN",
-      "row": 7,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, smooth stone worn by water over time",
-      "answer": "PEBBLE",
-      "row": 2,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that captures and stores photographs digitally",
-      "answer": "CAMERA",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A breakfast food made from processed grains, often eaten with milk",
-      "answer": "CEREAL",
+      "clue": "A device that converts physical documents into digital images",
+      "answer": "SCANNER",
       "row": 1,
-      "col": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A sweet, sticky syrup made from the sap of certain trees",
-      "answer": "MAPLE",
+      "clue": "A number written with digits after a dot, like 2.5",
+      "answer": "DECIMAL",
       "row": 7,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that forwards data between computer networks",
+      "answer": "ROUTER",
+      "row": 8,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A deep, dark green color like the trees in a forest",
+      "answer": "FOREST",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A website or tool that helps find information on the internet",
+      "answer": "SEARCH",
+      "row": 5,
+      "col": 13,
+      "direction": "down"
     }
   ],
   "dayNumber": 85

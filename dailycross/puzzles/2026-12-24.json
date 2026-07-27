@@ -4,66 +4,59 @@
   "title": "2026-12-24",
   "words": [
     {
-      "clue": "A folder on a computer where deleted files are temporarily stored",
-      "answer": "RECYCLEBIN",
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of safe; likely to cause harm or injury",
-      "answer": "DANGEROUS",
+      "clue": "A very tall flower with a large yellow head that turns toward the sun",
+      "answer": "SUNFLOWER",
       "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies living organisms and their life processes",
-      "answer": "BIOLOGIST",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A short-range wireless technology for connecting devices",
-      "answer": "BLUETOOTH",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A bird kept on farms for its eggs and meat",
-      "answer": "CHICKEN",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The state of losing a game or competition",
-      "answer": "DEFEAT",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small device moved by hand to control the cursor on a screen",
-      "answer": "MOUSE",
-      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A form of energy that travels in waves and allows us to see",
-      "answer": "LIGHT",
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
       "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
+      "row": 1,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Feeling or showing strong displeasure about something unfair",
-      "answer": "ANGRY",
-      "row": 0,
-      "col": 3,
+      "clue": "A bright blue color, like the precious gemstone",
+      "answer": "SAPPHIRE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cleans buildings and offices",
+      "answer": "CLEANER",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     }
   ],

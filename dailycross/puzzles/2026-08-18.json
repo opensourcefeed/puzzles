@@ -4,67 +4,67 @@
   "title": "2026-08-18",
   "words": [
     {
-      "clue": "A bag with straps worn on the back to carry books and school supplies",
-      "answer": "BACKPACK",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A software application used to access and view websites",
-      "answer": "BROWSER",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that grows, flowers, and dies within a single year",
-      "answer": "ANNUAL",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A closed railroad car used for carrying freight",
-      "answer": "BOXCAR",
+      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "answer": "STORMCLOUD",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A slow-moving reptile with a hard shell on its back",
-      "answer": "TURTLE",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The darkest color, like coal or the night sky",
-      "answer": "BLACK",
-      "row": 0,
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A race in which team members take turns running and passing a baton",
-      "answer": "RELAY",
-      "row": 1,
-      "col": 1,
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 10,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The amount of space inside the boundary of a flat shape",
-      "answer": "AREA",
+      "clue": "The small hard part inside a seed's shell, like an acorn's contents",
+      "answer": "KERNEL",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A basin with running water for washing hands and dishes",
-      "answer": "SINK",
-      "row": 0,
-      "col": 8,
+      "clue": "A short stick passed from one runner to the next in a relay race",
+      "answer": "BATON",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Water in the form of a gas, especially when heated",
+      "answer": "VAPOR",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 1,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "The darkest color, like coal or the night sky",
+      "answer": "BLACK",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 67

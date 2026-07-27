@@ -4,63 +4,70 @@
   "title": "Level 34",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
-      "answer": "MOTORCYCLE",
-      "row": 5,
+      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "answer": "WATERMELON",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The amount of rain that falls over a period of time",
-      "answer": "RAINFALL",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who specializes in the study of plants",
-      "answer": "BOTANIST",
-      "row": 4,
+      "clue": "A yellow flower that turns into a fluffy ball you blow to make a wish",
+      "answer": "DANDELION",
+      "row": 6,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "An athletic event where athletes jump as far as possible from a running start",
-      "answer": "LONGJUMP",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of gliding on ice using ice skates",
-      "answer": "SKATING",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A scale for measuring temperature, named after Anders Celsius",
-      "answer": "CELSIUS",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
-      "row": 7,
-      "col": 9,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "An underground passage through which vehicles can travel",
-      "answer": "TUNNEL",
-      "row": 0,
+      "clue": "A sudden, heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 6,
       "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A powerful vehicle used on farms for pulling machinery and heavy loads",
+      "answer": "TRACTOR",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large, round object in space that orbits a star",
+      "answer": "PLANET",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A primate that lives in trees and swings from branch to branch",
+      "answer": "MONKEY",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A telescope famous for taking pictures of distant galaxies, named after a scientist",
+      "answer": "HUBBLE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 9,
   "targetWords": 9,
   "difficulty": "medium"
 }

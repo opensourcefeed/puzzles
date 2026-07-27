@@ -4,74 +4,67 @@
   "title": "2026-07-25",
   "words": [
     {
-      "clue": "A bright blue color, like the precious gemstone",
-      "answer": "SAPPHIRE",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The scientific study of matter, energy, and their interactions",
-      "answer": "PHYSICS",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A spotted wild cat that is the fastest land animal",
-      "answer": "CHEETAH",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A positive whole number used for counting objects",
-      "answer": "NATURAL",
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
       "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
-      "answer": "ECLIPSE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, smooth stone worn by water over time",
-      "answer": "PEBBLE",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A large cloud of gas and dust in space where stars are born",
-      "answer": "NEBULA",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Data storage that is accessed over the internet rather than locally",
-      "answer": "CLOUD",
-      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The land along the edge of an ocean or sea",
-      "answer": "COAST",
-      "row": 8,
+      "clue": "A sweet, brown food made from roasted cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 5,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat container with a handle, used with a broom to collect dirt",
+      "answer": "DUSTPAN",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The joint in the middle of your leg that allows it to bend",
-      "answer": "KNEE",
-      "row": 6,
-      "col": 7,
+      "clue": "A closed railroad car used for carrying freight",
+      "answer": "BOXCAR",
+      "row": 1,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Yellow powder made by flowers",
+      "answer": "POLLEN",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "White frozen crystals that fall from clouds in cold weather",
+      "answer": "SNOW",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A wild dog-like animal that howls at the moon",
+      "answer": "WOLF",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A flying insect that makes honey and lives in hives",
+      "answer": "BEE",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 43

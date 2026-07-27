@@ -4,119 +4,105 @@
   "title": "Level 145",
   "words": [
     {
-      "clue": "An instrument that uses lenses to make very small objects appear larger",
-      "answer": "MICROSCOPE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "An animal that feeds only on the flesh of other animals",
-      "answer": "CARNIVORE",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A specially equipped vehicle used to transport sick or injured people",
-      "answer": "AMBULANCE",
+      "clue": "A team sport where players throw a ball through a raised hoop",
+      "answer": "BASKETBALL",
       "row": 6,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The ability to continue a physical activity for a long time",
-      "answer": "ENDURANCE",
-      "row": 12,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The opposite of honest; not truthful or trustworthy",
-      "answer": "DISHONEST",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A symbol, usually a letter, that represents an unknown number",
-      "answer": "VARIABLE",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who designs, builds, and maintains engines and machines",
-      "answer": "ENGINEER",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Hopeful and confident, even in difficult situations",
-      "answer": "POSITIVE",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, bright blue color like the sky on a clear day",
-      "answer": "SKYBLUE",
+      "clue": "A small piece of bent wire used to hold papers together",
+      "answer": "PAPERCLIP",
       "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling confused because something is difficult to understand",
-      "answer": "PUZZLED",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 9,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A musical composition for a single instrument or voice",
-      "answer": "SONATA",
-      "row": 14,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A watercraft that can operate underwater",
+      "answer": "SUBMARINE",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The huge, empty area beyond Earth's atmosphere containing stars and planets",
-      "answer": "SPACE",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A light purple-pink color, like the flower",
-      "answer": "LILAC",
-      "row": 1,
+      "clue": "A device that projects images or presentations onto a screen",
+      "answer": "PROJECTOR",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A small, narrow stream of water",
-      "answer": "CREEK",
-      "row": 0,
-      "col": 4,
+      "clue": "Feeling sure of oneself and one's abilities",
+      "answer": "CONFIDENT",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "answer": "SQUIRREL",
+      "row": 3,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A clear, colorless liquid that all living things need to survive",
-      "answer": "WATER",
+      "clue": "Eager to learn or know more about something",
+      "answer": "CURIOUS",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where trains stop to pick up and drop off passengers",
+      "answer": "STATION",
       "row": 1,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Calm, peaceful, and untroubled",
+      "answer": "SERENE",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
+      "answer": "RULER",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A large bowl or sink used for washing",
+      "answer": "BASIN",
+      "row": 4,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A large natural stream of water that flows across land",
+      "answer": "RIVER",
+      "row": 12,
+      "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 14,
   "targetWords": 24,
   "difficulty": "hard"
 }

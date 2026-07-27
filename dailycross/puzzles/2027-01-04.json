@@ -4,60 +4,67 @@
   "title": "2027-01-04",
   "words": [
     {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
+      "clue": "Music written or printed on paper using musical notation",
+      "answer": "SHEETMUSIC",
       "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A spotted wild cat that is the fastest land animal",
-      "answer": "CHEETAH",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
-      "answer": "VOLCANO",
+      "clue": "A scientist who studies plants and their growth",
+      "answer": "BOTANIST",
       "row": 0,
-      "col": 9,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 4,
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 1,
       "col": 4,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "The arrangement of visual elements on a screen or page",
-      "answer": "LAYOUT",
+      "clue": "A garment worn to stay dry in the rain",
+      "answer": "RAINCOAT",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
       "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A container made of glass used for drinking",
-      "answer": "GLASS",
-      "row": 4,
-      "col": 7,
+      "clue": "A flat tool marked with numbers, used to measure length",
+      "answer": "RULER",
+      "row": 0,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 0,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The opposite of clean; untidy or dirty",
-      "answer": "MESSY",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A solid shape with six identical square faces",
-      "answer": "CUBE",
+      "clue": "The joint that connects your hand to your forearm",
+      "answer": "WRIST",
       "row": 4,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A tool with teeth used to untangle and smooth hair",
+      "answer": "COMB",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 206

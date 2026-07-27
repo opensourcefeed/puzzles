@@ -4,22 +4,15 @@
   "title": "2026-10-19",
   "words": [
     {
-      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
-      "answer": "PENINSULA",
-      "row": 5,
-      "col": 0,
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The small amount of water in the form of vapor in the air",
-      "answer": "MOISTURE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An athletic event where athletes jump over a high bar",
-      "answer": "HIGHJUMP",
+      "clue": "A yellow flower that turns into a fluffy ball you blow to make a wish",
+      "answer": "DANDELION",
       "row": 0,
       "col": 6,
       "direction": "down"
@@ -27,44 +20,58 @@
     {
       "clue": "A person who creates and writes original music",
       "answer": "COMPOSER",
-      "row": 2,
-      "col": 0,
+      "row": 6,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Feeling worried or uneasy about what might happen",
-      "answer": "NERVOUS",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A very fast-running bird that cannot fly",
-      "answer": "OSTRICH",
+      "clue": "A long-distance running race of 26.2 miles",
+      "answer": "MARATHON",
       "row": 1,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The place where a river or stream begins its journey",
-      "answer": "SOURCE",
-      "row": 8,
-      "col": 1,
+      "clue": "A shape like a diamond in a deck of cards",
+      "answer": "DIAMOND",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A light, bright blue color like the sky on a clear day",
+      "answer": "SKYBLUE",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The part of a plant that grows from a flower and contains seeds",
-      "answer": "FRUIT",
-      "row": 8,
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 13,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, slow-moving mass of ice formed from compacted snow",
+      "answer": "GLACIER",
+      "row": 7,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A pinkish-orange color, like the marine animal",
-      "answer": "CORAL",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
+      "clue": "A medical professional who diagnoses and treats illnesses",
+      "answer": "DOCTOR",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A wet, low-lying area where the ground is often covered with water",
+      "answer": "MARSH",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 129

@@ -4,123 +4,123 @@
   "title": "Level 130",
   "words": [
     {
-      "clue": "A small device used to make a pencil point sharp",
-      "answer": "SHARPENER",
+      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
+      "answer": "MOTORCYCLE",
       "row": 7,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies rocks, minerals, and Earth's structure",
-      "answer": "GEOLOGIST",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of honest; not truthful or trustworthy",
-      "answer": "DISHONEST",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A mathematical statement that two expressions are equal",
-      "answer": "EQUATION",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The passing of genetic traits from parents to offspring",
-      "answer": "HEREDITY",
-      "row": 5,
+      "clue": "A small electronic device used for mathematical calculations",
+      "answer": "CALCULATOR",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with three straight sides and three angles",
-      "answer": "TRIANGLE",
-      "row": 0,
+      "clue": "Giving help and encouragement to others",
+      "answer": "SUPPORTIVE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A tool used to look closely at something far away",
+      "answer": "TELESCOPE",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The result obtained by multiplying two or more numbers together",
-      "answer": "PRODUCT",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A very large and strong ape that lives in African forests",
-      "answer": "GORILLA",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The act of defeating an opponent in a competition",
-      "answer": "VICTORY",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A positive whole number used for counting objects",
-      "answer": "NATURAL",
-      "row": 1,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A thick, creamy food made by fermenting milk with bacteria",
-      "answer": "YOGURT",
-      "row": 13,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "The color created by mixing red and yellow, like a carrot",
-      "answer": "ORANGE",
-      "row": 10,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing care and concern for others",
-      "answer": "CARING",
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
       "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A soft, pale orange-yellow color like the fruit",
-      "answer": "PEACH",
-      "row": 0,
-      "col": 4,
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 8,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The opposite of long; measuring a small distance from end to end",
-      "answer": "SHORT",
-      "row": 9,
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
+      "row": 4,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "The organ in your chest that pumps blood throughout your body",
-      "answer": "HEART",
-      "row": 11,
+      "clue": "A long period with little or no rain",
+      "answer": "DROUGHT",
+      "row": 14,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The finger next to your thumb, used for pointing",
-      "answer": "INDEX",
-      "row": 5,
-      "col": 1,
+      "clue": "A deep, dark green color like the trees in a forest",
+      "answer": "FOREST",
+      "row": 3,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A long legless reptile that sheds its skin as it grows",
+      "answer": "SNAKE",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You use this to chew food",
+      "answer": "TEETH",
+      "row": 14,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of old; having lived for only a short time",
+      "answer": "YOUNG",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, pale orange-yellow color like the fruit",
+      "answer": "PEACH",
+      "row": 10,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A very pale pink color, like a flushed cheek",
+      "answer": "BLUSH",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The basic unit of time in music that you tap your foot to",
+      "answer": "BEAT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A collection of related web pages under a single domain name",
+      "answer": "SITE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "wordCount": 17,

@@ -4,105 +4,98 @@
   "title": "Level 122",
   "words": [
     {
-      "clue": "The process by which plants use sunlight to make their own food",
-      "answer": "PHOTOSYNTH",
-      "row": 7,
-      "col": 1,
+      "clue": "A brush with a handle and bristles used for cleaning teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A dense, lush forest found in tropical regions with high rainfall",
-      "answer": "RAINFOREST",
-      "row": 4,
+      "clue": "A large group of musicians playing a variety of instruments",
+      "answer": "ORCHESTRA",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A long, narrow board with a padded surface used for ironing",
-      "answer": "IRONBOARD",
-      "row": 5,
+      "clue": "A purple flower known for its calming, pleasant scent",
+      "answer": "LAVENDER",
+      "row": 7,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large system of winds rotating around a center of low pressure",
+      "answer": "CYCLONE",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A large ship designed to carry cargo across oceans",
-      "answer": "CARGOSHIP",
-      "row": 12,
+      "clue": "A document on the internet that can be viewed in a browser",
+      "answer": "WEBSITE",
+      "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A powerful tractor with a large blade for moving earth and rocks",
-      "answer": "BULLDOZER",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who is trained to travel and work in space",
-      "answer": "ASTRONAUT",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 6,
-      "col": 0,
+      "clue": "A place where trains stop to pick up and drop off passengers",
+      "answer": "STATION",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A board on a wall used for displaying notices and announcements",
-      "answer": "BULLETIN",
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
       "row": 3,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The act of defeating an opponent in a competition",
-      "answer": "VICTORY",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A very fast-running bird that cannot fly",
-      "answer": "OSTRICH",
-      "row": 8,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where players hit a ball over a net using rackets",
-      "answer": "TENNIS",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A narrow, deep valley with very steep rocky sides",
-      "answer": "GORGE",
-      "row": 2,
+      "clue": "An electrical appliance for browning slices of bread",
+      "answer": "TOASTER",
+      "row": 11,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The darkest color, like coal or the night sky",
-      "answer": "BLACK",
+      "clue": "The smallest planet in our solar system and closest to the Sun",
+      "answer": "MERCURY",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The uppermost part of your body that contains your brain",
+      "answer": "HEAD",
       "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of early; after the expected or usual time",
+      "answer": "LATE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A device with a flat, heated surface used to remove wrinkles from clothes",
-      "answer": "IRON",
+      "clue": "The opposite of kind; unkind or unpleasant",
+      "answer": "MEAN",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You use these to hear sounds",
+      "answer": "EARS",
       "row": 0,
-      "col": 7,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 13,
   "targetWords": 21,
   "difficulty": "hard"
 }

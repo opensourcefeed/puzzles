@@ -4,91 +4,105 @@
   "title": "Level 66",
   "words": [
     {
-      "clue": "A small container used to hold pencils, pens, and other writing tools",
-      "answer": "PENCILCASE",
-      "row": 7,
+      "clue": "Hopeful and confident about the future",
+      "answer": "OPTIMISTIC",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Able to understand and share the feelings of others",
-      "answer": "EMPATHETIC",
-      "row": 4,
-      "col": 8,
+      "clue": "A panel of keys used to input text and commands into a computer",
+      "answer": "KEYBOARD",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The opposite of honest; not truthful or trustworthy",
-      "answer": "DISHONEST",
-      "row": 6,
-      "col": 5,
+      "clue": "Comfortable shoes designed for sports or casual wear",
+      "answer": "SNEAKERS",
+      "row": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The opposite of patient; unable to wait calmly",
-      "answer": "IMPATIENT",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
-      "answer": "CARRIAGE",
-      "row": 0,
-      "col": 2,
+      "clue": "A tool with two sharp blades used for cutting paper and other materials",
+      "answer": "SCISSORS",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A bag with straps worn on the back to carry books and school supplies",
-      "answer": "BACKPACK",
-      "row": 13,
+      "clue": "A person who repairs and maintains vehicles and machinery",
+      "answer": "MECHANIC",
+      "row": 7,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "To transfer data from the internet to a computer or device",
-      "answer": "DOWNLOAD",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A place with runways where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The symbol (-) used to show that one number is being subtracted from another",
-      "answer": "MINUS",
-      "row": 10,
+      "clue": "The opposite of generous; lacking consideration for others",
+      "answer": "SELFISH",
+      "row": 1,
       "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A professional cook who prepares meals in a kitchen",
-      "answer": "CHEF",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A neutral color between black and white, like an elephant",
-      "answer": "GRAY",
-      "row": 8,
-      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "A round green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "answer": "MUSIC",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of maps in book form",
+      "answer": "ATLAS",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A bulb vegetable with layers and a strong smell used in cooking",
+      "answer": "ONION",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
+      "answer": "BRASS",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who performs roles in plays, movies, or television",
+      "answer": "ACTOR",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 14,
   "targetWords": 14,
   "difficulty": "medium"
 }

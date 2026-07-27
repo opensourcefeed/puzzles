@@ -4,105 +4,91 @@
   "title": "Level 74",
   "words": [
     {
-      "clue": "A flat shape with twelve straight sides and twelve angles",
-      "answer": "DODECAGON",
-      "row": 7,
-      "col": 3,
+      "clue": "The layer of gases that surrounds Earth and protects life",
+      "answer": "ATMOSPHERE",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 5,
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A big pile of snow blown together by wind",
+      "answer": "SNOWDRIFT",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump over a high bar",
+      "answer": "HIGHJUMP",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The small amount of water in the form of vapor in the air",
-      "answer": "MOISTURE",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
       "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright green color, like the precious gemstone",
-      "answer": "EMERALD",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A green, pear-shaped fruit with a large pit inside",
-      "answer": "AVOCADO",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling embarrassed or guilty about something",
-      "answer": "ASHAMED",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling or showing hope for the future",
-      "answer": "HOPEFUL",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of generous; lacking consideration for others",
-      "answer": "SELFISH",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The places where two bones meet and are connected",
-      "answer": "JOINTS",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The curved path of an object as it moves around another in space",
-      "answer": "ORBIT",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The side of your face between your eye and ear",
-      "answer": "CHEEK",
-      "row": 11,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "A very large brass instrument with a deep, low sound",
-      "answer": "TUBA",
-      "row": 13,
-      "col": 10,
+      "clue": "A handheld device used to control a television from a distance",
+      "answer": "REMOTE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
+      "row": 7,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "answer": "MELODY",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
+      "answer": "RULER",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A dwarf planet in our solar system that was once considered the ninth planet",
+      "answer": "PLUTO",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The darkest color, like coal or the night sky",
+      "answer": "BLACK",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A tree with tall, straight trunks often used for wood",
+      "answer": "PALM",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 12,
   "targetWords": 15,
   "difficulty": "medium"
 }

@@ -4,112 +4,105 @@
   "title": "Level 106",
   "words": [
     {
-      "clue": "A powered railway vehicle that pulls a train",
-      "answer": "LOCOMOTIVE",
+      "clue": "A dense, lush forest found in tropical regions with high rainfall",
+      "answer": "RAINFOREST",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sport involving exercises and routines requiring balance and strength",
-      "answer": "GYMNASTICS",
+      "clue": "The suit an astronaut wears to survive in space",
+      "answer": "SPACESUIT",
       "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that feeds only on plants and plant material",
-      "answer": "HERBIVORE",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that is greater than zero",
-      "answer": "POSITIVE",
-      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling calm and not worried or tense",
-      "answer": "RELAXED",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried or uneasy about what might happen",
-      "answer": "NERVOUS",
-      "row": 11,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who operates and controls a vehicle",
-      "answer": "DRIVER",
-      "row": 5,
-      "col": 13,
+      "clue": "A person who is trained to travel and work in space",
+      "answer": "ASTRONAUT",
+      "row": 6,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A card with a student's name and photo used for identification",
-      "answer": "IDCARD",
-      "row": 0,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Anything that has mass and occupies space",
-      "answer": "MATTER",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A series of musical notes arranged in ascending or descending order",
-      "answer": "SCALE",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of correct; not correct or true",
-      "answer": "WRONG",
-      "row": 5,
+      "clue": "The sloping side of a hill",
+      "answer": "HILLSIDE",
+      "row": 12,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A machine that dries clothes by spinning and heating",
-      "answer": "DRYER",
-      "row": 1,
-      "col": 3,
+      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, portable device used to store and transfer digital files",
+      "answer": "USBDRIVE",
+      "row": 6,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A collection of related web pages under a single domain name",
-      "answer": "SITE",
-      "row": 13,
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where players hit a ball over a net using rackets",
+      "answer": "TENNIS",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that grows round, red fruits often used in cooking",
+      "answer": "TOMATO",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The symbol (×) used to show that numbers are being multiplied",
+      "answer": "TIMES",
+      "row": 9,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A dwarf planet in our solar system that was once considered the ninth planet",
+      "answer": "PLUTO",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 14,
   "targetWords": 19,
   "difficulty": "hard"
 }

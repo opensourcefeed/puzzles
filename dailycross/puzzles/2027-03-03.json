@@ -4,46 +4,67 @@
   "title": "2027-03-03",
   "words": [
     {
-      "clue": "A sport involving exercises and routines requiring balance and strength",
-      "answer": "GYMNASTICS",
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who watches a sports event from the stands",
-      "answer": "SPECTATOR",
-      "row": 0,
+      "clue": "A rodent that cuts down trees and builds dams in rivers",
+      "answer": "BEAVER",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A race in which runners must jump over barriers",
-      "answer": "HURDLES",
+      "clue": "A person who serves food and drinks at a restaurant",
+      "answer": "WAITER",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
       "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of singers who perform together",
+      "answer": "CHOIR",
+      "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
-      "answer": "TUNDRA",
-      "row": 2,
-      "col": 3,
+      "clue": "A large hoofed animal that people ride",
+      "answer": "HORSE",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A group of planets and other objects orbiting a star",
-      "answer": "SYSTEM",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A cup or other decorative object awarded as a prize for winning",
-      "answer": "TROPHY",
-      "row": 1,
-      "col": 3,
+      "clue": "The color of the sky on a clear, sunny day",
+      "answer": "BLUE",
+      "row": 7,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The part of your face below your mouth and above your neck",
+      "answer": "CHIN",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 264

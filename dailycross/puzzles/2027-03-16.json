@@ -4,73 +4,59 @@
   "title": "2027-03-16",
   "words": [
     {
-      "clue": "A facility from which spacecraft and rockets are launched",
-      "answer": "SPACEPORT",
-      "row": 5,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A number that is greater than zero",
-      "answer": "POSITIVE",
-      "row": 5,
+      "clue": "A four-sided shape with one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A panel of keys used to input text and commands into a computer",
-      "answer": "KEYBOARD",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The spinning motion of a planet around its own axis",
-      "answer": "ROTATION",
-      "row": 9,
-      "col": 3,
+      "clue": "A bright green color, like the precious gemstone",
+      "answer": "EMERALD",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "An Australian animal that hops and carries babies in a pouch",
-      "answer": "KANGAROO",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
-      "answer": "PERCENT",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, round fruit that grows in bunches on vines",
-      "answer": "GRAPE",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A solid shape with two parallel, identical polygonal bases and rectangular faces",
-      "answer": "PRISM",
-      "row": 8,
+      "clue": "A cup or other decorative object awarded as a prize for winning",
+      "answer": "TROPHY",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A small vessel for traveling on water",
-      "answer": "BOAT",
-      "row": 8,
-      "col": 9,
+      "clue": "The sport of propelling a boat using oars",
+      "answer": "ROWING",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "answer": "ALMOND",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The opposite of right; on the side that is toward the west when facing north",
-      "answer": "LEFT",
-      "row": 7,
-      "col": 6,
+      "clue": "A round vegetable with layers and a strong, sharp smell",
+      "answer": "ONION",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     }
   ],

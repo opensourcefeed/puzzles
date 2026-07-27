@@ -4,67 +4,60 @@
   "title": "2026-10-03",
   "words": [
     {
-      "clue": "A truck with an open bed that can be tilted to dump its load",
-      "answer": "DUMPTRUCK",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A race in which runners must jump over barriers",
-      "answer": "HURDLES",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of generous; lacking consideration for others",
-      "answer": "SELFISH",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright streak of light in the sky caused by a space rock burning up",
-      "answer": "METEOR",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who catches fish as a job",
-      "answer": "FISHER",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "You use this to chew food",
-      "answer": "TEETH",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A symbol in music notation that indicates a period of silence",
-      "answer": "REST",
+      "clue": "A brush with a handle and bristles used for cleaning teeth",
+      "answer": "TOOTHBRUSH",
       "row": 7,
-      "col": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet, brown fruit that grows on palm trees",
-      "answer": "DATE",
-      "row": 1,
-      "col": 0,
+      "clue": "A small piece of paper with a strip of adhesive on the back for notes",
+      "answer": "STICKYNOTE",
+      "row": 0,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A person who is trained to travel and work in space",
+      "answer": "ASTRONAUT",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "An athletic event where athletes jump as far as possible from a running start",
+      "answer": "LONGJUMP",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A very large and strong ape that lives in African forests",
+      "answer": "GORILLA",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Three or more musical notes played together at the same time",
+      "answer": "CHORD",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A desert animal with one or two humps on its back",
+      "answer": "CAMEL",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The colorful part of many flowers",
+      "answer": "PETAL",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 113

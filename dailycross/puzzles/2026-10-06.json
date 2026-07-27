@@ -4,67 +4,46 @@
   "title": "2026-10-06",
   "words": [
     {
-      "clue": "A device that detects smoke and sounds an alarm",
-      "answer": "SMOKEALARM",
-      "row": 6,
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large open area of land covered with wild grass",
-      "answer": "GRASSLAND",
-      "row": 4,
-      "col": 5,
+      "clue": "A short-range wireless technology for connecting devices",
+      "answer": "BLUETOOTH",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The result obtained by dividing one number by another",
-      "answer": "QUOTIENT",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A woodwind instrument with a single reed and keys",
-      "answer": "CLARINET",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who studies plants and their growth",
-      "answer": "BOTANIST",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A portable computer that folds flat for easy carrying",
-      "answer": "LAPTOP",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
-      "answer": "TUNDRA",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A place where water from a river or lake flows out into another body of water",
-      "answer": "OUTLET",
+      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "answer": "HANGER",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "How high or low a musical sound is",
-      "answer": "PITCH",
-      "row": 11,
+      "clue": "To transfer data from a computer or device to the internet",
+      "answer": "UPLOAD",
+      "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A solid food made from milk, often yellow and sliced",
+      "answer": "CHEESE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A healthcare professional who assists doctors and cares for patients",
+      "answer": "NURSE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 116

@@ -4,84 +4,91 @@
   "title": "Level 99",
   "words": [
     {
-      "clue": "A folder on a computer where deleted files are temporarily stored",
-      "answer": "RECYCLEBIN",
+      "clue": "The opposite of honest; not truthful or trustworthy",
+      "answer": "DISHONEST",
       "row": 7,
-      "col": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The process by which plants use sunlight to make their own food",
-      "answer": "PHOTOSYNTH",
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The person who directs and leads an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
       "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A machine that automatically washes and dries dishes",
-      "answer": "DISHWASHER",
-      "row": 10,
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
+      "row": 13,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A person who makes and repairs wooden objects and furniture",
-      "answer": "CARPENTER",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A number that has more than two factors",
-      "answer": "COMPOSITE",
-      "row": 5,
+      "clue": "A green vegetable that looks like a small tree",
+      "answer": "BROCCOLI",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large reptile with very strong jaws that lives in rivers",
-      "answer": "CROCODILE",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
     },
     {
-      "clue": "The opposite of patient; unable to wait calmly",
-      "answer": "IMPATIENT",
+      "clue": "A solid food made from milk, often yellow and sliced",
+      "answer": "CHEESE",
       "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who works in a library and helps people find books",
-      "answer": "LIBRARIAN",
-      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A clickable element on a screen that triggers an action",
-      "answer": "BUTTON",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A regular, repeated pattern of beats in music",
-      "answer": "RHYTHM",
-      "row": 0,
+      "clue": "A plant that grows round, red fruits often used in cooking",
+      "answer": "TOMATO",
+      "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A very large ocean mammal that must surface to breathe",
-      "answer": "WHALE",
-      "row": 3,
-      "col": 8,
+      "clue": "The pair of parallel metal rails that trains run on",
+      "answer": "TRACK",
+      "row": 10,
+      "col": 10,
       "direction": "across"
+    },
+    {
+      "clue": "A small handheld device that moves the cursor on a computer screen",
+      "answer": "MOUSE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 12,
   "targetWords": 18,
   "difficulty": "medium"
 }

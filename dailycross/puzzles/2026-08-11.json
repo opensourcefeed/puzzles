@@ -4,74 +4,67 @@
   "title": "2026-08-11",
   "words": [
     {
-      "clue": "An instrument used to measure wind speed",
-      "answer": "ANEMOMETER",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
       "clue": "Feeling bitter or angry about unfair treatment",
       "answer": "RESENTFUL",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing surprise at something unexpected",
-      "answer": "SURPRISED",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who directs and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A substance made from two or more different elements chemically bonded",
-      "answer": "COMPOUND",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The small amount of water in the form of vapor in the air",
-      "answer": "MOISTURE",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A set of clothes worn by members of a team for their sport",
-      "answer": "UNIFORM",
-      "row": 14,
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sport where players hit a ball over a net using rackets",
-      "answer": "TENNIS",
-      "row": 0,
-      "col": 4,
+      "clue": "A bus that takes children to and from school",
+      "answer": "SCHOOLBUS",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A short stick passed from one runner to the next in a relay race",
-      "answer": "BATON",
-      "row": 0,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, thin animal that burrows underground and has no legs",
+      "answer": "EARTHWORM",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A fraction where the numerator equals the denominator, representing one whole",
-      "answer": "UNITY",
-      "row": 10,
-      "col": 8,
+      "clue": "A video call made over the internet",
+      "answer": "VIDEOCALL",
+      "row": 3,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A leafy green vegetable commonly used as a base for salads",
+      "answer": "LETTUCE",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The place where a river or stream begins its journey",
+      "answer": "SOURCE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You use these to see",
+      "answer": "EYES",
+      "row": 9,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small fruit with fuzzy brown skin and bright green flesh",
+      "answer": "KIWI",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 60

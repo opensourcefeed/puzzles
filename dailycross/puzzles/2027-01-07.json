@@ -4,67 +4,74 @@
   "title": "2027-01-07",
   "words": [
     {
-      "clue": "An electronic device that receives broadcast signals and displays moving images",
-      "answer": "TELEVISION",
-      "row": 1,
-      "col": 1,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large vehicle that includes living quarters and can be driven",
-      "answer": "MOTORHOME",
-      "row": 0,
-      "col": 9,
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A large system of winds rotating around a center of low pressure",
-      "answer": "CYCLONE",
-      "row": 3,
-      "col": 5,
+      "clue": "A group of computers connected together to share information",
+      "answer": "NETWORK",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of deep; of little depth",
+      "answer": "SHALLOW",
+      "row": 7,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
     },
     {
       "clue": "A breakfast food made from processed grains, often eaten with milk",
       "answer": "CEREAL",
       "row": 0,
-      "col": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The movement or change in position of an object",
-      "answer": "MOTION",
-      "row": 6,
-      "col": 5,
+      "clue": "A container with a spout and handle used for boiling water",
+      "answer": "KETTLE",
+      "row": 8,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The finger next to your thumb, used for pointing",
-      "answer": "INDEX",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that shows the time, usually hung on a wall or placed on a surface",
-      "answer": "CLOCK",
+      "clue": "The wire used to charge a phone or connect devices",
+      "answer": "CABLE",
       "row": 4,
-      "col": 6,
-      "direction": "down"
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A movable barrier used to close an entrance to a room",
+      "answer": "DOOR",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
     },
     {
       "clue": "A solid shape with six identical square faces",
       "answer": "CUBE",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
+      "row": 1,
+      "col": 13,
+      "direction": "down"
     }
   ],
   "dayNumber": 209

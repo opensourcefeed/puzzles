@@ -4,66 +4,73 @@
   "title": "2026-10-28",
   "words": [
     {
-      "clue": "An instrument used to measure wind speed",
-      "answer": "ANEMOMETER",
-      "row": 5,
-      "col": 0,
+      "clue": "A very dark gray color, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A plant that lives and grows for more than two years",
-      "answer": "PERENNIAL",
-      "row": 4,
-      "col": 6,
+      "clue": "A board on a wall used for displaying notices and announcements",
+      "answer": "BULLETIN",
+      "row": 5,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A very dark gray color, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 0,
-      "col": 4,
+      "clue": "A place with runways where airplanes take off and land",
+      "answer": "AIRPORT",
+      "row": 7,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A long, thin tool used to point at things on a board or screen",
+      "answer": "POINTER",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
     },
     {
       "clue": "A tall animal with a very long neck",
       "answer": "GIRAFFE",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright streak of light in the sky caused by a space rock burning up",
-      "answer": "METEOR",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, crunchy root vegetable with a peppery taste, often eaten raw",
-      "answer": "RADISH",
-      "row": 4,
-      "col": 0,
+      "row": 8,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Anything that has mass and occupies space",
-      "answer": "MATTER",
+      "clue": "A person who cleans buildings and offices",
+      "answer": "CLEANER",
+      "row": 14,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
       "row": 2,
-      "col": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle that travels into space, powered by rocket engines",
+      "answer": "ROCKET",
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
       "clue": "A portable computer that folds flat for easy carrying",
       "answer": "LAPTOP",
-      "row": 12,
-      "col": 6,
+      "row": 10,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A light, narrow boat propelled by one or more paddles",
-      "answer": "CANOE",
-      "row": 1,
-      "col": 2,
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     }
   ],

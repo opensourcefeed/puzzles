@@ -4,67 +4,74 @@
   "title": "2026-10-30",
   "words": [
     {
-      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
-      "answer": "MICROWAVE",
+      "clue": "A large tropical fruit with rough, spiky skin and sweet yellow flesh",
+      "answer": "PINEAPPLE",
       "row": 4,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The number above the line in a fraction, showing how many parts are taken",
-      "answer": "NUMERATOR",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
-      "answer": "EGGPLANT",
-      "row": 4,
+      "clue": "A tree that produces sweet, juicy apples",
+      "answer": "APPLETREE",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
-      "answer": "SATURN",
+      "clue": "A container with a spout and handle used for boiling water",
+      "answer": "KETTLE",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
       "row": 6,
-      "col": 1,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A small, oval nut that grows underground and is used to make butter",
-      "answer": "PEANUT",
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
       "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "White or gray masses of water droplets floating in the sky",
-      "answer": "CLOUDS",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A small string instrument played with a bow, held under the chin",
-      "answer": "VIOLIN",
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
       "row": 0,
-      "col": 1,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A dark, earthy brown color, like the pigment",
-      "answer": "UMBER",
-      "row": 1,
-      "col": 3,
+      "clue": "A large natural stream of water that flows across land",
+      "answer": "RIVER",
+      "row": 2,
+      "col": 10,
       "direction": "across"
     },
     {
-      "clue": "The dark circular opening in the center of the iris",
-      "answer": "PUPIL",
-      "row": 7,
-      "col": 6,
+      "clue": "A pale blue-green color, like water",
+      "answer": "AQUA",
+      "row": 4,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "A huge, bright ball of burning gas in space",
+      "answer": "STAR",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 140

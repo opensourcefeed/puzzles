@@ -4,74 +4,67 @@
   "title": "2026-07-10",
   "words": [
     {
-      "clue": "Music written or printed on paper using musical notation",
-      "answer": "SHEETMUSIC",
-      "row": 5,
+      "clue": "A scientist who studies stars, planets, and other objects in space",
+      "answer": "ASTRONOMER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of accurate; not correct or precise",
-      "answer": "INACCURATE",
-      "row": 0,
-      "col": 6,
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "An instrument used to measure the amount of rain that falls",
-      "answer": "RAINGAUGE",
+      "clue": "A person who creates and designs clothing and accessories",
+      "answer": "DESIGNER",
       "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A straight line joining two opposite corners of a shape",
-      "answer": "DIAGONAL",
-      "row": 2,
+      "clue": "A device that converts paper documents into digital images",
+      "answer": "SCANNER",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large fruit with a hard, brown shell and white flesh with water inside",
+      "answer": "COCONUT",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of flexible; not easily bent or changed",
+      "answer": "STIFF",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who trains and directs a sports team",
+      "answer": "COACH",
+      "row": 1,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A panel of keys used to type text and commands into a computer",
-      "answer": "KEYBOARD",
-      "row": 4,
-      "col": 3,
+      "clue": "A message sent and received electronically over a network",
+      "answer": "EMAIL",
+      "row": 2,
+      "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A positive whole number used for counting objects",
-      "answer": "NATURAL",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "An official who watches a game closely and enforces the rules",
-      "answer": "REFEREE",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The color created by mixing red and blue, like a violet",
-      "answer": "PURPLE",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The curved path of an object as it moves around another in space",
-      "answer": "ORBIT",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
     }
   ],
   "dayNumber": 28

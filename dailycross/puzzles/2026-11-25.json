@@ -4,66 +4,73 @@
   "title": "2026-11-25",
   "words": [
     {
-      "clue": "A small container used to hold pencils, pens, and other writing tools",
-      "answer": "PENCILCASE",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A large open area of land covered with wild grass",
-      "answer": "GRASSLAND",
+      "clue": "A powerful tractor with a large blade for moving earth and rocks",
+      "answer": "BULLDOZER",
       "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where players hit a shuttlecock over a net using rackets",
-      "answer": "BADMINTON",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "An ordered list of numbers or objects that follows a specific rule",
-      "answer": "SEQUENCE",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Musical instruments that produce sound by blowing air through them",
-      "answer": "WOODWIND",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A panel of keys used to type text and commands into a computer",
-      "answer": "KEYBOARD",
-      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who plays a musical instrument or sings professionally",
-      "answer": "MUSICIAN",
-      "row": 8,
+      "clue": "A person who repairs and maintains vehicles and machinery",
+      "answer": "MECHANIC",
+      "row": 3,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of three-dimensional space an object occupies",
-      "answer": "VOLUME",
-      "row": 1,
-      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A straight line connecting two points on the circumference of a circle",
-      "answer": "CHORD",
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your arm to your upper body",
+      "answer": "SHOULDER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
       "row": 2,
-      "col": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The display surface of a computer that shows images and text",
+      "answer": "SCREEN",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The curved path of an object as it moves around another in space",
+      "answer": "ORBIT",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The side of your face between your eye and ear",
+      "answer": "CHEEK",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     }
   ],

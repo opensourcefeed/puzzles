@@ -4,73 +4,73 @@
   "title": "2026-11-15",
   "words": [
     {
-      "clue": "The opposite of honest; not truthful or trustworthy",
-      "answer": "DISHONEST",
-      "row": 6,
+      "clue": "A person who writes and tests computer programs",
+      "answer": "PROGRAMMER",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A brass instrument with a slide that changes the pitch",
+      "answer": "TROMBONE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A piece of furniture with shelves and hanging space for storing clothes",
+      "answer": "WARDROBE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A regular, repeated pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The display surface of a computer that shows images and text",
+      "answer": "SCREEN",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, sticky syrup made from the sap of certain trees",
+      "answer": "MAPLE",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A straight strip of wood, plastic, or metal marked in units, used to measure length",
+      "answer": "RULER",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An electronic instrument with a keyboard that produces various sounds",
-      "answer": "KEYBOARD",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "An ordered list of numbers or objects that follows a specific rule",
-      "answer": "SEQUENCE",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A breakfast food made from processed grains, often eaten with milk",
-      "answer": "CEREAL",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A collection of maps in book form",
-      "answer": "ATLAS",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A large bowl or sink used for washing",
-      "answer": "BASIN",
+      "clue": "The second planet from the Sun, known as Earth's 'sister planet'",
+      "answer": "VENUS",
       "row": 8,
-      "col": 6,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The many points of light visible in the night sky",
-      "answer": "STARS",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Balls of ice that fall from clouds during a storm",
-      "answer": "HAIL",
-      "row": 6,
-      "col": 9,
+      "clue": "A tall grain plant with yellow kernels arranged on a cob",
+      "answer": "CORN",
+      "row": 8,
+      "col": 0,
       "direction": "down"
     }
   ],

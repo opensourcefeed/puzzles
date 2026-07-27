@@ -4,63 +4,70 @@
   "title": "Level 28",
   "words": [
     {
-      "clue": "A scientist who specializes in the study of animals",
-      "answer": "ZOOLOGIST",
-      "row": 2,
+      "clue": "An object placed into orbit around a planet to collect information or communicate",
+      "answer": "SATELLITE",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A period of rest between parts of a game",
+      "answer": "HALFTIME",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A place where water naturally flows out of the ground",
+      "answer": "SPRING",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A hard hat worn to protect the head while riding a bicycle or motorcycle",
+      "answer": "HELMET",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A symbol on a screen that shows where the mouse is pointing",
+      "answer": "CURSOR",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A team sport where players hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 0,
-      "col": 7,
+      "clue": "A portable computer that folds flat for easy carrying",
+      "answer": "LAPTOP",
+      "row": 3,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A green, pear-shaped fruit with a large pit inside",
-      "answer": "AVOCADO",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A large, round object in space that orbits a star",
-      "answer": "PLANET",
-      "row": 5,
-      "col": 5,
+      "clue": "The display surface of a computer that shows images and text",
+      "answer": "SCREEN",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A thin stick of graphite in wood, used for writing on paper",
-      "answer": "PENCIL",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of correct; not correct or true",
-      "answer": "WRONG",
+      "clue": "Thin material made from wood pulp, used for writing or printing",
+      "answer": "PAPER",
       "row": 0,
-      "col": 2,
+      "col": 10,
       "direction": "down"
-    },
-    {
-      "clue": "A figure formed by two rays sharing a common endpoint",
-      "answer": "ANGLE",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A set of printed pages bound together for reading or learning",
-      "answer": "BOOK",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 9,
   "targetWords": 9,
   "difficulty": "easy"
 }

@@ -4,119 +4,133 @@
   "title": "Level 134",
   "words": [
     {
-      "clue": "A team sport where players throw a ball through a raised hoop",
-      "answer": "BASKETBALL",
+      "clue": "A device you use to make phone calls and browse the internet",
+      "answer": "SMARTPHONE",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A long, narrow board with a padded surface used for ironing",
-      "answer": "IRONBOARD",
+      "clue": "A team sport where players hit a ball over a net without letting it touch the ground",
+      "answer": "VOLLEYBALL",
       "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A large open area of land covered with wild grass",
-      "answer": "GRASSLAND",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A car used by police officers to patrol and respond to emergencies",
-      "answer": "POLICECAR",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The phase of the Moon when it is not visible from Earth",
-      "answer": "NEWMOON",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who installs and repairs water pipes and fixtures",
-      "answer": "PLUMBER",
-      "row": 8,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The force that pulls objects toward each other and keeps planets in orbit",
-      "answer": "GRAVITY",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A black and white bird that lives in cold oceans and cannot fly",
-      "answer": "PENGUIN",
+      "clue": "A person who directs the performance of an orchestra or choir",
+      "answer": "CONDUCTOR",
       "row": 6,
-      "col": 5,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The dense, central core of an atom containing protons and neutrons",
-      "answer": "NUCLEUS",
-      "row": 13,
+      "clue": "A room or building containing a collection of books for reading or borrowing",
+      "answer": "LIBRARY",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling worried or uneasy about what might happen",
+      "answer": "NERVOUS",
+      "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Feeling resentful because of someone else's success or advantages",
-      "answer": "JEALOUS",
+      "clue": "A person who constructs buildings and other structures",
+      "answer": "BUILDER",
       "row": 1,
-      "col": 11,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The opposite of brave; feeling fear or anxiety",
-      "answer": "AFRAID",
-      "row": 4,
-      "col": 13,
+      "clue": "A short performance of music or dance",
+      "answer": "RECITAL",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling worried, nervous, or uneasy about something",
+      "answer": "ANXIOUS",
+      "row": 7,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The fold of skin that covers and protects each eye",
-      "answer": "EYELID",
-      "row": 11,
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
+      "answer": "BROOM",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The curved path of an object as it moves around another in space",
+      "answer": "ORBIT",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small rodent that is known for liking cheese",
-      "answer": "MOUSE",
-      "row": 10,
+      "clue": "The opposite of long; measuring a small distance from end to end",
+      "answer": "SHORT",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A large ocean fish with many sharp teeth",
+      "answer": "SHARK",
+      "row": 4,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A piece of absorbent cloth used for drying after washing",
-      "answer": "TOWEL",
+      "clue": "A large hoofed animal that people ride",
+      "answer": "HORSE",
       "row": 0,
-      "col": 9,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The opposite of flexible; not easily bent or changed",
-      "answer": "STIFF",
-      "row": 9,
+      "clue": "A line or group of connected mountains forming a chain",
+      "answer": "RANGE",
+      "row": 10,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A small hill of earth",
+      "answer": "MOUND",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A farm animal that gives wool",
-      "answer": "SHEEP",
-      "row": 9,
-      "col": 0,
+      "clue": "The red liquid that circulates through your heart and blood vessels",
+      "answer": "BLOOD",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where players hit a small ball into holes using clubs",
+      "answer": "GOLF",
+      "row": 10,
+      "col": 12,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 18,
   "targetWords": 23,
   "difficulty": "hard"
 }

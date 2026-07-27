@@ -4,73 +4,59 @@
   "title": "2027-05-27",
   "words": [
     {
-      "clue": "A community of living organisms and their physical environment",
-      "answer": "ECOSYSTEM",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
-      "answer": "ORGANISM",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of your arm between your elbow and your wrist",
-      "answer": "FOREARM",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The natural force that pulls objects toward the center of Earth",
-      "answer": "GRAVITY",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A mixture of rain and snow or partially melted snow",
-      "answer": "SLEET",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A warm yellow-brown color, like the fossilized tree resin",
-      "answer": "AMBER",
-      "row": 10,
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 2,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The part of your face below your mouth and above your neck",
-      "answer": "CHIN",
-      "row": 4,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A utensil with prongs used for picking up and eating food",
-      "answer": "FORK",
+      "clue": "Feeling calm and not worried or tense",
+      "answer": "RELAXED",
       "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A white liquid produced by mammals to feed their young",
-      "answer": "MILK",
-      "row": 6,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A spotted wild cat that is the fastest land animal",
+      "answer": "CHEETAH",
+      "row": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A wireless networking technology that allows devices to connect to the internet",
-      "answer": "WIFI",
-      "row": 8,
+      "clue": "Causing or feeling anxiety and discomfort",
+      "answer": "UNEASY",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Energy that travels in waves and is detected by our ears",
+      "answer": "SOUND",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, narrow stream of water",
+      "answer": "CREEK",
+      "row": 0,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, juicy fruit that grows on bushes and is used in jams",
+      "answer": "BERRY",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     }
   ],

@@ -4,67 +4,74 @@
   "title": "2027-05-19",
   "words": [
     {
-      "clue": "Feeling sure of oneself and one's abilities",
-      "answer": "CONFIDENT",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape where every point on its boundary is the same distance from its center",
-      "answer": "CIRCULAR",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A sea creature with eight arms and a soft body",
-      "answer": "OCTOPUS",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of computers connected together to share information",
-      "answer": "NETWORK",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing love and affection",
-      "answer": "LOVING",
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
       "row": 5,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A symbol on a screen that shows where the mouse is pointing",
-      "answer": "CURSOR",
-      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, oval nut that grows underground and is used to make butter",
-      "answer": "PEANUT",
-      "row": 2,
-      "col": 13,
+      "clue": "A bag with straps worn on the back to carry books and school supplies",
+      "answer": "BACKPACK",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The display surface of a computer that shows images and text",
-      "answer": "SCREEN",
-      "row": 2,
-      "col": 2,
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A game or contest between two players or teams",
-      "answer": "MATCH",
-      "row": 3,
-      "col": 8,
+      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
+      "answer": "SCOOTER",
+      "row": 9,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A building where vehicles are kept or repaired",
+      "answer": "GARAGE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The color created by mixing red and blue, like a violet",
+      "answer": "PURPLE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A piece of furniture for sitting on, used in classrooms",
+      "answer": "CHAIR",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "answer": "CRANE",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a plant that grows from a flower and contains seeds",
+      "answer": "FRUIT",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A tiny, soft green plant that grows on rocks, trees, and damp ground",
+      "answer": "MOSS",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 341

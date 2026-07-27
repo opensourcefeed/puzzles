@@ -4,67 +4,67 @@
   "title": "Level 38",
   "words": [
     {
-      "clue": "A flat shape with five straight sides and five angles",
-      "answer": "PENTAGON",
-      "row": 1,
-      "col": 3,
+      "clue": "Very surprised or shocked by something unexpected",
+      "answer": "ASTONISHED",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bag with straps worn on the back to carry books and school supplies",
-      "answer": "BACKPACK",
+      "clue": "Dark clouds that bring rain",
+      "answer": "RAINCLOUD",
       "row": 0,
-      "col": 7,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The spinning motion of a planet around its own axis",
-      "answer": "ROTATION",
+      "clue": "A large open area of land covered with wild grass",
+      "answer": "GRASSLAND",
       "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright green color, like the precious gemstone",
-      "answer": "EMERALD",
-      "row": 1,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who uses their voice to produce musical sounds",
-      "answer": "SINGER",
-      "row": 5,
-      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A place where water naturally flows out of the ground",
-      "answer": "SPRING",
+      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "answer": "ECLIPSE",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The natural force that pulls objects toward the center of Earth",
+      "answer": "GRAVITY",
       "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that produces text and images on paper from a computer",
+      "answer": "PRINTER",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The empty space between stars and galaxies that contains no matter",
+      "answer": "VACUUM",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A thin stick of graphite in wood, used for writing on paper",
+      "answer": "PENCIL",
+      "row": 4,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A colorless, odorless gas that is essential for human life",
-      "answer": "OXYGEN",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A polygon where all interior angles are less than 180 degrees",
-      "answer": "CONVEX",
-      "row": 2,
-      "col": 0,
+      "clue": "A light purple-pink color, like the flower",
+      "answer": "LILAC",
+      "row": 4,
+      "col": 3,
       "direction": "down"
-    },
-    {
-      "clue": "A person who trains and instructs athletes or sports teams",
-      "answer": "COACH",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
     }
   ],
   "wordCount": 9,

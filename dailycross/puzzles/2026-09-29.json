@@ -4,60 +4,74 @@
   "title": "2026-09-29",
   "words": [
     {
-      "clue": "A small, portable storage device that plugs into a USB port",
-      "answer": "FLASHDRIVE",
-      "row": 3,
+      "clue": "The scientific study of stars, planets, and other objects in space",
+      "answer": "ASTRONOMY",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The display screen of a computer that shows images and text",
-      "answer": "MONITOR",
-      "row": 0,
-      "col": 7,
+      "clue": "The short hairs that grow along the edge of each eyelid",
+      "answer": "EYELASHES",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The movement or change in position of an object",
-      "answer": "MOTION",
-      "row": 1,
-      "col": 6,
+      "clue": "A period of unusually hot weather that lasts for several days",
+      "answer": "HEATWAVE",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The amount of three-dimensional space occupied by a solid object",
-      "answer": "VOLUME",
-      "row": 1,
-      "col": 1,
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 7,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A large area of land covered with many trees",
-      "answer": "FOREST",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A narrow, deep valley with very steep rocky sides",
-      "answer": "GORGE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your hand to your forearm",
-      "answer": "WRIST",
+      "clue": "A person who creates and writes original music",
+      "answer": "COMPOSER",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The natural satellite that orbits Earth and reflects the Sun's light",
-      "answer": "MOON",
-      "row": 5,
-      "col": 1,
+      "clue": "A soft, yellow fat made from cream, used for spreading and cooking",
+      "answer": "BUTTER",
+      "row": 13,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "The seventh planet from the Sun, which rotates on its side",
+      "answer": "URANUS",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of light; weighing a lot",
+      "answer": "HEAVY",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A railway carriage for carrying passengers",
+      "answer": "COACH",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The hard, white structures that form the skeleton inside your body",
+      "answer": "BONES",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 109

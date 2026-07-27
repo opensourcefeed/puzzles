@@ -4,67 +4,74 @@
   "title": "2026-07-24",
   "words": [
     {
-      "clue": "A large, juicy fruit with green striped skin and red flesh",
-      "answer": "WATERMELON",
+      "clue": "A person who drives a taxi for passengers",
+      "answer": "TAXIDRIVER",
       "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Content and pleased with what has happened",
-      "answer": "SATISFIED",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Having no fear; brave and courageous",
-      "answer": "FEARLESS",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two sharp blades used for cutting paper and other materials",
-      "answer": "SCISSORS",
-      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A flat shape with eight straight sides and eight angles",
-      "answer": "OCTAGON",
-      "row": 6,
-      "col": 9,
+      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
+      "answer": "TANGERINE",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, green vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "A long, thin tool used to point at things on a board or screen",
       "answer": "POINTER",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A very pale, soft green color, like the ceramic glaze",
-      "answer": "CELADON",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that grows, flowers, and dies within a single year",
-      "answer": "ANNUAL",
-      "row": 3,
+      "row": 4,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your abdomen that breaks down food after you swallow",
+      "answer": "STOMACH",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A device that captures and stores photographs digitally",
-      "answer": "CAMERA",
-      "row": 2,
-      "col": 5,
+      "clue": "Feeling or showing love and affection",
+      "answer": "LOVING",
+      "row": 3,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "A plant that produces colorful, often scented blooms",
+      "answer": "FLOWER",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A small rodent that is known for liking cheese",
+      "answer": "MOUSE",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark, earthy brown color, like the pigment",
+      "answer": "UMBER",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A large motor vehicle used for transporting goods by road",
+      "answer": "TRUCK",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 42

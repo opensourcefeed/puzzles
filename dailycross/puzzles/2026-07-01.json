@@ -4,73 +4,59 @@
   "title": "2026-07-01",
   "words": [
     {
-      "clue": "An instrument used to measure wind speed",
-      "answer": "ANEMOMETER",
-      "row": 6,
-      "col": 0,
+      "clue": "The opposite of safe; likely to cause harm or injury",
+      "answer": "DANGEROUS",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A spacecraft designed to carry astronauts into space",
-      "answer": "CREWCRAFT",
-      "row": 4,
+      "clue": "A person who works in a library and helps people find books",
+      "answer": "LIBRARIAN",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet, brown food made from roasted cocoa beans",
-      "answer": "CHOCOLATE",
-      "row": 8,
+      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
+      "answer": "PENINSULA",
+      "row": 1,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The short hairs that grow along the ridge above each eye",
-      "answer": "EYEBROWS",
-      "row": 6,
-      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A line that touches a circle at exactly one point",
-      "answer": "TANGENT",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling resentful because of someone else's success or advantages",
-      "answer": "JEALOUS",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "An underground passage through which vehicles can travel",
-      "answer": "TUNNEL",
-      "row": 12,
+      "clue": "An official who watches a game closely and enforces the rules",
+      "answer": "REFEREE",
+      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Feeling fear or worry about a possible danger",
-      "answer": "SCARED",
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A portable device with a touch screen, larger than a phone",
+      "answer": "TABLET",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A string instrument with a flat back, played by strumming or plucking",
+      "answer": "GUITAR",
       "row": 0,
-      "col": 12,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The symbol (-) used to show that one number is being subtracted from another",
-      "answer": "MINUS",
-      "row": 0,
-      "col": 8,
+      "clue": "The name of our galaxy, which appears as a milky band across the night sky",
+      "answer": "MILKY",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     }
   ],

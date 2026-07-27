@@ -4,46 +4,53 @@
   "title": "2027-04-25",
   "words": [
     {
-      "clue": "A person who directs the performance of an orchestra or choir",
-      "answer": "CONDUCTOR",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A very large, powerful storm that forms over warm ocean waters",
-      "answer": "HURRICANE",
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
       "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A tree that sheds all its leaves each autumn",
-      "answer": "DECIDUOUS",
-      "row": 0,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "An organ behind the stomach that produces insulin",
-      "answer": "PANCREAS",
-      "row": 7,
+      "clue": "A person trained to help people in emergencies before they reach a hospital",
+      "answer": "PARAMEDIC",
+      "row": 0,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A place with runways where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
     },
     {
-      "clue": "The opposite of clean; untidy or dirty",
-      "answer": "MESSY",
+      "clue": "A group of stars that are held together by their mutual gravity",
+      "answer": "CLUSTER",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A round, red fruit often used in salads and sauces",
+      "answer": "TOMATO",
       "row": 4,
-      "col": 10,
-      "direction": "down"
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The place where a river or stream begins its journey",
+      "answer": "SOURCE",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 317

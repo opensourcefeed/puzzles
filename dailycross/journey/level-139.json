@@ -4,133 +4,105 @@
   "title": "Level 139",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine, like a bicycle but motorized",
-      "answer": "MOTORCYCLE",
-      "row": 7,
+      "clue": "A small, portable storage device that plugs into a USB port",
+      "answer": "FLASHDRIVE",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A piece of space rock that survives its fall and lands on Earth's surface",
-      "answer": "METEORITE",
-      "row": 6,
-      "col": 11,
+      "clue": "A person who drives a taxi for passengers",
+      "answer": "TAXIDRIVER",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A period of unusually cold weather that lasts for several days",
-      "answer": "COLDSPELL",
-      "row": 6,
-      "col": 5,
+      "clue": "Able to understand and share the feelings of others",
+      "answer": "EMPATHETIC",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The short hairs that grow along the edge of each eyelid",
-      "answer": "EYELASHES",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
+      "clue": "A large tropical fruit with rough, spiky skin and sweet yellow flesh",
+      "answer": "PINEAPPLE",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "A purple flower known for its calming, pleasant scent",
-      "answer": "LAVENDER",
-      "row": 9,
+      "clue": "A person who plays a musical instrument or sings professionally",
+      "answer": "MUSICIAN",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A very high natural landform that rises steeply above the surrounding land",
-      "answer": "MOUNTAIN",
+      "clue": "A bag with straps worn on the back to carry books and school supplies",
+      "answer": "BACKPACK",
       "row": 4,
-      "col": 1,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
-      "answer": "LETTUCE",
-      "row": 8,
-      "col": 3,
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The smallest planet in our solar system and closest to the Sun",
-      "answer": "MERCURY",
-      "row": 4,
-      "col": 1,
+      "clue": "The act of defeating an opponent in a competition",
+      "answer": "VICTORY",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A card with a student's name and photo used for identification",
-      "answer": "IDCARD",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A dark, rich red color, like the color of chestnuts",
-      "answer": "MAROON",
-      "row": 11,
+      "clue": "A small, lens-shaped dried seed often used in soups and stews",
+      "answer": "LENTIL",
+      "row": 7,
       "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A thick, creamy food made by fermenting milk with bacteria",
-      "answer": "YOGURT",
-      "row": 0,
-      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The opposite of open; not open or allowing access",
-      "answer": "CLOSED",
-      "row": 13,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The distance from the center of a circle to any point on its edge",
-      "answer": "RADIUS",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport where two people fight using their fists while wearing gloves",
-      "answer": "BOXING",
+      "clue": "The state of losing a game or competition",
+      "answer": "DEFEAT",
       "row": 7,
       "col": 14,
       "direction": "down"
     },
     {
-      "clue": "The opposite of loud; making little or no noise",
-      "answer": "QUIET",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A large organ that filters harmful substances from the blood",
-      "answer": "LIVER",
-      "row": 9,
-      "col": 8,
+      "clue": "A person who writes books, articles, or other written works",
+      "answer": "WRITER",
+      "row": 10,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The third planet from the Sun, where all known life exists",
-      "answer": "EARTH",
-      "row": 3,
-      "col": 8,
+      "clue": "A long, orange root vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The huge, empty area beyond Earth's atmosphere containing stars and planets",
+      "answer": "SPACE",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A woodwind instrument held sideways and played by blowing across a hole",
-      "answer": "FLUTE",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
+      "clue": "A frozen object in space that develops a glowing tail as it nears the Sun",
+      "answer": "COMET",
+      "row": 12,
+      "col": 10,
+      "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 14,
   "targetWords": 24,
   "difficulty": "hard"
 }

@@ -4,67 +4,74 @@
   "title": "2027-03-06",
   "words": [
     {
-      "clue": "A large, colorful bird that cannot fly and lives in rainforests",
-      "answer": "CASSOWARY",
-      "row": 5,
-      "col": 2,
+      "clue": "Feeling bitter or angry about unfair treatment",
+      "answer": "RESENTFUL",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A book containing information and lessons for a particular school subject",
-      "answer": "TEXTBOOK",
+      "clue": "Feeling or showing hope for the future",
+      "answer": "HOPEFUL",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A substance made from two or more different elements chemically bonded",
-      "answer": "COMPOUND",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright, vivid pink color named after a flower",
-      "answer": "FUCHSIA",
+      "clue": "A sea creature with eight arms and a soft body",
+      "answer": "OCTOPUS",
       "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A perfectly round solid shape where every point on its surface is the same distance from its center",
-      "answer": "SPHERE",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
-      "answer": "HANGER",
-      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A flat shape with four equal sides and four right angles",
-      "answer": "SQUARE",
-      "row": 10,
-      "col": 0,
+      "clue": "A perfectly round solid shape like a ball",
+      "answer": "SPHERE",
+      "row": 5,
+      "col": 7,
       "direction": "across"
     },
     {
       "clue": "A sequence of musical notes that forms a recognizable tune",
       "answer": "MELODY",
-      "row": 1,
-      "col": 5,
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A building where vehicles are kept or repaired",
+      "answer": "GARAGE",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A fish known for swimming upstream to lay eggs",
+      "answer": "SALMON",
+      "row": 7,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A large area of land covered with many trees",
-      "answer": "FOREST",
+      "clue": "The organ in your chest that pumps blood throughout your body",
+      "answer": "HEART",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The smallest finger on your hand, located farthest from your thumb",
+      "answer": "PINKY",
+      "row": 5,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that feels damp and has a lot of moisture in the air",
+      "answer": "HUMID",
       "row": 6,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 267

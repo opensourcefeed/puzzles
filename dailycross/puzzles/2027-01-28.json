@@ -4,67 +4,67 @@
   "title": "2027-01-28",
   "words": [
     {
-      "clue": "An instrument used to measure wind speed",
-      "answer": "ANEMOMETER",
-      "row": 4,
-      "col": 1,
+      "clue": "The opposite of visible; unable to be seen",
+      "answer": "INVISIBLE",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An instrument that uses lenses to make very small objects appear larger",
-      "answer": "MICROSCOPE",
+      "clue": "A book containing information and lessons for a particular school subject",
+      "answer": "TEXTBOOK",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The empty space between stars and galaxies that contains no matter",
+      "answer": "VACUUM",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A day when the sky is covered with many clouds",
+      "answer": "CLOUDY",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A large bowl or sink used for washing",
+      "answer": "BASIN",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The opposite of accurate; not correct or precise",
-      "answer": "INACCURATE",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that projects images or presentations onto a screen",
-      "answer": "PROJECTOR",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A large reptile with very strong jaws that lives in rivers",
-      "answer": "CROCODILE",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A plant that grows round, red fruits often used in cooking",
-      "answer": "TOMATO",
+      "clue": "The opposite of old; having lived for only a short time",
+      "answer": "YOUNG",
       "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A large natural hole in the side of a cliff or underground",
+      "answer": "CAVE",
+      "row": 1,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The seventh planet from the Sun, which rotates on its side",
-      "answer": "URANUS",
-      "row": 2,
-      "col": 1,
+      "clue": "The opposite of bright; with little or no light",
+      "answer": "DARK",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "An unmanned spacecraft sent to explore and gather information in space",
-      "answer": "PROBE",
-      "row": 11,
-      "col": 9,
-      "direction": "across"
+      "clue": "A solid shape with a circular base that narrows to a point",
+      "answer": "CONE",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 230

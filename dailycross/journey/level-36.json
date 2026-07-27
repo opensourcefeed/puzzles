@@ -4,70 +4,77 @@
   "title": "Level 36",
   "words": [
     {
-      "clue": "The scientific study of substances, their properties, and how they react",
-      "answer": "CHEMISTRY",
-      "row": 5,
-      "col": 2,
+      "clue": "A machine that automatically washes and dries dishes",
+      "answer": "DISHWASHER",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The distance across a circle passing through its center",
-      "answer": "DIAMETER",
-      "row": 4,
+      "clue": "A green vegetable with a thick stalk and a head of tiny buds",
+      "answer": "BROCCOLI",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A powered flying vehicle with wings that carries passengers or cargo",
+      "answer": "AIRPLANE",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A large animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A very light purple color, like the flower",
-      "answer": "LAVENDER",
-      "row": 10,
-      "col": 3,
+      "clue": "A person who installs and repairs water pipes and fixtures",
+      "answer": "PLUMBER",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A region of a circle bounded by two radii and the arc between them",
-      "answer": "SECTOR",
+      "clue": "A warm cover you sleep under in bed",
+      "answer": "BLANKET",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of generous; lacking consideration for others",
+      "answer": "SELFISH",
       "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A reflective surface, usually made of glass with a coating on the back",
-      "answer": "MIRROR",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
+      "clue": "A flat shape with eight straight sides and eight angles",
+      "answer": "OCTAGON",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "A container with a handle and spout for serving drinks",
-      "answer": "BOTTLE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who operates and controls an aircraft",
-      "answer": "PILOT",
+      "clue": "A series of musical notes arranged in ascending or descending order",
+      "answer": "SCALE",
       "row": 3,
-      "col": 8,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "A very large ocean mammal that must surface to breathe",
-      "answer": "WHALE",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
+      "clue": "A device used to communicate with others over long distances",
+      "answer": "PHONE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The vehicle astronauts use to walk on the Moon",
+      "answer": "ROVER",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 10,
   "targetWords": 10,
   "difficulty": "medium"
 }

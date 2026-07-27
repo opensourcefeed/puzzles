@@ -4,59 +4,73 @@
   "title": "2026-10-17",
   "words": [
     {
-      "clue": "A triangle with two sides of equal length",
-      "answer": "ISOSCELES",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat shape with six straight sides and six angles",
-      "answer": "HEXAGON",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "An electrical appliance for browning slices of bread",
-      "answer": "TOASTER",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, bright blue color like the sky on a clear day",
-      "answer": "SKYBLUE",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that forwards data between computer networks",
-      "answer": "ROUTER",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
-      "row": 7,
+      "clue": "A reference book containing words and their meanings",
+      "answer": "DICTIONARY",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your hand to your forearm",
-      "answer": "WRIST",
-      "row": 1,
-      "col": 1,
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A popular flower with thorns on its stem, often given as a gift",
-      "answer": "ROSE",
+      "clue": "The short hairs that grow along the ridge above each eye",
+      "answer": "EYEBROWS",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who uses their voice to produce musical sounds",
+      "answer": "SINGER",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Yellow powder made by flowers",
+      "answer": "POLLEN",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A short, fast race run at top speed",
+      "answer": "SPRINT",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The column of bones that runs down your back and protects your spinal cord",
+      "answer": "SPINE",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, round fruit that grows in bunches on vines",
+      "answer": "GRAPE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "answer": "MUSIC",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who operates and controls an aircraft",
+      "answer": "PILOT",
       "row": 0,
-      "col": 8,
+      "col": 11,
       "direction": "down"
     }
   ],

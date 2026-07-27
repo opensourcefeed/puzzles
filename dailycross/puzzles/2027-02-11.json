@@ -4,66 +4,73 @@
   "title": "2027-02-11",
   "words": [
     {
-      "clue": "A pair of speakers worn over the ears for listening to audio",
-      "answer": "HEADPHONES",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A watercraft that can operate underwater",
-      "answer": "SUBMARINE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where athletes throw a long, spear-like object for distance",
-      "answer": "JAVELIN",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A spacecraft that can be reused to travel to and from orbit",
-      "answer": "SHUTTLE",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A container with a handle and spout for serving drinks",
-      "answer": "PITCHER",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where a river or stream begins its journey",
-      "answer": "SOURCE",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of propelling a boat using oars",
-      "answer": "ROWING",
-      "row": 6,
+      "clue": "The opposite of patient; unable to wait calmly",
+      "answer": "IMPATIENT",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tray on a desk used to hold incoming papers or documents",
-      "answer": "INBOX",
-      "row": 6,
-      "col": 9,
+      "clue": "Having a strong reason or desire to do something",
+      "answer": "MOTIVATED",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Water that falls from a high cliff or rock face",
+      "answer": "WATERFALL",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A flat, circular piece of metal awarded as a prize in competitions",
-      "answer": "MEDAL",
-      "row": 2,
+      "clue": "Content and pleased with what has happened",
+      "answer": "SATISFIED",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Involved and interested in something",
+      "answer": "ENGAGED",
+      "row": 0,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The largest planet in our solar system, known for its Great Red Spot",
+      "answer": "JUPITER",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The symbol (÷) used to show that one number is being divided by another",
+      "answer": "DIVIDE",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of maps in book form",
+      "answer": "ATLAS",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of buy",
+      "answer": "SELL",
+      "row": 3,
+      "col": 8,
       "direction": "across"
     }
   ],

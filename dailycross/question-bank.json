@@ -114,11 +114,6 @@
         "answer": "SNAKE"
       },
       {
-        "difficulty": "Medium",
-        "clue": "A large reptile with very strong jaws that lives in rivers",
-        "answer": "CROCODILE"
-      },
-      {
         "difficulty": "Easy",
         "clue": "A flying insect that makes honey and lives in hives",
         "answer": "BEE"
@@ -227,11 +222,6 @@
         "difficulty": "Medium",
         "clue": "A long, thin animal that burrows underground and has no legs",
         "answer": "EARTHWORM"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A large, colorful bird that cannot fly and lives in rainforests",
-        "answer": "CASSOWARY"
       },
       {
         "difficulty": "Easy",
@@ -406,39 +396,9 @@
         "answer": "MOSS"
       },
       {
-        "difficulty": "Medium",
-        "clue": "A large tree that produces acorns as its fruit",
-        "answer": "OAK"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A tree whose sap is used to make sweet syrup",
-        "answer": "MAPLE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A tree with long, thin branches that hang down toward the ground",
-        "answer": "WILLOW"
-      },
-      {
         "difficulty": "Easy",
         "clue": "A purple flower known for its calming, pleasant scent",
         "answer": "LAVENDER"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A climbing plant that grows green peas in pods",
-        "answer": "PEAVINE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A grain crop commonly used as feed for farm animals",
-        "answer": "OATS"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A green plant that grows in damp, shady places and does not produce flowers",
-        "answer": "FERN"
       },
       {
         "difficulty": "Medium",
@@ -446,64 +406,34 @@
         "answer": "FRUIT"
       },
       {
-        "difficulty": "Medium",
-        "clue": "The part of a flower's stamen that produces and holds pollen",
-        "answer": "ANTHER"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The tough outer layer that covers and protects a seed",
-        "answer": "SEEDCOAT"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The process by which a seed begins to grow into a new plant",
-        "answer": "GERMINATION"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A plant that lives and grows for more than two years",
-        "answer": "PERENNIAL"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A plant that grows, flowers, and dies within a single year",
-        "answer": "ANNUAL"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "Tiny pores on the surface of leaves that allow gas exchange",
-        "answer": "STOMATA"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A tree that sheds all its leaves each autumn",
-        "answer": "DECIDUOUS"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A tree that keeps its green leaves throughout the entire year",
-        "answer": "EVERGREEN"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "Plant tissue that transports water and minerals from roots upward",
-        "answer": "XYLEM"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "Plant tissue that carries food made in leaves to other parts",
-        "answer": "PHLOEM"
+        "difficulty": "Easy",
+        "clue": "The small hard part inside a seed's shell, like an acorn's contents",
+        "answer": "KERNEL"
       },
       {
         "difficulty": "Easy",
-        "clue": "The process by which plants use sunlight to make their own food",
-        "answer": "PHOTOSYNTH"
+        "clue": "A tree that produces sweet, juicy apples",
+        "answer": "APPLETREE"
       },
       {
-        "difficulty": "Hard",
-        "clue": "The transfer of pollen from one flower to another for fertilization",
-        "answer": "POLLINATION"
+        "difficulty": "Easy",
+        "clue": "A yellow flower that turns into a fluffy ball you blow to make a wish",
+        "answer": "DANDELION"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "A tree with tall, straight trunks often used for wood",
+        "answer": "PALM"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "The sweet liquid inside a fruit or plant",
+        "answer": "JUICE"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "A green vegetable that looks like a small tree",
+        "answer": "BROCCOLI"
       }
     ],
     "Human Body": [
@@ -733,29 +663,14 @@
         "answer": "BLOOD"
       },
       {
-        "difficulty": "Hard",
-        "clue": "The organ that filters waste from your blood and produces urine",
-        "answer": "KIDNEY"
+        "difficulty": "Easy",
+        "clue": "The hard covering at the end of your fingers and toes",
+        "answer": "NAIL"
       },
       {
         "difficulty": "Easy",
-        "clue": "The largest organ of the human body, covering and protecting it",
-        "answer": "SKIN"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A small organ under the liver that stores bile",
-        "answer": "GALLBLADDER"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "An organ behind the stomach that produces insulin",
-        "answer": "PANCREAS"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A large organ that filters harmful substances from the blood",
-        "answer": "LIVER"
+        "clue": "The soft flap of skin and cartilage you hear with",
+        "answer": "EAR"
       }
     ],
     "Nature": [
@@ -961,11 +876,6 @@
       },
       {
         "difficulty": "Medium",
-        "clue": "An underground layer of rock that holds and transmits water",
-        "answer": "AQUIFER"
-      },
-      {
-        "difficulty": "Medium",
         "clue": "A fertile area in a desert where water is found and plants can grow",
         "answer": "OASIS"
       },
@@ -985,29 +895,24 @@
         "answer": "RANGE"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Hot, liquid rock beneath the Earth's surface",
-        "answer": "MAGMA"
+        "difficulty": "Easy",
+        "clue": "A big pile of snow blown together by wind",
+        "answer": "SNOWDRIFT"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Hot, liquid rock that flows from a volcano onto the Earth's surface",
-        "answer": "LAVA"
+        "difficulty": "Easy",
+        "clue": "A group of trees growing closely together, smaller than a forest",
+        "answer": "GROVE"
       },
       {
-        "difficulty": "Hard",
-        "clue": "An opening in the Earth's surface through which lava, ash, and gases can erupt",
-        "answer": "VOLCANO"
+        "difficulty": "Easy",
+        "clue": "A small hill of earth",
+        "answer": "MOUND"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A sudden shaking of the ground caused by movements in Earth's crust",
-        "answer": "EARTHQUAKE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A very large ocean wave caused by an underwater earthquake or volcanic eruption",
-        "answer": "TSUNAMI"
+        "difficulty": "Easy",
+        "clue": "The blue space above the ground where clouds and birds are seen",
+        "answer": "SKY"
       }
     ],
     "Weather": [
@@ -1163,16 +1068,6 @@
       },
       {
         "difficulty": "Medium",
-        "clue": "The amount of moisture or water vapor present in the air",
-        "answer": "HUMIDITY"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "An instrument used to measure temperature",
-        "answer": "THERMOMETER"
-      },
-      {
-        "difficulty": "Medium",
         "clue": "A violent, rotating column of air that touches the ground",
         "answer": "TORNADO"
       },
@@ -1183,21 +1078,6 @@
       },
       {
         "difficulty": "Medium",
-        "clue": "A scientist who studies and predicts weather patterns",
-        "answer": "METEOROLOGIST"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A prediction or estimate of future weather conditions",
-        "answer": "FORECAST"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The weight of the air pressing down on the Earth's surface",
-        "answer": "AIRPRESSURE"
-      },
-      {
-        "difficulty": "Medium",
         "clue": "A thin cloud of tiny water droplets very close to the ground",
         "answer": "MIST"
       },
@@ -1205,16 +1085,6 @@
         "difficulty": "Medium",
         "clue": "A sudden, heavy fall of rain",
         "answer": "DOWNPOUR"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A sudden, brief storm with strong winds and often rain or snow",
-        "answer": "SQUALL"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The side or direction from which the wind is blowing",
-        "answer": "WINDWARD"
       },
       {
         "difficulty": "Medium",
@@ -1237,29 +1107,39 @@
         "answer": "HEATWAVE"
       },
       {
-        "difficulty": "Hard",
-        "clue": "The speed at which the wind is moving",
-        "answer": "WINDSPEED"
+        "difficulty": "Easy",
+        "clue": "A rainbow-colored ring sometimes seen around the sun or moon",
+        "answer": "HALO"
       },
       {
-        "difficulty": "Hard",
-        "clue": "An instrument used to measure the amount of rain that falls",
-        "answer": "RAINGAUGE"
+        "difficulty": "Easy",
+        "clue": "Weather with a gentle breeze and comfortable temperature",
+        "answer": "PLEASANT"
       },
       {
-        "difficulty": "Hard",
-        "clue": "An instrument used to measure atmospheric pressure",
-        "answer": "BAROMETER"
+        "difficulty": "Easy",
+        "clue": "The season with the most snow and cold",
+        "answer": "WINTER"
       },
       {
-        "difficulty": "Hard",
-        "clue": "An instrument used to measure wind speed",
-        "answer": "ANEMOMETER"
+        "difficulty": "Easy",
+        "clue": "The hottest season of the year",
+        "answer": "SUMMER"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A period of unusually cold weather that lasts for several days",
-        "answer": "COLDSPELL"
+        "difficulty": "Easy",
+        "clue": "The season when leaves change color and fall",
+        "answer": "AUTUMN"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "The season when flowers bloom after winter",
+        "answer": "SPRING"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "A garment worn to stay dry in the rain",
+        "answer": "RAINCOAT"
       }
     ],
     "Space": [
@@ -1385,16 +1265,6 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "The star at the center of our solar system, closest to Earth",
-        "answer": "SUN"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A huge, bright sphere of hot gas in space that produces its own light",
-        "answer": "STAR"
-      },
-      {
-        "difficulty": "Easy",
         "clue": "The smallest planet in our solar system and closest to the Sun",
         "answer": "MERCURY"
       },
@@ -1430,38 +1300,8 @@
       },
       {
         "difficulty": "Medium",
-        "clue": "The phase of the Moon when it is not visible from Earth",
-        "answer": "NEWMOON"
-      },
-      {
-        "difficulty": "Medium",
         "clue": "An event when Earth's shadow falls on the Moon, darkening it",
         "answer": "ECLIPSE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The spinning motion of a planet around its own axis",
-        "answer": "ROTATION"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The movement of one object around another in an orbital path",
-        "answer": "REVOLUTION"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A facility from which spacecraft and rockets are launched",
-        "answer": "SPACEPORT"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The outermost layer of Earth's atmosphere, where it meets space",
-        "answer": "EXOSPHERE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A large planet that is composed mainly of gases like hydrogen and helium",
-        "answer": "GASGIANT"
       },
       {
         "difficulty": "Medium",
@@ -1475,11 +1315,6 @@
       },
       {
         "difficulty": "Medium",
-        "clue": "A spacecraft designed to carry astronauts into space",
-        "answer": "CREWCRAFT"
-      },
-      {
-        "difficulty": "Medium",
         "clue": "A spacecraft that can be reused to travel to and from orbit",
         "answer": "SHUTTLE"
       },
@@ -1489,29 +1324,29 @@
         "answer": "VACUUM"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A star that suddenly increases greatly in brightness",
-        "answer": "NOVA"
+        "difficulty": "Easy",
+        "clue": "A place where astronauts live and work in orbit around Earth",
+        "answer": "SPACESTATION"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A region in space with gravity so strong that nothing can escape it",
-        "answer": "BLACKHOLE"
+        "difficulty": "Easy",
+        "clue": "The suit an astronaut wears to survive in space",
+        "answer": "SPACESUIT"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A rapidly spinning neutron star that emits regular pulses of radiation",
-        "answer": "PULSAR"
+        "difficulty": "Easy",
+        "clue": "The vehicle astronauts use to walk on the Moon",
+        "answer": "ROVER"
       },
       {
-        "difficulty": "Hard",
-        "clue": "An extremely dense star made mostly of neutrons, left after a supernova",
-        "answer": "NEUTRONSTAR"
+        "difficulty": "Easy",
+        "clue": "A telescope famous for taking pictures of distant galaxies, named after a scientist",
+        "answer": "HUBBLE"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A powerful explosion of a star at the end of its life cycle",
-        "answer": "SUPERNOVA"
+        "difficulty": "Easy",
+        "clue": "The path a spacecraft takes when it lifts off from Earth",
+        "answer": "LAUNCH"
       }
     ],
     "Science": [
@@ -1542,43 +1377,8 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "The dense, central core of an atom containing protons and neutrons",
-        "answer": "NUCLEUS"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "Any individual living thing that can grow, reproduce, and respond to its environment",
-        "answer": "ORGANISM"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The smallest structural and functional unit of all living organisms",
-        "answer": "CELL"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "Anything that has mass and occupies space",
-        "answer": "MATTER"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "One of the three main forms that matter can take",
-        "answer": "STATE"
-      },
-      {
-        "difficulty": "Easy",
         "clue": "A measure of how hot or cold something is",
         "answer": "TEMPERATURE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The process by which a liquid changes into a gas or vapor",
-        "answer": "EVAPORATION"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The process by which a gas changes into a liquid",
-        "answer": "CONDENSATION"
       },
       {
         "difficulty": "Easy",
@@ -1602,23 +1402,8 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "A push or pull that can change the motion of an object",
-        "answer": "FORCE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The movement or change in position of an object",
-        "answer": "MOTION"
-      },
-      {
-        "difficulty": "Easy",
         "clue": "An object that produces a magnetic field and attracts iron",
         "answer": "MAGNET"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A complete path through which electric current can flow",
-        "answer": "CIRCUIT"
       },
       {
         "difficulty": "Easy",
@@ -1632,138 +1417,8 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "An instrument that uses lenses to make very small objects appear larger",
-        "answer": "MICROSCOPE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The scientific study of living organisms and their life processes",
-        "answer": "BIOLOGY"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The scientific study of matter, energy, and their interactions",
-        "answer": "PHYSICS"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The scientific study of substances, their properties, and how they react",
-        "answer": "CHEMISTRY"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The process by which plants use sunlight to make their own food",
-        "answer": "PHOTOSYNTH"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A group of living organisms that can reproduce with each other",
-        "answer": "SPECIES"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "An animal that feeds only on plants and plant material",
-        "answer": "HERBIVORE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "An animal that feeds only on the flesh of other animals",
-        "answer": "CARNIVORE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "An animal that eats both plants and other animals",
-        "answer": "OMNIVORE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The passing of genetic traits from parents to offspring",
-        "answer": "HEREDITY"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A specific characteristic that is passed from parents to offspring",
-        "answer": "TRAIT"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The natural environment where an organism lives and grows",
-        "answer": "HABITAT"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A community of living organisms and their physical environment",
-        "answer": "ECOSYSTEM"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The process by which an organism grows and changes over time",
-        "answer": "DEVELOPMENT"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The amount of matter contained in an object",
-        "answer": "MASS"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The amount of three-dimensional space an object occupies",
-        "answer": "VOLUME"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A scale for measuring temperature, named after Anders Celsius",
-        "answer": "CELSIUS"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A scientist who specializes in the study of animals",
-        "answer": "ZOOLOGIST"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A scientist who specializes in the study of plants",
-        "answer": "BOTANIST"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The process by which the body breaks down food into nutrients",
-        "answer": "DIGESTION"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The movement of blood through the heart and blood vessels",
-        "answer": "CIRCULATION"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The process of breathing in oxygen and releasing carbon dioxide",
-        "answer": "RESPIRATION"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A chemical change that produces one or more new substances",
-        "answer": "REACTION"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "The smallest particle of a chemical element that can exist",
-        "answer": "ATOM"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A substance made from two or more different elements chemically bonded",
-        "answer": "COMPOUND"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "An instrument used to measure temperature",
-        "answer": "THERMOMETER"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A scientist who specializes in the study of physics",
-        "answer": "PHYSICIST"
+        "clue": "A tool used to look closely at something far away",
+        "answer": "TELESCOPE"
       }
     ],
     "Mathematics": [
@@ -1771,21 +1426,6 @@
         "difficulty": "Easy",
         "clue": "The total obtained by adding two or more numbers together",
         "answer": "SUM"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The result obtained by subtracting one number from another",
-        "answer": "DIFFERENCE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The result obtained by multiplying two or more numbers together",
-        "answer": "PRODUCT"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The result obtained by dividing one number by another",
-        "answer": "QUOTIENT"
       },
       {
         "difficulty": "Easy",
@@ -1799,28 +1439,18 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "The symbol (×) used to show that numbers are being multiplied",
+        "clue": "The symbol (\u00d7) used to show that numbers are being multiplied",
         "answer": "TIMES"
       },
       {
         "difficulty": "Easy",
-        "clue": "The symbol (÷) used to show that one number is being divided by another",
+        "clue": "The symbol (\u00f7) used to show that one number is being divided by another",
         "answer": "DIVIDE"
       },
       {
         "difficulty": "Easy",
         "clue": "The number that represents nothing or no quantity",
         "answer": "ZERO"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A number that is greater than zero",
-        "answer": "POSITIVE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A whole number that can be positive, negative, or zero",
-        "answer": "INTEGER"
       },
       {
         "difficulty": "Easy",
@@ -1834,148 +1464,13 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "A positive whole number used for counting objects",
-        "answer": "NATURAL"
-      },
-      {
-        "difficulty": "Easy",
         "clue": "A part of a whole number, written with a numerator and denominator",
         "answer": "FRACTION"
       },
       {
         "difficulty": "Easy",
-        "clue": "A fraction or ratio with 100 as the denominator, shown with a % sign",
-        "answer": "PERCENT"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The total distance around the outside of a shape",
-        "answer": "PERIMETER"
-      },
-      {
-        "difficulty": "Easy",
         "clue": "The amount of space inside the boundary of a flat shape",
         "answer": "AREA"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "The amount of three-dimensional space occupied by a solid object",
-        "answer": "VOLUME"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A flat shape with three straight sides and three angles",
-        "answer": "TRIANGLE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A flat shape with four equal sides and four right angles",
-        "answer": "SQUARE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A perfectly round flat shape with no corners or edges",
-        "answer": "CIRCLE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-        "answer": "RECTANGLE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A straight path that extends infinitely in both directions",
-        "answer": "LINE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A part of a line that has two distinct endpoints",
-        "answer": "SEGMENT"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A figure formed by two rays sharing a common endpoint",
-        "answer": "ANGLE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "An angle that measures exactly 90 degrees",
-        "answer": "RIGHTANGLE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A point where two or more lines or edges meet",
-        "answer": "VERTEX"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A comparison of two quantities using division",
-        "answer": "RATIO"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A mathematical statement that two expressions are equal",
-        "answer": "EQUATION"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A number that has exactly two different factors: itself and 1",
-        "answer": "PRIME"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A number that has more than two factors",
-        "answer": "COMPOSITE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A number that divides exactly into two or more other numbers",
-        "answer": "COMMONFACTOR"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A number that is a multiple of two or more numbers",
-        "answer": "COMMONMULTIPLE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The number above the line in a fraction, showing how many parts are taken",
-        "answer": "NUMERATOR"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "The number below the line in a fraction, showing the total number of parts",
-        "answer": "DENOMINATOR"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A fraction where the numerator equals the denominator, representing one whole",
-        "answer": "UNITY"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A number that uses a decimal point followed by digits to show parts of a whole",
-        "answer": "DECIMAL"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A unit for measuring angles, where a full circle is 360",
-        "answer": "DEGREE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A flat shape with five straight sides and five angles",
-        "answer": "PENTAGON"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A flat shape with six straight sides and six angles",
-        "answer": "HEXAGON"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A flat shape with eight straight sides and eight angles",
-        "answer": "OCTAGON"
       },
       {
         "difficulty": "Easy",
@@ -1993,29 +1488,14 @@
         "answer": "CONE"
       },
       {
-        "difficulty": "Hard",
-        "clue": "The longest side of a right-angled triangle, opposite the right angle",
-        "answer": "HYPOTENUSE"
+        "difficulty": "Easy",
+        "clue": "A number written with digits after a dot, like 2.5",
+        "answer": "DECIMAL"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A symbol, usually a letter, that represents an unknown number",
-        "answer": "VARIABLE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "An ordered list of numbers or objects that follows a specific rule",
-        "answer": "SEQUENCE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A number that is the product of a number multiplied by itself",
-        "answer": "SQUAREDO"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "The likelihood or chance that a particular event will occur",
-        "answer": "PROBABILITY"
+        "difficulty": "Easy",
+        "clue": "A flat tool marked with numbers, used to measure length",
+        "answer": "RULER"
       }
     ],
     "Shapes": [
@@ -2071,31 +1551,6 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "A polygon with exactly four sides and four angles",
-        "answer": "QUADRILATERAL"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A flat shape with seven straight sides and seven angles",
-        "answer": "HEPTAGON"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A flat shape with nine straight sides and nine angles",
-        "answer": "NONAGON"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A flat shape with ten straight sides and ten angles",
-        "answer": "DECAGON"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A polygon where all sides and all angles are equal",
-        "answer": "REGULAR"
-      },
-      {
-        "difficulty": "Easy",
         "clue": "A shape that has no straight edges or corners",
         "answer": "ROUND"
       },
@@ -2146,11 +1601,6 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "A shape that can be divided into two identical halves",
-        "answer": "SYMMETRIC"
-      },
-      {
-        "difficulty": "Easy",
         "clue": "The distance across a circle passing through its center",
         "answer": "DIAMETER"
       },
@@ -2165,109 +1615,14 @@
         "answer": "ARC"
       },
       {
-        "difficulty": "Easy",
-        "clue": "A region of a circle bounded by two radii and the arc between them",
-        "answer": "SECTOR"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A line that touches a circle at exactly one point",
-        "answer": "TANGENT"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A straight line connecting two points on the circumference of a circle",
-        "answer": "CHORD"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A flat shape with eleven straight sides and eleven angles",
-        "answer": "HENDECAGON"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A flat shape with twelve straight sides and twelve angles",
-        "answer": "DODECAGON"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A polygon where all sides are equal in length",
-        "answer": "EQUILATERAL"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A triangle where all three sides are equal in length",
-        "answer": "EQUILATERAL"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A triangle with two sides of equal length",
-        "answer": "ISOSCELES"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A triangle with all three sides of different lengths",
-        "answer": "SCALENE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A polygon where all interior angles are less than 180 degrees",
-        "answer": "CONVEX"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A polygon that has at least one interior angle greater than 180 degrees",
-        "answer": "CONCAVE"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A property of a shape that can be divided into two identical halves",
-        "answer": "SYMMETRY"
-      },
-      {
         "difficulty": "Medium",
         "clue": "The point that is the same distance from every point on the circumference",
         "answer": "CENTER"
       },
       {
-        "difficulty": "Medium",
-        "clue": "A four-sided shape with both pairs of opposite sides parallel",
-        "answer": "PARALLELOGRAM"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A solid shape with two parallel, identical polygonal bases and rectangular faces",
-        "answer": "PRISM"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "An object that has length, width, and height",
-        "answer": "SOLID"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A flat shape with thirteen straight sides and thirteen angles",
-        "answer": "TRISKAIDECAGON"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A flat shape with fourteen straight sides and fourteen angles",
-        "answer": "TETRADECAGON"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A flat shape with fifteen straight sides and fifteen angles",
-        "answer": "PENTADECAGON"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A shape that does not have symmetry and cannot be divided into identical halves",
-        "answer": "ASYMMETRIC"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A shape where every point on its boundary is the same distance from its center",
-        "answer": "CIRCULAR"
+        "difficulty": "Easy",
+        "clue": "A shape like a diamond in a deck of cards",
+        "answer": "DIAMOND"
       }
     ],
     "Colors": [
@@ -2495,31 +1850,6 @@
         "difficulty": "Medium",
         "clue": "A soft gray-brown color, like the color of moles",
         "answer": "TAUPE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A bright, vivid greenish-yellow color named after a liqueur",
-        "answer": "CHARTREUSE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A deep red-purple color, like the wine from the region",
-        "answer": "BURGUNDY"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A rich, dark green color, like the gemstone",
-        "answer": "JADE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A rich, earthy yellow color, like the pigment",
-        "answer": "OCHRE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A very pale, soft green color, like the ceramic glaze",
-        "answer": "CELADON"
       }
     ],
     "Food": [
@@ -2752,26 +2082,6 @@
         "difficulty": "Medium",
         "clue": "A grain that is often rolled or ground and used to make porridge",
         "answer": "OATS"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A tropical fruit with orange flesh and a cluster of black seeds",
-        "answer": "PAPAYA"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A sweet tropical fruit with orange flesh and a large flat seed",
-        "answer": "MANGO"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A tropical fruit with green skin and sweet, soft flesh",
-        "answer": "GUAVA"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A small, sweet, brown fruit that grows on palm trees",
-        "answer": "DATE"
       }
     ],
     "School Objects": [
@@ -3014,16 +2324,6 @@
         "difficulty": "Easy",
         "clue": "A small handheld device that moves the cursor on a computer screen",
         "answer": "MOUSE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "The display screen of a computer that shows images and text",
-        "answer": "MONITOR"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A device that can print, scan, copy, and sometimes fax",
-        "answer": "MULTIFUNCTION"
       }
     ],
     "Transportation": [
@@ -3251,31 +2551,6 @@
         "difficulty": "Easy",
         "clue": "A person who operates and controls an aircraft",
         "answer": "PILOT"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A vehicle with skis and tracks designed for traveling on snow",
-        "answer": "SNOWMOBILE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A vehicle designed to travel beyond Earth's atmosphere",
-        "answer": "SPACECRAFT"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A powered railway vehicle that pulls a train",
-        "answer": "LOCOMOTIVE"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A large vehicle that includes living quarters and can be driven",
-        "answer": "MOTORHOME"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A truck with an open bed that can be tilted to dump its load",
-        "answer": "DUMPTRUCK"
       }
     ],
     "Occupation": [
@@ -3431,31 +2706,6 @@
       },
       {
         "difficulty": "Medium",
-        "clue": "A scientist who studies weather patterns and forecasts",
-        "answer": "METEOROLOGIST"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A scientist who studies rocks, minerals, and Earth's structure",
-        "answer": "GEOLOGIST"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A scientist who studies living organisms and their life processes",
-        "answer": "BIOLOGIST"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A scientist who studies chemicals and their reactions",
-        "answer": "CHEMIST"
-      },
-      {
-        "difficulty": "Medium",
-        "clue": "A scientist who studies matter, energy, and their interactions",
-        "answer": "PHYSICIST"
-      },
-      {
-        "difficulty": "Medium",
         "clue": "A person who designs, builds, and maintains engines and machines",
         "answer": "ENGINEER"
       },
@@ -3495,39 +2745,64 @@
         "answer": "GUIDE"
       },
       {
-        "difficulty": "Medium",
-        "clue": "A person who conducts scientific research in a laboratory",
-        "answer": "SCIENTIST"
+        "difficulty": "Easy",
+        "clue": "A person who delivers mail to your house",
+        "answer": "MAILMAN"
       },
       {
-        "difficulty": "Medium",
-        "clue": "A person who creates detailed technical drawings and plans",
-        "answer": "DRAFTER"
+        "difficulty": "Easy",
+        "clue": "A person who serves food and drinks at a restaurant",
+        "answer": "WAITER"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A scientist who studies ancient human history through artifacts",
-        "answer": "ARCHAEOLOGIST"
+        "difficulty": "Easy",
+        "clue": "A person who cuts hair for a living",
+        "answer": "BARBER"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A scientist who studies human societies and cultures",
-        "answer": "ANTHROPOLOGIST"
+        "difficulty": "Easy",
+        "clue": "A person who drives a taxi for passengers",
+        "answer": "TAXIDRIVER"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A scientist who studies fossils to learn about prehistoric life",
-        "answer": "PALEONTOLOGIST"
+        "difficulty": "Easy",
+        "clue": "A person who takes care of sick animals",
+        "answer": "VET"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A scientist who studies insects and their behavior",
-        "answer": "ENTOMOLOGIST"
+        "difficulty": "Easy",
+        "clue": "A person who guards and protects a building or place",
+        "answer": "GUARD"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A scientist who studies the oceans and marine life",
-        "answer": "OCEANOGRAPHER"
+        "difficulty": "Easy",
+        "clue": "A person who sells goods in a shop",
+        "answer": "SHOPKEEPER"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "A person who cleans buildings and offices",
+        "answer": "CLEANER"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "A person who leads a country or company",
+        "answer": "PRESIDENT"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "A person who works at sea on a ship",
+        "answer": "SAILOR"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "A person trained to help people in emergencies before they reach a hospital",
+        "answer": "PARAMEDIC"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "A person who makes and sells meat",
+        "answer": "BUTCHER"
       }
     ],
     "Music": [
@@ -3752,29 +3027,9 @@
         "answer": "COMPOSER"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A musical composition for a single instrument or voice",
-        "answer": "SONATA"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "Music that is sung without instrumental accompaniment",
-        "answer": "VOCAL"
-      },
-      {
         "difficulty": "Medium",
         "clue": "Three or more musical notes played together at the same time",
         "answer": "CHORD"
-      },
-      {
-        "difficulty": "Hard",
-        "clue": "A musical term meaning to play loudly",
-        "answer": "FORTE"
-      },
-      {
-        "difficulty": "Easy",
-        "clue": "A musical term meaning to play softly",
-        "answer": "PIANO"
       }
     ],
     "Sports": [
@@ -4004,29 +3259,29 @@
         "answer": "DEFEAT"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A series of games or contests with several rounds to find a winner",
-        "answer": "TOURNAMENT"
+        "difficulty": "Medium",
+        "clue": "The area where a boxing match takes place",
+        "answer": "RING"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A race where each competitor tries to complete a course in the shortest time",
-        "answer": "TIMETRIAL"
+        "difficulty": "Easy",
+        "clue": "A curved stick used to hit a ball in golf",
+        "answer": "CLUB"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A race in which runners must jump over barriers",
-        "answer": "HURDLES"
+        "difficulty": "Easy",
+        "clue": "A round target you aim to score points through in basketball",
+        "answer": "HOOP"
       },
       {
-        "difficulty": "Hard",
-        "clue": "The ability to continue a physical activity for a long time",
-        "answer": "ENDURANCE"
+        "difficulty": "Easy",
+        "clue": "The action of throwing a ball to a teammate",
+        "answer": "PASS"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Fair, honest, and respectful behavior in sports",
-        "answer": "SPORTSMANSHIP"
+        "difficulty": "Easy",
+        "clue": "A period of rest between parts of a game",
+        "answer": "HALFTIME"
       }
     ],
     "Technology": [
@@ -4256,29 +3511,29 @@
         "answer": "DEBUG"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Instructions written in a programming language for a computer",
-        "answer": "CODE"
+        "difficulty": "Easy",
+        "clue": "A device you use to make phone calls and browse the internet",
+        "answer": "SMARTPHONE"
       },
       {
-        "difficulty": "Hard",
-        "clue": "The process of writing instructions for a computer to follow",
-        "answer": "CODING"
+        "difficulty": "Easy",
+        "clue": "A small chip that stores photos in a camera",
+        "answer": "MEMORYCARD"
       },
       {
-        "difficulty": "Hard",
-        "clue": "An automated program that performs repetitive tasks on the internet",
-        "answer": "BOT"
+        "difficulty": "Easy",
+        "clue": "The wire used to charge a phone or connect devices",
+        "answer": "CABLE"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Technology that enables machines to learn and make decisions",
-        "answer": "AI"
+        "difficulty": "Easy",
+        "clue": "A video call made over the internet",
+        "answer": "VIDEOCALL"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Data storage that is accessed over the internet rather than locally",
-        "answer": "CLOUD"
+        "difficulty": "Easy",
+        "clue": "A short written message sent between phones",
+        "answer": "TEXT"
       }
     ],
     "Home Objects": [
@@ -4508,29 +3763,29 @@
         "answer": "GLASS"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A machine that dries clothes by spinning and heating",
-        "answer": "DRYER"
-      },
-      {
         "difficulty": "Easy",
         "clue": "A device with a flat, heated surface used to remove wrinkles from clothes",
         "answer": "IRON"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A long, narrow board with a padded surface used for ironing",
-        "answer": "IRONBOARD"
+        "difficulty": "Easy",
+        "clue": "A soft cushion you rest your head on while sleeping",
+        "answer": "PILLOW"
       },
       {
-        "difficulty": "Medium",
-        "clue": "An instrument used to measure temperature",
-        "answer": "THERMOMETER"
+        "difficulty": "Easy",
+        "clue": "A warm cover you sleep under in bed",
+        "answer": "BLANKET"
       },
       {
-        "difficulty": "Hard",
-        "clue": "A device that detects smoke and sounds an alarm",
-        "answer": "SMOKEALARM"
+        "difficulty": "Easy",
+        "clue": "The device on the wall used to turn lights on and off",
+        "answer": "SWITCH"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "A container used to hold flowers",
+        "answer": "VASE"
       }
     ],
     "Emotions": [
@@ -4760,29 +4015,29 @@
         "answer": "RELIEVED"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Extremely happy and excited",
-        "answer": "ELATED"
+        "difficulty": "Easy",
+        "clue": "Feeling very happy and full of joy",
+        "answer": "JOYFUL"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Greatly surprised or impressed",
-        "answer": "AMAZED"
+        "difficulty": "Easy",
+        "clue": "Feeling bored and unhappy about a lack of activity",
+        "answer": "RESTLESS"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Feeling deep sorrow, especially after a loss",
-        "answer": "GRIEVING"
+        "difficulty": "Easy",
+        "clue": "Feeling nervous and quiet around other people",
+        "answer": "SHY"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Having no fear; brave and courageous",
-        "answer": "FEARLESS"
+        "difficulty": "Easy",
+        "clue": "Feeling unhappy when something doesn't go as planned",
+        "answer": "UPSET"
       },
       {
-        "difficulty": "Hard",
-        "clue": "Filled with wonder and admiration",
-        "answer": "AWESTRUCK"
+        "difficulty": "Easy",
+        "clue": "Feeling brave enough to try something new",
+        "answer": "BOLD"
       }
     ],
     "Opposites": [
@@ -4878,11 +4133,6 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "The opposite of fast; moving at a low speed",
-        "answer": "SLOW"
-      },
-      {
-        "difficulty": "Easy",
         "clue": "The opposite of bright; with little or no light",
         "answer": "DARK"
       },
@@ -4938,11 +4188,6 @@
       },
       {
         "difficulty": "Easy",
-        "clue": "The opposite of strong; lacking physical strength",
-        "answer": "WEAK"
-      },
-      {
-        "difficulty": "Easy",
         "clue": "The opposite of kind; unkind or unpleasant",
         "answer": "MEAN"
       },
@@ -4977,19 +4222,39 @@
         "answer": "RUDE"
       },
       {
-        "difficulty": "Hard",
-        "clue": "The opposite of comfortable; causing physical discomfort",
-        "answer": "UNCOMFORTABLE"
-      },
-      {
         "difficulty": "Easy",
         "clue": "The opposite of flexible; not easily bent or changed",
         "answer": "STIFF"
       },
       {
-        "difficulty": "Hard",
-        "clue": "The opposite of accurate; not correct or precise",
-        "answer": "INACCURATE"
+        "difficulty": "Easy",
+        "clue": "The opposite of true",
+        "answer": "FALSE"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "The opposite of first",
+        "answer": "LAST"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "The opposite of win",
+        "answer": "LOSE"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "The opposite of buy",
+        "answer": "SELL"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "The opposite of wide",
+        "answer": "NARROW"
+      },
+      {
+        "difficulty": "Easy",
+        "clue": "The opposite of push",
+        "answer": "PULL"
       }
     ]
   },

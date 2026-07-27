@@ -4,53 +4,53 @@
   "title": "Level 15",
   "words": [
     {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
-      "row": 2,
+      "clue": "A small device used to make a pencil point sharp",
+      "answer": "SHARPENER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A global network connecting millions of computers worldwide",
-      "answer": "INTERNET",
-      "row": 1,
-      "col": 5,
+      "clue": "A very high natural landform that rises steeply above the surrounding land",
+      "answer": "MOUNTAIN",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A place where trains stop to pick up and drop off passengers",
-      "answer": "STATION",
-      "row": 1,
+      "clue": "An electronic instrument with a keyboard that produces various sounds",
+      "answer": "KEYBOARD",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall animal with a very long neck",
+      "answer": "GIRAFFE",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A leafy green vegetable commonly used as a base for salads",
+      "answer": "LETTUCE",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling very enthusiastic and eager about something",
+      "answer": "EXCITED",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A polygon where all sides and all angles are equal",
-      "answer": "REGULAR",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
-      "answer": "HANGER",
-      "row": 7,
+      "clue": "A number written with digits after a dot, like 2.5",
+      "answer": "DECIMAL",
+      "row": 2,
       "col": 1,
       "direction": "across"
-    },
-    {
-      "clue": "A perfectly round flat shape with no corners or edges",
-      "answer": "CIRCLE",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of big; of a size that is less than average",
-      "answer": "SMALL",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "wordCount": 7,

@@ -4,67 +4,74 @@
   "title": "2026-11-12",
   "words": [
     {
-      "clue": "An instrument used to measure atmospheric pressure",
-      "answer": "BAROMETER",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who makes and repairs wooden objects and furniture",
-      "answer": "CARPENTER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A prediction or estimate of future weather conditions",
-      "answer": "FORECAST",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A global network connecting millions of computers worldwide",
-      "answer": "INTERNET",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling calm and not worried or tense",
-      "answer": "RELAXED",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 8,
+      "clue": "A large white board in a classroom used for writing with markers",
+      "answer": "WHITEBOARD",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long, thin tool used to point at things on a board or screen",
-      "answer": "POINTER",
-      "row": 2,
-      "col": 12,
+      "clue": "The central component of a computer that processes instructions",
+      "answer": "PROCESSOR",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A medical professional who diagnoses and treats illnesses",
-      "answer": "DOCTOR",
-      "row": 2,
-      "col": 14,
+      "clue": "The amount of rain that falls over a period of time",
+      "answer": "RAINFALL",
+      "row": 7,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Weather with a gentle breeze and comfortable temperature",
+      "answer": "PLEASANT",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling resentful because of someone else's success or advantages",
+      "answer": "JEALOUS",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The arrangement of visual elements on a screen or page",
+      "answer": "LAYOUT",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round solid shape like a ball",
+      "answer": "SPHERE",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A closed railroad car used for carrying freight",
+      "answer": "BOXCAR",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat tool marked with numbers, used to measure length",
+      "answer": "RULER",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "To find and fix errors in a computer program",
+      "answer": "DEBUG",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 153
