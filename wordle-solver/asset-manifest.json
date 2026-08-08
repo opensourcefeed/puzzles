@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd045b65.css",
-    "main.js": "/static/js/main.2a9099ba.js",
-    "static/media/words_alpha.txt": "/static/media/words_alpha.45f27724dadb46745166.txt",
+    "main.css": "/static/css/main.7c03fe73.css",
+    "main.js": "/static/js/main.98b1fbe0.js",
+    "static/media/words_alpha.txt": "/static/media/words_alpha.21f815be0dad5fc96259.txt",
+    "static/media/wordle_answers.txt": "/static/media/wordle_answers.ce04cde047e9dc4e3e7d.txt",
     "index.html": "/index.html",
-    "main.cd045b65.css.map": "/static/css/main.cd045b65.css.map",
-    "main.2a9099ba.js.map": "/static/js/main.2a9099ba.js.map"
+    "main.7c03fe73.css.map": "/static/css/main.7c03fe73.css.map",
+    "main.98b1fbe0.js.map": "/static/js/main.98b1fbe0.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd045b65.css",
-    "static/js/main.2a9099ba.js"
+    "static/css/main.7c03fe73.css",
+    "static/js/main.98b1fbe0.js"
   ]
 }
