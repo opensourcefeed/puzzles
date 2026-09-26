@@ -4,52 +4,73 @@
   "title": "2026-09-07",
   "words": [
     {
-      "clue": "A small container used to hold pencils, pens, and other writing tools",
+      "clue": "A small pouch that holds your pens and pencils",
       "answer": "PENCILCASE",
       "row": 3,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who watches a sports event from the stands",
+      "clue": "A person watching a game from the stands",
       "answer": "SPECTATOR",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Having a strong reason to get something done",
+      "answer": "MOTIVATED",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Having a strong reason or desire to do something",
-      "answer": "MOTIVATED",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool used to look closely at something far away",
+      "clue": "A tool that makes faraway things look close",
       "answer": "TELESCOPE",
       "row": 2,
-      "col": 9,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A period of unusually hot weather that lasts for several days",
+      "clue": "Many days in a row of very hot weather",
       "answer": "HEATWAVE",
       "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A large bird with a long, colorful tail that it can fan out",
+      "clue": "A bird that spreads a huge, colorful tail",
       "answer": "PEACOCK",
       "row": 1,
-      "col": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Finding something really funny",
+      "answer": "AMUSED",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who creates paintings and drawings",
+      "answer": "ARTIST",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance from a circle's center to its edge",
+      "answer": "RADIUS",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     }
   ],

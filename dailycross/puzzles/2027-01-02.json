@@ -4,72 +4,72 @@
   "title": "2027-01-02",
   "words": [
     {
-      "clue": "A machine that automatically washes and dries dishes",
+      "clue": "A machine that washes the dirty dishes",
       "answer": "DISHWASHER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A large ship designed to carry cargo across oceans",
-      "answer": "CARGOSHIP",
-      "row": 3,
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An electronic device that processes data and performs tasks",
+      "clue": "A huge ship that carries goods across the ocean",
+      "answer": "CARGOSHIP",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "An electronic machine that runs programs",
       "answer": "COMPUTER",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
       "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where water flows out of a lake",
+      "answer": "OUTLET",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A large animal with a trunk",
-      "answer": "ELEPHANT",
-      "row": 5,
-      "col": 8,
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your foot to your leg",
+      "answer": "ANKLE",
+      "row": 3,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A place where water from a river or lake flows out into another body of water",
-      "answer": "OUTLET",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The joint that connects your foot to your lower leg",
-      "answer": "ANKLE",
-      "row": 10,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Three or more musical notes played together at the same time",
+      "clue": "Three or more notes played at the same time",
       "answer": "CHORD",
-      "row": 1,
+      "row": 3,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The opposite of clean; covered or marked with dirt",
+      "clue": "The opposite of clean",
       "answer": "DIRTY",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A small, narrow stream of water",
+      "clue": "A small, narrow stream",
       "answer": "CREEK",
-      "row": 11,
+      "row": 2,
       "col": 3,
       "direction": "across"
     }

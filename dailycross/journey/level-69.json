@@ -4,95 +4,95 @@
   "title": "Level 69",
   "words": [
     {
-      "clue": "A dark, heavy cloud that often brings rain or a storm",
+      "clue": "A big, dark cloud that brings a storm",
       "answer": "STORMCLOUD",
       "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The short hairs that grow along the edge of each eyelid",
-      "answer": "EYELASHES",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A small bushy-tailed animal that collects and stores nuts",
-      "answer": "SQUIRREL",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Comfortable shoes designed for sports or casual wear",
-      "answer": "SNEAKERS",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, green vegetable with a crisp texture, often used in salads",
-      "answer": "CUCUMBER",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling or showing love and affection",
-      "answer": "LOVING",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of brave; feeling fear or anxiety",
-      "answer": "AFRAID",
-      "row": 13,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A small rubber block used to remove pencil marks from paper",
-      "answer": "ERASER",
-      "row": 12,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A sequence of musical notes that forms a recognizable tune",
+      "clue": "The little hairs on the edge of your eyelids",
+      "answer": "EYELASHES",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A bushy-tailed animal that hides nuts",
+      "answer": "SQUIRREL",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Comfy shoes made for running and sports",
+      "answer": "SNEAKERS",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A long green vegetable, cool and crunchy",
+      "answer": "CUCUMBER",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Showing lots of love and affection",
+      "answer": "LOVING",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of brave",
+      "answer": "AFRAID",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You use it to rub out pencil marks",
+      "answer": "ERASER",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The main tune of a song",
       "answer": "MELODY",
       "row": 9,
-      "col": 13,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A dark, earthy brown color, like the pigment",
-      "answer": "UMBER",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A short stick passed from one runner to the next in a relay race",
-      "answer": "BATON",
+      "clue": "A pale sandy tan, like a coffee with lots of milk",
+      "answer": "BEIGE",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The part of your face below your mouth and above your neck",
-      "answer": "CHIN",
-      "row": 10,
-      "col": 0,
+      "clue": "The short stick runners pass in a relay race",
+      "answer": "BATON",
+      "row": 0,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The opposite of kind; unkind or unpleasant",
-      "answer": "MEAN",
-      "row": 1,
+      "clue": "The part of your face below your mouth",
+      "answer": "CHIN",
+      "row": 2,
       "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "The opposite of kind",
+      "answer": "MEAN",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "wordCount": 13,

@@ -4,67 +4,67 @@
   "title": "2027-01-23",
   "words": [
     {
-      "clue": "A small, portable device used to store and transfer digital files",
+      "clue": "A small stick you plug in to store your files",
       "answer": "USBDRIVE",
-      "row": 5,
-      "col": 3,
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A two-wheeled vehicle that you ride by pushing pedals with your feet",
+      "clue": "A two-wheeled ride you pedal with your feet",
       "answer": "BICYCLE",
-      "row": 5,
-      "col": 5,
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Light exercises or practice done before a game to prepare the body",
+      "clue": "Light exercises you do before a game",
       "answer": "WARMUP",
-      "row": 3,
-      "col": 7,
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "clue": "Pleasant sounds put together for us to enjoy",
       "answer": "MUSIC",
-      "row": 7,
-      "col": 6,
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "A person who trains and directs a sports team",
       "answer": "COACH",
-      "row": 9,
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your hand to your arm",
+      "answer": "WRIST",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Instruments you buzz your lips into, like a trumpet",
+      "answer": "BRASS",
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your hand to your forearm",
-      "answer": "WRIST",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Musical instruments made of brass that produce sound by buzzing lips into a mouthpiece",
-      "answer": "BRASS",
-      "row": 0,
-      "col": 10,
+      "clue": "A long, soft seat for several people",
+      "answer": "SOFA",
+      "row": 8,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A long, soft seat with a back and arms for two or more people",
-      "answer": "SOFA",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
+      "clue": "Information that is stored on a computer",
+      "answer": "DATA",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 225

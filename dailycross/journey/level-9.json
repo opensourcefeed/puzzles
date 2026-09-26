@@ -4,39 +4,39 @@
   "title": "Level 9",
   "words": [
     {
-      "clue": "A kitchen appliance that uses microwaves to heat food quickly",
+      "clue": "An appliance that heats up food really fast",
       "answer": "MICROWAVE",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The combination of musical notes played together to produce a pleasing sound",
+      "clue": "Different notes that sound nice played together",
       "answer": "HARMONY",
       "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The point where two or more lines or edges meet",
+      "clue": "The corner point where two lines meet",
       "answer": "VERTEX",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The third planet from the Sun, where all known life exists",
-      "answer": "EARTH",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
+      "clue": "Connected cars that run along railway tracks",
+      "answer": "TRAIN",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "A shape that has no straight edges or corners",
-      "answer": "ROUND",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
+      "clue": "A big orange cat with black stripes",
+      "answer": "TIGER",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "wordCount": 5,

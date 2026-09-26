@@ -4,74 +4,60 @@
   "title": "2026-08-07",
   "words": [
     {
-      "clue": "A person who writes and tests computer programs",
+      "clue": "A person who writes computer code",
       "answer": "PROGRAMMER",
-      "row": 4,
-      "col": 2,
+      "row": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of patient; unable to wait calmly",
+      "clue": "The opposite of patient",
       "answer": "IMPATIENT",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 3,
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A round green vegetable made of tightly packed leaves",
+      "clue": "A round vegetable made of tightly packed leaves",
       "answer": "CABBAGE",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A leafy green used to make salad",
+      "answer": "LETTUCE",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The planet that spins on its side",
+      "answer": "URANUS",
       "row": 6,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
-      "answer": "LETTUCE",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The seventh planet from the Sun, which rotates on its side",
-      "answer": "URANUS",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that forwards data between computer networks",
+      "clue": "A device that sends the internet to your devices",
       "answer": "ROUTER",
-      "row": 0,
-      "col": 10,
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A small flower with white petals and a yellow center, common in fields",
-      "answer": "DAISY",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Sounds arranged in a way that is pleasant to listen to",
-      "answer": "MUSIC",
-      "row": 2,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "The third planet from the Sun, where all known life exists",
+      "clue": "The planet we live on",
       "answer": "EARTH",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
+      "row": 8,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 56

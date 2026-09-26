@@ -4,67 +4,74 @@
   "title": "2026-08-03",
   "words": [
     {
-      "clue": "The opposite of possible; not able to happen or exist",
+      "clue": "The opposite of possible",
       "answer": "IMPOSSIBLE",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A large group of musicians playing a variety of instruments",
+      "clue": "A large group of musicians who play together",
       "answer": "ORCHESTRA",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person trained to help people in emergencies before they reach a hospital",
+      "clue": "A person who gives emergency care before the hospital",
       "answer": "PARAMEDIC",
       "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A small bushy-tailed animal that collects and stores nuts",
+      "clue": "A bushy-tailed animal that hides nuts",
       "answer": "SQUIRREL",
       "row": 5,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The amount of rain that falls over a period of time",
+      "clue": "How much rain has fallen",
       "answer": "RAINFALL",
       "row": 1,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A long, purple vegetable with a glossy skin, used in cooking",
+      "clue": "A long purple vegetable with shiny skin",
       "answer": "EGGPLANT",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
       "row": 2,
-      "col": 9,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A small, lens-shaped dried seed often used in soups and stews",
-      "answer": "LENTIL",
-      "row": 12,
-      "col": 6,
+      "clue": "A bird that spreads a huge, colorful tail",
+      "answer": "PEACOCK",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round solid, like a ball",
+      "answer": "SPHERE",
+      "row": 3,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A tiny dried seed often used in soup",
+      "answer": "LENTIL",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 52

@@ -4,66 +4,73 @@
   "title": "2026-08-27",
   "words": [
     {
-      "clue": "Feeling embarrassed or guilty about something",
+      "clue": "Feeling bad about something you did wrong",
       "answer": "ASHAMED",
-      "row": 3,
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A board or area where student work is displayed for others to see",
+      "clue": "A board where students' work is shown off",
       "answer": "DISPLAY",
-      "row": 3,
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A sea creature with eight arms and a soft body",
+      "clue": "A sea animal with eight arms",
       "answer": "OCTOPUS",
-      "row": 6,
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A low area of land between hills or mountains, often with a river",
+      "clue": "The low land between hills or mountains",
       "answer": "VALLEY",
-      "row": 2,
+      "row": 3,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A container with a spout and handle used for boiling water",
+      "clue": "You boil water in this",
       "answer": "KETTLE",
-      "row": 4,
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A person who cuts hair for a living",
+      "clue": "A person who cuts hair, mostly for men",
       "answer": "BARBER",
-      "row": 8,
+      "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A dark, earthy brown color, like the pigment",
-      "answer": "UMBER",
-      "row": 5,
-      "col": 9,
+      "clue": "A pale sandy tan, like a coffee with lots of milk",
+      "answer": "BEIGE",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A tall machine with a long arm used for lifting and moving heavy objects",
+      "clue": "A tall machine with an arm that lifts heavy things",
       "answer": "CRANE",
-      "row": 9,
-      "col": 0,
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A tree with needle-like leaves",
+      "clue": "A tree with needle leaves and cones",
       "answer": "PINE",
-      "row": 0,
+      "row": 5,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You bake and roast food inside this",
+      "answer": "OVEN",
+      "row": 7,
+      "col": 2,
       "direction": "down"
     }
   ],

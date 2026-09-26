@@ -4,77 +4,70 @@
   "title": "Level 82",
   "words": [
     {
-      "clue": "A yellow flower that turns into a fluffy ball you blow to make a wish",
+      "clue": "A yellow flower you blow to make a wish",
       "answer": "DANDELION",
       "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A large open area of land covered with wild grass",
+      "clue": "A wide open area covered in wild grass",
       "answer": "GRASSLAND",
       "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The part of your arm between your elbow and your wrist",
+      "clue": "The part of your arm between the elbow and wrist",
       "answer": "FOREARM",
       "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The body part used for tasting food",
+      "clue": "You use this to taste your food",
       "answer": "TONGUE",
       "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person who catches fish as a job",
+      "clue": "A person who catches fish for a living",
       "answer": "FISHER",
       "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A shaped piece of wood, plastic, or metal for hanging clothes",
+      "clue": "You hang clothes on it in the wardrobe",
       "answer": "HANGER",
       "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
+      "clue": "A small nut with a mild, sweet flavor",
       "answer": "ALMOND",
       "row": 2,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A portable device with a touch screen, larger than a phone",
+      "clue": "A flat touchscreen device, bigger than a phone",
       "answer": "TABLET",
       "row": 10,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A shape that has no straight edges or corners",
-      "answer": "ROUND",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of hard; easy to press or shape",
+      "clue": "The opposite of hard",
       "answer": "SOFT",
       "row": 6,
       "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 9,
   "targetWords": 16,
   "difficulty": "medium"
 }

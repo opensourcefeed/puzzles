@@ -4,73 +4,66 @@
   "title": "2027-04-14",
   "words": [
     {
-      "clue": "Musical instruments that produce sound by being struck or shaken",
+      "clue": "Instruments you hit or shake, like drums",
       "answer": "PERCUSSION",
       "row": 3,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 2,
-      "col": 2,
+      "clue": "The worldwide network that connects computers",
+      "answer": "INTERNET",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A global network connecting millions of computers worldwide",
-      "answer": "INTERNET",
-      "row": 3,
+      "clue": "Feeling grateful for something",
+      "answer": "THANKFUL",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A shooting star that zooms across the sky",
+      "answer": "METEOR",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling or showing gratitude",
-      "answer": "THANKFUL",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright streak of light in the sky caused by a space rock burning up",
-      "answer": "METEOR",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Weather that feels damp and has a lot of moisture in the air",
-      "answer": "HUMID",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A black and white bear that eats bamboo",
+      "clue": "A black-and-white bear that loves bamboo",
       "answer": "PANDA",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A game or contest between two players or teams",
-      "answer": "MATCH",
-      "row": 10,
-      "col": 5,
+      "row": 1,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A sticky substance used to join paper or other materials together",
-      "answer": "GLUE",
+      "clue": "A game between two players or two teams",
+      "answer": "MATCH",
       "row": 6,
-      "col": 10,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A sport played on horseback where players try to score goals with a mallet",
+      "clue": "A sticky liquid used to join paper together",
+      "answer": "GLUE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A ball game played on horseback with a long stick",
       "answer": "POLO",
-      "row": 0,
-      "col": 8,
+      "row": 3,
+      "col": 1,
       "direction": "down"
     }
   ],

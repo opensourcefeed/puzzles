@@ -4,105 +4,98 @@
   "title": "Level 121",
   "words": [
     {
-      "clue": "Very surprised or shocked by something unexpected",
+      "clue": "Very, very surprised or amazed",
       "answer": "ASTONISHED",
       "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small chip that stores photos in a camera",
+      "clue": "A tiny chip that stores photos inside a camera",
       "answer": "MEMORYCARD",
       "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The opposite of possible; not able to happen or exist",
+      "clue": "The opposite of possible",
       "answer": "IMPOSSIBLE",
       "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A small electronic device used for mathematical calculations",
+      "clue": "A device that does math problems for you",
       "answer": "CALCULATOR",
       "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A small, portable storage device that plugs into a USB port",
+      "clue": "A small stick that plugs in to store your files",
       "answer": "FLASHDRIVE",
       "row": 2,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Musical instruments that produce sound by blowing air through them",
+      "clue": "Instruments you blow air through, like a flute",
       "answer": "WOODWIND",
       "row": 3,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A leafy green vegetable with crisp leaves, used as a salad base",
+      "clue": "A leafy green used to make salad",
       "answer": "LETTUCE",
       "row": 11,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A container made of woven material or plastic for carrying items",
+      "clue": "A woven container for carrying things",
       "answer": "BASKET",
       "row": 7,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A person who writes books, articles, or other written works",
+      "clue": "A person who writes books and stories",
       "answer": "WRITER",
       "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A deep, narrow valley with steep sides, often with a river at the bottom",
+      "clue": "A deep valley with steep sides and a river below",
       "answer": "CANYON",
       "row": 0,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small device moved by hand to control the cursor on a screen",
+      "clue": "You move it to point the arrow on the screen",
       "answer": "MOUSE",
       "row": 4,
       "col": 10,
       "direction": "across"
     },
     {
-      "clue": "A cleaning tool with a long handle and bristles for sweeping floors",
+      "clue": "You sweep the floor with it",
       "answer": "BROOM",
       "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 0,
+      "clue": "A tough vehicle for driving over rough ground",
+      "answer": "JEEP",
+      "row": 3,
       "col": 14,
       "direction": "down"
-    },
-    {
-      "clue": "A sturdy vehicle designed for traveling over rough terrain",
-      "answer": "JEEP",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 13,
   "targetWords": 21,
   "difficulty": "hard"
 }

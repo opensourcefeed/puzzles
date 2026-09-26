@@ -4,74 +4,74 @@
   "title": "Level 65",
   "words": [
     {
-      "clue": "A small chip that stores photos in a camera",
+      "clue": "A tiny chip that stores photos inside a camera",
       "answer": "MEMORYCARD",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who works in a library and helps people find books",
-      "answer": "LIBRARIAN",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, sweet citrus fruit with orange skin that peels easily",
-      "answer": "TANGERINE",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A team sport where players hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A book of blank pages for writing notes or doing homework",
-      "answer": "NOTEBOOK",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A solid shape with a polygonal base and triangular faces meeting at a point",
-      "answer": "PYRAMID",
       "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A portable computer that folds flat for easy carrying",
-      "answer": "LAPTOP",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A digital container for organizing files on a computer",
-      "answer": "FOLDER",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape that has no straight edges or corners",
-      "answer": "ROUND",
-      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A fertile area in a desert where water is found and plants can grow",
-      "answer": "OASIS",
-      "row": 0,
+      "clue": "A person who runs a library and helps you find books",
+      "answer": "LIBRARIAN",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, sweet orange fruit that peels easily",
+      "answer": "TANGERINE",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where you hit a ball with a bat and run bases",
+      "answer": "BASEBALL",
+      "row": 14,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A book of blank pages for your notes",
+      "answer": "NOTEBOOK",
+      "row": 4,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "A shape with a flat base and sides meeting at a point",
+      "answer": "PYRAMID",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A computer that folds up so you can carry it",
+      "answer": "LAPTOP",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A place on a computer for keeping files together",
+      "answer": "FOLDER",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The shape you draw on a valentine card",
+      "answer": "HEART",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "wordCount": 10,

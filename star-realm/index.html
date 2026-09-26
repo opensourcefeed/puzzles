@@ -1,0 +1,1301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Star Realm — A Region Logic Puzzle</title>
+<meta name="description" content="Star Realm: place one star in every row, column and colored region with no two stars touching. 60 handcrafted-difficulty logic puzzles.">
+<style>
+  :root{
+    --bg-0:#0c1024;
+    --bg-1:#141a36;
+    --bg-2:#1c2348;
+    --panel:#1a2040cc;
+    --ink:#eef1ff;
+    --ink-dim:#a9b0d6;
+    --accent:#ffb454;
+    --accent-2:#5eead4;
+    --danger:#ff6b81;
+    --success:#5eead4;
+    --radius-lg:22px;
+    --radius-md:16px;
+    --radius-sm:10px;
+    --shadow:0 10px 30px rgba(0,0,0,.35);
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Avenir Next", Avenir, Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  html,body{margin:0;padding:0;height:100%;}
+  body{
+    font-family:var(--font);
+    background:
+      radial-gradient(1200px 800px at 20% -10%, #262f5c 0%, transparent 60%),
+      radial-gradient(900px 700px at 100% 0%, #2c1f4a 0%, transparent 55%),
+      linear-gradient(180deg, var(--bg-0), var(--bg-1) 40%, var(--bg-0));
+    color:var(--ink);
+    min-height:100%;
+    overflow-x:hidden;
+    user-select:none;
+  }
+  #app{position:relative; min-height:100vh; width:100%;}
+  .screen{
+    position:absolute; inset:0;
+    display:flex; flex-direction:column; align-items:center;
+    opacity:0; pointer-events:none;
+    transform:translateY(12px);
+    transition:opacity .38s ease, transform .38s ease;
+    padding:max(18px, env(safe-area-inset-top)) 16px 24px;
+    overflow-y:auto;
+  }
+  .screen.active{opacity:1; pointer-events:auto; transform:translateY(0); position:relative;}
+
+  /* ---------- Loader ---------- */
+  #loader{justify-content:center; align-items:center; gap:22px;}
+  .logo-orb{
+    width:84px; height:84px; border-radius:50%;
+    background:conic-gradient(from 0deg, var(--accent), var(--accent-2), #9b8cff, var(--accent));
+    display:flex; align-items:center; justify-content:center;
+    animation:spin 2.2s linear infinite;
+    box-shadow:0 0 40px rgba(255,180,84,.35);
+  }
+  .logo-orb::after{
+    content:"";
+    width:60px;height:60px;border-radius:50%;
+    background:var(--bg-0);
+    display:block;
+  }
+  @keyframes spin{to{transform:rotate(360deg);}}
+  .loader-title{font-size:1.4rem; font-weight:800; letter-spacing:.5px;}
+  .loader-sub{color:var(--ink-dim); font-size:.85rem;}
+  .loader-bar{width:180px; height:6px; border-radius:99px; background:#ffffff1a; overflow:hidden;}
+  .loader-bar > div{height:100%; width:0%; background:linear-gradient(90deg,var(--accent),var(--accent-2)); border-radius:99px; transition:width .25s ease;}
+
+  /* ---------- Landing ---------- */
+  #landing{justify-content:flex-start; gap:20px; max-width:560px; margin:0 auto; width:100%;}
+  .brand{display:flex; align-items:center; gap:12px; margin-top:10px;}
+  .brand-mark{width:46px;height:46px;flex:none;}
+  .brand-name{font-size:1.5rem; font-weight:800;}
+  .brand-tag{color:var(--ink-dim); font-size:.8rem; margin-top:-2px;}
+  .hero{
+    width:100%; border-radius:var(--radius-lg);
+    background:linear-gradient(135deg, #2a2f66, #1a1f42 60%);
+    border:1px solid #ffffff14;
+    padding:22px;
+    box-shadow:var(--shadow);
+    position:relative; overflow:hidden;
+  }
+  .hero::before{
+    content:"";
+    position:absolute; right:-40px; top:-40px; width:180px; height:180px; border-radius:50%;
+    background:radial-gradient(circle, rgba(255,180,84,.25), transparent 70%);
+  }
+  .hero h1{font-size:1.5rem; margin:0 0 6px; line-height:1.25;}
+  .hero p{color:var(--ink-dim); margin:0 0 16px; font-size:.92rem; line-height:1.5;}
+  .btn{
+    appearance:none; border:none; cursor:pointer;
+    font-family:var(--font); font-weight:700; font-size:.95rem;
+    padding:13px 22px; border-radius:999px;
+    display:inline-flex; align-items:center; gap:8px; justify-content:center;
+    transition:transform .15s ease, box-shadow .15s ease, filter .15s ease;
+  }
+  .btn:active{transform:scale(.96);}
+  .btn-primary{
+    background:linear-gradient(135deg, var(--accent), #ff8a5b);
+    color:#241205;
+    box-shadow:0 8px 22px rgba(255,138,91,.35);
+  }
+  .btn-primary:hover{filter:brightness(1.07);}
+  .btn-ghost{
+    background:#ffffff12; color:var(--ink); border:1px solid #ffffff22;
+  }
+  .btn-block{width:100%;}
+  .section-title{font-weight:800; font-size:1.05rem; margin:6px 2px 2px; display:flex; align-items:center; justify-content:space-between; width:100%;}
+  .stat-pill{font-size:.75rem; color:var(--ink-dim); background:#ffffff10; padding:6px 10px; border-radius:999px;}
+
+  .level-grid{
+    width:100%;
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(64px, 1fr));
+    gap:10px;
+  }
+  .level-card{
+    aspect-ratio:1/1;
+    border-radius:var(--radius-md);
+    background:linear-gradient(160deg, #232a54, #171c3a);
+    border:1px solid #ffffff14;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    gap:4px;
+    cursor:pointer;
+    position:relative;
+    transition:transform .12s ease;
+  }
+  .level-card:active{transform:scale(.94);}
+  .level-card .num{font-weight:800; font-size:1.05rem;}
+  .level-card .stars{display:flex; gap:2px;}
+  .level-card .stars svg{width:9px;height:9px;}
+  .level-card.locked{opacity:.4; cursor:not-allowed;}
+  .level-card.locked .num{filter:blur(.3px);}
+  .level-card.done{border-color:var(--accent-2);}
+  .level-card.current::after{
+    content:""; position:absolute; inset:-3px; border-radius:calc(var(--radius-md) + 3px);
+    border:2px solid var(--accent); animation:pulse 1.6s ease-in-out infinite;
+  }
+  @keyframes pulse{0%,100%{opacity:.5;}50%{opacity:1;}}
+
+  /* ---------- Game screen ---------- */
+  #game{padding-top:max(14px, env(safe-area-inset-top)); gap:14px; max-width:520px; margin:0 auto; width:100%;}
+  .topbar{width:100%; display:flex; align-items:center; justify-content:space-between;}
+  .icon-btn{
+    width:44px;height:44px;border-radius:50%;
+    background:var(--panel); border:1px solid #ffffff1a;
+    display:flex; align-items:center; justify-content:center;
+    cursor:pointer; color:var(--ink);
+  }
+  .icon-btn:active{transform:scale(.92);}
+  .topbar-mid{text-align:center;}
+  .topbar-mid .lbl{font-size:.68rem; color:var(--ink-dim); text-transform:uppercase; letter-spacing:.08em;}
+  .topbar-mid .val{font-weight:800; font-size:1.15rem;}
+  .topbar-score{text-align:right;}
+
+  .legend-row{
+    width:100%; display:flex; align-items:center; justify-content:center; gap:8px;
+    background:var(--panel); border:1px solid #ffffff14; border-radius:999px; padding:10px 14px;
+    flex-wrap:wrap;
+  }
+  .legend-chip{width:20px;height:20px;border-radius:7px; flex:none;}
+  .legend-chip.piece{display:flex;align-items:center;justify-content:center; background:#ffffff10;}
+  .legend-chip.piece svg{width:14px;height:14px;}
+
+  .rules-row{width:100%; display:grid; grid-template-columns:repeat(3,1fr); gap:8px;}
+  .rule-card{
+    background:var(--panel); border:1px solid #ffffff14; border-radius:var(--radius-sm);
+    padding:8px; text-align:center; display:flex; flex-direction:column; align-items:center; gap:6px;
+  }
+  .rule-card svg{width:22px;height:22px;}
+  .rule-card span{font-size:.68rem; color:var(--ink-dim); line-height:1.25;}
+
+  .board-wrap{width:100%; display:flex; justify-content:center;}
+  .board{
+    display:grid;
+    width:min(94vw, 440px);
+    aspect-ratio:1/1;
+    border-radius:14px;
+    overflow:hidden;
+    box-shadow:var(--shadow);
+    border:2px solid #ffffff1f;
+    background:#0a0e22;
+  }
+  .cell{
+    position:relative;
+    display:flex; align-items:center; justify-content:center;
+    border:1px solid rgba(10,14,34,.35);
+    cursor:pointer;
+    transition:filter .12s ease;
+  }
+  .cell.edge-t{border-top:2.5px solid #0a0e22;}
+  .cell.edge-b{border-bottom:2.5px solid #0a0e22;}
+  .cell.edge-l{border-left:2.5px solid #0a0e22;}
+  .cell.edge-r{border-right:2.5px solid #0a0e22;}
+  .cell:active{filter:brightness(1.12);}
+  .cell .mark, .cell .piece{
+    position:absolute; top:50%; left:50%;
+  }
+  .cell .mark{
+    width:34%; height:34%;
+    opacity:0; transform:translate(-50%,-50%) scale(.3) rotate(-25deg);
+    transition:opacity .18s ease, transform .22s cubic-bezier(.34,1.56,.64,1);
+  }
+  .cell .mark.show{opacity:.65; transform:translate(-50%,-50%) scale(1) rotate(0deg);}
+  .cell .piece{
+    width:64%; height:64%;
+    opacity:0; transform:translate(-50%,-50%) scale(.2) rotate(-40deg);
+    transition:opacity .16s ease, transform .32s cubic-bezier(.34,1.56,.64,1);
+    filter:drop-shadow(0 3px 6px rgba(0,0,0,.45));
+  }
+  .cell .piece.show{opacity:1; transform:translate(-50%,-50%) scale(1) rotate(0deg);}
+  .cell.bad .piece{animation:shake .34s ease;}
+  .cell.bad{box-shadow:inset 0 0 0 3px var(--danger);}
+  @keyframes shake{
+    0%,100%{transform:translateX(0);}
+    20%{transform:translateX(-4px);}
+    40%{transform:translateX(4px);}
+    60%{transform:translateX(-3px);}
+    80%{transform:translateX(3px);}
+  }
+  .cell.hint-flash{animation:hintflash 1s ease;}
+  @keyframes hintflash{
+    0%,100%{box-shadow:none;}
+    30%{box-shadow:inset 0 0 0 3px var(--accent-2);}
+  }
+
+  .bottombar{width:100%; display:flex; align-items:center; justify-content:center; gap:14px; margin-top:4px;}
+  .counter{
+    display:flex; align-items:center; gap:8px;
+    background:var(--panel); border:1px solid #ffffff14; border-radius:999px;
+    padding:9px 16px; cursor:pointer;
+  }
+  .counter:active{transform:scale(.96);}
+  .counter svg{width:22px;height:22px;}
+  .counter .n{font-weight:800;}
+  .counter .badge{
+    background:var(--accent); color:#241205; font-size:.68rem; font-weight:800;
+    border-radius:999px; min-width:16px; height:16px; padding:0 4px;
+    display:flex; align-items:center; justify-content:center;
+    margin-left:2px;
+  }
+
+  /* ---------- Win overlay ---------- */
+  #win{
+    justify-content:center; align-items:center; gap:16px;
+    background:radial-gradient(circle at 50% 30%, rgba(94,234,212,.12), transparent 60%);
+  }
+  .win-card{
+    background:linear-gradient(160deg, #232a54, #171c3a);
+    border:1px solid #ffffff1c; border-radius:var(--radius-lg);
+    padding:30px 26px; text-align:center; width:min(90vw,380px);
+    box-shadow:var(--shadow);
+    transform:scale(.85); opacity:0;
+    animation:pop .5s cubic-bezier(.34,1.56,.64,1) forwards;
+  }
+  @keyframes pop{to{transform:scale(1); opacity:1;}}
+  .win-card .medal{width:72px; height:72px; margin:0 auto 12px;}
+  .win-card h2{margin:0 0 6px; font-size:1.4rem;}
+  .win-card p{color:var(--ink-dim); margin:0 0 18px; font-size:.9rem;}
+  .win-stats{display:flex; justify-content:center; gap:20px; margin-bottom:20px;}
+  .win-stats div{text-align:center;}
+  .win-stats .n{font-size:1.3rem; font-weight:800; color:var(--accent-2);}
+  .win-stats .l{font-size:.68rem; color:var(--ink-dim); text-transform:uppercase; letter-spacing:.06em;}
+  .win-actions{display:flex; flex-direction:column; gap:10px;}
+
+  #confetti-canvas{position:fixed; inset:0; pointer-events:none; z-index:50;}
+
+  .toast{
+    position:fixed; bottom:26px; left:50%; transform:translateX(-50%) translateY(20px);
+    background:#151a36; border:1px solid #ffffff22; color:var(--ink);
+    padding:10px 18px; border-radius:999px; font-size:.85rem; font-weight:600;
+    opacity:0; transition:opacity .25s ease, transform .25s ease; z-index:60; pointer-events:none;
+    box-shadow:var(--shadow);
+  }
+  .toast.show{opacity:1; transform:translateX(-50%) translateY(0);}
+
+  ::-webkit-scrollbar{width:0;height:0;}
+
+  @media (max-width:380px){
+    .rule-card span{font-size:.6rem;}
+    .hero h1{font-size:1.3rem;}
+  }
+</style>
+</head>
+<body>
+<div id="app">
+
+  <!-- LOADER -->
+  <section id="loader" class="screen active">
+    <div class="logo-orb"></div>
+    <div class="loader-title">Star Realm</div>
+    <div class="loader-sub">Charting the constellations…</div>
+    <div class="loader-bar"><div id="loader-fill"></div></div>
+  </section>
+
+  <!-- LANDING -->
+  <section id="landing" class="screen">
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 48 48" fill="none">
+        <defs>
+          <linearGradient id="gBrand" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#ffb454"/>
+            <stop offset="1" stop-color="#5eead4"/>
+          </linearGradient>
+        </defs>
+        <circle cx="24" cy="24" r="22" fill="#171c3a" stroke="url(#gBrand)" stroke-width="2"/>
+        <path d="M24 10 L27.5 20.5 L38 24 L27.5 27.5 L24 38 L20.5 27.5 L10 24 L20.5 20.5 Z" fill="url(#gBrand)"/>
+      </svg>
+      <div>
+        <div class="brand-name">Star Realm</div>
+        <div class="brand-tag">a region logic puzzle</div>
+      </div>
+    </div>
+
+    <div class="hero">
+      <h1>One star. Every row, column &amp; realm.</h1>
+      <p>Place a star in every row, column and colored region — no two stars may touch, not even diagonally. Pure logic, no luck.</p>
+      <button class="btn btn-primary btn-block" id="btn-continue">Continue Journey</button>
+    </div>
+
+    <div class="section-title">
+      <span>Realms</span>
+      <span class="stat-pill" id="progress-pill">0 / 60 solved</span>
+    </div>
+    <div class="level-grid" id="level-grid"></div>
+  </section>
+
+  <!-- GAME -->
+  <section id="game" class="screen">
+    <div class="topbar">
+      <div class="icon-btn" id="btn-back">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+      </div>
+      <div class="topbar-mid">
+        <div class="lbl">Realm</div>
+        <div class="val" id="hud-level">1</div>
+      </div>
+      <div class="icon-btn" id="btn-restart">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg>
+      </div>
+    </div>
+
+    <div class="legend-row" id="legend-row"></div>
+
+    <div class="rules-row">
+      <div class="rule-card">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--accent-2)" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M12 3v18M3 12h18"/></svg>
+        <span>1 star per realm color</span>
+      </div>
+      <div class="rule-card">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2"><path d="M4 4h16M4 12h16M4 20h16"/><circle cx="8" cy="4" r="1.6" fill="var(--accent)"/><circle cx="16" cy="12" r="1.6" fill="var(--accent)"/><circle cx="8" cy="20" r="1.6" fill="var(--accent)"/></svg>
+        <span>1 star per row &amp; column</span>
+      </div>
+      <div class="rule-card">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--danger)" stroke-width="2"><circle cx="8" cy="8" r="3"/><circle cx="17" cy="17" r="3"/><path d="M10.3 10.3l4.4 4.4" stroke-dasharray="3 3"/></svg>
+        <span>Stars can't touch</span>
+      </div>
+    </div>
+
+    <div class="board-wrap"><div class="board" id="board"></div></div>
+
+    <div class="bottombar">
+      <div class="counter" id="btn-hint">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round"><path d="M9 18h6"/><path d="M10 22h4"/><path d="M12 2a6 6 0 0 0-4 10.5c.6.6 1 1.4 1 2.5h6c0-1.1.4-1.9 1-2.5A6 6 0 0 0 12 2z"/></svg>
+        <span class="n" id="hint-count">3</span>
+      </div>
+      <div class="counter" id="wish-display">
+        <svg viewBox="0 0 24 24" fill="var(--accent-2)"><path d="M12 2l2.2 6.8H21l-5.6 4.1L17.6 20 12 15.9 6.4 20l2.2-7.1L3 8.8h6.8z"/></svg>
+        <span class="n" id="score-count">0</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- WIN -->
+  <section id="win" class="screen">
+    <div class="win-card">
+      <svg class="medal" viewBox="0 0 48 48" fill="none">
+        <circle cx="24" cy="20" r="14" fill="#ffb454" stroke="#241205" stroke-width="1.5"/>
+        <path d="M24 12 L26.6 18 L33 18.6 L28.2 23 L29.6 29.4 L24 26 L18.4 29.4 L19.8 23 L15 18.6 L21.4 18 Z" fill="#fff4e2"/>
+        <path d="M16 30 L11 45 L24 39 L37 45 L32 30" fill="#5eead4" stroke="#0c1024" stroke-width="1"/>
+      </svg>
+      <h2>Realm Cleared!</h2>
+      <p id="win-sub">Every star found its place.</p>
+      <div class="win-stats">
+        <div><div class="n" id="win-moves">0</div><div class="l">Moves</div></div>
+        <div><div class="n" id="win-time">0:00</div><div class="l">Time</div></div>
+        <div><div class="n" id="win-score">+0</div><div class="l">Score</div></div>
+      </div>
+      <div class="win-actions">
+        <button class="btn btn-primary btn-block" id="btn-next">Next Realm →</button>
+        <button class="btn btn-ghost btn-block" id="btn-win-home">Back to Map</button>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<canvas id="confetti-canvas"></canvas>
+<div class="toast" id="toast"></div>
+
+<script>
+(function(){
+"use strict";
+
+/* =========================================================
+   CONSTANTS
+========================================================= */
+const TOTAL_LEVELS = 60;
+const REGION_PALETTE = [
+  "#ff8a5b","#5eead4","#9b8cff","#ffd166","#ff6b9d",
+  "#7dd3fc","#c4b5fd","#86efac","#fca5a5","#fbbf24"
+];
+const STORAGE_KEY = "starRealmSave_v1";
+
+/* =========================================================
+   SEEDED RNG (mulberry32)
+========================================================= */
+function makeRng(seed){
+  let a = seed >>> 0;
+  return function(){
+    a |= 0; a = (a + 0x6D2B79F5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+function shuffle(arr, rng){
+  const a = arr.slice();
+  for(let i=a.length-1;i>0;i--){
+    const j = Math.floor(rng()*(i+1));
+    [a[i],a[j]] = [a[j],a[i]];
+  }
+  return a;
+}
+
+/* =========================================================
+   LEVEL GENERATOR
+   - pick N (board size) from level number
+   - backtracking to find a valid "one per row/col, no touch" solution
+   - grow N regions (flood fill) from each solution cell, one region
+     containing exactly one solution star, until grid fully covered
+   - verify uniqueness with a full solver; retry region growth (or
+     resolve the solution) a bounded number of times
+========================================================= */
+function sizeForLevel(lvl){
+  // 5 -> 8x8 roughly, ramps from 5 to 10
+  if(lvl <= 6) return 5;
+  if(lvl <= 14) return 6;
+  if(lvl <= 24) return 7;
+  if(lvl <= 36) return 8;
+  if(lvl <= 50) return 9;
+  return 10;
+}
+
+function isSafe(rows, r, c){
+  for(let i=0;i<r;i++){
+    const rc = rows[i];
+    if(rc === c) return false;
+    if(Math.abs(rc-c) <= 1) return false; // adjacent columns forbidden only for consecutive rows (diagonal/touch)
+  }
+  return true;
+}
+
+function generateSolution(n, rng){
+  // backtracking placement, one star per row, distinct columns, no
+  // touching between consecutive rows (adjacency check handles diagonal
+  // + orthogonal touch since only same/adjacent row matters for touch)
+  const rows = new Array(n).fill(-1);
+  const colOrder = [];
+  for(let i=0;i<n;i++) colOrder.push(shuffle([...Array(n).keys()], rng));
+
+  function backtrack(r){
+    if(r === n) return true;
+    for(const c of colOrder[r]){
+      if(rows.slice(0,r).includes(c)) continue;
+      if(r>0 && Math.abs(rows[r-1]-c) <= 1) continue;
+      rows[r] = c;
+      if(backtrack(r+1)) return true;
+      rows[r] = -1;
+    }
+    return false;
+  }
+  if(!backtrack(0)) return null;
+  return rows.map((c,r)=>({r,c}));
+}
+
+function growRegions(n, solutionCells, rng){
+  // region id per cell, -1 = unassigned
+  const grid = Array.from({length:n}, ()=> new Array(n).fill(-1));
+  const frontiers = solutionCells.map(cell => [cell]);
+  solutionCells.forEach((cell,idx)=> grid[cell.r][cell.c] = idx);
+
+  let remaining = n*n - solutionCells.length;
+  const dirs = [[-1,0],[1,0],[0,-1],[0,1]];
+  const rowDirs = [[-1,0],[1,0]];
+  const colDirs = [[0,-1],[0,1]];
+  // give each region an axis bias: growing mostly along one row/column
+  // makes "region confined to a line" deductions common, which keeps
+  // puzzles solvable step-by-step instead of needing a guess.
+  const axisBias = solutionCells.map(()=> rng() < 0.5 ? "row" : "col");
+
+  while(remaining > 0){
+    const order = shuffle([...Array(n).keys()], rng);
+    let progressed = false;
+    for(const regionIdx of order){
+      const frontier = frontiers[regionIdx];
+      if(frontier.length === 0) continue;
+      // pick a random cell from frontier, try to expand to an unassigned neighbor
+      const shuffledFrontier = shuffle(frontier, rng);
+      let expanded = false;
+      for(const cell of shuffledFrontier){
+        const biased = axisBias[regionIdx] === "row" ? rowDirs : colDirs;
+        const other = axisBias[regionIdx] === "row" ? colDirs : rowDirs;
+        const neigh = rng() < 0.72
+          ? shuffle(biased, rng).concat(shuffle(other, rng))
+          : shuffle(dirs, rng);
+        for(const [dr,dc] of neigh){
+          const nr = cell.r+dr, nc = cell.c+dc;
+          if(nr<0||nr>=n||nc<0||nc>=n) continue;
+          if(grid[nr][nc] !== -1) continue;
+          grid[nr][nc] = regionIdx;
+          frontiers[regionIdx].push({r:nr,c:nc});
+          remaining--;
+          progressed = true;
+          expanded = true;
+          break;
+        }
+        if(expanded) break;
+      }
+      if(!expanded){
+        // frontier cell has no free neighbors; drop it from frontier list
+        frontiers[regionIdx] = frontier.filter(fc => {
+          return dirs.some(([dr,dc])=>{
+            const nr=fc.r+dr, nc=fc.c+dc;
+            return nr>=0&&nr<n&&nc>=0&&nc<n&&grid[nr][nc]===-1;
+          });
+        });
+      }
+    }
+    if(!progressed){
+      // stuck (shouldn't normally happen since grid is fully connected) — assign
+      // remaining cells to nearest region arbitrarily to guarantee completion
+      for(let r=0;r<n;r++) for(let c=0;c<n;c++){
+        if(grid[r][c] === -1){
+          // find any adjacent assigned cell
+          for(const [dr,dc] of dirs){
+            const nr=r+dr, nc=c+dc;
+            if(nr>=0&&nr<n&&nc>=0&&nc<n&&grid[nr][nc]!==-1){
+              grid[r][c] = grid[nr][nc];
+              frontiers[grid[r][c]].push({r,c});
+              remaining--;
+              break;
+            }
+          }
+        }
+      }
+      if(remaining>0){
+        // absolute fallback: nearest solution cell by manhattan distance
+        for(let r=0;r<n;r++) for(let c=0;c<n;c++){
+          if(grid[r][c]===-1){
+            let best=0, bestD=Infinity;
+            solutionCells.forEach((sc,idx)=>{
+              const d=Math.abs(sc.r-r)+Math.abs(sc.c-c);
+              if(d<bestD){bestD=d;best=idx;}
+            });
+            grid[r][c]=best;
+            remaining--;
+          }
+        }
+      }
+    }
+  }
+  return grid;
+}
+
+/* Solver: counts solutions (capped at 2) for uniqueness check.
+   Constraints: exactly one star per row, column, region; no touching. */
+function countSolutions(n, regionGrid, cap){
+  let count = 0;
+  const colUsed = new Array(n).fill(false);
+  const regionUsed = new Array(n).fill(false);
+  const placedCols = new Array(n).fill(-1);
+
+  function backtrack(r){
+    if(count >= cap) return;
+    if(r === n){ count++; return; }
+    for(let c=0;c<n;c++){
+      if(colUsed[c]) continue;
+      const reg = regionGrid[r][c];
+      if(regionUsed[reg]) continue;
+      if(r>0 && placedCols[r-1] !== -1 && Math.abs(placedCols[r-1]-c) <= 1) continue;
+      colUsed[c]=true; regionUsed[reg]=true; placedCols[r]=c;
+      backtrack(r+1);
+      colUsed[c]=false; regionUsed[reg]=false; placedCols[r]=-1;
+      if(count >= cap) return;
+    }
+  }
+  backtrack(0);
+  return count;
+}
+
+/* =========================================================
+   HUMAN-LOGIC SOLVER
+   Solves a board using only the same deduction chain a player can
+   follow by eye — never a guess/backtrack. A level is only accepted
+   if this solver can fully place every star on its own:
+     1. Singleton region / row / column -> that cell must be a star
+        (e.g. a region reduced to one cell is forced).
+     2. Placing a star eliminates its row, column, region and all
+        8 touching neighbors as candidates.
+     3. Pointing/claiming: if a region's remaining candidates all sit
+        in one row or column, the rest of that row/column outside the
+        region is eliminated (and the symmetric case: a row/column's
+        remaining candidates all sit in one region).
+   Rules are re-applied to a fixed point; if a contradiction or stall
+   is hit before every star is placed, the puzzle is rejected and the
+   generator tries a different region layout.
+========================================================= */
+function combinations(arr, k){
+  const out = [];
+  const combo = [];
+  function go(start){
+    if(combo.length === k){ out.push(combo.slice()); return; }
+    for(let i=start;i<arr.length;i++){
+      combo.push(arr[i]);
+      go(i+1);
+      combo.pop();
+    }
+  }
+  go(0);
+  return out;
+}
+
+function humanSolvable(n, regionGrid, maxKOverride){
+  const candidates = Array.from({length:n}, ()=> new Array(n).fill(true));
+  const rowStar = new Array(n).fill(-1);
+  const colStar = new Array(n).fill(-1);
+  const regionSolved = new Array(n).fill(false);
+  const placed = [];
+  const maxK = maxKOverride || Math.min(3, n-1);
+
+  const regionCellsAll = Array.from({length:n}, ()=>[]);
+  for(let r=0;r<n;r++) for(let c=0;c<n;c++) regionCellsAll[regionGrid[r][c]].push({r,c});
+
+  function cellsOfRegion(reg){
+    const cells=[];
+    for(let r=0;r<n;r++) for(let c=0;c<n;c++) if(regionGrid[r][c]===reg && candidates[r][c]) cells.push({r,c});
+    return cells;
+  }
+  function cellsOfRow(r){
+    const cells=[];
+    for(let c=0;c<n;c++) if(candidates[r][c]) cells.push({r,c});
+    return cells;
+  }
+  function cellsOfCol(c){
+    const cells=[];
+    for(let r=0;r<n;r++) if(candidates[r][c]) cells.push({r,c});
+    return cells;
+  }
+  function eliminate(r,c){
+    if(candidates[r][c]){ candidates[r][c]=false; return true; }
+    return false;
+  }
+  function placeStar(r,c,reason){
+    rowStar[r]=c; colStar[c]=r;
+    regionSolved[regionGrid[r][c]]=true;
+    placed.push({r,c,reason});
+    candidates[r][c]=false;
+    let touched=false;
+    for(let cc=0;cc<n;cc++) if(cc!==c && eliminate(r,cc)) touched=true;
+    for(let rr=0;rr<n;rr++) if(rr!==r && eliminate(rr,c)) touched=true;
+    const reg = regionGrid[r][c];
+    for(let rr=0;rr<n;rr++) for(let cc=0;cc<n;cc++){
+      if(regionGrid[rr][cc]===reg && !(rr===r&&cc===c) && eliminate(rr,cc)) touched=true;
+    }
+    for(let dr=-1;dr<=1;dr++) for(let dc=-1;dc<=1;dc++){
+      if(dr===0&&dc===0) continue;
+      const nr=r+dr, nc=c+dc;
+      if(nr>=0&&nr<n&&nc>=0&&nc<n && eliminate(nr,nc)) touched=true;
+    }
+    return touched;
+  }
+
+  let guard=0, progress=true;
+  while(progress && placed.length<n && guard<400){
+    progress=false; guard++;
+
+    for(let reg=0; reg<n; reg++){
+      if(regionSolved[reg]) continue;
+      const cells = cellsOfRegion(reg);
+      if(cells.length===0) return null; // contradiction: unsolvable by logic
+      if(cells.length===1){ placeStar(cells[0].r, cells[0].c, "This color region is down to one open cell — it must hold the star."); progress=true; }
+    }
+    if(placed.length===n) break;
+
+    for(let r=0;r<n;r++){
+      if(rowStar[r]!==-1) continue;
+      const cells = cellsOfRow(r);
+      if(cells.length===0) return null;
+      if(cells.length===1){ placeStar(cells[0].r, cells[0].c, "This row is down to one open cell — it must hold the star."); progress=true; }
+    }
+    if(placed.length===n) break;
+
+    for(let c=0;c<n;c++){
+      if(colStar[c]!==-1) continue;
+      const cells = cellsOfCol(c);
+      if(cells.length===0) return null;
+      if(cells.length===1){ placeStar(cells[0].r, cells[0].c, "This column is down to one open cell — it must hold the star."); progress=true; }
+    }
+    if(placed.length===n) break;
+
+    // Generalized pointing/claiming (a K-region "hidden group"): if K
+    // not-yet-solved regions' remaining candidates all sit inside exactly
+    // K rows (or K columns) between them, those rows/columns can't hold a
+    // star from any other region, since these K regions must place all K
+    // of their stars in only those K lines. K=1 is the simple pointing
+    // case above; K=2/3 catches the same idea for pairs/triples of
+    // regions that share the rows or columns they're squeezed into.
+    // The mirrored case (K rows/columns confined to K regions) is applied
+    // symmetrically right after.
+    const openRegions = [];
+    for(let reg=0; reg<n; reg++) if(!regionSolved[reg] && cellsOfRegion(reg).length>0) openRegions.push(reg);
+    for(let k=1;k<=Math.min(maxK, openRegions.length);k++){
+      for(const combo of combinations(openRegions, k)){
+        const cellLists = combo.map(reg=>cellsOfRegion(reg));
+        const comboSet = new Set(combo);
+
+        const rows = new Set();
+        cellLists.forEach(cells=>cells.forEach(c=>rows.add(c.r)));
+        if(rows.size===k){
+          rows.forEach(r=>{
+            for(let cc=0;cc<n;cc++) if(!comboSet.has(regionGrid[r][cc]) && eliminate(r,cc)) progress=true;
+          });
+        }
+
+        const cols = new Set();
+        cellLists.forEach(cells=>cells.forEach(c=>cols.add(c.c)));
+        if(cols.size===k){
+          cols.forEach(c=>{
+            for(let rr=0;rr<n;rr++) if(!comboSet.has(regionGrid[rr][c]) && eliminate(rr,c)) progress=true;
+          });
+        }
+      }
+    }
+
+    // mirrored: K open rows (or columns) whose remaining candidates all
+    // sit inside exactly K regions -> those regions can't hold a star
+    // from any other row/column.
+    const openRows = []; for(let r=0;r<n;r++) if(rowStar[r]===-1 && cellsOfRow(r).length>0) openRows.push(r);
+    for(let k=1;k<=Math.min(maxK, openRows.length);k++){
+      for(const combo of combinations(openRows, k)){
+        const cellLists = combo.map(r=>cellsOfRow(r));
+        const comboSet = new Set(combo);
+        const regs = new Set();
+        cellLists.forEach(cells=>cells.forEach(c=>regs.add(regionGrid[c.r][c.c])));
+        if(regs.size===k){
+          regs.forEach(reg=>{
+            regionCellsAll[reg].forEach(({r:rr,c:cc})=>{
+              if(!comboSet.has(rr) && eliminate(rr,cc)) progress=true;
+            });
+          });
+        }
+      }
+    }
+    const openCols = []; for(let c=0;c<n;c++) if(colStar[c]===-1 && cellsOfCol(c).length>0) openCols.push(c);
+    for(let k=1;k<=Math.min(maxK, openCols.length);k++){
+      for(const combo of combinations(openCols, k)){
+        const cellLists = combo.map(c=>cellsOfCol(c));
+        const comboSet = new Set(combo);
+        const regs = new Set();
+        cellLists.forEach(cells=>cells.forEach(cell=>regs.add(regionGrid[cell.r][cell.c])));
+        if(regs.size===k){
+          regs.forEach(reg=>{
+            regionCellsAll[reg].forEach(({r:rr,c:cc})=>{
+              if(!comboSet.has(cc) && eliminate(rr,cc)) progress=true;
+            });
+          });
+        }
+      }
+    }
+
+    // Contradiction check ("if a star went here, some other region/row/
+    // column would be left with nowhere to go, so it can't go here"):
+    // only reached once the pattern rules above stall, so it's the last
+    // resort, not a guess — every elimination it makes is still forced.
+    if(!progress){
+      for(let r=0;r<n && !progress;r++){
+        if(rowStar[r]!==-1) continue;
+        for(let c=0;c<n;c++){
+          if(!candidates[r][c]) continue;
+          const reg = regionGrid[r][c];
+          const wiped = new Set();
+          for(let cc=0;cc<n;cc++) if(cc!==c) wiped.add(r+","+cc);
+          for(let rr=0;rr<n;rr++) if(rr!==r) wiped.add(rr+","+c);
+          for(const cell of regionCellsAll[reg]) if(!(cell.r===r&&cell.c===c)) wiped.add(cell.r+","+cell.c);
+          for(let dr=-1;dr<=1;dr++) for(let dc=-1;dc<=1;dc++){
+            if(dr===0&&dc===0) continue;
+            const nr=r+dr, nc=c+dc;
+            if(nr>=0&&nr<n&&nc>=0&&nc<n) wiped.add(nr+","+nc);
+          }
+          let contradiction=false;
+          for(let reg2=0; reg2<n && !contradiction; reg2++){
+            if(reg2===reg || regionSolved[reg2]) continue;
+            let remain=0;
+            for(const cell of regionCellsAll[reg2]) if(candidates[cell.r][cell.c] && !wiped.has(cell.r+","+cell.c)) remain++;
+            if(remain===0) contradiction=true;
+          }
+          for(let rr=0; rr<n && !contradiction; rr++){
+            if(rr===r || rowStar[rr]!==-1) continue;
+            let remain=0;
+            for(let cc=0;cc<n;cc++) if(candidates[rr][cc] && !wiped.has(rr+","+cc)) remain++;
+            if(remain===0) contradiction=true;
+          }
+          for(let cc=0; cc<n && !contradiction; cc++){
+            if(cc===c || colStar[cc]!==-1) continue;
+            let remain=0;
+            for(let rr=0;rr<n;rr++) if(candidates[rr][cc] && !wiped.has(rr+","+cc)) remain++;
+            if(remain===0) contradiction=true;
+          }
+          if(contradiction && eliminate(r,c)){ progress=true; break; }
+        }
+      }
+    }
+  }
+
+  return placed.length===n ? placed : null;
+}
+
+const levelCache = {};
+function getLevel(lvl){
+  if(levelCache[lvl]) return levelCache[lvl];
+  const n = sizeForLevel(lvl);
+  const seed = lvl * 104729 + 17;
+  let attempt = 0;
+  let result = null;
+
+  while(!result && attempt < 120){
+    const rng = makeRng(seed + attempt*7919);
+    const solution = generateSolution(n, rng);
+    attempt++;
+    if(!solution) continue;
+    let regionGrid = null;
+    for(let g=0; g<50; g++){
+      const candidate = growRegions(n, solution, makeRng(seed + attempt*104729 + g*31));
+      // human-logic solvability implies a unique solution too, since every
+      // placement in the chain is forced rather than guessed
+      const deduced = humanSolvable(n, candidate);
+      if(deduced && deduced.length===n){ regionGrid = candidate; result = { n, regionGrid, solution, deducedOrder:deduced }; break; }
+    }
+  }
+  if(!result){
+    // defensive fallback (should be effectively unreachable given the
+    // retry budget above): fall back to a uniqueness-only check so the
+    // game never hard-fails to produce a level
+    for(let attempt2=0; attempt2<40 && !result; attempt2++){
+      const rng = makeRng(seed + 999983 + attempt2*7919);
+      const solution = generateSolution(n, rng);
+      if(!solution) continue;
+      for(let g=0; g<10; g++){
+        const candidate = growRegions(n, solution, makeRng(seed + attempt2*104729 + g*31));
+        if(countSolutions(n, candidate, 2) === 1){ result = { n, regionGrid:candidate, solution }; break; }
+      }
+    }
+  }
+  if(!result){
+    const rng = makeRng(seed);
+    const solution = generateSolution(n, rng) || [{r:0,c:0}];
+    const regionGrid = growRegions(n, solution, rng);
+    result = { n, regionGrid, solution };
+  }
+  levelCache[lvl] = result;
+  return result;
+}
+
+/* =========================================================
+   PERSISTENCE
+========================================================= */
+function loadSave(){
+  try{
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if(raw) return JSON.parse(raw);
+  }catch(e){}
+  return { unlocked:1, solved:{}, hints:3, score:0 };
+}
+function persistSave(){
+  try{ localStorage.setItem(STORAGE_KEY, JSON.stringify(save)); }catch(e){}
+}
+let save = loadSave();
+
+/* =========================================================
+   GAME STATE
+========================================================= */
+let state = null; // current level runtime state
+
+function newGameState(lvl){
+  const level = getLevel(lvl);
+  const n = level.n;
+  return {
+    lvl, n,
+    regionGrid: level.regionGrid,
+    solutionSet: new Set(level.solution.map(s=>`${s.r},${s.c}`)),
+    deducedOrder: level.deducedOrder || null,
+    cellState: Array.from({length:n}, ()=> new Array(n).fill(0)), // 0 empty,1 X,2 piece
+    moves:0,
+    startTime: Date.now(),
+    hintsUsedThisLevel:0,
+    won:false
+  };
+}
+
+/* =========================================================
+   DOM REFS
+========================================================= */
+const $ = sel => document.querySelector(sel);
+const screens = {
+  loader: $("#loader"), landing:$("#landing"), game:$("#game"), win:$("#win")
+};
+function showScreen(name){
+  Object.values(screens).forEach(s=>s.classList.remove("active"));
+  screens[name].classList.add("active");
+}
+
+/* =========================================================
+   SVG helpers
+========================================================= */
+function starSvg(color, extraAttrs){
+  return `<svg viewBox="0 0 24 24" ${extraAttrs||""}><path d="M12 2.5l2.9 6.6 7.2.7-5.5 4.8 1.7 7-6.3-3.8-6.3 3.8 1.7-7-5.5-4.8 7.2-.7z" fill="${color}"/></svg>`;
+}
+function xMarkSvg(){
+  return `<svg viewBox="0 0 24 24" fill="none" stroke="#dfe3ff" stroke-width="3.2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>`;
+}
+
+/* =========================================================
+   BOARD RENDER
+========================================================= */
+function renderLegend(){
+  const row = $("#legend-row");
+  row.innerHTML = "";
+  for(let i=0;i<state.n;i++){
+    const chip = document.createElement("div");
+    chip.className = "legend-chip";
+    chip.style.background = REGION_PALETTE[i % REGION_PALETTE.length];
+    row.appendChild(chip);
+  }
+  const pieceChip = document.createElement("div");
+  pieceChip.className = "legend-chip piece";
+  pieceChip.innerHTML = starSvg("var(--ink)");
+  row.appendChild(pieceChip);
+}
+
+function renderBoard(){
+  const board = $("#board");
+  board.innerHTML = "";
+  board.style.gridTemplateColumns = `repeat(${state.n}, 1fr)`;
+  board.style.gridTemplateRows = `repeat(${state.n}, 1fr)`;
+
+  for(let r=0;r<state.n;r++){
+    for(let c=0;c<state.n;c++){
+      const cell = document.createElement("div");
+      cell.className = "cell";
+      cell.dataset.r = r; cell.dataset.c = c;
+      const reg = state.regionGrid[r][c];
+      cell.style.background = REGION_PALETTE[reg % REGION_PALETTE.length] + "cc";
+
+      // region border thickening where neighbor region differs
+      if(r===0 || state.regionGrid[r-1][c] !== reg) cell.classList.add("edge-t");
+      if(r===state.n-1 || state.regionGrid[r+1][c] !== reg) cell.classList.add("edge-b");
+      if(c===0 || state.regionGrid[r][c-1] !== reg) cell.classList.add("edge-l");
+      if(c===state.n-1 || state.regionGrid[r][c+1] !== reg) cell.classList.add("edge-r");
+
+      const mark = document.createElement("div");
+      mark.className = "mark";
+      mark.innerHTML = xMarkSvg();
+      const piece = document.createElement("div");
+      piece.className = "piece";
+      piece.innerHTML = starSvg("#fffdf7");
+
+      cell.appendChild(mark);
+      cell.appendChild(piece);
+      board.appendChild(cell);
+
+      attachCellHandlers(cell);
+    }
+  }
+  syncCellVisuals();
+}
+
+function syncCellVisuals(){
+  const board = $("#board");
+  board.querySelectorAll(".cell").forEach(cell=>{
+    const r = +cell.dataset.r, c = +cell.dataset.c;
+    const v = state.cellState[r][c];
+    cell.querySelector(".mark").classList.toggle("show", v===1);
+    cell.querySelector(".piece").classList.toggle("show", v===2);
+    cell.classList.remove("bad");
+  });
+  highlightViolations();
+}
+
+/* =========================================================
+   INTERACTION — single tap cycles to X, double tap places a piece
+========================================================= */
+function attachCellHandlers(cell){
+  let tapTimer = null;
+  let lastTap = 0;
+
+  function singleAction(){
+    const r = +cell.dataset.r, c = +cell.dataset.c;
+    const cur = state.cellState[r][c];
+    setCell(r,c, cur===1 ? 0 : 1);
+  }
+  function doubleAction(){
+    const r = +cell.dataset.r, c = +cell.dataset.c;
+    const cur = state.cellState[r][c];
+    setCell(r,c, cur===2 ? 0 : 2);
+  }
+
+  cell.addEventListener("click", (e)=>{
+    if(state.won) return;
+    const now = Date.now();
+    if(now - lastTap < 300){
+      clearTimeout(tapTimer);
+      lastTap = 0;
+      doubleAction();
+    } else {
+      lastTap = now;
+      tapTimer = setTimeout(()=>{ singleAction(); }, 260);
+    }
+  });
+
+  cell.addEventListener("dblclick", (e)=>{
+    e.preventDefault();
+  });
+}
+
+function setCell(r,c,val){
+  state.cellState[r][c] = val;
+  state.moves++;
+  const cell = $(`.cell[data-r="${r}"][data-c="${c}"]`);
+  cell.querySelector(".mark").classList.toggle("show", val===1);
+  cell.querySelector(".piece").classList.toggle("show", val===2);
+  highlightViolations();
+  checkWin();
+}
+
+function highlightViolations(){
+  const n = state.n;
+  document.querySelectorAll(".cell").forEach(c=>c.classList.remove("bad"));
+  const pieces = [];
+  for(let r=0;r<n;r++) for(let c=0;c<n;c++) if(state.cellState[r][c]===2) pieces.push({r,c});
+
+  const bad = new Set();
+  for(let i=0;i<pieces.length;i++){
+    for(let j=0;j<pieces.length;j++){
+      if(i===j) continue;
+      const a=pieces[i], b=pieces[j];
+      const sameRow = a.r===b.r;
+      const sameCol = a.c===b.c;
+      const sameRegion = state.regionGrid[a.r][a.c] === state.regionGrid[b.r][b.c];
+      const touching = Math.abs(a.r-b.r)<=1 && Math.abs(a.c-b.c)<=1;
+      if(sameRow || sameCol || sameRegion || touching){
+        bad.add(`${a.r},${a.c}`); bad.add(`${b.r},${b.c}`);
+      }
+    }
+  }
+  bad.forEach(key=>{
+    const [r,c] = key.split(",");
+    const el = $(`.cell[data-r="${r}"][data-c="${c}"]`);
+    if(el) el.classList.add("bad");
+  });
+}
+
+function checkWin(){
+  const n = state.n;
+  let pieceCount = 0;
+  let allCorrect = true;
+  for(let r=0;r<n;r++) for(let c=0;c<n;c++){
+    if(state.cellState[r][c]===2){
+      pieceCount++;
+      if(!state.solutionSet.has(`${r},${c}`)) allCorrect = false;
+    }
+  }
+  if(pieceCount === n && allCorrect){
+    state.won = true;
+    onWin();
+  }
+}
+
+/* =========================================================
+   HINT
+========================================================= */
+function useHint(){
+  if(save.hints <= 0){ showToast("No hints left"); return; }
+
+  // walk the same deduction chain the generator verified: the first
+  // step whose star isn't on the board yet is the next logical move,
+  // so the hint can explain *why* that cell is forced.
+  let pick = null, reason = null;
+  if(state.deducedOrder){
+    for(const step of state.deducedOrder){
+      if(state.cellState[step.r][step.c] !== 2){ pick = step; reason = step.reason; break; }
+    }
+  }
+  if(!pick){
+    const candidates = [];
+    state.solutionSet.forEach(key=>{
+      const [r,c] = key.split(",").map(Number);
+      if(state.cellState[r][c] !== 2) candidates.push({r,c});
+    });
+    if(candidates.length === 0){ showToast("Already solved!"); return; }
+    pick = candidates[Math.floor(Math.random()*candidates.length)];
+  }
+
+  save.hints--;
+  persistSave();
+  $("#hint-count").textContent = save.hints;
+  setCell(pick.r, pick.c, 2);
+  const cellEl = $(`.cell[data-r="${pick.r}"][data-c="${pick.c}"]`);
+  cellEl.classList.add("hint-flash");
+  setTimeout(()=>cellEl.classList.remove("hint-flash"), 1000);
+  showToast(reason || "This cell must hold the star.");
+}
+
+/* =========================================================
+   WIN FLOW
+========================================================= */
+function onWin(){
+  const elapsed = Math.round((Date.now()-state.startTime)/1000);
+  const mm = Math.floor(elapsed/60), ss = elapsed%60;
+  const gained = Math.max(20, 100 - state.moves*2 - elapsed);
+
+  save.solved[state.lvl] = Math.max(save.solved[state.lvl]||0, gained);
+  save.unlocked = Math.max(save.unlocked, state.lvl+1);
+  save.score = Object.values(save.solved).reduce((a,b)=>a+b,0);
+  persistSave();
+
+  $("#win-moves").textContent = state.moves;
+  $("#win-time").textContent = `${mm}:${ss.toString().padStart(2,"0")}`;
+  $("#win-score").textContent = `+${gained}`;
+  $("#score-count").textContent = save.score;
+
+  setTimeout(()=>{
+    showScreen("win");
+    burstConfetti();
+  }, 380);
+}
+
+/* =========================================================
+   CONFETTI
+========================================================= */
+const confettiCanvas = $("#confetti-canvas");
+const ctx = confettiCanvas.getContext("2d");
+function resizeCanvas(){
+  confettiCanvas.width = window.innerWidth;
+  confettiCanvas.height = window.innerHeight;
+}
+window.addEventListener("resize", resizeCanvas);
+resizeCanvas();
+
+function burstConfetti(){
+  const colors = ["#ffb454","#5eead4","#9b8cff","#ff6b9d","#86efac"];
+  const particles = [];
+  const W = confettiCanvas.width, H = confettiCanvas.height;
+  for(let i=0;i<140;i++){
+    particles.push({
+      x: W/2 + (Math.random()-0.5)*80,
+      y: H*0.32,
+      vx: (Math.random()-0.5)*9,
+      vy: -Math.random()*9 - 3,
+      size: 4 + Math.random()*5,
+      color: colors[Math.floor(Math.random()*colors.length)],
+      rot: Math.random()*Math.PI*2,
+      vr: (Math.random()-0.5)*0.3,
+      life: 0
+    });
+  }
+  let running = true;
+  function frame(){
+    if(!running) return;
+    ctx.clearRect(0,0,W,H);
+    let alive = false;
+    particles.forEach(p=>{
+      p.vy += 0.22;
+      p.x += p.vx; p.y += p.vy; p.rot += p.vr;
+      p.life++;
+      if(p.life < 130 && p.y < H+20){
+        alive = true;
+        ctx.save();
+        ctx.translate(p.x,p.y);
+        ctx.rotate(p.rot);
+        ctx.fillStyle = p.color;
+        ctx.fillRect(-p.size/2,-p.size/2,p.size,p.size*0.6);
+        ctx.restore();
+      }
+    });
+    if(alive) requestAnimationFrame(frame);
+    else { ctx.clearRect(0,0,W,H); running=false; }
+  }
+  requestAnimationFrame(frame);
+}
+
+/* =========================================================
+   TOAST
+========================================================= */
+let toastTimer=null;
+function showToast(msg){
+  const t = $("#toast");
+  t.textContent = msg;
+  t.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(()=>t.classList.remove("show"), 1800);
+}
+
+/* =========================================================
+   LEVEL MAP (landing)
+========================================================= */
+function renderLevelGrid(){
+  const grid = $("#level-grid");
+  grid.innerHTML = "";
+  let solvedCount = 0;
+  for(let lvl=1; lvl<=TOTAL_LEVELS; lvl++){
+    const card = document.createElement("div");
+    const solved = save.solved[lvl] !== undefined;
+    const locked = lvl > save.unlocked;
+    const isCurrent = lvl === save.unlocked && !solved;
+    if(solved) solvedCount++;
+    card.className = "level-card" + (locked?" locked":"") + (solved?" done":"") + (isCurrent?" current":"");
+    let starsHtml = "";
+    if(solved){
+      starsHtml = `<div class="stars">${starSvg("var(--accent)")}${starSvg("var(--accent)")}${starSvg("var(--accent)")}</div>`;
+    }
+    card.innerHTML = `<div class="num">${locked?"🔒":lvl}</div>${starsHtml}`;
+    if(!locked){
+      card.addEventListener("click", ()=> startLevel(lvl));
+    }
+    grid.appendChild(card);
+  }
+  $("#progress-pill").textContent = `${solvedCount} / ${TOTAL_LEVELS} solved`;
+}
+
+/* =========================================================
+   NAVIGATION
+========================================================= */
+function startLevel(lvl){
+  state = newGameState(lvl);
+  $("#hud-level").textContent = lvl;
+  $("#hint-count").textContent = save.hints;
+  $("#score-count").textContent = save.score;
+  renderLegend();
+  renderBoard();
+  showScreen("game");
+}
+
+function goHome(){
+  renderLevelGrid();
+  showScreen("landing");
+}
+
+/* =========================================================
+   EVENT WIRING
+========================================================= */
+$("#btn-continue").addEventListener("click", ()=> startLevel(Math.min(save.unlocked, TOTAL_LEVELS)));
+$("#btn-back").addEventListener("click", goHome);
+$("#btn-win-home").addEventListener("click", goHome);
+$("#btn-restart").addEventListener("click", ()=>{
+  state = newGameState(state.lvl);
+  renderBoard();
+});
+$("#btn-hint").addEventListener("click", useHint);
+$("#btn-next").addEventListener("click", ()=>{
+  const next = Math.min(state.lvl+1, TOTAL_LEVELS);
+  startLevel(next);
+});
+
+/* =========================================================
+   BOOT
+========================================================= */
+function boot(){
+  const fill = $("#loader-fill");
+  let pct = 0;
+  const iv = setInterval(()=>{
+    pct = Math.min(100, pct + 8 + Math.random()*10);
+    fill.style.width = pct+"%";
+    if(pct>=100){
+      clearInterval(iv);
+      setTimeout(()=>{
+        renderLevelGrid();
+        showScreen("landing");
+      }, 220);
+    }
+  }, 90);
+}
+document.addEventListener("DOMContentLoaded", boot);
+window.__srDebug = { getLevel, humanSolvable, countSolutions, growRegions, generateSolution, makeRng, sizeForLevel, levelCache };
+})();
+</script>
+</body>
+</html>

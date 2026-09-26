@@ -4,65 +4,72 @@
   "title": "2026-07-08",
   "words": [
     {
-      "clue": "A reference book containing words and their meanings",
+      "clue": "A book that tells you what words mean",
       "answer": "DICTIONARY",
-      "row": 4,
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A person who watches a sports event from the stands",
+      "clue": "A person watching a game from the stands",
       "answer": "SPECTATOR",
-      "row": 1,
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling very enthusiastic and eager about something",
+      "clue": "Feeling super eager about something fun",
       "answer": "EXCITED",
-      "row": 1,
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A vast, cold, treeless region where the ground is permanently frozen",
+      "clue": "A cold, flat land where the ground stays frozen",
       "answer": "TUNDRA",
-      "row": 2,
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The color created by mixing red and yellow, like a carrot",
+      "clue": "The color of a carrot; red mixed with yellow",
       "answer": "ORANGE",
-      "row": 6,
+      "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A machine that makes exact copies of documents on paper",
+      "clue": "A machine that makes copies of pages",
       "answer": "COPIER",
-      "row": 8,
+      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The smallest finger on your hand, located farthest from your thumb",
+      "clue": "The smallest finger on your hand",
       "answer": "PINKY",
-      "row": 0,
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A shape that has no straight edges or corners",
-      "answer": "ROUND",
+      "clue": "The shape you draw on a valentine card",
+      "answer": "HEART",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of win",
+      "answer": "LOSE",
       "row": 0,
-      "col": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A pale blue-green color, like water",
+      "clue": "A pale blue-green, like water",
       "answer": "AQUA",
-      "row": 6,
+      "row": 8,
       "col": 0,
       "direction": "across"
     }

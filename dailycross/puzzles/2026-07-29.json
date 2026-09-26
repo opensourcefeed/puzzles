@@ -4,60 +4,53 @@
   "title": "2026-07-29",
   "words": [
     {
-      "clue": "A person who watches a sports event from the stands",
+      "clue": "A person watching a game from the stands",
       "answer": "SPECTATOR",
-      "row": 4,
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A purple flower known for its calming, pleasant scent",
+      "clue": "A purple flower known for its calming smell",
       "answer": "LAVENDER",
-      "row": 3,
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A software application used to access and view websites",
+      "clue": "The program you use to visit websites",
       "answer": "BROWSER",
-      "row": 3,
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A low area of land between hills or mountains, often with a river",
+      "clue": "The low land between hills or mountains",
       "answer": "VALLEY",
-      "row": 6,
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A person who cuts hair for a living",
+      "clue": "A person who cuts hair, mostly for men",
       "answer": "BARBER",
-      "row": 5,
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of players who play together against another group",
+      "clue": "A group who play together against another group",
       "answer": "TEAM",
-      "row": 9,
+      "row": 6,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The action of moving through water by moving your arms and legs",
+      "clue": "To move through water using your arms and legs",
       "answer": "SWIM",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
+      "row": 1,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 47

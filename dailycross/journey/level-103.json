@@ -4,112 +4,119 @@
   "title": "Level 103",
   "words": [
     {
-      "clue": "The opposite of possible; not able to happen or exist",
+      "clue": "The opposite of possible",
       "answer": "IMPOSSIBLE",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Music written or printed on paper using musical notation",
+      "clue": "Music printed on paper with notes",
       "answer": "SHEETMUSIC",
       "row": 5,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Giving help and encouragement to others",
+      "clue": "Helping others and cheering them on",
       "answer": "SUPPORTIVE",
       "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The opposite of patient; unable to wait calmly",
+      "clue": "The opposite of patient",
       "answer": "IMPATIENT",
       "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A four-sided shape with one pair of parallel sides",
+      "clue": "A four-sided shape with just one pair of parallel sides",
       "answer": "TRAPEZOID",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person who directs the performance of an orchestra or choir",
+      "clue": "The person who stands in front and leads an orchestra",
       "answer": "CONDUCTOR",
       "row": 14,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
       "row": 2,
-      "col": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A purple flower known for its calming, pleasant scent",
-      "answer": "LAVENDER",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A four-wheeled vehicle pulled by a horse, used for carrying people",
+      "clue": "A cart pulled by a horse to carry people",
       "answer": "CARRIAGE",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An event when Earth's shadow falls on the Moon, darkening it",
+      "clue": "When the Moon or Sun is blocked and goes dark",
       "answer": "ECLIPSE",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
+      "row": 3,
+      "col": 0,
+      "direction": "down"
     },
     {
-      "clue": "A shiny, light gray color like the precious metal",
+      "clue": "An animal that swings from tree branches",
+      "answer": "MONKEY",
+      "row": 5,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A shiny light gray, like the metal",
       "answer": "SILVER",
       "row": 9,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A small string instrument played with a bow, held under the chin",
+      "clue": "A small string instrument played with a bow",
       "answer": "VIOLIN",
       "row": 11,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Sounds arranged in a way that is pleasant to listen to",
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Pleasant sounds put together for us to enjoy",
       "answer": "MUSIC",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
+      "row": 5,
+      "col": 8,
+      "direction": "across"
     },
     {
-      "clue": "A pinkish-orange color, like the marine animal",
+      "clue": "A pinkish-orange color",
       "answer": "CORAL",
-      "row": 4,
-      "col": 0,
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The end part of your arm with fingers and a thumb",
+      "clue": "The end of your arm with fingers and a thumb",
       "answer": "HAND",
       "row": 11,
       "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 16,
   "targetWords": 19,
   "difficulty": "hard"
 }

@@ -4,73 +4,59 @@
   "title": "2027-03-25",
   "words": [
     {
-      "clue": "A small electronic device used for mathematical calculations",
+      "clue": "A device that does math problems for you",
       "answer": "CALCULATOR",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat container with a handle, used with a broom to collect dirt",
-      "answer": "DUSTPAN",
       "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A software application used to access and view websites",
-      "answer": "BROWSER",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge collection of stars, gas, and dust held together by gravity",
-      "answer": "GALAXY",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A short, fast race run at top speed",
-      "answer": "SPRINT",
-      "row": 7,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A vegetable with an orange root that grows underground",
-      "answer": "CARROT",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who performs roles in plays, movies, or television",
-      "answer": "ACTOR",
-      "row": 5,
-      "col": 14,
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A small fruit with fuzzy brown skin and bright green flesh",
-      "answer": "KIWI",
-      "row": 4,
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 0,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge group of stars held together in space",
+      "answer": "GALAXY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A short race run as fast as you can",
+      "answer": "SPRINT",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An orange vegetable that grows underground",
+      "answer": "CARROT",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A fuzzy brown fruit that is bright green inside",
+      "answer": "KIWI",
+      "row": 3,
+      "col": 7,
       "direction": "across"
     }
   ],

@@ -4,73 +4,66 @@
   "title": "2026-08-26",
   "words": [
     {
-      "clue": "A woodwind instrument with a curved metal body and a reed mouthpiece",
+      "clue": "A curvy metal instrument played with a reed",
       "answer": "SAXOPHONE",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An electrical appliance for browning slices of bread",
+      "clue": "It browns your slices of bread",
       "answer": "TOASTER",
       "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, two-wheeled vehicle that you stand on and push with one foot",
-      "answer": "SCOOTER",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A spacecraft that can be reused to travel to and from orbit",
-      "answer": "SHUTTLE",
-      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A bright streak of light in the sky caused by a space rock burning up",
+      "clue": "You stand on it and push along with one foot",
+      "answer": "SCOOTER",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A spacecraft that can be used again and again",
+      "answer": "SHUTTLE",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A shooting star that zooms across the sky",
       "answer": "METEOR",
       "row": 2,
-      "col": 11,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A dark, earthy brown color, like the pigment",
-      "answer": "UMBER",
+      "clue": "A pale sandy tan, like a coffee with lots of milk",
+      "answer": "BEIGE",
       "row": 7,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "To find and fix errors in a computer program",
+      "clue": "To find and fix the mistakes in a program",
       "answer": "DEBUG",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 1,
-      "col": 1,
+      "row": 6,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Feeling unhappy when something doesn't go as planned",
+      "clue": "Feeling unhappy when things don't go your way",
       "answer": "UPSET",
       "row": 9,
-      "col": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The amount of space inside the boundary of a flat shape",
+      "clue": "The amount of space inside a flat shape",
       "answer": "AREA",
       "row": 0,
-      "col": 4,
+      "col": 1,
       "direction": "down"
     }
   ],

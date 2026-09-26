@@ -4,73 +4,73 @@
   "title": "2027-02-05",
   "words": [
     {
-      "clue": "A person who writes and tests computer programs",
+      "clue": "A person who writes computer code",
       "answer": "PROGRAMMER",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A building where vehicles are kept or repaired",
-      "answer": "GARAGE",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A perfectly round solid shape like a ball",
-      "answer": "SPHERE",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "An opening in a wall with glass that lets in light and air",
-      "answer": "WINDOW",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A regular, repeated pattern of beats in music",
-      "answer": "RHYTHM",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that controls the flow of water from a pipe",
-      "answer": "FAUCET",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The point that is the same distance from every point on the circumference",
-      "answer": "CENTER",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How high or low a musical sound is",
+      "clue": "A building where cars are parked or repaired",
+      "answer": "GARAGE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round solid, like a ball",
+      "answer": "SPHERE",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A glass opening that lets in light and air",
+      "answer": "WINDOW",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The tap that water comes out of",
+      "answer": "FAUCET",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "How high or low a sound is",
       "answer": "PITCH",
-      "row": 9,
+      "row": 7,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A dark, earthy brown color, like the pigment",
-      "answer": "UMBER",
+      "clue": "A pale sandy tan, like a coffee with lots of milk",
+      "answer": "BEIGE",
       "row": 0,
-      "col": 5,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "You use these to see",
       "answer": "EYES",
-      "row": 3,
-      "col": 5,
+      "row": 1,
+      "col": 6,
       "direction": "across"
     }
   ],

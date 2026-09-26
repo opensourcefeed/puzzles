@@ -4,73 +4,73 @@
   "title": "2026-07-23",
   "words": [
     {
-      "clue": "Giving help and encouragement to others",
+      "clue": "Helping others and cheering them on",
       "answer": "SUPPORTIVE",
       "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of land that is almost surrounded by water or sticks out into water",
-      "answer": "PENINSULA",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
-      "answer": "REPORTER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who delivers mail to your house",
-      "answer": "MAILMAN",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A thick, creamy food made by fermenting milk with bacteria",
-      "answer": "YOGURT",
-      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small rubber block used to remove pencil marks from paper",
-      "answer": "ERASER",
-      "row": 2,
-      "col": 10,
+      "clue": "Land with water on almost every side",
+      "answer": "PENINSULA",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The color of grass, leaves, and many plants",
-      "answer": "GREEN",
-      "row": 9,
-      "col": 4,
+      "clue": "A person who gathers and tells the news",
+      "answer": "REPORTER",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who brings mail to your house",
+      "answer": "MAILMAN",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A piece of furniture with a flat top, used for eating, working, or placing things",
-      "answer": "TABLE",
-      "row": 2,
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You use it to rub out pencil marks",
+      "answer": "ERASER",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of grass and leaves",
+      "answer": "GREEN",
+      "row": 4,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A basin with running water for washing hands and dishes",
+      "clue": "Furniture with a flat top, for eating or working",
+      "answer": "TABLE",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A basin with taps for washing hands and dishes",
       "answer": "SINK",
       "row": 2,
-      "col": 1,
+      "col": 0,
       "direction": "down"
     }
   ],

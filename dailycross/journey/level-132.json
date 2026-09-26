@@ -4,119 +4,133 @@
   "title": "Level 132",
   "words": [
     {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
+      "clue": "A blue-green color, like the gemstone",
+      "answer": "TURQUOISE",
       "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A very large, powerful storm that forms over warm ocean waters",
+      "clue": "A giant, spinning storm that forms over the ocean",
       "answer": "HURRICANE",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A flat shape with four sides where opposite sides are equal and all angles are right angles",
-      "answer": "RECTANGLE",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A large open area of land covered with wild grass",
-      "answer": "GRASSLAND",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who plans and designs buildings and other structures",
-      "answer": "ARCHITECT",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A period of rest between parts of a game",
-      "answer": "HALFTIME",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A cabinet with shelves for storing food and dishes",
-      "answer": "CUPBOARD",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, rocky object that orbits the Sun, mostly found between Mars and Jupiter",
-      "answer": "ASTEROID",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The point where two or more lines or edges meet",
-      "answer": "VERTEX",
-      "row": 1,
+      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The device on the wall used to turn lights on and off",
-      "answer": "SWITCH",
-      "row": 0,
-      "col": 14,
+      "clue": "A shape like a door: two long sides and two short",
+      "answer": "RECTANGLE",
+      "row": 6,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A long, curved yellow fruit with a soft inside",
-      "answer": "BANANA",
-      "row": 0,
-      "col": 1,
+      "clue": "A wide open area covered in wild grass",
+      "answer": "GRASSLAND",
+      "row": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A fertile area in a desert where water is found and plants can grow",
-      "answer": "OASIS",
-      "row": 0,
-      "col": 10,
+      "clue": "A person who designs buildings",
+      "answer": "ARCHITECT",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The column of bones that runs down your back and protects your spinal cord",
-      "answer": "SPINE",
+      "clue": "The rest break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A small rocky object that circles the Sun",
+      "answer": "ASTEROID",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A two-wheeled ride you pedal with your feet",
+      "answer": "BICYCLE",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling super eager about something fun",
+      "answer": "EXCITED",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
       "row": 13,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The third planet from the Sun, our home planet",
-      "answer": "EARTH",
-      "row": 5,
-      "col": 7,
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The corner point where two lines meet",
+      "answer": "VERTEX",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A card with your name and photo on it",
+      "answer": "IDCARD",
+      "row": 1,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A small vessel for traveling on water",
-      "answer": "BOAT",
-      "row": 2,
-      "col": 4,
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
+      "row": 8,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "A seat with a back and legs, for one person",
+      "answer": "CHAIR",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The planet we live on",
+      "answer": "EARTH",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A small vehicle for traveling on water",
+      "answer": "BOAT",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 18,
   "targetWords": 23,
   "difficulty": "hard"
 }

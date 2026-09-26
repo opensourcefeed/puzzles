@@ -4,42 +4,42 @@
   "title": "Level 101",
   "words": [
     {
-      "clue": "A person who leads a country or company",
+      "clue": "The person who leads a country",
       "answer": "PRESIDENT",
       "row": 6,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason or desire to do something",
+      "clue": "Having a strong reason to get something done",
       "answer": "MOTIVATED",
       "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person who is traveling in a vehicle but not driving it",
+      "clue": "Someone riding in a vehicle but not driving",
       "answer": "PASSENGER",
       "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A person who gathers and reports news for newspapers, TV, or radio",
+      "clue": "A person who gathers and tells the news",
       "answer": "REPORTER",
       "row": 6,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A safety belt worn in a vehicle to hold a person in their seat",
+      "clue": "The strap that keeps you safe in a car seat",
       "answer": "SEATBELT",
       "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Eager to learn or know more about something",
+      "clue": "Really wanting to learn or find out more",
       "answer": "CURIOUS",
       "row": 6,
       "col": 14,
@@ -53,84 +53,77 @@
       "direction": "down"
     },
     {
-      "clue": "The sixth planet from the Sun, famous for its beautiful rings",
+      "clue": "The planet famous for its beautiful rings",
       "answer": "SATURN",
       "row": 8,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "An opening in a wall with glass that lets in light and air",
+      "clue": "A glass opening that lets in light and air",
       "answer": "WINDOW",
       "row": 13,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A small, oval nut that grows underground and is used to make butter",
+      "clue": "A nut that grows underground and is made into butter",
       "answer": "PEANUT",
       "row": 1,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Feeling satisfaction and pleasure from one's own achievements",
+      "clue": "How you feel after doing something really well",
       "answer": "PROUD",
       "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A desert animal with one or two humps on its back",
+      "clue": "A desert animal with humps on its back",
       "answer": "CAMEL",
       "row": 3,
       "col": 10,
       "direction": "across"
     },
     {
-      "clue": "A soft gray-brown color, like the color of moles",
-      "answer": "TAUPE",
-      "row": 2,
+      "clue": "A tool for measuring how long something is",
+      "answer": "RULER",
+      "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A flat tool marked with numbers, used to measure length",
-      "answer": "RULER",
+      "clue": "A long animal with no legs that slithers",
+      "answer": "SNAKE",
       "row": 4,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A long legless reptile that sheds its skin as it grows",
-      "answer": "SNAKE",
-      "row": 12,
+      "clue": "A fine powder made from wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A fine powder made by grinding wheat, used for baking",
-      "answer": "FLOUR",
-      "row": 1,
-      "col": 3,
+      "clue": "A green animal that hops and says ribbit",
+      "answer": "FROG",
+      "row": 8,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A small green amphibian that jumps and lives near water",
-      "answer": "FROG",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Balls of ice that fall from clouds during a storm",
+      "clue": "Little balls of ice that fall during a storm",
       "answer": "HAIL",
       "row": 0,
       "col": 14,
       "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 18,
   "difficulty": "hard"
 }

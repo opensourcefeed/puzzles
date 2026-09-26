@@ -4,67 +4,67 @@
   "title": "2026-09-02",
   "words": [
     {
-      "clue": "A large, juicy fruit with green striped skin and red flesh",
+      "clue": "A big juicy fruit, green outside and red inside",
       "answer": "WATERMELON",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A device you use to make phone calls and browse the internet",
-      "answer": "SMARTPHONE",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A team sport where players hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, thin tool used to point at things on a board or screen",
-      "answer": "POINTER",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A curved band of colors that appears in the sky after rain",
-      "answer": "RAINBOW",
       "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that produces text and images on paper",
-      "answer": "PRINTER",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, oval nut with a hard shell and a mild flavor",
-      "answer": "ALMOND",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A thick, creamy food made by fermenting milk with bacteria",
-      "answer": "YOGURT",
+      "clue": "A phone you can also browse the internet on",
+      "answer": "SMARTPHONE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where you hit a ball with a bat and run bases",
+      "answer": "BASEBALL",
       "row": 0,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A long stick used to point at the board",
+      "answer": "POINTER",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A curved band of colors after the rain",
+      "answer": "RAINBOW",
+      "row": 5,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A machine that puts text and pictures onto paper",
+      "answer": "PRINTER",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small nut with a mild, sweet flavor",
+      "answer": "ALMOND",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 82

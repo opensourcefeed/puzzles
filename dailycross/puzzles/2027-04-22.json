@@ -4,60 +4,74 @@
   "title": "2027-04-22",
   "words": [
     {
-      "clue": "The person who directs and leads an orchestra",
+      "clue": "The person who leads and directs an orchestra",
       "answer": "CONDUCTOR",
-      "row": 2,
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sweet fruit that grows in bunches and is often dried into raisins",
-      "answer": "GRAPEVINE",
+      "clue": "A spacecraft that can be used again and again",
+      "answer": "SHUTTLE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A win in a game or contest",
+      "answer": "VICTORY",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of brave",
+      "answer": "AFRAID",
       "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A spacecraft that can be reused to travel to and from orbit",
-      "answer": "SHUTTLE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "The eighth and farthest planet from the Sun, a cold, blue world",
-      "answer": "NEPTUNE",
+      "clue": "A soft cushion you rest your head on",
+      "answer": "PILLOW",
       "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The act of defeating an opponent in a competition",
-      "answer": "VICTORY",
-      "row": 0,
-      "col": 0,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The opposite of brave; feeling fear or anxiety",
-      "answer": "AFRAID",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Calm, peaceful, and untroubled",
+      "clue": "Totally calm and peaceful",
       "answer": "SERENE",
-      "row": 0,
-      "col": 4,
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The finger next to your little finger, often where a ring is worn",
+      "clue": "Weather when snow is falling",
+      "answer": "SNOWY",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The finger next to your little finger, where jewelry is often worn",
       "answer": "RING",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
+      "row": 3,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 314
