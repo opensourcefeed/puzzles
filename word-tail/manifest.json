@@ -1,22 +1,30 @@
 {
   "short_name": "Word Tail",
-  "name": "Word Tail - Vocabulary Chain Puzzle",
-  "description": "Create chains of words in this engaging vocabulary puzzle game",
+  "name": "Word Tail – Word Chain Game",
+  "description": "Build a chain of words, each starting with the last letter of the one before.",
   "icons": [
     {
-      "src": "icon.png",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/png"
+      "src": "favicon.ico",
+      "sizes": "48x48 32x32 16x16",
+      "type": "image/x-icon"
     },
     {
-      "src": "icon.png",
+      "src": "icon-192.png",
+      "sizes": "192x192",
       "type": "image/png",
-      "sizes": "192x192"
+      "purpose": "any"
     },
     {
-      "src": "icon.png",
+      "src": "icon-512.png",
+      "sizes": "512x512",
       "type": "image/png",
-      "sizes": "512x512"
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "start_url": ".",
@@ -24,12 +32,5 @@
   "theme_color": "#fff7ea",
   "background_color": "#fff7ea",
   "prefer_related_applications": false,
-  "categories": ["games", "education"],
-  "screenshots": [
-    {
-      "src": "screenshot1.png",
-      "sizes": "1280x720",
-      "type": "image/png"
-    }
-  ]
+  "categories": ["games", "education"]
 }
