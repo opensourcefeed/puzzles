@@ -2,22 +2,38 @@
 <html lang="en">
 
 <head>
-  <title>Play Wordle Variations Online – Free Puzzle Games Hub</title>
   <meta charset="UTF-8">
-  <meta name="description"
-    content="Play the best Wordle-style puzzle games online. Explore word guessing games, daily challenges, and unlimited puzzle variations in one place.">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Play Wordle Variations Online – Free Puzzle Games Hub</title>
+  <meta name="description"
+    content="Play free Wordle-style word games online: Wordle Unlimited, Dordle, Pentordle, Decordle, Word Gridle and DailyCross. Daily and unlimited modes, no signup.">
 
   <link rel="canonical" href="https://www.opensourcefeed.org/puzzles/" />
-  <link rel="manifest" href="jotto-digital/manifest.json">
+  <link rel="icon" type="image/svg+xml"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23083744'/%3E%3Crect x='10' y='10' width='20' height='20' rx='4' fill='%2325d876'/%3E%3Crect x='34' y='10' width='20' height='20' rx='4' fill='%23f2c94c'/%3E%3Crect x='10' y='34' width='20' height='20' rx='4' fill='%2394a3b8'/%3E%3Crect x='34' y='34' width='20' height='20' rx='4' fill='%2325d876'/%3E%3C/svg%3E">
+  <link rel="apple-touch-icon" href="jotto-digital/ic_launcher.png">
 
-  <meta property="og:title" content="Play Wordle Variations Online - Free Puzzle Games Hub" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="OpenSourceFeed" />
+  <meta property="og:title" content="Play Wordle Variations Online – Free Puzzle Games Hub" />
   <meta property="og:description"
     content="Explore free Wordle-style puzzle games with daily challenges and unlimited modes." />
   <meta property="og:url" content="https://www.opensourcefeed.org/puzzles/" />
   <meta property="og:image" content="https://www.opensourcefeed.org/puzzles/jotto-digital/preview.jpg" />
-  <meta name="image" content="https://www.opensourcefeed.org/puzzles/jotto-digital/preview.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="628" />
+  <meta property="og:image:alt" content="Wordle-style puzzle games collection" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Play Wordle Variations Online – Free Puzzle Games Hub" />
+  <meta name="twitter:description"
+    content="Explore free Wordle-style puzzle games with daily challenges and unlimited modes." />
+  <meta name="twitter:image" content="https://www.opensourcefeed.org/puzzles/jotto-digital/preview.jpg" />
   <meta name="theme-color" content="#083744" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap">
 
   <style>
     :root {
@@ -25,16 +41,18 @@
       --bg-bottom: #0a4a63;
       --border: rgba(255, 255, 255, 0.1);
       --text: #ffffff;
-      --muted: rgba(235, 246, 255, 0.82);
-      --muted-2: rgba(235, 246, 255, 0.64);
+      --muted: rgba(235, 246, 255, 0.84);
+      --muted-2: rgba(235, 246, 255, 0.68);
 
-      --primary-1: #25d876;
-      --primary-2: #59ee98;
-      --primary-text: #082511;
+      --accent: #25d876;
+      --accent-soft: rgba(37, 216, 118, 0.14);
+      --tile-green: #25d876;
+      --tile-yellow: #f2c94c;
+      --tile-blue: #5aa9e6;
+      --tile-grey: #94a3b8;
 
-      --soft-1: #eef3f8;
-      --soft-2: #dde7f2;
-      --soft-text: #153246;
+      --surface: rgba(255, 255, 255, 0.06);
+      --surface-hover: rgba(255, 255, 255, 0.1);
 
       --card-light: #f4f7fb;
       --card-light-text: #0f2130;
@@ -52,7 +70,10 @@
 
       --max-page: 1120px;
       --max-copy: 760px;
-      --max-actions: 760px;
+      --max-grid: 920px;
+
+      --font-display: "Outfit", "Inter", system-ui, sans-serif;
+      --font-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
     }
 
     * {
@@ -71,15 +92,22 @@
     }
 
     body {
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: var(--font-body);
       color: var(--text);
       background:
         radial-gradient(circle at top center, rgba(39, 216, 144, 0.08), transparent 26%),
         linear-gradient(180deg, var(--bg-top) 0%, var(--bg-bottom) 100%);
+      background-color: var(--bg-top);
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       text-rendering: optimizeLegibility;
       overflow-x: hidden;
+    }
+
+    h1,
+    h2,
+    h3 {
+      font-family: var(--font-display);
     }
 
     a {
@@ -97,7 +125,7 @@
       position: relative;
       max-width: var(--max-page);
       margin: 0 auto;
-      padding: 22px 16px 0;
+      padding: 0 16px;
     }
 
     .page::before {
@@ -113,78 +141,161 @@
       z-index: 0;
     }
 
-    .hero,
-    .section,
-    .content-block,
-    footer,
-    .contact-note,
-    .kofi-wrap,
-    .play-badge-wrap,
-    .ad-wrap {
+    .page>* {
       position: relative;
       z-index: 1;
     }
 
+    /* Top bar */
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 18px 0;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 1.08rem;
+      letter-spacing: -0.01em;
+    }
+
+    .brand-mark {
+      display: grid;
+      grid-template-columns: repeat(2, 12px);
+      gap: 3px;
+    }
+
+    .brand-mark span {
+      width: 12px;
+      height: 12px;
+      border-radius: 3px;
+    }
+
+    .brand-mark span:nth-child(1),
+    .brand-mark span:nth-child(4) {
+      background: var(--tile-green);
+    }
+
+    .brand-mark span:nth-child(2) {
+      background: var(--tile-yellow);
+    }
+
+    .brand-mark span:nth-child(3) {
+      background: var(--tile-grey);
+    }
+
+    .brand small {
+      font-family: var(--font-body);
+      font-weight: 500;
+      font-size: 0.82rem;
+      color: var(--muted-2);
+    }
+
+    .topnav {
+      display: flex;
+      gap: 6px;
+    }
+
+    .topnav a {
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--muted);
+      transition: background 0.16s ease, color 0.16s ease;
+    }
+
+    .topnav a:hover,
+    .topnav a:focus-visible {
+      background: var(--surface);
+      color: #fff;
+    }
+
+    /* Hero */
     .hero {
-      padding: 12px 0 12px;
+      padding: 4px 0 12px;
     }
 
     .hero-inner {
       max-width: 840px;
       margin: 0 auto;
-      padding: 34px 28px 30px;
+      padding: 38px 28px 32px;
       text-align: center;
       border: 1px solid var(--border);
       border-radius: var(--radius-xl);
-      background:
-        linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.025));
-      box-shadow:
-        var(--shadow-xl),
-        inset 0 1px 0 rgba(255, 255, 255, 0.07);
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.025));
+      box-shadow: var(--shadow-xl), inset 0 1px 0 rgba(255, 255, 255, 0.07);
       backdrop-filter: blur(10px);
     }
 
-    .hero-kicker {
-      margin: 0 0 14px;
-      font-size: 0.78rem;
-      font-weight: 700;
-      letter-spacing: 0.16em;
-      text-transform: uppercase;
-      color: var(--muted-2);
+    .hero-tiles {
+      display: inline-flex;
+      gap: 6px;
+      margin-bottom: 18px;
+    }
+
+    .hero-tiles span {
+      display: grid;
+      place-items: center;
+      width: 34px;
+      height: 34px;
+      border-radius: 7px;
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 1.05rem;
+      color: #0b1f17;
+    }
+
+    .hero-tiles .g {
+      background: var(--tile-green);
+    }
+
+    .hero-tiles .y {
+      background: var(--tile-yellow);
+    }
+
+    .hero-tiles .n {
+      background: var(--tile-grey);
     }
 
     .hero h1 {
       margin: 0;
       font-size: 3.35rem;
-      line-height: 1.02;
-      letter-spacing: -0.04em;
+      font-weight: 800;
+      line-height: 1.04;
+      letter-spacing: -0.035em;
     }
 
     .hero-subtitle {
-      max-width: 640px;
+      max-width: 620px;
       margin: 16px auto 0;
       color: var(--muted);
       font-size: 1.08rem;
-      line-height: 1.8;
+      line-height: 1.7;
     }
 
     .hero-actions {
       display: flex;
       justify-content: center;
-      gap: 14px;
+      gap: 12px;
       flex-wrap: wrap;
-      margin-top: 24px;
+      margin-top: 26px;
     }
 
     .hero-primary,
     .hero-secondary {
-      min-width: 220px;
-      padding: 14px 20px;
+      min-width: 210px;
+      padding: 14px 22px;
       border-radius: 999px;
       font-size: 0.98rem;
       font-weight: 700;
       transition: transform 0.16s ease, box-shadow 0.16s ease, background 0.16s ease, border-color 0.16s ease;
-      will-change: transform;
     }
 
     .hero-primary {
@@ -203,7 +314,6 @@
       background: rgba(255, 255, 255, 0.08);
       color: #ffffff;
       border: 1px solid rgba(255, 255, 255, 0.32);
-      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
     }
 
     .hero-secondary:hover,
@@ -214,257 +324,243 @@
     }
 
     .hero-meta {
-      margin: 16px 0 0;
+      margin: 18px 0 0;
       font-size: 0.92rem;
       line-height: 1.6;
       color: var(--muted-2);
     }
 
+    /* Sections */
     .section {
-      margin-top: 38px;
+      margin-top: 52px;
+      scroll-margin-top: 16px;
     }
 
     .section-header {
       text-align: center;
-      margin-bottom: 18px;
+      margin-bottom: 22px;
     }
 
     .section-header h2 {
       margin: 0;
       font-size: 2.1rem;
+      font-weight: 700;
       line-height: 1.15;
-      letter-spacing: -0.03em;
+      letter-spacing: -0.025em;
     }
 
     .section-header p {
       max-width: var(--max-copy);
-      margin: 12px auto 0;
+      margin: 10px auto 0;
       color: var(--muted);
-      line-height: 1.78;
+      line-height: 1.7;
       font-size: 1rem;
     }
 
+    /* Featured game cards */
     .featured-grid {
       display: grid;
-      grid-template-columns: 1fr;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 14px;
-      max-width: var(--max-actions);
+      max-width: var(--max-grid);
       margin: 0 auto;
     }
 
-    .button {
-      position: relative;
-      display: block;
-      text-align: center;
-      padding: 18px 18px 16px;
-      border-radius: var(--radius-md);
-      font-weight: 700;
-      overflow: hidden;
-      transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease, background 0.16s ease;
-      will-change: transform;
+    .game-tile {
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+      padding: 18px;
+      border-radius: var(--radius-lg);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      transition: transform 0.16s ease, background 0.16s ease, border-color 0.16s ease, box-shadow 0.16s ease;
     }
 
-    .button::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(180deg, rgba(255, 255, 255, 0.16), transparent 48%);
-      opacity: 0.7;
-      pointer-events: none;
-    }
-
-    .button:hover,
-    .button:focus-visible {
+    .game-tile:hover,
+    .game-tile:focus-visible {
       transform: translateY(-2px);
+      background: var(--surface-hover);
+      border-color: rgba(255, 255, 255, 0.18);
+      box-shadow: var(--shadow-md);
     }
 
-    .button .title,
-    .button .sub {
-      position: relative;
-      z-index: 1;
-      display: block;
+    .game-tile.is-top {
+      background: linear-gradient(135deg, rgba(37, 216, 118, 0.2), rgba(37, 216, 118, 0.06));
+      border-color: rgba(37, 216, 118, 0.38);
     }
 
-    .button .title {
-      font-size: 1rem;
+    .game-icon {
+      flex: 0 0 auto;
+      display: grid;
+      place-items: center;
+      width: 52px;
+      height: 52px;
+      border-radius: 12px;
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 1.15rem;
+      color: #0b1f17;
+      background: var(--tile-green);
+      box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.14);
+    }
+
+    .game-icon.yellow {
+      background: var(--tile-yellow);
+    }
+
+    .game-icon.blue {
+      background: var(--tile-blue);
+    }
+
+    .game-body h3 {
+      margin: 0;
+      font-size: 1.12rem;
+      font-weight: 700;
       line-height: 1.25;
     }
 
-    .button .sub {
-      margin-top: 5px;
-      font-size: 0.84rem;
-      line-height: 1.4;
+    .game-body p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.55;
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 10px;
+    }
+
+    .chip {
+      padding: 3px 9px;
+      border-radius: 999px;
+      font-size: 0.75rem;
       font-weight: 600;
-      opacity: 0.85;
+      color: var(--muted);
+      background: rgba(255, 255, 255, 0.08);
     }
 
-    .button.internal {
-      background: linear-gradient(135deg, var(--primary-1), var(--primary-2));
-      color: var(--primary-text);
-      box-shadow: var(--shadow-md);
+    .chip.accent {
+      color: #b8f5d3;
+      background: var(--accent-soft);
     }
 
-    .button.internal:hover,
-    .button.internal:focus-visible {
-      box-shadow: var(--shadow-lg);
-    }
-
-    .button.featured-primary {
-      transform: scale(1.02);
-      box-shadow: 0 16px 34px rgba(0, 0, 0, 0.28);
-    }
-
-    .button.featured-primary:hover,
-    .button.featured-primary:focus-visible {
-      transform: scale(1.02) translateY(-2px);
-      box-shadow: 0 18px 38px rgba(0, 0, 0, 0.32);
-    }
-
-    .button.secondary {
-      background: linear-gradient(135deg, var(--soft-1), var(--soft-2));
-      color: var(--soft-text);
-      box-shadow: var(--shadow-sm);
-    }
-
-    .button.secondary:hover,
-    .button.secondary:focus-visible {
-      box-shadow: var(--shadow-md);
-    }
-
-    .discover-grid,
-    .external-top-grid {
+    /* Image cards */
+    .card-grid {
       display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 18px;
-      max-width: 640px;
-      margin: 0 auto;
-    }
-
-    .discover-grid.two,
-    .external-top-grid.two {
-      max-width: 420px;
       grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+      max-width: 440px;
+      margin: 0 auto;
     }
 
     .game-card {
       position: relative;
+      margin: 0;
       border-radius: var(--radius-lg);
-      background: linear-gradient(180deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.03));
       border: 1px solid rgba(255, 255, 255, 0.06);
       box-shadow: var(--shadow-sm);
       overflow: hidden;
       transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
     }
 
-    .game-card:hover,
-    .game-card:focus-within {
+    a:hover>.game-card,
+    a:focus-visible>.game-card {
       transform: translateY(-2px);
       box-shadow: var(--shadow-md);
-      border-color: rgba(255, 255, 255, 0.12);
+      border-color: rgba(255, 255, 255, 0.14);
     }
 
     .game-card img {
       width: 100%;
       aspect-ratio: 1 / 1;
       object-fit: cover;
-      border-radius: var(--radius-lg);
     }
 
     .game-card figcaption {
       position: absolute;
-      inset: auto 12px 12px 12px;
-      background: rgba(7, 16, 24, 0.68);
+      inset: auto 10px 10px 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      background: rgba(7, 16, 24, 0.7);
       backdrop-filter: blur(6px);
       border: 1px solid rgba(255, 255, 255, 0.08);
       border-radius: 12px;
-      color: #fff;
-      padding: 9px 12px;
-      text-align: center;
-    }
-
-    .game-card h3,
-    .game-card h4 {
-      margin: 0;
-      line-height: 1.2;
-    }
-
-    .game-card h3 {
-      font-size: 0.96rem;
+      padding: 8px 10px;
+      font-family: var(--font-display);
       font-weight: 700;
-    }
-
-    .game-card h4 {
-      margin-top: 3px;
-      font-size: 0.75rem;
-      opacity: 0.88;
-      font-weight: 600;
-    }
-
-    .kofi-wrap,
-    .play-badge-wrap,
-    .ad-wrap {
-      text-align: center;
-    }
-
-    .kofi-wrap {
-      margin-top: 20px;
-    }
-
-    .play-badge-wrap {
-      margin-top: 18px;
-    }
-
-    .play-badge-wrap a {
-      display: inline-block;
-      margin: 0 auto;
-    }
-
-    .play-badge-wrap img {
-      width: 220px;
-      height: auto;
-      margin: 0 auto;
-    }
-
-    .play-badge-note {
-      margin: 0 0 10px;
-      color: var(--muted);
-      line-height: 1.65;
       font-size: 0.96rem;
     }
 
+    .badge {
+      padding: 2px 6px;
+      border-radius: 6px;
+      font-family: var(--font-body);
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      color: #0b1f17;
+      background: var(--tile-yellow);
+    }
+
+    /* Light content block */
     .content-block {
-      margin-top: 28px;
+      max-width: var(--max-grid);
+      margin: 52px auto 0;
       background: var(--card-light);
       color: var(--card-light-text);
       border-radius: 24px;
-      padding: 26px 22px;
-      text-align: center;
+      padding: 34px 32px;
       box-shadow: var(--shadow-md);
     }
 
-    .content-block .eyebrow {
-      display: inline-block;
-      margin-bottom: 8px;
-      font-size: 0.78rem;
-      font-weight: 700;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: #5b7387;
-    }
-
     .content-block h2 {
-      margin: 0 0 10px;
+      margin: 0 0 12px;
       font-size: 1.9rem;
+      font-weight: 700;
       line-height: 1.15;
-      letter-spacing: -0.03em;
+      letter-spacing: -0.025em;
+      text-align: center;
     }
 
-    .content-block p {
-      max-width: 780px;
+    .content-block>p {
+      max-width: 720px;
       margin: 0 auto;
       color: var(--card-light-muted);
-      line-height: 1.8;
-      font-size: 0.98rem;
+      line-height: 1.75;
+      font-size: 1rem;
+      text-align: center;
+    }
+
+    .guide-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+      margin-top: 24px;
+    }
+
+    .guide-item {
+      padding: 18px;
+      border-radius: var(--radius-md);
+      background: #ffffff;
+      border: 1px solid #dde7f2;
+    }
+
+    .guide-item h3 {
+      margin: 0 0 6px;
+      font-size: 1.05rem;
+    }
+
+    .guide-item p {
+      margin: 0;
+      color: var(--card-light-muted);
+      font-size: 0.94rem;
+      line-height: 1.65;
     }
 
     .content-block a {
@@ -474,54 +570,152 @@
       text-underline-offset: 2px;
     }
 
-    .external-section {
-      margin-top: 34px;
+    /* FAQ */
+    .faq-list {
+      display: grid;
+      gap: 10px;
+      max-width: var(--max-copy);
+      margin: 0 auto;
     }
 
-    .external-section .section-header h2 {
-      font-size: 1.9rem;
+    .faq-item {
+      border-radius: var(--radius-md);
+      background: var(--surface);
+      border: 1px solid var(--border);
     }
 
-    .external-section .section-header p {
-      max-width: 760px;
+    .faq-item summary {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 18px;
+      font-weight: 600;
+      cursor: pointer;
+      list-style: none;
     }
 
+    .faq-item summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .faq-item summary::after {
+      content: "+";
+      font-size: 1.3rem;
+      line-height: 1;
+      color: var(--muted-2);
+      transition: transform 0.16s ease;
+    }
+
+    .faq-item[open] summary::after {
+      transform: rotate(45deg);
+    }
+
+    .faq-item p {
+      margin: 0;
+      padding: 0 18px 16px;
+      color: var(--muted);
+      line-height: 1.7;
+      font-size: 0.95rem;
+    }
+
+    .faq-item a {
+      color: #fff;
+      font-weight: 600;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    /* Support strip */
+    .support {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 18px 28px;
+      max-width: var(--max-grid);
+      margin: 52px auto 0;
+      padding: 22px;
+      border-radius: var(--radius-lg);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      text-align: center;
+    }
+
+    .support p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+
+    .support img {
+      width: 180px;
+      height: auto;
+    }
+
+    .kofi-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 11px 18px;
+      border-radius: 999px;
+      background: #29abe0;
+      color: #fff;
+      font-weight: 700;
+      font-size: 0.92rem;
+      transition: transform 0.16s ease, box-shadow 0.16s ease;
+    }
+
+    .kofi-link:hover,
+    .kofi-link:focus-visible {
+      transform: translateY(-1px);
+      box-shadow: var(--shadow-sm);
+    }
+
+    /* External games */
     .external-grid {
       display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 12px;
-      max-width: 760px;
-      margin: 18px auto 0;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+      max-width: var(--max-grid);
+      margin: 0 auto;
     }
 
-    .button.external {
-      background: rgba(255, 255, 255, 0.08);
+    .external-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 13px 12px;
+      border-radius: var(--radius-sm);
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
       color: #f5fbff;
-      border: 1px solid rgba(255, 255, 255, 0.12);
-      box-shadow: none;
-      padding: 16px 16px 14px;
-      opacity: 0.93;
+      font-weight: 600;
+      font-size: 0.92rem;
+      transition: background 0.16s ease, border-color 0.16s ease;
     }
 
-    .button.external::before {
-      background: linear-gradient(180deg, rgba(255, 255, 255, 0.06), transparent 52%);
+    .external-link::after {
+      content: "↗";
+      font-size: 0.8rem;
+      color: var(--muted-2);
     }
 
-    .button.external:hover,
-    .button.external:focus-visible {
-      box-shadow: none;
-      background: rgba(255, 255, 255, 0.12);
+    .external-link:hover,
+    .external-link:focus-visible {
+      background: rgba(255, 255, 255, 0.1);
       border-color: rgba(255, 255, 255, 0.18);
-      opacity: 1;
     }
 
     .contact-note {
       max-width: 780px;
-      margin: 24px auto 0;
+      margin: 28px auto 0;
       text-align: center;
       color: var(--muted);
       line-height: 1.75;
-      font-size: 0.96rem;
+      font-size: 0.95rem;
     }
 
     .contact-note a {
@@ -531,19 +725,37 @@
       text-underline-offset: 2px;
     }
 
-    footer {
+    .ad-wrap {
+      margin-top: 40px;
       text-align: center;
-      color: rgba(230, 242, 255, 0.82);
+    }
+
+    footer {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-top: 40px;
+      padding: 20px 0 24px;
       border-top: 1px solid rgba(255, 255, 255, 0.12);
-      margin-top: 28px;
-      padding: 16px 0 20px;
+      color: var(--muted-2);
       font-size: 0.9rem;
     }
 
-    .button:focus-visible,
-    .hero-primary:focus-visible,
-    .hero-secondary:focus-visible,
-    a:focus-visible {
+    footer nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 18px;
+    }
+
+    footer a:hover,
+    footer a:focus-visible {
+      color: #fff;
+    }
+
+    a:focus-visible,
+    summary:focus-visible {
       outline: 2px solid rgba(255, 255, 255, 0.78);
       outline-offset: 3px;
     }
@@ -560,26 +772,34 @@
       .content-block h2 {
         font-size: 1.6rem;
       }
+
+      .external-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
     }
 
     @media (max-width: 720px) {
       .page {
-        padding: 14px 14px 0;
+        padding: 0 14px;
       }
 
-      .hero {
-        padding-top: 6px;
+      .topbar {
+        padding: 14px 0;
+      }
+
+      .brand small {
+        display: none;
       }
 
       .hero-inner {
-        padding: 24px 16px 22px;
+        padding: 26px 16px 24px;
         border-radius: 22px;
       }
 
-      .hero-kicker {
-        margin-bottom: 10px;
-        font-size: 0.72rem;
-        letter-spacing: 0.14em;
+      .hero-tiles span {
+        width: 28px;
+        height: 28px;
+        font-size: 0.9rem;
       }
 
       .hero h1 {
@@ -588,167 +808,114 @@
 
       .hero-subtitle {
         font-size: 0.98rem;
-        line-height: 1.68;
+        line-height: 1.65;
         margin-top: 12px;
       }
 
       .hero-actions {
         gap: 10px;
-        margin-top: 18px;
+        margin-top: 20px;
       }
 
       .hero-primary,
       .hero-secondary {
         width: 100%;
         min-width: 0;
-        padding: 14px 18px;
       }
 
       .hero-meta {
-        font-size: 0.84rem;
-        margin-top: 14px;
+        font-size: 0.86rem;
       }
 
       .section {
-        margin-top: 30px;
+        margin-top: 40px;
       }
 
       .section-header {
-        margin-bottom: 14px;
+        margin-bottom: 16px;
       }
 
       .section-header h2 {
-        font-size: 1.52rem;
+        font-size: 1.55rem;
       }
 
       .section-header p {
-        font-size: 0.94rem;
-        line-height: 1.7;
-        margin-top: 10px;
-      }
-
-      .featured-grid,
-      .discover-grid,
-      .external-top-grid,
-      .external-grid {
-        gap: 12px;
-      }
-
-      .discover-grid,
-      .external-top-grid {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-        max-width: 100%;
-      }
-
-      .button {
-        padding: 16px 14px 14px;
-        border-radius: 14px;
-      }
-
-      .button.featured-primary {
-        transform: none;
-      }
-
-      .button.featured-primary:hover,
-      .button.featured-primary:focus-visible {
-        transform: translateY(-2px);
-      }
-
-      .button .title {
         font-size: 0.95rem;
+        line-height: 1.65;
       }
 
-      .button .sub {
-        font-size: 0.78rem;
+      .featured-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
       }
 
-      .game-card {
-        border-radius: 16px;
+      .game-tile {
+        gap: 14px;
+        padding: 14px;
+        border-radius: var(--radius-md);
       }
 
-      .game-card img {
-        border-radius: 16px;
+      .game-icon {
+        width: 44px;
+        height: 44px;
+        font-size: 1rem;
+        border-radius: 10px;
+      }
+
+      .card-grid {
+        gap: 12px;
+        max-width: 100%;
       }
 
       .game-card figcaption {
         inset: auto 8px 8px 8px;
         padding: 7px 8px;
-        border-radius: 10px;
-      }
-
-      .game-card h3 {
-        font-size: 0.84rem;
-      }
-
-      .game-card h4 {
-        font-size: 0.68rem;
+        font-size: 0.9rem;
       }
 
       .content-block {
-        margin-top: 24px;
-        padding: 22px 16px;
+        margin-top: 40px;
+        padding: 24px 16px;
         border-radius: 18px;
       }
 
       .content-block h2 {
-        font-size: 1.38rem;
+        font-size: 1.4rem;
       }
 
-      .content-block p {
-        font-size: 0.92rem;
-        line-height: 1.74;
+      .content-block>p {
+        font-size: 0.95rem;
       }
 
-      .external-section .section-header h2 {
-        font-size: 1.5rem;
+      .guide-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
       }
 
-      .contact-note {
-        font-size: 0.9rem;
-        margin-top: 20px;
+      .support {
+        margin-top: 40px;
+        padding: 18px 14px;
       }
 
       footer {
-        margin-top: 24px;
-        padding-bottom: calc(18px + env(safe-area-inset-bottom));
+        justify-content: center;
+        text-align: center;
+        padding-bottom: calc(20px + env(safe-area-inset-bottom));
+      }
+
+      footer nav {
+        justify-content: center;
       }
     }
 
-    @media (max-width: 520px) {
-      .page {
-        padding-left: 12px;
-        padding-right: 12px;
-      }
-
-      .hero-inner {
-        padding-left: 14px;
-        padding-right: 14px;
+    @media (max-width: 420px) {
+      .topnav a {
+        padding: 8px 8px;
+        font-size: 0.85rem;
       }
 
       .hero h1 {
         font-size: 2.02rem;
-      }
-
-      .discover-grid,
-      .external-top-grid {
-        gap: 10px;
-      }
-
-      .button .title {
-        font-size: 0.92rem;
-      }
-
-      .button .sub {
-        font-size: 0.74rem;
-      }
-
-      .external-grid {
-        grid-template-columns: 1fr 1fr;
-        gap: 10px;
-      }
-
-      .button.external {
-        padding: 14px 12px 12px;
       }
     }
 
@@ -764,360 +931,364 @@
         transition: none !important;
       }
     }
-
-    @media (max-width: 720px) {
-      .discover-grid {
-        grid-template-columns: 2fr;
-        max-width: 240px;
-        gap: 14px;
-      }
-
-      .discover-grid a:last-child {
-        grid-column: auto;
-        max-width: none;
-        margin: 0;
-      }
-
-      .game-card {
-        border-radius: 18px;
-      }
-
-      .game-card img {
-        border-radius: 18px;
-        aspect-ratio: 1 / 1;
-        object-fit: cover;
-      }
-
-      .game-card figcaption {
-        inset: auto 10px 10px 10px;
-        padding: 8px 10px;
-      }
-
-      .game-card h3 {
-        font-size: 0.95rem;
-      }
-
-      .game-card h4 {
-        font-size: 0.72rem;
-      }
-
-      .play-badge-wrap {
-        text-align: center;
-      }
-
-      .play-badge-wrap a {
-        display: inline-block;
-        margin: 0 auto;
-      }
-
-      .play-badge-wrap img {
-        display: block;
-        width: 220px;
-        height: auto;
-        margin: 0 auto;
-      }
-    }
-
-    @media (max-width: 420px) {
-      .discover-grid {
-        max-width: 220px;
-        gap: 12px;
-      }
-
-      .play-badge-wrap img {
-        width: 200px;
-      }
-    }
   </style>
 
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Wordle Games Hub",
-    "description": "A collection of free Wordle-style puzzle games, including daily challenges and unlimited modes.",
-    "url": "https://www.opensourcefeed.org/puzzles/",
-    "mainEntity": {
-      "@type": "ItemList",
-      "itemListElement": [
-        { "@type": "Game", "position": 1, "name": "Wordle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/wordle-unlimited/" },
-        { "@type": "Game", "position": 2, "name": "Wordle Daily", "url": "https://www.opensourcefeed.org/puzzles/jotto-daily/" },
-        { "@type": "Game", "position": 3, "name": "Dordle", "url": "https://www.opensourcefeed.org/puzzles/dordle-unlimited/" },
-        { "@type": "Game", "position": 4, "name": "Pentordle", "url": "https://www.opensourcefeed.org/pentordle/" },
-        { "@type": "Game", "position": 5, "name": "Decordle", "url": "https://www.opensourcefeed.org/decordle/" },
-        { "@type": "Game", "position": 6, "name": "Word Gridle", "url": "https://www.opensourcefeed.org/puzzles/word-gridle/" },
-        { "@type": "Game", "position": 7, "name": "Word Gridle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/gridle-unlimited/" },
-        { "@type": "Game", "position": 8, "name": "DailyCross", "url": "https://www.opensourcefeed.org/puzzles/dailycross/" }
-      ]
-    }
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "name": "Wordle Games Hub",
+        "description": "A collection of free Wordle-style puzzle games, including daily challenges and unlimited modes.",
+        "url": "https://www.opensourcefeed.org/puzzles/",
+        "publisher": { "@type": "Organization", "name": "Tahrik Studio" },
+        "mainEntity": {
+          "@type": "ItemList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "item": { "@type": "Game", "name": "Wordle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/wordle-unlimited/" } },
+            { "@type": "ListItem", "position": 2, "item": { "@type": "Game", "name": "Wordle Daily", "url": "https://www.opensourcefeed.org/puzzles/jotto-daily/" } },
+            { "@type": "ListItem", "position": 3, "item": { "@type": "Game", "name": "Dordle", "url": "https://www.opensourcefeed.org/puzzles/dordle-unlimited/" } },
+            { "@type": "ListItem", "position": 4, "item": { "@type": "Game", "name": "Pentordle", "url": "https://www.opensourcefeed.org/puzzles/pentordle/" } },
+            { "@type": "ListItem", "position": 5, "item": { "@type": "Game", "name": "Decordle", "url": "https://www.opensourcefeed.org/puzzles/decordle/" } },
+            { "@type": "ListItem", "position": 6, "item": { "@type": "Game", "name": "Word Gridle", "url": "https://www.opensourcefeed.org/puzzles/word-gridle/" } },
+            { "@type": "ListItem", "position": 7, "item": { "@type": "Game", "name": "Word Gridle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/gridle-unlimited/" } },
+            { "@type": "ListItem", "position": 8, "item": { "@type": "Game", "name": "DailyCross", "url": "https://www.opensourcefeed.org/puzzles/dailycross/" } },
+            { "@type": "ListItem", "position": 9, "item": { "@type": "Game", "name": "Word Plant", "url": "https://www.opensourcefeed.org/puzzles/word-plant/" } },
+            { "@type": "ListItem", "position": 10, "item": { "@type": "Game", "name": "Word Tail", "url": "https://www.opensourcefeed.org/puzzles/word-tail/" } }
+          ]
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Are these word games free to play?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes. Every game in the collection is free to play in your browser, and you do not need an account to start." }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between Dordle, Pentordle and Decordle?",
+            "acceptedAnswer": { "@type": "Answer", "text": "The only difference is how many words you solve in parallel: two in Dordle, five in Pentordle and ten in Decordle. More words means more boards to track, so pick the one that matches the challenge you want today." }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between daily and unlimited modes?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Daily modes give you one new puzzle each day. Unlimited modes let you start a fresh puzzle whenever you like, so you can keep practising." }
+          },
+          {
+            "@type": "Question",
+            "name": "Which game should I play first?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Start with Wordle Unlimited to learn the colour clues, then move to Dordle. When two boards feel easy, try Pentordle and then Decordle." }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I play on my phone?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes. All games work in mobile browsers, and there is also an Android app on Google Play." }
+          }
+        ]
+      }
+    ]
   }
   </script>
 </head>
 
 <body>
   <div class="page">
+    <div class="topbar">
+      <a class="brand" href="/puzzles/" aria-label="Tahrik Studio Puzzles home">
+        <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
+        Tahrik Studio <small>Puzzles</small>
+      </a>
+      <nav class="topnav" aria-label="Page sections">
+        <a href="#games">Games</a>
+        <a href="#guide">Guide</a>
+        <a href="#faq">FAQ</a>
+      </nav>
+    </div>
+
     <header class="hero">
       <div class="hero-inner">
-        <p class="hero-kicker">Tahrik Studio Puzzle Collection</p>
+        <div class="hero-tiles" aria-hidden="true">
+          <span class="g">W</span><span class="y">O</span><span class="n">R</span><span class="g">D</span><span class="y">S</span>
+        </div>
         <h1>Wordle Games Hub</h1>
         <p class="hero-subtitle">
-          Play Wordle Unlimited, Dordle, Decordle and more in one place.
+          Free Wordle-style word games in one place: solve one word, two words or ten at once,
+          or switch to grids and crosswords.
         </p>
 
         <div class="hero-actions">
           <a class="hero-primary" href="/puzzles/wordle-unlimited/">Play Wordle Unlimited</a>
-          <a class="hero-secondary" href="/decordle/">Try Decordle</a>
+          <a class="hero-secondary" href="#games">Browse all games</a>
         </div>
 
         <p class="hero-meta">Free to play · No signup required · Daily and unlimited modes</p>
       </div>
     </header>
 
-    <section class="section">
-      <div class="section-header">
-        <h2>Play Wordle-Style Puzzle Games Online</h2>
-        <p>
-          Explore multiple Wordle-style puzzles with different difficulty levels and play styles.
-        </p>
-      </div>
-    </section>
+    <main>
+      <section class="section" id="games">
+        <div class="section-header">
+          <h2>Featured Games</h2>
+          <p>Pick a game by how many words you want to juggle, or try a grid or crossword for a change of pace.</p>
+        </div>
 
-    <section class="section">
-      <div class="section-header">
-        <h2>Featured Games</h2>
-        <p>
-          Start with the core games from our collection. Internal games stay more prominent here so individual puzzle
-          pages keep receiving the strongest visibility and internal link value.
-        </p>
-      </div>
+        <div class="featured-grid">
+          <a class="game-tile is-top" href="/puzzles/wordle-unlimited/">
+            <span class="game-icon" aria-hidden="true">W</span>
+            <div class="game-body">
+              <h3>Wordle Unlimited</h3>
+              <p>Guess the hidden five-letter word using green and yellow clues, then start a new round straight away.
+                No daily limit.</p>
+              <span class="chips"><span class="chip accent">1 word</span><span class="chip">Unlimited</span><span class="chip">Best place to start</span></span>
+            </div>
+          </a>
 
-      <div class="featured-grid">
-        <a class="button internal featured-primary" href="/puzzles/wordle-unlimited/">
-          <span class="title">Play Wordle Unlimited</span>
-          <span class="sub">One Word • Unlimited Mode</span>
-        </a>
+          <a class="game-tile" href="/puzzles/jotto-daily/">
+            <span class="game-icon" aria-hidden="true">W</span>
+            <div class="game-body">
+              <h3>Wordle Daily</h3>
+              <p>One new word every day. A quick daily habit for your vocabulary.</p>
+              <span class="chips"><span class="chip accent">1 word</span><span class="chip">Daily</span></span>
+            </div>
+          </a>
 
-        <a class="button internal" href="/puzzles/jotto-daily/">
-          <span class="title">Play Wordle Daily</span>
-          <span class="sub">One Word • Daily Challenge</span>
-        </a>
+          <a class="game-tile" href="/puzzles/dordle-unlimited/">
+            <span class="game-icon yellow" aria-hidden="true">2</span>
+            <div class="game-body">
+              <h3>Dordle</h3>
+              <p>Solve two words at once. Every guess counts on both boards.</p>
+              <span class="chips"><span class="chip accent">2 words</span><span class="chip">Unlimited</span></span>
+            </div>
+          </a>
 
-        <a class="button internal" href="/puzzles/dordle-unlimited/">
-          <span class="title">Play Dordle</span>
-          <span class="sub">Two Words • One Puzzle</span>
-        </a>
+          <a class="game-tile" href="/puzzles/pentordle/">
+            <span class="game-icon yellow" aria-hidden="true">5</span>
+            <div class="game-body">
+              <h3>Pentordle</h3>
+              <p>Five hidden words, one set of guesses. A solid step up from Dordle.</p>
+              <span class="chips"><span class="chip accent">5 words</span><span class="chip">Daily</span><span class="chip">Unlimited</span></span>
+            </div>
+          </a>
 
-        <a class="button internal" href="/pentordle/">
-          <span class="title">Play Pentordle</span>
-          <span class="sub">Five Words • Daily and Unlimited</span>
-        </a>
+          <a class="game-tile" href="/puzzles/decordle/">
+            <span class="game-icon yellow" aria-hidden="true">10</span>
+            <div class="game-body">
+              <h3>Decordle</h3>
+              <p>Ten five-letter words in 16 guesses. The toughest challenge in the collection.</p>
+              <span class="chips"><span class="chip accent">10 words</span><span class="chip">Daily</span><span class="chip">Unlimited</span></span>
+            </div>
+          </a>
 
-        <a class="button internal" href="/decordle/">
-          <span class="title">Play Decordle</span>
-          <span class="sub">Ten Words • Daily and Unlimited</span>
-        </a>
-
-        <a class="button secondary" href="/puzzles/word-gridle/">
-          <span class="title">Play Word Gridle</span>
-          <span class="sub">Build Words and Fill the Grid • Daily</span>
-        </a>
-
-        <a class="button secondary" href="/puzzles/gridle-unlimited/">
-          <span class="title">Play Word Gridle Unlimited</span>
-          <span class="sub">Build Words and Fill the Grid • Unlimited</span>
-        </a>
-
-        <a class="button secondary" href="/puzzles/dailycross/">
-          <span class="title">Play DailyCross</span>
-          <span class="sub">Daily Crossword</span>
-        </a>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="section-header">
-        <h2>Discover More</h2>
-        <p>
-          Try a few more puzzle ideas from our collection, including experimental and visual variations.
-        </p>
-      </div>
-
-      <div class="discover-grid">
-        <a href="/puzzles/dailycross/">
-          <figure class="game-card">
-            <img src="images/dailycross.webp" alt="DailyCross premium crossword game icon">
-            <figcaption>
+          <a class="game-tile" href="/puzzles/dailycross/">
+            <span class="game-icon blue" aria-hidden="true">✚</span>
+            <div class="game-body">
               <h3>DailyCross</h3>
-            </figcaption>
-          </figure>
-        </a>
+              <p>A fresh crossword every day, built for quick play on phone or desktop.</p>
+              <span class="chips"><span class="chip accent">Crossword</span><span class="chip">Daily</span></span>
+            </div>
+          </a>
 
-        <a href="/word-plant/">
-          <figure class="game-card">
-            <img src="jotto-digital/assets/word-plant.jpg" alt="Word Plant puzzle game cover image">
-            <figcaption>
-              <h3>Word Plant</h3>
-            </figcaption>
-          </figure>
-        </a>
-
-        <a href="/word-gridle/">
-          <figure class="game-card">
-            <img src="jotto-digital/assets/word-gridle.jpg" alt="Word Gridle puzzle game cover image">
-            <figcaption>
+          <a class="game-tile" href="/puzzles/word-gridle/">
+            <span class="game-icon blue" aria-hidden="true">#</span>
+            <div class="game-body">
               <h3>Word Gridle</h3>
-            </figcaption>
-          </figure>
-        </a>
+              <p>Fill the missing squares in the grid using the given letters to complete every word.</p>
+              <span class="chips"><span class="chip accent">Grid</span><span class="chip">Daily</span></span>
+            </div>
+          </a>
 
-        <a href="/puzzles/word-tail/">
-          <figure class="game-card">
-            <img src="jotto-digital/assets/word-tail.png" alt="Word Tail puzzle game cover image">
-            <figcaption>
-              <h3>Word Tail</h3>
-              <h4>BETA</h4>
-            </figcaption>
-          </figure>
-        </a>
-      </div>
-    </section>
+          <a class="game-tile" href="/puzzles/gridle-unlimited/">
+            <span class="game-icon blue" aria-hidden="true">#</span>
+            <div class="game-body">
+              <h3>Word Gridle Unlimited</h3>
+              <p>The same grid-filling puzzle with no daily limit. Play level after level.</p>
+              <span class="chips"><span class="chip accent">Grid</span><span class="chip">Unlimited</span></span>
+            </div>
+          </a>
+        </div>
+      </section>
 
-    <div class="kofi-wrap">
-      <script type="text/javascript" src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
-      <script type="text/javascript">
-        kofiwidget2.init('Buy Me a Ko-fi', '#29abe0', 'J3J2Q47RJ');
-        kofiwidget2.draw();
-      </script>
-    </div>
+      <section class="section">
+        <div class="section-header">
+          <h2>Discover More</h2>
+          <p>Try two more word puzzles from our collection, including one in beta.</p>
+        </div>
 
-    <div class="play-badge-wrap">
-      <p class="play-badge-note">You may also get it on Google Play</p>
-      <a
-        href="https://play.google.com/store/apps/details?id=org.tahrik.wordle&utm_source=web&utm_campaign=bottom-banner&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
-        <img alt="Get it on Google Play" width="270" height="105"
-          src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">
-      </a>
-    </div>
+        <div class="card-grid">
+          <a href="/puzzles/word-plant/">
+            <figure class="game-card">
+              <img src="jotto-digital/assets/word-plant.jpg" alt="Word Plant puzzle game cover" width="200"
+                height="200" loading="lazy" decoding="async">
+              <figcaption>Word Plant</figcaption>
+            </figure>
+          </a>
 
-    <div class="ad-wrap" style="margin-top: 24px;">
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6380671811722843"
-        crossorigin="anonymous"></script>
-      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6380671811722843" data-ad-slot="1829457969"
-        data-ad-format="auto" data-full-width-responsive="true"></ins>
-      <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-    </div>
+          <a href="/puzzles/word-tail/">
+            <figure class="game-card">
+              <img src="jotto-digital/assets/word-tail.png" alt="Word Tail puzzle game cover" width="128" height="128"
+                loading="lazy" decoding="async">
+              <figcaption>Word Tail <span class="badge">BETA</span></figcaption>
+            </figure>
+          </a>
+        </div>
+      </section>
 
-    <section class="content-block">
-      <span class="eyebrow">Benefits</span>
-      <h2>Why Play Word Puzzle Games?</h2>
-      <p>
-        Word puzzle games can help improve vocabulary, pattern recognition, memory, and problem-solving.
-        This landing page stays broad on purpose so it works as a discovery hub, while each individual puzzle page stays
-        focused on its own keywords and gameplay experience.
-        <!--You can also explore tips in our <a href="/wordle-strategy/">Wordle strategy guide</a>.-->
-      </p>
-    </section>
-
-    <section class="section external-section">
-      <div class="section-header">
-        <h2>External Games</h2>
+      <section class="content-block section" id="guide">
+        <h2>Which Word Puzzle Should You Play?</h2>
         <p>
-          Explore related puzzle games from other creators. These links are intentionally placed below the main internal
-          collection so your own puzzle pages remain the primary focus.
+          Word puzzle games are a quick way to build vocabulary, spot letter patterns and keep your memory sharp.
+          Every game here is free and runs in your browser. Here's how to choose.
         </p>
+
+        <div class="guide-grid">
+          <div class="guide-item">
+            <h3>New to Wordle-style games</h3>
+            <p>Start with <a href="/puzzles/wordle-unlimited/">Wordle Unlimited</a>. You get the same colour clues as
+              the original, and you can replay right away to learn good opening words.</p>
+          </div>
+          <div class="guide-item">
+            <h3>Want a bigger challenge</h3>
+            <p>Move up through <a href="/puzzles/dordle-unlimited/">Dordle</a> (2 words),
+              <a href="/puzzles/pentordle/">Pentordle</a> (5) and <a href="/puzzles/decordle/">Decordle</a> (10).
+              Each guess applies to every board, so planning matters more than luck.</p>
+          </div>
+          <div class="guide-item">
+            <h3>Prefer a daily ritual</h3>
+            <p><a href="/puzzles/jotto-daily/">Wordle Daily</a>, <a href="/puzzles/word-gridle/">Word Gridle</a> and
+              <a href="/puzzles/dailycross/">DailyCross</a> give you one fresh puzzle each day. Come back tomorrow for
+              the next one.</p>
+          </div>
+          <div class="guide-item">
+            <h3>Bored of guessing letters</h3>
+            <p>Try <a href="/puzzles/word-gridle/">Word Gridle</a> to fill a word grid, or
+              <a href="/puzzles/word-tail/">Word Tail</a>, where each word must start with the last letter of the one
+              before.</p>
+          </div>
+        </div>
+      </section>
+
+      <div class="ad-wrap">
+        <script async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6380671811722843"
+          crossorigin="anonymous"></script>
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6380671811722843"
+          data-ad-slot="1829457969" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
       </div>
 
-      <div class="external-top-grid two">
-        <a href="https://foximax.com/" target="_blank" rel="nofollow noopener">
-          <figure class="game-card">
-            <img src="jotto-digital/assets/foximax.png" alt="FoxiMax word puzzle game icon">
-            <figcaption>
-              <h3>FoxiMax</h3>
-            </figcaption>
-          </figure>
-        </a>
+      <section class="section" id="faq">
+        <div class="section-header">
+          <h2>Frequently Asked Questions</h2>
+        </div>
 
-        <a href="https://www.nytimes.com/games/wordle/index.html" target="_blank" rel="nofollow noopener">
-          <figure class="game-card">
-            <img src="jotto-digital/assets/wordle-icon.png" alt="Original Wordle game icon">
-            <figcaption>
-              <h3>Wordle</h3>
-            </figcaption>
-          </figure>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Are these word games free to play?</summary>
+            <p>Yes. Every game in the collection is free to play in your browser, and you don't need an account to
+              start.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What is the difference between Dordle, Pentordle and Decordle?</summary>
+            <p>The only difference is how many words you solve in parallel: two in Dordle, five in Pentordle and ten
+              in Decordle. More words means more boards to track, so pick the one that matches the challenge you want
+              today.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What is the difference between daily and unlimited modes?</summary>
+            <p>Daily modes give you one new puzzle each day. Unlimited modes let you start a fresh puzzle whenever you
+              like, so you can keep practising.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Which game should I play first?</summary>
+            <p>Start with <a href="/puzzles/wordle-unlimited/">Wordle Unlimited</a> to learn the colour clues, then
+              move to <a href="/puzzles/dordle-unlimited/">Dordle</a>. When two boards feel easy, try Pentordle and
+              then Decordle.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can I play on my phone?</summary>
+            <p>Yes. All games work in mobile browsers, and there is also an Android app on Google Play.</p>
+          </details>
+        </div>
+      </section>
+
+      <div class="support">
+        <p>Prefer an app? Play on Android.</p>
+        <a
+          href="https://play.google.com/store/apps/details?id=org.tahrik.wordle&utm_source=web&utm_campaign=bottom-banner&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+          <img alt="Get it on Google Play" width="646" height="250" loading="lazy" decoding="async"
+            src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">
         </a>
+        <a class="kofi-link" href="https://ko-fi.com/J3J2Q47RJ" target="_blank" rel="noopener">☕ Support us on Ko-fi</a>
       </div>
 
-      <div class="external-grid">
-        <a class="button external" target="_blank" rel="nofollow noopener" href="https://zaratustra.itch.io/dordle">
-          <span class="title">Dordle</span>
-          <span class="sub">External</span>
-        </a>
+      <section class="section">
+        <div class="section-header">
+          <h2>More Word Games Around the Web</h2>
+          <p>Enjoyed these? Here are more word games from other creators.</p>
+        </div>
 
-        <a class="button external" target="_blank" rel="nofollow noopener" href="https://www.quordle.com/#/">
-          <span class="title">Quordle</span>
-          <span class="sub">External</span>
-        </a>
+        <div class="external-grid">
+          <a class="external-link" target="_blank" rel="nofollow noopener"
+            href="https://www.nytimes.com/games/wordle/index.html">Wordle (NYT)</a>
+          <a class="external-link" target="_blank" rel="nofollow noopener" href="https://foximax.com/">FoxiMax</a>
+          <a class="external-link" target="_blank" rel="nofollow noopener"
+            href="https://www.quordle.com/#/">Quordle</a>
+          <a class="external-link" target="_blank" rel="nofollow noopener" href="https://octordle.com">Octordle</a>
+          <a class="external-link" target="_blank" rel="nofollow noopener"
+            href="https://www.sedecordle.com/">Sedecordle</a>
+          <a class="external-link" target="_blank" rel="nofollow noopener"
+            href="https://duotrigordle.com/">Duotrigordle</a>
+          <a class="external-link" target="_blank" rel="nofollow noopener"
+            href="https://worldle.teuteuf.fr/">Worldle</a>
+          <a class="external-link" target="_blank" rel="nofollow noopener" href="https://www.mathler.com/">Mathler</a>
+          <a class="external-link" target="_blank" rel="nofollow noopener"
+            href="https://vegeta897.github.io/wordle-peaks">Wordle Peaks</a>
+          <a class="external-link" target="_blank" rel="nofollow noopener"
+            href="https://zaratustra.itch.io/dordle">Original Dordle</a>
+        </div>
+      </section>
 
-        <a class="button external" target="_blank" rel="nofollow noopener" href="https://octordle.com">
-          <span class="title">Octordle</span>
-          <span class="sub">External</span>
-        </a>
+      <p class="contact-note">
+        Want a new puzzle added to this page? Email us at
+        <a href="mailto:contact.opensourcefeed@gmail.com">contact.opensourcefeed@gmail.com</a>.
+      </p>
 
-        <a class="button external" target="_blank" rel="nofollow noopener" href="https://www.sedecordle.com/">
-          <span class="title">Sedecordle</span>
-          <span class="sub">External</span>
-        </a>
-
-        <a class="button external" target="_blank" rel="nofollow noopener" href="https://duotrigordle.com/?">
-          <span class="title">Duotrigordle</span>
-          <span class="sub">External</span>
-        </a>
-
-        <a class="button external" target="_blank" rel="nofollow noopener" href="https://worldle.teuteuf.fr/">
-          <span class="title">Worldle</span>
-          <span class="sub">External</span>
-        </a>
-
-        <a class="button external" target="_blank" rel="nofollow noopener" href="https://www.mathler.com/">
-          <span class="title">Mathler</span>
-          <span class="sub">External</span>
-        </a>
-
-        <a class="button external" target="_blank" rel="nofollow noopener"
-          href="https://vegeta897.github.io/wordle-peaks">
-          <span class="title">Wordle Peaks</span>
-          <span class="sub">External</span>
-        </a>
+      <div class="ad-wrap">
+        <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed"
+          data-ad-client="ca-pub-6380671811722843" data-ad-slot="6568584607"></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
       </div>
-    </section>
-
-    <p class="contact-note">
-      If you would like a new puzzle added to this page, contact us at
-      <a href="mailto:contact.opensourcefeed@gmail.com">contact.opensourcefeed@gmail.com</a>.
-    </p>
-
-    <div class="ad-wrap" style="margin-top: 20px;">
-      <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed"
-        data-ad-client="ca-pub-6380671811722843" data-ad-slot="6568584607"></ins>
-      <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-    </div>
+    </main>
 
     <footer>
-      &copy; Tahrik Studio 2026
+      <span>&copy; Tahrik Studio 2026</span>
+      <nav aria-label="Footer">
+        <a href="#games">Games</a>
+        <a href="#faq">FAQ</a>
+        <a href="mailto:contact.opensourcefeed@gmail.com">Contact</a>
+        <a href="https://www.opensourcefeed.org/">OpenSourceFeed</a>
+      </nav>
     </footer>
   </div>
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140248750-1"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KD5NJYRYD3"></script>
   <script>
-    function gtag() { dataLayer.push(arguments); }
     window.dataLayer = window.dataLayer || [];
-    gtag("js", new Date());
-    gtag("config", "UA-140248750-1");
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-KD5NJYRYD3');
   </script>
+
+  <!-- Ahrefs Analytics -->
+  <script src="https://analytics.ahrefs.com/analytics.js" data-key="CtE+TXWgN05s3ROalk1xUg" async></script>
 
   <script type="text/javascript">
     !function (t, e, n, c, a, r, s) {
