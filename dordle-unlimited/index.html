@@ -7,33 +7,39 @@
   <meta name="color-scheme" content="light dark">
   <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#0f141b" media="(prefers-color-scheme: dark)">
-  <link rel="icon" type="image/png" href="/puzzles/dordle-unlimited/favicon.png">
-  <link rel="apple-touch-icon" href="/puzzles/dordle-unlimited/favicon.png">
+  <link rel="icon" type="image/png" href="/puzzles/dordle/favicon.png">
+  <link rel="apple-touch-icon" href="/puzzles/dordle/favicon.png">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta property="og:site_name" content="OpenSourceFeed">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://www.opensourcefeed.org/puzzles/dordle/og-image.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Dordle: two word boards solved side by side">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://www.opensourcefeed.org/puzzles/dordle/og-image.png">
+  <meta name="twitter:image:alt" content="Dordle: two word boards solved side by side">
+
+  <!--
+    This file makes two pages (see the pages plugin in vite.config.js):
+    the daily puzzle at /puzzles/dordle/ and unlimited play at
+    /puzzles/dordle-unlimited/. Content between mode:daily and
+    mode:unlimited markers goes on that page only.
+  -->
+
 
   <title>Dordle Unlimited – Guess Two Words at Once | Free Word Game</title>
   <meta name="description"
     content="Play Dordle Unlimited free: find two hidden five-letter words at the same time in 8 guesses. Unlimited games, no sign-up, with dark and colour-blind modes.">
-  <meta name="robots" content="index, follow, max-image-preview:large">
   <link rel="canonical" href="https://www.opensourcefeed.org/puzzles/dordle-unlimited/">
-
-  <meta property="og:site_name" content="OpenSourceFeed">
-  <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.opensourcefeed.org/puzzles/dordle-unlimited/">
   <meta property="og:title" content="Dordle Unlimited – Guess Two Words at Once">
   <meta property="og:description"
     content="Find two hidden five-letter words at the same time in 8 guesses. Free, unlimited games, no sign-up.">
-  <meta property="og:image" content="https://www.opensourcefeed.org/puzzles/dordle-unlimited/og-image.png">
-  <meta property="og:image:type" content="image/png">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Dordle Unlimited: two word boards solved side by side">
-  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Dordle Unlimited – Guess Two Words at Once">
   <meta name="twitter:description"
     content="Find two hidden five-letter words at the same time in 8 guesses. Free, unlimited games, no sign-up.">
-  <meta name="twitter:image" content="https://www.opensourcefeed.org/puzzles/dordle-unlimited/og-image.png">
-  <meta name="twitter:image:alt" content="Dordle Unlimited: two word boards solved side by side">
-
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -44,7 +50,7 @@
           "name": "Dordle Unlimited",
           "description": "A free word game: find two hidden five-letter words at the same time in 8 guesses, with unlimited games.",
           "url": "https://www.opensourcefeed.org/puzzles/dordle-unlimited/",
-          "image": "https://www.opensourcefeed.org/puzzles/dordle-unlimited/og-image.png",
+          "image": "https://www.opensourcefeed.org/puzzles/dordle/og-image.png",
           "inLanguage": "en",
           "genre": ["Puzzle", "Word game"],
           "gamePlatform": "Web browser",
@@ -78,13 +84,13 @@
             },
             {
               "@type": "Question",
-              "name": "What do the split colours on the keyboard mean?",
-              "acceptedAnswer": { "@type": "Answer", "text": "The left half of a key shows how that letter scored on the left board, and the right half shows the right board." }
+              "name": "Is there a daily Dordle?",
+              "acceptedAnswer": { "@type": "Answer", "text": "Yes. The daily Dordle gives everyone the same two words each day, with a streak to keep going." }
             },
             {
               "@type": "Question",
-              "name": "Is Dordle Unlimited free?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Yes. It is free to play in any browser with no sign-up, and there is also an Android app." }
+              "name": "What do the split colours on the keyboard mean?",
+              "acceptedAnswer": { "@type": "Answer", "text": "The left half of a key shows how that letter scored on the left board, and the right half shows the right board." }
             },
             {
               "@type": "Question",
@@ -96,7 +102,6 @@
       ]
     }
   </script>
-
 <!-- boot-loader:head -->
 <!-- Shared boot loader: edit shared/boot-loader/boot-loader.html, then run shared/boot-loader/install.mjs -->
 <style>html.boot-loading,html.boot-loading body{overflow:hidden}.boot-loader{display:none}html.boot-loading .boot-loader{--boot-loader-surface:var(--boot-loader-bg,#fff);--boot-loader-border:#d6dbe1;--boot-loader-fill:#6bbf6e;--boot-loader-ink:#111827;--boot-loader-glow:#388e3c47;z-index:2147483000;background:var(--boot-loader-surface);place-items:center;transition:opacity .35s;display:grid;position:fixed;inset:0}html.boot-loading.dark .boot-loader{--boot-loader-surface:var(--boot-loader-bg,#0f141b);--boot-loader-border:#2f3a48;--boot-loader-fill:#3c8c45;--boot-loader-ink:#fff;--boot-loader-glow:#3c8c4559}@media (prefers-color-scheme:dark){html.boot-loading:not(.light) .boot-loader{--boot-loader-surface:var(--boot-loader-bg,#0f141b);--boot-loader-border:#2f3a48;--boot-loader-fill:#3c8c45;--boot-loader-ink:#fff;--boot-loader-glow:#3c8c4559}}html.boot-loading.colorblind .boot-loader{--boot-loader-fill:#f5793a;--boot-loader-glow:#f5793a4d}html.boot-loading.colorblind.dark .boot-loader{--boot-loader-fill:#c8541f}@media (prefers-color-scheme:dark){html.boot-loading.colorblind:not(.light) .boot-loader{--boot-loader-fill:#c8541f}}html.boot-loading .boot-loader.boot-loader--hidden{opacity:0;pointer-events:none}.boot-loader__tiles{--boot-loader-gap:clamp(4px, 1.2vw, 7px);--boot-loader-tile:min(52px, calc((88vw - (var(--boot-loader-count,6) - 1) * var(--boot-loader-gap)) / var(--boot-loader-count,6)));gap:var(--boot-loader-gap);opacity:0;perspective:600px;transition:transform .35s;animation:.4s ease-out .25s forwards boot-loader-appear;display:flex}.boot-loader--hidden .boot-loader__tiles{animation-play-state:paused;transform:scale(.96)}.boot-loader__tiles span{width:var(--boot-loader-tile);height:var(--boot-loader-tile);box-sizing:border-box;border:2px solid var(--boot-loader-border);border-radius:calc(var(--boot-loader-tile) * .12);color:#0000;font:700 calc(var(--boot-loader-tile) * .52)/1 "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;text-transform:uppercase;animation:2.8s cubic-bezier(.45,0,.25,1) infinite boot-loader-reveal;animation-delay:calc(.25s + var(--boot-loader-index,0) * .1s);place-items:center;display:grid}@keyframes boot-loader-appear{0%{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}@keyframes boot-loader-reveal{0%{border-color:var(--boot-loader-border);color:#0000;box-shadow:none;background:0 0;transform:rotateX(0)}9%{border-color:var(--boot-loader-border);color:#0000;background:0 0;transform:rotateX(90deg)}9.1%{background:var(--boot-loader-fill);border-color:var(--boot-loader-fill);color:var(--boot-loader-ink);transform:rotateX(90deg)}18%{background:var(--boot-loader-fill);border-color:var(--boot-loader-fill);color:var(--boot-loader-ink);box-shadow:0 10px 18px -10px var(--boot-loader-glow);transform:rotateX(0)translateY(-3px)}24%,66%{background:var(--boot-loader-fill);border-color:var(--boot-loader-fill);color:var(--boot-loader-ink);box-shadow:0 6px 14px -10px var(--boot-loader-glow);transform:rotateX(0)translateY(0)}80%,to{border-color:var(--boot-loader-border);color:#0000;box-shadow:none;background:0 0;transform:rotateX(0)}}@media (prefers-reduced-motion:reduce){.boot-loader__tiles{animation-duration:10ms}.boot-loader__tiles span{background:var(--boot-loader-fill);border-color:var(--boot-loader-fill);color:var(--boot-loader-ink);animation:2s ease-in-out infinite boot-loader-breathe}@keyframes boot-loader-breathe{50%{opacity:.6}}}.boot-loader__label{clip:rect(0 0 0 0);white-space:nowrap;width:1px;height:1px;position:absolute;overflow:hidden}</style>
@@ -117,8 +122,8 @@
   })();
 </script>
 <!-- /boot-loader:head -->
-  <script type="module" crossorigin src="/puzzles/dordle-unlimited/assets/index-9wEMrS3R.js"></script>
-  <link rel="stylesheet" crossorigin href="/puzzles/dordle-unlimited/assets/index-BEnVcmGr.css">
+  <script type="module" crossorigin src="/puzzles/dordle/assets/index-DWhGBz8j.js"></script>
+  <link rel="stylesheet" crossorigin href="/puzzles/dordle/assets/index-D3eFBg_b.css">
 </head>
 
 <body>
@@ -169,24 +174,53 @@
       }
     }
 
+    var removeTimer;
+    var shownForLeaving = false;
+
     function hide() {
       if (done) return;
       done = true;
       loader.classList.add('boot-loader--hidden');
-      setTimeout(function () {
+      removeTimer = setTimeout(function () {
         html.classList.remove('boot-loading');
         if (loader.parentNode) loader.parentNode.removeChild(loader);
       }, 380);
     }
 
+    // Covers the page again, e.g. right before moving to another page (the
+    // next page's own loader takes over). The tiles start afresh.
+    function show() {
+      clearTimeout(removeTimer);
+      done = false;
+      started = Date.now();
+      var fresh = tiles.cloneNode(true);
+      tiles.parentNode.replaceChild(fresh, tiles);
+      tiles = fresh;
+      loader.classList.remove('boot-loader--hidden');
+      html.classList.add('boot-loading');
+      if (!loader.parentNode) document.body.appendChild(loader);
+      shownForLeaving = true;
+    }
+
+    // Back/forward can restore this page from the browser's cache with the
+    // loader still showing: take it away
+    window.addEventListener('pageshow', function (event) {
+      if (event.persisted && shownForLeaving) {
+        shownForLeaving = false;
+        hide();
+      }
+    });
+
     // A game that renders before its data is ready calls hold() before
-    // rendering and hide() when it is ready
+    // rendering and hide() when it is ready. show() covers the page again,
+    // for example when switching to another page of the game.
     window.bootLoader = {
       hold: function () { held = true; },
       hide: function () {
         // Wait a frame so the game has painted underneath
         requestAnimationFrame(function () { requestAnimationFrame(requestHide); });
       },
+      show: show,
     };
 
     // This script sits right after #root, so it watches before the game's
@@ -220,7 +254,7 @@
     <p class="about-lead">
       Dordle Unlimited is a free word game with two hidden five-letter words. Every guess you type is played on both
       boards at the same time, and you have 8 guesses to find both words. There is no daily limit: start a new game
-      whenever you like.
+      whenever you like. For one shared puzzle a day, <a href="/puzzles/dordle/">play the daily Dordle</a>.
     </p>
 
     <h2>How to play</h2>
@@ -246,14 +280,14 @@
           tomorrow's puzzle.</p>
       </details>
       <details>
+        <summary>Is there a daily Dordle?</summary>
+        <p>Yes. <a href="/puzzles/dordle/">The daily Dordle</a> gives everyone the same two words each day, with a
+          streak to keep going.</p>
+      </details>
+      <details>
         <summary>What do the split colours on the keyboard mean?</summary>
         <p>The left half of a key shows how that letter scored on the left board, and the right half shows the right
           board.</p>
-      </details>
-      <details>
-        <summary>Is Dordle Unlimited free?</summary>
-        <p>Yes. It is free to play in any browser with no sign-up, and there is also an
-          <a href="https://play.google.com/store/apps/details?id=org.tahrik.wordle&utm_source=web&utm_campaign=dordle-faq">Android app</a>.</p>
       </details>
       <details>
         <summary>Is there a colour-blind mode?</summary>
@@ -263,6 +297,7 @@
 
     <h2>More word games</h2>
     <p class="about-links">
+      <a href="https://www.opensourcefeed.org/puzzles/dordle/">Daily Dordle</a>
       <a href="https://www.opensourcefeed.org/puzzles/wordle-unlimited/">Wordle Unlimited</a>
       <a href="https://www.opensourcefeed.org/puzzles/decordle-unlimited/">Decordle Unlimited</a>
       <a href="https://www.opensourcefeed.org/puzzles/dailycross/">DailyCross</a>
@@ -272,10 +307,10 @@
 
     <p class="about-app">
       <a href="https://play.google.com/store/apps/details?id=org.tahrik.wordle&utm_source=web&utm_campaign=bottom-banner&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
-        <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+        <img alt="Get it on Google Play" src="/puzzles/dordle/google-play-badge.png"
           width="200" height="77" loading="lazy"></a>
     </p>
-    <p class="about-footer">Dordle Unlimited is made by <a href="https://www.opensourcefeed.org/">OpenSourceFeed</a>.</p>
+    <p class="about-footer">Dordle is made by <a href="https://www.opensourcefeed.org/">OpenSourceFeed</a>.</p>
   </section>
 
 
