@@ -1,18 +1,13 @@
 {
   "files": {
-    "main.css": "/puzzles/word-tail/static/css/main.945a9060.css",
-    "main.js": "/puzzles/word-tail/static/js/main.274aade0.js",
+    "main.css": "/puzzles/word-tail/static/css/main.8bcc64b5.css",
+    "main.js": "/puzzles/word-tail/static/js/main.1aec431b.js",
     "static/js/271.0abd455b.chunk.js": "/puzzles/word-tail/static/js/271.0abd455b.chunk.js",
     "static/js/925.fe71e137.chunk.js": "/puzzles/word-tail/static/js/925.fe71e137.chunk.js",
-    "static/media/passed.mp3": "/puzzles/word-tail/static/media/passed.6ea9e94402f6a7784316.mp3",
-    "static/media/start.mp3": "/puzzles/word-tail/static/media/start.3d8bc5d81d43cb363d94.mp3",
-    "static/media/word-enter.mp3": "/puzzles/word-tail/static/media/word-enter.74c265da64d4d7892ac1.mp3",
-    "index.html": "/puzzles/word-tail/index.html",
-    "static/media/lost.mp3": "/puzzles/word-tail/static/media/lost.27a5351096e3b7ccea1c.mp3",
-    "static/media/error.mp3": "/puzzles/word-tail/static/media/error.12f3c90e6c61ac0fb54b.mp3"
+    "index.html": "/puzzles/word-tail/index.html"
   },
   "entrypoints": [
-    "static/css/main.945a9060.css",
-    "static/js/main.274aade0.js"
+    "static/css/main.8bcc64b5.css",
+    "static/js/main.1aec431b.js"
   ]
 }
