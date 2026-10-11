@@ -413,6 +413,19 @@
       background: var(--tile-blue);
     }
 
+    /* Game's own app icon instead of a letter tile */
+    .game-icon.app {
+      overflow: hidden;
+      background: none;
+      box-shadow: none;
+    }
+
+    .game-icon.app img {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
     .game-body h3 {
       margin: 0;
       font-size: 1.12rem;
@@ -457,6 +470,11 @@
       margin: 0 auto;
     }
 
+    .card-grid.single {
+      grid-template-columns: minmax(0, 1fr);
+      max-width: 211px;
+    }
+
     .game-card {
       position: relative;
       margin: 0;
@@ -495,17 +513,6 @@
       font-family: var(--font-display);
       font-weight: 700;
       font-size: 0.96rem;
-    }
-
-    .badge {
-      padding: 2px 6px;
-      border-radius: 6px;
-      font-family: var(--font-body);
-      font-size: 0.68rem;
-      font-weight: 700;
-      letter-spacing: 0.06em;
-      color: #0b1f17;
-      background: var(--tile-yellow);
     }
 
     /* Light content block */
@@ -955,7 +962,8 @@
             { "@type": "ListItem", "position": 7, "item": { "@type": "Game", "name": "Word Gridle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/gridle-unlimited/" } },
             { "@type": "ListItem", "position": 8, "item": { "@type": "Game", "name": "DailyCross", "url": "https://www.opensourcefeed.org/puzzles/dailycross/" } },
             { "@type": "ListItem", "position": 9, "item": { "@type": "Game", "name": "Word Plant", "url": "https://www.opensourcefeed.org/puzzles/word-plant/" } },
-            { "@type": "ListItem", "position": 10, "item": { "@type": "Game", "name": "Word Tail", "url": "https://www.opensourcefeed.org/puzzles/word-tail/" } }
+            { "@type": "ListItem", "position": 10, "item": { "@type": "Game", "name": "Word Tail Daily", "url": "https://www.opensourcefeed.org/puzzles/word-tail/" } },
+            { "@type": "ListItem", "position": 11, "item": { "@type": "Game", "name": "Word Tail Unlimited", "url": "https://www.opensourcefeed.org/puzzles/word-tail/unlimited/" } }
           ]
         }
       },
@@ -1108,29 +1116,42 @@
               <span class="chips"><span class="chip accent">Grid</span><span class="chip">Unlimited</span></span>
             </div>
           </a>
+
+          <a class="game-tile" href="/puzzles/word-tail/">
+            <span class="game-icon app" aria-hidden="true"><img src="/puzzles/word-tail/icon-192.png" alt="" width="52"
+                height="52" loading="lazy" decoding="async"></span>
+            <div class="game-body">
+              <h3>Word Tail Daily</h3>
+              <p>Build a 15-word chain where each word starts with the last letter of the one before. Same start word
+                for everyone, every day.</p>
+              <span class="chips"><span class="chip accent">Word chain</span><span class="chip">Daily</span><span class="chip">Streaks</span></span>
+            </div>
+          </a>
+
+          <a class="game-tile" href="/puzzles/word-tail/unlimited/">
+            <span class="game-icon app" aria-hidden="true"><img src="/puzzles/word-tail/icon-192.png" alt="" width="52"
+                height="52" loading="lazy" decoding="async"></span>
+            <div class="game-body">
+              <h3>Word Tail Unlimited</h3>
+              <p>The same last-letter word chain with a random start word. Play again as often as you like.</p>
+              <span class="chips"><span class="chip accent">Word chain</span><span class="chip">Unlimited</span></span>
+            </div>
+          </a>
         </div>
       </section>
 
       <section class="section">
         <div class="section-header">
           <h2>Discover More</h2>
-          <p>Try two more word puzzles from our collection, including one in beta.</p>
+          <p>Try one more word puzzle from our collection.</p>
         </div>
 
-        <div class="card-grid">
+        <div class="card-grid single">
           <a href="/puzzles/word-plant/">
             <figure class="game-card">
               <img src="jotto-digital/assets/word-plant.jpg" alt="Word Plant puzzle game cover" width="200"
                 height="200" loading="lazy" decoding="async">
               <figcaption>Word Plant</figcaption>
-            </figure>
-          </a>
-
-          <a href="/puzzles/word-tail/">
-            <figure class="game-card">
-              <img src="jotto-digital/assets/word-tail.png" alt="Word Tail puzzle game cover" width="128" height="128"
-                loading="lazy" decoding="async">
-              <figcaption>Word Tail <span class="badge">BETA</span></figcaption>
             </figure>
           </a>
         </div>
@@ -1157,15 +1178,16 @@
           </div>
           <div class="guide-item">
             <h3>Prefer a daily ritual</h3>
-            <p><a href="/puzzles/jotto-daily/">Wordle Daily</a>, <a href="/puzzles/word-gridle/">Word Gridle</a> and
-              <a href="/puzzles/dailycross/">DailyCross</a> give you one fresh puzzle each day. Come back tomorrow for
+            <p><a href="/puzzles/jotto-daily/">Wordle Daily</a>, <a href="/puzzles/word-gridle/">Word Gridle</a>,
+              <a href="/puzzles/dailycross/">DailyCross</a> and <a href="/puzzles/word-tail/">Word Tail</a> give you
+              one fresh puzzle each day. Come back tomorrow for
               the next one.</p>
           </div>
           <div class="guide-item">
             <h3>Bored of guessing letters</h3>
             <p>Try <a href="/puzzles/word-gridle/">Word Gridle</a> to fill a word grid, or
               <a href="/puzzles/word-tail/">Word Tail</a>, where each word must start with the last letter of the one
-              before.</p>
+              before (<a href="/puzzles/word-tail/unlimited/">unlimited</a> too).</p>
           </div>
         </div>
       </section>
