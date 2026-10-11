@@ -4,119 +4,112 @@
   "title": "Level 114",
   "words": [
     {
-      "clue": "You wear these on your ears to listen",
-      "answer": "HEADPHONES",
-      "row": 6,
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who runs a library and helps you find books",
-      "answer": "LIBRARIAN",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape with five straight sides",
-      "answer": "PENTAGON",
-      "row": 6,
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A tool for drawing perfect circles",
-      "answer": "COMPASS",
-      "row": 10,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 13,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
+      "clue": "A test a scientist does to find something out",
+      "answer": "EXPERIMENT",
       "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Annoyed because something keeps going wrong",
+      "answer": "FRUSTRATED",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A big reptile with powerful jaws that lurks in rivers",
+      "answer": "CROCODILE",
+      "row": 5,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 10,
-      "col": 0,
+      "clue": "A four-sided shape with just one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 8,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that washes your clothes",
-      "answer": "WASHER",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A round metal prize you wear around your neck",
-      "answer": "MEDAL",
-      "row": 0,
+      "clue": "Wireless tech, named after a Viking king, that links nearby devices",
+      "answer": "BLUETOOTH",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape with a round base and a pointy top",
-      "answer": "CONE",
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
       "row": 0,
-      "col": 7,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Weather that's not too hot and not too cold",
-      "answer": "MILD",
-      "row": 2,
-      "col": 2,
+      "clue": "A bright pinkish-purple used in printer ink",
+      "answer": "MAGENTA",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The front of your neck, where your voice comes from",
+      "answer": "THROAT",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A round dent on the Moon made by a crashing space rock",
+      "answer": "CRATER",
+      "row": 9,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Another name for your belly button",
+      "answer": "NAVEL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Part of the sea that curves into the land",
+      "answer": "BAY",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 15,
   "targetWords": 20,
   "difficulty": "hard"
 }

@@ -4,59 +4,73 @@
   "title": "2027-09-30",
   "words": [
     {
-      "clue": "A person who gives emergency care before the hospital",
-      "answer": "PARAMEDIC",
-      "row": 1,
-      "col": 2,
+      "clue": "It makes a blunt pencil pointy again",
+      "answer": "SHARPENER",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A yellow flower you blow to make a wish",
-      "answer": "DANDELION",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who works on a ship out at sea",
-      "answer": "SAILOR",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A breakfast food you eat with milk",
-      "answer": "CEREAL",
+      "clue": "A spinning funnel of wind that touches the ground",
+      "answer": "TORNADO",
       "row": 4,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of rough",
+      "answer": "SMOOTH",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
+      "clue": "The flap of skin that closes when you blink",
+      "answer": "EYELID",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A white stick for writing on a blackboard",
+      "answer": "CHALK",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Very cross; how you feel when something is unfair",
+      "answer": "ANGRY",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A ball game played on horseback with a long stick",
-      "answer": "POLO",
-      "row": 7,
-      "col": 4,
+      "clue": "The part of a plant that holds the seeds",
+      "answer": "FRUIT",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Little balls of ice that fall during a storm",
-      "answer": "HAIL",
-      "row": 3,
-      "col": 0,
+      "clue": "The opposite of lost",
+      "answer": "FOUND",
+      "row": 8,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "One of the straight edges of a shape",
+      "answer": "SIDE",
+      "row": 12,
+      "col": 5,
       "direction": "across"
     }
   ],

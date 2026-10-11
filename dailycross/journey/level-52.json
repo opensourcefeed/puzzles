@@ -4,77 +4,91 @@
   "title": "Level 52",
   "words": [
     {
-      "clue": "A small note that sticks where you press it",
-      "answer": "STICKYNOTE",
-      "row": 4,
+      "clue": "It shows pictures big on a screen or wall",
+      "answer": "PROJECTOR",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tiny chip that stores photos inside a camera",
-      "answer": "MEMORYCARD",
-      "row": 1,
-      "col": 7,
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
+      "row": 6,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A vehicle that rushes sick people to the hospital",
-      "answer": "AMBULANCE",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
       "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, bright blue like the daytime sky",
-      "answer": "SKYBLUE",
-      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A group of computers linked to share information",
-      "answer": "NETWORK",
-      "row": 2,
-      "col": 6,
+      "clue": "The sport with pitchers, catchers and home runs",
+      "answer": "BASEBALL",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
+      "clue": "A line joining two opposite corners",
+      "answer": "DIAGONAL",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Glad that a worry is finally over",
+      "answer": "RELIEVED",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A doctor who looks after your teeth",
+      "answer": "DENTIST",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "It clips sheets of paper together with little metal pins",
+      "answer": "STAPLER",
       "row": 11,
-      "col": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
+      "clue": "How you feel the night before your birthday party",
+      "answer": "EXCITED",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small pool of water on the ground after a shower",
+      "answer": "PUDDLE",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A crunchy green vegetable with long stalks",
+      "answer": "CELERY",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small round fastener on a shirt, or a thing you click on screen",
+      "answer": "BUTTON",
       "row": 0,
       "col": 2,
       "direction": "down"
-    },
-    {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A small cupboard at school for your stuff",
-      "answer": "LOCKER",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 12,
   "targetWords": 12,
   "difficulty": "medium"
 }

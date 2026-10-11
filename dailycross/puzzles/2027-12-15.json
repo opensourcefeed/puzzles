@@ -4,67 +4,67 @@
   "title": "2027-12-15",
   "words": [
     {
-      "clue": "A phone you can also browse the internet on",
-      "answer": "SMARTPHONE",
+      "clue": "The person who stamps your books and helps you find the next one",
+      "answer": "LIBRARIAN",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
+      "clue": "Wooden bars you hit with mallets to play notes",
+      "answer": "XYLOPHONE",
       "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
-      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A big area covered with lots of trees",
-      "answer": "FOREST",
-      "row": 3,
-      "col": 10,
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A small, crunchy root with a peppery taste",
-      "answer": "RADISH",
-      "row": 0,
-      "col": 2,
+      "clue": "A bright pinkish-purple used in printer ink",
+      "answer": "MAGENTA",
+      "row": 7,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "You use this to eat, talk, and smile",
-      "answer": "MOUTH",
-      "row": 2,
-      "col": 1,
+      "clue": "A person who cuts men's hair and trims beards",
+      "answer": "BARBER",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A group of web pages that share one name",
-      "answer": "SITE",
-      "row": 6,
+      "clue": "A round dent on the Moon made by a crashing space rock",
+      "answer": "CRATER",
+      "row": 5,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The finger next to your little finger, where jewelry is often worn",
-      "answer": "RING",
-      "row": 0,
-      "col": 8,
+      "clue": "The part of a plant that holds the seeds",
+      "answer": "FRUIT",
+      "row": 4,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "The opposite of thick",
+      "answer": "THIN",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Sticky stuff used to join paper together",
+      "answer": "GLUE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 551

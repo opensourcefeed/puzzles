@@ -4,66 +4,73 @@
   "title": "2028-03-01",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
       "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling super eager about something fun",
-      "answer": "EXCITED",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A spot where water flows out of the ground",
-      "answer": "SPRING",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
+      "clue": "The panel of keys you type on",
+      "answer": "KEYBOARD",
       "row": 3,
-      "col": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A line joining two opposite corners",
+      "answer": "DIAGONAL",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
-      "row": 1,
+      "clue": "A shape with eight sides, like a stop sign",
+      "answer": "OCTAGON",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A structure that carries a road over water",
+      "answer": "BRIDGE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of fresh snow and milk",
+      "answer": "WHITE",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint between your foot and your leg",
+      "answer": "ANKLE",
+      "row": 11,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Weather with strong, blowing winds",
-      "answer": "WINDY",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
+      "clue": "The − sign, used for taking away",
+      "answer": "MINUS",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "One of the straight edges of a shape",
-      "answer": "SIDE",
+      "clue": "The hot cloud that rises from boiling water",
+      "answer": "STEAM",
       "row": 0,
-      "col": 7,
+      "col": 11,
       "direction": "down"
     }
   ],

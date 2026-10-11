@@ -4,112 +4,140 @@
   "title": "Level 120",
   "words": [
     {
-      "clue": "A thick, wet forest that gets lots of rain",
-      "answer": "RAINFOREST",
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Wireless tech that connects nearby devices",
-      "answer": "BLUETOOTH",
-      "row": 4,
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A tall cupboard for hanging up your clothes",
-      "answer": "WARDROBE",
-      "row": 6,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A purple flower known for its calming smell",
-      "answer": "LAVENDER",
-      "row": 13,
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
+      "row": 5,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
       "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A big place with rows of seats for watching sports",
-      "answer": "STADIUM",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with six straight sides",
-      "answer": "HEXAGON",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The season when flowers bloom after winter",
-      "answer": "SPRING",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "To split a number into equal parts",
-      "answer": "DIVIDE",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A round citrus fruit you peel and eat in slices",
-      "answer": "ORANGE",
-      "row": 7,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of fresh snow and milk",
-      "answer": "WHITE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A yellow citrus fruit with a very sour taste",
-      "answer": "LEMON",
-      "row": 8,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of buy",
-      "answer": "SELL",
-      "row": 13,
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
+      "row": 14,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Riding ocean waves on a board",
+      "answer": "SURFING",
+      "row": 12,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A spinning funnel of wind that touches the ground",
+      "answer": "TORNADO",
+      "row": 14,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A very deep valley carved by a river, like the Grand one in Arizona",
+      "answer": "CANYON",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A hanging spike of ice that forms when dripping water freezes",
+      "answer": "ICICLE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A building where cars are parked or repaired",
+      "answer": "GARAGE",
+      "row": 9,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small green or black fruit, and its dull green color",
+      "answer": "OLIVE",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A glass shape that splits light into a rainbow",
+      "answer": "PRISM",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The tiny building block that everything is made of",
+      "answer": "ATOM",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The muscle at the back of your lower leg, or a baby cow",
+      "answer": "CALF",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet fruit, narrow at the top and round at the bottom",
+      "answer": "PEAR",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A wild cousin of the dog that howls and lives in a pack",
+      "answer": "WOLF",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 19,
   "targetWords": 21,
   "difficulty": "hard"
 }

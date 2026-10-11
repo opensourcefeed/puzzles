@@ -4,74 +4,74 @@
   "title": "2027-11-15",
   "words": [
     {
-      "clue": "Someone riding in a vehicle but not driving",
-      "answer": "PASSENGER",
-      "row": 7,
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A vehicle that rushes sick people to the hospital",
+      "answer": "AMBULANCE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright flash in the sky during a storm",
+      "answer": "LIGHTNING",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
       "row": 5,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
-      "row": 6,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
+      "clue": "A shape with five straight sides",
+      "answer": "PENTAGON",
       "row": 9,
-      "col": 0,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
+      "clue": "A shape with eight sides, like a stop sign",
+      "answer": "OCTAGON",
       "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 4,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 12,
-      "col": 0,
+      "clue": "The amount of turn between two lines that meet",
+      "answer": "ANGLE",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person who serves food and drinks at a restaurant",
-      "answer": "WAITER",
-      "row": 1,
-      "col": 12,
+      "clue": "The color of fresh snow and milk",
+      "answer": "WHITE",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "How it feels when you need a coat and gloves",
+      "answer": "COLD",
+      "row": 8,
+      "col": 11,
       "direction": "down"
-    },
-    {
-      "clue": "A shaker filled with beads that rattles",
-      "answer": "MARACA",
-      "row": 2,
-      "col": 9,
-      "direction": "across"
     }
   ],
   "dayNumber": 521

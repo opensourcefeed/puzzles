@@ -4,60 +4,74 @@
   "title": "2028-03-22",
   "words": [
     {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
       "row": 2,
-      "col": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A big reptile with powerful jaws that lurks in rivers",
+      "answer": "CROCODILE",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
       "row": 5,
-      "col": 4,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "The place where water flows out of a lake",
-      "answer": "OUTLET",
+      "clue": "The rainbow color between blue and violet",
+      "answer": "INDIGO",
       "row": 7,
-      "col": 7,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A person who serves food and drinks at a restaurant",
-      "answer": "WAITER",
-      "row": 3,
-      "col": 4,
+      "clue": "A food made from milk that cartoon mice love",
+      "answer": "CHEESE",
+      "row": 4,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The number of points in a game",
-      "answer": "SCORE",
-      "row": 3,
-      "col": 11,
+      "clue": "The black dot in the middle of your eye, or a student",
+      "answer": "PUPIL",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Thin sheets you write or draw on",
-      "answer": "PAPER",
+      "clue": "A person who plays roles in movies and plays",
+      "answer": "ACTOR",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A hot tool that presses wrinkles out of clothes",
+      "answer": "IRON",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A pale blue-green, like water",
-      "answer": "AQUA",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
+      "clue": "A program you download onto your phone",
+      "answer": "APP",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 649

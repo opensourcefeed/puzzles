@@ -4,66 +4,62 @@
   "title": "2028-04-12",
   "words": [
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
       "row": 3,
-      "col": 8,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A small rocky object that circles the Sun",
-      "answer": "ASTEROID",
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
       "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 8,
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
+      "clue": "The number of points in a game",
+      "answer": "SCORE",
       "row": 0,
-      "col": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 6,
-      "col": 0,
+      "clue": "The smallest finger on your hand",
+      "answer": "PINKY",
+      "row": 11,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
+      "clue": "A person whose job is to protect a place",
+      "answer": "GUARD",
       "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A cook who prepares meals in a kitchen",
-      "answer": "CHEF",
-      "row": 4,
-      "col": 6,
+      "col": 8,
       "direction": "down"
     }
   ],

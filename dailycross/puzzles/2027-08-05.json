@@ -4,74 +4,74 @@
   "title": "2027-08-05",
   "words": [
     {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A very tall, steep, rocky peak",
-      "answer": "MOUNTAIN",
+      "clue": "How you might feel before a big test or show",
+      "answer": "NERVOUS",
       "row": 2,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The opposite of generous",
-      "answer": "SELFISH",
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
       "row": 3,
-      "col": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Feeling safe and protected",
-      "answer": "SECURE",
+      "clue": "A vegetable you can bake, mash, or fry into chips",
+      "answer": "POTATO",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of never",
+      "answer": "ALWAYS",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small round red fruit that grows in pairs on a stem",
+      "answer": "CHERRY",
       "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Land with water all around it",
-      "answer": "ISLAND",
+      "clue": "A photo you take of yourself",
+      "answer": "SELFIE",
       "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 6,
       "col": 6,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A pinkish-orange color",
-      "answer": "CORAL",
-      "row": 7,
+      "clue": "How you feel when something good happens; full of smiles",
+      "answer": "HAPPY",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Moving air you can feel but not see",
-      "answer": "WIND",
-      "row": 0,
-      "col": 8,
+      "clue": "A device you use to call people far away",
+      "answer": "PHONE",
+      "row": 1,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "A thin, light fog close to the ground",
+      "answer": "MIST",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 419

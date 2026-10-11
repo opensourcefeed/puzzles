@@ -4,73 +4,74 @@
   "title": "2027-10-31",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
-      "row": 6,
+      "clue": "A person who builds things out of wood",
+      "answer": "CARPENTER",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Furniture with shelves for holding your books",
-      "answer": "BOOKSHELF",
-      "row": 0,
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Cloth hung over a window for privacy",
-      "answer": "CURTAIN",
-      "row": 11,
-      "col": 6,
+      "clue": "A shape like a door: two long sides and two short",
+      "answer": "RECTANGLE",
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A shiny light gray, like the metal",
-      "answer": "SILVER",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
-      "row": 3,
-      "col": 13,
+      "clue": "One of the two holes in your nose",
+      "answer": "NOSTRIL",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A long, curved yellow fruit you peel",
-      "answer": "BANANA",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dry place that gets little rain",
-      "answer": "DESERT",
+      "clue": "A green fruit with a big pit, mashed into guacamole",
+      "answer": "AVOCADO",
       "row": 4,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that puts your work onto paper",
+      "answer": "PRINTER",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A glass opening in a wall that lets in light and air",
+      "answer": "WINDOW",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall instrument you play by plucking its strings",
+      "answer": "HARP",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat surface of a solid shape",
+      "answer": "FACE",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     }
   ],

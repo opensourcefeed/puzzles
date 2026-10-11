@@ -4,73 +4,73 @@
   "title": "2027-02-16",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
+      "clue": "Where a river drops straight down over a cliff",
+      "answer": "WATERFALL",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who plays music or sings for a living",
-      "answer": "MUSICIAN",
-      "row": 5,
-      "col": 5,
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 5,
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of computers linked to share information",
+      "answer": "NETWORK",
+      "row": 7,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The person who steers a vehicle",
-      "answer": "DRIVER",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep valley with steep sides and a river below",
-      "answer": "CANYON",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
+      "clue": "A perfectly round solid, like a ball",
+      "answer": "SPHERE",
       "row": 0,
-      "col": 4,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "A slow animal that carries its shell around",
       "answer": "TURTLE",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
       "row": 3,
-      "col": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of full",
-      "answer": "EMPTY",
-      "row": 8,
+      "clue": "The color of a banana or a school bus",
+      "answer": "YELLOW",
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The part of a plant that grows underground",
-      "answer": "ROOT",
-      "row": 1,
-      "col": 3,
+      "clue": "The skin on top of your head where hair grows",
+      "answer": "SCALP",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of fresh snow and milk",
+      "answer": "WHITE",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     }
   ],

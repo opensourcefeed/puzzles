@@ -4,74 +4,67 @@
   "title": "2026-11-24",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
-      "row": 4,
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
+      "clue": "Extremely, red-faced mad",
+      "answer": "FURIOUS",
       "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The main tune of a song",
+      "answer": "MELODY",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small green or black fruit, and its dull green color",
+      "answer": "OLIVE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The smallest finger on your hand",
+      "answer": "PINKY",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall instrument you play by plucking its strings",
+      "answer": "HARP",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The opposite of open",
-      "answer": "CLOSED",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The coldest, snowiest season",
-      "answer": "WINTER",
+      "clue": "The answer you get when you add numbers",
+      "answer": "SUM",
       "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where water flows out of a lake",
-      "answer": "OUTLET",
-      "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small group of trees",
-      "answer": "GROVE",
-      "row": 2,
-      "col": 1,
+      "clue": "The star at the center of our solar system",
+      "answer": "SUN",
+      "row": 6,
+      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "The joint that lets your leg bend",
-      "answer": "KNEE",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A pale blue-green, like water",
-      "answer": "AQUA",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "dayNumber": 165

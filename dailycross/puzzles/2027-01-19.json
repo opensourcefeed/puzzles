@@ -4,74 +4,67 @@
   "title": "2027-01-19",
   "words": [
     {
-      "clue": "A boat that can travel underwater",
-      "answer": "SUBMARINE",
-      "row": 3,
-      "col": 3,
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "It makes a pencil pointy again",
-      "answer": "SHARPENER",
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
       "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Able to wait calmly without complaining",
+      "answer": "PATIENT",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a song that repeats after each verse",
+      "answer": "CHORUS",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "An object that pulls iron and steel toward it",
+      "answer": "MAGNET",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic instrument with piano-like keys",
-      "answer": "KEYBOARD",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Being kind and nice to other people",
-      "answer": "FRIENDLY",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft, pale yellow",
-      "answer": "BUTTER",
+      "clue": "A short race run as fast as you can",
+      "answer": "SPRINT",
       "row": 6,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A city bird once used to carry messages",
-      "answer": "PIGEON",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 6,
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
+      "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A large string instrument played sitting down",
-      "answer": "CELLO",
-      "row": 2,
+      "clue": "To say numbers in order: one, two, three...",
+      "answer": "COUNT",
+      "row": 10,
       "col": 1,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 221

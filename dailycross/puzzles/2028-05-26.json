@@ -4,66 +4,73 @@
   "title": "2028-05-26",
   "words": [
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
+      "clue": "A big arena with rows of seats for watching sports",
+      "answer": "STADIUM",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who brings food to your table at a restaurant",
+      "answer": "WAITER",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You wash your hands with this and it makes bubbles",
+      "answer": "SOAP",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Instructions written for a computer",
+      "answer": "CODE",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of an elephant or a stormy sky",
+      "answer": "GRAY",
       "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The rest break in the middle of a game",
-      "answer": "HALFTIME",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with six straight sides",
-      "answer": "HEXAGON",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The gas in the air that we need to breathe",
-      "answer": "OXYGEN",
-      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 10,
-      "col": 5,
+      "clue": "The hard covering at the tip of a finger or toe",
+      "answer": "NAIL",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The color of fresh snow and milk",
-      "answer": "WHITE",
-      "row": 1,
-      "col": 0,
+      "clue": "An evergreen tree with needle leaves and cones",
+      "answer": "PINE",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     }
   ],

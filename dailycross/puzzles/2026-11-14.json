@@ -4,66 +4,66 @@
   "title": "2026-11-14",
   "words": [
     {
-      "clue": "A sport of flips, balance, and body strength",
-      "answer": "GYMNASTICS",
-      "row": 5,
-      "col": 0,
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 5,
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The colorful, sweet-smelling part of a plant",
+      "answer": "FLOWER",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
+      "clue": "You use it to change the TV channel from your seat",
+      "answer": "REMOTE",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Do, re, mi, fa, so, la, ti, do",
+      "answer": "SCALE",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A hot liquid meal you eat with a spoon",
+      "answer": "SOUP",
+      "row": 2,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of bright",
+      "answer": "DARK",
       "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that washes your clothes",
-      "answer": "WASHER",
-      "row": 3,
       "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 11,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The planet famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your hand to your arm",
-      "answer": "WRIST",
-      "row": 8,
-      "col": 1,
+      "clue": "A small container with a handle for drinking tea",
+      "answer": "CUP",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     }
   ],

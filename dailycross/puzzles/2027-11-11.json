@@ -4,73 +4,74 @@
   "title": "2027-11-11",
   "words": [
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
       "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The skin that covers your eye when you blink",
-      "answer": "EYELID",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "An icy space object with a long, glowing tail",
-      "answer": "COMET",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A cup-shaped spring flower grown from a bulb",
-      "answer": "TULIP",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The second planet from the Sun, and the hottest one",
-      "answer": "VENUS",
-      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The red liquid that flows through your body",
-      "answer": "BLOOD",
-      "row": 3,
-      "col": 7,
+      "clue": "A person who gives emergency care in an ambulance",
+      "answer": "PARAMEDIC",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "How you might feel before a big test or show",
+      "answer": "NERVOUS",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest planet, closest to the Sun",
+      "answer": "MERCURY",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "You sweep the floor with it",
-      "answer": "BROOM",
-      "row": 1,
+      "clue": "A hook-topped frame for keeping clothes in a wardrobe",
+      "answer": "HANGER",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Do, re, mi, fa, so, la, ti, do",
+      "answer": "SCALE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The land right along the edge of the sea",
+      "answer": "COAST",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A fine powder made from wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 3,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Rough weather with strong wind and heavy rain",
+      "answer": "STORM",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A sharp point on the stem of a rose or a bramble",
+      "answer": "THORN",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     }
   ],

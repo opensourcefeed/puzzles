@@ -4,105 +4,140 @@
   "title": "Level 117",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
+      "clue": "A device that does sums for you",
+      "answer": "CALCULATOR",
       "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet brown treat made from cocoa beans",
-      "answer": "CHOCOLATE",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A little bit of water in the air",
-      "answer": "MOISTURE",
-      "row": 13,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A shape with five straight sides",
-      "answer": "PENTAGON",
-      "row": 7,
-      "col": 1,
+      "clue": "Instruments you hit or shake, like drums",
+      "answer": "PERCUSSION",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Comfy shoes made for running and sports",
-      "answer": "SNEAKERS",
-      "row": 11,
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 4,
-      "col": 7,
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A solid with two round ends, like a can",
-      "answer": "CYLINDER",
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your arm to your body",
+      "answer": "SHOULDER",
+      "row": 14,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who designs machines, bridges and roads",
+      "answer": "ENGINEER",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A cart pulled by a horse to carry people",
-      "answer": "CARRIAGE",
-      "row": 4,
-      "col": 11,
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 6,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Cloth hung over a window for privacy",
-      "answer": "CURTAIN",
-      "row": 0,
+      "clue": "A small concert by music students",
+      "answer": "RECITAL",
+      "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A strong farm vehicle that pulls heavy loads",
-      "answer": "TRACTOR",
+      "clue": "Wanting what someone else has; green with envy",
+      "answer": "JEALOUS",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
       "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 0,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
       "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A card with your name and photo on it",
-      "answer": "IDCARD",
-      "row": 0,
-      "col": 5,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The color of a banana or the sun",
-      "answer": "YELLOW",
-      "row": 9,
-      "col": 3,
+      "clue": "When water rises and covers land that is usually dry",
+      "answer": "FLOOD",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "How fast or slow the music is played",
+      "answer": "TEMPO",
+      "row": 10,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of a friend",
+      "answer": "ENEMY",
+      "row": 4,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A colorful underwater ridge built by tiny sea animals",
+      "answer": "REEF",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 19,
   "targetWords": 21,
   "difficulty": "hard"
 }

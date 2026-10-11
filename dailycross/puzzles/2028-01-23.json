@@ -4,74 +4,68 @@
   "title": "2028-01-23",
   "words": [
     {
-      "clue": "A long, wiggly animal that lives in the soil",
-      "answer": "EARTHWORM",
-      "row": 5,
-      "col": 3,
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Where a computer keeps what it's working on right now",
-      "answer": "MEMORY",
-      "row": 5,
-      "col": 11,
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling safe and protected",
-      "answer": "SECURE",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 3,
+      "clue": "The biggest ape, a gentle giant of the forest",
+      "answer": "GORILLA",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The second planet from the Sun, and the hottest one",
-      "answer": "VENUS",
-      "row": 8,
-      "col": 8,
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A piece of data saved under one name",
-      "answer": "FILE",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
+      "clue": "A white or grey puff floating in the sky",
+      "answer": "CLOUD",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "The back part of your foot",
-      "answer": "HEEL",
+      "clue": "One colorful piece of a flower",
+      "answer": "PETAL",
       "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Caring and gentle toward others",
+      "answer": "KIND",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft green carpet-like plant that grows on rocks",
+      "answer": "MOSS",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A group of web pages that share one name",
-      "answer": "SITE",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Small white grains that many people eat",
-      "answer": "RICE",
-      "row": 0,
-      "col": 8,
+      "clue": "A small container with a handle for drinking tea",
+      "answer": "CUP",
+      "row": 5,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "The opposite of bright",
-      "answer": "DARK",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
     }
   ],
   "dayNumber": 590

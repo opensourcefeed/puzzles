@@ -4,52 +4,73 @@
   "title": "2027-02-04",
   "words": [
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 1,
+      "clue": "A device that does sums for you",
+      "answer": "CALCULATOR",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 0,
-      "col": 6,
+      "clue": "A person who travels into space",
+      "answer": "ASTRONAUT",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 0,
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten hundreds",
+      "answer": "THOUSAND",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The sport of moving a boat with oars",
+      "answer": "ROWING",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small round fruit that grows in bunches on a vine",
+      "answer": "GRAPE",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The tap that water comes out of",
-      "answer": "FAUCET",
-      "row": 6,
-      "col": 4,
+      "clue": "The part of your face below your mouth",
+      "answer": "CHIN",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Showing lots of love and affection",
-      "answer": "LOVING",
+      "clue": "A big body of fresh water with land all around it",
+      "answer": "LAKE",
       "row": 0,
-      "col": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft white food made from soybeans",
-      "answer": "TOFU",
-      "row": 3,
-      "col": 7,
+      "clue": "An evergreen tree with needle leaves and cones",
+      "answer": "PINE",
+      "row": 10,
+      "col": 9,
       "direction": "across"
     }
   ],

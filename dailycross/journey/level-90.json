@@ -4,112 +4,126 @@
   "title": "Level 90",
   "words": [
     {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
+      "clue": "Annoyed because something keeps going wrong",
+      "answer": "FRUSTRATED",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A dark cloud that brings rain",
-      "answer": "RAINCLOUD",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A giant, spinning storm that forms over the ocean",
-      "answer": "HURRICANE",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who studies plants",
-      "answer": "BOTANIST",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Always looking on the bright side of things",
-      "answer": "POSITIVE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A small rocky object that circles the Sun",
-      "answer": "ASTEROID",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "It clips sheets of paper together",
-      "answer": "STAPLER",
-      "row": 0,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The farthest planet, a cold blue world",
-      "answer": "NEPTUNE",
-      "row": 5,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "The matching clothes a team wears",
-      "answer": "UNIFORM",
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
       "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 14,
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A plank on four little wheels for tricks at the park",
+      "answer": "SKATEBOARD",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
+      "row": 2,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A black-and-white bear that loves bamboo",
-      "answer": "PANDA",
-      "row": 9,
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Glad that a worry is finally over",
+      "answer": "RELIEVED",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "You use it to rub out pencil marks",
+      "answer": "ERASER",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round solid, like a ball",
+      "answer": "SPHERE",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Rough weather with strong wind and heavy rain",
+      "answer": "STORM",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A cup-shaped spring flower grown from a bulb",
-      "answer": "TULIP",
-      "row": 5,
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 7,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A device you use to call people far away",
-      "answer": "PHONE",
-      "row": 9,
-      "col": 0,
+      "clue": "The opposite of tall",
+      "answer": "SHORT",
+      "row": 1,
+      "col": 14,
       "direction": "down"
+    },
+    {
+      "clue": "An unwanted plant growing in a garden",
+      "answer": "WEED",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall plant with a thick, wooden trunk",
+      "answer": "TREE",
+      "row": 11,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The paved path that cars drive along",
+      "answer": "ROAD",
+      "row": 9,
+      "col": 11,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 17,
   "targetWords": 17,
   "difficulty": "medium"
 }

@@ -4,112 +4,133 @@
   "title": "Level 96",
   "words": [
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport of flips, balance, and body strength",
-      "answer": "GYMNASTICS",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A spiky tropical fruit, sweet and yellow inside",
-      "answer": "PINEAPPLE",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport where you hit a shuttlecock over a net",
-      "answer": "BADMINTON",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who plays music or sings",
-      "answer": "MUSICIAN",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 2,
+      "clue": "The sport with hoops, dribbling and slam dunks",
+      "answer": "BASKETBALL",
+      "row": 6,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The main printed guide your class learns a subject from",
+      "answer": "TEXTBOOK",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling confused by something tricky",
-      "answer": "PUZZLED",
-      "row": 1,
+      "clue": "A waterproof coat for wet days",
+      "answer": "RAINCOAT",
+      "row": 5,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of gliding along on ice",
-      "answer": "SKATING",
-      "row": 14,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A card with your name and photo on it",
-      "answer": "IDCARD",
+      "clue": "Extremely, red-faced mad",
+      "answer": "FURIOUS",
       "row": 0,
-      "col": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 1,
-      "col": 7,
+      "clue": "Only caring about yourself",
+      "answer": "SELFISH",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge body of salty water",
-      "answer": "OCEAN",
+      "clue": "It turns slices of bread brown and crunchy",
+      "answer": "TOASTER",
       "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The referee blows this to stop play",
+      "answer": "WHISTLE",
+      "row": 7,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Small white grains that many people eat",
-      "answer": "RICE",
+      "clue": "Someone who delivers parcels to your door",
+      "answer": "COURIER",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The rainy season that brings heavy rain to India each summer",
+      "answer": "MONSOON",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "How you feel the night before your birthday party",
+      "answer": "EXCITED",
+      "row": 5,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark leafy green that made Popeye strong",
+      "answer": "SPINACH",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with eight sides, like a stop sign",
+      "answer": "OCTAGON",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The flap of skin that closes when you blink",
+      "answer": "EYELID",
+      "row": 13,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Always telling the truth",
+      "answer": "HONEST",
       "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A nut that grows underground and is made into butter",
+      "answer": "PEANUT",
+      "row": 0,
       "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "A farm animal with horns and a little beard",
+      "answer": "GOAT",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A hill of sand shaped by the wind",
+      "answer": "DUNE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Quiet and nervous around new people",
+      "answer": "SHY",
+      "row": 8,
+      "col": 10,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 18,
   "targetWords": 18,
   "difficulty": "medium"
 }

@@ -4,45 +4,73 @@
   "title": "2027-05-07",
   "words": [
     {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A small object that stores power for devices",
-      "answer": "BATTERY",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The metal rails that a train runs on",
-      "answer": "TRACK",
+      "clue": "A small hand drum with jingling metal discs",
+      "answer": "TAMBOURINE",
       "row": 3,
-      "col": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
+      "row": 2,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 2,
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The force that pulls things down and keeps planets circling the Sun",
+      "answer": "GRAVITY",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The arm of a tree that grows out from the trunk",
+      "answer": "BRANCH",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
-      "row": 1,
+      "clue": "A line that bends smoothly, like a smile",
+      "answer": "CURVE",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The planet we live on",
+      "answer": "EARTH",
+      "row": 10,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of lost",
+      "answer": "FOUND",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You use this to eat, talk, and smile",
+      "answer": "MOUTH",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     }
   ],

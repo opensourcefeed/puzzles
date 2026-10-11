@@ -4,74 +4,74 @@
   "title": "2027-03-22",
   "words": [
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
       "row": 6,
-      "col": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A big white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 2,
+      "clue": "A live show where musicians perform",
+      "answer": "CONCERT",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The corner point where two lines meet",
+      "answer": "VERTEX",
+      "row": 9,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You write with it, and it can be erased",
+      "answer": "PENCIL",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Where a computer keeps what it's working on right now",
-      "answer": "MEMORY",
-      "row": 8,
+      "clue": "A soft cushion you rest your head on in bed",
+      "answer": "PILLOW",
+      "row": 3,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 6,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of a banana or the sun",
-      "answer": "YELLOW",
+      "clue": "You cut your food with this",
+      "answer": "KNIFE",
       "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of wide",
-      "answer": "NARROW",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 13,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 2,
-      "col": 6,
+      "clue": "To say numbers in order: one, two, three...",
+      "answer": "COUNT",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Spaghetti and macaroni are types of this",
+      "answer": "PASTA",
+      "row": 11,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "Any one of the numbers 0 to 9",
+      "answer": "DIGIT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of clean",
+      "answer": "DIRTY",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 283

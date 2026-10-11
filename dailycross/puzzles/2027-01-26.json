@@ -4,73 +4,73 @@
   "title": "2027-01-26",
   "words": [
     {
-      "clue": "A tiny chip that stores photos inside a camera",
-      "answer": "MEMORYCARD",
-      "row": 6,
-      "col": 1,
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A shape like a door: two long sides and two short",
-      "answer": "RECTANGLE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 5,
+      "clue": "What a forecast on the news tells you about",
+      "answer": "WEATHER",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "An event where you jump as far forward as you can",
-      "answer": "LONGJUMP",
+      "clue": "You use it to change the TV channel from your seat",
+      "answer": "REMOTE",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Always wanting more than your share",
+      "answer": "GREEDY",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where two people fight with padded gloves",
+      "answer": "BOXING",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A team sport where you kick a ball into a goal",
-      "answer": "SOCCER",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on this in class",
-      "answer": "CHAIR",
-      "row": 9,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The black dot in the middle of your eye",
-      "answer": "PUPIL",
-      "row": 12,
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 11,
-      "col": 6,
+      "clue": "Any one of the numbers 0 to 9",
+      "answer": "DIGIT",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The color of fresh snow and milk",
-      "answer": "WHITE",
-      "row": 7,
-      "col": 9,
+      "clue": "The short stick runners pass in a relay race",
+      "answer": "BATON",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "You bake cakes and roast food inside this",
+      "answer": "OVEN",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "How it feels when you need a coat and gloves",
+      "answer": "COLD",
+      "row": 2,
+      "col": 1,
       "direction": "down"
     }
   ],

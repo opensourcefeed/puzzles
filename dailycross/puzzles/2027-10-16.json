@@ -4,74 +4,74 @@
   "title": "2027-10-16",
   "words": [
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A thick, wet forest that gets lots of rain",
-      "answer": "RAINFOREST",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Connected cars that run along railway tracks",
-      "answer": "TRAIN",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The bright object that circles Earth at night",
-      "answer": "MOON",
+      "clue": "The opposite of deep",
+      "answer": "SHALLOW",
       "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The referee blows this to stop play",
+      "answer": "WHISTLE",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright pinkish-purple used in printer ink",
+      "answer": "MAGENTA",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Extremely, red-faced mad",
+      "answer": "FURIOUS",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Information that is stored on a computer",
-      "answer": "DATA",
+      "clue": "A team game where you kick a ball into a goal",
+      "answer": "SOCCER",
       "row": 5,
-      "col": 9,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A long, soft seat for several people",
-      "answer": "SOFA",
-      "row": 6,
-      "col": 3,
+      "clue": "A large string instrument played sitting down",
+      "answer": "CELLO",
+      "row": 0,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "A person who cares for patients in a hospital",
+      "answer": "NURSE",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A document saved on a computer under one name",
+      "answer": "FILE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 491

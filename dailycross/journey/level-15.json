@@ -4,53 +4,53 @@
   "title": "Level 15",
   "words": [
     {
-      "clue": "It makes a pencil pointy again",
+      "clue": "It makes a blunt pencil pointy again",
       "answer": "SHARPENER",
-      "row": 7,
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A very tall, steep, rocky peak",
-      "answer": "MOUNTAIN",
-      "row": 4,
+      "clue": "The sport of racing through the water in a pool",
+      "answer": "SWIMMING",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Really wanting to find out more",
+      "answer": "CURIOUS",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "How you might feel before a big test or show",
+      "answer": "NERVOUS",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "An electronic instrument with piano-like keys",
-      "answer": "KEYBOARD",
-      "row": 5,
-      "col": 2,
+      "clue": "A person who lays bricks and puts up houses",
+      "answer": "BUILDER",
+      "row": 10,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 9,
-      "col": 3,
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
+      "row": 7,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling super eager about something fun",
-      "answer": "EXCITED",
+      "clue": "The opposite of start",
+      "answer": "FINISH",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A number with a dot in it, like 2.5",
-      "answer": "DECIMAL",
-      "row": 2,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     }
   ],
   "wordCount": 7,

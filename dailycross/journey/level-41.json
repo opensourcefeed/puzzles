@@ -4,70 +4,77 @@
   "title": "Level 41",
   "words": [
     {
-      "clue": "You wear these on your ears to listen",
-      "answer": "HEADPHONES",
-      "row": 5,
-      "col": 2,
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A flying vehicle with spinning blades on top",
-      "answer": "HELICOPTER",
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 9,
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 1,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall pipe that carries smoke out through the roof",
+      "answer": "CHIMNEY",
+      "row": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
+      "clue": "A big arena with rows of seats for watching sports",
+      "answer": "STADIUM",
       "row": 7,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A cart pulled by a horse to carry people",
-      "answer": "CARRIAGE",
+      "clue": "Connected to the internet",
+      "answer": "ONLINE",
       "row": 4,
-      "col": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Feeling that good things are coming",
-      "answer": "HOPEFUL",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
-      "row": 3,
+      "clue": "A hanging spike of ice that forms when dripping water freezes",
+      "answer": "ICICLE",
+      "row": 4,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A person who brings food to your table at a restaurant",
+      "answer": "WAITER",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "An animal that swings from tree branches",
+      "answer": "MONKEY",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A food made from milk that cartoon mice love",
+      "answer": "CHEESE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 10,
   "targetWords": 10,
   "difficulty": "medium"
 }

@@ -4,67 +4,74 @@
   "title": "2027-06-27",
   "words": [
     {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
-      "row": 4,
-      "col": 2,
+      "clue": "Wishing and expecting that good things will happen",
+      "answer": "HOPEFUL",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A cabinet for storing food and dishes",
-      "answer": "CUPBOARD",
+      "clue": "A bright green gemstone",
+      "answer": "EMERALD",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall pipe that carries smoke out through the roof",
+      "answer": "CHIMNEY",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A big area covered with lots of trees",
+      "answer": "FOREST",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The short, thick finger that helps you grip",
+      "answer": "THUMB",
       "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 6,
+      "clue": "A hot liquid meal you eat with a spoon",
+      "answer": "SOUP",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet fruit, narrow at the top and round at the bottom",
+      "answer": "PEAR",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "What water does at 100 degrees Celsius",
+      "answer": "BOIL",
+      "row": 0,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A green fruit with a big pit inside",
-      "answer": "AVOCADO",
+      "clue": "A hot tool that presses wrinkles out of clothes",
+      "answer": "IRON",
       "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A cover that keeps your loose papers together",
-      "answer": "FOLDER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 2,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "To split a number into equal parts",
-      "answer": "DIVIDE",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that makes copies of pages",
-      "answer": "COPIER",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Information that is stored on a computer",
-      "answer": "DATA",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
     }
   ],
   "dayNumber": 380

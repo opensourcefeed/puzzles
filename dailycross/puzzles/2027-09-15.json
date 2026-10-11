@@ -4,60 +4,67 @@
   "title": "2027-09-15",
   "words": [
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 5,
-      "col": 2,
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 1,
+      "clue": "A very dark gray, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 6,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A tiny dried seed often used in soup",
-      "answer": "LENTIL",
+      "clue": "Very light rain falling in fine drops",
+      "answer": "DRIZZLE",
       "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Showing lots of love and affection",
-      "answer": "LOVING",
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge group of billions of stars, like the Milky Way",
+      "answer": "GALAXY",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The dark shape made when something blocks the light",
+      "answer": "SHADOW",
       "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where you hit a ball over a net with a racket",
+      "answer": "TENNIS",
+      "row": 8,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
+      "clue": "The + sign, used for adding",
+      "answer": "PLUS",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A bird that stays up at night and hoots",
+      "answer": "OWL",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 460

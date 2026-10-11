@@ -4,67 +4,74 @@
   "title": "2027-02-17",
   "words": [
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who designs clothes",
-      "answer": "DESIGNER",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You boil water in this",
-      "answer": "KETTLE",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft yellow spread made from cream",
-      "answer": "BUTTER",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The low land between hills or mountains",
-      "answer": "VALLEY",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The season when flowers bloom after winter",
-      "answer": "SPRING",
+      "clue": "A bright flash in the sky during a storm",
+      "answer": "LIGHTNING",
       "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A squeezebox instrument with buttons or keys",
+      "answer": "ACCORDION",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A strong-smelling bulb used to flavor cooking",
+      "answer": "GARLIC",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of top",
+      "answer": "BOTTOM",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small juicy fruit often used in jam",
-      "answer": "BERRY",
-      "row": 1,
-      "col": 12,
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of clean",
+      "answer": "DIRTY",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Drops of water that fall from the clouds",
-      "answer": "RAIN",
-      "row": 0,
-      "col": 7,
+      "clue": "A chart that shows numbers as bars or lines",
+      "answer": "GRAPH",
+      "row": 6,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "A cup-shaped spring flower that is famous in Holland",
+      "answer": "TULIP",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The flat green part of a plant that soaks up sunlight",
+      "answer": "LEAF",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 250

@@ -4,66 +4,66 @@
   "title": "2028-05-20",
   "words": [
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
+      "clue": "A bat-and-ball game hugely popular in India and England",
+      "answer": "CRICKET",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A tall flower that turns to face the sun",
-      "answer": "SUNFLOWER",
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "An animal that swings from tree branches",
+      "answer": "MONKEY",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, smooth stone",
-      "answer": "PEBBLE",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
+      "clue": "A group of people who sing together",
+      "answer": "CHOIR",
       "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A book full of maps",
-      "answer": "ATLAS",
-      "row": 0,
-      "col": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The bright object that circles Earth at night",
-      "answer": "MOON",
+      "clue": "Spaghetti and macaroni are types of this",
+      "answer": "PASTA",
       "row": 9,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A pale sandy color, like milky coffee",
+      "answer": "BEIGE",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "White flakes that fall in cold weather",
+      "answer": "SNOW",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of strong",
+      "answer": "WEAK",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You see with this, and you blink it",
+      "answer": "EYE",
+      "row": 7,
+      "col": 6,
       "direction": "across"
     }
   ],

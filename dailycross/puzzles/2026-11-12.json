@@ -4,74 +4,67 @@
   "title": "2026-11-12",
   "words": [
     {
-      "clue": "The big board in class that teachers write on with markers",
-      "answer": "WHITEBOARD",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "How much rain has fallen",
-      "answer": "RAINFALL",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Nice weather with a gentle breeze",
-      "answer": "PLEASANT",
-      "row": 10,
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
-      "row": 14,
-      "col": 5,
-      "direction": "across"
+      "clue": "A huge, slow-moving river of ice",
+      "answer": "GLACIER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     },
     {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
-      "row": 2,
+      "clue": "Another word for a tap",
+      "answer": "FAUCET",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
       "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool for measuring how long something is",
-      "answer": "RULER",
-      "row": 8,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "To find and fix the mistakes in a program",
-      "answer": "DEBUG",
-      "row": 0,
       "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A seat with a back and four legs, for one person",
+      "answer": "CHAIR",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A large hole in a rock or hillside where bats may live",
+      "answer": "CAVE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A pink farm animal with a curly tail that says oink",
+      "answer": "PIG",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The piece of furniture you sleep on",
+      "answer": "BED",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 153

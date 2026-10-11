@@ -4,66 +4,73 @@
   "title": "2026-11-05",
   "words": [
     {
-      "clue": "A sport of flips, balance, and body strength",
-      "answer": "GYMNASTICS",
-      "row": 6,
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 5,
-      "col": 8,
+      "clue": "A big reptile with powerful jaws that lurks in rivers",
+      "answer": "CROCODILE",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 8,
+      "clue": "A waterproof coat for wet days",
+      "answer": "RAINCOAT",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small concert by music students",
+      "answer": "RECITAL",
+      "row": 3,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 10,
-      "col": 3,
+      "clue": "A long orange vegetable that rabbits love",
+      "answer": "CARROT",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who writes books and stories",
-      "answer": "WRITER",
-      "row": 7,
+      "clue": "A hard hat that protects your head while riding",
+      "answer": "HELMET",
+      "row": 1,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A robot spacecraft sent to explore space",
-      "answer": "PROBE",
-      "row": 0,
-      "col": 7,
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The second planet from the Sun, and the hottest one",
-      "answer": "VENUS",
-      "row": 7,
-      "col": 5,
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of people who sing together",
+      "answer": "CHOIR",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of rich",
+      "answer": "POOR",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     }
   ],

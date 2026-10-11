@@ -4,60 +4,60 @@
   "title": "Level 23",
   "words": [
     {
-      "clue": "You wear these on your ears to listen",
-      "answer": "HEADPHONES",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where deleted files go on a computer",
-      "answer": "RECYCLEBIN",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "It makes a pencil pointy again",
-      "answer": "SHARPENER",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The rest break in the middle of a game",
-      "answer": "HALFTIME",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A small object that stores power for devices",
-      "answer": "BATTERY",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 4,
+      "clue": "The biggest bird in the world; it runs fast but can't fly",
+      "answer": "OSTRICH",
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A round citrus fruit you peel and eat in slices",
-      "answer": "ORANGE",
-      "row": 14,
+      "clue": "A photo you take of yourself",
+      "answer": "SELFIE",
+      "row": 5,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel watching a spooky movie",
+      "answer": "SCARED",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A vegetable you can bake, mash, or fry into chips",
+      "answer": "POTATO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You flip it to turn a light on or off",
+      "answer": "SWITCH",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A shooting star that zooms across the sky",
-      "answer": "METEOR",
-      "row": 0,
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
+      "row": 7,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A cardboard cover that keeps loose papers together",
+      "answer": "FOLDER",
+      "row": 5,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "A grain that is ground into flour for bread",
+      "answer": "WHEAT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "wordCount": 8,

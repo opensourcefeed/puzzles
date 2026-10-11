@@ -4,74 +4,46 @@
   "title": "2027-08-08",
   "words": [
     {
-      "clue": "A pretty insect that used to be a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 6,
-      "col": 2,
+      "clue": "Feeling sure that you can do it",
+      "answer": "CONFIDENT",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 6,
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A sport where you hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You stand on it and push along with one foot",
-      "answer": "SCOOTER",
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
       "row": 1,
-      "col": 9,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You hang clothes on it in the wardrobe",
-      "answer": "HANGER",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A cloud of gas and dust where new stars are born",
-      "answer": "NEBULA",
+      "clue": "A huge body of salty water, like the Pacific",
+      "answer": "OCEAN",
       "row": 3,
-      "col": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
-      "row": 1,
-      "col": 9,
+      "clue": "Peaceful and not upset at all",
+      "answer": "CALM",
+      "row": 5,
+      "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A small, narrow stream",
-      "answer": "CREEK",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
     }
   ],
   "dayNumber": 422

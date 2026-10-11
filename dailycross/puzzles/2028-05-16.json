@@ -4,59 +4,73 @@
   "title": "2028-05-16",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
-      "row": 3,
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The person who leads a country",
-      "answer": "PRESIDENT",
+      "clue": "A thousand thousands",
+      "answer": "MILLION",
       "row": 0,
-      "col": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
-      "row": 2,
+      "clue": "A machine that puts your work onto paper",
+      "answer": "PRINTER",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Water in the form of a gas",
-      "answer": "VAPOR",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A large string instrument played sitting down",
-      "answer": "CELLO",
-      "row": 0,
-      "col": 8,
+      "clue": "It clips sheets of paper together with little metal pins",
+      "answer": "STAPLER",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The opposite of first",
-      "answer": "LAST",
-      "row": 6,
+      "clue": "A short race run as fast as you can",
+      "answer": "SPRINT",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "How fast or slow the music is played",
+      "answer": "TEMPO",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You eat soup and cereal with this",
+      "answer": "SPOON",
+      "row": 4,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of rich",
+      "answer": "POOR",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Drops of water that fall from the clouds",
+      "answer": "RAIN",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A flying animal that sleeps hanging upside down",
+      "answer": "BAT",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     }
   ],

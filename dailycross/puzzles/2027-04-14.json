@@ -4,66 +4,73 @@
   "title": "2027-04-14",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
+      "clue": "A pretty insect with colorful wings that used to be a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A round vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
       "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Body tissue that tightens to move your bones",
+      "answer": "MUSCLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The bony case that protects your brain",
+      "answer": "SKULL",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A race where teammates take turns and pass a baton",
+      "answer": "RELAY",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A pale sandy color, like milky coffee",
+      "answer": "BEIGE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Another name for your belly button",
+      "answer": "NAVEL",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The net you try to get the ball into",
+      "answer": "GOAL",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A shooting star that zooms across the sky",
-      "answer": "METEOR",
+      "clue": "A thin, light fog close to the ground",
+      "answer": "MIST",
       "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A black-and-white bear that loves bamboo",
-      "answer": "PANDA",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A game between two players or two teams",
-      "answer": "MATCH",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A sticky liquid used to join paper together",
-      "answer": "GLUE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A ball game played on horseback with a long stick",
-      "answer": "POLO",
+      "clue": "The big space above you where clouds float",
+      "answer": "SKY",
       "row": 3,
-      "col": 1,
+      "col": 9,
       "direction": "down"
     }
   ],

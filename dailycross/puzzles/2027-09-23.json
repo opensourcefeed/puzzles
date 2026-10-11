@@ -4,74 +4,74 @@
   "title": "2027-09-23",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 4,
-      "col": 1,
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The biggest ape, a gentle giant of the forest",
+      "answer": "GORILLA",
       "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "It hops around and carries its baby in a pouch",
-      "answer": "KANGAROO",
+      "clue": "A small boat for one, with a double-ended paddle",
+      "answer": "KAYAK",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of turn between two lines that meet",
+      "answer": "ANGLE",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A tiny picture, like a smiley face, that you add to messages",
+      "answer": "EMOJI",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A wheeled robot that drives around on Mars",
+      "answer": "ROVER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of full",
+      "answer": "EMPTY",
       "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 4,
+      "clue": "A solid with a round base and a pointy top, like a party hat",
+      "answer": "CONE",
+      "row": 10,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A car you pay to drive you somewhere",
+      "answer": "TAXI",
+      "row": 2,
       "col": 4,
       "direction": "down"
-    },
-    {
-      "clue": "The Sun and its planets: the solar ___",
-      "answer": "SYSTEM",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft, pale yellow",
-      "answer": "BUTTER",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A woven container for carrying things",
-      "answer": "BASKET",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Printed pages bound together for reading",
-      "answer": "BOOK",
-      "row": 5,
-      "col": 9,
-      "direction": "across"
     }
   ],
   "dayNumber": 468

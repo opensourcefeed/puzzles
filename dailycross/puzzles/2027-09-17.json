@@ -4,66 +4,73 @@
   "title": "2027-09-17",
   "words": [
     {
-      "clue": "A shape like a door: two long sides and two short",
-      "answer": "RECTANGLE",
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 3,
-      "col": 4,
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The part of your face above your eyes",
-      "answer": "FOREHEAD",
-      "row": 3,
-      "col": 1,
+      "clue": "A person who designs machines, bridges and roads",
+      "answer": "ENGINEER",
+      "row": 4,
+      "col": 3,
       "direction": "down"
-    },
-    {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
     },
     {
       "clue": "A solid with two round ends, like a can",
       "answer": "CYLINDER",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 7,
-      "col": 5,
+      "row": 12,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 0,
+      "clue": "A tool with two blades for cutting paper",
+      "answer": "SCISSORS",
+      "row": 5,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A wire that charges or connects your devices",
-      "answer": "CABLE",
-      "row": 0,
-      "col": 7,
+      "clue": "A small concert by music students",
+      "answer": "RECITAL",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Talking with typed messages online",
-      "answer": "CHAT",
-      "row": 7,
+      "clue": "A leafy green used to make salad",
+      "answer": "LETTUCE",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You look into it to see yourself",
+      "answer": "MIRROR",
+      "row": 2,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A fluffy farm animal that gives us wool",
+      "answer": "SHEEP",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     }
   ],

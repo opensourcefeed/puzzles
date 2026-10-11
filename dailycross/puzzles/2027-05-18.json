@@ -4,65 +4,51 @@
   "title": "2027-05-18",
   "words": [
     {
-      "clue": "A little bent wire that holds papers together",
-      "answer": "PAPERCLIP",
-      "row": 5,
+      "clue": "Someone who delivers parcels to your door",
+      "answer": "COURIER",
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 10,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A dark brownish-red",
-      "answer": "MAROON",
-      "row": 6,
-      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
-      "row": 8,
-      "col": 1,
+      "clue": "The second planet from the Sun, and the hottest one",
+      "answer": "VENUS",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The short, thick finger that helps you grip",
+      "answer": "THUMB",
+      "row": 3,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The opposite of light (in weight)",
-      "answer": "HEAVY",
-      "row": 7,
+      "clue": "A narrow boat you move with a paddle",
+      "answer": "CANOE",
+      "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A thin, light fog close to the ground",
-      "answer": "MIST",
+      "clue": "A plant like basil or parsley used to flavor food",
+      "answer": "HERB",
       "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "It spins its blades to blow cool air",
+      "answer": "FAN",
+      "row": 3,
       "col": 0,
       "direction": "across"
     }

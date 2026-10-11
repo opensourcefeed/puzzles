@@ -4,74 +4,74 @@
   "title": "2028-04-25",
   "words": [
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 3,
+      "clue": "A pink bird that often stands on one leg",
+      "answer": "FLAMINGO",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who helps students learn at school",
+      "answer": "TEACHER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The dark shape made when something blocks the light",
+      "answer": "SHADOW",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A purple flower known for its calming smell",
-      "answer": "LAVENDER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
     },
     {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The season when flowers bloom after winter",
-      "answer": "SPRING",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 5,
+      "clue": "A team sport where players hit a puck or ball with sticks",
+      "answer": "HOCKEY",
+      "row": 6,
       "col": 8,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A shape with four equal sides and four right-angle corners",
-      "answer": "SQUARE",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The low land between hills or mountains",
-      "answer": "VALLEY",
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small boat for one, with a double-ended paddle",
-      "answer": "KAYAK",
+      "clue": "Vibrations that travel through the air to your ears",
+      "answer": "SOUND",
       "row": 4,
-      "col": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Talking with typed messages online",
-      "answer": "CHAT",
-      "row": 9,
-      "col": 1,
+      "clue": "Ice, wood and rock are all in this state of matter",
+      "answer": "SOLID",
+      "row": 4,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A shiny yellow, like the precious metal",
-      "answer": "GOLD",
+      "clue": "You dry yourself with this after a bath",
+      "answer": "TOWEL",
       "row": 0,
-      "col": 2,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A small green or black fruit, and its dull green color",
+      "answer": "OLIVE",
+      "row": 7,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 683

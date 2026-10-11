@@ -4,67 +4,67 @@
   "title": "2026-12-07",
   "words": [
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 3,
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
+      "clue": "A sweet brown treat made from cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
       "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Many days in a row of very hot weather",
-      "answer": "HEATWAVE",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A big storm of winds spinning around a center",
-      "answer": "CYCLONE",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A page you visit online in a browser",
-      "answer": "WEBSITE",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who fixes water pipes and taps",
-      "answer": "PLUMBER",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with a flat base and sides meeting at a point",
-      "answer": "PYRAMID",
-      "row": 8,
+      "clue": "The opposite of open",
+      "answer": "CLOSED",
+      "row": 4,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A cloud of gas and dust where new stars are born",
+      "answer": "NEBULA",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "How you feel when something good happens",
-      "answer": "HAPPY",
-      "row": 1,
-      "col": 1,
+      "clue": "The clear liquid that all living things need",
+      "answer": "WATER",
+      "row": 3,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "A hot tool that presses wrinkles out of clothes",
+      "answer": "IRON",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Petrol or diesel that makes an engine go",
+      "answer": "FUEL",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A short typed message sent from a phone",
+      "answer": "TEXT",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 178

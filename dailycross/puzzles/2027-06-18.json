@@ -4,59 +4,73 @@
   "title": "2027-06-18",
   "words": [
     {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
+      "clue": "What an astronaut wears to stay alive outside the ship",
+      "answer": "SPACESUIT",
       "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The distance all the way across a circle",
-      "answer": "DIAMETER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A team sport where players hit a puck with sticks",
-      "answer": "HOCKEY",
-      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 5,
-      "col": 11,
+      "clue": "It stores power for toys, torches and remote controls",
+      "answer": "BATTERY",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The person who flies an airplane",
-      "answer": "PILOT",
-      "row": 0,
+      "clue": "Finding something funny",
+      "answer": "AMUSED",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who helps sick people get better",
+      "answer": "DOCTOR",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A sheltered spot on the coast where boats stay",
+      "answer": "HARBOR",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Sliding down snowy mountains on two long boards",
+      "answer": "SKIING",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Thin sheets you write or draw on",
+      "answer": "PAPER",
+      "row": 1,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A sandy shore where you build sandcastles",
+      "answer": "BEACH",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A wild cousin of the dog that howls and lives in a pack",
+      "answer": "WOLF",
+      "row": 6,
+      "col": 10,
       "direction": "down"
     }
   ],

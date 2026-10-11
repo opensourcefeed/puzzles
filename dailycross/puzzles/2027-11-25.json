@@ -4,67 +4,74 @@
   "title": "2027-11-25",
   "words": [
     {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
+      "clue": "A person who looks after plants, lawns and flowerbeds",
+      "answer": "GARDENER",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 2,
-      "col": 7,
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 5,
+      "clue": "To bring a file from the internet onto your device",
+      "answer": "DOWNLOAD",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 9,
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
+      "row": 1,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person who leads tourists around",
-      "answer": "GUIDE",
-      "row": 2,
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The green plant that covers a lawn",
-      "answer": "GRASS",
-      "row": 2,
-      "col": 4,
+      "clue": "Only caring about yourself",
+      "answer": "SELFISH",
+      "row": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Water in the form of a gas",
-      "answer": "VAPOR",
-      "row": 2,
-      "col": 9,
+      "clue": "A woven container for carrying things",
+      "answer": "BASKET",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
+      "clue": "A person who creates paintings and drawings",
+      "answer": "ARTIST",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "How you feel after doing something really well",
+      "answer": "PROUD",
       "row": 0,
       "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Music performed by just one person",
+      "answer": "SOLO",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 531

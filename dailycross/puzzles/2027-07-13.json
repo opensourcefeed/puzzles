@@ -4,73 +4,74 @@
   "title": "2027-07-13",
   "words": [
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who gives emergency care before the hospital",
-      "answer": "PARAMEDIC",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
       "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A light purple, like the flower",
-      "answer": "LAVENDER",
-      "row": 0,
-      "col": 2,
+      "clue": "Where a river drops straight down over a cliff",
+      "answer": "WATERFALL",
+      "row": 3,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "To split a number into equal parts",
-      "answer": "DIVIDE",
-      "row": 9,
-      "col": 7,
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of computers linked to share information",
+      "answer": "NETWORK",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "To find and fix the mistakes in a program",
-      "answer": "DEBUG",
+      "clue": "A win in a game or contest",
+      "answer": "VICTORY",
       "row": 3,
       "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling that you need rest or sleep",
-      "answer": "TIRED",
-      "row": 5,
-      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A big animal that people ride",
-      "answer": "HORSE",
-      "row": 7,
-      "col": 9,
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The planet famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A pretty flower with thorns on its stem",
+      "answer": "ROSE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You pick up food with this pronged tool",
+      "answer": "FORK",
+      "row": 11,
+      "col": 3,
       "direction": "across"
     }
   ],

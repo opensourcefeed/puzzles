@@ -4,59 +4,74 @@
   "title": "2028-06-03",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 2,
-      "col": 1,
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 1,
-      "col": 7,
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 0,
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Glad that a worry is finally over",
-      "answer": "RELIEVED",
-      "row": 1,
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, smooth stone",
+      "answer": "PEBBLE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You sweep the floor with it",
+      "answer": "BROOM",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The organ in your chest that pumps blood",
+      "answer": "HEART",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A chart that shows numbers as bars or lines",
+      "answer": "GRAPH",
+      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Feeling confused by something tricky",
-      "answer": "PUZZLED",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A round red fruit used in sauces and salads",
-      "answer": "TOMATO",
+      "clue": "A small round fruit that grows in bunches on a vine",
+      "answer": "GRAPE",
       "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, gentle wind",
-      "answer": "BREEZE",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of data saved under one name",
-      "answer": "FILE",
-      "row": 4,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     }
   ],

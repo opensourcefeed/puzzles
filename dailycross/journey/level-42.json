@@ -4,70 +4,85 @@
   "title": "Level 42",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A car the police use to chase and catch criminals",
-      "answer": "POLICECAR",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A tall cupboard for hanging up your clothes",
-      "answer": "WARDROBE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A jug with a handle and spout for pouring drinks",
-      "answer": "PITCHER",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 1,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A dark brownish-red",
-      "answer": "MAROON",
-      "row": 5,
+      "clue": "Where you go on the swings and slide at break time",
+      "answer": "PLAYGROUND",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A machine that makes copies of pages",
-      "answer": "COPIER",
-      "row": 0,
+      "clue": "You use it with paste to clean your teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A ship that can travel deep underwater",
+      "answer": "SUBMARINE",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 5,
       "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Bright and full of good spirits",
+      "answer": "CHEERFUL",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who helps students learn at school",
+      "answer": "TEACHER",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "You taste your food with this",
+      "answer": "TONGUE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of old",
+      "answer": "YOUNG",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

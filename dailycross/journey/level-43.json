@@ -4,80 +4,80 @@
   "title": "Level 43",
   "words": [
     {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
-      "row": 7,
-      "col": 1,
+      "clue": "A vehicle that rushes sick people to the hospital",
+      "answer": "AMBULANCE",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A cart pulled by a horse to carry people",
-      "answer": "CARRIAGE",
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
       "row": 6,
-      "col": 3,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The little hairs above your eyes",
-      "answer": "EYEBROWS",
+      "clue": "A thousand thousands",
+      "answer": "MILLION",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A part of a whole, like one-half",
-      "answer": "FRACTION",
+      "clue": "Very light rain falling in fine drops",
+      "answer": "DRIZZLE",
       "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 7,
-      "col": 6,
+      "clue": "A live show where musicians perform",
+      "answer": "CONCERT",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling that good things are coming",
-      "answer": "HOPEFUL",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "You carry water to school in this",
-      "answer": "BOTTLE",
-      "row": 9,
-      "col": 6,
+      "clue": "You write with it, and it can be erased",
+      "answer": "PENCIL",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     },
     {
       "clue": "The low land between hills or mountains",
       "answer": "VALLEY",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "You use this to taste your food",
-      "answer": "TONGUE",
-      "row": 9,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 9,
-      "col": 0,
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A deep, dark green like trees in the woods",
-      "answer": "FOREST",
-      "row": 14,
-      "col": 5,
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You sweep the floor with it",
+      "answer": "BROOM",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The skin on top of your head where hair grows",
+      "answer": "SCALP",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     }
   ],

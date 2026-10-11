@@ -4,105 +4,155 @@
   "title": "Level 119",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
-      "row": 5,
-      "col": 0,
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A line joining two opposite corners",
-      "answer": "DIAGONAL",
-      "row": 1,
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A small rocky object that circles the Sun",
-      "answer": "ASTEROID",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A shiny brass instrument with a bright sound",
-      "answer": "TRUMPET",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who helps students learn at school",
-      "answer": "TEACHER",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling that good things are coming",
-      "answer": "HOPEFUL",
-      "row": 1,
+      "clue": "Glad that a worry is finally over",
+      "answer": "RELIEVED",
+      "row": 7,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A soft cushion you rest your head on",
-      "answer": "PILLOW",
-      "row": 8,
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A bushy-tailed animal that hides nuts for winter",
+      "answer": "SQUIRREL",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A pink bird that often stands on one leg",
+      "answer": "FLAMINGO",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 8,
-      "col": 7,
+      "clue": "A green fruit with a big pit, mashed into guacamole",
+      "answer": "AVOCADO",
+      "row": 13,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Any flat shape made only of straight sides",
+      "answer": "POLYGON",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge, slow-moving river of ice",
+      "answer": "GLACIER",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A small round red fruit that grows in pairs on a stem",
+      "answer": "CHERRY",
       "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The part that makes a car go",
+      "answer": "ENGINE",
+      "row": 1,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A train carriage that carries passengers",
-      "answer": "COACH",
-      "row": 8,
-      "col": 9,
+      "clue": "A short race run as fast as you can",
+      "answer": "SPRINT",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of a question",
+      "answer": "ANSWER",
+      "row": 9,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The place where a river flows into the sea",
-      "answer": "MOUTH",
-      "row": 12,
-      "col": 5,
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
+      "row": 0,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The darkest color, like the night sky",
-      "answer": "BLACK",
-      "row": 10,
-      "col": 7,
+      "clue": "The middle color of a traffic light; also hardened tree resin",
+      "answer": "AMBER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
+      "row": 2,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of three musicians",
+      "answer": "TRIO",
+      "row": 3,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat surface of a solid shape",
+      "answer": "FACE",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of polite",
+      "answer": "RUDE",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 21,
   "targetWords": 21,
   "difficulty": "hard"
 }

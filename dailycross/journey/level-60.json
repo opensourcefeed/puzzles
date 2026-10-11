@@ -4,91 +4,99 @@
   "title": "Level 60",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
-      "row": 4,
-      "col": 1,
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A long, wiggly animal that lives in the soil",
-      "answer": "EARTHWORM",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dark gray, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 3,
+      "clue": "How you feel when something unexpected happens",
+      "answer": "SURPRISED",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Glad that a worry is finally over",
-      "answer": "RELIEVED",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried about what might happen",
-      "answer": "NERVOUS",
-      "row": 0,
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A place on a computer for keeping files together",
-      "answer": "FOLDER",
-      "row": 8,
-      "col": 8,
+      "clue": "A number with a point in it, like 2.5",
+      "answer": "DECIMAL",
+      "row": 12,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A colorful bird that can copy your words",
-      "answer": "PARROT",
-      "row": 3,
-      "col": 1,
+      "clue": "A bright pinkish-purple used in printer ink",
+      "answer": "MAGENTA",
+      "row": 5,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The opposite of loud",
-      "answer": "QUIET",
-      "row": 5,
+      "clue": "A woven container for carrying things",
+      "answer": "BASKET",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 0,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A train carriage that carries passengers",
-      "answer": "COACH",
-      "row": 7,
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of true",
-      "answer": "FALSE",
-      "row": 1,
+      "clue": "A tiny squeaky animal, or the thing you click a computer with",
+      "answer": "MOUSE",
+      "row": 5,
       "col": 0,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A small hill of earth",
-      "answer": "MOUND",
-      "row": 10,
+      "clue": "A race where teammates take turns and pass a baton",
+      "answer": "RELAY",
+      "row": 8,
       "col": 9,
       "direction": "across"
     },
     {
-      "clue": "A number you can split into two equal parts",
-      "answer": "EVEN",
-      "row": 0,
-      "col": 11,
+      "clue": "A cup-shaped spring flower that is famous in Holland",
+      "answer": "TULIP",
+      "row": 5,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Carriages pulled along railway tracks by an engine",
+      "answer": "TRAIN",
+      "row": 10,
+      "col": 10,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 13,
   "targetWords": 13,
   "difficulty": "medium"
 }

@@ -4,67 +4,68 @@
   "title": "2026-12-25",
   "words": [
     {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Showing lots of love and affection",
-      "answer": "LOVING",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, crunchy root with a peppery taste",
-      "answer": "RADISH",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The sweet liquid squeezed out of fruit",
-      "answer": "JUICE",
+      "clue": "A pad of blank pages for your notes",
+      "answer": "NOTEBOOK",
       "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A big arena with rows of seats for watching sports",
+      "answer": "STADIUM",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A leafy green used to make salad",
+      "answer": "LETTUCE",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
+      "clue": "A vegetable you can bake, mash, or fry into chips",
+      "answer": "POTATO",
       "row": 3,
-      "col": 8,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A message sent to someone's electronic inbox",
+      "answer": "EMAIL",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The round part that turns under a car",
+      "answer": "WHEEL",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep, narrow valley with steep rocky sides",
+      "answer": "GORGE",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 196

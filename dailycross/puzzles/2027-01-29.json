@@ -4,67 +4,74 @@
   "title": "2027-01-29",
   "words": [
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The fastest runner on land, covered in spots",
+      "answer": "CHEETAH",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A long-eared pet that hops and nibbles carrots",
+      "answer": "RABBIT",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A round red fruit that is made into ketchup",
+      "answer": "TOMATO",
       "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A round red fruit used in sauces and salads",
-      "answer": "TOMATO",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The place where a river begins",
-      "answer": "SOURCE",
-      "row": 3,
-      "col": 8,
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A green, watery spot in the middle of a desert",
-      "answer": "OASIS",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A blue-green color",
-      "answer": "TEAL",
-      "row": 2,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that climbs up walls and trees",
-      "answer": "VINE",
-      "row": 4,
+      "clue": "A tiny squeaky animal, or the thing you click a computer with",
+      "answer": "MOUSE",
+      "row": 6,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A sharp point on the stem of a rose or a bramble",
+      "answer": "THORN",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A basin with taps for washing hands and dishes",
+      "answer": "SINK",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 231

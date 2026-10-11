@@ -4,67 +4,74 @@
   "title": "2028-06-07",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
-      "row": 7,
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You slip it between pages to save your place",
+      "answer": "BOOKMARK",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The part that makes a car go",
+      "answer": "ENGINE",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where two people fight with padded gloves",
+      "answer": "BOXING",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Bright weather with no clouds at all",
+      "answer": "CLEAR",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 7,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
-      "row": 0,
-      "col": 3,
+      "clue": "A huge body of salty water, like the Pacific",
+      "answer": "OCEAN",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
       "clue": "The path one object takes as it circles another",
       "answer": "ORBIT",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
+      "row": 5,
+      "col": 11,
+      "direction": "down"
     },
     {
-      "clue": "The stalk that holds a plant up",
-      "answer": "STEM",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
+      "clue": "The opposite of win",
+      "answer": "LOSE",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 726

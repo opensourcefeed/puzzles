@@ -4,46 +4,75 @@
   "title": "2027-12-24",
   "words": [
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person watching a game from the stands",
-      "answer": "SPECTATOR",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
+      "clue": "A solid with a flat base and sides meeting at a point, like those in Egypt",
+      "answer": "PYRAMID",
       "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "You carry water to school in this",
-      "answer": "BOTTLE",
-      "row": 7,
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge, slow-moving river of ice",
+      "answer": "GLACIER",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small round fastener on a shirt, or a thing you click on screen",
+      "answer": "BUTTON",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "An animal that swings from tree branches",
+      "answer": "MONKEY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A box that shares the internet around your home",
+      "answer": "ROUTER",
+      "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The color of a banana or the sun",
-      "answer": "YELLOW",
-      "row": 4,
-      "col": 7,
+      "clue": "The = sign means both sides are this",
+      "answer": "EQUAL",
+      "row": 3,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Music performed by just one person",
+      "answer": "SOLO",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 560

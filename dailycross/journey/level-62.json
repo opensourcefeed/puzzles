@@ -4,91 +4,98 @@
   "title": "Level 62",
   "words": [
     {
-      "clue": "A thick, wet forest that gets lots of rain",
-      "answer": "RAINFOREST",
+      "clue": "A waterproof coat for wet days",
+      "answer": "RAINCOAT",
       "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A flying vehicle with spinning blades on top",
-      "answer": "HELICOPTER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Very, very surprised or amazed",
-      "answer": "ASTONISHED",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 2,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The rest break in the middle of a game",
-      "answer": "HALFTIME",
-      "row": 0,
-      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 1,
+      "clue": "A long stretch of time with no rain",
+      "answer": "DROUGHT",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The spots where two bones meet and bend",
-      "answer": "JOINTS",
-      "row": 1,
+      "clue": "Feeling confused by something tricky",
+      "answer": "PUZZLED",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who fixes leaky pipes and taps",
+      "answer": "PLUMBER",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The referee blows this to stop play",
+      "answer": "WHISTLE",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The stony remains of an animal or plant from long ago",
+      "answer": "FOSSIL",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 3,
+      "clue": "The colorful, sweet-smelling part of a plant",
+      "answer": "FLOWER",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a device that shows pictures and words",
+      "answer": "SCREEN",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You flip it to turn a light on or off",
-      "answer": "SWITCH",
-      "row": 7,
-      "col": 10,
+      "clue": "A huge sea mammal that breathes through a blowhole",
+      "answer": "WHALE",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The color you get by mixing red and blue",
-      "answer": "PURPLE",
-      "row": 1,
-      "col": 1,
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 12,
+      "col": 10,
       "direction": "across"
+    },
+    {
+      "clue": "You use this to eat, talk, and smile",
+      "answer": "MOUTH",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The × sign, used for multiplying",
+      "answer": "TIMES",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "What ice does when it warms up",
+      "answer": "MELT",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 13,
   "targetWords": 13,
   "difficulty": "medium"
 }

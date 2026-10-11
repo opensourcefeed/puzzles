@@ -4,105 +4,135 @@
   "title": "Level 142",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A shape like a door: two long sides and two short",
-      "answer": "RECTANGLE",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "It makes holes in paper for a binder",
-      "answer": "HOLEPUNCH",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 7,
+      "clue": "A half-circle tool for measuring angles",
+      "answer": "PROTRACTOR",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Feeling thankful for something you were given",
-      "answer": "GRATEFUL",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
       "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that plays sound out loud",
-      "answer": "SPEAKER",
-      "row": 6,
-      "col": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The skin that covers your eye when you blink",
-      "answer": "EYELID",
-      "row": 14,
-      "col": 8,
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A thick, creamy food made from milk",
-      "answer": "YOGURT",
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
       "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The darkest color, like the night sky",
-      "answer": "BLACK",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "You drink water from this",
-      "answer": "GLASS",
-      "row": 12,
-      "col": 8,
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
+      "row": 14,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Weather that feels damp and sticky",
-      "answer": "HUMID",
+      "clue": "Wanting what someone else has; green with envy",
+      "answer": "JEALOUS",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
       "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "An animal that builds dams out of wood",
+      "answer": "BEAVER",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 14,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A robot spacecraft sent to explore far-off planets",
+      "answer": "PROBE",
+      "row": 5,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Do, re, mi, fa, so, la, ti, do",
+      "answer": "SCALE",
+      "row": 1,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A round metal prize you wear around your neck",
-      "answer": "MEDAL",
-      "row": 9,
+      "clue": "Ice, wood and rock are all in this state of matter",
+      "answer": "SOLID",
+      "row": 0,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep, narrow valley with steep rocky sides",
+      "answer": "GORGE",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
+      "row": 9,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Petrol or diesel that makes an engine go",
+      "answer": "FUEL",
+      "row": 9,
+      "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 18,
   "targetWords": 24,
   "difficulty": "hard"
 }

@@ -4,46 +4,74 @@
   "title": "2028-01-03",
   "words": [
     {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 2,
-      "col": 3,
+      "clue": "A squeezebox instrument with buttons or keys",
+      "answer": "ACCORDION",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 0,
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where planes take off and land",
+      "answer": "AIRPORT",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The instrument family that includes the violin, cello, and guitar",
-      "answer": "STRINGS",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The words of a song",
-      "answer": "LYRICS",
+      "clue": "You stand on it and push along with one foot",
+      "answer": "SCOOTER",
       "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A crunchy breakfast food you eat with milk",
+      "answer": "CEREAL",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A food made from milk that cartoon mice love",
+      "answer": "CHEESE",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of clean",
+      "answer": "DIRTY",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tool for measuring and drawing straight lines",
-      "answer": "RULER",
-      "row": 3,
-      "col": 0,
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
+      "row": 4,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "A big vehicle for carrying goods by road",
+      "answer": "TRUCK",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The stalk that holds a plant up",
+      "answer": "STEM",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 570

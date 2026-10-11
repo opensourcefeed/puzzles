@@ -4,67 +4,74 @@
   "title": "2027-08-10",
   "words": [
     {
-      "clue": "How much rain has fallen",
-      "answer": "RAINFALL",
-      "row": 4,
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The little hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 3,
+      "clue": "A person who serves in an army",
+      "answer": "SOLDIER",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling bad about something you did wrong",
-      "answer": "ASHAMED",
-      "row": 7,
+      "clue": "A big round world that circles a star",
+      "answer": "PLANET",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Always telling the truth",
+      "answer": "HONEST",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A sheltered spot on the coast where boats stay",
+      "answer": "HARBOR",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates paintings and drawings",
+      "answer": "ARTIST",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of turn between two lines that meet",
+      "answer": "ANGLE",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You dry yourself with this after a bath",
+      "answer": "TOWEL",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who shows tourists around",
+      "answer": "GUIDE",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 9,
-      "col": 6,
+      "clue": "A small, still body of water where ducks swim",
+      "answer": "POND",
+      "row": 0,
+      "col": 5,
       "direction": "across"
-    },
-    {
-      "clue": "You flip it to turn a light on or off",
-      "answer": "SWITCH",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "You cut your food with this",
-      "answer": "KNIFE",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A thin, light fog close to the ground",
-      "answer": "MIST",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
     }
   ],
   "dayNumber": 424

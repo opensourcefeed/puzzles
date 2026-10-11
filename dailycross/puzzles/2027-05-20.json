@@ -4,74 +4,75 @@
   "title": "2027-05-20",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
-      "row": 6,
-      "col": 1,
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 5,
-      "col": 9,
+      "clue": "A sweet frozen treat you lick from a cone",
+      "answer": "ICECREAM",
+      "enumeration": "3,5",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 1,
+      "clue": "How you feel watching a spooky movie",
+      "answer": "SCARED",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The break between lessons when you go outside to play",
+      "answer": "RECESS",
+      "row": 6,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where two people fight with padded gloves",
+      "answer": "BOXING",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A person who gives emergency care before the hospital",
-      "answer": "PARAMEDIC",
+      "clue": "What water does when it turns into ice",
+      "answer": "FREEZE",
       "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Our galaxy is the ___ Way",
+      "answer": "MILKY",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 1,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A device you use to call people far away",
+      "answer": "PHONE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How you feel when something unexpected happens",
-      "answer": "SURPRISED",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 13,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who makes music with their voice",
-      "answer": "SINGER",
-      "row": 3,
+      "clue": "The opposite of day",
+      "answer": "NIGHT",
+      "row": 4,
       "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 0,
-      "col": 2,
       "direction": "down"
-    },
-    {
-      "clue": "A thin layer of ice on cold surfaces",
-      "answer": "FROST",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
     }
   ],
   "dayNumber": 342

@@ -4,66 +4,73 @@
   "title": "2027-02-27",
   "words": [
     {
-      "clue": "A very dark gray, like burnt wood",
-      "answer": "CHARCOAL",
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "It hops around and carries its baby in a pouch",
-      "answer": "KANGAROO",
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
       "row": 2,
-      "col": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
+      "clue": "It turns paper pages into computer files",
+      "answer": "SCANNER",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
-      "row": 0,
-      "col": 4,
+      "clue": "A mountain that can erupt with hot lava",
+      "answer": "VOLCANO",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 6,
+      "clue": "A long-eared pet that hops and nibbles carrots",
+      "answer": "RABBIT",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "To make something twice as big",
+      "answer": "DOUBLE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Sliding down snowy mountains on two long boards",
+      "answer": "SKIING",
+      "row": 0,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person who catches fish for a living",
-      "answer": "FISHER",
-      "row": 2,
-      "col": 8,
+      "clue": "The − sign, used for taking away",
+      "answer": "MINUS",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The tiny points of light in the night sky",
-      "answer": "STARS",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of rich",
-      "answer": "POOR",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of buy",
-      "answer": "SELL",
-      "row": 1,
-      "col": 1,
+      "clue": "A solid with a round base and a pointy top, like a party hat",
+      "answer": "CONE",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     }
   ],

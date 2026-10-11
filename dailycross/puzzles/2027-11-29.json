@@ -4,53 +4,74 @@
   "title": "2027-11-29",
   "words": [
     {
-      "clue": "It makes holes in paper for a binder",
-      "answer": "HOLEPUNCH",
-      "row": 2,
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 0,
+      "clue": "A hard, hairy fruit with white flesh and water inside",
+      "answer": "COCONUT",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 6,
-      "col": 4,
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
-      "row": 3,
-      "col": 4,
+      "clue": "The break between lessons when you go outside to play",
+      "answer": "RECESS",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A famous telescope that takes pictures of deep space",
-      "answer": "HUBBLE",
-      "row": 2,
-      "col": 8,
+      "clue": "A short race run as fast as you can",
+      "answer": "SPRINT",
+      "row": 6,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "You drink water from this",
-      "answer": "GLASS",
-      "row": 1,
+      "clue": "The person who flies an airplane",
+      "answer": "PILOT",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Facing danger without running away",
+      "answer": "BRAVE",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The color of chocolate and tree bark",
-      "answer": "BROWN",
-      "row": 8,
-      "col": 0,
+      "clue": "The opposite of clean",
+      "answer": "DIRTY",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, narrow stream",
+      "answer": "CREEK",
+      "row": 1,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A small light for a table or the floor",
+      "answer": "LAMP",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 535

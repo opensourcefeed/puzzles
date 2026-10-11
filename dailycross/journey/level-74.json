@@ -4,91 +4,112 @@
   "title": "Level 74",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
-      "row": 4,
-      "col": 2,
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
-      "row": 3,
-      "col": 10,
+      "clue": "A curvy metal instrument played with a reed, popular in jazz",
+      "answer": "SAXOPHONE",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A big pile of snow blown together by the wind",
-      "answer": "SNOWDRIFT",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
+      "clue": "Where a river drops straight down over a cliff",
+      "answer": "WATERFALL",
       "row": 4,
-      "col": 8,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten hundreds",
+      "answer": "THOUSAND",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Different notes that sound nice played together",
+      "answer": "HARMONY",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark leafy green that made Popeye strong",
+      "answer": "SPINACH",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
     },
     {
       "clue": "The opposite of wide",
       "answer": "NARROW",
-      "row": 9,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "You use it to control the TV from your seat",
-      "answer": "REMOTE",
       "row": 0,
-      "col": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "You hang clothes on it in the wardrobe",
-      "answer": "HANGER",
-      "row": 7,
+      "clue": "Steps that take you from one floor to another",
+      "answer": "STAIRS",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of open",
+      "answer": "CLOSED",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "To look something up on the internet",
+      "answer": "SEARCH",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool for measuring and drawing straight lines",
-      "answer": "RULER",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The darkest color, like the night sky",
-      "answer": "BLACK",
-      "row": 5,
+      "clue": "Another word for a tap",
+      "answer": "FAUCET",
+      "row": 3,
       "col": 1,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A tall tropical tree with big leaves, seen on beaches",
-      "answer": "PALM",
-      "row": 8,
-      "col": 3,
+      "clue": "The blast-off when a rocket lifts into the sky",
+      "answer": "LAUNCH",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The row of bones running down your back",
+      "answer": "SPINE",
+      "row": 10,
+      "col": 4,
       "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 15,
   "targetWords": 15,
   "difficulty": "medium"
 }

@@ -4,66 +4,73 @@
   "title": "2027-01-23",
   "words": [
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 4,
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A two-wheeled ride you pedal with your feet",
-      "answer": "BICYCLE",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Pleasant sounds put together for us to enjoy",
-      "answer": "MUSIC",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your hand to your arm",
-      "answer": "WRIST",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Instruments you buzz your lips into, like a trumpet",
-      "answer": "BRASS",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, soft seat for several people",
-      "answer": "SOFA",
-      "row": 8,
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
+      "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Information that is stored on a computer",
-      "answer": "DATA",
+      "clue": "The main printed guide your class learns a subject from",
+      "answer": "TEXTBOOK",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "An animal that swings from tree branches",
+      "answer": "MONKEY",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who plays roles in movies and plays",
+      "answer": "ACTOR",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain with yellow kernels on a cob",
+      "answer": "CORN",
+      "row": 5,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of fast",
+      "answer": "SLOW",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, soft seat for several people",
+      "answer": "SOFA",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A giant ball of burning gas that twinkles at night",
+      "answer": "STAR",
       "row": 0,
-      "col": 8,
+      "col": 4,
       "direction": "down"
     }
   ],

@@ -4,67 +4,74 @@
   "title": "2028-03-18",
   "words": [
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
+      "clue": "You plug your phone into this when its battery is low",
+      "answer": "CHARGER",
       "row": 2,
-      "col": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
+      "clue": "A group of computers linked to share information",
+      "answer": "NETWORK",
       "row": 1,
-      "col": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
       "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who brings mail to your house",
-      "answer": "MAILMAN",
-      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The color of grass and leaves",
-      "answer": "GREEN",
+      "clue": "The front of your neck, where your voice comes from",
+      "answer": "THROAT",
       "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "When water rises and covers land that is usually dry",
+      "answer": "FLOOD",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The × sign, used for multiplying",
+      "answer": "TIMES",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small group of trees",
-      "answer": "GROVE",
+      "clue": "How you feel when there is nothing to do",
+      "answer": "BORED",
       "row": 0,
-      "col": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A device you use to call people far away",
-      "answer": "PHONE",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
+      "clue": "Ice, wood and rock are all in this state of matter",
+      "answer": "SOLID",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "A pale blue-green, like water",
-      "answer": "AQUA",
+      "clue": "The end of your arm, with four fingers and a thumb",
+      "answer": "HAND",
       "row": 5,
-      "col": 10,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "The shiny yellow metal that first-place medals are made of",
+      "answer": "GOLD",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 645

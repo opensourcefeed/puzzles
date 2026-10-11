@@ -4,59 +4,74 @@
   "title": "2027-07-16",
   "words": [
     {
-      "clue": "A device that does math problems for you",
-      "answer": "CALCULATOR",
-      "row": 4,
+      "clue": "A pretty insect with colorful wings that used to be a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 1,
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
-      "row": 2,
-      "col": 2,
+      "clue": "To bring a file from the internet onto your device",
+      "answer": "DOWNLOAD",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 7,
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who gathers and tells the news",
+      "answer": "REPORTER",
+      "row": 2,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person whose job is to clean buildings",
-      "answer": "CLEANER",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A breakfast food you eat with milk",
-      "answer": "CEREAL",
-      "row": 1,
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
+      "row": 8,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who flies an airplane",
-      "answer": "PILOT",
+      "clue": "The power to make things move, heat up, or light up",
+      "answer": "ENERGY",
       "row": 5,
-      "col": 11,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of flat land, or not fancy at all",
+      "answer": "PLAIN",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that can do jobs by itself",
+      "answer": "ROBOT",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     }
   ],

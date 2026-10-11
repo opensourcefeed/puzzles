@@ -4,67 +4,76 @@
   "title": "2027-03-02",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies stars and planets",
-      "answer": "ASTRONOMER",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
       "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Glad that a worry is finally over",
-      "answer": "RELIEVED",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet frozen treat made from milk",
-      "answer": "ICECREAM",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The low land between hills or mountains",
-      "answer": "VALLEY",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The × sign, used for multiplying",
-      "answer": "TIMES",
-      "row": 10,
+      "clue": "What an astronaut wears to stay alive outside the ship",
+      "answer": "SPACESUIT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "To look something up on the internet",
+      "answer": "SEARCH",
+      "row": 1,
       "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A sheltered spot on the coast where boats stay",
+      "answer": "HARBOR",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A white or grey puff floating in the sky",
+      "answer": "CLOUD",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A short typed message sent from a phone",
+      "answer": "TEXT",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "You use it to tidy and smooth your hair",
+      "answer": "COMB",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 263

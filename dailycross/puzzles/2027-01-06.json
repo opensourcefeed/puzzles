@@ -4,53 +4,74 @@
   "title": "2027-01-06",
   "words": [
     {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
-      "row": 2,
-      "col": 2,
+      "clue": "The person who waves a baton to lead an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 1,
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 0,
-      "col": 9,
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A thick, creamy food made from milk",
-      "answer": "YOGURT",
+      "clue": "Ten times ten",
+      "answer": "HUNDRED",
       "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The planet famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 8,
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 11,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A pale yellow-white, like the top of fresh milk",
+      "answer": "CREAM",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A board game with kings, queens and knights",
+      "answer": "CHESS",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A large stream of water flowing across the land to the sea",
+      "answer": "RIVER",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The curved bones that cage your heart and lungs",
+      "answer": "RIBS",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 208

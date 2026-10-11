@@ -4,105 +4,133 @@
   "title": "Level 95",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
       "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
       "row": 5,
-      "col": 10,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "An electronic machine that runs programs",
-      "answer": "COMPUTER",
+      "clue": "A secret code that unlocks your account",
+      "answer": "PASSWORD",
       "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with six sides, like a honeycomb cell",
+      "answer": "HEXAGON",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The part of your face above your eyes",
-      "answer": "FOREHEAD",
-      "row": 10,
-      "col": 4,
+      "clue": "The dark shape made when something blocks the light",
+      "answer": "SHADOW",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A big place with rows of seats for watching sports",
-      "answer": "STADIUM",
-      "row": 4,
-      "col": 3,
+      "clue": "In a bad mood, cross and complaining",
+      "answer": "GRUMPY",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A computer that folds shut so you can carry it",
+      "answer": "LAPTOP",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 12,
+      "clue": "The front of your neck, where your voice comes from",
+      "answer": "THROAT",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
+      "clue": "A slow animal that carries its shell around",
+      "answer": "TURTLE",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A small pool of water on the ground after a shower",
+      "answer": "PUDDLE",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The round part that turns under a car",
+      "answer": "WHEEL",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of true",
+      "answer": "FALSE",
       "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A glass opening that lets in light and air",
-      "answer": "WINDOW",
-      "row": 8,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "To send a file from your device to the internet",
-      "answer": "UPLOAD",
-      "row": 5,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A slow animal that leaves a slimy trail",
-      "answer": "SNAIL",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You cut your food with this",
-      "answer": "KNIFE",
-      "row": 7,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A tiny animal that loves cheese",
-      "answer": "MOUSE",
-      "row": 4,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The color of fresh snow and milk",
-      "answer": "WHITE",
+      "clue": "The darkest color, like the night sky",
+      "answer": "BLACK",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A plant that climbs up walls and trees",
-      "answer": "VINE",
+      "clue": "A crunchy red or green fruit; one a day keeps the doctor away",
+      "answer": "APPLE",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint between your hand and your arm",
+      "answer": "WRIST",
       "row": 2,
-      "col": 3,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A short piece of music with words you sing",
+      "answer": "SONG",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The biggest brass instrument, with a deep, low sound",
+      "answer": "TUBA",
+      "row": 10,
+      "col": 2,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 18,
   "targetWords": 18,
   "difficulty": "medium"
 }

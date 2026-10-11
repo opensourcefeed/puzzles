@@ -4,60 +4,74 @@
   "title": "2027-09-19",
   "words": [
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 4,
-      "col": 0,
+      "clue": "A sweet brown treat made from cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
+      "clue": "A ship that can travel deep underwater",
+      "answer": "SUBMARINE",
       "row": 1,
-      "col": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A black-and-white bird that waddles on the ice",
-      "answer": "PENGUIN",
-      "row": 6,
-      "col": 3,
+      "clue": "Bright and full of good spirits",
+      "answer": "CHEERFUL",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "What we hear with our ears",
-      "answer": "SOUND",
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
       "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A train carriage that carries passengers",
-      "answer": "COACH",
+      "clue": "The clear liquid that all living things need",
+      "answer": "WATER",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of old",
+      "answer": "YOUNG",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep, narrow valley with steep rocky sides",
+      "answer": "GORGE",
       "row": 1,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tree with needle leaves and cones",
-      "answer": "PINE",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Talking with typed messages online",
-      "answer": "CHAT",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A grain with yellow kernels on a cob",
-      "answer": "CORN",
-      "row": 0,
-      "col": 7,
+      "clue": "The rough outer covering of a tree trunk",
+      "answer": "BARK",
+      "row": 3,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "The opposite of bright",
+      "answer": "DARK",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 464

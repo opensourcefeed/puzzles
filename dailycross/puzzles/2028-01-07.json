@@ -4,52 +4,73 @@
   "title": "2028-01-07",
   "words": [
     {
-      "clue": "A small stick that plugs in to store your files",
-      "answer": "FLASHDRIVE",
-      "row": 5,
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who writes computer code",
-      "answer": "PROGRAMMER",
-      "row": 1,
-      "col": 6,
+      "clue": "A tube with lenses that makes faraway stars look close",
+      "answer": "TELESCOPE",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 9,
+      "clue": "The fastest runner on land, covered in spots",
+      "answer": "CHEETAH",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "What a forecast on the news tells you about",
+      "answer": "WEATHER",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A mountain that can erupt with hot lava",
+      "answer": "VOLCANO",
+      "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Glad that a worry is finally over",
-      "answer": "RELIEVED",
-      "row": 3,
-      "col": 1,
+      "clue": "The opposite of never",
+      "answer": "ALWAYS",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Feeling worried and uneasy inside",
-      "answer": "ANXIOUS",
-      "row": 3,
-      "col": 2,
+      "clue": "The color of fresh snow and milk",
+      "answer": "WHITE",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A tree whose sap is boiled into a sweet syrup for pancakes",
+      "answer": "MAPLE",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 0,
-      "col": 9,
+      "clue": "A vegetable with layers that makes you cry when you cut it",
+      "answer": "ONION",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The opposite of deep",
-      "answer": "SHALLOW",
-      "row": 5,
-      "col": 3,
+      "clue": "A small round fruit that grows in bunches on a vine",
+      "answer": "GRAPE",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     }
   ],

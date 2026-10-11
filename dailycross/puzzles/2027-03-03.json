@@ -4,67 +4,74 @@
   "title": "2027-03-03",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
+      "clue": "A red, heart-shaped fruit with seeds on the outside",
+      "answer": "STRAWBERRY",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
       "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who serves food and drinks at a restaurant",
-      "answer": "WAITER",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 8,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 1,
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A group of people who sing together",
-      "answer": "CHOIR",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A big animal that people ride",
-      "answer": "HORSE",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of a clear daytime sky",
-      "answer": "BLUE",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your face below your mouth",
-      "answer": "CHIN",
+      "clue": "How you might feel before a big test or show",
+      "answer": "NERVOUS",
       "row": 8,
-      "col": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of racing on a bicycle",
+      "answer": "CYCLING",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A crunchy green vegetable with long stalks",
+      "answer": "CELERY",
+      "row": 0,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "Where a computer keeps what it's working on; also your power to remember",
+      "answer": "MEMORY",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of big",
+      "answer": "SMALL",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "You bake cakes and roast food inside this",
+      "answer": "OVEN",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The outer layer that covers your whole body",
+      "answer": "SKIN",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 264

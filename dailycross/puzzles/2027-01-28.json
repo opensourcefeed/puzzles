@@ -4,67 +4,74 @@
   "title": "2027-01-28",
   "words": [
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
+      "clue": "A half-circle tool for measuring angles",
+      "answer": "PROTRACTOR",
       "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The airless empty space between the stars",
-      "answer": "VACUUM",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A day when the sky is full of clouds",
-      "answer": "CLOUDY",
-      "row": 5,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A large bowl used for washing",
-      "answer": "BASIN",
-      "row": 0,
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The opposite of old",
-      "answer": "YOUNG",
-      "row": 7,
-      "col": 7,
+      "clue": "A flying vehicle with wings and jet engines",
+      "answer": "AIRPLANE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A sparkly precious stone, and a card suit",
+      "answer": "DIAMOND",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large hole in a rock or hillside",
-      "answer": "CAVE",
-      "row": 1,
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The opposite of bright",
-      "answer": "DARK",
-      "row": 5,
-      "col": 6,
+      "clue": "The answer you get when you multiply",
+      "answer": "PRODUCT",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A shape with a round base and a pointy top",
-      "answer": "CONE",
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, narrow stream",
+      "answer": "CREEK",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of chocolate and tree bark",
+      "answer": "BROWN",
       "row": 5,
-      "col": 10,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "A large hole in a rock or hillside where bats may live",
+      "answer": "CAVE",
+      "row": 6,
+      "col": 10,
+      "direction": "across"
     }
   ],
   "dayNumber": 230

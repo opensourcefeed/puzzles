@@ -4,66 +4,74 @@
   "title": "2027-04-10",
   "words": [
     {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 2,
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bright flash in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 1,
+      "clue": "A person who builds things out of wood",
+      "answer": "CARPENTER",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Riding ocean waves on a board",
+      "answer": "SURFING",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The stony remains of an animal or plant from long ago",
+      "answer": "FOSSIL",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
+      "clue": "It travels faster than anything else and lets us see",
+      "answer": "LIGHT",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The black dot in the middle of your eye, or a student",
+      "answer": "PUPIL",
       "row": 0,
-      "col": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain that is ground into flour for bread",
+      "answer": "WHEAT",
+      "row": 6,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The little hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A place where trains stop to pick up passengers",
-      "answer": "STATION",
-      "row": 3,
+      "clue": "Carriages pulled along railway tracks by an engine",
+      "answer": "TRAIN",
+      "row": 12,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A pinkish-orange color",
-      "answer": "CORAL",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A stretched-out circle, shaped like an egg",
-      "answer": "OVAL",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Weather that feels very chilly",
-      "answer": "COLD",
-      "row": 6,
-      "col": 7,
       "direction": "across"
     }
   ],

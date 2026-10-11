@@ -4,67 +4,74 @@
   "title": "2027-04-09",
   "words": [
     {
-      "clue": "A pretty insect that used to be a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
       "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who cuts hair, mostly for men",
-      "answer": "BARBER",
-      "row": 6,
+      "clue": "A red, heart-shaped fruit with seeds on the outside",
+      "answer": "STRAWBERRY",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A small woody plant, shorter than a tree",
-      "answer": "SHRUB",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Weather when rain is falling",
-      "answer": "RAINY",
+      "clue": "The matching clothes a team wears",
+      "answer": "UNIFORM",
       "row": 7,
-      "col": 4,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You flip it to turn a light on or off",
+      "answer": "SWITCH",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A fluffy farm animal that gives us wool",
+      "answer": "SHEEP",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A sharp point on the stem of a rose or a bramble",
+      "answer": "THORN",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A short piece of music with words you sing",
+      "answer": "SONG",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 301

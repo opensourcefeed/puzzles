@@ -4,112 +4,150 @@
   "title": "Level 113",
   "words": [
     {
-      "clue": "A tiny chip that stores photos inside a camera",
-      "answer": "MEMORYCARD",
+      "clue": "A half-circle tool for measuring angles",
+      "answer": "PROTRACTOR",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that circles a planet to send signals",
-      "answer": "SATELLITE",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A cabinet for storing food and dishes",
-      "answer": "CUPBOARD",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 13,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling super eager about something fun",
-      "answer": "EXCITED",
-      "row": 8,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who cuts hair, mostly for men",
-      "answer": "BARBER",
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
       "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A day when the sky is full of clouds",
-      "answer": "CLOUDY",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who serves food and drinks at a restaurant",
-      "answer": "WAITER",
-      "row": 6,
-      "col": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The Sun and its planets: the solar ___",
-      "answer": "SYSTEM",
-      "row": 9,
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "An orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 0,
-      "col": 7,
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 6,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Musical notes going up or down in order",
-      "answer": "SCALE",
-      "row": 11,
-      "col": 6,
+      "clue": "A win in a game or contest",
+      "answer": "VICTORY",
+      "row": 13,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Wishing and expecting that good things will happen",
+      "answer": "HOPEFUL",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The blinking line or arrow that shows where you are on screen",
+      "answer": "CURSOR",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Always wanting more than your share",
+      "answer": "GREEDY",
+      "row": 9,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Body tissue that tightens to move your bones",
+      "answer": "MUSCLE",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A sheltered spot on the coast where boats stay",
+      "answer": "HARBOR",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The low land between hills or mountains",
+      "answer": "VALLEY",
+      "row": 8,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The bony case that protects your brain",
+      "answer": "SKULL",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "___ panels turn sunshine into electricity",
+      "answer": "SOLAR",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The second planet from the Sun, and the hottest one",
+      "answer": "VENUS",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "An unwanted plant growing in a garden",
+      "answer": "WEED",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant like basil or parsley used to flavor food",
+      "answer": "HERB",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 20,
   "targetWords": 20,
   "difficulty": "hard"
 }

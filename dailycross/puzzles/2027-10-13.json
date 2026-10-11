@@ -4,67 +4,75 @@
   "title": "2027-10-13",
   "words": [
     {
-      "clue": "A pretty insect that used to be a caterpillar",
-      "answer": "BUTTERFLY",
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
       "row": 5,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
       "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Wireless tech that connects nearby devices",
-      "answer": "BLUETOOTH",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright, bold pink",
-      "answer": "FUCHSIA",
-      "row": 12,
       "col": 4,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
-      "row": 6,
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A team sport where you kick a ball into a goal",
-      "answer": "SOCCER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 7,
+      "clue": "How loud or soft the music is",
+      "answer": "VOLUME",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 0,
-      "col": 5,
+      "clue": "A person who creates paintings and drawings",
+      "answer": "ARTIST",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, smooth stone",
+      "answer": "PEBBLE",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A crunchy green vegetable with long stalks",
+      "answer": "CELERY",
+      "row": 9,
+      "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "A small group of trees, often fruit trees",
+      "answer": "GROVE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of loud",
+      "answer": "QUIET",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "___ panels turn sunshine into electricity",
+      "answer": "SOLAR",
+      "row": 8,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 488

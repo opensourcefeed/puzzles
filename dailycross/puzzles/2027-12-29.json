@@ -4,67 +4,74 @@
   "title": "2027-12-29",
   "words": [
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
       "row": 2,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
+      "clue": "A bright flash in the sky during a storm",
+      "answer": "LIGHTNING",
       "row": 1,
-      "col": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
       "row": 0,
-      "col": 8,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "It browns your slices of bread",
-      "answer": "TOASTER",
+      "clue": "The rainbow color between blue and violet",
+      "answer": "INDIGO",
       "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "You sweep dirt into it using a broom",
-      "answer": "DUSTPAN",
-      "row": 3,
-      "col": 10,
+      "clue": "A hanging spike of ice that forms when dripping water freezes",
+      "answer": "ICICLE",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A jug with a handle and spout for pouring drinks",
-      "answer": "PITCHER",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Land with water all around it",
-      "answer": "ISLAND",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 8,
+      "clue": "The corner point where two lines meet",
+      "answer": "VERTEX",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tool for measuring how long something is",
-      "answer": "RULER",
+      "clue": "Pressing and letting go of a mouse button",
+      "answer": "CLICK",
       "row": 4,
-      "col": 9,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The color of grass and leaves",
+      "answer": "GREEN",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You open it to go in and out of a room",
+      "answer": "DOOR",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The tiny thing a new plant grows from",
+      "answer": "SEED",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 565

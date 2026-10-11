@@ -4,66 +4,73 @@
   "title": "2027-06-19",
   "words": [
     {
-      "clue": "A flying vehicle with spinning blades on top",
-      "answer": "HELICOPTER",
-      "row": 6,
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A phone call where you can see each other",
-      "answer": "VIDEOCALL",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A secret word that unlocks your account",
-      "answer": "PASSWORD",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
       "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep, dark green like trees in the woods",
-      "answer": "FOREST",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
-      "row": 2,
-      "col": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The back part of your foot",
-      "answer": "HEEL",
+      "clue": "A dark leafy green that made Popeye strong",
+      "answer": "SPINACH",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when leaves turn color and fall",
+      "answer": "AUTUMN",
       "row": 8,
-      "col": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall, hollow grass that pandas love to eat",
+      "answer": "BAMBOO",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A line that bends smoothly, like a smile",
+      "answer": "CURVE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You bake cakes and roast food inside this",
+      "answer": "OVEN",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Music performed by just one person",
+      "answer": "SOLO",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sticky strip for holding things together",
+      "answer": "TAPE",
+      "row": 8,
+      "col": 2,
       "direction": "down"
     }
   ],

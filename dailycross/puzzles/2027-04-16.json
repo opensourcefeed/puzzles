@@ -4,67 +4,75 @@
   "title": "2027-04-16",
   "words": [
     {
-      "clue": "How you feel when something unexpected happens",
-      "answer": "SURPRISED",
-      "row": 4,
-      "col": 0,
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
+      "clue": "What an astronaut wears to stay alive outside the ship",
+      "answer": "SPACESUIT",
       "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who fixes water pipes and taps",
-      "answer": "PLUMBER",
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
       "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The season when leaves turn color and fall",
-      "answer": "AUTUMN",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft, wet land that is often flooded",
-      "answer": "MARSH",
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
       "row": 0,
-      "col": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a song that repeats after each verse",
+      "answer": "CHORUS",
+      "row": 4,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The huge empty area beyond Earth's sky",
-      "answer": "SPACE",
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
       "row": 4,
-      "col": 9,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Brave enough to try something new",
-      "answer": "BOLD",
-      "row": 8,
-      "col": 8,
-      "direction": "down"
+      "clue": "Rough weather with strong wind and heavy rain",
+      "answer": "STORM",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A container for holding cut flowers",
+      "answer": "VASE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 308

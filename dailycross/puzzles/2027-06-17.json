@@ -4,67 +4,74 @@
   "title": "2027-06-17",
   "words": [
     {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 2,
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 0,
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A person whose job is to paint walls and buildings",
-      "answer": "PAINTER",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
+      "clue": "It makes a blunt pencil pointy again",
+      "answer": "SHARPENER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "A big storm of winds spinning around a center",
-      "answer": "CYCLONE",
-      "row": 2,
+      "clue": "A spinning funnel of wind that touches the ground",
+      "answer": "TORNADO",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 1,
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of a question",
+      "answer": "ANSWER",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The coldest, snowiest season",
+      "answer": "WINTER",
+      "row": 3,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Cloth hung over a window for privacy",
-      "answer": "CURTAIN",
-      "row": 2,
-      "col": 9,
+      "clue": "The gas in the air that we need to breathe",
+      "answer": "OXYGEN",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A page you visit online in a browser",
-      "answer": "WEBSITE",
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
       "row": 7,
-      "col": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A shiny brass instrument with a bright sound",
-      "answer": "TRUMPET",
-      "row": 0,
-      "col": 3,
+      "clue": "The opposite of big",
+      "answer": "SMALL",
+      "row": 9,
+      "col": 6,
       "direction": "across"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
     }
   ],
   "dayNumber": 370

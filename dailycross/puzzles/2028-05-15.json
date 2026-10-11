@@ -4,73 +4,73 @@
   "title": "2028-05-15",
   "words": [
     {
-      "clue": "A four-sided shape with just one pair of parallel sides",
-      "answer": "TRAPEZOID",
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
       "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Cloth hung over a window for privacy",
-      "answer": "CURTAIN",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who steers a vehicle",
-      "answer": "DRIVER",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 0,
-      "col": 6,
+      "clue": "A shape with three straight sides",
+      "answer": "TRIANGLE",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A round vegetable with layers that makes you cry",
-      "answer": "ONION",
+      "clue": "The opposite of deep",
+      "answer": "SHALLOW",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "How you might feel before a big test or show",
+      "answer": "NERVOUS",
       "row": 3,
-      "col": 9,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A book full of maps",
+      "answer": "ATLAS",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
       "clue": "The number of points in a game",
       "answer": "SCORE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A wet mix of rain and snow",
+      "answer": "SLEET",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of three musicians",
+      "answer": "TRIO",
       "row": 3,
-      "col": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of right",
+      "answer": "LEFT",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     }
   ],

@@ -4,67 +4,74 @@
   "title": "2027-04-19",
   "words": [
     {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
-      "row": 3,
-      "col": 0,
+      "clue": "The part of your face above your eyebrows",
+      "answer": "FOREHEAD",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 0,
-      "col": 5,
+      "clue": "Bright and full of good spirits",
+      "answer": "CHEERFUL",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 2,
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Feeling fidgety and unable to sit still",
-      "answer": "RESTLESS",
-      "row": 0,
-      "col": 3,
+      "clue": "The loud boom that follows a flash in a storm",
+      "answer": "THUNDER",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Feeling thankful for something you were given",
-      "answer": "GRATEFUL",
+      "clue": "The cold cupboard that keeps your food fresh",
+      "answer": "FRIDGE",
       "row": 1,
-      "col": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
+      "clue": "Water and juice are both in this state of matter",
+      "answer": "LIQUID",
       "row": 8,
-      "col": 1,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
+      "clue": "The shiny metal of a second-place medal",
+      "answer": "SILVER",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A short race run as fast as you can",
+      "answer": "SPRINT",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A narrow boat you move with a paddle",
+      "answer": "CANOE",
       "row": 6,
-      "col": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
+      "clue": "The opposite of thick",
+      "answer": "THIN",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 311

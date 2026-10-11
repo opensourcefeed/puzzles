@@ -4,84 +4,119 @@
   "title": "Level 80",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
+      "clue": "A spiky tropical fruit, sweet and yellow inside",
+      "answer": "PINEAPPLE",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Someone riding in a vehicle but not driving",
-      "answer": "PASSENGER",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who gives emergency care before the hospital",
-      "answer": "PARAMEDIC",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A giant, spinning storm that forms over the ocean",
-      "answer": "HURRICANE",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A big white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The skin that covers your eye when you blink",
-      "answer": "EYELID",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The clear liquid that all living things need",
-      "answer": "WATER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "What we hear with our ears",
-      "answer": "SOUND",
-      "row": 10,
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Pleasant sounds put together for us to enjoy",
-      "answer": "MUSIC",
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Someone riding in a vehicle but not driving",
+      "answer": "PASSENGER",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A brass instrument with a sliding tube",
+      "answer": "TROMBONE",
       "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A strong farm vehicle that pulls heavy loads",
+      "answer": "TRACTOR",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A smart, playful sea mammal that loves to leap and click",
+      "answer": "DOLPHIN",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, smooth stone",
+      "answer": "PEBBLE",
+      "row": 14,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The joint in the middle of your leg",
+      "answer": "KNEE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of fast",
+      "answer": "SLOW",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The tiny thing a new plant grows from",
+      "answer": "SEED",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "You smell with this",
+      "answer": "NOSE",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A large Australian bird that cannot fly",
+      "answer": "EMU",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 16,
   "targetWords": 16,
   "difficulty": "medium"
 }

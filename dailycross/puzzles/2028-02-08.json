@@ -4,66 +4,73 @@
   "title": "2028-02-08",
   "words": [
     {
-      "clue": "The place where deleted files go on a computer",
-      "answer": "RECYCLEBIN",
-      "row": 5,
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tool that makes faraway things look close",
-      "answer": "TELESCOPE",
-      "row": 4,
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The little seed hidden inside a shell, like in a nut",
-      "answer": "KERNEL",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge group of stars held together in space",
-      "answer": "GALAXY",
+      "clue": "A very tall, steep, rocky peak",
+      "answer": "MOUNTAIN",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Finding something really funny",
-      "answer": "AMUSED",
+      "clue": "A tool with two blades for cutting paper",
+      "answer": "SCISSORS",
       "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The tallest animal, with a super long neck",
+      "answer": "GIRAFFE",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Body tissue that tightens to move your bones",
+      "answer": "MUSCLE",
+      "row": 0,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "It hangs on the wall and tells you the time",
-      "answer": "CLOCK",
+      "clue": "Water and juice are both in this state of matter",
+      "answer": "LIQUID",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cares for patients in a hospital",
+      "answer": "NURSE",
       "row": 10,
-      "col": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A sweet, sticky food made by bees",
-      "answer": "HONEY",
-      "row": 12,
-      "col": 3,
+      "clue": "The opposite of up",
+      "answer": "DOWN",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A sea animal with claws that walks sideways",
+      "answer": "CRAB",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     }
   ],

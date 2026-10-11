@@ -4,67 +4,67 @@
   "title": "Level 34",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
-      "row": 7,
-      "col": 0,
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A yellow flower you blow to make a wish",
-      "answer": "DANDELION",
-      "row": 6,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 0,
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A strong farm vehicle that pulls heavy loads",
-      "answer": "TRACTOR",
+      "clue": "A spacecraft that could fly to space again and again",
+      "answer": "SHUTTLE",
       "row": 4,
-      "col": 5,
-      "direction": "across"
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "A big round object that circles a star",
-      "answer": "PLANET",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
+      "clue": "The sport of moving a boat with oars",
+      "answer": "ROWING",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "An animal that swings from tree branches",
-      "answer": "MONKEY",
-      "row": 11,
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 8,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A famous telescope that takes pictures of deep space",
-      "answer": "HUBBLE",
-      "row": 2,
-      "col": 4,
+      "clue": "A strong-smelling bulb used to flavor cooking",
+      "answer": "GARLIC",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A nut that grows underground and is made into butter",
+      "answer": "PEANUT",
+      "row": 6,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A push or a pull",
+      "answer": "FORCE",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The − sign, used for taking away",
+      "answer": "MINUS",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "wordCount": 9,

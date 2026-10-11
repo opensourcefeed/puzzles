@@ -4,66 +4,73 @@
   "title": "2027-03-21",
   "words": [
     {
-      "clue": "A boat that can travel underwater",
-      "answer": "SUBMARINE",
+      "clue": "A shape with five straight sides",
+      "answer": "PENTAGON",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bright flash in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of computers linked to share information",
-      "answer": "NETWORK",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of brave",
-      "answer": "AFRAID",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A baked food made from flour, sliced for sandwiches",
-      "answer": "BREAD",
+      "clue": "A giant reptile that lived millions of years ago, like T. rex",
+      "answer": "DINOSAUR",
       "row": 4,
-      "col": 8,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Only caring about yourself",
+      "answer": "SELFISH",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A vegetable you can bake, mash, or fry into chips",
+      "answer": "POTATO",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A cup-shaped spring flower that is famous in Holland",
+      "answer": "TULIP",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The small nut of an oak tree that squirrels collect",
+      "answer": "ACORN",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A pale purple, like the spring flower of the same name",
+      "answer": "LILAC",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A line that bends smoothly, like a smile",
+      "answer": "CURVE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall machine with an arm that lifts heavy things",
+      "answer": "CRANE",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with six square faces, like a dice",
+      "answer": "CUBE",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     }
   ],

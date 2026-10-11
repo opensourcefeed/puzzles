@@ -4,74 +4,67 @@
   "title": "2026-12-15",
   "words": [
     {
-      "clue": "A small note that sticks where you press it",
-      "answer": "STICKYNOTE",
-      "row": 3,
-      "col": 1,
+      "clue": "A tool with two blades for cutting paper",
+      "answer": "SCISSORS",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 3,
-      "col": 9,
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
       "clue": "A purple flower known for its calming smell",
       "answer": "LAVENDER",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The longest finger, right in the center of your hand",
-      "answer": "MIDDLE",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Bright, warm weather with lots of sunshine",
-      "answer": "SUNNY",
-      "row": 1,
+      "row": 4,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "You sit on this in class",
-      "answer": "CHAIR",
-      "row": 5,
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat touchscreen device, bigger than a phone; also a pill",
+      "answer": "TABLET",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Land with water all around it",
+      "answer": "ISLAND",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The person in charge of a courtroom",
+      "answer": "JUDGE",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "You cut your food with this",
+      "answer": "KNIFE",
+      "row": 6,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
     }
   ],
   "dayNumber": 186

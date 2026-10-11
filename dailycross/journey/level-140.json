@@ -4,133 +4,127 @@
   "title": "Level 140",
   "words": [
     {
-      "clue": "A half-circle tool for measuring angles",
-      "answer": "PROTRACTOR",
+      "clue": "Annoyed because something keeps going wrong",
+      "answer": "FRUSTRATED",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small stick that plugs in to store your files",
-      "answer": "FLASHDRIVE",
+      "clue": "Instruments you hit or shake, like drums",
+      "answer": "PERCUSSION",
       "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A space rock that survives and lands on the ground",
-      "answer": "METEORITE",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A jug with a handle and spout for pouring drinks",
-      "answer": "PITCHER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A slow animal that carries its shell around",
-      "answer": "TURTLE",
-      "row": 14,
+      "clue": "A small hand drum with jingling metal discs",
+      "answer": "TAMBOURINE",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A big area covered with lots of trees",
-      "answer": "FOREST",
-      "row": 5,
-      "col": 7,
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
+      "row": 11,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
+      "clue": "The person who waves a baton to lead an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
       "row": 5,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Many days in a row of very hot weather",
+      "answer": "HEATWAVE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A green fruit with a big pit, mashed into guacamole",
+      "answer": "AVOCADO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright pinkish-purple used in printer ink",
+      "answer": "MAGENTA",
+      "row": 8,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The season when flowers bloom after winter",
-      "answer": "SPRING",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 3,
-      "col": 0,
+      "clue": "A strong-smelling bulb used to flavor cooking",
+      "answer": "GARLIC",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The finger you point with",
-      "answer": "INDEX",
-      "row": 0,
-      "col": 7,
+      "clue": "A long chain of mountains, like the Himalayas",
+      "answer": "RANGE",
+      "row": 10,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You sweep the floor with it",
-      "answer": "BROOM",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The shape you draw on a valentine card",
-      "answer": "HEART",
-      "row": 0,
+      "clue": "Wireless internet you connect to without any cables",
+      "answer": "WIFI",
+      "row": 8,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The red liquid that flows through your body",
-      "answer": "BLOOD",
-      "row": 9,
+      "clue": "A flat surface of a solid shape",
+      "answer": "FACE",
+      "row": 14,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A wheeled robot that drives on the Moon or Mars",
-      "answer": "ROVER",
-      "row": 0,
-      "col": 12,
+      "clue": "A climbing plant that covers old walls",
+      "answer": "IVY",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 17,
   "targetWords": 24,
   "difficulty": "hard"
 }

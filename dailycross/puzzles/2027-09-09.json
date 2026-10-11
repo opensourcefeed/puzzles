@@ -4,66 +4,73 @@
   "title": "2027-09-09",
   "words": [
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 6,
+      "clue": "Glad that a worry is finally over",
+      "answer": "RELIEVED",
+      "row": 3,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 5,
-      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A page you visit online in a browser",
-      "answer": "WEBSITE",
-      "row": 6,
-      "col": 8,
+      "clue": "Kind and easy to get along with",
+      "answer": "FRIENDLY",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling worried about what might happen",
-      "answer": "NERVOUS",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A shiny cup you win as a prize",
-      "answer": "TROPHY",
+      "clue": "A person who serves in an army",
+      "answer": "SOLDIER",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
-      "row": 9,
-      "col": 1,
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
+      "clue": "The opposite of leave",
+      "answer": "ARRIVE",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Steps that take you from one floor to another",
+      "answer": "STAIRS",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a device that shows pictures and words",
+      "answer": "SCREEN",
       "row": 1,
-      "col": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft orange-pink, like the fuzzy fruit",
+      "answer": "PEACH",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet fruit, narrow at the top and round at the bottom",
+      "answer": "PEAR",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of space inside a flat shape",
+      "answer": "AREA",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     }
   ],

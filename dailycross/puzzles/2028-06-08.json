@@ -4,74 +4,75 @@
   "title": "2028-06-08",
   "words": [
     {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 4,
+      "clue": "A red emergency vehicle with ladders and hoses",
+      "answer": "FIREENGINE",
+      "enumeration": "4,6",
+      "row": 1,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
+      "clue": "A tube with lenses that makes faraway stars look close",
+      "answer": "TELESCOPE",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, bright blue like the daytime sky",
-      "answer": "SKYBLUE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 2,
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
+      "row": 1,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The person who takes your money at the checkout",
+      "answer": "CASHIER",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
-      "row": 6,
+      "clue": "A win in a game or contest",
+      "answer": "VICTORY",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The color you get by mixing red and blue",
+      "answer": "PURPLE",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A glass shape that splits light into a rainbow",
+      "answer": "PRISM",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A big vehicle for carrying goods by road",
+      "answer": "TRUCK",
+      "row": 3,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 8,
+      "clue": "A small, narrow stream",
+      "answer": "CREEK",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A thin layer of ice on cold surfaces",
-      "answer": "FROST",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A black-and-white bear that loves bamboo",
-      "answer": "PANDA",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
+      "clue": "A crunchy red or green fruit; one a day keeps the doctor away",
+      "answer": "APPLE",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 727

@@ -4,74 +4,74 @@
   "title": "2027-02-18",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
-      "row": 7,
-      "col": 0,
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A person who writes computer code",
-      "answer": "PROGRAMMER",
-      "row": 5,
+      "clue": "The blanket of air around the Earth",
+      "answer": "ATMOSPHERE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A passage that goes through a mountain or under a river",
+      "answer": "TUNNEL",
+      "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A giant, spinning storm that forms over the ocean",
-      "answer": "HURRICANE",
+      "clue": "A Japanese martial art with kicks, chops and colored belts",
+      "answer": "KARATE",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
       "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A hard hat that protects your head while riding",
-      "answer": "HELMET",
-      "row": 13,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A city bird once used to carry messages",
-      "answer": "PIGEON",
+      "clue": "A message sent to someone's electronic inbox",
+      "answer": "EMAIL",
       "row": 0,
-      "col": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "You hang clothes on it in the wardrobe",
-      "answer": "HANGER",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who cares for patients and helps doctors",
-      "answer": "NURSE",
-      "row": 9,
-      "col": 1,
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
+      "row": 0,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "The bony case that protects your brain",
+      "answer": "SKULL",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Moving air you can feel but not see",
+      "answer": "WIND",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 251

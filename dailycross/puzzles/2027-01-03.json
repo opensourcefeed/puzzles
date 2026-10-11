@@ -4,74 +4,74 @@
   "title": "2027-01-03",
   "words": [
     {
-      "clue": "A scientist who studies animals",
-      "answer": "ZOOLOGIST",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The distance all the way across a circle",
-      "answer": "DIAMETER",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A light purple, like the flower",
-      "answer": "LAVENDER",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A very long-distance running race",
-      "answer": "MARATHON",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A small group of trees",
-      "answer": "GROVE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your hand to your arm",
-      "answer": "WRIST",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Weather when rain is falling",
-      "answer": "RAINY",
+      "clue": "Where a river drops straight down over a cliff",
+      "answer": "WATERFALL",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who flies an airplane",
-      "answer": "PILOT",
-      "row": 6,
-      "col": 10,
+      "clue": "The biggest bird in the world; it runs fast but can't fly",
+      "answer": "OSTRICH",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small concert by music students",
+      "answer": "RECITAL",
+      "row": 9,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "How loud or soft the music is",
+      "answer": "VOLUME",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel watching a spooky movie",
+      "answer": "SCARED",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Unhappy and bothered when things go wrong",
+      "answer": "UPSET",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A green animal that hops and says ribbit",
+      "answer": "FROG",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of win",
+      "answer": "LOSE",
+      "row": 9,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 205

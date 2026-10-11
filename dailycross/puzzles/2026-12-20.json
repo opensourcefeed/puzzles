@@ -4,66 +4,73 @@
   "title": "2026-12-20",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 2,
-      "col": 3,
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A green fruit with a big pit inside",
-      "answer": "AVOCADO",
+      "clue": "A yellow weed whose fluffy seed head you blow on to make a wish",
+      "answer": "DANDELION",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
+      "clue": "The answer you get when you multiply",
+      "answer": "PRODUCT",
       "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 4,
-      "col": 9,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A big ocean fish with rows of sharp teeth",
-      "answer": "SHARK",
-      "row": 4,
+      "clue": "It turns slices of bread brown and crunchy",
+      "answer": "TOASTER",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "An object that pulls iron and steel toward it",
+      "answer": "MAGNET",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who speaks for you in court",
+      "answer": "LAWYER",
+      "row": 2,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A tool for measuring how long something is",
-      "answer": "RULER",
-      "row": 9,
-      "col": 6,
+      "clue": "A huge sea mammal that breathes through a blowhole",
+      "answer": "WHALE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The biggest animal in the ocean",
-      "answer": "WHALE",
-      "row": 8,
-      "col": 0,
+      "clue": "The roped square where a boxing match takes place",
+      "answer": "RING",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A container with a handle and spout for pouring water",
+      "answer": "JUG",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     }
   ],

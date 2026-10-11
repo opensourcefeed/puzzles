@@ -4,66 +4,74 @@
   "title": "2027-12-28",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 3,
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "To bring a file from the internet onto your device",
-      "answer": "DOWNLOAD",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge grey animal with a long trunk",
-      "answer": "ELEPHANT",
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
       "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A woven container for carrying things",
-      "answer": "BASKET",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "An icy space object with a long, glowing tail",
-      "answer": "COMET",
-      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A book full of maps",
-      "answer": "ATLAS",
-      "row": 0,
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A win in a game or contest",
+      "answer": "VICTORY",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A group of web pages that share one name",
-      "answer": "SITE",
-      "row": 1,
-      "col": 5,
+      "clue": "An object that pulls iron and steel toward it",
+      "answer": "MAGNET",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Moving air you can feel but not see",
-      "answer": "WIND",
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The person who flies an airplane",
+      "answer": "PILOT",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain that is ground into flour for bread",
+      "answer": "WHEAT",
       "row": 0,
-      "col": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Vibrations that travel through the air to your ears",
+      "answer": "SOUND",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The limb between your shoulder and your hand",
+      "answer": "ARM",
+      "row": 12,
+      "col": 9,
       "direction": "down"
     }
   ],

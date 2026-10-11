@@ -4,67 +4,74 @@
   "title": "2027-05-23",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
-      "row": 3,
-      "col": 1,
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sport of flips, balance, and body strength",
-      "answer": "GYMNASTICS",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of your face above your eyes",
-      "answer": "FOREHEAD",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The biggest planet, with a giant red spot",
-      "answer": "JUPITER",
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
       "row": 0,
-      "col": 13,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A thick, hot forest full of plants and animals",
-      "answer": "JUNGLE",
-      "row": 9,
+      "clue": "A sweet brown treat made from cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with three straight sides",
+      "answer": "TRIANGLE",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A pen with a thick tip for whiteboards",
-      "answer": "MARKER",
-      "row": 5,
+      "clue": "An electronic machine that runs programs",
+      "answer": "COMPUTER",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The open ground where a sport is played",
-      "answer": "FIELD",
+      "clue": "The rainy season that brings heavy rain to India each summer",
+      "answer": "MONSOON",
       "row": 7,
-      "col": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The color you get by mixing red and blue",
+      "answer": "PURPLE",
+      "row": 7,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A vegetable you can bake, mash, or fry into chips",
+      "answer": "POTATO",
+      "row": 0,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Another name for your belly button",
+      "answer": "NAVEL",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small green or black fruit, and its dull green color",
+      "answer": "OLIVE",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
     }
   ],
   "dayNumber": 345

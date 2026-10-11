@@ -4,66 +4,73 @@
   "title": "2026-11-23",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
-      "row": 3,
+      "clue": "A tube with lenses that makes faraway stars look close",
+      "answer": "TELESCOPE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who puts up buildings",
-      "answer": "BUILDER",
+      "clue": "The opposite of deep",
+      "answer": "SHALLOW",
       "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A cloud of gas and dust where new stars are born",
-      "answer": "NEBULA",
-      "row": 2,
-      "col": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The corner point where two lines meet",
-      "answer": "VERTEX",
-      "row": 2,
-      "col": 3,
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The hottest season of the year",
-      "answer": "SUMMER",
+      "clue": "A Japanese martial art with kicks, chops and colored belts",
+      "answer": "KARATE",
       "row": 7,
-      "col": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A device that takes photos",
-      "answer": "CAMERA",
+      "clue": "To share a number out into equal groups",
+      "answer": "DIVIDE",
       "row": 2,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The five lines that music is written on",
-      "answer": "STAFF",
-      "row": 0,
-      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "One of the straight edges of a shape",
-      "answer": "SIDE",
-      "row": 2,
-      "col": 10,
+      "clue": "You use it to rub out pencil marks",
+      "answer": "ERASER",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of loud",
+      "answer": "QUIET",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A dull yellow-brown, like army uniforms",
+      "answer": "KHAKI",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The stalk that holds a plant up",
+      "answer": "STEM",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Part of the sea that curves into the land",
+      "answer": "BAY",
+      "row": 6,
+      "col": 6,
       "direction": "down"
     }
   ],

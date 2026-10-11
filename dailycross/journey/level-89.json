@@ -4,91 +4,126 @@
   "title": "Level 89",
   "words": [
     {
-      "clue": "The place where deleted files go on a computer",
-      "answer": "RECYCLEBIN",
-      "row": 3,
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Wireless tech that connects nearby devices",
-      "answer": "BLUETOOTH",
-      "row": 2,
+      "clue": "A small hand drum with jingling metal discs",
+      "answer": "TAMBOURINE",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A black woodwind instrument with a reed and silver keys",
+      "answer": "CLARINET",
+      "row": 9,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who takes care of plants and gardens",
-      "answer": "GARDENER",
-      "row": 5,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A jug with a handle and spout for pouring drinks",
-      "answer": "PITCHER",
-      "row": 10,
+      "clue": "Cloth hung over a window to block the light",
+      "answer": "CURTAIN",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "You stand on it and push along with one foot",
+      "answer": "SCOOTER",
+      "row": 13,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A green fruit with a big pit inside",
-      "answer": "AVOCADO",
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The biggest bird in the world; it runs fast but can't fly",
+      "answer": "OSTRICH",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten times ten",
+      "answer": "HUNDRED",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A pen with a thick, felt tip",
+      "answer": "MARKER",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The words of a song",
+      "answer": "LYRICS",
       "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The blast-off when a rocket lifts into the sky",
+      "answer": "LAUNCH",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "The instrument family that includes the violin, cello, and guitar",
-      "answer": "STRINGS",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "You click it on screen to make something happen",
-      "answer": "BUTTON",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small hill of earth",
-      "answer": "MOUND",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The planet we live on",
-      "answer": "EARTH",
+      "clue": "A vegetable with layers that makes you cry when you cut it",
+      "answer": "ONION",
       "row": 10,
-      "col": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Ice, wood and rock are all in this state of matter",
+      "answer": "SOLID",
+      "row": 0,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Do, re, mi, fa, so, la, ti, do",
+      "answer": "SCALE",
+      "row": 10,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 17,
   "targetWords": 17,
   "difficulty": "medium"
 }

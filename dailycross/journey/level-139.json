@@ -4,105 +4,155 @@
   "title": "Level 139",
   "words": [
     {
-      "clue": "A small stick that plugs in to store your files",
-      "answer": "FLASHDRIVE",
-      "row": 6,
+      "clue": "The blanket of air around the Earth",
+      "answer": "ATMOSPHERE",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
-      "row": 2,
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A spiky tropical fruit, sweet and yellow inside",
-      "answer": "PINEAPPLE",
-      "row": 8,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A person who plays music or sings for a living",
-      "answer": "MUSICIAN",
-      "row": 12,
-      "col": 0,
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A four-sided shape with just one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The person who stamps your books and helps you find the next one",
+      "answer": "LIBRARIAN",
+      "row": 14,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A bag you wear on your back to carry books",
-      "answer": "BACKPACK",
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
       "row": 4,
-      "col": 12,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A tiny dried seed often used in soup",
-      "answer": "LENTIL",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who writes books and stories",
-      "answer": "WRITER",
-      "row": 10,
+      "clue": "The answer you get when you multiply",
+      "answer": "PRODUCT",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 0,
-      "col": 9,
+      "clue": "The biggest ape, a gentle giant of the forest",
+      "answer": "GORILLA",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The huge empty area beyond Earth's sky",
-      "answer": "SPACE",
-      "row": 0,
-      "col": 6,
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 12,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An icy space object with a long, glowing tail",
-      "answer": "COMET",
-      "row": 12,
-      "col": 10,
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of leave",
+      "answer": "ARRIVE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Any one of the numbers 0 to 9",
+      "answer": "DIGIT",
+      "row": 1,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The opposite of true",
+      "answer": "FALSE",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "___ panels turn sunshine into electricity",
+      "answer": "SOLAR",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The middle color of a traffic light; also hardened tree resin",
+      "answer": "AMBER",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A colorful underwater ridge built by tiny sea animals",
+      "answer": "REEF",
+      "row": 14,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A small green citrus fruit, sour like a lemon",
+      "answer": "LIME",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Air and steam are both in this state of matter",
+      "answer": "GAS",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 21,
   "targetWords": 24,
   "difficulty": "hard"
 }

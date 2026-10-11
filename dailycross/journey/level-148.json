@@ -4,140 +4,119 @@
   "title": "Level 148",
   "words": [
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A big pile of snow blown together by the wind",
-      "answer": "SNOWDRIFT",
+      "clue": "A scientist who studies animals",
+      "answer": "ZOOLOGIST",
       "row": 6,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A huge grey animal with a long trunk",
-      "answer": "ELEPHANT",
-      "row": 0,
-      "col": 9,
+      "clue": "A squeezebox instrument with buttons or keys",
+      "answer": "ACCORDION",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A bag you wear on your back to carry books",
-      "answer": "BACKPACK",
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
       "row": 5,
-      "col": 4,
-      "direction": "across"
+      "col": 11,
+      "direction": "down"
     },
     {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 14,
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
+      "row": 13,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
-      "row": 5,
+      "clue": "A black woodwind instrument with a reed and silver keys",
+      "answer": "CLARINET",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The person who steers a vehicle",
-      "answer": "DRIVER",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A round red fruit used in sauces and salads",
-      "answer": "TOMATO",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A baby plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A tray on a desk for incoming papers",
-      "answer": "INBOX",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small woody plant, shorter than a tree",
-      "answer": "SHRUB",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who bakes bread and cakes",
-      "answer": "BAKER",
-      "row": 2,
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Feeling that you need rest or sleep",
-      "answer": "TIRED",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A seat with a back and legs, for one person",
-      "answer": "CHAIR",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A farm animal with horns and a little beard",
-      "answer": "GOAT",
-      "row": 13,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of buy",
-      "answer": "SELL",
-      "row": 8,
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of fast",
-      "answer": "SLOW",
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
       "row": 1,
-      "col": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who sews and alters clothes",
+      "answer": "TAILOR",
+      "row": 9,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The small nut of an oak tree that squirrels collect",
+      "answer": "ACORN",
+      "row": 6,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Another name for your belly button",
+      "answer": "NAVEL",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A blue-green color named after a duck",
+      "answer": "TEAL",
+      "row": 11,
+      "col": 13,
       "direction": "down"
     }
   ],
-  "wordCount": 19,
+  "wordCount": 16,
   "targetWords": 25,
   "difficulty": "hard"
 }

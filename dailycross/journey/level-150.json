@@ -4,126 +4,141 @@
   "title": "Level 150",
   "words": [
     {
-      "clue": "A machine that washes the dirty dishes",
-      "answer": "DISHWASHER",
+      "clue": "The blanket of air around the Earth",
+      "answer": "ATMOSPHERE",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies stars and planets",
-      "answer": "ASTRONOMER",
-      "row": 4,
+      "clue": "A test a scientist does to find something out",
+      "answer": "EXPERIMENT",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A four-sided shape with just one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling sure that you can do it",
+      "answer": "CONFIDENT",
+      "row": 1,
       "col": 11,
       "direction": "down"
     },
     {
       "clue": "A giant, spinning storm that forms over the ocean",
       "answer": "HURRICANE",
-      "row": 4,
-      "col": 5,
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A car the police use to chase and catch criminals",
-      "answer": "POLICECAR",
-      "row": 4,
-      "col": 3,
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 6,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Furniture with shelves for holding your books",
-      "answer": "BOOKSHELF",
-      "row": 12,
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A brass instrument with a sliding tube",
+      "answer": "TROMBONE",
+      "row": 3,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Feeling fidgety and unable to sit still",
-      "answer": "RESTLESS",
-      "row": 3,
+      "clue": "A space rock that circles the Sun; many lie between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint that connects your arm to your body",
+      "answer": "SHOULDER",
+      "row": 1,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The distance from a circle's center to its edge",
-      "answer": "RADIUS",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A spiky desert plant that stores water",
-      "answer": "CACTUS",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The biggest animal in the ocean",
-      "answer": "WHALE",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "You use this to eat, talk, and smile",
-      "answer": "MOUTH",
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A big body of water with land all around it",
-      "answer": "LAKE",
-      "row": 9,
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A farm animal with horns and a little beard",
-      "answer": "GOAT",
+      "clue": "The blinking line or arrow that shows where you are on screen",
+      "answer": "CURSOR",
       "row": 5,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You use these to hear",
-      "answer": "EARS",
-      "row": 8,
-      "col": 1,
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 1,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The back part of your foot",
-      "answer": "HEEL",
-      "row": 8,
-      "col": 9,
+      "clue": "The red liquid that your heart pumps around",
+      "answer": "BLOOD",
+      "row": 10,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "You bake and roast food inside this",
-      "answer": "OVEN",
-      "row": 8,
+      "clue": "A group of three musicians",
+      "answer": "TRIO",
+      "row": 9,
       "col": 11,
       "direction": "across"
+    },
+    {
+      "clue": "Air and steam are both in this state of matter",
+      "answer": "GAS",
+      "row": 11,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A curved part of a circle's edge",
+      "answer": "ARC",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 19,
   "targetWords": 25,
   "difficulty": "hard"
 }

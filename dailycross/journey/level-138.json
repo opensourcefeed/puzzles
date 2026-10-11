@@ -4,133 +4,168 @@
   "title": "Level 138",
   "words": [
     {
-      "clue": "A space rock that survives and lands on the ground",
-      "answer": "METEORITE",
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
       "row": 7,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
       "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "To bring a file from the internet onto your device",
-      "answer": "DOWNLOAD",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, bright blue like the daytime sky",
-      "answer": "SKYBLUE",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "You use it to control the TV from your seat",
-      "answer": "REMOTE",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The skin that covers your eye when you blink",
-      "answer": "EYELID",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The place where a river begins",
-      "answer": "SOURCE",
-      "row": 11,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who helps sick people get better",
-      "answer": "DOCTOR",
-      "row": 14,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The longest finger, right in the center of your hand",
-      "answer": "MIDDLE",
-      "row": 0,
-      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The airless empty space between the stars",
-      "answer": "VACUUM",
-      "row": 0,
+      "clue": "A ship that can travel deep underwater",
+      "answer": "SUBMARINE",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
+      "clue": "The world's biggest sports event, held every four years",
+      "answer": "OLYMPICS",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your arm to your body",
+      "answer": "SHOULDER",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The flowers on a fruit tree in spring",
+      "answer": "BLOSSOM",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Riding ocean waves on a board",
+      "answer": "SURFING",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Only caring about yourself",
+      "answer": "SELFISH",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Different notes that sound nice played together",
+      "answer": "HARMONY",
+      "row": 14,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A Japanese martial art with kicks, chops and colored belts",
+      "answer": "KARATE",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance from a circle's middle to its edge",
+      "answer": "RADIUS",
       "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The blinking line or arrow that shows where you are on screen",
+      "answer": "CURSOR",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Finding something funny",
+      "answer": "AMUSED",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The rainbow color between blue and violet",
+      "answer": "INDIGO",
+      "row": 1,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A robot spacecraft sent to explore space",
-      "answer": "PROBE",
+      "clue": "The opposite of a question",
+      "answer": "ANSWER",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "When water rises and covers land that is usually dry",
+      "answer": "FLOOD",
       "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tray on a desk for incoming papers",
-      "answer": "INBOX",
-      "row": 8,
+      "clue": "Spaghetti and macaroni are types of this",
+      "answer": "PASTA",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Our galaxy is the ___ Way",
+      "answer": "MILKY",
+      "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The tiny points of light in the night sky",
-      "answer": "STARS",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You pick up food with this pronged tool",
-      "answer": "FORK",
-      "row": 1,
-      "col": 8,
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
+      "row": 2,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The opposite of rich",
-      "answer": "POOR",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling pleased and happy",
-      "answer": "GLAD",
-      "row": 2,
-      "col": 5,
+      "clue": "A group of three musicians",
+      "answer": "TRIO",
+      "row": 10,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 23,
   "targetWords": 23,
   "difficulty": "hard"
 }

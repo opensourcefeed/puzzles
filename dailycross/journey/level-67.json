@@ -4,101 +4,102 @@
   "title": "Level 67",
   "words": [
     {
-      "clue": "A phone call where you can see each other",
-      "answer": "VIDEOCALL",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A very dark gray, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who helps students learn at school",
-      "answer": "TEACHER",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A black-and-white bird that waddles on the ice",
-      "answer": "PENGUIN",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "It clips sheets of paper together",
-      "answer": "STAPLER",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A cloud of gas and dust where new stars are born",
-      "answer": "NEBULA",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge group of stars held together in space",
-      "answer": "GALAXY",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A round citrus fruit you peel and eat in slices",
-      "answer": "ORANGE",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of a banana or the sun",
-      "answer": "YELLOW",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A robot spacecraft sent to explore space",
-      "answer": "PROBE",
-      "row": 10,
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A wire that charges or connects your devices",
-      "answer": "CABLE",
+      "clue": "A sudden, very heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A warm cover you sleep under",
+      "answer": "BLANKET",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A live show where musicians perform",
+      "answer": "CONCERT",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Sliding down snowy mountains on two long boards",
+      "answer": "SKIING",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A round citrus fruit that shares its name with its color",
+      "answer": "ORANGE",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "To make something twice as big",
+      "answer": "DOUBLE",
+      "row": 7,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A passage that goes through a mountain or under a river",
+      "answer": "TUNNEL",
       "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cuts men's hair and trims beards",
+      "answer": "BARBER",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A pale sandy color, like milky coffee",
+      "answer": "BEIGE",
+      "row": 10,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of old",
+      "answer": "YOUNG",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A wheeled robot that drives on the Moon or Mars",
-      "answer": "ROVER",
-      "row": 7,
-      "col": 10,
+      "clue": "It travels faster than anything else and lets us see",
+      "answer": "LIGHT",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The clear liquid that all living things need",
+      "answer": "WATER",
+      "row": 1,
+      "col": 12,
       "direction": "down"
     }
   ],

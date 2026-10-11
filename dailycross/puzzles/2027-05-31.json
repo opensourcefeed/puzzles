@@ -4,74 +4,74 @@
   "title": "2027-05-31",
   "words": [
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
+      "clue": "Someone riding in a vehicle but not driving",
+      "answer": "PASSENGER",
       "row": 5,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling fidgety and unable to sit still",
-      "answer": "RESTLESS",
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
       "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried and uneasy inside",
-      "answer": "ANXIOUS",
-      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 9,
+      "clue": "A person who lays bricks and puts up houses",
+      "answer": "BUILDER",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Gliding along on ice or on wheels",
+      "answer": "SKATING",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of leave",
+      "answer": "ARRIVE",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The shiny metal of a second-place medal",
+      "answer": "SILVER",
+      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The part of a device that shows pictures and words",
-      "answer": "SCREEN",
+      "clue": "The row of bones running down your back",
+      "answer": "SPINE",
       "row": 7,
-      "col": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
-      "row": 7,
-      "col": 4,
+      "clue": "A large stream of water flowing across the land to the sea",
+      "answer": "RIVER",
+      "row": 8,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 4,
-      "col": 9,
+      "clue": "The opposite of early",
+      "answer": "LATE",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who helps sick people get better",
-      "answer": "DOCTOR",
-      "row": 0,
-      "col": 6,
+      "clue": "A grain cooked into porridge",
+      "answer": "OATS",
+      "row": 2,
+      "col": 2,
       "direction": "down"
-    },
-    {
-      "clue": "Instruments you buzz your lips into, like a trumpet",
-      "answer": "BRASS",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The black dot in the middle of your eye",
-      "answer": "PUPIL",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 353

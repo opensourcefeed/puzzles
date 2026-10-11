@@ -4,73 +4,74 @@
   "title": "2027-04-02",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who works on a ship out at sea",
-      "answer": "SAILOR",
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
       "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Soft, wet land that is often flooded",
-      "answer": "MARSH",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of light (in weight)",
-      "answer": "HEAVY",
-      "row": 8,
+      "clue": "A sweet frozen treat you lick from a cone",
+      "answer": "ICECREAM",
+      "enumeration": "3,5",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A large stream of water flowing across the land",
-      "answer": "RIVER",
-      "row": 8,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 2,
-      "col": 4,
+      "clue": "The opposite of leave",
+      "answer": "ARRIVE",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A baked food made from flour, sliced for sandwiches",
-      "answer": "BREAD",
-      "row": 1,
-      "col": 0,
+      "clue": "The Sun and its planets: the solar ___",
+      "answer": "SYSTEM",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
-      "row": 8,
+      "clue": "A strong-smelling bulb used to flavor cooking",
+      "answer": "GARLIC",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The darkest color, like the night sky",
+      "answer": "BLACK",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You dry yourself with this after a bath",
+      "answer": "TOWEL",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A big ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
+      "row": 0,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Do, re, mi, fa, so, la, ti, do",
+      "answer": "SCALE",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     }
   ],

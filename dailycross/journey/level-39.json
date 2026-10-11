@@ -4,74 +4,74 @@
   "title": "Level 39",
   "words": [
     {
-      "clue": "A small note that sticks where you press it",
-      "answer": "STICKYNOTE",
+      "clue": "A red, heart-shaped fruit with seeds on the outside",
+      "answer": "STRAWBERRY",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "You stand on it and push along with one foot",
-      "answer": "SCOOTER",
-      "row": 5,
+      "clue": "A flying vehicle with wings and jet engines",
+      "answer": "AIRPLANE",
+      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A number with a dot in it, like 2.5",
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A number with a point in it, like 2.5",
       "answer": "DECIMAL",
-      "row": 10,
+      "row": 5,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The loud boom that follows a flash in a storm",
+      "answer": "THUNDER",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, smooth stone",
+      "answer": "PEBBLE",
+      "row": 13,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who catches fish for a living",
-      "answer": "FISHER",
-      "row": 4,
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 8,
+      "clue": "A person who writes books",
+      "answer": "AUTHOR",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A big round object that circles a star",
-      "answer": "PLANET",
-      "row": 1,
+      "clue": "A small round fruit that grows in bunches on a vine",
+      "answer": "GRAPE",
+      "row": 11,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The biggest animal in the ocean",
-      "answer": "WHALE",
-      "row": 1,
-      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The finger you point with",
-      "answer": "INDEX",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
+      "clue": "You chew your food with these",
+      "answer": "TEETH",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "wordCount": 10,

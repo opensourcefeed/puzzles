@@ -4,72 +4,58 @@
   "title": "2027-10-03",
   "words": [
     {
-      "clue": "A tool that makes faraway things look close",
-      "answer": "TELESCOPE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The place where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where water flows out of a lake",
-      "answer": "OUTLET",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A spiky desert plant that stores water",
-      "answer": "CACTUS",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who cares for patients and helps doctors",
-      "answer": "NURSE",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 9,
+      "clue": "You use it with paste to clean your teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who flies an airplane",
-      "answer": "PILOT",
-      "row": 3,
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The matching clothes a team wears",
+      "answer": "UNIFORM",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A big area covered with lots of trees",
+      "answer": "FOREST",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your hand to your arm",
-      "answer": "WRIST",
-      "row": 8,
+      "clue": "A woven container for carrying things",
+      "answer": "BASKET",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant like basil or parsley used to flavor food",
+      "answer": "HERB",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for pouring water",
+      "answer": "JUG",
+      "row": 6,
       "col": 1,
       "direction": "down"
     }

@@ -4,59 +4,73 @@
   "title": "2027-04-30",
   "words": [
     {
-      "clue": "A red truck that carries firefighters and hoses",
-      "answer": "FIRETRUCK",
-      "row": 2,
-      "col": 3,
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 1,
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A pretty insect that used to be a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 1,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Finding something really funny",
-      "answer": "AMUSED",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
       "row": 5,
-      "col": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The strap you click across you before the car moves",
+      "answer": "SEATBELT",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A number with a point in it, like 2.5",
+      "answer": "DECIMAL",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A round citrus fruit that shares its name with its color",
+      "answer": "ORANGE",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You boil water in this for tea",
+      "answer": "KETTLE",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A dish of raw leafy vegetables",
+      "answer": "SALAD",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your chest that pumps blood",
+      "answer": "HEART",
+      "row": 1,
+      "col": 6,
       "direction": "across"
     }
   ],

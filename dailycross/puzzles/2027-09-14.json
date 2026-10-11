@@ -4,74 +4,75 @@
   "title": "2027-09-14",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 5,
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 0,
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who runs a library and helps you find books",
-      "answer": "LIBRARIAN",
-      "row": 4,
+      "clue": "The joint that connects your arm to your body",
+      "answer": "SHOULDER",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The tap that water comes out of",
-      "answer": "FAUCET",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
+      "clue": "A structure that carries a road over water",
+      "answer": "BRIDGE",
       "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet that spins on its side",
-      "answer": "URANUS",
-      "row": 2,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The place where a river begins",
-      "answer": "SOURCE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who steers a vehicle",
-      "answer": "DRIVER",
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
       "row": 10,
-      "col": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 4,
-      "col": 3,
+      "clue": "A straight strip for measuring and drawing lines",
+      "answer": "RULER",
+      "row": 5,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "You open it to go in and out of a room",
+      "answer": "DOOR",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall instrument you play by plucking its strings",
+      "answer": "HARP",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "One of two equal parts",
+      "answer": "HALF",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 459

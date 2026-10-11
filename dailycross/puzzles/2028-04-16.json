@@ -4,74 +4,74 @@
   "title": "2028-04-16",
   "words": [
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who is really good at sports",
-      "answer": "ATHLETE",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, crunchy root with a peppery taste",
-      "answer": "RADISH",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The season when leaves turn color and fall",
-      "answer": "AUTUMN",
-      "row": 9,
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
+      "clue": "A vehicle that rushes sick people to the hospital",
+      "answer": "AMBULANCE",
       "row": 0,
-      "col": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
       "row": 5,
-      "col": 8,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The outer layer that covers your whole body",
-      "answer": "SKIN",
+      "clue": "A huge group of billions of stars, like the Milky Way",
+      "answer": "GALAXY",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who makes bread and cakes to sell",
+      "answer": "BAKER",
       "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The part between your head and shoulders",
-      "answer": "NECK",
-      "row": 9,
-      "col": 7,
+      "clue": "Any one of the numbers 0 to 9",
+      "answer": "DIGIT",
+      "row": 8,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A dish of raw leafy vegetables",
+      "answer": "SALAD",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of a friend",
+      "answer": "ENEMY",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Pressing and letting go of a mouse button",
+      "answer": "CLICK",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "It circles Earth and seems to change shape each night",
+      "answer": "MOON",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 674

@@ -4,119 +4,129 @@
   "title": "Level 102",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A half-circle tool for measuring angles",
+      "answer": "PROTRACTOR",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Annoyed because something keeps going wrong",
+      "answer": "FRUSTRATED",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A big reptile with powerful jaws that lurks in rivers",
+      "answer": "CROCODILE",
       "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A pretty insect that used to be a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 3,
-      "col": 3,
+      "clue": "Wireless tech, named after a Viking king, that links nearby devices",
+      "answer": "BLUETOOTH",
+      "row": 6,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Always looking on the bright side of things",
-      "answer": "POSITIVE",
-      "row": 3,
-      "col": 6,
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Many days in a row of very hot weather",
-      "answer": "HEATWAVE",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The matching clothes a team wears",
-      "answer": "UNIFORM",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The season when leaves turn color and fall",
-      "answer": "AUTUMN",
-      "row": 7,
-      "col": 9,
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 14,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A large string instrument played sitting down",
-      "answer": "CELLO",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The second planet from the Sun, and the hottest one",
-      "answer": "VENUS",
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
       "row": 4,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Water in the form of a gas",
-      "answer": "VAPOR",
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
       "row": 0,
-      "col": 7,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "How you feel when something good happens",
-      "answer": "HAPPY",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A wheeled robot that drives on the Moon or Mars",
-      "answer": "ROVER",
+      "clue": "An unwanted plant growing in a garden",
+      "answer": "WEED",
       "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A round fruit with red or green skin, crunchy inside",
-      "answer": "APPLE",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge body of salty water",
-      "answer": "OCEAN",
-      "row": 3,
-      "col": 14,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The opposite of bright",
-      "answer": "DARK",
+      "clue": "A sweet fruit, narrow at the top and round at the bottom",
+      "answer": "PEAR",
       "row": 9,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Wireless internet you connect to without any cables",
+      "answer": "WIFI",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A small green citrus fruit, sour like a lemon",
+      "answer": "LIME",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The part of your face below your mouth",
-      "answer": "CHIN",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
+      "clue": "A curved part of a circle's edge",
+      "answer": "ARC",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 17,
   "targetWords": 19,
   "difficulty": "hard"
 }

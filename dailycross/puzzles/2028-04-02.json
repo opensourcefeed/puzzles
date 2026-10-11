@@ -4,66 +4,59 @@
   "title": "2028-04-02",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who brings mail to your house",
-      "answer": "MAILMAN",
-      "row": 9,
+      "clue": "Different notes that sound nice played together",
+      "answer": "HARMONY",
+      "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An animal that swings from tree branches",
-      "answer": "MONKEY",
-      "row": 2,
+      "clue": "Where a computer keeps what it's working on; also your power to remember",
+      "answer": "MEMORY",
+      "row": 3,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, narrow stream",
+      "answer": "CREEK",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A deep purple, like the flower",
-      "answer": "VIOLET",
+      "clue": "A metal disc on a ribbon given to winners",
+      "answer": "MEDAL",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Another name for your belly button",
+      "answer": "NAVEL",
       "row": 4,
-      "col": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A small group of trees",
-      "answer": "GROVE",
-      "row": 8,
-      "col": 8,
+      "clue": "A pale yellow-white, like the top of fresh milk",
+      "answer": "CREAM",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The five lines that music is written on",
-      "answer": "STAFF",
-      "row": 11,
-      "col": 7,
+      "clue": "A small boat for one, with a double-ended paddle",
+      "answer": "KAYAK",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that climbs up walls and trees",
+      "answer": "VINE",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     }
   ],

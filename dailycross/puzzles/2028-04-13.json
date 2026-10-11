@@ -4,66 +4,73 @@
   "title": "2028-04-13",
   "words": [
     {
-      "clue": "A person who designs clothes",
-      "answer": "DESIGNER",
-      "row": 5,
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
+      "clue": "A number with a point in it, like 2.5",
+      "answer": "DECIMAL",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A cold, treeless land where the ground stays frozen",
+      "answer": "TUNDRA",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
       "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep purple, the last color of the rainbow",
+      "answer": "VIOLET",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The main tune of a song",
+      "answer": "MELODY",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You use it to change the TV channel from your seat",
+      "answer": "REMOTE",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A crunchy red or green fruit; one a day keeps the doctor away",
+      "answer": "APPLE",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Really interested and involved in something",
-      "answer": "ENGAGED",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The longest finger, right in the center of your hand",
-      "answer": "MIDDLE",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, curved yellow fruit you peel",
-      "answer": "BANANA",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The bright center of a galaxy",
-      "answer": "CORE",
+      "clue": "You sweep the floor with it",
+      "answer": "BROOM",
       "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "An oval food from birds, often eaten at breakfast",
-      "answer": "EGG",
-      "row": 7,
-      "col": 2,
+      "col": 6,
       "direction": "across"
     }
   ],

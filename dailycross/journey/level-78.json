@@ -4,105 +4,112 @@
   "title": "Level 78",
   "words": [
     {
-      "clue": "A phone you can also browse the internet on",
-      "answer": "SMARTPHONE",
-      "row": 6,
-      "col": 0,
+      "clue": "Wireless tech, named after a Viking king, that links nearby devices",
+      "answer": "BLUETOOTH",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A shape with five straight sides",
-      "answer": "PENTAGON",
+      "clue": "A black woodwind instrument with a reed and silver keys",
+      "answer": "CLARINET",
       "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
+      "row": 5,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "To bring a file from the internet onto your device",
-      "answer": "DOWNLOAD",
+      "clue": "The person who takes your money at the checkout",
+      "answer": "CASHIER",
       "row": 5,
-      "col": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Gliding along on ice or on wheels",
+      "answer": "SKATING",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who lays bricks and puts up houses",
+      "answer": "BUILDER",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 10,
+      "clue": "Any flat shape made only of straight sides",
+      "answer": "POLYGON",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A glass opening in a wall that lets in light and air",
+      "answer": "WINDOW",
+      "row": 11,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A two-wheeled ride you pedal with your feet",
-      "answer": "BICYCLE",
-      "row": 0,
-      "col": 9,
+      "clue": "A sport where two people fight with padded gloves",
+      "answer": "BOXING",
+      "row": 2,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 3,
-      "col": 3,
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A very dry place that gets little rain",
-      "answer": "DESERT",
+      "clue": "A flat touchscreen device, bigger than a phone; also a pill",
+      "answer": "TABLET",
+      "row": 9,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "To do with the Moon, as in a ___ eclipse",
+      "answer": "LUNAR",
       "row": 12,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "Finding something really funny",
-      "answer": "AMUSED",
-      "row": 8,
+      "clue": "A white stick for writing on a blackboard",
+      "answer": "CHALK",
+      "row": 10,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Connected cars that run along railway tracks",
-      "answer": "TRAIN",
-      "row": 8,
-      "col": 8,
+      "clue": "A stick used to hit the ball in golf",
+      "answer": "CLUB",
+      "row": 1,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A big instrument with black and white keys",
-      "answer": "PIANO",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A round vegetable with layers that makes you cry",
-      "answer": "ONION",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of data saved under one name",
-      "answer": "FILE",
-      "row": 12,
+      "clue": "A four-wheeled vehicle for driving on roads",
+      "answer": "CAR",
+      "row": 9,
       "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 15,
   "targetWords": 15,
   "difficulty": "medium"
 }

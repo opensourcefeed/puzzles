@@ -4,84 +4,112 @@
   "title": "Level 75",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The big board in class that teachers write on with markers",
-      "answer": "WHITEBOARD",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A four-sided shape with just one pair of parallel sides",
-      "answer": "TRAPEZOID",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
       "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A coat you wear to stay dry in the rain",
-      "answer": "RAINCOAT",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "You stand on it and push along with one foot",
-      "answer": "SCOOTER",
-      "row": 2,
-      "col": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
       "row": 4,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A bright pinkish-purple",
-      "answer": "MAGENTA",
-      "row": 0,
+      "clue": "How you feel when something unexpected happens",
+      "answer": "SURPRISED",
+      "row": 4,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A person who cuts hair, mostly for men",
-      "answer": "BARBER",
-      "row": 9,
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who looks after plants, lawns and flowerbeds",
+      "answer": "GARDENER",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 3,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A black-and-white bear that loves bamboo",
-      "answer": "PANDA",
-      "row": 13,
-      "col": 6,
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A spinning funnel of wind that touches the ground",
+      "answer": "TORNADO",
+      "row": 12,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "A small round red fruit that grows in pairs on a stem",
+      "answer": "CHERRY",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft, wet land that is often flooded",
+      "answer": "MARSH",
+      "row": 5,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A big vehicle for carrying goods by road",
+      "answer": "TRUCK",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel after doing something really well",
+      "answer": "PROUD",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 15,
   "targetWords": 15,
   "difficulty": "medium"
 }

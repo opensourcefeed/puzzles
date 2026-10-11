@@ -4,119 +4,164 @@
   "title": "Level 131",
   "words": [
     {
-      "clue": "A shape like a door: two long sides and two short",
-      "answer": "RECTANGLE",
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The tree that grows apples",
-      "answer": "APPLETREE",
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
       "row": 4,
-      "col": 9,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 6,
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A line joining two opposite corners",
+      "answer": "DIAGONAL",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 5,
-      "col": 5,
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 0,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A tilted square shape, seen on playing cards",
-      "answer": "DIAMOND",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 11,
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 3,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
+      "clue": "Wanting what someone else has; green with envy",
+      "answer": "JEALOUS",
+      "row": 8,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
       "row": 14,
-      "col": 2,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The loud boom after a flash of lightning",
-      "answer": "THUNDER",
-      "row": 0,
-      "col": 7,
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 8,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "You hang clothes on it in the wardrobe",
-      "answer": "HANGER",
+      "clue": "A huge, slow-moving river of ice",
+      "answer": "GLACIER",
       "row": 1,
-      "col": 7,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The yellow dust made by flowers",
-      "answer": "POLLEN",
-      "row": 3,
-      "col": 11,
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 1,
+      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "A city bird once used to carry messages",
-      "answer": "PIGEON",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A shaker filled with beads that rattles",
-      "answer": "MARACA",
-      "row": 5,
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 13,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, narrow stream",
-      "answer": "CREEK",
-      "row": 0,
+      "clue": "A small round red fruit that grows in pairs on a stem",
+      "answer": "CHERRY",
+      "row": 9,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The bony case that protects your brain",
+      "answer": "SKULL",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The five lines that music is written on",
+      "answer": "STAFF",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The colored ring in your eye",
-      "answer": "IRIS",
-      "row": 1,
-      "col": 3,
+      "clue": "The opposite of a friend",
+      "answer": "ENEMY",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of polite",
+      "answer": "RUDE",
+      "row": 8,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Brave enough to try something new",
-      "answer": "BOLD",
-      "row": 1,
-      "col": 13,
+      "clue": "A clever wild animal with a bushy red tail",
+      "answer": "FOX",
+      "row": 9,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 22,
   "targetWords": 22,
   "difficulty": "hard"
 }

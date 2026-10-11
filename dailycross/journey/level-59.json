@@ -4,84 +4,99 @@
   "title": "Level 59",
   "words": [
     {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 5,
-      "col": 0,
+      "clue": "A red emergency vehicle with ladders and hoses",
+      "answer": "FIREENGINE",
+      "enumeration": "4,6",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 5,
-      "col": 3,
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
+      "row": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A coat you wear to stay dry in the rain",
-      "answer": "RAINCOAT",
+      "clue": "Feeling sure that you can do it",
+      "answer": "CONFIDENT",
       "row": 5,
-      "col": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who builds things out of wood",
+      "answer": "CARPENTER",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     },
     {
       "clue": "The worldwide network that connects computers",
       "answer": "INTERNET",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ that breaks down the food you eat",
-      "answer": "STOMACH",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who cuts and sells meat",
-      "answer": "BUTCHER",
       "row": 12,
-      "col": 1,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of a carrot; red mixed with yellow",
-      "answer": "ORANGE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where two people fight with padded gloves",
-      "answer": "BOXING",
-      "row": 0,
+      "clue": "A small animal covered in spines that curls into a ball",
+      "answer": "HEDGEHOG",
+      "row": 14,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A cover that keeps your loose papers together",
-      "answer": "FOLDER",
-      "row": 0,
-      "col": 0,
+      "clue": "Bright and full of good spirits",
+      "answer": "CHEERFUL",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 7,
-      "col": 6,
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who helps sick people get better",
+      "answer": "DOCTOR",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall, hollow grass that pandas love to eat",
+      "answer": "BAMBOO",
+      "row": 0,
+      "col": 8,
       "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 13,
   "targetWords": 13,
   "difficulty": "medium"
 }

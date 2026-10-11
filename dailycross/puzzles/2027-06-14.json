@@ -4,59 +4,66 @@
   "title": "2027-06-14",
   "words": [
     {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
-      "row": 4,
-      "col": 0,
+      "clue": "A pretty insect with colorful wings that used to be a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A cart pulled by a horse to carry people",
-      "answer": "CARRIAGE",
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A two-wheeled ride you pedal",
+      "answer": "BICYCLE",
       "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The corner point where two lines meet",
-      "answer": "VERTEX",
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A photo you take of yourself",
+      "answer": "SELFIE",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of true",
+      "answer": "FALSE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Where you throw your rubbish",
+      "answer": "BIN",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A climbing plant that covers old walls",
+      "answer": "IVY",
       "row": 6,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A dull yellow-brown, like army uniforms",
-      "answer": "KHAKI",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your hand to your arm",
-      "answer": "WRIST",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A small hill of earth",
-      "answer": "MOUND",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
-      "row": 1,
-      "col": 6,
       "direction": "across"
     }
   ],

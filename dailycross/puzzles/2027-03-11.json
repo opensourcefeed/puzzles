@@ -4,67 +4,75 @@
   "title": "2027-03-11",
   "words": [
     {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
-      "row": 4,
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A shape like a door: two long sides and two short",
+      "answer": "RECTANGLE",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with six sides, like a honeycomb cell",
+      "answer": "HEXAGON",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A spinning funnel of wind that touches the ground",
+      "answer": "TORNADO",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A win in a game or contest",
+      "answer": "VICTORY",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cuts men's hair and trims beards",
+      "answer": "BARBER",
+      "row": 1,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A sweet brown treat made from cocoa beans",
-      "answer": "CHOCOLATE",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling calm and not worried at all",
-      "answer": "RELAXED",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A woven container for carrying things",
-      "answer": "BASKET",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A round red fruit used in sauces and salads",
-      "answer": "TOMATO",
-      "row": 2,
+      "clue": "A huge group of billions of stars, like the Milky Way",
+      "answer": "GALAXY",
+      "row": 9,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A push or a pull",
+      "answer": "FORCE",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The body part you think with",
-      "answer": "BRAIN",
-      "row": 2,
+      "clue": "A wet mix of rain and snow",
+      "answer": "SLEET",
+      "row": 6,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A short piece of music with words you sing",
+      "answer": "SONG",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 272

@@ -4,98 +4,105 @@
   "title": "Level 69",
   "words": [
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 7,
-      "col": 1,
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
+      "row": 5,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 4,
+      "clue": "A half-circle tool for measuring angles",
+      "answer": "PROTRACTOR",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A spiky tropical fruit, sweet and yellow inside",
+      "answer": "PINEAPPLE",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Comfy shoes made for running and sports",
-      "answer": "SNEAKERS",
-      "row": 4,
-      "col": 5,
+      "clue": "The room where your lessons happen",
+      "answer": "CLASSROOM",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A long green vegetable, cool and crunchy",
-      "answer": "CUCUMBER",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Showing lots of love and affection",
-      "answer": "LOVING",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of brave",
-      "answer": "AFRAID",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You use it to rub out pencil marks",
-      "answer": "ERASER",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 9,
+      "clue": "It shows pictures big on a screen or wall",
+      "answer": "PROJECTOR",
+      "row": 1,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A pale sandy tan, like a coffee with lots of milk",
-      "answer": "BEIGE",
-      "row": 0,
-      "col": 7,
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The short stick runners pass in a relay race",
-      "answer": "BATON",
-      "row": 0,
-      "col": 7,
+      "clue": "A plastic pipe many children learn to play at school",
+      "answer": "RECORDER",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The part of your face below your mouth",
-      "answer": "CHIN",
+      "clue": "The sport of racing on a bicycle",
+      "answer": "CYCLING",
       "row": 2,
-      "col": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The opposite of kind",
-      "answer": "MEAN",
-      "row": 7,
-      "col": 5,
+      "clue": "A bat-and-ball game hugely popular in India and England",
+      "answer": "CRICKET",
+      "row": 0,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A computer that folds shut so you can carry it",
+      "answer": "LAPTOP",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The darkest color, like the night sky",
+      "answer": "BLACK",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A colorful underwater ridge built by tiny sea animals",
+      "answer": "REEF",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 14,
   "difficulty": "medium"
 }

@@ -4,67 +4,76 @@
   "title": "2026-12-26",
   "words": [
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The tree that grows apples",
-      "answer": "APPLETREE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet brown treat made from cocoa beans",
-      "answer": "CHOCOLATE",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A book of blank pages for your notes",
-      "answer": "NOTEBOOK",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "How you feel when something frightens you",
-      "answer": "SCARED",
-      "row": 7,
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 5,
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A round vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 3,
       "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A doctor who looks after your teeth",
+      "answer": "DENTIST",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Cloth hung over a window to block the light",
+      "answer": "CURTAIN",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where two people fight with padded gloves",
+      "answer": "BOXING",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A book full of maps",
+      "answer": "ATLAS",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The second planet from the Sun, and the hottest one",
+      "answer": "VENUS",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A game between two players or two teams",
+      "answer": "MATCH",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 197

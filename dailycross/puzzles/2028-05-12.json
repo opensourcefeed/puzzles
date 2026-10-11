@@ -4,59 +4,74 @@
   "title": "2028-05-12",
   "words": [
     {
-      "clue": "The part of your face above your eyes",
-      "answer": "FOREHEAD",
-      "row": 6,
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A long green vegetable, cool and crunchy",
+      "clue": "A long green vegetable, cool and crunchy, sliced into salads",
       "answer": "CUCUMBER",
-      "row": 0,
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The color of a banana or the sun",
-      "answer": "YELLOW",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who writes books and stories",
-      "answer": "WRITER",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You look into it to see yourself",
-      "answer": "MIRROR",
-      "row": 2,
-      "col": 2,
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
+      "clue": "Land with water all around it",
+      "answer": "ISLAND",
       "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sheltered spot on the coast where boats stay",
+      "answer": "HARBOR",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The top covering of a house",
+      "answer": "ROOF",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A hill of sand shaped by the wind",
+      "answer": "DUNE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A thin, light fog close to the ground",
+      "answer": "MIST",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The black dot in the middle of your eye",
-      "answer": "PUPIL",
-      "row": 1,
-      "col": 5,
+      "clue": "The piece of furniture you sleep on",
+      "answer": "BED",
+      "row": 0,
+      "col": 2,
       "direction": "across"
     }
   ],

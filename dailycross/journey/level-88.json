@@ -4,91 +4,113 @@
   "title": "Level 88",
   "words": [
     {
-      "clue": "A person who runs a shop and sells things",
-      "answer": "SHOPKEEPER",
-      "row": 7,
-      "col": 2,
+      "clue": "Feeling sure that you can do it",
+      "answer": "CONFIDENT",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A long, wiggly animal that lives in the soil",
-      "answer": "EARTHWORM",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "An electronic instrument with piano-like keys",
-      "answer": "KEYBOARD",
+      "clue": "Where a river drops straight down over a cliff",
+      "answer": "WATERFALL",
       "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "An event where you jump as far forward as you can",
-      "answer": "LONGJUMP",
-      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 1,
-      "col": 6,
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A pink bird that often stands on one leg",
+      "answer": "FLAMINGO",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "You sweep dirt into it using a broom",
-      "answer": "DUSTPAN",
-      "row": 5,
-      "col": 2,
+      "clue": "The tallest animal, with a super long neck",
+      "answer": "GIRAFFE",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "An arc of seven colors after a shower",
+      "answer": "RAINBOW",
+      "row": 7,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Feeling that good things are coming",
-      "answer": "HOPEFUL",
-      "row": 6,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool for drawing perfect circles",
-      "answer": "COMPASS",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A device you use to call people far away",
-      "answer": "PHONE",
+      "clue": "A huge group of billions of stars, like the Milky Way",
+      "answer": "GALAXY",
       "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A big round world that circles a star",
+      "answer": "PLANET",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "You write with it, and it can be erased",
+      "answer": "PENCIL",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 12,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A spiky desert plant that stores water",
+      "answer": "CACTUS",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Thin sheets you write or draw on",
-      "answer": "PAPER",
-      "row": 8,
-      "col": 7,
+      "clue": "Water and juice are both in this state of matter",
+      "answer": "LIQUID",
+      "row": 0,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "A pale yellow-white, like the top of fresh milk",
+      "answer": "CREAM",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A seat with a back and four legs, for one person",
+      "answer": "CHAIR",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A friendly pet that barks and wags its tail",
+      "answer": "DOG",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 15,
   "targetWords": 17,
   "difficulty": "medium"
 }

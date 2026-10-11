@@ -4,56 +4,63 @@
   "title": "Level 26",
   "words": [
     {
-      "clue": "A phone you can also browse the internet on",
-      "answer": "SMARTPHONE",
-      "row": 1,
-      "col": 2,
+      "clue": "The screen you watch cartoons and movies on",
+      "answer": "TELEVISION",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The special suit an astronaut wears in space",
-      "answer": "SPACESUIT",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who builds things out of wood",
-      "answer": "CARPENTER",
+      "clue": "A red, heart-shaped fruit with seeds on the outside",
+      "answer": "STRAWBERRY",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A big pile of snow blown together by the wind",
-      "answer": "SNOWDRIFT",
-      "row": 0,
-      "col": 10,
+      "clue": "A bag with two straps that you carry your books in",
+      "answer": "BACKPACK",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of your face above your eyebrows",
+      "answer": "FOREHEAD",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 7,
+      "clue": "You slip it between pages to save your place",
+      "answer": "BOOKMARK",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A solid with two round ends, like a can",
+      "answer": "CYLINDER",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that puts your work onto paper",
+      "answer": "PRINTER",
+      "row": 4,
       "col": 6,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A shiny brass instrument with a bright sound",
-      "answer": "TRUMPET",
-      "row": 3,
+      "clue": "A small flower with white petals and a yellow middle",
+      "answer": "DAISY",
+      "row": 9,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of long",
-      "answer": "SHORT",
-      "row": 5,
-      "col": 7,
       "direction": "across"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 8,
   "targetWords": 8,
   "difficulty": "easy"
 }

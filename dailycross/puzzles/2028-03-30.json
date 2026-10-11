@@ -4,53 +4,75 @@
   "title": "2028-03-30",
   "words": [
     {
-      "clue": "A clock that beeps to wake you up in the morning",
-      "answer": "ALARMCLOCK",
-      "row": 5,
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A spiky tropical fruit, sweet and yellow inside",
-      "answer": "PINEAPPLE",
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
       "row": 1,
-      "col": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A bright flash in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 8,
-      "col": 2,
+      "clue": "A win in a game or contest",
+      "answer": "VICTORY",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 0,
-      "col": 7,
+      "clue": "A structure that carries a road over water",
+      "answer": "BRIDGE",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A very long-distance running race",
-      "answer": "MARATHON",
-      "row": 1,
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A pale sandy color, like milky coffee",
+      "answer": "BEIGE",
+      "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 3,
-      "col": 0,
+      "clue": "A pretty flower with thorns on its stem",
+      "answer": "ROSE",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 3,
-      "col": 10,
+      "clue": "The opposite of up",
+      "answer": "DOWN",
+      "row": 7,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall plant with a thick, wooden trunk",
+      "answer": "TREE",
+      "row": 0,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "How you feel when your best friend moves away",
+      "answer": "SAD",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 657

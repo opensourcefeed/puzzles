@@ -4,60 +4,74 @@
   "title": "2028-04-22",
   "words": [
     {
-      "clue": "A smart, playful ocean animal that loves to leap",
-      "answer": "DOLPHIN",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who creates paintings and drawings",
-      "answer": "ARTIST",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A thick, hot forest full of plants and animals",
-      "answer": "JUNGLE",
-      "row": 2,
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
+      "row": 7,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep purple, like the flower",
-      "answer": "VIOLET",
-      "row": 8,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
       "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The panel of keys you type on",
+      "answer": "KEYBOARD",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your foot to your leg",
-      "answer": "ANKLE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A pale blue-green, like water",
-      "answer": "AQUA",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The paved path that cars drive along",
-      "answer": "ROAD",
-      "row": 0,
-      "col": 3,
+      "clue": "A green vegetable that looks like a tiny tree",
+      "answer": "BROCCOLI",
+      "row": 4,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Feeling confused by something tricky",
+      "answer": "PUZZLED",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A spacecraft that could fly to space again and again",
+      "answer": "SHUTTLE",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "To make something twice as big",
+      "answer": "DOUBLE",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The color you get by mixing red and blue",
+      "answer": "PURPLE",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The × sign, used for multiplying",
+      "answer": "TIMES",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 680

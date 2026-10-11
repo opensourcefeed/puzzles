@@ -4,74 +4,67 @@
   "title": "2026-11-16",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A space rock that survives and lands on the ground",
-      "answer": "METEORITE",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A purple flower known for its calming smell",
-      "answer": "LAVENDER",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of moving fast on your feet",
-      "answer": "RUNNING",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
       "row": 6,
-      "col": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A thousand thousands",
+      "answer": "MILLION",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 0,
-      "col": 5,
+      "clue": "The force that pulls things down and keeps planets circling the Sun",
+      "answer": "GRAVITY",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The color of fresh snow and milk",
-      "answer": "WHITE",
+      "clue": "Ten times ten",
+      "answer": "HUNDRED",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest planet, closest to the Sun",
+      "answer": "MERCURY",
       "row": 3,
-      "col": 0,
-      "direction": "down"
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "The clear liquid that all living things need",
-      "answer": "WATER",
-      "row": 10,
+      "clue": "A person who makes music with their voice",
+      "answer": "SINGER",
+      "row": 9,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A solid shape with six square faces, like a dice",
+      "answer": "CUBE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft white food made from soybeans",
+      "answer": "TOFU",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Quiet and nervous around new people",
+      "answer": "SHY",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 157

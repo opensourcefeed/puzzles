@@ -4,74 +4,74 @@
   "title": "2028-03-24",
   "words": [
     {
-      "clue": "A person who writes computer code",
-      "answer": "PROGRAMMER",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A vehicle that rushes sick people to the hospital",
-      "answer": "AMBULANCE",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who plays music or sings for a living",
-      "answer": "MUSICIAN",
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
       "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall cupboard for hanging up your clothes",
+      "answer": "WARDROBE",
+      "row": 4,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark brownish-red",
+      "answer": "MAROON",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A huge grey animal with a long trunk",
-      "answer": "ELEPHANT",
+      "clue": "A pass you buy before you ride a train or bus",
+      "answer": "TICKET",
       "row": 0,
-      "col": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 10,
+      "clue": "A big animal with hooves that people ride",
+      "answer": "HORSE",
+      "row": 11,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The sport of moving fast on your feet",
-      "answer": "RUNNING",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A dull yellow-brown, like army uniforms",
-      "answer": "KHAKI",
-      "row": 7,
-      "col": 8,
+      "clue": "Furniture with a flat top, for eating or working",
+      "answer": "TABLE",
+      "row": 0,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A large hole in a rock or hillside",
-      "answer": "CAVE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Talking with typed messages online",
-      "answer": "CHAT",
+      "clue": "Bright and warm, with no clouds in the sky",
+      "answer": "SUNNY",
       "row": 1,
-      "col": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
+      "row": 1,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "You eat soup and cereal with this",
+      "answer": "SPOON",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 651

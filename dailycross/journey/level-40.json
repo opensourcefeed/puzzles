@@ -4,73 +4,74 @@
   "title": "Level 40",
   "words": [
     {
-      "clue": "A big pile of snow blown together by the wind",
-      "answer": "SNOWDRIFT",
+      "clue": "The sport with hoops, dribbling and slam dunks",
+      "answer": "BASKETBALL",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A dark cloud that brings rain",
-      "answer": "RAINCLOUD",
+      "clue": "A part of a whole, like one-half",
+      "answer": "FRACTION",
       "row": 4,
-      "col": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dark gray, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling super eager about something fun",
-      "answer": "EXCITED",
-      "row": 0,
+      "clue": "A plastic pipe many children learn to play at school",
+      "answer": "RECORDER",
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 13,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The blast-off when a rocket lifts into the sky",
-      "answer": "LAUNCH",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that washes your clothes",
-      "answer": "WASHER",
-      "row": 0,
+      "clue": "A sweet frozen treat you lick from a cone",
+      "answer": "ICECREAM",
+      "enumeration": "3,5",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Extremely, red-faced mad",
+      "answer": "FURIOUS",
       "row": 0,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of awake",
+      "answer": "ASLEEP",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who sews and alters clothes",
+      "answer": "TAILOR",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The coldest, snowiest season",
+      "answer": "WINTER",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     }
   ],

@@ -4,67 +4,74 @@
   "title": "2028-03-26",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 3,
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A jug with a handle and spout for pouring drinks",
-      "answer": "PITCHER",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A large flat dish for serving food",
-      "answer": "PLATTER",
+      "clue": "A person who gives emergency care in an ambulance",
+      "answer": "PARAMEDIC",
       "row": 0,
-      "col": 7,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
+      "clue": "A pretty insect with colorful wings that used to be a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
     },
     {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A bird that spreads a huge, colorful tail",
-      "answer": "PEACOCK",
+      "clue": "The curved shape of a thin new moon",
+      "answer": "CRESCENT",
       "row": 2,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A deep purple, like the flower",
-      "answer": "VIOLET",
-      "row": 10,
+      "clue": "A shape with three straight sides",
+      "answer": "TRIANGLE",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tool for measuring and drawing straight lines",
-      "answer": "RULER",
-      "row": 4,
-      "col": 10,
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A thin, white layer of ice on cold mornings",
+      "answer": "FROST",
+      "row": 3,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A long chain of mountains, like the Himalayas",
+      "answer": "RANGE",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "One colorful piece of a flower",
+      "answer": "PETAL",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A raised piece of land, smaller than a mountain",
+      "answer": "HILL",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 653

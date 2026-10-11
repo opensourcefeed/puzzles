@@ -4,67 +4,67 @@
   "title": "Level 30",
   "words": [
     {
-      "clue": "Nice weather with a gentle breeze",
-      "answer": "PLEASANT",
-      "row": 4,
-      "col": 1,
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The force that keeps planets circling the Sun",
-      "answer": "GRAVITY",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A safe spot along the coast where boats stay",
-      "answer": "HARBOR",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A string instrument you strum or pluck",
-      "answer": "GUITAR",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The longest finger, right in the center of your hand",
-      "answer": "MIDDLE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, gentle wind",
-      "answer": "BREEZE",
+      "clue": "Someone riding in a vehicle but not driving",
+      "answer": "PASSENGER",
       "row": 6,
-      "col": 6,
-      "direction": "across"
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "Feeling unhappy when things don't go your way",
-      "answer": "UPSET",
-      "row": 3,
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
+      "row": 5,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A wheeled robot that drives on the Moon or Mars",
-      "answer": "ROVER",
-      "row": 8,
+      "clue": "A big area covered with lots of trees",
+      "answer": "FOREST",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "An object that pulls iron and steel toward it",
+      "answer": "MAGNET",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A team sport where players hit a puck or ball with sticks",
+      "answer": "HOCKEY",
+      "row": 11,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The main tune of a song",
+      "answer": "MELODY",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The colorful, sweet-smelling part of a plant",
+      "answer": "FLOWER",
+      "row": 9,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A person who leads tourists around",
-      "answer": "GUIDE",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
+      "clue": "Always telling the truth",
+      "answer": "HONEST",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "wordCount": 9,

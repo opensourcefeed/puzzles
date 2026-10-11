@@ -4,74 +4,74 @@
   "title": "2027-11-16",
   "words": [
     {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 6,
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of gliding along on ice",
-      "answer": "SKATING",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Pressing and releasing a mouse button",
-      "answer": "CLICK",
-      "row": 0,
+      "clue": "A scientist who studies animals",
+      "answer": "ZOOLOGIST",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The coldest, snowiest season",
+      "answer": "WINTER",
       "row": 8,
-      "col": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "To find and fix the mistakes in a program",
-      "answer": "DEBUG",
-      "row": 11,
+      "clue": "A soft yellow spread made from cream",
+      "answer": "BUTTER",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A board game with kings, queens and knights",
+      "answer": "CHESS",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A hill of sand shaped by the wind",
+      "answer": "DUNE",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "What lets us see; it comes from the sun and lamps",
-      "answer": "LIGHT",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who bakes bread and cakes",
-      "answer": "BAKER",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue-green used in printing",
-      "answer": "CYAN",
+      "clue": "The opposite of win",
+      "answer": "LOSE",
       "row": 0,
-      "col": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool that writes with ink",
+      "answer": "PEN",
+      "row": 6,
+      "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "Tiny water drops on the grass in the morning",
+      "answer": "DEW",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 522

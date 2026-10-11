@@ -4,60 +4,74 @@
   "title": "2026-11-07",
   "words": [
     {
-      "clue": "A thick, wet forest that gets lots of rain",
-      "answer": "RAINFOREST",
-      "row": 5,
-      "col": 0,
+      "clue": "A shape with three straight sides",
+      "answer": "TRIANGLE",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small note that sticks where you press it",
-      "answer": "STICKYNOTE",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A four-sided shape with just one pair of parallel sides",
-      "answer": "TRAPEZOID",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The person who leads a country",
-      "answer": "PRESIDENT",
+      "clue": "Bright and full of good spirits",
+      "answer": "CHEERFUL",
       "row": 4,
-      "col": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 8,
-      "col": 4,
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 0,
-      "col": 7,
+      "clue": "The corner point where two lines meet",
+      "answer": "VERTEX",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The cold cupboard that keeps your food fresh",
+      "answer": "FRIDGE",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
-      "row": 0,
-      "col": 9,
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance from a circle's middle to its edge",
+      "answer": "RADIUS",
+      "row": 5,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "A small round fruit that grows in bunches on a vine",
+      "answer": "GRAPE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of strong",
+      "answer": "WEAK",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 148

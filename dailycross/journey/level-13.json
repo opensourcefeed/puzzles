@@ -4,49 +4,56 @@
   "title": "Level 13",
   "words": [
     {
-      "clue": "A person who plays music or sings for a living",
-      "answer": "MUSICIAN",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A very tall, steep, rocky peak",
-      "answer": "MOUNTAIN",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The arrow that shows where your mouse is pointing",
-      "answer": "CURSOR",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The color you get by mixing red and blue",
-      "answer": "PURPLE",
+      "clue": "A shape like a door: two long sides and two short",
+      "answer": "RECTANGLE",
       "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The opposite of true",
-      "answer": "FALSE",
-      "row": 0,
+      "clue": "A plastic pipe many children learn to play at school",
+      "answer": "RECORDER",
+      "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A large area of flat land",
-      "answer": "PLAIN",
-      "row": 1,
+      "clue": "A shape with eight sides, like a stop sign",
+      "answer": "OCTAGON",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where planes take off and land",
+      "answer": "AIRPORT",
+      "row": 9,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of pages you visit online",
+      "answer": "WEBSITE",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A small round fastener on a shirt, or a thing you click on screen",
+      "answer": "BUTTON",
+      "row": 9,
+      "col": 8,
       "direction": "across"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 7,
   "targetWords": 7,
   "difficulty": "easy"
 }

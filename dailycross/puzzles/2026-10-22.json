@@ -4,60 +4,74 @@
   "title": "2026-10-22",
   "words": [
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
       "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You use it to save your place in a book",
-      "answer": "BOOKMARK",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A light purple, like the flower",
-      "answer": "LAVENDER",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A bird that spreads a huge, colorful tail",
-      "answer": "PEACOCK",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A small cupboard at school for your stuff",
-      "answer": "LOCKER",
-      "row": 8,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A breakfast food you eat with milk",
-      "answer": "CEREAL",
-      "row": 3,
-      "col": 9,
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A striped animal that looks like a horse",
-      "answer": "ZEBRA",
-      "row": 0,
-      "col": 1,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You open it over your head when it pours",
+      "answer": "UMBRELLA",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who fixes leaky pipes and taps",
+      "answer": "PLUMBER",
+      "row": 8,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The finger you point with",
-      "answer": "INDEX",
-      "row": 5,
-      "col": 0,
+      "clue": "An arc of seven colors after a shower",
+      "answer": "RAINBOW",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Very light rain falling in fine drops",
+      "answer": "DRIZZLE",
+      "row": 0,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "When the Moon passes in front of the Sun and blocks its light",
+      "answer": "ECLIPSE",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of big",
+      "answer": "SMALL",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A grain that is ground into flour for bread",
+      "answer": "WHEAT",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 132

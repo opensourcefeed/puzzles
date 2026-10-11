@@ -4,59 +4,74 @@
   "title": "2028-05-06",
   "words": [
     {
-      "clue": "Many days in a row of very hot weather",
-      "answer": "HEATWAVE",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who fixes water pipes and taps",
-      "answer": "PLUMBER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
       "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "You boil water in this",
-      "answer": "KETTLE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The longest finger, right in the center of your hand",
-      "answer": "MIDDLE",
-      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small woody plant, shorter than a tree",
-      "answer": "SHRUB",
-      "row": 3,
-      "col": 6,
+      "clue": "A curvy metal instrument played with a reed, popular in jazz",
+      "answer": "SAXOPHONE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Bright, warm weather with lots of sunshine",
-      "answer": "SUNNY",
+      "clue": "A baby plant just starting to grow",
+      "answer": "SPROUT",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that takes photos",
+      "answer": "CAMERA",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling you need a rest or a nap",
+      "answer": "TIRED",
       "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who shows tourists around",
+      "answer": "GUIDE",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel when there is nothing to do",
+      "answer": "BORED",
+      "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Printed pages bound together for reading",
-      "answer": "BOOK",
-      "row": 3,
-      "col": 10,
+      "clue": "The opposite of up",
+      "answer": "DOWN",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     }
   ],

@@ -4,66 +4,73 @@
   "title": "2026-11-09",
   "words": [
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A dark cloud that brings rain",
-      "answer": "RAINCLOUD",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A little bit of water in the air",
-      "answer": "MOISTURE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A team sport where you kick a ball into a goal",
-      "answer": "SOCCER",
-      "row": 7,
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The longest finger, right in the center of your hand",
-      "answer": "MIDDLE",
-      "row": 3,
-      "col": 11,
+      "clue": "The low land between hills or mountains",
+      "answer": "VALLEY",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Weather that's not too hot and not too cold",
-      "answer": "MILD",
-      "row": 2,
+      "clue": "A box that shares the internet around your home",
+      "answer": "ROUTER",
+      "row": 3,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A team sport where players hit a puck or ball with sticks",
+      "answer": "HOCKEY",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A cardboard cover that keeps loose papers together",
+      "answer": "FOLDER",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint in the middle of your arm",
+      "answer": "ELBOW",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Very cross; how you feel when something is unfair",
+      "answer": "ANGRY",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Pressing and letting go of a mouse button",
+      "answer": "CLICK",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep red gemstone",
+      "answer": "RUBY",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Printed pages bound together for reading",
+      "answer": "BOOK",
+      "row": 11,
+      "col": 2,
       "direction": "across"
     }
   ],

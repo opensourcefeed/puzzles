@@ -4,59 +4,74 @@
   "title": "2028-03-14",
   "words": [
     {
-      "clue": "A secret word that unlocks your account",
-      "answer": "PASSWORD",
-      "row": 1,
-      "col": 3,
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A large flat dish for serving food",
-      "answer": "PLATTER",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You stand on it and push along with one foot",
-      "answer": "SCOOTER",
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
       "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
-      "row": 6,
-      "col": 2,
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A thin, light fog close to the ground",
-      "answer": "MIST",
-      "row": 4,
-      "col": 0,
+      "clue": "The color you get by mixing red and blue",
+      "answer": "PURPLE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A very dry place that gets little rain, like the Sahara",
+      "answer": "DESERT",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The clear liquid that all living things need",
+      "answer": "WATER",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A device you use to call people far away",
+      "answer": "PHONE",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Peaceful and not upset at all",
+      "answer": "CALM",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A curved part of a circle's edge",
+      "answer": "ARC",
+      "row": 11,
+      "col": 7,
       "direction": "across"
     }
   ],

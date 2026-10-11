@@ -4,67 +4,74 @@
   "title": "2027-08-12",
   "words": [
     {
-      "clue": "A thick, wet forest that gets lots of rain",
-      "answer": "RAINFOREST",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool that makes faraway things look close",
+      "clue": "A tube with lenses that makes faraway stars look close",
       "answer": "TELESCOPE",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 9,
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 14,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A long green vegetable, cool and crunchy",
-      "answer": "CUCUMBER",
+      "clue": "The planet that spins on its side",
+      "answer": "URANUS",
       "row": 0,
-      "col": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "What the sky and air are doing outside",
-      "answer": "WEATHER",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 10,
-      "col": 7,
+      "clue": "A small round fruit that grows in bunches on a vine",
+      "answer": "GRAPE",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "How you feel when something frightens you",
-      "answer": "SCARED",
+      "clue": "A seat with a back and four legs, for one person",
+      "answer": "CHAIR",
       "row": 5,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A long chain of mountains, like the Himalayas",
+      "answer": "RANGE",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "One colorful piece of a flower",
-      "answer": "PETAL",
-      "row": 8,
-      "col": 12,
+      "clue": "The + sign, used for adding",
+      "answer": "PLUS",
+      "row": 4,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "The colored ring in your eye",
+      "answer": "IRIS",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of three musicians",
+      "answer": "TRIO",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall plant with a thick, wooden trunk",
+      "answer": "TREE",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "It circles Earth and seems to change shape each night",
+      "answer": "MOON",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 426

@@ -4,73 +4,74 @@
   "title": "2027-12-02",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 4,
-      "col": 2,
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A cabinet for storing food and dishes",
-      "answer": "CUPBOARD",
+      "clue": "The worldwide network that connects computers",
+      "answer": "INTERNET",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A smart, playful sea mammal that loves to leap and click",
+      "answer": "DOLPHIN",
       "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The farthest planet, a cold blue world",
-      "answer": "NEPTUNE",
-      "row": 10,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A shiny light gray, like the metal",
-      "answer": "SILVER",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A round red fruit used in salads and sauces",
-      "answer": "TOMATO",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A big orange cat with black stripes",
-      "answer": "TIGER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling pleased and happy",
-      "answer": "GLAD",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A wild animal that howls at the moon",
-      "answer": "WOLF",
-      "row": 5,
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
+      "row": 4,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Gliding along on ice or on wheels",
+      "answer": "SKATING",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A round red fruit that is made into ketchup",
+      "answer": "TOMATO",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of a friend",
+      "answer": "ENEMY",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft white food made from soybeans",
+      "answer": "TOFU",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall tropical tree with big fan-like leaves, seen on beaches",
+      "answer": "PALM",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     }
   ],

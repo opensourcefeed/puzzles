@@ -4,67 +4,74 @@
   "title": "2028-02-01",
   "words": [
     {
-      "clue": "Believing that good things are going to happen",
-      "answer": "OPTIMISTIC",
-      "row": 6,
-      "col": 1,
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 0,
-      "col": 1,
+      "clue": "An arc of seven colors after a shower",
+      "answer": "RAINBOW",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that keeps planets circling the Sun",
-      "answer": "GRAVITY",
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
       "row": 2,
-      "col": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
+      "clue": "The low land between hills or mountains",
+      "answer": "VALLEY",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The path one object takes as it circles another",
+      "answer": "ORBIT",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "How you feel after doing something really well",
+      "answer": "PROUD",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A board game with kings, queens and knights",
+      "answer": "CHESS",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Pressing and letting go of a mouse button",
+      "answer": "CLICK",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Instructions written for a computer",
+      "answer": "CODE",
       "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A city bird once used to carry messages",
-      "answer": "PIGEON",
-      "row": 5,
-      "col": 9,
+      "clue": "Printed pages bound together for reading",
+      "answer": "BOOK",
+      "row": 0,
+      "col": 4,
       "direction": "down"
-    },
-    {
-      "clue": "A large bowl used for washing",
-      "answer": "BASIN",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, soft seat for several people",
-      "answer": "SOFA",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
     }
   ],
   "dayNumber": 599

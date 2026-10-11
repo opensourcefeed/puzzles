@@ -4,67 +4,74 @@
   "title": "2027-08-07",
   "words": [
     {
-      "clue": "A box you carry your lunch to school in",
-      "answer": "LUNCHBOX",
+      "clue": "The part of your face above your eyebrows",
+      "answer": "FOREHEAD",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 3,
-      "col": 4,
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
+      "clue": "Really wanting to find out more",
+      "answer": "CURIOUS",
       "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A person whose job is to paint walls and buildings",
-      "answer": "PAINTER",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Really interested and involved in something",
-      "answer": "ENGAGED",
-      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 10,
+      "clue": "A person who makes music with their voice",
+      "answer": "SINGER",
+      "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A soft cushion you rest your head on",
-      "answer": "PILLOW",
+      "clue": "A deep, narrow valley with steep rocky sides",
+      "answer": "GORGE",
       "row": 0,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 1,
+      "clue": "The second planet from the Sun, and the hottest one",
+      "answer": "VENUS",
+      "row": 6,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who trains and directs a sports team",
+      "answer": "COACH",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Pressing and releasing a mouse button",
-      "answer": "CLICK",
+      "clue": "A robot spacecraft sent to explore far-off planets",
+      "answer": "PROBE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A colorful underwater ridge built by tiny sea animals",
+      "answer": "REEF",
       "row": 1,
-      "col": 8,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Drops of water that fall from the clouds",
+      "answer": "RAIN",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 421

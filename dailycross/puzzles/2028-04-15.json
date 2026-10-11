@@ -4,66 +4,73 @@
   "title": "2028-04-15",
   "words": [
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who studies plants",
-      "answer": "BOTANIST",
+      "clue": "Wireless tech, named after a Viking king, that links nearby devices",
+      "answer": "BLUETOOTH",
       "row": 6,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A tube with lenses that makes faraway stars look close",
+      "answer": "TELESCOPE",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A shiny brass instrument with a bright sound",
-      "answer": "TRUMPET",
-      "row": 4,
+      "clue": "A person who plays an instrument or sings",
+      "answer": "MUSICIAN",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
+      "clue": "A part of a whole, like one-half",
+      "answer": "FRACTION",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
     },
     {
-      "clue": "You flip it to turn a light on or off",
-      "answer": "SWITCH",
-      "row": 12,
+      "clue": "An animal that swings from tree branches",
+      "answer": "MONKEY",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 0,
-      "col": 3,
+      "clue": "A seat with a back and four legs, for one person",
+      "answer": "CHAIR",
+      "row": 9,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your foot to your leg",
-      "answer": "ANKLE",
+      "clue": "A message sent to someone's electronic inbox",
+      "answer": "EMAIL",
       "row": 2,
-      "col": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A wheeled robot that drives on the Moon or Mars",
-      "answer": "ROVER",
-      "row": 9,
-      "col": 7,
+      "clue": "A deep, narrow valley with steep rocky sides",
+      "answer": "GORGE",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Kicking or throwing the ball to a teammate",
+      "answer": "PASS",
+      "row": 11,
+      "col": 5,
       "direction": "across"
     }
   ],

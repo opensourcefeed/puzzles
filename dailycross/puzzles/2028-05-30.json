@@ -4,67 +4,74 @@
   "title": "2028-05-30",
   "words": [
     {
-      "clue": "A little bent wire that holds papers together",
-      "answer": "PAPERCLIP",
-      "row": 4,
-      "col": 3,
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
       "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 0,
+      "clue": "A pad of blank pages for your notes",
+      "answer": "NOTEBOOK",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The longest finger, right in the center of your hand",
-      "answer": "MIDDLE",
-      "row": 3,
-      "col": 10,
+      "clue": "The panel of keys you type on",
+      "answer": "KEYBOARD",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "To share a number out into equal groups",
+      "answer": "DIVIDE",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 8,
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
+      "row": 9,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Pleasant sounds put together for us to enjoy",
-      "answer": "MUSIC",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "It hangs on the wall and tells you the time",
-      "answer": "CLOCK",
-      "row": 6,
+      "clue": "The opposite of below",
+      "answer": "ABOVE",
+      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long, soft seat for several people",
-      "answer": "SOFA",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
+      "clue": "You bake cakes and roast food inside this",
+      "answer": "OVEN",
+      "row": 8,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 718

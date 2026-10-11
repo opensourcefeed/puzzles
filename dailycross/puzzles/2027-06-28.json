@@ -4,67 +4,74 @@
   "title": "2027-06-28",
   "words": [
     {
-      "clue": "A person who designs clothes",
-      "answer": "DESIGNER",
-      "row": 5,
+      "clue": "The screen you watch cartoons and movies on",
+      "answer": "TELEVISION",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "How much rain has fallen",
-      "answer": "RAINFALL",
-      "row": 3,
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A person who is really good at sports",
-      "answer": "ATHLETE",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 10,
-      "col": 3,
+      "clue": "A person who fixes leaky pipes and taps",
+      "answer": "PLUMBER",
+      "row": 9,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
       "row": 3,
-      "col": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who makes music with their voice",
+      "answer": "SINGER",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The path one object takes as it circles another",
+      "answer": "ORBIT",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of turn between two lines that meet",
+      "answer": "ANGLE",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "You use this to eat, talk, and smile",
+      "answer": "MOUTH",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 7,
+      "clue": "A sailing boat used for racing or holidays",
+      "answer": "YACHT",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Instruments you buzz your lips into, like a trumpet",
-      "answer": "BRASS",
-      "row": 8,
+      "clue": "A thin, light fog close to the ground",
+      "answer": "MIST",
+      "row": 11,
       "col": 1,
       "direction": "across"
-    },
-    {
-      "clue": "You open it to go in and out of a room",
-      "answer": "DOOR",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
     }
   ],
   "dayNumber": 381

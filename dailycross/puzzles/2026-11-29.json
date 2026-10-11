@@ -4,59 +4,73 @@
   "title": "2026-11-29",
   "words": [
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who gives emergency care before the hospital",
-      "answer": "PARAMEDIC",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A two-wheeled ride you pedal with your feet",
-      "answer": "BICYCLE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The force that keeps planets circling the Sun",
-      "answer": "GRAVITY",
-      "row": 7,
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A page you visit online in a browser",
-      "answer": "WEBSITE",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 0,
-      "col": 12,
+      "clue": "The flap of skin that closes when you blink",
+      "answer": "EYELID",
+      "row": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 4,
+      "clue": "The color you get by mixing red and blue",
+      "answer": "PURPLE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Where a computer keeps what it's working on; also your power to remember",
+      "answer": "MEMORY",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A shiny cup you win as a prize",
+      "answer": "TROPHY",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A boat that carries people and cars across water",
+      "answer": "FERRY",
+      "row": 3,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A dwarf planet once called the ninth planet",
+      "answer": "PLUTO",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of lost",
+      "answer": "FOUND",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A thin, white layer of ice on cold mornings",
+      "answer": "FROST",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A group who play together against another group",
+      "answer": "TEAM",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     }
   ],

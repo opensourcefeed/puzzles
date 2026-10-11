@@ -4,38 +4,38 @@
   "title": "Level 3",
   "words": [
     {
-      "clue": "A big white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 6,
-      "col": 0,
+      "clue": "The part of your face above your eyebrows",
+      "answer": "FOREHEAD",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
+      "clue": "A very tall, steep, rocky peak",
+      "answer": "MOUNTAIN",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "It turns paper pages into computer files",
-      "answer": "SCANNER",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
-      "row": 5,
-      "col": 7,
+      "clue": "How you feel the night before your birthday party",
+      "answer": "EXCITED",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The skin on top of your head where hair grows",
-      "answer": "SCALP",
+      "clue": "A sport where two people fight with padded gloves",
+      "answer": "BOXING",
       "row": 3,
-      "col": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The blast-off when a rocket lifts into the sky",
+      "answer": "LAUNCH",
+      "row": 0,
+      "col": 9,
       "direction": "down"
     }
   ],

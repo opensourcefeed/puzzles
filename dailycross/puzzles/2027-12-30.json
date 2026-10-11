@@ -4,59 +4,73 @@
   "title": "2027-12-30",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A coat you wear to stay dry in the rain",
-      "answer": "RAINCOAT",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A very long-distance running race",
-      "answer": "MARATHON",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A yellow food made from milk",
-      "answer": "CHEESE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The season when flowers bloom after winter",
-      "answer": "SPRING",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 8,
+      "clue": "A red, heart-shaped fruit with seeds on the outside",
+      "answer": "STRAWBERRY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A thick, creamy food made from milk",
-      "answer": "YOGURT",
-      "row": 9,
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A hard, hairy fruit with white flesh and water inside",
+      "answer": "COCONUT",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A tool for measuring how long something is",
-      "answer": "RULER",
-      "row": 0,
+      "clue": "To share a number out into equal groups",
+      "answer": "DIVIDE",
+      "row": 7,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The dark shape made when something blocks the light",
+      "answer": "SHADOW",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The planet that spins on its side",
+      "answer": "URANUS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Another name for your belly button",
+      "answer": "NAVEL",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "How you feel when something good happens; full of smiles",
+      "answer": "HAPPY",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     }
   ],

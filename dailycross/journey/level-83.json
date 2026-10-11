@@ -4,112 +4,119 @@
   "title": "Level 83",
   "words": [
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
       "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 5,
+      "clue": "It shows pictures big on a screen or wall",
+      "answer": "PROJECTOR",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 0,
+      "clue": "A scientist who studies animals",
+      "answer": "ZOOLOGIST",
+      "row": 2,
       "col": 6,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A person who is really good at sports",
-      "answer": "ATHLETE",
-      "row": 5,
+      "clue": "A bright flash in the sky during a storm",
+      "answer": "LIGHTNING",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "What the sky and air are doing outside",
-      "answer": "WEATHER",
+      "clue": "The strap you click across you before the car moves",
+      "answer": "SEATBELT",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport with pitchers, catchers and home runs",
+      "answer": "BASEBALL",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of computers linked to share information",
+      "answer": "NETWORK",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A round red fruit that is made into ketchup",
+      "answer": "TOMATO",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "What water does when it turns into ice",
+      "answer": "FREEZE",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "How loud or soft the music is",
+      "answer": "VOLUME",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who writes books",
+      "answer": "AUTHOR",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A race where teammates take turns and pass a baton",
+      "answer": "RELAY",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The yellow dust made by flowers",
-      "answer": "POLLEN",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A cloud of gas and dust where new stars are born",
-      "answer": "NEBULA",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where a river begins",
-      "answer": "SOURCE",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A baby plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 2,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A big animal that people ride",
-      "answer": "HORSE",
+      "clue": "A small flower with white petals and a yellow middle",
+      "answer": "DAISY",
       "row": 0,
-      "col": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A huge body of salty water",
-      "answer": "OCEAN",
+      "clue": "A boat that carries people and cars across water",
+      "answer": "FERRY",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
       "row": 8,
       "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "The darkest color, like the night sky",
-      "answer": "BLACK",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who leads tourists around",
-      "answer": "GUIDE",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 0,
-      "col": 14,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 16,
   "targetWords": 16,
   "difficulty": "medium"
 }

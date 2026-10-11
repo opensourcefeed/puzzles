@@ -4,77 +4,91 @@
   "title": "Level 54",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 7,
-      "col": 0,
+      "clue": "The big wipe-clean surface teachers write on with markers",
+      "answer": "WHITEBOARD",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 4,
-      "col": 4,
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The tree that grows apples",
-      "answer": "APPLETREE",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who designs machines and structures",
-      "answer": "ENGINEER",
-      "row": 7,
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 4,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A tall cupboard for hanging up your clothes",
-      "answer": "WARDROBE",
-      "row": 14,
-      "col": 5,
+      "clue": "A part of a whole, like one-half",
+      "answer": "FRACTION",
+      "row": 12,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Feeling confused by something tricky",
-      "answer": "PUZZLED",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, bright blue like the daytime sky",
-      "answer": "SKYBLUE",
-      "row": 7,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A farm bird that lays eggs and says cluck",
-      "answer": "CHICKEN",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A jug with a handle and spout for pouring drinks",
-      "answer": "PITCHER",
-      "row": 5,
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 4,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who is really good at sports",
+      "answer": "ATHLETE",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
-      "row": 12,
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A slow animal that carries its shell around",
+      "answer": "TURTLE",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of full",
+      "answer": "EMPTY",
+      "row": 1,
       "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "The color of chocolate and tree bark",
+      "answer": "BROWN",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 12,
   "targetWords": 12,
   "difficulty": "medium"
 }

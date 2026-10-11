@@ -4,52 +4,52 @@
   "title": "Level 19",
   "words": [
     {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sport where you throw a ball through a high hoop",
-      "answer": "BASKETBALL",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
+      "clue": "A shape with five straight sides",
+      "answer": "PENTAGON",
       "row": 3,
-      "col": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
+      "clue": "A person who plays an instrument or sings",
+      "answer": "MUSICIAN",
       "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "It browns your slices of bread",
-      "answer": "TOASTER",
-      "row": 2,
-      "col": 5,
+      "clue": "A number with a point in it, like 2.5",
+      "answer": "DECIMAL",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
-      "row": 7,
-      "col": 6,
+      "clue": "To make something twice as big",
+      "answer": "DOUBLE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Always telling the truth",
+      "answer": "HONEST",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Land with water all around it",
+      "answer": "ISLAND",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     }
   ],

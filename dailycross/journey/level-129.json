@@ -4,112 +4,156 @@
   "title": "Level 129",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "You wear these on your ears to listen",
-      "answer": "HEADPHONES",
-      "row": 5,
-      "col": 2,
+      "clue": "A small hand drum with jingling metal discs",
+      "answer": "TAMBOURINE",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "It makes holes in paper for a binder",
-      "answer": "HOLEPUNCH",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you hit a shuttlecock over a net",
-      "answer": "BADMINTON",
-      "row": 4,
+      "clue": "The person who waves a baton to lead an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 9,
       "col": 6,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A person who gathers and tells the news",
-      "answer": "REPORTER",
+      "clue": "A person who gives emergency care in an ambulance",
+      "answer": "PARAMEDIC",
       "row": 6,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The rest break in the middle of a game",
-      "answer": "HALFTIME",
-      "row": 5,
-      "col": 5,
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 11,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A tool for drawing perfect circles",
-      "answer": "COMPASS",
-      "row": 3,
-      "col": 11,
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
+      "row": 6,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A machine that makes copies of pages",
-      "answer": "COPIER",
-      "row": 10,
-      "col": 7,
+      "clue": "Many days in a row of very hot weather",
+      "answer": "HEATWAVE",
+      "row": 2,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A person who makes music with their voice",
-      "answer": "SINGER",
-      "row": 12,
-      "col": 0,
+      "clue": "The main printed guide your class learns a subject from",
+      "answer": "TEXTBOOK",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A spiky desert plant that stores water",
-      "answer": "CACTUS",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A yellow food made from milk",
-      "answer": "CHEESE",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The blast-off when a rocket lifts into the sky",
-      "answer": "LAUNCH",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Land with water all around it",
-      "answer": "ISLAND",
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
       "row": 14,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A very pale yellow, like the top of milk",
-      "answer": "CREAM",
-      "row": 0,
-      "col": 8,
+      "clue": "Someone who delivers parcels to your door",
+      "answer": "COURIER",
+      "row": 6,
+      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
+      "clue": "The corner point where two lines meet",
+      "answer": "VERTEX",
       "row": 0,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The power to make things move, heat up, or light up",
+      "answer": "ENERGY",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 0,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "An animal that builds dams out of wood",
+      "answer": "BEAVER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who speaks for you in court",
+      "answer": "LAWYER",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The black dot in the middle of your eye, or a student",
+      "answer": "PUPIL",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "How fast or slow the music is played",
+      "answer": "TEMPO",
+      "row": 13,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A robot spacecraft sent to explore far-off planets",
+      "answer": "PROBE",
+      "row": 9,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep red gemstone",
+      "answer": "RUBY",
+      "row": 10,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Melted rock that flows out of a volcano",
+      "answer": "LAVA",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A mistake in a program, or a tiny insect",
+      "answer": "BUG",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 21,
   "targetWords": 22,
   "difficulty": "hard"
 }

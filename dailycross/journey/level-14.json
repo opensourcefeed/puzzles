@@ -4,52 +4,52 @@
   "title": "Level 14",
   "words": [
     {
-      "clue": "A half-circle tool for measuring angles",
-      "answer": "PROTRACTOR",
-      "row": 5,
+      "clue": "A very tall, steep, rocky peak",
+      "answer": "MOUNTAIN",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "You open it over your head when it pours",
+      "answer": "UMBRELLA",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A doctor who looks after your teeth",
+      "answer": "DENTIST",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The tallest animal, with a super long neck",
+      "answer": "GIRAFFE",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid with a flat base and sides meeting at a point, like those in Egypt",
+      "answer": "PYRAMID",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A line joining two opposite corners",
-      "answer": "DIAGONAL",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "It turns paper pages into computer files",
-      "answer": "SCANNER",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A shooting star that zooms across the sky",
-      "answer": "METEOR",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A place on a computer for keeping files together",
-      "answer": "FOLDER",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A flat touchscreen device, bigger than a phone",
-      "answer": "TABLET",
-      "row": 0,
+      "clue": "You write with it, and it can be erased",
+      "answer": "PENCIL",
+      "row": 8,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "The airless empty space between the stars",
-      "answer": "VACUUM",
-      "row": 1,
-      "col": 6,
+      "clue": "The colorful, sweet-smelling part of a plant",
+      "answer": "FLOWER",
+      "row": 6,
+      "col": 8,
       "direction": "across"
     }
   ],

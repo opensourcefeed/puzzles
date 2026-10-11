@@ -4,74 +4,47 @@
   "title": "2027-08-18",
   "words": [
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 4,
-      "col": 2,
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
+      "clue": "Wishing and expecting that good things will happen",
+      "answer": "HOPEFUL",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
       "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of an elephant or a stormy sky",
+      "answer": "GRAY",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of buy",
+      "answer": "SELL",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A mistake in a program, or a tiny insect",
+      "answer": "BUG",
+      "row": 0,
       "col": 5,
       "direction": "down"
-    },
-    {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Being kind and nice to other people",
-      "answer": "FRIENDLY",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who helps students learn at school",
-      "answer": "TEACHER",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who makes music with their voice",
-      "answer": "SINGER",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The hottest season of the year",
-      "answer": "SUMMER",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The number that means nothing",
-      "answer": "ZERO",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A giant ball of burning gas in space",
-      "answer": "STAR",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
     }
   ],
   "dayNumber": 432

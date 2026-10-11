@@ -4,119 +4,140 @@
   "title": "Level 125",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A pretty insect that used to be a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A box you carry your lunch to school in",
-      "answer": "LUNCHBOX",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "To bring a file from the internet onto your device",
-      "answer": "DOWNLOAD",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of computers linked to share information",
-      "answer": "NETWORK",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 8,
+      "clue": "Annoyed because something keeps going wrong",
+      "answer": "FRUSTRATED",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 14,
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
+      "row": 5,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A half-circle tool for measuring angles",
+      "answer": "PROTRACTOR",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The color of a carrot; red mixed with yellow",
-      "answer": "ORANGE",
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The fastest runner on land, covered in spots",
+      "answer": "CHEETAH",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The person who takes your money at the checkout",
+      "answer": "CASHIER",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
+      "row": 14,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright pinkish-purple used in printer ink",
+      "answer": "MAGENTA",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Where a computer keeps what it's working on right now",
-      "answer": "MEMORY",
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of leave",
+      "answer": "ARRIVE",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "In a bad mood, cross and complaining",
+      "answer": "GRUMPY",
       "row": 0,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A big round object that circles a star",
-      "answer": "PLANET",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You dry yourself with this after washing",
-      "answer": "TOWEL",
-      "row": 1,
-      "col": 6,
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The biggest animal in the ocean",
-      "answer": "WHALE",
-      "row": 12,
+      "clue": "The second planet from the Sun, and the hottest one",
+      "answer": "VENUS",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who flies an airplane",
-      "answer": "PILOT",
-      "row": 1,
-      "col": 2,
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Petrol or diesel that makes an engine go",
+      "answer": "FUEL",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A ball game played on horseback with long mallets",
+      "answer": "POLO",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A streetcar that runs on rails along city roads",
+      "answer": "TRAM",
+      "row": 12,
+      "col": 10,
       "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 19,
   "targetWords": 22,
   "difficulty": "hard"
 }

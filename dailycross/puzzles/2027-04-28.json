@@ -4,59 +4,73 @@
   "title": "2027-04-28",
   "words": [
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A string instrument you strum or pluck",
-      "answer": "GUITAR",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small cupboard at school for your stuff",
-      "answer": "LOCKER",
-      "row": 2,
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
+      "row": 5,
       "col": 2,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A pale sandy tan, like a coffee with lots of milk",
-      "answer": "BEIGE",
-      "row": 2,
+      "clue": "A bushy-tailed animal that hides nuts for winter",
+      "answer": "SQUIRREL",
+      "row": 5,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Instruments you buzz your lips into, like a trumpet",
-      "answer": "BRASS",
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Cloth hung over a window to block the light",
+      "answer": "CURTAIN",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who lays bricks and puts up houses",
+      "answer": "BUILDER",
       "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A team sport where players hit a puck or ball with sticks",
+      "answer": "HOCKEY",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Sliding down snowy mountains on two long boards",
+      "answer": "SKIING",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of start",
+      "answer": "FINISH",
+      "row": 11,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cuts men's hair and trims beards",
+      "answer": "BARBER",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A cup-shaped spring flower that is famous in Holland",
+      "answer": "TULIP",
+      "row": 8,
+      "col": 8,
       "direction": "down"
     }
   ],

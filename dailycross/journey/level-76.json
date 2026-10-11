@@ -4,91 +4,112 @@
   "title": "Level 76",
   "words": [
     {
-      "clue": "A person who writes computer code",
-      "answer": "PROGRAMMER",
+      "clue": "A pretty insect with colorful wings that used to be a caterpillar",
+      "answer": "BUTTERFLY",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
+      "clue": "A person who repairs cars and engines",
+      "answer": "MECHANIC",
       "row": 6,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Sports like running, jumping, and throwing",
-      "answer": "ATHLETICS",
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The answer you get when you multiply",
+      "answer": "PRODUCT",
       "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 0,
       "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 12,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 5,
+      "clue": "A mountain that can erupt with hot lava",
+      "answer": "VOLCANO",
+      "row": 6,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Wireless tech that connects nearby devices",
-      "answer": "BLUETOOTH",
-      "row": 2,
+      "clue": "A bright pinkish-purple used in printer ink",
+      "answer": "MAGENTA",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 8,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
-      "row": 1,
+      "clue": "A slow animal that carries its shell around",
+      "answer": "TURTLE",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The cold cupboard that keeps your food fresh",
+      "answer": "FRIDGE",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 4,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You use it to rub out pencil marks",
-      "answer": "ERASER",
-      "row": 6,
-      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A big vehicle for carrying goods by road",
-      "answer": "TRUCK",
-      "row": 0,
+      "clue": "A tiny squeaky animal, or the thing you click a computer with",
+      "answer": "MOUSE",
+      "row": 10,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
-      "row": 5,
+      "clue": "Feeling you need a rest or a nap",
+      "answer": "TIRED",
+      "row": 4,
       "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "The amount of turn between two lines that meet",
+      "answer": "ANGLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A desert animal with humps on its back",
+      "answer": "CAMEL",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A pale yellow-white, like the top of fresh milk",
+      "answer": "CREAM",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 15,
   "targetWords": 15,
   "difficulty": "medium"
 }

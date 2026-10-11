@@ -4,52 +4,66 @@
   "title": "2027-04-20",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 1,
-      "col": 2,
+      "clue": "It hops around and carries its baby in a pouch",
+      "answer": "KANGAROO",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 0,
+      "clue": "A green vegetable that looks like a tiny tree",
+      "answer": "BROCCOLI",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 8,
-      "col": 0,
+      "clue": "A black-and-white bird that waddles on the ice and can't fly",
+      "answer": "PENGUIN",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "When the Moon passes in front of the Sun and blocks its light",
+      "answer": "ECLIPSE",
+      "row": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A wheeled robot that drives on the Moon or Mars",
-      "answer": "ROVER",
-      "row": 7,
-      "col": 9,
+      "clue": "A person who is really good at sports",
+      "answer": "ATHLETE",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Only caring about yourself",
+      "answer": "SELFISH",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A pass you buy before you ride a train or bus",
+      "answer": "TICKET",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Spaghetti and macaroni are types of this",
+      "answer": "PASTA",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A pretty flower with thorns on its stem",
+      "answer": "ROSE",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     }
   ],

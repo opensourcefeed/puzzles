@@ -4,119 +4,140 @@
   "title": "Level 108",
   "words": [
     {
-      "clue": "A sport of flips, balance, and body strength",
-      "answer": "GYMNASTICS",
+      "clue": "A curvy metal instrument played with a reed, popular in jazz",
+      "answer": "SAXOPHONE",
       "row": 7,
-      "col": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A flying vehicle with spinning blades on top",
-      "answer": "HELICOPTER",
-      "row": 4,
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A bushy-tailed animal that hides nuts for winter",
+      "answer": "SQUIRREL",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The natural home of an animal or plant",
+      "answer": "HABITAT",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of computers linked to share information",
+      "answer": "NETWORK",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall pipe that carries smoke out through the roof",
+      "answer": "CHIMNEY",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A spacecraft that could fly to space again and again",
+      "answer": "SHUTTLE",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A Japanese martial art with kicks, chops and colored belts",
+      "answer": "KARATE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark brownish-red",
+      "answer": "MAROON",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A pretty insect that used to be a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 5,
-      "col": 4,
+      "clue": "A tree whose sap is boiled into a sweet syrup for pancakes",
+      "answer": "MAPLE",
+      "row": 14,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of generous",
-      "answer": "SELFISH",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried and uneasy inside",
-      "answer": "ANXIOUS",
-      "row": 7,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The force that keeps planets circling the Sun",
-      "answer": "GRAVITY",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling super eager about something fun",
-      "answer": "EXCITED",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A team sport where players hit a puck with sticks",
-      "answer": "HOCKEY",
+      "clue": "Our galaxy is the ___ Way",
+      "answer": "MILKY",
       "row": 9,
-      "col": 7,
+      "col": 10,
       "direction": "across"
     },
     {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
-      "row": 4,
-      "col": 3,
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The opposite of brave",
-      "answer": "AFRAID",
+      "clue": "The skin on top of your head where hair grows",
+      "answer": "SCALP",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Spaghetti and macaroni are types of this",
+      "answer": "PASTA",
       "row": 10,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "The opposite of strong",
-      "answer": "WEAK",
-      "row": 8,
+      "clue": "To do with the Moon, as in a ___ eclipse",
+      "answer": "LUNAR",
+      "row": 1,
       "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The bright center of a galaxy",
-      "answer": "CORE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A pale blue-green, like water",
-      "answer": "AQUA",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A group that plays instruments together",
-      "answer": "BAND",
-      "row": 11,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Weather that feels very chilly",
-      "answer": "COLD",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The amount of space inside a flat shape",
-      "answer": "AREA",
-      "row": 5,
-      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 19,
   "targetWords": 19,
   "difficulty": "hard"
 }

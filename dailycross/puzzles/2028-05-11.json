@@ -4,67 +4,74 @@
   "title": "2028-05-11",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 5,
+      "clue": "You use it with paste to clean your teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "It hops around and carries its baby in a pouch",
-      "answer": "KANGAROO",
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
       "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with a flat base and sides meeting at a point",
-      "answer": "PYRAMID",
-      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A tilted square shape, seen on playing cards",
-      "answer": "DIAMOND",
-      "row": 8,
+      "clue": "A tall cupboard for hanging up your clothes",
+      "answer": "WARDROBE",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
+      "row": 12,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A card with your name and photo on it",
-      "answer": "IDCARD",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 1,
+      "clue": "The smallest planet, closest to the Sun",
+      "answer": "MERCURY",
+      "row": 8,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A wheeled robot that drives on the Moon or Mars",
-      "answer": "ROVER",
-      "row": 2,
-      "col": 9,
+      "clue": "The planet famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The blast-off when a rocket lifts into the sky",
+      "answer": "LAUNCH",
+      "row": 4,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "A robot spacecraft sent to explore far-off planets",
+      "answer": "PROBE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that climbs up walls and trees",
+      "answer": "VINE",
+      "row": 11,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 699

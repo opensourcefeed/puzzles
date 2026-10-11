@@ -4,74 +4,67 @@
   "title": "2027-02-05",
   "words": [
     {
-      "clue": "A person who writes computer code",
-      "answer": "PROGRAMMER",
-      "row": 4,
+      "clue": "A glass opening in a wall that lets in light and air",
+      "answer": "WINDOW",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
+      "clue": "A person who speaks for you in court",
+      "answer": "LAWYER",
       "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
+      "clue": "Soft, wet land that is often flooded",
+      "answer": "MARSH",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "A glass opening that lets in light and air",
-      "answer": "WINDOW",
-      "row": 0,
+      "clue": "The second planet from the Sun, and the hottest one",
+      "answer": "VENUS",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The repeating pattern of beats in music",
-      "answer": "RHYTHM",
-      "row": 4,
-      "col": 9,
+      "clue": "A long animal with no legs that slithers and hisses",
+      "answer": "SNAKE",
+      "row": 8,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The tap that water comes out of",
-      "answer": "FAUCET",
-      "row": 8,
-      "col": 1,
+      "clue": "A sport where you hit a small ball into holes with clubs",
+      "answer": "GOLF",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 2,
+      "clue": "The dirt that plants grow in",
+      "answer": "SOIL",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A big vehicle that carries many passengers along a route",
+      "answer": "BUS",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A pale sandy tan, like a coffee with lots of milk",
-      "answer": "BEIGE",
-      "row": 0,
-      "col": 8,
+      "clue": "A bird that stays up at night and hoots",
+      "answer": "OWL",
+      "row": 4,
+      "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "You use these to see",
-      "answer": "EYES",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
     }
   ],
   "dayNumber": 238

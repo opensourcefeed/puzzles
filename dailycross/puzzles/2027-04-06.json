@@ -4,67 +4,74 @@
   "title": "2027-04-06",
   "words": [
     {
-      "clue": "A phone you can also browse the internet on",
-      "answer": "SMARTPHONE",
-      "row": 3,
-      "col": 0,
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "It makes holes in paper for a binder",
-      "answer": "HOLEPUNCH",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A purple flower known for its calming smell",
-      "answer": "LAVENDER",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 3,
-      "col": 11,
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
       "clue": "To look something up on the internet",
       "answer": "SEARCH",
-      "row": 9,
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who writes books",
+      "answer": "AUTHOR",
+      "row": 1,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The words of a song",
+      "answer": "LYRICS",
+      "row": 3,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A large area of flat land",
-      "answer": "PLAIN",
-      "row": 3,
+      "clue": "A very dry place that gets little rain, like the Sahara",
+      "answer": "DESERT",
+      "row": 8,
       "col": 5,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
+      "clue": "You sweep the floor with it",
+      "answer": "BROOM",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint in the middle of your arm",
+      "answer": "ELBOW",
       "row": 3,
-      "col": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The red planet, fourth from the Sun",
-      "answer": "MARS",
-      "row": 0,
+      "clue": "A soft white food made from soybeans",
+      "answer": "TOFU",
+      "row": 2,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "dayNumber": 298

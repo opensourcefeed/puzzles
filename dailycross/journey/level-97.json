@@ -4,105 +4,133 @@
   "title": "Level 97",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 5,
+      "clue": "The blanket of air around the Earth",
+      "answer": "ATMOSPHERE",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
-      "row": 4,
-      "col": 9,
+      "clue": "A pretty insect with colorful wings that used to be a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
+      "clue": "A bushy-tailed animal that hides nuts for winter",
+      "answer": "SQUIRREL",
       "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Riding ocean waves on a board",
+      "answer": "SURFING",
+      "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
-      "row": 5,
-      "col": 4,
+      "clue": "How you might feel before a big test or show",
+      "answer": "NERVOUS",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 12,
-      "col": 3,
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 14,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "It clips sheets of paper together",
-      "answer": "STAPLER",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
+      "clue": "Able to wait calmly without complaining",
+      "answer": "PATIENT",
       "row": 2,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A hard hat that protects your head while riding",
-      "answer": "HELMET",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 9,
-      "col": 1,
       "direction": "across"
-    },
-    {
-      "clue": "The arrow that shows where your mouse is pointing",
-      "answer": "CURSOR",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
     },
     {
       "clue": "How loud or soft the music is",
       "answer": "VOLUME",
-      "row": 1,
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A small round fastener on a shirt, or a thing you click on screen",
+      "answer": "BUTTON",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The cold cupboard that keeps your food fresh",
+      "answer": "FRIDGE",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A metal disc on a ribbon given to winners",
+      "answer": "MEDAL",
+      "row": 3,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "The skin on top of your head where hair grows",
+      "answer": "SCALP",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The round underground part that tulips and onions grow from",
+      "answer": "BULB",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A wire that charges or connects your devices",
-      "answer": "CABLE",
-      "row": 8,
-      "col": 1,
+      "clue": "What water does at 100 degrees Celsius",
+      "answer": "BOIL",
+      "row": 10,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A boat that carries people and cars across water",
-      "answer": "FERRY",
+      "clue": "A flat surface of a solid shape",
+      "answer": "FACE",
       "row": 1,
-      "col": 11,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Instructions written for a computer",
+      "answer": "CODE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 18,
   "targetWords": 18,
   "difficulty": "medium"
 }

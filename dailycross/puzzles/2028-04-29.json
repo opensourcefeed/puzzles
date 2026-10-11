@@ -4,73 +4,66 @@
   "title": "2028-04-29",
   "words": [
     {
-      "clue": "A tall flower that turns to face the sun",
-      "answer": "SUNFLOWER",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest planet, closest to the Sun",
-      "answer": "MERCURY",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
+      "clue": "The rainy season that brings heavy rain to India each summer",
+      "answer": "MONSOON",
       "row": 3,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A place where trains stop to pick up passengers",
-      "answer": "STATION",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of open",
-      "answer": "CLOSED",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
-      "row": 0,
+      "clue": "A very deep valley carved by a river, like the Grand one in Arizona",
+      "answer": "CANYON",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The opposite of full",
-      "answer": "EMPTY",
-      "row": 0,
+      "clue": "To look something up on the internet",
+      "answer": "SEARCH",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The flap of skin that closes when you blink",
+      "answer": "EYELID",
+      "row": 1,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The person who flies an airplane",
+      "answer": "PILOT",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge body of salty water, like the Pacific",
+      "answer": "OCEAN",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "To say numbers in order: one, two, three...",
+      "answer": "COUNT",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The shiny yellow metal that first-place medals are made of",
+      "answer": "GOLD",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, still body of water where ducks swim",
+      "answer": "POND",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     }
   ],

@@ -4,112 +4,154 @@
   "title": "Level 149",
   "words": [
     {
-      "clue": "The person who leads a country",
-      "answer": "PRESIDENT",
-      "row": 6,
-      "col": 3,
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
-      "row": 6,
-      "col": 6,
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
+      "row": 7,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A person who plays music or sings for a living",
-      "answer": "MUSICIAN",
-      "row": 9,
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A line joining two opposite corners",
+      "answer": "DIAGONAL",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest planet, closest to the Sun",
+      "answer": "MERCURY",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of moving a boat with oars",
+      "answer": "ROWING",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The break between lessons when you go outside to play",
+      "answer": "RECESS",
+      "row": 0,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A shape with five straight sides",
-      "answer": "PENTAGON",
-      "row": 6,
-      "col": 3,
+      "clue": "A tiny dried seed often cooked into soup or dal",
+      "answer": "LENTIL",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 1,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A shape with a flat base and sides meeting at a point",
-      "answer": "PYRAMID",
+      "clue": "The front of your neck, where your voice comes from",
+      "answer": "THROAT",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The short stick runners pass in a relay race",
+      "answer": "BATON",
+      "row": 10,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The second planet from the Sun, and the hottest one",
+      "answer": "VENUS",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint between your foot and your leg",
+      "answer": "ANKLE",
+      "row": 5,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A wet mix of rain and snow",
+      "answer": "SLEET",
       "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 0,
+      "clue": "Soft, wet land that is often flooded",
+      "answer": "MARSH",
+      "row": 10,
       "col": 5,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "It turns paper pages into computer files",
-      "answer": "SCANNER",
+      "clue": "The opposite of a friend",
+      "answer": "ENEMY",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A dish of raw leafy vegetables",
+      "answer": "SALAD",
       "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A fuzzy brown fruit that is bright green inside",
+      "answer": "KIWI",
+      "row": 2,
       "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The smallest planet, closest to the Sun",
-      "answer": "MERCURY",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that makes copies of pages",
-      "answer": "COPIER",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
-      "row": 8,
-      "col": 11,
       "direction": "down"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep, dark green like trees in the woods",
-      "answer": "FOREST",
-      "row": 1,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A shiny cup you win as a prize",
-      "answer": "TROPHY",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A piece of data saved under one name",
-      "answer": "FILE",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 21,
   "targetWords": 25,
   "difficulty": "hard"
 }

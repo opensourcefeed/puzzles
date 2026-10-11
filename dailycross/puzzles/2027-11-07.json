@@ -4,73 +4,59 @@
   "title": "2027-11-07",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 4,
+      "clue": "A black-and-white bird that waddles on the ice and can't fly",
+      "answer": "PENGUIN",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A farm bird that lays eggs and says cluck",
-      "answer": "CHICKEN",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The skin that covers your eye when you blink",
-      "answer": "EYELID",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Land with water all around it",
-      "answer": "ISLAND",
-      "row": 8,
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
+      "row": 2,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
       "clue": "The blast-off when a rocket lifts into the sky",
       "answer": "LAUNCH",
-      "row": 2,
-      "col": 1,
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
+      "clue": "Very cross; how you feel when something is unfair",
+      "answer": "ANGRY",
       "row": 1,
-      "col": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather that's not too hot and not too cold",
+      "answer": "MILD",
+      "row": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A cup-shaped spring flower grown from a bulb",
-      "answer": "TULIP",
-      "row": 0,
-      "col": 0,
+      "clue": "A small green citrus fruit, sour like a lemon",
+      "answer": "LIME",
+      "row": 7,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The opposite of hot",
-      "answer": "COLD",
-      "row": 0,
-      "col": 4,
+      "clue": "A four-wheeled vehicle for driving on roads",
+      "answer": "CAR",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     }
   ],

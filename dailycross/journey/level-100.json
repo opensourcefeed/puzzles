@@ -4,119 +4,126 @@
   "title": "Level 100",
   "words": [
     {
-      "clue": "A shape like a door: two long sides and two short",
-      "answer": "RECTANGLE",
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
       "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A little bit of water in the air",
-      "answer": "MOISTURE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Nice weather with a gentle breeze",
-      "answer": "PLEASANT",
-      "row": 5,
       "col": 3,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A person who plays music or sings",
-      "answer": "MUSICIAN",
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
       "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The panel of keys you type on",
+      "answer": "KEYBOARD",
+      "row": 6,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 7,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "It browns your slices of bread",
-      "answer": "TOASTER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "How loud or soft the music is",
-      "answer": "VOLUME",
-      "row": 1,
+      "clue": "A person who plays an instrument or sings",
+      "answer": "MUSICIAN",
+      "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A very dry place that gets little rain",
-      "answer": "DESERT",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A long, curved yellow fruit you peel",
-      "answer": "BANANA",
+      "clue": "Soft shoes made for running and sports",
+      "answer": "SNEAKERS",
       "row": 11,
-      "col": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The season when leaves turn color and fall",
-      "answer": "AUTUMN",
-      "row": 12,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who leads tourists around",
-      "answer": "GUIDE",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 10,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Connected cars that run along railway tracks",
-      "answer": "TRAIN",
-      "row": 10,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A large stream of water flowing across the land",
-      "answer": "RIVER",
-      "row": 2,
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
+      "row": 5,
       "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "One of the two holes in your nose",
+      "answer": "NOSTRIL",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who lays bricks and puts up houses",
+      "answer": "BUILDER",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The planet we live on",
+      "answer": "EARTH",
+      "row": 11,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A pale purple, like the spring flower of the same name",
+      "answer": "LILAC",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A creature from another planet, in stories",
+      "answer": "ALIEN",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep, narrow valley with steep rocky sides",
+      "answer": "GORGE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of win",
+      "answer": "LOSE",
+      "row": 0,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A car you pay to drive you somewhere",
+      "answer": "TAXI",
+      "row": 11,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A sticky strip for holding things together",
+      "answer": "TAPE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The limb between your shoulder and your hand",
+      "answer": "ARM",
+      "row": 12,
+      "col": 7,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 17,
   "targetWords": 18,
   "difficulty": "medium"
 }

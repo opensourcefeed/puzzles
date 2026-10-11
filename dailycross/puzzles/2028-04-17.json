@@ -4,73 +4,66 @@
   "title": "2028-04-17",
   "words": [
     {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The corner point where two lines meet",
-      "answer": "VERTEX",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A pipe you blow across, held out sideways",
-      "answer": "FLUTE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A big vehicle for carrying goods by road",
-      "answer": "TRUCK",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You use it to tidy and smooth your hair",
-      "answer": "COMB",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you hit a small ball into holes with clubs",
-      "answer": "GOLF",
+      "clue": "A four-sided shape with just one pair of parallel sides",
+      "answer": "TRAPEZOID",
       "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The opposite of early",
-      "answer": "LATE",
-      "row": 5,
+      "clue": "A person who is really good at sports",
+      "answer": "ATHLETE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The loud boom that follows a flash in a storm",
+      "answer": "THUNDER",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A computer that folds shut so you can carry it",
+      "answer": "LAPTOP",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The corner point where two lines meet",
+      "answer": "VERTEX",
+      "row": 6,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of hard",
+      "answer": "SOFT",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The back part of your foot",
+      "answer": "HEEL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An evergreen tree with needle leaves and cones",
+      "answer": "PINE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A streetcar that runs on rails along city roads",
+      "answer": "TRAM",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     }
   ],

@@ -4,58 +4,73 @@
   "title": "2028-01-19",
   "words": [
     {
-      "clue": "A person watching a game from the stands",
-      "answer": "SPECTATOR",
-      "row": 6,
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 4,
-      "col": 2,
+      "clue": "A zip-up pouch that holds everything you write with",
+      "answer": "PENCILCASE",
+      "enumeration": "6,4",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Glad that a worry is finally over",
-      "answer": "RELIEVED",
-      "row": 6,
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A vegetable you can bake, mash, or fry into chips",
+      "answer": "POTATO",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
+      "clue": "The opposite of lost",
+      "answer": "FOUND",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The short stick runners pass in a relay race",
+      "answer": "BATON",
       "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The instrument family that includes the violin, cello, and guitar",
-      "answer": "STRINGS",
-      "row": 9,
-      "col": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A hard, hairy fruit with white flesh and water inside",
-      "answer": "COCONUT",
-      "row": 0,
-      "col": 4,
+      "clue": "A dwarf planet once called the ninth planet",
+      "answer": "PLUTO",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The corner point where two lines meet",
-      "answer": "VERTEX",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
+      "clue": "The hard covering at the tip of a finger or toe",
+      "answer": "NAIL",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "A cover that keeps your loose papers together",
-      "answer": "FOLDER",
-      "row": 3,
+      "clue": "The star at the center of our solar system",
+      "answer": "SUN",
+      "row": 5,
       "col": 3,
       "direction": "across"
     }

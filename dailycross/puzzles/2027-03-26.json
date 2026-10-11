@@ -4,73 +4,67 @@
   "title": "2027-03-26",
   "words": [
     {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A line joining two opposite corners",
-      "answer": "DIAGONAL",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Showing lots of love and affection",
-      "answer": "LOVING",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet, sticky food made by bees",
-      "answer": "HONEY",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 10,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Weather that feels damp and sticky",
-      "answer": "HUMID",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Our galaxy is the ___ Way",
-      "answer": "MILKY",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft white food made from soybeans",
-      "answer": "TOFU",
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
       "row": 1,
-      "col": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The bright object that circles Earth at night",
-      "answer": "MOON",
-      "row": 2,
+      "clue": "The joint that connects your arm to your body",
+      "answer": "SHOULDER",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A big round world that circles a star",
+      "answer": "PLANET",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "It hangs on the wall and tells you the time",
+      "answer": "CLOCK",
+      "row": 5,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where you hit a small ball into holes with clubs",
+      "answer": "GOLF",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A doctor who takes care of sick animals",
+      "answer": "VET",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     }
   ],

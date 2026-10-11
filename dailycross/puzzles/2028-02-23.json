@@ -4,73 +4,66 @@
   "title": "2028-02-23",
   "words": [
     {
-      "clue": "A book of blank pages for your notes",
-      "answer": "NOTEBOOK",
+      "clue": "To bring a file from the internet onto your device",
+      "answer": "DOWNLOAD",
       "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who repairs cars and machines",
-      "answer": "MECHANIC",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 10,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The tap that water comes out of",
-      "answer": "FAUCET",
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
       "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The arrow that shows where your mouse is pointing",
-      "answer": "CURSOR",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A person whose job is to protect a place",
-      "answer": "GUARD",
-      "row": 1,
-      "col": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The back part of your foot",
-      "answer": "HEEL",
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
       "row": 6,
-      "col": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Information that is stored on a computer",
-      "answer": "DATA",
-      "row": 1,
-      "col": 8,
+      "clue": "A push or a pull",
+      "answer": "FORCE",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Thin sheets you write or draw on",
+      "answer": "PAPER",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Spaghetti and macaroni are types of this",
+      "answer": "PASTA",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A dwarf planet once called the ninth planet",
+      "answer": "PLUTO",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall plant with a thick, wooden trunk",
+      "answer": "TREE",
+      "row": 5,
+      "col": 5,
       "direction": "down"
     }
   ],

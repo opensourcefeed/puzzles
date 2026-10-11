@@ -4,98 +4,105 @@
   "title": "Level 68",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 7,
-      "col": 2,
+      "clue": "A part of a whole, like one-half",
+      "answer": "FRACTION",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A long, wiggly animal that lives in the soil",
-      "answer": "EARTHWORM",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The special suit an astronaut wears in space",
-      "answer": "SPACESUIT",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A secret word that unlocks your account",
+      "clue": "A secret code that unlocks your account",
       "answer": "PASSWORD",
       "row": 5,
-      "col": 4,
-      "direction": "across"
+      "col": 5,
+      "direction": "down"
     },
     {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You stand on it and push along with one foot",
+      "answer": "SCOOTER",
       "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 1,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The matching clothes a team wears",
-      "answer": "UNIFORM",
-      "row": 12,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
-      "row": 14,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 0,
-      "col": 7,
+      "clue": "A person who helps students learn at school",
+      "answer": "TEACHER",
+      "row": 7,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 0,
+      "clue": "A group of computers linked to share information",
+      "answer": "NETWORK",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The land right along the edge of the sea",
-      "answer": "COAST",
+      "clue": "A small, crunchy red root with a peppery taste",
+      "answer": "RADISH",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The planet famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The green plant that covers a lawn",
+      "answer": "GRASS",
       "row": 2,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The smallest finger on your hand",
-      "answer": "PINKY",
+      "clue": "A person who trains and directs a sports team",
+      "answer": "COACH",
       "row": 10,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Thin sheets you write or draw on",
+      "answer": "PAPER",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Bright weather with no clouds at all",
+      "answer": "CLEAR",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The number of points in a game",
+      "answer": "SCORE",
+      "row": 9,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A book full of maps",
-      "answer": "ATLAS",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
+      "clue": "Spaghetti and macaroni are types of this",
+      "answer": "PASTA",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 14,
   "difficulty": "medium"
 }

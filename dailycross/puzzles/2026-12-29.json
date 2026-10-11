@@ -4,67 +4,74 @@
   "title": "2026-12-29",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried about what might happen",
-      "answer": "NERVOUS",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft yellow spread made from cream",
-      "answer": "BUTTER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 7,
+      "clue": "The room where your lessons happen",
+      "answer": "CLASSROOM",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A small hill of earth",
-      "answer": "MOUND",
-      "row": 3,
-      "col": 11,
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A green, watery spot in the middle of a desert",
-      "answer": "OASIS",
-      "row": 9,
-      "col": 5,
+      "clue": "To bring a file from the internet onto your device",
+      "answer": "DOWNLOAD",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Riding ocean waves on a board",
+      "answer": "SURFING",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You look into it to see yourself",
+      "answer": "MIRROR",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A glowing ring around the sun or moon",
-      "answer": "HALO",
-      "row": 0,
-      "col": 8,
+      "clue": "To share a number out into equal groups",
+      "answer": "DIVIDE",
+      "row": 5,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "You boil water in this for tea",
+      "answer": "KETTLE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The small nut of an oak tree that squirrels collect",
+      "answer": "ACORN",
+      "row": 9,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A big animal with hooves that people ride",
+      "answer": "HORSE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You chew your food with these",
+      "answer": "TEETH",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 200

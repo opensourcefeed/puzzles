@@ -4,74 +4,74 @@
   "title": "2027-12-31",
   "words": [
     {
-      "clue": "Many days in a row of very hot weather",
-      "answer": "HEATWAVE",
-      "row": 2,
-      "col": 1,
+      "clue": "A person who gives emergency care in an ambulance",
+      "answer": "PARAMEDIC",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 2,
-      "col": 6,
+      "clue": "It makes a blunt pencil pointy again",
+      "answer": "SHARPENER",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 0,
-      "col": 3,
+      "clue": "A sparkly precious stone, and a card suit",
+      "answer": "DIAMOND",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A safe spot along the coast where boats stay",
-      "answer": "HARBOR",
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Water and juice are both in this state of matter",
+      "answer": "LIQUID",
       "row": 6,
       "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of a banana or the sun",
-      "answer": "YELLOW",
-      "row": 1,
-      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The opposite of wide",
-      "answer": "NARROW",
-      "row": 8,
+      "clue": "The Sun and its planets: the solar ___",
+      "answer": "SYSTEM",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The row of bones running down your back",
+      "answer": "SPINE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest finger on your hand",
+      "answer": "PINKY",
+      "row": 11,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
+      "clue": "A sea animal with claws that walks sideways",
+      "answer": "CRAB",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "A pale purple-pink",
-      "answer": "LILAC",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A glowing ring around the sun or moon",
-      "answer": "HALO",
+      "clue": "A climbing plant that covers old walls",
+      "answer": "IVY",
       "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A wild animal that howls at the moon",
-      "answer": "WOLF",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 567

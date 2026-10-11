@@ -4,67 +4,60 @@
   "title": "2026-11-27",
   "words": [
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
       "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that circles a planet to send signals",
-      "answer": "SATELLITE",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The tap that water comes out of",
-      "answer": "FAUCET",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The hottest season of the year",
-      "answer": "SUMMER",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The season when leaves turn color and fall",
-      "answer": "AUTUMN",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The distance from a circle's center to its edge",
-      "answer": "RADIUS",
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
       "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 1,
       "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, smooth stone",
+      "answer": "PEBBLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a song that repeats after each verse",
+      "answer": "CHORUS",
+      "row": 6,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "To look something up on the internet",
+      "answer": "SEARCH",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A book full of maps",
+      "answer": "ATLAS",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The hot cloud that rises from boiling water",
+      "answer": "STEAM",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 168

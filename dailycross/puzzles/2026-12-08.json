@@ -4,66 +4,73 @@
   "title": "2026-12-08",
   "words": [
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
-      "row": 4,
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bright flash in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 3,
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who builds things out of wood",
-      "answer": "CARPENTER",
-      "row": 0,
+      "clue": "You stand on it and push along with one foot",
+      "answer": "SCOOTER",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A person who designs clothes",
-      "answer": "DESIGNER",
-      "row": 9,
-      "col": 2,
+      "clue": "When the Moon passes in front of the Sun and blocks its light",
+      "answer": "ECLIPSE",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
-      "row": 0,
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 2,
+      "clue": "You taste your food with this",
+      "answer": "TONGUE",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A sport where two people fight with padded gloves",
-      "answer": "BOXING",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
+      "clue": "The cold cupboard that keeps your food fresh",
+      "answer": "FRIDGE",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Bright weather with no clouds at all",
-      "answer": "CLEAR",
-      "row": 7,
-      "col": 6,
+      "clue": "The opposite of true",
+      "answer": "FALSE",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A single musical sound",
+      "answer": "NOTE",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A big tree that grows from an acorn",
+      "answer": "OAK",
+      "row": 4,
+      "col": 8,
       "direction": "across"
     }
   ],

@@ -4,119 +4,140 @@
   "title": "Level 135",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
       "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 4,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who builds things out of wood",
-      "answer": "CARPENTER",
-      "row": 11,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A place where trains stop to pick up passengers",
-      "answer": "STATION",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The gas in the air that we need to breathe",
-      "answer": "OXYGEN",
-      "row": 13,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The skin that covers your eye when you blink",
-      "answer": "EYELID",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
+      "clue": "A plank on four little wheels for tricks at the park",
+      "answer": "SKATEBOARD",
       "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A shape with four equal sides and four right-angle corners",
-      "answer": "SQUARE",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The two organs that help you breathe",
-      "answer": "LUNGS",
-      "row": 9,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The open ground where a sport is played",
-      "answer": "FIELD",
-      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Rough weather with strong wind and heavy rain",
-      "answer": "STORM",
-      "row": 1,
-      "col": 0,
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The tiny thing a new plant grows from",
-      "answer": "SEED",
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A space rock that circles the Sun; many lie between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
       "row": 13,
       "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Very light rain falling in fine drops",
+      "answer": "DRIZZLE",
+      "row": 5,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Wishing and expecting that good things will happen",
+      "answer": "HOPEFUL",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A spinning funnel of wind that touches the ground",
+      "answer": "TORNADO",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright green gemstone",
+      "answer": "EMERALD",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small concert by music students",
+      "answer": "RECITAL",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of moving a boat with oars",
+      "answer": "ROWING",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Water and juice are both in this state of matter",
+      "answer": "LIQUID",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A small boat for one, with a double-ended paddle",
+      "answer": "KAYAK",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The roped square where a boxing match takes place",
+      "answer": "RING",
+      "row": 11,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A hot tool that presses wrinkles out of clothes",
+      "answer": "IRON",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 19,
   "targetWords": 23,
   "difficulty": "hard"
 }

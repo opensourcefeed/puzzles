@@ -4,65 +4,72 @@
   "title": "2026-11-03",
   "words": [
     {
-      "clue": "A vehicle that rushes sick people to the hospital",
-      "answer": "AMBULANCE",
-      "row": 2,
+      "clue": "The strap you click across you before the car moves",
+      "answer": "SEATBELT",
+      "row": 6,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A long, wiggly animal that lives in the soil",
-      "answer": "EARTHWORM",
-      "row": 1,
-      "col": 8,
+      "clue": "The world's biggest sports event, held every four years",
+      "answer": "OLYMPICS",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 2,
-      "col": 11,
+      "clue": "A person who gathers and tells the news",
+      "answer": "REPORTER",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "It turns paper pages into computer files",
+      "answer": "SCANNER",
+      "row": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A box you carry your lunch to school in",
-      "answer": "LUNCHBOX",
-      "row": 1,
+      "clue": "A spacecraft that could fly to space again and again",
+      "answer": "SHUTTLE",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
+      "clue": "The answer you get when you multiply",
+      "answer": "PRODUCT",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
     },
     {
-      "clue": "A long stretch of time with no rain",
-      "answer": "DROUGHT",
+      "clue": "The gas in the air that we need to breathe",
+      "answer": "OXYGEN",
       "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of brave",
-      "answer": "AFRAID",
-      "row": 0,
-      "col": 1,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A huge body of salty water",
-      "answer": "OCEAN",
-      "row": 7,
-      "col": 8,
+      "clue": "A sport where you hit a ball over a net with a racket",
+      "answer": "TENNIS",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The muscle at the back of your lower leg",
-      "answer": "CALF",
+      "clue": "The blast-off when a rocket lifts into the sky",
+      "answer": "LAUNCH",
       "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "You chew your food with these",
+      "answer": "TEETH",
+      "row": 5,
       "col": 0,
       "direction": "across"
     }

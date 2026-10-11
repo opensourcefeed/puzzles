@@ -4,119 +4,127 @@
   "title": "Level 94",
   "words": [
     {
-      "clue": "You wear these on your ears to listen",
-      "answer": "HEADPHONES",
+      "clue": "Someone riding in a vehicle but not driving",
+      "answer": "PASSENGER",
       "row": 6,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A spiky tropical fruit, sweet and yellow inside",
-      "answer": "PINEAPPLE",
-      "row": 4,
-      "col": 9,
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
+      "row": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A person watching a game from the stands",
-      "answer": "SPECTATOR",
-      "row": 5,
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
+      "row": 4,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that plays sound out loud",
-      "answer": "SPEAKER",
-      "row": 4,
-      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright pinkish-purple",
-      "answer": "MAGENTA",
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
       "row": 8,
-      "col": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "You use it to control the TV from your seat",
-      "answer": "REMOTE",
-      "row": 7,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A place on a computer for keeping files together",
-      "answer": "FOLDER",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "An orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A wire that charges or connects your devices",
-      "answer": "CABLE",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A large area of flat land",
-      "answer": "PLAIN",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You dry yourself with this after washing",
-      "answer": "TOWEL",
-      "row": 1,
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 0,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
+      "clue": "The place where planes take off and land",
+      "answer": "AIRPORT",
       "row": 2,
-      "col": 0,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The green plant that covers a lawn",
-      "answer": "GRASS",
-      "row": 2,
+      "clue": "A long stretch of time with no rain",
+      "answer": "DROUGHT",
+      "row": 5,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A small round fruit that grows in bunches",
-      "answer": "GRAPE",
-      "row": 0,
-      "col": 6,
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, curved yellow fruit you peel",
+      "answer": "BANANA",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A small light for a table or the floor",
-      "answer": "LAMP",
-      "row": 2,
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 6,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where two people fight with padded gloves",
+      "answer": "BOXING",
+      "row": 5,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The short stick runners pass in a relay race",
+      "answer": "BATON",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small boat for one, with a double-ended paddle",
+      "answer": "KAYAK",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who trains and directs a sports team",
+      "answer": "COACH",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "One of two equal parts",
+      "answer": "HALF",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of push",
+      "answer": "PULL",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 17,
   "targetWords": 17,
   "difficulty": "medium"
 }

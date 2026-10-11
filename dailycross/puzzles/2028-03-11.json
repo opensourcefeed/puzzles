@@ -4,60 +4,67 @@
   "title": "2028-03-11",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 1,
-      "col": 2,
+      "clue": "A spacecraft that could fly to space again and again",
+      "answer": "SHUTTLE",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
-      "row": 0,
-      "col": 9,
+      "clue": "A bird that fans out a huge tail covered in eye patterns",
+      "answer": "PEACOCK",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 1,
+      "clue": "The part of a song that repeats after each verse",
+      "answer": "CHORUS",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 3,
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A black-and-white bird that waddles on the ice",
-      "answer": "PENGUIN",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
       "row": 6,
-      "col": 7,
+      "col": 10,
       "direction": "across"
     },
     {
-      "clue": "You dry yourself with this after washing",
-      "answer": "TOWEL",
-      "row": 1,
-      "col": 13,
+      "clue": "A chart that shows numbers as bars or lines",
+      "answer": "GRAPH",
+      "row": 5,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "The opposite of day",
+      "answer": "NIGHT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The red planet, fourth from the Sun",
+      "answer": "MARS",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A solid with a round base and a pointy top, like a party hat",
+      "answer": "CONE",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 638

@@ -4,74 +4,75 @@
   "title": "2026-10-30",
   "words": [
     {
-      "clue": "A spiky tropical fruit, sweet and yellow inside",
-      "answer": "PINEAPPLE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The tree that grows apples",
-      "answer": "APPLETREE",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "You boil water in this",
-      "answer": "KETTLE",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A spot where water flows out of the ground",
-      "answer": "SPRING",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A large stream of water flowing across the land",
-      "answer": "RIVER",
-      "row": 2,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "A pale blue-green, like water",
-      "answer": "AQUA",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A giant ball of burning gas in space",
-      "answer": "STAR",
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
       "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dark gray, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A container that carries your midday meal to school",
+      "answer": "LUNCHBOX",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The planet famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft cushion you rest your head on in bed",
+      "answer": "PILLOW",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A fine powder made from wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The organ inside your skull that you think with",
+      "answer": "BRAIN",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The colored ring in your eye",
+      "answer": "IRIS",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 140

@@ -4,66 +4,73 @@
   "title": "2027-03-13",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
+      "clue": "A person who gives emergency care in an ambulance",
+      "answer": "PARAMEDIC",
       "row": 4,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Nice weather with a gentle breeze",
-      "answer": "PLEASANT",
-      "row": 1,
-      "col": 0,
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person who designs machines and structures",
-      "answer": "ENGINEER",
-      "row": 3,
-      "col": 5,
+      "clue": "A flying vehicle with wings and jet engines",
+      "answer": "AIRPLANE",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
+      "clue": "It clips sheets of paper together with little metal pins",
+      "answer": "STAPLER",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
+      "clue": "A tall pipe that carries smoke out through the roof",
+      "answer": "CHIMNEY",
       "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Really interested and involved in something",
-      "answer": "ENGAGED",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of full",
-      "answer": "EMPTY",
-      "row": 0,
-      "col": 8,
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 5,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The sweet liquid squeezed out of fruit",
-      "answer": "JUICE",
+      "clue": "An object that pulls iron and steel toward it",
+      "answer": "MAGNET",
+      "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The front of your neck, where your voice comes from",
+      "answer": "THROAT",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of lost",
+      "answer": "FOUND",
       "row": 0,
-      "col": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of old",
+      "answer": "YOUNG",
+      "row": 2,
+      "col": 7,
       "direction": "across"
     }
   ],

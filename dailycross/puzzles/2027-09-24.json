@@ -4,67 +4,74 @@
   "title": "2027-09-24",
   "words": [
     {
-      "clue": "A thick, wet forest that gets lots of rain",
-      "answer": "RAINFOREST",
-      "row": 5,
-      "col": 0,
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
-      "row": 4,
+      "clue": "A long stretch of time with no rain",
+      "answer": "DROUGHT",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The fuel that most cars run on",
-      "answer": "GASOLINE",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
+      "clue": "A person who makes music with their voice",
+      "answer": "SINGER",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling that good things are coming",
-      "answer": "HOPEFUL",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The spots where two bones meet and bend",
-      "answer": "JOINTS",
-      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
-      "row": 2,
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Always telling the truth",
+      "answer": "HONEST",
+      "row": 0,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The planet we live on",
-      "answer": "EARTH",
-      "row": 8,
-      "col": 8,
+      "clue": "A small round red fruit that grows in pairs on a stem",
+      "answer": "CHERRY",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A baked loaf made from flour, sliced for sandwiches",
+      "answer": "BREAD",
+      "row": 5,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "When water rises and covers land that is usually dry",
+      "answer": "FLOOD",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge sea mammal that breathes through a blowhole",
+      "answer": "WHALE",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A metal disc on a ribbon given to winners",
+      "answer": "MEDAL",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 469

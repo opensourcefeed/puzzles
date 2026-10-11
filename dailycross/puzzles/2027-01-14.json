@@ -4,66 +4,73 @@
   "title": "2027-01-14",
   "words": [
     {
-      "clue": "A small stick that plugs in to store your files",
-      "answer": "FLASHDRIVE",
-      "row": 1,
+      "clue": "The sport with hoops, dribbling and slam dunks",
+      "answer": "BASKETBALL",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A black woodwind instrument with a reed and silver keys",
+      "answer": "CLARINET",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 0,
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A tiny dried seed often cooked into soup or dal",
+      "answer": "LENTIL",
+      "row": 10,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 4,
-      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
+      "clue": "The rainbow color between blue and violet",
+      "answer": "INDIGO",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of old",
+      "answer": "YOUNG",
       "row": 1,
-      "col": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You cut your food with this",
+      "answer": "KNIFE",
+      "row": 7,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "How you feel when something frightens you",
-      "answer": "SCARED",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The short, thick finger that helps you grip",
-      "answer": "THUMB",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A very pale yellow, like the top of milk",
-      "answer": "CREAM",
-      "row": 6,
-      "col": 9,
+      "clue": "A little picture you tap to open something",
+      "answer": "ICON",
+      "row": 3,
+      "col": 8,
       "direction": "across"
     }
   ],

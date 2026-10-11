@@ -4,66 +4,74 @@
   "title": "2028-04-28",
   "words": [
     {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "It makes a pencil pointy again",
-      "answer": "SHARPENER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who cuts and sells meat",
-      "answer": "BUTCHER",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who grows crops and raises animals",
-      "answer": "FARMER",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A slow animal that carries its shell around",
-      "answer": "TURTLE",
-      "row": 12,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
-      "row": 4,
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A spot where water flows out of the ground",
-      "answer": "SPRING",
+      "clue": "A bushy-tailed animal that hides nuts for winter",
+      "answer": "SQUIRREL",
       "row": 0,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A black woodwind instrument with a reed and silver keys",
+      "answer": "CLARINET",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The short, thick finger that helps you grip",
+      "answer": "THUMB",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A group who play together against another group",
+      "answer": "TEAM",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The rough outer covering of a tree trunk",
+      "answer": "BARK",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The biggest brass instrument, with a deep, low sound",
+      "answer": "TUBA",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A green plant with feathery leaves and no flowers",
+      "answer": "FERN",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A flower before it opens up",
+      "answer": "BUD",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     }
   ],

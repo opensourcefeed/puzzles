@@ -4,66 +4,73 @@
   "title": "2027-10-23",
   "words": [
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 5,
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
+      "row": 4,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A pad of blank pages for your notes",
+      "answer": "NOTEBOOK",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A very long-distance running race",
-      "answer": "MARATHON",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "It clips sheets of paper together",
-      "answer": "STAPLER",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The airless empty space between the stars",
-      "answer": "VACUUM",
-      "row": 2,
+      "clue": "The part that makes a car go",
+      "answer": "ENGINE",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A cloud of gas and dust where new stars are born",
-      "answer": "NEBULA",
-      "row": 11,
+      "clue": "The person who flies an airplane",
+      "answer": "PILOT",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You sweep the floor with it",
+      "answer": "BROOM",
+      "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A sweet, sticky food made by bees",
-      "answer": "HONEY",
-      "row": 3,
+      "clue": "A dish of raw leafy vegetables",
+      "answer": "SALAD",
+      "row": 4,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
+      "clue": "How you feel after doing something really well",
+      "answer": "PROUD",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The hard parts that make up your skeleton",
+      "answer": "BONES",
       "row": 0,
-      "col": 12,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A white drink that comes from cows",
+      "answer": "MILK",
+      "row": 5,
+      "col": 1,
       "direction": "down"
     }
   ],

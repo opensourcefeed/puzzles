@@ -4,126 +4,155 @@
   "title": "Level 141",
   "words": [
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Sports like running, jumping, and throwing",
-      "answer": "ATHLETICS",
-      "row": 6,
-      "col": 2,
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A big pile of snow blown together by the wind",
-      "answer": "SNOWDRIFT",
-      "row": 6,
-      "col": 11,
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling fidgety and unable to sit still",
-      "answer": "RESTLESS",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "To split a number into equal parts",
-      "answer": "DIVIDE",
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
       "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The tap that water comes out of",
-      "answer": "FAUCET",
-      "row": 14,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The little seed hidden inside a shell, like in a nut",
-      "answer": "KERNEL",
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
       "row": 1,
-      "col": 7,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 8,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "You hang clothes on it in the wardrobe",
-      "answer": "HANGER",
-      "row": 12,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Soft, wet land that is often flooded",
-      "answer": "MARSH",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A yellow citrus fruit with a very sour taste",
-      "answer": "LEMON",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A fluffy farm animal that gives us wool",
-      "answer": "SHEEP",
+      "clue": "Glad that a worry is finally over",
+      "answer": "RELIEVED",
       "row": 2,
-      "col": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
+      "row": 8,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 14,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The fastest runner on land, covered in spots",
+      "answer": "CHEETAH",
       "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A cold, treeless land where the ground stays frozen",
+      "answer": "TUNDRA",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The power to make things move, heat up, or light up",
+      "answer": "ENERGY",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Drops of water that fall from the clouds",
-      "answer": "RAIN",
-      "row": 12,
+      "clue": "A very deep valley carved by a river, like the Grand one in Arizona",
+      "answer": "CANYON",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 9,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Always wanting more than your share",
+      "answer": "GREEDY",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A passage that goes through a mountain or under a river",
+      "answer": "TUNNEL",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A group who play together against another group",
-      "answer": "TEAM",
+      "clue": "A round dent on the Moon made by a crashing space rock",
+      "answer": "CRATER",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A glass shape that splits light into a rainbow",
+      "answer": "PRISM",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The black dot in the middle of your eye, or a student",
+      "answer": "PUPIL",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The muscle at the back of your lower leg, or a baby cow",
+      "answer": "CALF",
       "row": 5,
-      "col": 8,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "An unwanted plant growing in a garden",
+      "answer": "WEED",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Part of the sea that curves into the land",
+      "answer": "BAY",
+      "row": 12,
+      "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 21,
   "targetWords": 24,
   "difficulty": "hard"
 }

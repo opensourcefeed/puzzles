@@ -4,66 +4,73 @@
   "title": "2027-07-26",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A car the police use to chase and catch criminals",
-      "answer": "POLICECAR",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
       "clue": "Someone riding in a vehicle but not driving",
       "answer": "PASSENGER",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The strap that keeps you safe in a car seat",
-      "answer": "SEATBELT",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 10,
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The planet that spins on its side",
-      "answer": "URANUS",
-      "row": 5,
+      "clue": "A giant reptile that lived millions of years ago, like T. rex",
+      "answer": "DINOSAUR",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A big area covered with lots of trees",
+      "answer": "FOREST",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A computer that folds shut so you can carry it",
+      "answer": "LAPTOP",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Do, re, mi, fa, so, la, ti, do",
+      "answer": "SCALE",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A tray on a desk for incoming papers",
-      "answer": "INBOX",
-      "row": 6,
-      "col": 9,
+      "clue": "A small boat for one, with a double-ended paddle",
+      "answer": "KAYAK",
+      "row": 2,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A tiny animal that loves cheese",
-      "answer": "MOUSE",
+      "clue": "The skin on top of your head where hair grows",
+      "answer": "SCALP",
       "row": 0,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The muscle at the back of your lower leg, or a baby cow",
+      "answer": "CALF",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a stop sign and strawberries",
+      "answer": "RED",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     }
   ],

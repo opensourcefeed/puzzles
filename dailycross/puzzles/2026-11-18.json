@@ -4,66 +4,73 @@
   "title": "2026-11-18",
   "words": [
     {
-      "clue": "Wireless tech that connects nearby devices",
-      "answer": "BLUETOOTH",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A very tall, steep, rocky peak",
-      "answer": "MOUNTAIN",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ that breaks down the food you eat",
-      "answer": "STOMACH",
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
       "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The loud boom after a flash of lightning",
-      "answer": "THUNDER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that takes photos",
-      "answer": "CAMERA",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of a song that repeats each time",
-      "answer": "CHORUS",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A pinkish-orange color",
-      "answer": "CORAL",
+      "clue": "A giant reptile that lived millions of years ago, like T. rex",
+      "answer": "DINOSAUR",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A group who play together against another group",
-      "answer": "TEAM",
-      "row": 0,
+      "clue": "A shape with eight sides, like a stop sign",
+      "answer": "OCTAGON",
+      "row": 2,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Water and juice are both in this state of matter",
+      "answer": "LIQUID",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round solid, like a ball",
+      "answer": "SPHERE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A green animal that hops and says ribbit",
+      "answer": "FROG",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The dirt that plants grow in",
+      "answer": "SOIL",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A streetcar that runs on rails along city roads",
+      "answer": "TRAM",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A sticky strip for holding things together",
+      "answer": "TAPE",
+      "row": 4,
+      "col": 9,
       "direction": "across"
     }
   ],

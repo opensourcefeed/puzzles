@@ -4,59 +4,59 @@
   "title": "2026-12-09",
   "words": [
     {
-      "clue": "A person who writes computer code",
-      "answer": "PROGRAMMER",
-      "row": 3,
+      "clue": "A shape like a door: two long sides and two short",
+      "answer": "RECTANGLE",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Many days in a row of very hot weather",
+      "answer": "HEATWAVE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid with two round ends, like a can",
+      "answer": "CYLINDER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
+      "clue": "A warm cover you sleep under",
+      "answer": "BLANKET",
       "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A cart pulled by a horse to carry people",
-      "answer": "CARRIAGE",
-      "row": 1,
-      "col": 1,
+      "clue": "The hard parts that make up your skeleton",
+      "answer": "BONES",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "It hangs on the wall and tells you the time",
+      "answer": "CLOCK",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "Feeling calm and not worried at all",
-      "answer": "RELAXED",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A day when the sky is full of clouds",
-      "answer": "CLOUDY",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A game between two players or two teams",
-      "answer": "MATCH",
-      "row": 9,
-      "col": 2,
+      "clue": "The opposite of a friend",
+      "answer": "ENEMY",
+      "row": 6,
+      "col": 9,
       "direction": "across"
     }
   ],

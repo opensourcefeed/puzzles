@@ -4,67 +4,74 @@
   "title": "2028-02-12",
   "words": [
     {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 3,
+      "clue": "You slip it between pages to save your place",
+      "answer": "BOOKMARK",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
+      "clue": "Kind and easy to get along with",
+      "answer": "FRIENDLY",
       "row": 3,
-      "col": 10,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 0,
+      "clue": "Someone who delivers parcels to your door",
+      "answer": "COURIER",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small oval nut with a mild, sweet flavor",
+      "answer": "ALMOND",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "You sweep dirt into it using a broom",
-      "answer": "DUSTPAN",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A string instrument you strum or pluck",
-      "answer": "GUITAR",
+      "clue": "A strong-smelling bulb used to flavor cooking",
+      "answer": "GARLIC",
       "row": 2,
-      "col": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge group of billions of stars, like the Milky Way",
+      "answer": "GALAXY",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "How you feel when something good happens; full of smiles",
+      "answer": "HAPPY",
+      "row": 5,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
+      "clue": "A device you use to call people far away",
+      "answer": "PHONE",
       "row": 8,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "One colorful piece of a flower",
-      "answer": "PETAL",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Talking with typed messages online",
-      "answer": "CHAT",
-      "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A seat with a back and four legs, for one person",
+      "answer": "CHAIR",
+      "row": 6,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "You hear with this",
+      "answer": "EAR",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 610

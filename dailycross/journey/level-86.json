@@ -4,91 +4,119 @@
   "title": "Level 86",
   "words": [
     {
-      "clue": "A red truck that carries firefighters and hoses",
-      "answer": "FIRETRUCK",
-      "row": 4,
-      "col": 1,
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Furniture with shelves for holding your books",
-      "answer": "BOOKSHELF",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A bird that spreads a huge, colorful tail",
-      "answer": "PEACOCK",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A tilted square shape, seen on playing cards",
-      "answer": "DIAMOND",
-      "row": 2,
+      "clue": "A squeezebox instrument with buttons or keys",
+      "answer": "ACCORDION",
+      "row": 6,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 4,
-      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 5,
-      "col": 1,
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A tool for measuring and drawing straight lines",
-      "answer": "RULER",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
+      "clue": "The natural home of an animal or plant",
+      "answer": "HABITAT",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "The color of grass and leaves",
-      "answer": "GREEN",
-      "row": 7,
+      "clue": "A collection of pages you visit online",
+      "answer": "WEBSITE",
+      "row": 2,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A small vehicle for traveling on water",
-      "answer": "BOAT",
+      "clue": "A round vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A leafy green used to make salad",
+      "answer": "LETTUCE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
       "row": 0,
-      "col": 7,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "To move through water using your arms and legs",
-      "answer": "SWIM",
-      "row": 5,
-      "col": 9,
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 11,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "Sliding down snowy mountains on two long boards",
+      "answer": "SKIING",
+      "row": 14,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of leave",
+      "answer": "ARRIVE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that takes photos",
+      "answer": "CAMERA",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 9,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Another name for your belly button",
+      "answer": "NAVEL",
+      "row": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The row of bones running down your back",
+      "answer": "SPINE",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A push or a pull",
+      "answer": "FORCE",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 16,
   "targetWords": 16,
   "difficulty": "medium"
 }

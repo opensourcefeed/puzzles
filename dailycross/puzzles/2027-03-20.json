@@ -4,67 +4,74 @@
   "title": "2027-03-20",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 7,
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 3,
+      "clue": "Someone who delivers parcels to your door",
+      "answer": "COURIER",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "It turns paper pages into computer files",
-      "answer": "SCANNER",
-      "row": 7,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A shiny brass instrument with a bright sound",
-      "answer": "TRUMPET",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A big vehicle for carrying goods by road",
-      "answer": "TRUCK",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A small hill of earth",
-      "answer": "MOUND",
+      "clue": "A smart, playful sea mammal that loves to leap and click",
+      "answer": "DOLPHIN",
       "row": 0,
-      "col": 9,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A vehicle that blasts off into space",
+      "answer": "ROCKET",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who speaks for you in court",
+      "answer": "LAWYER",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Caring and gentle toward others",
+      "answer": "KIND",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A green animal that hops and says ribbit",
+      "answer": "FROG",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for pouring water",
+      "answer": "JUG",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 281

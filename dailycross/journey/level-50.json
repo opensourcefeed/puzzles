@@ -4,84 +4,92 @@
   "title": "Level 50",
   "words": [
     {
-      "clue": "A small pouch that holds your pens and pencils",
-      "answer": "PENCILCASE",
-      "row": 5,
-      "col": 0,
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A secret code that unlocks your account",
+      "answer": "PASSWORD",
       "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "You use it to change the TV channel from your seat",
+      "answer": "REMOTE",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Being kind and nice to other people",
-      "answer": "FRIENDLY",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person whose job is to paint walls and buildings",
-      "answer": "PAINTER",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The loud boom after a flash of lightning",
-      "answer": "THUNDER",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You use this to taste your food",
-      "answer": "TONGUE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
+      "clue": "A device that takes photos",
+      "answer": "CAMERA",
       "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The colorful, sweet-smelling part of a plant",
+      "answer": "FLOWER",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The yellow dust made by flowers",
-      "answer": "POLLEN",
-      "row": 12,
+      "clue": "Bright weather with no clouds at all",
+      "answer": "CLEAR",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The soft side of your face below your eye",
+      "answer": "CHEEK",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A fine powder made from wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The shape you draw on a valentine card",
-      "answer": "HEART",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Drops of water that fall from the clouds",
-      "answer": "RAIN",
-      "row": 7,
+      "clue": "A flat dish you eat your dinner off",
+      "answer": "PLATE",
+      "row": 9,
       "col": 9,
-      "direction": "across"
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 12,
   "targetWords": 12,
   "difficulty": "medium"
 }

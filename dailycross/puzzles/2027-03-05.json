@@ -4,67 +4,74 @@
   "title": "2027-03-05",
   "words": [
     {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
-      "row": 3,
+      "clue": "The person who stamps your books and helps you find the next one",
+      "answer": "LIBRARIAN",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The instrument family that includes the violin, cello, and guitar",
-      "answer": "STRINGS",
-      "row": 3,
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who works on a ship out at sea",
+      "answer": "SAILOR",
+      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A string instrument you strum or pluck",
-      "answer": "GUITAR",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your foot to your leg",
-      "answer": "ANKLE",
+      "clue": "The opposite of open",
+      "answer": "CLOSED",
       "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The joint that lets your arm bend",
-      "answer": "ELBOW",
-      "row": 6,
-      "col": 6,
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The opposite of early",
-      "answer": "LATE",
-      "row": 0,
+      "clue": "A nut that grows underground and is made into butter",
+      "answer": "PEANUT",
+      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A reddish-brown, like old iron",
-      "answer": "RUST",
-      "row": 1,
+      "clue": "A cardboard cover that keeps loose papers together",
+      "answer": "FOLDER",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A book full of maps",
+      "answer": "ATLAS",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The organ in your chest that pumps blood",
+      "answer": "HEART",
+      "row": 9,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A tall instrument you play by plucking its strings",
-      "answer": "HARP",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
+      "clue": "How you feel when there is nothing to do",
+      "answer": "BORED",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 266

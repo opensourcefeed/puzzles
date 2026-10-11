@@ -4,66 +4,73 @@
   "title": "2028-02-09",
   "words": [
     {
-      "clue": "A device that does math problems for you",
-      "answer": "CALCULATOR",
-      "row": 5,
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Sports like running, jumping, and throwing",
-      "answer": "ATHLETICS",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A tilted square shape, seen on playing cards",
-      "answer": "DIAMOND",
+      "clue": "A waterproof coat for wet days",
+      "answer": "RAINCOAT",
       "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A person who helps sick people get better",
-      "answer": "DOCTOR",
-      "row": 9,
+      "clue": "A brass instrument with a sliding tube",
+      "answer": "TROMBONE",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 11,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The shape you draw on a valentine card",
-      "answer": "HEART",
+      "clue": "Another word for a tap",
+      "answer": "FAUCET",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
       "row": 7,
-      "col": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Weather with strong, blowing winds",
-      "answer": "WINDY",
-      "row": 0,
+      "clue": "The person who flies an airplane",
+      "answer": "PILOT",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A tray on a desk for incoming papers",
-      "answer": "INBOX",
+      "clue": "The opposite of light, when you lift something",
+      "answer": "HEAVY",
       "row": 1,
-      "col": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A big body of fresh water with land all around it",
+      "answer": "LAKE",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A friendly pet that barks and wags its tail",
+      "answer": "DOG",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     }
   ],

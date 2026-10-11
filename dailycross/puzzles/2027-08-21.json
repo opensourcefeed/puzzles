@@ -4,67 +4,74 @@
   "title": "2027-08-21",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 3,
-      "col": 0,
+      "clue": "An appliance that heats food really fast",
+      "answer": "MICROWAVE",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
-      "row": 2,
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep, dark green like trees in the woods",
-      "answer": "FOREST",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who cares for patients and helps doctors",
-      "answer": "NURSE",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your foot to your leg",
-      "answer": "ANKLE",
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
       "row": 1,
       "col": 7,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 10,
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The opposite of fast",
-      "answer": "SLOW",
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The cold cupboard that keeps your food fresh",
+      "answer": "FRIDGE",
       "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of full",
+      "answer": "EMPTY",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of back",
+      "answer": "FRONT",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the straight edges of a shape",
+      "answer": "SIDE",
+      "row": 3,
       "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "2, 4, 6 and 8 are all ___ numbers",
+      "answer": "EVEN",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 435

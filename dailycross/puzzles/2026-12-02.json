@@ -4,67 +4,68 @@
   "title": "2026-12-02",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The little hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who writes books and stories",
-      "answer": "WRITER",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Showing that you care about others",
-      "answer": "CARING",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A round vegetable with layers that makes you cry",
-      "answer": "ONION",
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "It hangs on the wall and tells you the time",
-      "answer": "CLOCK",
-      "row": 2,
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A mountain that can erupt with hot lava",
+      "answer": "VOLCANO",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A crunchy green vegetable with long stalks",
+      "answer": "CELERY",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of expensive",
+      "answer": "CHEAP",
+      "row": 0,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A sweet, sticky food made by bees",
-      "answer": "HONEY",
-      "row": 5,
-      "col": 8,
+      "clue": "How you feel when something good happens; full of smiles",
+      "answer": "HAPPY",
+      "row": 1,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The color of chocolate and tree bark",
+      "answer": "BROWN",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "To say numbers in order: one, two, three...",
+      "answer": "COUNT",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 173

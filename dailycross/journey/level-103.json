@@ -4,119 +4,127 @@
   "title": "Level 103",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
       "clue": "A four-sided shape with just one pair of parallel sides",
       "answer": "TRAPEZOID",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 14,
-      "col": 5,
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A purple flower known for its calming smell",
-      "answer": "LAVENDER",
-      "row": 2,
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 5,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A cart pulled by a horse to carry people",
-      "answer": "CARRIAGE",
-      "row": 4,
-      "col": 0,
+      "clue": "A line joining two opposite corners",
+      "answer": "DIAGONAL",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 3,
-      "col": 0,
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
+      "row": 7,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "An animal that swings from tree branches",
-      "answer": "MONKEY",
-      "row": 5,
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
+      "row": 1,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A shiny light gray, like the metal",
-      "answer": "SILVER",
-      "row": 9,
-      "col": 4,
+      "clue": "A sudden, very heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A bright green gemstone",
+      "answer": "EMERALD",
+      "row": 8,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A small string instrument played with a bow",
-      "answer": "VIOLIN",
-      "row": 11,
+      "clue": "Very light rain falling in fine drops",
+      "answer": "DRIZZLE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A cloud of gas and dust where new stars are born",
+      "answer": "NEBULA",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Pleasant sounds put together for us to enjoy",
-      "answer": "MUSIC",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A pinkish-orange color",
-      "answer": "CORAL",
-      "row": 1,
-      "col": 5,
+      "clue": "The opposite of a friend",
+      "answer": "ENEMY",
+      "row": 10,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The end of your arm with fingers and a thumb",
-      "answer": "HAND",
-      "row": 11,
-      "col": 8,
+      "clue": "The black dot in the middle of your eye, or a student",
+      "answer": "PUPIL",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Information stored on a computer",
+      "answer": "DATA",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 17,
   "targetWords": 19,
   "difficulty": "hard"
 }

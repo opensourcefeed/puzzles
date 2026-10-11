@@ -4,74 +4,75 @@
   "title": "2026-11-01",
   "words": [
     {
-      "clue": "A sport where you throw a ball through a high hoop",
-      "answer": "BASKETBALL",
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
       "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
-      "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 6,
-      "col": 11,
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A shiny brass instrument with a bright sound",
-      "answer": "TRUMPET",
-      "row": 13,
+      "clue": "A bag with two straps that you carry your books in",
+      "answer": "BACKPACK",
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A grain that is ground into flour for bread",
-      "answer": "WHEAT",
-      "row": 10,
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A bat-and-ball game hugely popular in India and England",
+      "answer": "CRICKET",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "How you might feel before a big test or show",
+      "answer": "NERVOUS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A structure that carries a road over water",
+      "answer": "BRIDGE",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A soft orange-pink, like the fruit",
-      "answer": "PEACH",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
+      "clue": "A food made from milk that cartoon mice love",
+      "answer": "CHEESE",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A sailing boat used for racing or holidays",
+      "answer": "YACHT",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 142

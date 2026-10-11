@@ -4,112 +4,128 @@
   "title": "Level 128",
   "words": [
     {
-      "clue": "You use it to clean your teeth",
-      "answer": "TOOTHBRUSH",
-      "row": 5,
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
+      "row": 6,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
+      "clue": "Instruments you hit or shake, like drums",
+      "answer": "PERCUSSION",
       "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who runs a library and helps you find books",
-      "answer": "LIBRARIAN",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport where you hit a shuttlecock over a net",
-      "answer": "BADMINTON",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "An electronic machine that runs programs",
-      "answer": "COMPUTER",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A little bit of water in the air",
-      "answer": "MOISTURE",
-      "row": 4,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 2,
       "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of moving fast on your feet",
-      "answer": "RUNNING",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who is really good at sports",
-      "answer": "ATHLETE",
-      "row": 0,
-      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A device that takes photos",
-      "answer": "CAMERA",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 7,
-      "col": 8,
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
       "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
+      "row": 2,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A baked food made from flour, sliced for sandwiches",
-      "answer": "BREAD",
-      "row": 3,
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 0,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The biggest animal in the ocean",
-      "answer": "WHALE",
-      "row": 11,
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
+      "row": 0,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The answer you get when you multiply",
+      "answer": "PRODUCT",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who sews and alters clothes",
+      "answer": "TAILOR",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 8,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Three or more notes played at the same time",
+      "answer": "CHORD",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A dull yellow-brown, like army uniforms",
+      "answer": "KHAKI",
+      "row": 9,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The colored ring in your eye",
+      "answer": "IRIS",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "An unwanted plant growing in a garden",
+      "answer": "WEED",
+      "row": 2,
+      "col": 11,
+      "direction": "across"
+    },
+    {
+      "clue": "Air and steam are both in this state of matter",
+      "answer": "GAS",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 17,
   "targetWords": 22,
   "difficulty": "hard"
 }

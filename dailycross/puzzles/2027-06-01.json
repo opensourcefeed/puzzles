@@ -4,73 +4,73 @@
   "title": "2027-06-01",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
+      "clue": "Bright and full of good spirits",
+      "answer": "CHEERFUL",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
       "row": 0,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A person who travels into space",
-      "answer": "ASTRONAUT",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You flip it to turn a light on or off",
-      "answer": "SWITCH",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest finger on your hand",
-      "answer": "PINKY",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of day",
-      "answer": "NIGHT",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A big animal that people ride",
-      "answer": "HORSE",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of polite",
-      "answer": "RUDE",
+      "clue": "A green fruit with a big pit, mashed into guacamole",
+      "answer": "AVOCADO",
       "row": 2,
-      "col": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of start",
+      "answer": "FINISH",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Always wanting more than your share",
+      "answer": "GREEDY",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall, steep rock face",
+      "answer": "CLIFF",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A single musical sound",
+      "answer": "NOTE",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of a stop sign and strawberries",
+      "answer": "RED",
+      "row": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small metal tool that opens a lock",
+      "answer": "KEY",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     }
   ],

@@ -4,73 +4,73 @@
   "title": "2027-08-27",
   "words": [
     {
-      "clue": "A machine that washes the dirty dishes",
-      "answer": "DISHWASHER",
-      "row": 5,
-      "col": 0,
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool that makes faraway things look close",
-      "answer": "TELESCOPE",
-      "row": 4,
+      "clue": "A scientist who studies animals",
+      "answer": "ZOOLOGIST",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 8,
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The matching clothes a team wears",
+      "answer": "UNIFORM",
+      "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A sport where you hit a ball over a net with a racket",
-      "answer": "TENNIS",
-      "row": 0,
+      "clue": "A small group of trees, often fruit trees",
+      "answer": "GROVE",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A pale sandy color, like milky coffee",
+      "answer": "BEIGE",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "You sweep the floor with it",
+      "answer": "BROOM",
+      "row": 13,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A giant ball of burning gas that twinkles at night",
+      "answer": "STAR",
+      "row": 9,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who catches fish for a living",
-      "answer": "FISHER",
-      "row": 7,
+      "clue": "The opposite of up",
+      "answer": "DOWN",
+      "row": 1,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A pinkish-orange color",
-      "answer": "CORAL",
-      "row": 10,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of easy",
-      "answer": "HARD",
-      "row": 5,
-      "col": 3,
       "direction": "down"
     }
   ],

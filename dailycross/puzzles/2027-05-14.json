@@ -4,58 +4,72 @@
   "title": "2027-05-14",
   "words": [
     {
-      "clue": "A curvy metal instrument played with a reed",
+      "clue": "A red, heart-shaped fruit with seeds on the outside",
+      "answer": "STRAWBERRY",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A curvy metal instrument played with a reed, popular in jazz",
       "answer": "SAXOPHONE",
-      "row": 2,
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with five straight sides",
+      "answer": "PENTAGON",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The blinking line or arrow that shows where you are on screen",
+      "answer": "CURSOR",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of chocolate and tree bark",
+      "answer": "BROWN",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A metal disc on a ribbon given to winners",
+      "answer": "MEDAL",
+      "row": 4,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person who gathers and tells the news",
-      "answer": "REPORTER",
+      "clue": "A small group of trees, often fruit trees",
+      "answer": "GROVE",
       "row": 0,
-      "col": 7,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
+      "clue": "A race where teammates take turns and pass a baton",
+      "answer": "RELAY",
       "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dark gray, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 0,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The force that keeps planets circling the Sun",
-      "answer": "GRAVITY",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A spiky desert plant that stores water",
-      "answer": "CACTUS",
+      "clue": "The middle color of a traffic light; also hardened tree resin",
+      "answer": "AMBER",
       "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet we live on",
-      "answer": "EARTH",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 4,
       "col": 0,
       "direction": "across"
     }

@@ -4,67 +4,74 @@
   "title": "2027-02-26",
   "words": [
     {
-      "clue": "A device that does math problems for you",
-      "answer": "CALCULATOR",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, bright blue like the daytime sky",
-      "answer": "SKYBLUE",
-      "row": 10,
+      "clue": "A small hand drum with jingling metal discs",
+      "answer": "TAMBOURINE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 0,
-      "col": 8,
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A very dry place that gets little rain",
-      "answer": "DESERT",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Weather with strong, blowing winds",
-      "answer": "WINDY",
-      "row": 6,
+      "clue": "A vehicle that rushes sick people to the hospital",
+      "answer": "AMBULANCE",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
-      "row": 6,
-      "col": 11,
+      "clue": "A pad of blank pages for your notes",
+      "answer": "NOTEBOOK",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
+      "row": 3,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "A strong farm vehicle that pulls heavy loads",
+      "answer": "TRACTOR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat touchscreen device, bigger than a phone; also a pill",
+      "answer": "TABLET",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The path one object takes as it circles another",
+      "answer": "ORBIT",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 259

@@ -4,49 +4,56 @@
   "title": "Level 16",
   "words": [
     {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
-      "row": 6,
+      "clue": "The room where your lessons happen",
+      "answer": "CLASSROOM",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who fixes water pipes and taps",
-      "answer": "PLUMBER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
+      "clue": "Soft shoes made for running and sports",
+      "answer": "SNEAKERS",
       "row": 2,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Showing lots of love and affection",
-      "answer": "LOVING",
-      "row": 1,
-      "col": 5,
+      "clue": "The force that pulls things down and keeps planets circling the Sun",
+      "answer": "GRAVITY",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a device that shows pictures and words",
+      "answer": "SCREEN",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 4,
-      "col": 1,
+      "clue": "A person who writes books",
+      "answer": "AUTHOR",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A white stick for writing on a blackboard",
+      "answer": "CHALK",
+      "row": 2,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A huge body of salty water",
-      "answer": "OCEAN",
-      "row": 4,
-      "col": 8,
+      "clue": "A striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 7,
   "targetWords": 7,
   "difficulty": "easy"
 }

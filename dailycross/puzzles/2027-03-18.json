@@ -4,73 +4,73 @@
   "title": "2027-03-18",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
       "row": 7,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 3,
+      "clue": "Annoyed because something keeps going wrong",
+      "answer": "FRUSTRATED",
+      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried about what might happen",
-      "answer": "NERVOUS",
-      "row": 7,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of deep",
-      "answer": "SHALLOW",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A woven container for carrying things",
-      "answer": "BASKET",
-      "row": 13,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who helps sick people get better",
-      "answer": "DOCTOR",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A city bird once used to carry messages",
-      "answer": "PIGEON",
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
       "row": 0,
-      "col": 8,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A baked food made from flour, sliced for sandwiches",
-      "answer": "BREAD",
-      "row": 9,
-      "col": 4,
+      "clue": "A person who plays an instrument or sings",
+      "answer": "MUSICIAN",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 2,
+      "clue": "The dirt that plants grow in",
+      "answer": "SOIL",
+      "row": 5,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "An unwanted plant growing in a garden",
+      "answer": "WEED",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The colored ring in your eye",
+      "answer": "IRIS",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The red planet, fourth from the Sun",
+      "answer": "MARS",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A hill of sand shaped by the wind",
+      "answer": "DUNE",
+      "row": 9,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Music performed by just one person",
+      "answer": "SOLO",
+      "row": 6,
+      "col": 3,
       "direction": "down"
     }
   ],

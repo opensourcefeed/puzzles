@@ -4,77 +4,105 @@
   "title": "Level 65",
   "words": [
     {
-      "clue": "A tiny chip that stores photos inside a camera",
-      "answer": "MEMORYCARD",
+      "clue": "A device that does sums for you",
+      "answer": "CALCULATOR",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The curved shape of a thin new moon",
+      "answer": "CRESCENT",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Riding ocean waves on a board",
+      "answer": "SURFING",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Any flat shape made only of straight sides",
+      "answer": "POLYGON",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The bag-like organ that breaks down the food you eat",
+      "answer": "STOMACH",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The matching clothes a team wears",
+      "answer": "UNIFORM",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The corner point where two lines meet",
+      "answer": "VERTEX",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where you hit a ball over a net with a racket",
+      "answer": "TENNIS",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who runs a library and helps you find books",
-      "answer": "LIBRARIAN",
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
       "row": 4,
-      "col": 4,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 14,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A book of blank pages for your notes",
-      "answer": "NOTEBOOK",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with a flat base and sides meeting at a point",
-      "answer": "PYRAMID",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A place on a computer for keeping files together",
-      "answer": "FOLDER",
-      "row": 8,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The shape you draw on a valentine card",
-      "answer": "HEART",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A green, watery spot in the middle of a desert",
-      "answer": "OASIS",
+      "clue": "You eat soup and cereal with this",
+      "answer": "SPOON",
       "row": 2,
-      "col": 6,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "Acting funny and foolish to make people laugh",
+      "answer": "SILLY",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The big cat with a shaggy mane, called king of the jungle",
+      "answer": "LION",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 14,
   "targetWords": 14,
   "difficulty": "medium"
 }

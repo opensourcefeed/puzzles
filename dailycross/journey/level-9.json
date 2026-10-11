@@ -4,42 +4,49 @@
   "title": "Level 9",
   "words": [
     {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
-      "row": 2,
+      "clue": "A bright flash in the sky during a storm",
+      "answer": "LIGHTNING",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
+      "clue": "A big arena with rows of seats for watching sports",
+      "answer": "STADIUM",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who is really good at sports",
+      "answer": "ATHLETE",
       "row": 1,
-      "col": 6,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The corner point where two lines meet",
-      "answer": "VERTEX",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Connected cars that run along railway tracks",
-      "answer": "TRAIN",
-      "row": 6,
-      "col": 2,
+      "clue": "The opposite of never",
+      "answer": "ALWAYS",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A big orange cat with black stripes",
-      "answer": "TIGER",
-      "row": 1,
-      "col": 1,
+      "clue": "The color of chocolate and tree bark",
+      "answer": "BROWN",
+      "row": 0,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "A person whose job is to protect a place",
+      "answer": "GUARD",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

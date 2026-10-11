@@ -4,112 +4,140 @@
   "title": "Level 105",
   "words": [
     {
-      "clue": "A half-circle tool for measuring angles",
-      "answer": "PROTRACTOR",
+      "clue": "A plank on four little wheels for tricks at the park",
+      "answer": "SKATEBOARD",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A person who designs buildings",
-      "answer": "ARCHITECT",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who takes care of plants and gardens",
-      "answer": "GARDENER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "How much rain has fallen",
-      "answer": "RAINFALL",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
-      "row": 2,
+      "clue": "A device that does sums for you",
+      "answer": "CALCULATOR",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "It shows pictures big on a screen or wall",
+      "answer": "PROJECTOR",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
       "row": 14,
-      "col": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 3,
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 0,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Feeling worried about what might happen",
-      "answer": "NERVOUS",
+      "clue": "The joint that connects your arm to your body",
+      "answer": "SHOULDER",
       "row": 12,
-      "col": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 14,
-      "col": 0,
+      "clue": "A small, crunchy red root with a peppery taste",
+      "answer": "RADISH",
+      "row": 10,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 0,
-      "col": 4,
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The Sun and its planets: the solar ___",
-      "answer": "SYSTEM",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of grass and leaves",
-      "answer": "GREEN",
+      "clue": "The row of bones running down your back",
+      "answer": "SPINE",
       "row": 10,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The body part you think with",
-      "answer": "BRAIN",
-      "row": 2,
-      "col": 8,
+      "clue": "The opposite of back",
+      "answer": "FRONT",
+      "row": 13,
+      "col": 9,
       "direction": "across"
+    },
+    {
+      "clue": "A dwarf planet once called the ninth planet",
+      "answer": "PLUTO",
+      "row": 9,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of polite",
+      "answer": "RUDE",
+      "row": 10,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A green plant with feathery leaves and no flowers",
+      "answer": "FERN",
+      "row": 11,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The curved bones that cage your heart and lungs",
+      "answer": "RIBS",
+      "row": 5,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A hot tool that presses wrinkles out of clothes",
+      "answer": "IRON",
+      "row": 11,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 19,
   "targetWords": 19,
   "difficulty": "hard"
 }

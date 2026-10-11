@@ -4,66 +4,73 @@
   "title": "2028-04-21",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 3,
-      "col": 0,
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 2,
-      "col": 5,
+      "clue": "A person who builds things out of wood",
+      "answer": "CARPENTER",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The fuel that most cars run on",
-      "answer": "GASOLINE",
+      "clue": "Bright and full of good spirits",
+      "answer": "CHEERFUL",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Wanting what someone else has; green with envy",
+      "answer": "JEALOUS",
       "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 10,
+      "clue": "Really wanting to find out more",
+      "answer": "CURIOUS",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with six sides, like a honeycomb cell",
+      "answer": "HEXAGON",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
+      "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "What the sky and air are doing outside",
-      "answer": "WEATHER",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You look into it to see yourself",
-      "answer": "MIRROR",
-      "row": 7,
-      "col": 6,
+      "clue": "The part of a song that repeats after each verse",
+      "answer": "CHORUS",
+      "row": 11,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You use this to taste your food",
-      "answer": "TONGUE",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Pressing and releasing a mouse button",
-      "answer": "CLICK",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A grain with yellow kernels on a cob",
-      "answer": "CORN",
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
       "row": 6,
-      "col": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A farm animal with horns and a little beard",
+      "answer": "GOAT",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     }
   ],

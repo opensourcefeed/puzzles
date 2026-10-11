@@ -4,126 +4,133 @@
   "title": "Level 130",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
       "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that does math problems for you",
-      "answer": "CALCULATOR",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "An object that circles a planet to send signals",
-      "answer": "SATELLITE",
-      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A tool that makes faraway things look close",
-      "answer": "TELESCOPE",
-      "row": 6,
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
+      "row": 4,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 4,
-      "col": 6,
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
+      "row": 11,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The place where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 8,
-      "col": 8,
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who fixes water pipes and taps",
-      "answer": "PLUMBER",
+      "clue": "Glad that a worry is finally over",
+      "answer": "RELIEVED",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Extremely, red-faced mad",
+      "answer": "FURIOUS",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A thousand thousands",
+      "answer": "MILLION",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
       "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A long stretch of time with no rain",
-      "answer": "DROUGHT",
-      "row": 14,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep, dark green like trees in the woods",
-      "answer": "FOREST",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You use these to chew your food",
-      "answer": "TEETH",
-      "row": 14,
+      "clue": "A nut that grows underground and is made into butter",
+      "answer": "PEANUT",
+      "row": 5,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The opposite of old",
-      "answer": "YOUNG",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft orange-pink, like the fruit",
-      "answer": "PEACH",
-      "row": 10,
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 2,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 2,
-      "col": 9,
+      "clue": "A grain cooked into porridge",
+      "answer": "OATS",
+      "row": 10,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The steady pulse you tap your foot to",
-      "answer": "BEAT",
+      "clue": "The back part of your foot",
+      "answer": "HEEL",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A group of web pages that share one name",
-      "answer": "SITE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
+      "clue": "A green plant with feathery leaves and no flowers",
+      "answer": "FERN",
+      "row": 13,
+      "col": 2,
+      "direction": "across"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 18,
   "targetWords": 22,
   "difficulty": "hard"
 }

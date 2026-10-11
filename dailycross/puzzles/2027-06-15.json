@@ -4,74 +4,75 @@
   "title": "2027-06-15",
   "words": [
     {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 7,
+      "clue": "Annoyed because something keeps going wrong",
+      "answer": "FRUSTRATED",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A spiky tropical fruit, sweet and yellow inside",
-      "answer": "PINEAPPLE",
-      "row": 0,
+      "clue": "A red emergency vehicle with ladders and hoses",
+      "answer": "FIREENGINE",
+      "enumeration": "4,6",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A cabinet for storing food and dishes",
-      "answer": "CUPBOARD",
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
       "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A strong farm vehicle that pulls heavy loads",
-      "answer": "TRACTOR",
-      "row": 11,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 8,
-      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A hard hat that protects your head while riding",
-      "answer": "HELMET",
+      "clue": "The biggest ape, a gentle giant of the forest",
+      "answer": "GORILLA",
       "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 3,
-      "col": 3,
+      "clue": "A nut that grows underground and is made into butter",
+      "answer": "PEANUT",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A yellow citrus fruit with a very sour taste",
-      "answer": "LEMON",
-      "row": 8,
-      "col": 9,
+      "clue": "The flap of skin that closes when you blink",
+      "answer": "EYELID",
+      "row": 6,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "A round citrus fruit that shares its name with its color",
+      "answer": "ORANGE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round solid, like a ball",
+      "answer": "SPHERE",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "You look into it to see yourself",
+      "answer": "MIRROR",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The = sign means both sides are this",
+      "answer": "EQUAL",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "dayNumber": 368

@@ -4,74 +4,75 @@
   "title": "2027-01-20",
   "words": [
     {
-      "clue": "The special suit an astronaut wears in space",
-      "answer": "SPACESUIT",
-      "row": 6,
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Many days in a row of very hot weather",
-      "answer": "HEATWAVE",
-      "row": 5,
-      "col": 4,
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 3,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 8,
-      "col": 4,
+      "clue": "The flowers on a fruit tree in spring",
+      "answer": "BLOSSOM",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of deep",
+      "answer": "SHALLOW",
+      "row": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "An electronic machine that runs programs",
-      "answer": "COMPUTER",
-      "row": 3,
+      "clue": "The = sign means both sides are this",
+      "answer": "EQUAL",
+      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A book of blank pages for your notes",
-      "answer": "NOTEBOOK",
-      "row": 4,
+      "clue": "The person in charge of a courtroom",
+      "answer": "JUDGE",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 4,
-      "col": 0,
+      "clue": "A small woody plant, shorter than a tree",
+      "answer": "SHRUB",
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "How you feel when something is really unfair; very mad",
-      "answer": "ANGRY",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet we live on",
-      "answer": "EARTH",
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
       "row": 10,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 0,
-      "col": 3,
+      "clue": "The opposite of right",
+      "answer": "LEFT",
+      "row": 6,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A group of three musicians",
+      "answer": "TRIO",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 222

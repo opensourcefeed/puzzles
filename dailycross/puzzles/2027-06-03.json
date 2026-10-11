@@ -4,66 +4,73 @@
   "title": "2027-06-03",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A red truck that carries firefighters and hoses",
-      "answer": "FIRETRUCK",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
       "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Really interested and involved in something",
-      "answer": "ENGAGED",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "It turns paper pages into computer files",
-      "answer": "SCANNER",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet, sticky food made by bees",
-      "answer": "HONEY",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A thin layer of ice on cold surfaces",
-      "answer": "FROST",
-      "row": 4,
+      "clue": "A bag with two straps that you carry your books in",
+      "answer": "BACKPACK",
+      "row": 3,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of your face above your eyebrows",
+      "answer": "FOREHEAD",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The person who takes your money at the checkout",
+      "answer": "CASHIER",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "It travels faster than anything else and lets us see",
+      "answer": "LIGHT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A white stick for writing on a blackboard",
+      "answer": "CHALK",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A creature from another planet, in stories",
+      "answer": "ALIEN",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of polite",
+      "answer": "RUDE",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Moving air you can feel but not see",
+      "answer": "WIND",
+      "row": 8,
+      "col": 8,
       "direction": "down"
     }
   ],

@@ -4,59 +4,73 @@
   "title": "2028-02-07",
   "words": [
     {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A shiny brass instrument with a bright sound",
-      "answer": "TRUMPET",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A big place with rows of seats for watching sports",
-      "answer": "STADIUM",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "You look into it to see yourself",
-      "answer": "MIRROR",
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
       "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A pinkish-orange color",
-      "answer": "CORAL",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool for measuring how long something is",
-      "answer": "RULER",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 0,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Information that is stored on a computer",
-      "answer": "DATA",
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
       "row": 8,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The rainbow color between blue and violet",
+      "answer": "INDIGO",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of start",
+      "answer": "FINISH",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Rough weather with strong wind and heavy rain",
+      "answer": "STORM",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person whose job is to protect a place",
+      "answer": "GUARD",
+      "row": 11,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft white food made from soybeans",
+      "answer": "TOFU",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "It spins its blades to blow cool air",
+      "answer": "FAN",
+      "row": 2,
+      "col": 5,
       "direction": "across"
     }
   ],

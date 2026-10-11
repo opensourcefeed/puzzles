@@ -4,63 +4,91 @@
   "title": "Level 51",
   "words": [
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of generous",
-      "answer": "SELFISH",
-      "row": 7,
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Land with water all around it",
-      "answer": "ISLAND",
+      "clue": "A shape with six sides, like a honeycomb cell",
+      "answer": "HEXAGON",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The loud boom that follows a flash in a storm",
+      "answer": "THUNDER",
       "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Wanting what someone else has; green with envy",
+      "answer": "JEALOUS",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The yellow dust made by flowers",
-      "answer": "POLLEN",
-      "row": 0,
-      "col": 10,
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 5,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who writes books",
+      "answer": "AUTHOR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A black-and-white bear that munches on leafy stalks in China",
+      "answer": "PANDA",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 12,
   "targetWords": 12,
   "difficulty": "medium"
 }

@@ -4,67 +4,60 @@
   "title": "2027-10-29",
   "words": [
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
-      "row": 4,
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
+      "clue": "A tool with two blades for cutting paper",
+      "answer": "SCISSORS",
       "row": 1,
-      "col": 6,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A solid with two round ends, like a can",
-      "answer": "CYLINDER",
-      "row": 8,
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a song that repeats after each verse",
+      "answer": "CHORUS",
+      "row": 1,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A shape with eight sides, like a stop sign",
-      "answer": "OCTAGON",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A breakfast food you eat with milk",
-      "answer": "CEREAL",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The words of a song",
-      "answer": "LYRICS",
-      "row": 2,
+      "clue": "A strong-smelling bulb used to flavor cooking",
+      "answer": "GARLIC",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The place where water flows out of a lake",
-      "answer": "OUTLET",
-      "row": 10,
-      "col": 3,
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A metal disc on a ribbon given to winners",
+      "answer": "MEDAL",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The organ in your chest that pumps blood",
-      "answer": "HEART",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
+      "clue": "One of the five little digits on your foot",
+      "answer": "TOE",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 504

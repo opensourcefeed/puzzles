@@ -4,66 +4,73 @@
   "title": "2026-10-24",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
-      "row": 3,
-      "col": 0,
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The matching clothes a team wears",
-      "answer": "UNIFORM",
-      "row": 2,
-      "col": 9,
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
+      "clue": "The Sun and its planets: the solar ___",
+      "answer": "SYSTEM",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "You use it to control the TV from your seat",
-      "answer": "REMOTE",
-      "row": 3,
+      "clue": "To look something up on the internet",
+      "answer": "SEARCH",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 7,
-      "col": 7,
+      "clue": "A narrow boat you move with a paddle",
+      "answer": "CANOE",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A plant that climbs up walls and trees",
-      "answer": "VINE",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The finger next to your little finger, where jewelry is often worn",
-      "answer": "RING",
+      "clue": "A chart that shows numbers as bars or lines",
+      "answer": "GRAPH",
       "row": 1,
-      "col": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The top covering of a house",
+      "answer": "ROOF",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "One of two equal parts",
+      "answer": "HALF",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A pretty flower with thorns on its stem",
+      "answer": "ROSE",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A climbing plant that covers old walls",
+      "answer": "IVY",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     }
   ],

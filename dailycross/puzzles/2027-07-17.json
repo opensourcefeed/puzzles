@@ -4,73 +4,59 @@
   "title": "2027-07-17",
   "words": [
     {
-      "clue": "A scientist who studies animals",
-      "answer": "ZOOLOGIST",
-      "row": 6,
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How you feel when something unexpected happens",
-      "answer": "SURPRISED",
-      "row": 1,
-      "col": 6,
+      "clue": "The natural home of an animal or plant",
+      "answer": "HABITAT",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "An event where you jump as far forward as you can",
-      "answer": "LONGJUMP",
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A silver pipe you blow across, held out sideways",
+      "answer": "FLUTE",
       "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
-      "row": 3,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 6,
-      "col": 8,
+      "clue": "The opposite of lost",
+      "answer": "FOUND",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A machine that makes copies of pages",
-      "answer": "COPIER",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The spots where two bones meet and bend",
-      "answer": "JOINTS",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A cup-shaped spring flower grown from a bulb",
-      "answer": "TULIP",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A large stream of water flowing across the land",
-      "answer": "RIVER",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A desert animal with humps on its back",
-      "answer": "CAMEL",
-      "row": 10,
-      "col": 7,
+      "clue": "You hit it with sticks to keep the beat",
+      "answer": "DRUM",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     }
   ],

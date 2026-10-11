@@ -4,74 +4,60 @@
   "title": "2028-03-12",
   "words": [
     {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 4,
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The part of your face above your eyes",
-      "answer": "FOREHEAD",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small object that stores power for devices",
-      "answer": "BATTERY",
-      "row": 2,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of generous",
-      "answer": "SELFISH",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A farm bird that lays eggs and says cluck",
-      "answer": "CHICKEN",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 9,
+      "clue": "A sudden, very heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 0,
       "col": 6,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Soft, wet land that is often flooded",
-      "answer": "MARSH",
-      "row": 2,
+      "clue": "The biggest bird in the world; it runs fast but can't fly",
+      "answer": "OSTRICH",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "What a forecast on the news tells you about",
+      "answer": "WEATHER",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A deep, narrow valley with steep rocky sides",
-      "answer": "GORGE",
-      "row": 0,
-      "col": 8,
+      "clue": "A sport where you hit a ball over a net with a racket",
+      "answer": "TENNIS",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A doctor who takes care of sick animals",
+      "answer": "VET",
+      "row": 2,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A blue-green color",
-      "answer": "TEAL",
-      "row": 3,
-      "col": 10,
-      "direction": "across"
+      "clue": "The opposite of near",
+      "answer": "FAR",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 639

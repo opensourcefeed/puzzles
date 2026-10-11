@@ -4,67 +4,74 @@
   "title": "2027-04-21",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
-      "row": 4,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
+      "row": 8,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
-      "row": 3,
-      "col": 5,
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A small rocky object that circles the Sun",
-      "answer": "ASTEROID",
-      "row": 3,
+      "clue": "A doctor who looks after your teeth",
+      "answer": "DENTIST",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The tallest animal, with a super long neck",
+      "answer": "GIRAFFE",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You cut your food with this",
+      "answer": "KNIFE",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of grass and leaves",
+      "answer": "GREEN",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A game between two players or two teams",
+      "answer": "MATCH",
+      "row": 7,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A bright, bold pink",
-      "answer": "FUCHSIA",
-      "row": 8,
-      "col": 0,
+      "clue": "A small vessel for traveling on water",
+      "answer": "BOAT",
+      "row": 10,
+      "col": 8,
       "direction": "across"
-    },
-    {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A narrow boat you move with a paddle",
-      "answer": "CANOE",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A pause of silence in a piece of music",
-      "answer": "REST",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Talking with typed messages online",
-      "answer": "CHAT",
-      "row": 1,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "The parts at the ends of your legs",
-      "answer": "FEET",
-      "row": 8,
-      "col": 0,
-      "direction": "down"
     }
   ],
   "dayNumber": 313

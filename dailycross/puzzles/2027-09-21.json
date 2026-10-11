@@ -4,67 +4,53 @@
   "title": "2027-09-21",
   "words": [
     {
-      "clue": "A small note that sticks where you press it",
-      "answer": "STICKYNOTE",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of computers linked to share information",
-      "answer": "NETWORK",
+      "clue": "A shape like a door: two long sides and two short",
+      "answer": "RECTANGLE",
       "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The person who steers a vehicle",
-      "answer": "DRIVER",
-      "row": 8,
-      "col": 3,
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Wishing and expecting that good things will happen",
+      "answer": "HOPEFUL",
+      "row": 4,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
     },
     {
-      "clue": "The parts at the ends of your legs",
-      "answer": "FEET",
+      "clue": "A building where cars are parked or repaired",
+      "answer": "GARAGE",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The colored ring in your eye",
-      "answer": "IRIS",
-      "row": 6,
-      "col": 5,
+      "clue": "A vehicle that blasts off into space",
+      "answer": "ROCKET",
+      "row": 0,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A short race run as fast as you can",
+      "answer": "SPRINT",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 466

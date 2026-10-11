@@ -4,60 +4,74 @@
   "title": "2028-01-05",
   "words": [
     {
-      "clue": "A car the police use to chase and catch criminals",
-      "answer": "POLICECAR",
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
+      "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
       "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "You plug your phone into this when its battery is low",
+      "answer": "CHARGER",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A push or a pull",
+      "answer": "FORCE",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Good weather for flying a kite",
+      "answer": "WINDY",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "It circles Earth and seems to change shape each night",
+      "answer": "MOON",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A large hole in a rock or hillside where bats may live",
+      "answer": "CAVE",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A streetcar that runs on rails along city roads",
+      "answer": "TRAM",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A book of blank pages for your notes",
-      "answer": "NOTEBOOK",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
+      "clue": "A big test at the end of term",
+      "answer": "EXAM",
       "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 2,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who helps students learn at school",
-      "answer": "TEACHER",
-      "row": 6,
-      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "A very dry place that gets little rain",
-      "answer": "DESERT",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
     }
   ],
   "dayNumber": 572

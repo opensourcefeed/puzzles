@@ -4,52 +4,66 @@
   "title": "2027-05-06",
   "words": [
     {
-      "clue": "A pretty insect that used to be a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A very tall, steep, rocky peak",
-      "answer": "MOUNTAIN",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 8,
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 2,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A soft yellow spread made from cream",
-      "answer": "BUTTER",
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Where a computer keeps what it's working on; also your power to remember",
+      "answer": "MEMORY",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A Japanese martial art with kicks, chops and colored belts",
+      "answer": "KARATE",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather that feels damp and sticky",
+      "answer": "HUMID",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of neat and tidy",
+      "answer": "MESSY",
       "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Not wanting to do any work",
+      "answer": "LAZY",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The dirt that plants grow in",
+      "answer": "SOIL",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A wild animal that howls at the moon",
-      "answer": "WOLF",
-      "row": 1,
-      "col": 9,
+      "clue": "The opposite of dry",
+      "answer": "WET",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     }
   ],

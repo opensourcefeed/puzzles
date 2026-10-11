@@ -4,65 +4,73 @@
   "title": "2027-04-23",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 2,
-      "col": 0,
+      "clue": "A scientist who studies animals",
+      "answer": "ZOOLOGIST",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The world's biggest sports event, held every four years",
+      "answer": "OLYMPICS",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
       "row": 0,
-      "col": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A box you carry your lunch to school in",
-      "answer": "LUNCHBOX",
+      "clue": "A cardboard cover that keeps loose papers together",
+      "answer": "FOLDER",
       "row": 1,
-      "col": 1,
-      "direction": "down"
+      "col": 7,
+      "direction": "across"
     },
     {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
-      "row": 7,
+      "clue": "The opposite of below",
+      "answer": "ABOVE",
+      "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who steers a vehicle",
-      "answer": "DRIVER",
-      "row": 4,
+      "clue": "Very cross; how you feel when something is unfair",
+      "answer": "ANGRY",
+      "row": 10,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A green, watery spot in the middle of a desert",
-      "answer": "OASIS",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A grain with yellow kernels on a cob",
-      "answer": "CORN",
-      "row": 1,
-      "col": 9,
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
+      "row": 6,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "Talking with typed messages online",
-      "answer": "CHAT",
-      "row": 5,
+      "clue": "What ice does when it warms up",
+      "answer": "MELT",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Wireless internet you connect to without any cables",
+      "answer": "WIFI",
+      "row": 9,
       "col": 0,
       "direction": "across"
     }

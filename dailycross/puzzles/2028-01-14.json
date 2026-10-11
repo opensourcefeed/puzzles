@@ -4,66 +4,74 @@
   "title": "2028-01-14",
   "words": [
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A large flat dish for serving food",
-      "answer": "PLATTER",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A vegetable you can bake, mash, or fry",
-      "answer": "POTATO",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft yellow spread made from cream",
-      "answer": "BUTTER",
-      "row": 8,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A pale sandy tan, like a coffee with lots of milk",
-      "answer": "BEIGE",
-      "row": 0,
-      "col": 6,
+      "clue": "Wireless tech, named after a Viking king, that links nearby devices",
+      "answer": "BLUETOOTH",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The opposite of bendy",
-      "answer": "STIFF",
-      "row": 7,
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A large string instrument played sitting down",
+      "answer": "CELLO",
+      "row": 5,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that can do jobs by itself",
+      "answer": "ROBOT",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The dirt that plants grow in",
+      "answer": "SOIL",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather that's not too hot and not too cold",
+      "answer": "MILD",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     }
   ],

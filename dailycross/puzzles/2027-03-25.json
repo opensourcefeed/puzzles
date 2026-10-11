@@ -4,60 +4,74 @@
   "title": "2027-03-25",
   "words": [
     {
-      "clue": "A device that does math problems for you",
-      "answer": "CALCULATOR",
-      "row": 1,
+      "clue": "A person who designs machines, bridges and roads",
+      "answer": "ENGINEER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You sweep dirt into it using a broom",
-      "answer": "DUSTPAN",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge group of stars held together in space",
-      "answer": "GALAXY",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "An orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 1,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A fuzzy brown fruit that is bright green inside",
-      "answer": "KIWI",
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
       "row": 3,
-      "col": 7,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A small animal covered in spines that curls into a ball",
+      "answer": "HEDGEHOG",
+      "row": 5,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Really wanting to find out more",
+      "answer": "CURIOUS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The bag-like organ that breaks down the food you eat",
+      "answer": "STOMACH",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A bird that fans out a huge tail covered in eye patterns",
+      "answer": "PEACOCK",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A passage that goes through a mountain or under a river",
+      "answer": "TUNNEL",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "One colorful piece of a flower",
+      "answer": "PETAL",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 286

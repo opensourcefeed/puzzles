@@ -4,98 +4,120 @@
   "title": "Level 85",
   "words": [
     {
-      "clue": "A device that does math problems for you",
-      "answer": "CALCULATOR",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Always looking on the bright side of things",
-      "answer": "POSITIVE",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 2,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The strap that keeps you safe in a car seat",
-      "answer": "SEATBELT",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried about what might happen",
-      "answer": "NERVOUS",
+      "clue": "The person who stamps your books and helps you find the next one",
+      "answer": "LIBRARIAN",
       "row": 7,
-      "col": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "What the sky and air are doing outside",
-      "answer": "WEATHER",
-      "row": 6,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The matching clothes a team wears",
-      "answer": "UNIFORM",
-      "row": 12,
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of moving a boat with oars",
+      "answer": "ROWING",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The low land between hills or mountains",
+      "answer": "VALLEY",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of open",
+      "answer": "CLOSED",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark brownish-red",
+      "answer": "MAROON",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A building where cars are parked or repaired",
+      "answer": "GARAGE",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The repeating pattern of beats in music",
-      "answer": "RHYTHM",
-      "row": 9,
-      "col": 9,
+      "clue": "A sport where you hit a ball over a net with a racket",
+      "answer": "TENNIS",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 1,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
-      "row": 8,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of people who sing together",
-      "answer": "CHOIR",
+      "clue": "The shiny metal of a second-place medal",
+      "answer": "SILVER",
       "row": 10,
-      "col": 4,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A small round fruit that grows in bunches on a vine",
+      "answer": "GRAPE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A big ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
+      "row": 10,
+      "col": 0,
+      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 16,
   "targetWords": 16,
   "difficulty": "medium"
 }

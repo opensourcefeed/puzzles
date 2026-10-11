@@ -4,74 +4,75 @@
   "title": "2027-05-09",
   "words": [
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 5,
-      "col": 0,
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that swings from tree branches",
-      "answer": "MONKEY",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sad because you are all alone",
-      "answer": "LONELY",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A thick, creamy food made from milk",
-      "answer": "YOGURT",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The smallest finger on your hand",
-      "answer": "PINKY",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A big vehicle for carrying goods by road",
-      "answer": "TRUCK",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Pressing and releasing a mouse button",
-      "answer": "CLICK",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of web pages that share one name",
-      "answer": "SITE",
+      "clue": "A four-sided shape with just one pair of parallel sides",
+      "answer": "TRAPEZOID",
       "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The curved shape of a thin new moon",
+      "answer": "CRESCENT",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall cupboard for hanging up your clothes",
+      "answer": "WARDROBE",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Kind and easy to get along with",
+      "answer": "FRIENDLY",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A stick of colored wax for drawing",
+      "answer": "CRAYON",
+      "row": 0,
       "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "A tall, hollow grass that pandas love to eat",
+      "answer": "BAMBOO",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain that is ground into flour for bread",
+      "answer": "WHEAT",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The clear liquid that all living things need",
+      "answer": "WATER",
+      "row": 4,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall plant with a thick, wooden trunk",
+      "answer": "TREE",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 331

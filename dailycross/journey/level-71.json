@@ -4,84 +4,108 @@
   "title": "Level 71",
   "words": [
     {
-      "clue": "It makes a pencil pointy again",
-      "answer": "SHARPENER",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling thankful for something you were given",
-      "answer": "GRATEFUL",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 5,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
-      "row": 6,
+      "clue": "A red emergency vehicle with ladders and hoses",
+      "answer": "FIREENGINE",
+      "enumeration": "4,6",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A round citrus fruit you peel and eat in slices",
-      "answer": "ORANGE",
-      "row": 2,
-      "col": 11,
+      "clue": "A red, heart-shaped fruit with seeds on the outside",
+      "answer": "STRAWBERRY",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The opposite of true",
-      "answer": "FALSE",
-      "row": 7,
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who builds things out of wood",
+      "answer": "CARPENTER",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A container that carries your midday meal to school",
+      "answer": "LUNCHBOX",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The strap you click across you before the car moves",
+      "answer": "SEATBELT",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall pipe that carries smoke out through the roof",
+      "answer": "CHIMNEY",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A shape with six sides, like a honeycomb cell",
+      "answer": "HEXAGON",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 3,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A fluffy farm animal that gives us wool",
-      "answer": "SHEEP",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
+      "clue": "The opposite of tall",
+      "answer": "SHORT",
+      "row": 13,
+      "col": 8,
+      "direction": "across"
     },
     {
-      "clue": "Throwing the ball to a teammate",
-      "answer": "PASS",
-      "row": 3,
-      "col": 0,
+      "clue": "A creature from another planet, in stories",
+      "answer": "ALIEN",
+      "row": 1,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A pretty flower with thorns on its stem",
+      "answer": "ROSE",
+      "row": 11,
+      "col": 7,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 14,
   "targetWords": 14,
   "difficulty": "medium"
 }

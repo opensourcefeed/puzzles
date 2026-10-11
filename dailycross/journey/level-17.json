@@ -4,53 +4,53 @@
   "title": "Level 17",
   "words": [
     {
-      "clue": "A giant, spinning storm that forms over the ocean",
-      "answer": "HURRICANE",
-      "row": 3,
-      "col": 3,
+      "clue": "What an astronaut wears to stay alive outside the ship",
+      "answer": "SPACESUIT",
+      "row": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who plays music or sings",
-      "answer": "MUSICIAN",
+      "clue": "A pen with a thick, felt tip",
+      "answer": "MARKER",
       "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "To share a number out into equal groups",
+      "answer": "DIVIDE",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who brings food to your table at a restaurant",
+      "answer": "WAITER",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A cabinet for storing food and dishes",
-      "answer": "CUPBOARD",
-      "row": 1,
+      "clue": "The person who steers a vehicle",
+      "answer": "DRIVER",
+      "row": 7,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The blast-off when a rocket lifts into the sky",
-      "answer": "LAUNCH",
-      "row": 7,
+      "clue": "You use it to rub out pencil marks",
+      "answer": "ERASER",
+      "row": 0,
       "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "The land right along the edge of the sea",
-      "answer": "COAST",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
+      "direction": "down"
     }
   ],
   "wordCount": 7,

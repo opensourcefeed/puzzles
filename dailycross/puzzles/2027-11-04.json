@@ -4,66 +4,73 @@
   "title": "2027-11-04",
   "words": [
     {
-      "clue": "The place where deleted files go on a computer",
-      "answer": "RECYCLEBIN",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Furniture with shelves for holding your books",
-      "answer": "BOOKSHELF",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who travels into space",
-      "answer": "ASTRONAUT",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Many days in a row of very hot weather",
-      "answer": "HEATWAVE",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The farthest planet, a cold blue world",
-      "answer": "NEPTUNE",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling bad about something you did wrong",
-      "answer": "ASHAMED",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 8,
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 7,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A live show where musicians perform",
+      "answer": "CONCERT",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Wishing and expecting that good things will happen",
+      "answer": "HOPEFUL",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A slow animal that carries its shell around",
+      "answer": "TURTLE",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The shiny metal of a second-place medal",
+      "answer": "SILVER",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall plant with a thick, wooden trunk",
+      "answer": "TREE",
+      "row": 8,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "1, 3, 5 and 7 are all ___ numbers",
+      "answer": "ODD",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     }
   ],

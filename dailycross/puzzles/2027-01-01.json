@@ -4,74 +4,74 @@
   "title": "2027-01-01",
   "words": [
     {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
+      "clue": "It shows pictures big on a screen or wall",
+      "answer": "PROJECTOR",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling sure that you can do it",
-      "answer": "CONFIDENT",
-      "row": 3,
+      "clue": "Kind and easy to get along with",
+      "answer": "FRIENDLY",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A long orange vegetable that rabbits love",
+      "answer": "CARROT",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The break between lessons when you go outside to play",
+      "answer": "RECESS",
+      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
+      "clue": "Sliding down snowy mountains on two long boards",
+      "answer": "SKIING",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
       "row": 4,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The colorful, sweet-smelling part of a plant",
-      "answer": "FLOWER",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
+      "clue": "The big cat with a shaggy mane, called king of the jungle",
+      "answer": "LION",
       "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A large bowl used for washing",
-      "answer": "BASIN",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "How you feel when something is really unfair; very mad",
-      "answer": "ANGRY",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "You hit it with sticks to keep the beat",
-      "answer": "DRUM",
-      "row": 6,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Little balls of ice that fall during a storm",
+      "answer": "HAIL",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The bright center of a galaxy",
-      "answer": "CORE",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
+      "clue": "The answer you get when you add numbers",
+      "answer": "SUM",
+      "row": 9,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 203

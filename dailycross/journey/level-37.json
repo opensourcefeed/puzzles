@@ -4,74 +4,74 @@
   "title": "Level 37",
   "words": [
     {
-      "clue": "A line joining two opposite corners",
-      "answer": "DIAGONAL",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of gliding along on ice",
-      "answer": "SKATING",
-      "row": 5,
+      "clue": "A big reptile with powerful jaws that lurks in rivers",
+      "answer": "CROCODILE",
+      "row": 2,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A giant bird that runs fast but can't fly",
-      "answer": "OSTRICH",
-      "row": 10,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A place where trains stop to pick up passengers",
-      "answer": "STATION",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A shooting star that zooms across the sky",
-      "answer": "METEOR",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where a river flows into the sea",
-      "answer": "MOUTH",
-      "row": 6,
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Weather when rain is falling",
-      "answer": "RAINY",
-      "row": 12,
+      "clue": "A person who repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 0,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with three straight sides",
+      "answer": "TRIANGLE",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
-      "row": 0,
+      "clue": "A shape with six sides, like a honeycomb cell",
+      "answer": "HEXAGON",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A strong farm vehicle that pulls heavy loads",
+      "answer": "TRACTOR",
+      "row": 1,
       "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "A person who works on a ship out at sea",
+      "answer": "SAILOR",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of fresh snow and milk",
+      "answer": "WHITE",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "wordCount": 10,

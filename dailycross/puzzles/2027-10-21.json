@@ -4,73 +4,74 @@
   "title": "2027-10-21",
   "words": [
     {
-      "clue": "A sport where you throw a ball through a high hoop",
-      "answer": "BASKETBALL",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport of flips, balance, and body strength",
-      "answer": "GYMNASTICS",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dark gray, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A farm bird that lays eggs and says cluck",
-      "answer": "CHICKEN",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The corner point where two lines meet",
-      "answer": "VERTEX",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
-      "row": 0,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
-      "row": 2,
+      "clue": "A zip-up pouch that holds everything you write with",
+      "answer": "PENCILCASE",
+      "enumeration": "6,4",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of old",
-      "answer": "YOUNG",
-      "row": 0,
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
+      "row": 4,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 2,
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 0,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The power to make things move, heat up, or light up",
+      "answer": "ENERGY",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The main tune of a song",
+      "answer": "MELODY",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The colorful, sweet-smelling part of a plant",
+      "answer": "FLOWER",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Printed pages bound together for reading",
+      "answer": "BOOK",
+      "row": 9,
+      "col": 2,
       "direction": "down"
     }
   ],

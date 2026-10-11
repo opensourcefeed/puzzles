@@ -4,56 +4,63 @@
   "title": "Level 21",
   "words": [
     {
-      "clue": "How loud or soft the music is",
-      "answer": "VOLUME",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You carry water to school in this",
-      "answer": "BOTTLE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The land right along the edge of the sea",
-      "answer": "COAST",
-      "row": 4,
+      "clue": "A person who gathers and tells the news",
+      "answer": "REPORTER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The path one object takes as it circles another",
-      "answer": "ORBIT",
-      "row": 4,
+      "clue": "It turns paper pages into computer files",
+      "answer": "SCANNER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel the night before your birthday party",
+      "answer": "EXCITED",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "What a forecast on the news tells you about",
+      "answer": "WEATHER",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The season when leaves turn color and fall",
+      "answer": "AUTUMN",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that sucks up dust from the floor",
+      "answer": "VACUUM",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Connected to the internet",
+      "answer": "ONLINE",
+      "row": 1,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "What lets us see; it comes from the sun and lamps",
-      "answer": "LIGHT",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A yellow citrus fruit with a very sour taste",
-      "answer": "LEMON",
-      "row": 0,
-      "col": 7,
+      "clue": "Furniture with a flat top, for eating or working",
+      "answer": "TABLE",
+      "row": 2,
+      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "The skin on top of your head where hair grows",
-      "answer": "SCALP",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
     }
   ],
-  "wordCount": 7,
+  "wordCount": 8,
   "targetWords": 8,
   "difficulty": "easy"
 }

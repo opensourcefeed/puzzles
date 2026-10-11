@@ -4,66 +4,52 @@
   "title": "2027-03-23",
   "words": [
     {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A long green vegetable, cool and crunchy",
+      "clue": "A long green vegetable, cool and crunchy, sliced into salads",
       "answer": "CUCUMBER",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
-      "row": 2,
-      "col": 0,
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
+      "clue": "A group of computers linked to share information",
+      "answer": "NETWORK",
       "row": 0,
-      "col": 0,
-      "direction": "across"
+      "col": 8,
+      "direction": "down"
     },
     {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 10,
+      "clue": "The color you get by mixing red and blue",
+      "answer": "PURPLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A hanging spike of ice that forms when dripping water freezes",
+      "answer": "ICICLE",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Thin sheets you write or draw on",
-      "answer": "PAPER",
-      "row": 3,
-      "col": 6,
+      "clue": "A small green or black fruit, and its dull green color",
+      "answer": "OLIVE",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A pause of silence in a piece of music",
-      "answer": "REST",
-      "row": 6,
-      "col": 5,
+      "clue": "A big instrument with black and white keys",
+      "answer": "PIANO",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     }
   ],

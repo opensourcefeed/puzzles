@@ -4,74 +4,75 @@
   "title": "2027-06-02",
   "words": [
     {
-      "clue": "It makes holes in paper for a binder",
-      "answer": "HOLEPUNCH",
-      "row": 7,
+      "clue": "Many days in a row of very hot weather",
+      "answer": "HEATWAVE",
+      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 5,
-      "col": 4,
+      "clue": "You slip it between pages to save your place",
+      "answer": "BOOKMARK",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 8,
-      "col": 6,
+      "clue": "A pink bird that often stands on one leg",
+      "answer": "FLAMINGO",
+      "row": 3,
+      "col": 5,
       "direction": "down"
     },
     {
       "clue": "The biggest planet, with a giant red spot",
       "answer": "JUPITER",
-      "row": 5,
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A black-and-white bird that waddles on the ice and can't fly",
+      "answer": "PENGUIN",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small object that stores power for devices",
-      "answer": "BATTERY",
-      "row": 0,
-      "col": 6,
+      "clue": "A shape with six sides, like a honeycomb cell",
+      "answer": "HEXAGON",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A round red fruit used in salads and sauces",
-      "answer": "TOMATO",
-      "row": 3,
-      "col": 6,
+      "clue": "A box that shares the internet around your home",
+      "answer": "ROUTER",
+      "row": 2,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A large area of flat land",
-      "answer": "PLAIN",
-      "row": 8,
-      "col": 2,
+      "clue": "The opposite of awake",
+      "answer": "ASLEEP",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
-      "row": 12,
-      "col": 5,
+      "clue": "Bright and warm, with no clouds in the sky",
+      "answer": "SUNNY",
+      "row": 10,
+      "col": 7,
       "direction": "across"
-    },
-    {
-      "clue": "A group of web pages that share one name",
-      "answer": "SITE",
-      "row": 9,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "dayNumber": 355

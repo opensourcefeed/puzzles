@@ -4,60 +4,74 @@
   "title": "2026-10-26",
   "words": [
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A slow animal that leaves a slimy trail",
+      "answer": "SNAIL",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of chocolate and tree bark",
+      "answer": "BROWN",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The land right along the edge of the sea",
+      "answer": "COAST",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your chest that pumps blood",
+      "answer": "HEART",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A blue-green color named after a duck",
+      "answer": "TEAL",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling thankful for something you were given",
-      "answer": "GRATEFUL",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
+      "clue": "A light red color, like bubblegum",
+      "answer": "PINK",
       "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A grain that is ground into flour for bread",
-      "answer": "WHEAT",
-      "row": 6,
-      "col": 2,
+      "col": 7,
       "direction": "across"
-    },
-    {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A small woody plant, shorter than a tree",
-      "answer": "SHRUB",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A pipe you blow across, held out sideways",
-      "answer": "FLUTE",
-      "row": 1,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of tidy",
-      "answer": "MESSY",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
     }
   ],
   "dayNumber": 136

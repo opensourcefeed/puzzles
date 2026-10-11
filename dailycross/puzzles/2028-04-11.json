@@ -4,66 +4,73 @@
   "title": "2028-04-11",
   "words": [
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 3,
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
       "row": 0,
-      "col": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
+      "clue": "The color of grass and leaves",
+      "answer": "GREEN",
       "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A line joining two opposite corners",
-      "answer": "DIAGONAL",
-      "row": 7,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The gas in the air that we need to breathe",
-      "answer": "OXYGEN",
+      "clue": "The joint in the middle of your leg",
+      "answer": "KNEE",
       "row": 0,
-      "col": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of polite",
+      "answer": "RUDE",
+      "row": 2,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
+      "clue": "The net you try to get the ball into",
+      "answer": "GOAL",
       "row": 9,
-      "col": 2,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A round fruit with red or green skin, crunchy inside",
-      "answer": "APPLE",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "You use this to eat, talk, and smile",
-      "answer": "MOUTH",
-      "row": 6,
-      "col": 8,
+      "clue": "A document saved on a computer under one name",
+      "answer": "FILE",
+      "row": 7,
+      "col": 9,
       "direction": "down"
     }
   ],

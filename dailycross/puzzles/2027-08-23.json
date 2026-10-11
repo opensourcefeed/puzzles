@@ -4,67 +4,74 @@
   "title": "2027-08-23",
   "words": [
     {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
-      "row": 6,
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Where a river drops straight down over a cliff",
+      "answer": "WATERFALL",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A two-wheeled ride you pedal",
+      "answer": "BICYCLE",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A building where cars are parked or repaired",
+      "answer": "GARAGE",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "How you feel watching a spooky movie",
+      "answer": "SCARED",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The yellow dust that bees carry from flower to flower",
+      "answer": "POLLEN",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Water and juice are both in this state of matter",
+      "answer": "LIQUID",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies animals",
-      "answer": "ZOOLOGIST",
-      "row": 0,
-      "col": 8,
+      "clue": "A tiny picture, like a smiley face, that you add to messages",
+      "answer": "EMOJI",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
+      "clue": "A small carpet on the floor",
+      "answer": "RUG",
       "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A purple flower known for its calming smell",
-      "answer": "LAVENDER",
-      "row": 3,
       "col": 3,
       "direction": "down"
-    },
-    {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A solid with two round ends, like a can",
-      "answer": "CYLINDER",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "What we hear with our ears",
-      "answer": "SOUND",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The hard parts that make up your skeleton",
-      "answer": "BONES",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "dayNumber": 437

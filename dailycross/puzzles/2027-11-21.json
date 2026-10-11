@@ -4,74 +4,74 @@
   "title": "2027-11-21",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
       "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The referee blows this to stop play",
+      "answer": "WHISTLE",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small concert by music students",
+      "answer": "RECITAL",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A colorful bird that can copy your words",
+      "answer": "PARROT",
+      "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
-      "row": 2,
+      "clue": "A person who shows tourists around",
+      "answer": "GUIDE",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
+      "clue": "A deep, narrow valley with steep rocky sides",
+      "answer": "GORGE",
       "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 11,
-      "col": 5,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A thick, creamy food made from milk",
-      "answer": "YOGURT",
-      "row": 6,
+      "clue": "The opposite of old",
+      "answer": "YOUNG",
+      "row": 0,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
+      "clue": "A green plant with feathery leaves and no flowers",
+      "answer": "FERN",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "It hangs on the wall and tells you the time",
-      "answer": "CLOCK",
-      "row": 8,
+      "clue": "The big space above you where clouds float",
+      "answer": "SKY",
+      "row": 7,
       "col": 8,
       "direction": "across"
-    },
-    {
-      "clue": "The open ground where a sport is played",
-      "answer": "FIELD",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
     }
   ],
   "dayNumber": 527

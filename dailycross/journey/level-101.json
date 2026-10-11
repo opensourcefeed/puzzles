@@ -4,126 +4,113 @@
   "title": "Level 101",
   "words": [
     {
-      "clue": "The person who leads a country",
-      "answer": "PRESIDENT",
-      "row": 6,
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
+      "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Someone riding in a vehicle but not driving",
-      "answer": "PASSENGER",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who gathers and tells the news",
-      "answer": "REPORTER",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The strap that keeps you safe in a car seat",
-      "answer": "SEATBELT",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 6,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, gentle wind",
-      "answer": "BREEZE",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A glass opening that lets in light and air",
-      "answer": "WINDOW",
-      "row": 13,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "How you feel after doing something really well",
-      "answer": "PROUD",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A desert animal with humps on its back",
-      "answer": "CAMEL",
-      "row": 3,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool for measuring how long something is",
-      "answer": "RULER",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
       "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A fine powder made from wheat, used for baking",
-      "answer": "FLOUR",
-      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A green animal that hops and says ribbit",
-      "answer": "FROG",
-      "row": 8,
-      "col": 2,
+      "clue": "A tube with lenses that makes faraway stars look close",
+      "answer": "TELESCOPE",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Little balls of ice that fall during a storm",
-      "answer": "HAIL",
+      "clue": "A green fruit with a big pit, mashed into guacamole",
+      "answer": "AVOCADO",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The person who takes your money at the checkout",
+      "answer": "CASHIER",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A win in a game or contest",
+      "answer": "VICTORY",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small round red fruit that grows in pairs on a stem",
+      "answer": "CHERRY",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who speaks for you in court",
+      "answer": "LAWYER",
       "row": 0,
       "col": 14,
       "direction": "down"
+    },
+    {
+      "clue": "Always wanting more than your share",
+      "answer": "GREEDY",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "How fast or slow the music is played",
+      "answer": "TEMPO",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant like basil or parsley used to flavor food",
+      "answer": "HERB",
+      "row": 11,
+      "col": 8,
+      "direction": "down"
     }
   ],
-  "wordCount": 17,
+  "wordCount": 15,
   "targetWords": 18,
   "difficulty": "hard"
 }

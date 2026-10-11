@@ -4,66 +4,73 @@
   "title": "2028-01-02",
   "words": [
     {
-      "clue": "A small stick that plugs in to store your files",
-      "answer": "FLASHDRIVE",
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
       "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
+      "clue": "You open it over your head when it pours",
+      "answer": "UMBRELLA",
       "row": 0,
-      "col": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 3,
+      "clue": "A solid with two round ends, like a can",
+      "answer": "CYLINDER",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 7,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
-      "row": 2,
-      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The smallest planet, closest to the Sun",
-      "answer": "MERCURY",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
-      "row": 1,
-      "col": 13,
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
+      "row": 5,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
       "row": 9,
-      "col": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A person who creates paintings and drawings",
-      "answer": "ARTIST",
+      "clue": "A building where cars are parked or repaired",
+      "answer": "GARAGE",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A thin, white layer of ice on cold mornings",
+      "answer": "FROST",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A big ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
       "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 4,
-      "col": 1,
+      "clue": "The opposite of loud",
+      "answer": "QUIET",
+      "row": 5,
+      "col": 9,
       "direction": "down"
     }
   ],

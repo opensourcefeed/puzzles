@@ -4,105 +4,140 @@
   "title": "Level 146",
   "words": [
     {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
-      "row": 6,
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A tool that makes faraway things look close",
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that does sums for you",
+      "answer": "CALCULATOR",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A tube with lenses that makes faraway stars look close",
       "answer": "TELESCOPE",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
       "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Ten hundreds",
+      "answer": "THOUSAND",
+      "row": 7,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
+      "row": 14,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small concert by music students",
+      "answer": "RECITAL",
+      "row": 12,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A long green vegetable, cool and crunchy",
-      "answer": "CUCUMBER",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who gathers and tells the news",
-      "answer": "REPORTER",
-      "row": 11,
-      "col": 2,
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Being kind and nice to other people",
-      "answer": "FRIENDLY",
-      "row": 4,
-      "col": 6,
+      "clue": "A small oval nut with a mild, sweet flavor",
+      "answer": "ALMOND",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person whose job is to clean buildings",
-      "answer": "CLEANER",
-      "row": 3,
+      "clue": "Water and juice are both in this state of matter",
+      "answer": "LIQUID",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A dwarf planet once called the ninth planet",
+      "answer": "PLUTO",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The row of bones running down your back",
+      "answer": "SPINE",
+      "row": 0,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The organ that breaks down the food you eat",
-      "answer": "STOMACH",
+      "clue": "The colored ring in your eye",
+      "answer": "IRIS",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling bad about something you did wrong",
-      "answer": "ASHAMED",
-      "row": 8,
-      "col": 0,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "A farm bird that lays eggs and says cluck",
-      "answer": "CHICKEN",
-      "row": 13,
-      "col": 0,
+      "clue": "The tiny building block that everything is made of",
+      "answer": "ATOM",
+      "row": 6,
+      "col": 11,
       "direction": "across"
     },
     {
-      "clue": "A shape with four equal sides and four right-angle corners",
-      "answer": "SQUARE",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
+      "clue": "A sweet fruit, narrow at the top and round at the bottom",
+      "answer": "PEAR",
+      "row": 4,
+      "col": 11,
+      "direction": "across"
     },
     {
-      "clue": "The season when flowers bloom after winter",
-      "answer": "SPRING",
+      "clue": "A wild cousin of the dog that howls and lives in a pack",
+      "answer": "WOLF",
       "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A vegetable you can bake, mash, or fry",
-      "answer": "POTATO",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A woven container for carrying things",
-      "answer": "BASKET",
-      "row": 7,
-      "col": 3,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 19,
   "targetWords": 24,
   "difficulty": "hard"
 }

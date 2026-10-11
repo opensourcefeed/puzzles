@@ -4,67 +4,74 @@
   "title": "2028-02-04",
   "words": [
     {
-      "clue": "A purple flower known for its calming smell",
-      "answer": "LAVENDER",
-      "row": 6,
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Showing lots of love and affection",
-      "answer": "LOVING",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Instruments you buzz your lips into, like a trumpet",
-      "answer": "BRASS",
-      "row": 5,
+      "clue": "A two-wheeled ride you pedal",
+      "answer": "BICYCLE",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A pinkish-orange color",
-      "answer": "CORAL",
+      "clue": "The natural home of an animal or plant",
+      "answer": "HABITAT",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
       "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where you hit a ball over a net with a racket",
+      "answer": "TENNIS",
+      "row": 8,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A wire that charges or connects your devices",
+      "answer": "CABLE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A desert animal with humps on its back",
+      "answer": "CAMEL",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of day",
+      "answer": "NIGHT",
+      "row": 0,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "A flat Italian bread topped with tomato and cheese",
+      "answer": "PIZZA",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint in the middle of your leg",
+      "answer": "KNEE",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 602

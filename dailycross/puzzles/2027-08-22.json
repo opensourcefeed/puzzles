@@ -4,74 +4,74 @@
   "title": "2027-08-22",
   "words": [
     {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A dark cloud that brings rain",
-      "answer": "RAINCLOUD",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A secret word that unlocks your account",
-      "answer": "PASSWORD",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A glass opening that lets in light and air",
-      "answer": "WINDOW",
-      "row": 6,
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The sport of moving a boat with oars",
-      "answer": "ROWING",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
+      "clue": "A half-circle tool for measuring angles",
+      "answer": "PROTRACTOR",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
     },
     {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 3,
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A sea animal with claws that walks sideways",
-      "answer": "CRAB",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A hill of sand shaped by the wind",
-      "answer": "DUNE",
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
       "row": 8,
-      "col": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A very dark blue",
-      "answer": "NAVY",
+      "clue": "A hard, hairy fruit with white flesh and water inside",
+      "answer": "COCONUT",
+      "row": 11,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling confused by something tricky",
+      "answer": "PUZZLED",
       "row": 3,
-      "col": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling you need a rest or a nap",
+      "answer": "TIRED",
+      "row": 1,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "The person who flies an airplane",
+      "answer": "PILOT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The net you try to get the ball into",
+      "answer": "GOAL",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A raised piece of land, smaller than a mountain",
+      "answer": "HILL",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 436

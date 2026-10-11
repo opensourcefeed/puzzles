@@ -4,67 +4,74 @@
   "title": "2028-01-06",
   "words": [
     {
-      "clue": "A cabinet for storing food and dishes",
-      "answer": "CUPBOARD",
+      "clue": "A person who travels into space",
+      "answer": "ASTRONAUT",
       "row": 3,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A big place with rows of seats for watching sports",
-      "answer": "STADIUM",
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with five straight sides",
+      "answer": "PENTAGON",
       "row": 1,
-      "col": 7,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A curved band of colors after the rain",
-      "answer": "RAINBOW",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who helps students learn at school",
-      "answer": "TEACHER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, crunchy root with a peppery taste",
-      "answer": "RADISH",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The yellow dust made by flowers",
-      "answer": "POLLEN",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A pinkish-orange color",
-      "answer": "CORAL",
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 7,
-      "col": 9,
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick, hot, steamy forest full of plants and animals",
+      "answer": "JUNGLE",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A colorful bird that can copy your words",
+      "answer": "PARROT",
+      "row": 1,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "The number of points in a game",
+      "answer": "SCORE",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Ice, wood and rock are all in this state of matter",
+      "answer": "SOLID",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 573

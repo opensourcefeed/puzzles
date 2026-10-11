@@ -4,67 +4,74 @@
   "title": "2027-11-10",
   "words": [
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
+      "clue": "You use it with paste to clean your teeth",
+      "answer": "TOOTHBRUSH",
       "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A secret word that unlocks your account",
-      "answer": "PASSWORD",
-      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An event where you jump as far forward as you can",
-      "answer": "LONGJUMP",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "An orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Soft, wet land that is often flooded",
-      "answer": "MARSH",
-      "row": 5,
+      "clue": "An appliance that heats food really fast",
+      "answer": "MICROWAVE",
+      "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Musical notes going up or down in order",
-      "answer": "SCALE",
-      "row": 0,
-      "col": 2,
+      "clue": "A spiky tropical fruit, sweet and yellow inside",
+      "answer": "PINEAPPLE",
+      "row": 7,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A farm animal with horns and a little beard",
-      "answer": "GOAT",
-      "row": 4,
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A win in a game or contest",
+      "answer": "VICTORY",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A small oval nut with a mild, sweet flavor",
+      "answer": "ALMOND",
+      "row": 6,
       "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "You use it to change the TV channel from your seat",
+      "answer": "REMOTE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A large hole in a rock or hillside where bats may live",
+      "answer": "CAVE",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that climbs up walls and trees",
+      "answer": "VINE",
+      "row": 10,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 516

@@ -4,52 +4,52 @@
   "title": "Level 18",
   "words": [
     {
-      "clue": "You use it to clean your teeth",
-      "answer": "TOOTHBRUSH",
-      "row": 3,
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A giant, spinning storm that forms over the ocean",
-      "answer": "HURRICANE",
-      "row": 2,
-      "col": 7,
+      "clue": "A flying vehicle with wings and jet engines",
+      "answer": "AIRPLANE",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who plays music or sings",
-      "answer": "MUSICIAN",
-      "row": 6,
-      "col": 4,
+      "clue": "A waterproof coat for wet days",
+      "answer": "RAINCOAT",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A live show where musicians perform",
+      "answer": "CONCERT",
+      "row": 10,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person who cuts and sells meat",
-      "answer": "BUTCHER",
-      "row": 1,
+      "clue": "The biggest planet, with a giant red spot",
+      "answer": "JUPITER",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of open",
+      "answer": "CLOSED",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The repeating pattern of beats in music",
-      "answer": "RHYTHM",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft, pale yellow",
-      "answer": "BUTTER",
-      "row": 5,
-      "col": 5,
+      "clue": "A device that takes photos",
+      "answer": "CAMERA",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     }
   ],

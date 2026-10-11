@@ -4,73 +4,73 @@
   "title": "2027-08-14",
   "words": [
     {
-      "clue": "A sport where you hit a ball over a net with your hands",
-      "answer": "VOLLEYBALL",
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
       "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A big arena with rows of seats for watching sports",
+      "answer": "STADIUM",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid with a flat base and sides meeting at a point, like those in Egypt",
+      "answer": "PYRAMID",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
+      "clue": "A small metal cupboard at school for your things",
+      "answer": "LOCKER",
       "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A car the police use to chase and catch criminals",
-      "answer": "POLICECAR",
-      "row": 2,
-      "col": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
-      "row": 9,
-      "col": 4,
+      "clue": "A straight strip for measuring and drawing lines",
+      "answer": "RULER",
+      "row": 11,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A hard, hairy fruit with white flesh and water inside",
-      "answer": "COCONUT",
+      "clue": "A message sent to someone's electronic inbox",
+      "answer": "EMAIL",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The number of points in a game",
+      "answer": "SCORE",
       "row": 7,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A big storm of winds spinning around a center",
-      "answer": "CYCLONE",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, gentle wind",
-      "answer": "BREEZE",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Showing that you care about others",
-      "answer": "CARING",
+      "clue": "The opposite of polite",
+      "answer": "RUDE",
       "row": 0,
-      "col": 12,
+      "col": 4,
       "direction": "down"
     }
   ],

@@ -4,73 +4,73 @@
   "title": "2026-12-12",
   "words": [
     {
-      "clue": "Believing that good things are going to happen",
-      "answer": "OPTIMISTIC",
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of pages you visit online",
+      "answer": "WEBSITE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The fastest runner on land, covered in spots",
+      "answer": "CHEETAH",
       "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You write with it, and it can be erased",
+      "answer": "PENCIL",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A short race run as fast as you can",
+      "answer": "SPRINT",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
+      "clue": "An animal that swings from tree branches",
+      "answer": "MONKEY",
       "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A small boat for one, with a double-ended paddle",
+      "answer": "KAYAK",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of space inside a flat shape",
+      "answer": "AREA",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a stop sign and strawberries",
+      "answer": "RED",
+      "row": 9,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with three straight sides",
-      "answer": "TRIANGLE",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling that good things are coming",
-      "answer": "HOPEFUL",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Bright, warm weather with lots of sunshine",
-      "answer": "SUNNY",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 2,
-      "col": 7,
       "direction": "down"
     }
   ],

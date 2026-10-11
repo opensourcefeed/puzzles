@@ -4,133 +4,119 @@
   "title": "Level 137",
   "words": [
     {
-      "clue": "A person who runs a library and helps you find books",
-      "answer": "LIBRARIAN",
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Wireless tech, named after a Viking king, that links nearby devices",
+      "answer": "BLUETOOTH",
+      "row": 6,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
       "row": 4,
-      "col": 7,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
+      "clue": "A sudden, very heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "An electronic instrument with piano-like keys",
-      "answer": "KEYBOARD",
+      "clue": "A very dark gray, like burnt wood",
+      "answer": "CHARCOAL",
       "row": 4,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A big round object that circles a star",
-      "answer": "PLANET",
-      "row": 5,
-      "col": 1,
+      "clue": "One of the two holes in your nose",
+      "answer": "NOSTRIL",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 0,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The corner point where two lines meet",
-      "answer": "VERTEX",
-      "row": 10,
-      "col": 3,
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 13,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A person who creates paintings and drawings",
-      "answer": "ARTIST",
-      "row": 5,
+      "clue": "Sliding down snowy mountains on two long boards",
+      "answer": "SKIING",
+      "row": 2,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A vegetable you can bake, mash, or fry",
-      "answer": "POTATO",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "An icy space object with a long, glowing tail",
-      "answer": "COMET",
+      "clue": "The amount of turn between two lines that meet",
+      "answer": "ANGLE",
       "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A green, watery spot in the middle of a desert",
-      "answer": "OASIS",
-      "row": 2,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Bright, warm weather with lots of sunshine",
-      "answer": "SUNNY",
-      "row": 5,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The opposite of bendy",
-      "answer": "STIFF",
+      "clue": "A book full of maps",
+      "answer": "ATLAS",
       "row": 2,
-      "col": 14,
-      "direction": "down"
-    },
-    {
-      "clue": "A desert animal with humps on its back",
-      "answer": "CAMEL",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Printed pages bound together for reading",
-      "answer": "BOOK",
-      "row": 0,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The hard covering at the tip of a finger or toe",
-      "answer": "NAIL",
-      "row": 11,
-      "col": 10,
       "direction": "across"
     },
     {
-      "clue": "A small light for a table or the floor",
-      "answer": "LAMP",
-      "row": 3,
+      "clue": "A ball game played on horseback with long mallets",
+      "answer": "POLO",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A thin, light fog close to the ground",
+      "answer": "MIST",
+      "row": 9,
       "col": 0,
       "direction": "across"
     }
   ],
-  "wordCount": 18,
+  "wordCount": 16,
   "targetWords": 23,
   "difficulty": "hard"
 }

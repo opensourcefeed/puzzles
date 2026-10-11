@@ -4,74 +4,75 @@
   "title": "2028-01-01",
   "words": [
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 6,
+      "clue": "A plank on four little wheels for tricks at the park",
+      "answer": "SKATEBOARD",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The little hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 6,
+      "clue": "The blanket of air around the Earth",
+      "answer": "ATMOSPHERE",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A red emergency vehicle with ladders and hoses",
+      "answer": "FIREENGINE",
+      "enumeration": "4,6",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "It clips sheets of paper together with little metal pins",
+      "answer": "STAPLER",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Really wanting to find out more",
+      "answer": "CURIOUS",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A pale purple, like the spring flower of the same name",
+      "answer": "LILAC",
+      "row": 0,
       "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A big storm of winds spinning around a center",
-      "answer": "CYCLONE",
-      "row": 11,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person who puts up buildings",
-      "answer": "BUILDER",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that plays sound out loud",
-      "answer": "SPEAKER",
-      "row": 4,
-      "col": 2,
+      "clue": "How you feel when there is nothing to do",
+      "answer": "BORED",
+      "row": 10,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 4,
+      "clue": "A green plant with feathery leaves and no flowers",
+      "answer": "FERN",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant like basil or parsley used to flavor food",
+      "answer": "HERB",
+      "row": 7,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The gas in the air that we need to breathe",
-      "answer": "OXYGEN",
-      "row": 0,
-      "col": 7,
+      "clue": "It spins its blades to blow cool air",
+      "answer": "FAN",
+      "row": 3,
+      "col": 2,
       "direction": "down"
-    },
-    {
-      "clue": "A person who works on a ship out at sea",
-      "answer": "SAILOR",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep red, like the gemstone",
-      "answer": "RUBY",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
     }
   ],
   "dayNumber": 568

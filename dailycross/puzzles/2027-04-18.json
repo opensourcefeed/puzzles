@@ -4,73 +4,67 @@
   "title": "2027-04-18",
   "words": [
     {
-      "clue": "A person watching a game from the stands",
-      "answer": "SPECTATOR",
-      "row": 6,
-      "col": 0,
+      "clue": "The person who waves a baton to lead an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 6,
-      "col": 5,
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
+      "clue": "A flying vehicle with wings and jet engines",
+      "answer": "AIRPLANE",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A space rock that circles the Sun; many lie between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Land with water all around it",
+      "answer": "ISLAND",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The season when flowers bloom after winter",
-      "answer": "SPRING",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A hard hat that protects your head while riding",
-      "answer": "HELMET",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A long orange vegetable that grows underground",
-      "answer": "CARROT",
+      "clue": "The person in charge of a courtroom",
+      "answer": "JUDGE",
       "row": 10,
-      "col": 3,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A card with your name and photo on it",
-      "answer": "IDCARD",
+      "clue": "The path one object takes as it circles another",
+      "answer": "ORBIT",
       "row": 0,
-      "col": 6,
-      "direction": "down"
+      "col": 1,
+      "direction": "across"
     },
     {
-      "clue": "You flip it to turn a light on or off",
-      "answer": "SWITCH",
+      "clue": "The amount of turn between two lines that meet",
+      "answer": "ANGLE",
       "row": 7,
-      "col": 8,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 12,
-      "col": 2,
+      "clue": "You wash your hands with this and it makes bubbles",
+      "answer": "SOAP",
+      "row": 3,
+      "col": 5,
       "direction": "across"
     }
   ],

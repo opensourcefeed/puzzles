@@ -4,112 +4,140 @@
   "title": "Level 104",
   "words": [
     {
-      "clue": "A flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 4,
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A light, bright blue like the daytime sky",
-      "answer": "SKYBLUE",
-      "row": 0,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
+      "row": 10,
       "col": 6,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "Feeling bad about something you did wrong",
-      "answer": "ASHAMED",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
       "row": 6,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "The organ that breaks down the food you eat",
-      "answer": "STOMACH",
-      "row": 0,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A black-and-white bird that waddles on the ice",
-      "answer": "PENGUIN",
-      "row": 2,
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A shape with a flat base and sides meeting at a point",
-      "answer": "PYRAMID",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 8,
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 14,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A person who grows crops and raises animals",
-      "answer": "FARMER",
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Different notes that sound nice played together",
+      "answer": "HARMONY",
       "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, slow-moving river of ice",
+      "answer": "GLACIER",
+      "row": 6,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A dull yellow-brown, like army uniforms",
-      "answer": "KHAKI",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of grass and leaves",
-      "answer": "GREEN",
+      "clue": "The part that makes a car go",
+      "answer": "ENGINE",
       "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Instruments you buzz your lips into, like a trumpet",
-      "answer": "BRASS",
+      "clue": "A person who sews and alters clothes",
+      "answer": "TAILOR",
       "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The rainbow color between blue and violet",
+      "answer": "INDIGO",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The planet that spins on its side",
+      "answer": "URANUS",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Another word for a tap",
+      "answer": "FAUCET",
+      "row": 6,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
+      "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A long chain of mountains, like the Himalayas",
+      "answer": "RANGE",
+      "row": 14,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A robot spacecraft sent to explore far-off planets",
+      "answer": "PROBE",
+      "row": 12,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The table where a student sits and works",
-      "answer": "DESK",
-      "row": 4,
-      "col": 0,
+      "clue": "Three or more notes played at the same time",
+      "answer": "CHORD",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "Throwing the ball to a teammate",
-      "answer": "PASS",
-      "row": 8,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Information that is stored on a computer",
-      "answer": "DATA",
-      "row": 1,
-      "col": 2,
+      "clue": "The middle color of a traffic light; also hardened tree resin",
+      "answer": "AMBER",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 19,
   "targetWords": 19,
   "difficulty": "hard"
 }

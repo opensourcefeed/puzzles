@@ -4,66 +4,73 @@
   "title": "2027-09-07",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 5,
-      "col": 3,
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 3,
+      "clue": "The sport with hoops, dribbling and slam dunks",
+      "answer": "BASKETBALL",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "How you feel when something unexpected happens",
-      "answer": "SURPRISED",
+      "clue": "The big wipe-clean surface teachers write on with markers",
+      "answer": "WHITEBOARD",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Extremely, red-faced mad",
+      "answer": "FURIOUS",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Different notes that sound nice played together",
+      "answer": "HARMONY",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest planet, closest to the Sun",
+      "answer": "MERCURY",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A cold, treeless land where the ground stays frozen",
+      "answer": "TUNDRA",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The arm of a tree that grows out from the trunk",
+      "answer": "BRANCH",
       "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
+      "clue": "A crunchy red or green fruit; one a day keeps the doctor away",
+      "answer": "APPLE",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "A black-and-white bird that waddles on the ice",
-      "answer": "PENGUIN",
+      "clue": "A sport where you hit a small ball into holes with clubs",
+      "answer": "GOLF",
       "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 9,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A single musical sound",
-      "answer": "NOTE",
-      "row": 9,
-      "col": 7,
       "direction": "across"
     }
   ],

@@ -4,67 +4,75 @@
   "title": "2027-06-06",
   "words": [
     {
-      "clue": "A phone call where you can see each other",
-      "answer": "VIDEOCALL",
-      "row": 1,
-      "col": 3,
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Someone riding in a vehicle but not driving",
-      "answer": "PASSENGER",
-      "row": 0,
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
+      "row": 1,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 0,
-      "col": 7,
+      "clue": "A vehicle that rushes sick people to the hospital",
+      "answer": "AMBULANCE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A short race run as fast as you can",
+      "answer": "SPRINT",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A small flower with white petals and a yellow middle",
+      "answer": "DAISY",
+      "row": 5,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 7,
+      "clue": "The amount of space inside a flat shape",
+      "answer": "AREA",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Peaceful and not upset at all",
+      "answer": "CALM",
+      "row": 8,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
+      "clue": "A grain with yellow kernels on a cob",
+      "answer": "CORN",
+      "row": 8,
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "A light purple, like the flower",
-      "answer": "LAVENDER",
-      "row": 1,
+      "clue": "A light red color, like bubblegum",
+      "answer": "PINK",
+      "row": 0,
       "col": 11,
       "direction": "down"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet we live on",
-      "answer": "EARTH",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The place where a river flows into the sea",
-      "answer": "MOUTH",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
     }
   ],
   "dayNumber": 359

@@ -4,74 +4,67 @@
   "title": "2027-10-09",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 1,
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 0,
+      "clue": "Ten times ten",
+      "answer": "HUNDRED",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A place where trains stop to pick up passengers",
-      "answer": "STATION",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 4,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 1,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
       "row": 3,
-      "col": 1,
-      "direction": "across"
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
-      "row": 7,
+      "clue": "A colorful bird that can copy your words",
+      "answer": "PARROT",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A boat that carries people and cars across water",
-      "answer": "FERRY",
-      "row": 5,
-      "col": 3,
+      "clue": "Feeling you need a rest or a nap",
+      "answer": "TIRED",
+      "row": 6,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Pleasant sounds put together for us to enjoy",
-      "answer": "MUSIC",
+      "clue": "To do with the Moon, as in a ___ eclipse",
+      "answer": "LUNAR",
       "row": 0,
-      "col": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Thin sheets you write or draw on",
-      "answer": "PAPER",
-      "row": 2,
-      "col": 11,
-      "direction": "down"
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The table where a student sits and works",
+      "answer": "DESK",
+      "row": 8,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 484

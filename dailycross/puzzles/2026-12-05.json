@@ -4,66 +4,73 @@
   "title": "2026-12-05",
   "words": [
     {
-      "clue": "Feeling sure that you can do it",
-      "answer": "CONFIDENT",
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Someone riding in a vehicle but not driving",
-      "answer": "PASSENGER",
-      "row": 0,
+      "clue": "A person who looks after plants, lawns and flowerbeds",
+      "answer": "GARDENER",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A little bent wire that holds papers together",
-      "answer": "PAPERCLIP",
-      "row": 7,
+      "clue": "A very dark gray, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person who designs clothes",
-      "answer": "DESIGNER",
-      "row": 2,
-      "col": 4,
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A number with a dot in it, like 2.5",
-      "answer": "DECIMAL",
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
       "row": 5,
-      "col": 8,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 6,
+      "clue": "The flowers on a fruit tree in spring",
+      "answer": "BLOSSOM",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Facing danger without running away",
+      "answer": "BRAVE",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Where a computer keeps what it's working on right now",
-      "answer": "MEMORY",
-      "row": 9,
-      "col": 6,
+      "clue": "The path one object takes as it circles another",
+      "answer": "ORBIT",
+      "row": 3,
+      "col": 9,
       "direction": "across"
     },
     {
-      "clue": "You use it to rub out pencil marks",
-      "answer": "ERASER",
-      "row": 1,
-      "col": 11,
+      "clue": "Rough weather with strong wind and heavy rain",
+      "answer": "STORM",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The paved path that cars drive along",
+      "answer": "ROAD",
+      "row": 8,
+      "col": 8,
       "direction": "down"
     }
   ],

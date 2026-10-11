@@ -4,67 +4,74 @@
   "title": "2027-10-07",
   "words": [
     {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
-      "row": 3,
-      "col": 2,
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 0,
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
+      "row": 6,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
+      "clue": "A tall, hollow grass that pandas love to eat",
+      "answer": "BAMBOO",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A shiny cup you win as a prize",
+      "answer": "TROPHY",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The land right along the edge of the sea",
+      "answer": "COAST",
       "row": 2,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 0,
-      "col": 8,
+      "clue": "A robot spacecraft sent to explore far-off planets",
+      "answer": "PROBE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 7,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A tilted square shape, seen on playing cards",
-      "answer": "DIAMOND",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
-      "row": 7,
+      "clue": "A small vessel for traveling on water",
+      "answer": "BOAT",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You sweep the floor with it",
-      "answer": "BROOM",
-      "row": 2,
-      "col": 11,
+      "clue": "A single musical sound",
+      "answer": "NOTE",
+      "row": 0,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "The red planet, fourth from the Sun",
+      "answer": "MARS",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 482

@@ -4,66 +4,73 @@
   "title": "2027-07-31",
   "words": [
     {
-      "clue": "A tool that makes faraway things look close",
-      "answer": "TELESCOPE",
-      "row": 3,
-      "col": 0,
+      "clue": "What an astronaut wears to stay alive outside the ship",
+      "answer": "SPACESUIT",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of deep",
-      "answer": "SHALLOW",
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
       "row": 0,
-      "col": 2,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
+      "clue": "A small round fastener on a shirt, or a thing you click on screen",
+      "answer": "BUTTON",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A hook-topped frame for keeping clothes in a wardrobe",
+      "answer": "HANGER",
       "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of a banana or the sun",
-      "answer": "YELLOW",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 7,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Talking with typed messages online",
-      "answer": "CHAT",
-      "row": 0,
-      "col": 0,
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The stalk that holds a plant up",
-      "answer": "STEM",
-      "row": 3,
+      "clue": "The opposite of rich",
+      "answer": "POOR",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A green animal that hops and says ribbit",
+      "answer": "FROG",
+      "row": 6,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The part between your head and shoulders",
+      "answer": "NECK",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The roped square where a boxing match takes place",
+      "answer": "RING",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "An oval food laid by hens, often eaten at breakfast",
+      "answer": "EGG",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     }
   ],

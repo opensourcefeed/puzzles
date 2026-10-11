@@ -4,74 +4,74 @@
   "title": "Level 36",
   "words": [
     {
-      "clue": "A machine that washes the dirty dishes",
-      "answer": "DISHWASHER",
-      "row": 1,
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 0,
-      "col": 10,
+      "clue": "What an astronaut wears to stay alive outside the ship",
+      "answer": "SPACESUIT",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 1,
-      "col": 6,
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
+      "row": 4,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A person who fixes water pipes and taps",
-      "answer": "PLUMBER",
-      "row": 3,
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 2,
-      "col": 1,
+      "clue": "A pad of blank pages for your notes",
+      "answer": "NOTEBOOK",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The opposite of generous",
-      "answer": "SELFISH",
+      "clue": "The Sun and its planets: the solar ___",
+      "answer": "SYSTEM",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The shiny metal of a second-place medal",
+      "answer": "SILVER",
       "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A device that takes photos",
+      "answer": "CAMERA",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure that carries a road over water",
+      "answer": "BRIDGE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of after",
+      "answer": "BEFORE",
+      "row": 1,
       "col": 5,
       "direction": "across"
-    },
-    {
-      "clue": "A shape with eight sides, like a stop sign",
-      "answer": "OCTAGON",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Musical notes going up or down in order",
-      "answer": "SCALE",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A device you use to call people far away",
-      "answer": "PHONE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A wheeled robot that drives on the Moon or Mars",
-      "answer": "ROVER",
-      "row": 0,
-      "col": 13,
-      "direction": "down"
     }
   ],
   "wordCount": 10,

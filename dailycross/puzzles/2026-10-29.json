@@ -4,67 +4,74 @@
   "title": "2026-10-29",
   "words": [
     {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 2,
-      "col": 4,
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 2,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A breakfast food you eat with milk",
-      "answer": "CEREAL",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The huge empty area beyond Earth's sky",
-      "answer": "SPACE",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
       "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A space rock that circles the Sun; many lie between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A leafy green used to make salad",
+      "answer": "LETTUCE",
+      "row": 7,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "What a forecast on the news tells you about",
+      "answer": "WEATHER",
+      "row": 8,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The finger you point with",
-      "answer": "INDEX",
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
       "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 0,
-      "col": 12,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You cut your food with this",
-      "answer": "KNIFE",
+      "clue": "The opposite of below",
+      "answer": "ABOVE",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The short, thick finger that helps you grip",
+      "answer": "THUMB",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You dry yourself with this after washing",
-      "answer": "TOWEL",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
+      "clue": "A white or grey puff floating in the sky",
+      "answer": "CLOUD",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 139

@@ -4,58 +4,72 @@
   "title": "2028-06-09",
   "words": [
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A grain that is ground into flour for bread",
-      "answer": "WHEAT",
+      "clue": "Where you go on the swings and slide at break time",
+      "answer": "PLAYGROUND",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who leads tourists around",
-      "answer": "GUIDE",
-      "row": 1,
-      "col": 1,
+      "clue": "You stand on it and push along with one foot",
+      "answer": "SCOOTER",
+      "row": 5,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A grain with yellow kernels on a cob",
-      "answer": "CORN",
-      "row": 2,
-      "col": 5,
+      "clue": "It turns paper pages into computer files",
+      "answer": "SCANNER",
+      "row": 5,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A deep red, like the gemstone",
-      "answer": "RUBY",
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
       "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A food made from milk that cartoon mice love",
+      "answer": "CHEESE",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "To make something twice as big",
+      "answer": "DOUBLE",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A hanging spike of ice that forms when dripping water freezes",
+      "answer": "ICICLE",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Body tissue that tightens to move your bones",
+      "answer": "MUSCLE",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A small woody plant, shorter than a tree",
+      "answer": "SHRUB",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat surface of a solid shape",
+      "answer": "FACE",
+      "row": 13,
       "col": 7,
       "direction": "across"
     }

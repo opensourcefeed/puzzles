@@ -4,67 +4,74 @@
   "title": "2027-10-05",
   "words": [
     {
-      "clue": "A thick, wet forest that gets lots of rain",
-      "answer": "RAINFOREST",
-      "row": 2,
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 1,
-      "col": 6,
+      "clue": "The main printed guide your class learns a subject from",
+      "answer": "TEXTBOOK",
+      "row": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person who designs clothes",
-      "answer": "DESIGNER",
+      "clue": "A big arena with rows of seats for watching sports",
+      "answer": "STADIUM",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A shiny brass instrument with three valves",
+      "answer": "TRUMPET",
       "row": 4,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A farm bird that lays eggs and says cluck",
-      "answer": "CHICKEN",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The matching clothes a team wears",
-      "answer": "UNIFORM",
-      "row": 8,
+      "clue": "A cloud of gas and dust where new stars are born",
+      "answer": "NEBULA",
+      "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
+      "clue": "To make something twice as big",
+      "answer": "DOUBLE",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A device you use to call people far away",
+      "answer": "PHONE",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of back",
+      "answer": "FRONT",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A big animal that people ride",
-      "answer": "HORSE",
+      "clue": "A vegetable with layers that makes you cry when you cut it",
+      "answer": "ONION",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that climbs up walls and trees",
+      "answer": "VINE",
       "row": 0,
       "col": 8,
-      "direction": "across"
+      "direction": "down"
     }
   ],
   "dayNumber": 480

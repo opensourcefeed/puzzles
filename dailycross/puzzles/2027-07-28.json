@@ -4,60 +4,74 @@
   "title": "2027-07-28",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 1,
+      "clue": "A plank on four little wheels for tricks at the park",
+      "answer": "SKATEBOARD",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
       "row": 1,
-      "col": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
+      "clue": "A shooting star that zooms across the sky",
+      "answer": "METEOR",
       "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
-      "row": 7,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You hang clothes on it in the wardrobe",
-      "answer": "HANGER",
-      "row": 1,
-      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A pale sandy tan, like a coffee with lots of milk",
-      "answer": "BEIGE",
+      "clue": "A crunchy green vegetable with long stalks",
+      "answer": "CELERY",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A cloud of gas and dust where new stars are born",
+      "answer": "NEBULA",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The darkest color, like the night sky",
+      "answer": "BLACK",
       "row": 2,
-      "col": 5,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Feeling pleased and happy",
-      "answer": "GLAD",
-      "row": 3,
-      "col": 1,
+      "clue": "How you feel after doing something really well",
+      "answer": "PROUD",
+      "row": 2,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "The end of your arm, with four fingers and a thumb",
+      "answer": "HAND",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Little balls of ice that fall during a storm",
+      "answer": "HAIL",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The number that means nothing at all",
+      "answer": "ZERO",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
     }
   ],
   "dayNumber": 411

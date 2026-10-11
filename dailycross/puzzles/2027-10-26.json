@@ -4,67 +4,74 @@
   "title": "2027-10-26",
   "words": [
     {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 2,
-      "col": 0,
+      "clue": "Instruments you hit or shake, like drums",
+      "answer": "PERCUSSION",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A box you carry your lunch to school in",
-      "answer": "LUNCHBOX",
-      "row": 0,
-      "col": 4,
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 2,
+      "clue": "A four-sided shape with just one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who travels into space",
+      "answer": "ASTRONAUT",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
+      "clue": "A vehicle that blasts off into space",
+      "answer": "ROCKET",
       "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The part of a device that shows pictures and words",
-      "answer": "SCREEN",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 7,
+      "clue": "A perfectly round solid, like a ball",
+      "answer": "SPHERE",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "An icy space object with a long, glowing tail",
-      "answer": "COMET",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who flies an airplane",
-      "answer": "PILOT",
-      "row": 0,
-      "col": 2,
+      "clue": "In a bad mood, cross and complaining",
+      "answer": "GRUMPY",
+      "row": 12,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A train carriage that carries passengers",
-      "answer": "COACH",
-      "row": 2,
-      "col": 9,
+      "clue": "A big animal with hooves that people ride",
+      "answer": "HORSE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Three or more notes played at the same time",
+      "answer": "CHORD",
+      "row": 6,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A slow animal that leaves a slimy trail",
+      "answer": "SNAIL",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 501

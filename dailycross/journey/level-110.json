@@ -4,119 +4,148 @@
   "title": "Level 110",
   "words": [
     {
-      "clue": "A tiny chip that stores photos inside a camera",
-      "answer": "MEMORYCARD",
+      "clue": "A ship that can travel deep underwater",
+      "answer": "SUBMARINE",
       "row": 7,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A vehicle that rushes sick people to the hospital",
-      "answer": "AMBULANCE",
-      "row": 6,
-      "col": 4,
+      "clue": "Feeling sure that you can do it",
+      "answer": "CONFIDENT",
+      "row": 5,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A part of a whole, like one-half",
-      "answer": "FRACTION",
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
       "row": 6,
-      "col": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A secret word that unlocks your account",
-      "answer": "PASSWORD",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 14,
+      "clue": "A scientist who studies animals",
+      "answer": "ZOOLOGIST",
+      "row": 10,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A tool for drawing perfect circles",
-      "answer": "COMPASS",
-      "row": 11,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
-      "row": 1,
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
+      "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A device that plays sound out loud",
-      "answer": "SPEAKER",
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A dark leafy green that made Popeye strong",
+      "answer": "SPINACH",
+      "row": 14,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small oval nut with a mild, sweet flavor",
+      "answer": "ALMOND",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
+      "clue": "A small boat for one, with a double-ended paddle",
+      "answer": "KAYAK",
       "row": 0,
-      "col": 5,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A round citrus fruit you peel and eat in slices",
-      "answer": "ORANGE",
+      "clue": "A tall machine with an arm that lifts heavy things",
+      "answer": "CRANE",
       "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You use this to taste your food",
-      "answer": "TONGUE",
-      "row": 9,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A wire that charges or connects your devices",
+      "answer": "CABLE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A dull yellow-brown, like army uniforms",
+      "answer": "KHAKI",
+      "row": 0,
+      "col": 10,
       "direction": "across"
     },
     {
-      "clue": "The second planet from the Sun, and the hottest one",
-      "answer": "VENUS",
-      "row": 7,
-      "col": 14,
-      "direction": "down"
+      "clue": "A big test at the end of term",
+      "answer": "EXAM",
+      "row": 11,
+      "col": 10,
+      "direction": "across"
     },
     {
-      "clue": "A wheeled robot that drives on the Moon or Mars",
-      "answer": "ROVER",
-      "row": 8,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Water in the form of a gas",
-      "answer": "VAPOR",
+      "clue": "Melted rock that flows out of a volcano",
+      "answer": "LAVA",
       "row": 10,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "You bake and roast food inside this",
-      "answer": "OVEN",
-      "row": 0,
-      "col": 8,
+      "clue": "A grain cooked into porridge",
+      "answer": "OATS",
+      "row": 11,
+      "col": 4,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 20,
   "targetWords": 20,
   "difficulty": "hard"
 }

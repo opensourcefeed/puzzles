@@ -4,98 +4,148 @@
   "title": "Level 115",
   "words": [
     {
-      "clue": "A tiny chip that stores photos inside a camera",
-      "answer": "MEMORYCARD",
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small note that sticks where you press it",
-      "answer": "STICKYNOTE",
-      "row": 4,
-      "col": 8,
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling fidgety and unable to sit still",
-      "answer": "RESTLESS",
-      "row": 7,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
+      "clue": "The person who waves a baton to lead an orchestra",
+      "answer": "CONDUCTOR",
       "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
-      "row": 14,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The organ that breaks down the food you eat",
-      "answer": "STOMACH",
-      "row": 4,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 12,
-      "col": 1,
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
+      "row": 3,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A person whose job is to clean buildings",
-      "answer": "CLEANER",
-      "row": 8,
-      "col": 12,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 5,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
+      "clue": "A line joining two opposite corners",
+      "answer": "DIAGONAL",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
       "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
+      "row": 14,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
+      "row": 5,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The loud boom after a flash of lightning",
-      "answer": "THUNDER",
-      "row": 1,
-      "col": 7,
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
+      "row": 11,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small string instrument played with a bow",
-      "answer": "VIOLIN",
+      "clue": "A tall, hollow grass that pandas love to eat",
+      "answer": "BAMBOO",
+      "row": 9,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A box that shares the internet around your home",
+      "answer": "ROUTER",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A strong-smelling bulb used to flavor cooking",
+      "answer": "GARLIC",
       "row": 9,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A grain that is ground into flour for bread",
-      "answer": "WHEAT",
-      "row": 5,
+      "clue": "A person who sews and alters clothes",
+      "answer": "TAILOR",
+      "row": 1,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A book full of maps",
+      "answer": "ATLAS",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A long chain of mountains, like the Himalayas",
+      "answer": "RANGE",
+      "row": 0,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Three or more notes played at the same time",
+      "answer": "CHORD",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The five lines that music is written on",
+      "answer": "STAFF",
+      "row": 10,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A small green citrus fruit, sour like a lemon",
+      "answer": "LIME",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 20,
   "targetWords": 20,
   "difficulty": "hard"
 }

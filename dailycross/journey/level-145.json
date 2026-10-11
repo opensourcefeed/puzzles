@@ -4,105 +4,148 @@
   "title": "Level 145",
   "words": [
     {
-      "clue": "A sport where you throw a ball through a high hoop",
-      "answer": "BASKETBALL",
-      "row": 6,
-      "col": 2,
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A little bent wire that holds papers together",
-      "answer": "PAPERCLIP",
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
       "row": 5,
-      "col": 9,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A boat that can travel underwater",
-      "answer": "SUBMARINE",
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
       "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sure that you can do it",
-      "answer": "CONFIDENT",
-      "row": 2,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 12,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 3,
+      "clue": "A curvy metal instrument played with a reed, popular in jazz",
+      "answer": "SAXOPHONE",
+      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 0,
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 5,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A place where trains stop to pick up passengers",
-      "answer": "STATION",
-      "row": 1,
+      "clue": "A person who designs machines, bridges and roads",
+      "answer": "ENGINEER",
+      "row": 5,
       "col": 14,
       "direction": "down"
     },
     {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 4,
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Someone who delivers parcels to your door",
+      "answer": "COURIER",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall pipe that carries smoke out through the roof",
+      "answer": "CHIMNEY",
+      "row": 14,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A tool for measuring and drawing straight lines",
-      "answer": "RULER",
-      "row": 8,
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Body tissue that tightens to move your bones",
+      "answer": "MUSCLE",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint between your hand and your arm",
+      "answer": "WRIST",
+      "row": 10,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A large bowl used for washing",
-      "answer": "BASIN",
-      "row": 4,
+      "clue": "The five lines that music is written on",
+      "answer": "STAFF",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 12,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A pale sandy color, like milky coffee",
+      "answer": "BEIGE",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
+      "row": 14,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A large stream of water flowing across the land",
-      "answer": "RIVER",
-      "row": 12,
-      "col": 1,
+      "clue": "A plant like basil or parsley used to flavor food",
+      "answer": "HERB",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Instructions written for a computer",
+      "answer": "CODE",
+      "row": 1,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "A container with a handle and spout for pouring water",
+      "answer": "JUG",
+      "row": 11,
+      "col": 12,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 20,
   "targetWords": 24,
   "difficulty": "hard"
 }

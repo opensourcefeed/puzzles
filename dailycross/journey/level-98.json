@@ -4,112 +4,133 @@
   "title": "Level 98",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
       "row": 7,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person watching a game from the stands",
-      "answer": "SPECTATOR",
-      "row": 4,
-      "col": 5,
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
+      "row": 6,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A person who builds things out of wood",
-      "answer": "CARPENTER",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
     },
     {
-      "clue": "A black-and-white bird that waddles on the ice",
-      "answer": "PENGUIN",
-      "row": 8,
+      "clue": "A solid with two round ends, like a can",
+      "answer": "CYLINDER",
+      "row": 3,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A person who puts up buildings",
-      "answer": "BUILDER",
+      "clue": "A long purple vegetable with shiny skin",
+      "answer": "EGGPLANT",
       "row": 13,
-      "col": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A hard, hairy fruit with white flesh and water inside",
-      "answer": "COCONUT",
-      "row": 6,
-      "col": 3,
+      "clue": "A small animal covered in spines that curls into a ball",
+      "answer": "HEDGEHOG",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 5,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The little seed hidden inside a shell, like in a nut",
-      "answer": "KERNEL",
-      "row": 7,
+      "clue": "To look something up on the internet",
+      "answer": "SEARCH",
+      "row": 5,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of awake",
+      "answer": "ASLEEP",
+      "row": 11,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep purple, the last color of the rainbow",
+      "answer": "VIOLET",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft cushion you rest your head on in bed",
+      "answer": "PILLOW",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The arm of a tree that grows out from the trunk",
+      "answer": "BRANCH",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of turn between two lines that meet",
+      "answer": "ANGLE",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The person in charge of a courtroom",
+      "answer": "JUDGE",
+      "row": 10,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "One colorful piece of a flower",
+      "answer": "PETAL",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Acting funny and foolish to make people laugh",
+      "answer": "SILLY",
+      "row": 0,
       "col": 12,
       "direction": "down"
-    },
-    {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that washes your clothes",
-      "answer": "WASHER",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A city bird once used to carry messages",
-      "answer": "PIGEON",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The body part you think with",
-      "answer": "BRAIN",
-      "row": 2,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling that you need rest or sleep",
-      "answer": "TIRED",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A small woody plant, shorter than a tree",
-      "answer": "SHRUB",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who cares for patients and helps doctors",
-      "answer": "NURSE",
-      "row": 2,
-      "col": 8,
-      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 18,
   "targetWords": 18,
   "difficulty": "medium"
 }

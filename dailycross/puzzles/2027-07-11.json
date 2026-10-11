@@ -4,67 +4,74 @@
   "title": "2027-07-11",
   "words": [
     {
-      "clue": "You wear these on your ears to listen",
-      "answer": "HEADPHONES",
-      "row": 4,
-      "col": 2,
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The fuel that most cars run on",
-      "answer": "GASOLINE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling bad about something you did wrong",
-      "answer": "ASHAMED",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet we live on",
-      "answer": "EARTH",
-      "row": 0,
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
-      "row": 10,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "Thin sheets you write or draw on",
-      "answer": "PAPER",
-      "row": 4,
+      "clue": "A book full of maps",
+      "answer": "ATLAS",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Talking with typed messages online",
-      "answer": "CHAT",
-      "row": 1,
+      "clue": "A wheeled robot that drives around on Mars",
+      "answer": "ROVER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, juicy tropical fruit with a big flat seed; India's national fruit",
+      "answer": "MANGO",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of bright",
+      "answer": "DARK",
+      "row": 6,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A soft white food made from soybeans",
+      "answer": "TOFU",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Melted rock that flows out of a volcano",
+      "answer": "LAVA",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that's not too hot and not too cold",
+      "answer": "MILD",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 394

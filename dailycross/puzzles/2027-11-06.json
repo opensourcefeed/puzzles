@@ -4,66 +4,73 @@
   "title": "2027-11-06",
   "words": [
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
       "row": 4,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A shape like a door: two long sides and two short",
-      "answer": "RECTANGLE",
+      "clue": "The panel of keys you type on",
+      "answer": "KEYBOARD",
       "row": 3,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 9,
+      "clue": "A very tall, steep, rocky peak",
+      "answer": "MOUNTAIN",
+      "row": 7,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 3,
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling confused by something tricky",
+      "answer": "PUZZLED",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of brave",
-      "answer": "AFRAID",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft yellow spread made from cream",
-      "answer": "BUTTER",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A light red color, like bubblegum",
-      "answer": "PINK",
-      "row": 7,
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A short typed message sent between phones",
-      "answer": "TEXT",
-      "row": 4,
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A pale sandy color, like milky coffee",
+      "answer": "BEIGE",
+      "row": 2,
       "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "White flakes that fall in cold weather",
+      "answer": "SNOW",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     }
   ],

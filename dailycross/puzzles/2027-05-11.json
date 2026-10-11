@@ -4,73 +4,74 @@
   "title": "2027-05-11",
   "words": [
     {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
       "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who catches fish for a living",
-      "answer": "FISHER",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 4,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "The little seed hidden inside a shell, like in a nut",
-      "answer": "KERNEL",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A spiky desert plant that stores water",
-      "answer": "CACTUS",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of day",
-      "answer": "NIGHT",
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
       "row": 1,
-      "col": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Wooden bars you hit with mallets to play notes",
+      "answer": "XYLOPHONE",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A small, narrow stream",
-      "answer": "CREEK",
-      "row": 9,
+      "clue": "A bright pinkish-purple used in printer ink",
+      "answer": "MAGENTA",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A crunchy breakfast food you eat with milk",
+      "answer": "CEREAL",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The blast-off when a rocket lifts into the sky",
+      "answer": "LAUNCH",
+      "row": 7,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A food made from milk that cartoon mice love",
+      "answer": "CHEESE",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The + sign, used for adding",
+      "answer": "PLUS",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a plant that grows underground and drinks water",
+      "answer": "ROOT",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The ring you shoot a basketball through",
+      "answer": "HOOP",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     }
   ],

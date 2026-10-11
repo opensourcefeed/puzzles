@@ -4,66 +4,73 @@
   "title": "2028-02-19",
   "words": [
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 5,
-      "col": 0,
+      "clue": "A bright green gemstone",
+      "answer": "EMERALD",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person whose job is to paint walls and buildings",
-      "answer": "PAINTER",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who helps sick people get better",
-      "answer": "DOCTOR",
-      "row": 3,
+      "clue": "An animal that builds dams out of wood",
+      "answer": "BEAVER",
+      "row": 0,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Where a computer keeps what it's working on; also your power to remember",
+      "answer": "MEMORY",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A photo you take of yourself",
+      "answer": "SELFIE",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A tiny dried seed often used in soup",
-      "answer": "LENTIL",
-      "row": 9,
+      "clue": "Sliding down snowy mountains on two long boards",
+      "answer": "SKIING",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The number of points in a game",
+      "answer": "SCORE",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A big ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep red gemstone",
+      "answer": "RUBY",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Weather with strong, blowing winds",
-      "answer": "WINDY",
-      "row": 0,
+      "clue": "It circles Earth and seems to change shape each night",
+      "answer": "MOON",
+      "row": 6,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You smell with this",
+      "answer": "NOSE",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     }
   ],

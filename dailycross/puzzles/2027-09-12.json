@@ -4,67 +4,74 @@
   "title": "2027-09-12",
   "words": [
     {
-      "clue": "A tiny chip that stores photos inside a camera",
-      "answer": "MEMORYCARD",
-      "row": 2,
+      "clue": "The sport of racing through the water in a pool",
+      "answer": "SWIMMING",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
+      "clue": "Able to wait calmly without complaining",
+      "answer": "PATIENT",
       "row": 0,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
-      "row": 4,
+      "clue": "The loud boom that follows a flash in a storm",
+      "answer": "THUNDER",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The sport of moving fast on your feet",
-      "answer": "RUNNING",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You use it to control the TV from your seat",
-      "answer": "REMOTE",
-      "row": 1,
-      "col": 1,
+      "clue": "The gas in the air that we need to breathe",
+      "answer": "OXYGEN",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A dull yellow-brown, like army uniforms",
-      "answer": "KHAKI",
-      "row": 4,
-      "col": 8,
+      "clue": "The corner point where two lines meet",
+      "answer": "VERTEX",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The − sign, used for taking away",
-      "answer": "MINUS",
+      "clue": "A small metal cupboard at school for your things",
+      "answer": "LOCKER",
       "row": 0,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The opposite of bright",
-      "answer": "DARK",
-      "row": 3,
-      "col": 10,
+      "clue": "A tall, steep rock face",
+      "answer": "CLIFF",
+      "row": 1,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "How fast or slow the music is played",
+      "answer": "TEMPO",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny grains of rock found on a beach",
+      "answer": "SAND",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of a plant that grows underground and drinks water",
+      "answer": "ROOT",
+      "row": 6,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 457

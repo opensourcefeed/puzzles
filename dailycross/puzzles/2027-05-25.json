@@ -4,53 +4,60 @@
   "title": "2027-05-25",
   "words": [
     {
-      "clue": "A long, wiggly animal that lives in the soil",
-      "answer": "EARTHWORM",
-      "row": 2,
+      "clue": "A plastic pipe many children learn to play at school",
+      "answer": "RECORDER",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who cuts and sells meat",
-      "answer": "BUTCHER",
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
       "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright, bold pink",
-      "answer": "FUCHSIA",
-      "row": 3,
-      "col": 7,
+      "clue": "Wanting what someone else has; green with envy",
+      "answer": "JEALOUS",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 9,
-      "col": 1,
+      "clue": "A hard, hairy fruit with white flesh and water inside",
+      "answer": "COCONUT",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "You eat soup with this",
-      "answer": "SPOON",
-      "row": 7,
-      "col": 7,
+      "clue": "The main tune of a song",
+      "answer": "MELODY",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
+      "row": 3,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A silver pipe you blow across, held out sideways",
+      "answer": "FLUTE",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A tiny picture, like a smiley face, that you add to messages",
+      "answer": "EMOJI",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 347

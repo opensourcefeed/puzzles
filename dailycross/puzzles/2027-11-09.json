@@ -4,66 +4,73 @@
   "title": "2027-11-09",
   "words": [
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
       "row": 6,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet brown treat made from cocoa beans",
-      "answer": "CHOCOLATE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet frozen treat made from milk",
-      "answer": "ICECREAM",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A strong farm vehicle that pulls heavy loads",
-      "answer": "TRACTOR",
-      "row": 11,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The yellow dust made by flowers",
-      "answer": "POLLEN",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, crunchy root with a peppery taste",
-      "answer": "RADISH",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
+      "clue": "A person who makes music with their voice",
+      "answer": "SINGER",
+      "row": 6,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A big round world that circles a star",
+      "answer": "PLANET",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A round dent on the Moon made by a crashing space rock",
+      "answer": "CRATER",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The two organs that fill with air when you breathe",
+      "answer": "LUNGS",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A glass shape that splits light into a rainbow",
+      "answer": "PRISM",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft, wet land that is often flooded",
+      "answer": "MARSH",
       "row": 0,
-      "col": 8,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Bright weather with no clouds at all",
+      "answer": "CLEAR",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Moving air you can feel but not see",
+      "answer": "WIND",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, thin stick from a tree",
+      "answer": "TWIG",
+      "row": 9,
+      "col": 3,
       "direction": "down"
     }
   ],

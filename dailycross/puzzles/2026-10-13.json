@@ -4,74 +4,60 @@
   "title": "2026-10-13",
   "words": [
     {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 5,
+      "clue": "You slip it between pages to save your place",
+      "answer": "BOOKMARK",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The soft side of your face below your eye",
-      "answer": "CHEEK",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who cares for patients and helps doctors",
-      "answer": "NURSE",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your foot to your leg",
-      "answer": "ANKLE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of three musicians",
-      "answer": "TRIO",
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
       "row": 3,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who speaks for you in court",
+      "answer": "LAWYER",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The muscle at the back of your lower leg",
-      "answer": "CALF",
-      "row": 9,
-      "col": 4,
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 5,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "A big ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A big vehicle for carrying goods by road",
+      "answer": "TRUCK",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Kicking or throwing the ball to a teammate",
+      "answer": "PASS",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A cook in charge of a restaurant kitchen",
+      "answer": "CHEF",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 123

@@ -4,58 +4,72 @@
   "title": "2027-08-28",
   "words": [
     {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "An electronic machine that runs programs",
+      "answer": "COMPUTER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that sucks up dust from the floor",
+      "answer": "VACUUM",
       "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A little bent wire that holds papers together",
-      "answer": "PAPERCLIP",
-      "row": 0,
+      "clue": "A large stream of water flowing across the land to the sea",
+      "answer": "RIVER",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who gathers and tells the news",
-      "answer": "REPORTER",
+      "clue": "___ panels turn sunshine into electricity",
+      "answer": "SOLAR",
       "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 2,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 6,
+      "clue": "A hard, solid lump of stone",
+      "answer": "ROCK",
+      "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
+      "clue": "The hard covering at the tip of a finger or toe",
+      "answer": "NAIL",
       "row": 0,
-      "col": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A sticky liquid used to join paper together",
-      "answer": "GLUE",
-      "row": 3,
+      "clue": "A straight mark between two points",
+      "answer": "LINE",
+      "row": 11,
       "col": 0,
       "direction": "across"
     }

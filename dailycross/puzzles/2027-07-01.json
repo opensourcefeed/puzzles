@@ -4,59 +4,73 @@
   "title": "2027-07-01",
   "words": [
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 5,
-      "col": 1,
+      "clue": "Instruments you hit or shake, like drums",
+      "answer": "PERCUSSION",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
+      "clue": "The curved shape of a thin new moon",
+      "answer": "CRESCENT",
       "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A spot where water flows out of the ground",
-      "answer": "SPRING",
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
       "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A brass instrument with a sliding tube",
+      "answer": "TROMBONE",
+      "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Where a computer keeps what it's working on right now",
-      "answer": "MEMORY",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of correct",
-      "answer": "WRONG",
-      "row": 3,
+      "clue": "The biggest planet, with a giant red spot",
+      "answer": "JUPITER",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Connected cars that run along railway tracks",
-      "answer": "TRAIN",
-      "row": 9,
-      "col": 6,
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A Japanese martial art with kicks, chops and colored belts",
+      "answer": "KARATE",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of top",
+      "answer": "BOTTOM",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A tiny insect that lives in a big colony",
+      "answer": "ANT",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "One of the five little digits on your foot",
+      "answer": "TOE",
+      "row": 2,
+      "col": 10,
       "direction": "across"
     }
   ],

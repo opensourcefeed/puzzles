@@ -4,98 +4,106 @@
   "title": "Level 70",
   "words": [
     {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 6,
-      "col": 2,
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "How much rain has fallen",
-      "answer": "RAINFALL",
-      "row": 3,
-      "col": 6,
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
+      "row": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The instrument family that includes the violin, cello, and guitar",
-      "answer": "STRINGS",
-      "row": 6,
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
+      "row": 10,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "An electronic machine that runs programs",
+      "answer": "COMPUTER",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The opposite of generous",
-      "answer": "SELFISH",
+      "clue": "A pink bird that often stands on one leg",
+      "answer": "FLAMINGO",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Glad that a worry is finally over",
+      "answer": "RELIEVED",
       "row": 12,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 4,
+      "clue": "Able to wait calmly without complaining",
+      "answer": "PATIENT",
+      "row": 2,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel the night before your birthday party",
+      "answer": "EXCITED",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A pen with a thick tip for whiteboards",
-      "answer": "MARKER",
-      "row": 4,
+      "clue": "A tall machine with an arm that lifts heavy things",
+      "answer": "CRANE",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel when there is nothing to do",
+      "answer": "BORED",
+      "row": 3,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A striped animal that looks like a horse",
+      "answer": "ZEBRA",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A group of twelve, like eggs in a box",
+      "answer": "DOZEN",
+      "row": 10,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A pale purple, like the spring flower of the same name",
+      "answer": "LILAC",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 7,
+      "clue": "Bright and warm, with no clouds in the sky",
+      "answer": "SUNNY",
+      "row": 14,
       "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sad because you are all alone",
-      "answer": "LONELY",
-      "row": 9,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The distance from a circle's center to its edge",
-      "answer": "RADIUS",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep valley with steep sides and a river below",
-      "answer": "CANYON",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A round red fruit used in salads and sauces",
-      "answer": "TOMATO",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A small juicy fruit often used in jam",
-      "answer": "BERRY",
-      "row": 8,
-      "col": 1,
       "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 14,
   "targetWords": 14,
   "difficulty": "medium"
 }

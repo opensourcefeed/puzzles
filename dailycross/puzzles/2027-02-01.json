@@ -4,66 +4,73 @@
   "title": "2027-02-01",
   "words": [
     {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
-      "row": 5,
+      "clue": "The screen you watch cartoons and movies on",
+      "answer": "TELEVISION",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sport where you hit a ball over a net with your hands",
-      "answer": "VOLLEYBALL",
-      "row": 1,
-      "col": 3,
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 8,
-      "col": 2,
+      "clue": "To bring a file from the internet onto your device",
+      "answer": "DOWNLOAD",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
+      "clue": "It turns slices of bread brown and crunchy",
+      "answer": "TOASTER",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
     },
     {
-      "clue": "An event where you jump as far forward as you can",
-      "answer": "LONGJUMP",
+      "clue": "The opposite of never",
+      "answer": "ALWAYS",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
       "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A cardboard cover that keeps loose papers together",
+      "answer": "FOLDER",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The green plant that covers a lawn",
+      "answer": "GRASS",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The number of points in a game",
+      "answer": "SCORE",
+      "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A boat that carries people and cars across water",
-      "answer": "FERRY",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The huge empty area beyond Earth's sky",
-      "answer": "SPACE",
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
       "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The open ground where a sport is played",
-      "answer": "FIELD",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
-      "row": 1,
-      "col": 1,
+      "col": 10,
       "direction": "down"
     }
   ],

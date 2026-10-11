@@ -4,59 +4,73 @@
   "title": "2027-12-19",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A giant, spinning storm that forms over the ocean",
-      "answer": "HURRICANE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dark gray, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A colorful bird that can copy your words",
-      "answer": "PARROT",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
       "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A number you can split into two equal parts",
-      "answer": "EVEN",
-      "row": 8,
-      "col": 8,
+      "clue": "A very dark gray, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The strap you click across you before the car moves",
+      "answer": "SEATBELT",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that puts your work onto paper",
+      "answer": "PRINTER",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Our galaxy is the ___ Way",
+      "answer": "MILKY",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Water in the form of a gas",
+      "answer": "VAPOR",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The path one object takes as it circles another",
+      "answer": "ORBIT",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The end of your arm, with four fingers and a thumb",
+      "answer": "HAND",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A single musical sound",
+      "answer": "NOTE",
+      "row": 2,
+      "col": 10,
       "direction": "across"
     }
   ],

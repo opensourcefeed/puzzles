@@ -4,73 +4,74 @@
   "title": "2027-07-09",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 7,
-      "col": 1,
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A little bit of water in the air",
-      "answer": "MOISTURE",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who plays music or sings for a living",
-      "answer": "MUSICIAN",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A very long-distance running race",
-      "answer": "MARATHON",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 7,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A card with your name and photo on it",
-      "answer": "IDCARD",
+      "clue": "The person who waves a baton to lead an orchestra",
+      "answer": "CONDUCTOR",
       "row": 0,
-      "col": 11,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A small woody plant, shorter than a tree",
-      "answer": "SHRUB",
+      "clue": "A person who travels into space",
+      "answer": "ASTRONAUT",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A thin, light fog close to the ground",
-      "answer": "MIST",
+      "clue": "You slip it between pages to save your place",
+      "answer": "BOOKMARK",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten hundreds",
+      "answer": "THOUSAND",
       "row": 10,
-      "col": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling confused by something tricky",
+      "answer": "PUZZLED",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "What water does when it turns into ice",
+      "answer": "FREEZE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates paintings and drawings",
+      "answer": "ARTIST",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Spaghetti and macaroni are types of this",
+      "answer": "PASTA",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     }
   ],

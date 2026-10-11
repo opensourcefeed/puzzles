@@ -4,39 +4,39 @@
   "title": "Level 2",
   "words": [
     {
-      "clue": "A shape with three straight sides",
-      "answer": "TRIANGLE",
-      "row": 4,
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A hard, hairy fruit with white flesh and water inside",
-      "answer": "COCONUT",
+      "clue": "A shape with three straight sides",
+      "answer": "TRIANGLE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
       "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A pad of blank pages for your notes",
+      "answer": "NOTEBOOK",
+      "row": 8,
       "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A baby plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft, pale yellow",
-      "answer": "BUTTER",
-      "row": 6,
-      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small, smooth stone",
-      "answer": "PEBBLE",
-      "row": 5,
+      "clue": "A long, curved yellow fruit you peel",
+      "answer": "BANANA",
+      "row": 4,
       "col": 6,
-      "direction": "down"
+      "direction": "across"
     }
   ],
   "wordCount": 5,

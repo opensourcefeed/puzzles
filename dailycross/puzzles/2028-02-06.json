@@ -4,51 +4,73 @@
   "title": "2028-02-06",
   "words": [
     {
-      "clue": "It makes a pencil pointy again",
-      "answer": "SHARPENER",
-      "row": 2,
-      "col": 1,
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A little bent wire that holds papers together",
-      "answer": "PAPERCLIP",
-      "row": 0,
-      "col": 5,
+      "clue": "A tall cupboard for hanging up your clothes",
+      "answer": "WARDROBE",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A farm bird that lays eggs and says cluck",
-      "answer": "CHICKEN",
-      "row": 1,
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
+      "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The words of a song",
-      "answer": "LYRICS",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of a device that shows pictures and words",
-      "answer": "SCREEN",
-      "row": 8,
-      "col": 6,
+      "clue": "A person who looks after plants, lawns and flowerbeds",
+      "answer": "GARDENER",
+      "row": 9,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
+      "clue": "How you feel the night before your birthday party",
+      "answer": "EXCITED",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The color you get by mixing red and blue",
+      "answer": "PURPLE",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The amount of space inside a flat shape",
+      "answer": "AREA",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The ring you shoot a basketball through",
+      "answer": "HOOP",
       "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A green animal that hops and says ribbit",
+      "answer": "FROG",
+      "row": 1,
       "col": 0,
       "direction": "across"
     }

@@ -4,66 +4,74 @@
   "title": "2028-03-27",
   "words": [
     {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
+      "clue": "A curvy metal instrument played with a reed, popular in jazz",
+      "answer": "SAXOPHONE",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
       "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with eight sides, like a stop sign",
-      "answer": "OCTAGON",
+      "clue": "Kind and easy to get along with",
+      "answer": "FRIENDLY",
       "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who serves in an army",
+      "answer": "SOLDIER",
+      "row": 4,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A team sport where you kick a ball into a goal",
-      "answer": "SOCCER",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
+      "clue": "In a bad mood, cross and complaining",
+      "answer": "GRUMPY",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "The sport of moving a boat with oars",
-      "answer": "ROWING",
-      "row": 8,
+      "clue": "The Sun and its planets: the solar ___",
+      "answer": "SYSTEM",
+      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The longest finger, right in the center of your hand",
-      "answer": "MIDDLE",
-      "row": 1,
-      "col": 3,
-      "direction": "across"
+      "clue": "The opposite of old",
+      "answer": "YOUNG",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
     },
     {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
-      "row": 7,
+      "clue": "The hard parts that make up your skeleton",
+      "answer": "BONES",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A cover that keeps your loose papers together",
-      "answer": "FOLDER",
-      "row": 12,
-      "col": 0,
+      "clue": "A sweet fruit, narrow at the top and round at the bottom",
+      "answer": "PEAR",
+      "row": 8,
+      "col": 5,
       "direction": "across"
     }
   ],

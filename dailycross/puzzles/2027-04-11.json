@@ -4,66 +4,73 @@
   "title": "2027-04-11",
   "words": [
     {
-      "clue": "An object that circles a planet to send signals",
-      "answer": "SATELLITE",
-      "row": 5,
-      "col": 2,
+      "clue": "A pad of blank pages for your notes",
+      "answer": "NOTEBOOK",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Someone riding in a vehicle but not driving",
-      "answer": "PASSENGER",
-      "row": 4,
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 9,
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "To send a file from your device to the internet",
+      "answer": "UPLOAD",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ that breaks down the food you eat",
-      "answer": "STOMACH",
-      "row": 4,
+      "clue": "How you feel when there is nothing to do",
+      "answer": "BORED",
+      "row": 5,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You hang clothes on it in the wardrobe",
-      "answer": "HANGER",
+      "clue": "A large string instrument played sitting down",
+      "answer": "CELLO",
       "row": 8,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The arrow that shows where your mouse is pointing",
-      "answer": "CURSOR",
-      "row": 7,
-      "col": 7,
-      "direction": "down"
+      "clue": "A sandy shore where you build sandcastles",
+      "answer": "BEACH",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "The number of points in a game",
-      "answer": "SCORE",
+      "clue": "Information stored on a computer",
+      "answer": "DATA",
       "row": 0,
-      "col": 7,
+      "col": 4,
       "direction": "down"
     }
   ],

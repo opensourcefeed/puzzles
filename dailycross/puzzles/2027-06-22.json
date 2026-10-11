@@ -4,66 +4,73 @@
   "title": "2027-06-22",
   "words": [
     {
-      "clue": "The tree that grows apples",
-      "answer": "APPLETREE",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Any flat shape made of straight sides",
-      "answer": "POLYGON",
-      "row": 4,
+      "clue": "The person who stamps your books and helps you find the next one",
+      "answer": "LIBRARIAN",
+      "row": 3,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 6,
-      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dry place that gets little rain, like the Sahara",
+      "answer": "DESERT",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A metal disc on a ribbon given to winners",
+      "answer": "MEDAL",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A fine powder made from wheat, used for baking",
+      "answer": "FLOUR",
       "row": 2,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The muscle at the back of your lower leg, or a baby cow",
+      "answer": "CALF",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of thick",
+      "answer": "THIN",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The end of your arm, with four fingers and a thumb",
+      "answer": "HAND",
+      "row": 8,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The clear liquid that all living things need",
-      "answer": "WATER",
-      "row": 3,
+      "clue": "The opposite of near",
+      "answer": "FAR",
+      "row": 6,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of win",
-      "answer": "LOSE",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft white food made from soybeans",
-      "answer": "TOFU",
-      "row": 9,
-      "col": 1,
       "direction": "across"
     }
   ],

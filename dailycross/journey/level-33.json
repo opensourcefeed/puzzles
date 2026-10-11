@@ -4,63 +4,71 @@
   "title": "Level 33",
   "words": [
     {
-      "clue": "A person who helps students learn at school",
-      "answer": "TEACHER",
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A green fruit with a big pit inside",
-      "answer": "AVOCADO",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "An orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 5,
+      "clue": "A red emergency vehicle with ladders and hoses",
+      "answer": "FIREENGINE",
+      "enumeration": "4,6",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge group of stars held together in space",
-      "answer": "GALAXY",
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
       "row": 9,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The land right along the edge of the sea",
-      "answer": "COAST",
-      "row": 11,
+      "clue": "The referee blows this to stop play",
+      "answer": "WHISTLE",
+      "row": 4,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A round vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A round red fruit that is made into ketchup",
+      "answer": "TOMATO",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A person who cares for patients and helps doctors",
-      "answer": "NURSE",
-      "row": 1,
-      "col": 5,
+      "clue": "The opposite of day",
+      "answer": "NIGHT",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A cup-shaped spring flower that is famous in Holland",
+      "answer": "TULIP",
+      "row": 8,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 9,
   "targetWords": 9,
   "difficulty": "medium"
 }

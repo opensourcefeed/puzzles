@@ -4,65 +4,73 @@
   "title": "2027-05-27",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling calm and not worried at all",
-      "answer": "RELAXED",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
+      "clue": "Instruments you hit or shake, like drums",
+      "answer": "PERCUSSION",
       "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "What we hear with our ears",
-      "answer": "SOUND",
-      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, narrow stream",
-      "answer": "CREEK",
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Really wanting to find out more",
+      "answer": "CURIOUS",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where you hit a ball over a net with a racket",
+      "answer": "TENNIS",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, smooth stone",
+      "answer": "PEBBLE",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep, narrow valley with steep rocky sides",
+      "answer": "GORGE",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that climbs up walls and trees",
+      "answer": "VINE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A big body of fresh water with land all around it",
+      "answer": "LAKE",
       "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A pale sandy tan, like a coffee with lots of milk",
-      "answer": "BEIGE",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small juicy fruit often used in jam",
-      "answer": "BERRY",
-      "row": 8,
+      "clue": "The part between your head and shoulders",
+      "answer": "NECK",
+      "row": 9,
       "col": 6,
       "direction": "across"
     }

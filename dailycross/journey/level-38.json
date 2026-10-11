@@ -4,70 +4,77 @@
   "title": "Level 38",
   "words": [
     {
-      "clue": "Very, very surprised or amazed",
-      "answer": "ASTONISHED",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A dark cloud that brings rain",
-      "answer": "RAINCLOUD",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The airless empty space between the stars",
-      "answer": "VACUUM",
+      "clue": "The big wipe-clean surface teachers write on with markers",
+      "answer": "WHITEBOARD",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 4,
-      "col": 11,
+      "clue": "Kind and easy to get along with",
+      "answer": "FRIENDLY",
+      "row": 6,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A pale purple-pink",
-      "answer": "LILAC",
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The answer you get when you multiply",
+      "answer": "PRODUCT",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A doctor who looks after your teeth",
+      "answer": "DENTIST",
       "row": 4,
-      "col": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel watching a spooky movie",
+      "answer": "SCARED",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "An animal that builds dams out of wood",
+      "answer": "BEAVER",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Water and juice are both in this state of matter",
+      "answer": "LIQUID",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A Japanese martial art with kicks, chops and colored belts",
+      "answer": "KARATE",
+      "row": 1,
+      "col": 2,
       "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 10,
   "targetWords": 10,
   "difficulty": "medium"
 }

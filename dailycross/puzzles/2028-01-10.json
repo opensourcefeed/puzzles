@@ -4,67 +4,74 @@
   "title": "2028-01-10",
   "words": [
     {
-      "clue": "Feeling fidgety and unable to sit still",
-      "answer": "RESTLESS",
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
       "row": 2,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small rocky object that circles the Sun",
-      "answer": "ASTEROID",
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
       "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "One of the two holes in your nose",
+      "answer": "NOSTRIL",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat touchscreen device, bigger than a phone; also a pill",
+      "answer": "TABLET",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The person who steers a vehicle",
+      "answer": "DRIVER",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The small nut of an oak tree that squirrels collect",
+      "answer": "ACORN",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Thin sheets you write or draw on",
+      "answer": "PAPER",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A green fruit with a big pit inside",
-      "answer": "AVOCADO",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The joint that connects your foot to your leg",
-      "answer": "ANKLE",
+      "clue": "Do, re, mi, fa, so, la, ti, do",
+      "answer": "SCALE",
       "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A very pale pink, like rosy cheeks",
-      "answer": "BLUSH",
-      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small light for a table or the floor",
-      "answer": "LAMP",
-      "row": 5,
+      "clue": "How it feels when you need a coat and gloves",
+      "answer": "COLD",
+      "row": 4,
       "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "A friendly pet that barks and wags its tail",
+      "answer": "DOG",
+      "row": 4,
+      "col": 10,
+      "direction": "across"
     }
   ],
   "dayNumber": 577

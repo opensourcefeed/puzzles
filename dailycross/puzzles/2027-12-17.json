@@ -4,67 +4,74 @@
   "title": "2027-12-17",
   "words": [
     {
-      "clue": "A vehicle that rushes sick people to the hospital",
-      "answer": "AMBULANCE",
-      "row": 5,
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How much rain has fallen",
-      "answer": "RAINFALL",
-      "row": 4,
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A huge grey animal with a long trunk",
-      "answer": "ELEPHANT",
-      "row": 5,
+      "clue": "A shape like a door: two long sides and two short",
+      "answer": "RECTANGLE",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
+      "clue": "The main printed guide your class learns a subject from",
+      "answer": "TEXTBOOK",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The rest break in the middle of a game",
-      "answer": "HALFTIME",
-      "row": 3,
-      "col": 3,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 12,
-      "col": 4,
+      "clue": "The opposite of top",
+      "answer": "BOTTOM",
+      "row": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A strong farm vehicle that pulls heavy loads",
-      "answer": "TRACTOR",
-      "row": 3,
+      "clue": "The power to make things move, heat up, or light up",
+      "answer": "ENERGY",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Another word for a tap",
+      "answer": "FAUCET",
+      "row": 0,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "It clips sheets of paper together",
-      "answer": "STAPLER",
-      "row": 10,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 2,
-      "col": 10,
+      "clue": "A shiny cup you win as a prize",
+      "answer": "TROPHY",
+      "row": 1,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A round citrus fruit that shares its name with its color",
+      "answer": "ORANGE",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You write with it, and it can be erased",
+      "answer": "PENCIL",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 553

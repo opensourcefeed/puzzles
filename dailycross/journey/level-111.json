@@ -4,112 +4,147 @@
   "title": "Level 111",
   "words": [
     {
-      "clue": "A half-circle tool for measuring angles",
-      "answer": "PROTRACTOR",
+      "clue": "The blanket of air around the Earth",
+      "answer": "ATMOSPHERE",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who runs a shop and sells things",
-      "answer": "SHOPKEEPER",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The special suit an astronaut wears in space",
-      "answer": "SPACESUIT",
-      "row": 5,
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
+      "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
       "row": 6,
-      "col": 11,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "An electronic machine that runs programs",
-      "answer": "COMPUTER",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic instrument with piano-like keys",
-      "answer": "KEYBOARD",
-      "row": 3,
+      "clue": "A very dark gray, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 5,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 10,
-      "col": 8,
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 9,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The opposite of wide",
-      "answer": "NARROW",
-      "row": 14,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "Finding something really funny",
-      "answer": "AMUSED",
-      "row": 6,
-      "col": 13,
+      "clue": "The bag-like organ that breaks down the food you eat",
+      "answer": "STOMACH",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You flip it to turn a light on or off",
-      "answer": "SWITCH",
+      "clue": "Extremely, red-faced mad",
+      "answer": "FURIOUS",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the two holes in your nose",
+      "answer": "NOSTRIL",
+      "row": 14,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The flowers on a fruit tree in spring",
+      "answer": "BLOSSOM",
+      "row": 4,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Someone who delivers parcels to your door",
+      "answer": "COURIER",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
       "row": 12,
       "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A colorful bird that can copy your words",
-      "answer": "PARROT",
-      "row": 5,
-      "col": 9,
-      "direction": "across"
+      "clue": "The power to make things move, heat up, or light up",
+      "answer": "ENERGY",
+      "row": 9,
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
+      "clue": "The opposite of leave",
+      "answer": "ARRIVE",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The red liquid that your heart pumps around",
+      "answer": "BLOOD",
       "row": 10,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Any one of the numbers 0 to 9",
+      "answer": "DIGIT",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The blast-off when a rocket lifts into the sky",
-      "answer": "LAUNCH",
-      "row": 8,
+      "clue": "Ice, wood and rock are all in this state of matter",
+      "answer": "SOLID",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A person whose job is to protect a place",
-      "answer": "GUARD",
-      "row": 0,
-      "col": 11,
+      "clue": "A blue-green color named after a duck",
+      "answer": "TEAL",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A dull yellow-brown, like army uniforms",
-      "answer": "KHAKI",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
+      "clue": "A deep red gemstone",
+      "answer": "RUBY",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 20,
   "targetWords": 20,
   "difficulty": "hard"
 }

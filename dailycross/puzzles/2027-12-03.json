@@ -4,53 +4,74 @@
   "title": "2027-12-03",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 4,
-      "col": 0,
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Wireless tech that connects nearby devices",
-      "answer": "BLUETOOTH",
-      "row": 0,
+      "clue": "A person who fixes leaky pipes and taps",
+      "answer": "PLUMBER",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
+      "clue": "A green fruit with a big pit, mashed into guacamole",
+      "answer": "AVOCADO",
       "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling fidgety and unable to sit still",
-      "answer": "RESTLESS",
-      "row": 3,
-      "col": 9,
+      "clue": "The color you get by mixing red and blue",
+      "answer": "PURPLE",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "How fast or slow the music is played",
+      "answer": "TEMPO",
+      "row": 1,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The sport of moving through the water",
-      "answer": "SWIMMING",
-      "row": 4,
-      "col": 0,
+      "clue": "A small flower with white petals and a yellow middle",
+      "answer": "DAISY",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint in the middle of your arm",
+      "answer": "ELBOW",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A very dark blue, like a sailor's uniform",
+      "answer": "NAVY",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "It circles Earth and seems to change shape each night",
+      "answer": "MOON",
+      "row": 2,
+      "col": 1,
       "direction": "down"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that keeps planets circling the Sun",
-      "answer": "GRAVITY",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 539

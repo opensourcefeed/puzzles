@@ -4,59 +4,73 @@
   "title": "2028-05-03",
   "words": [
     {
-      "clue": "A person who writes computer code",
-      "answer": "PROGRAMMER",
+      "clue": "The person who takes your money at the checkout",
+      "answer": "CASHIER",
       "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The biggest planet, with a giant red spot",
+      "answer": "JUPITER",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The fastest runner on land, covered in spots",
+      "answer": "CHEETAH",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The yellow dust that bees carry from flower to flower",
+      "answer": "POLLEN",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long green vegetable, cool and crunchy",
-      "answer": "CUCUMBER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You look into it to see yourself",
-      "answer": "MIRROR",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
+      "clue": "The = sign means both sides are this",
+      "answer": "EQUAL",
       "row": 6,
-      "col": 6,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A small hill of earth",
-      "answer": "MOUND",
-      "row": 1,
+      "clue": "The opposite of tall",
+      "answer": "SHORT",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A pale yellow-white, like the top of fresh milk",
+      "answer": "CREAM",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that feels damp and sticky",
+      "answer": "HUMID",
+      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 3,
-      "col": 9,
+      "clue": "A fuzzy brown fruit that is bright green inside",
+      "answer": "KIWI",
+      "row": 0,
+      "col": 13,
       "direction": "down"
     }
   ],

@@ -4,66 +4,73 @@
   "title": "2028-03-31",
   "words": [
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
-      "row": 1,
-      "col": 2,
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 1,
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 5,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A yellow weed whose fluffy seed head you blow on to make a wish",
+      "answer": "DANDELION",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
       "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A box you carry your lunch to school in",
-      "answer": "LUNCHBOX",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who designs machines and structures",
-      "answer": "ENGINEER",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A spiky desert plant that stores water",
-      "answer": "CACTUS",
-      "row": 3,
+      "clue": "A dark leafy green that made Popeye strong",
+      "answer": "SPINACH",
+      "row": 2,
       "col": 3,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 3,
+      "clue": "The arm of a tree that grows out from the trunk",
+      "answer": "BRANCH",
+      "row": 8,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 3,
-      "col": 11,
+      "clue": "The opposite of rough",
+      "answer": "SMOOTH",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The opposite of hot",
-      "answer": "COLD",
-      "row": 3,
-      "col": 0,
+      "clue": "How a summer day at the beach feels",
+      "answer": "HOT",
+      "row": 6,
+      "col": 1,
       "direction": "down"
     }
   ],

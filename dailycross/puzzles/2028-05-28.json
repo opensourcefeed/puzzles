@@ -4,60 +4,74 @@
   "title": "2028-05-28",
   "words": [
     {
-      "clue": "A shape with three straight sides",
-      "answer": "TRIANGLE",
-      "row": 4,
-      "col": 0,
+      "clue": "The world's biggest sports event, held every four years",
+      "answer": "OLYMPICS",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A curved band of colors after the rain",
-      "answer": "RAINBOW",
-      "row": 3,
-      "col": 3,
+      "clue": "A spacecraft that could fly to space again and again",
+      "answer": "SHUTTLE",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A shiny brass instrument with a bright sound",
-      "answer": "TRUMPET",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 3,
+      "clue": "Feeling confused by something tricky",
+      "answer": "PUZZLED",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A baby plant just starting to grow",
-      "answer": "SPROUT",
+      "clue": "A smart, playful sea mammal that loves to leap and click",
+      "answer": "DOLPHIN",
       "row": 7,
-      "col": 5,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
+      "clue": "A photo you take of yourself",
+      "answer": "SELFIE",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 1,
-      "col": 3,
+      "clue": "You use it to change the TV channel from your seat",
+      "answer": "REMOTE",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small, narrow stream",
-      "answer": "CREEK",
-      "row": 9,
-      "col": 4,
+      "clue": "The opposite of a question",
+      "answer": "ANSWER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who speaks for you in court",
+      "answer": "LAWYER",
+      "row": 5,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The person in charge of a courtroom",
+      "answer": "JUDGE",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The red liquid that your heart pumps around",
+      "answer": "BLOOD",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 716

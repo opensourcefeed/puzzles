@@ -4,60 +4,74 @@
   "title": "2027-06-05",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that washes your clothes",
-      "answer": "WASHER",
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
       "row": 3,
       "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A big orange cat with black stripes",
-      "answer": "TIGER",
-      "row": 6,
-      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
     },
     {
-      "clue": "A blue-green color",
-      "answer": "TEAL",
-      "row": 5,
+      "clue": "The opposite of never",
+      "answer": "ALWAYS",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
+      "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "You open it to go in and out of a room",
-      "answer": "DOOR",
+      "clue": "The distance from a circle's middle to its edge",
+      "answer": "RADIUS",
+      "row": 5,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who writes books",
+      "answer": "AUTHOR",
       "row": 8,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "You eat soup and cereal with this",
+      "answer": "SPOON",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of a friend",
+      "answer": "ENEMY",
+      "row": 7,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The tiny building block that everything is made of",
+      "answer": "ATOM",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A car you pay to drive you somewhere",
+      "answer": "TAXI",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
     }
   ],
   "dayNumber": 358

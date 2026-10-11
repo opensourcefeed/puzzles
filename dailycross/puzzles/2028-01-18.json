@@ -4,59 +4,73 @@
   "title": "2028-01-18",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that washes the dirty dishes",
-      "answer": "DISHWASHER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a whole, like one-half",
-      "answer": "FRACTION",
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
       "row": 5,
-      "col": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A soft yellow spread made from cream",
-      "answer": "BUTTER",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A striped animal that looks like a horse",
-      "answer": "ZEBRA",
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
       "row": 2,
-      "col": 0,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "How loud or soft the music is",
+      "answer": "VOLUME",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The blast-off when a rocket lifts into the sky",
+      "answer": "LAUNCH",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of true",
+      "answer": "FALSE",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
     },
     {
       "clue": "A narrow boat you move with a paddle",
       "answer": "CANOE",
-      "row": 3,
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small woody plant, shorter than a tree",
+      "answer": "SHRUB",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A document saved on a computer under one name",
+      "answer": "FILE",
+      "row": 0,
       "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The answer you get when you add numbers",
+      "answer": "SUM",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     }
   ],

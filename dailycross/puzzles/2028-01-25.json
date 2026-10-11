@@ -4,67 +4,74 @@
   "title": "2028-01-25",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 4,
+      "clue": "You use it with paste to clean your teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "It turns slices of bread brown and crunchy",
+      "answer": "TOASTER",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Able to wait calmly without complaining",
+      "answer": "PATIENT",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten times ten",
+      "answer": "HUNDRED",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall, hollow grass that pandas love to eat",
+      "answer": "BAMBOO",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A hook-topped frame for keeping clothes in a wardrobe",
+      "answer": "HANGER",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You flip it to turn a light on or off",
+      "answer": "SWITCH",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The sport of moving a boat with oars",
+      "answer": "ROWING",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The middle color of a traffic light; also hardened tree resin",
+      "answer": "AMBER",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who travels into space",
-      "answer": "ASTRONAUT",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A smart, playful ocean animal that loves to leap",
-      "answer": "DOLPHIN",
+      "clue": "You use this to eat, talk, and smile",
+      "answer": "MOUTH",
       "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep purple, like the flower",
-      "answer": "VIOLET",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A place on a computer for keeping files together",
-      "answer": "FOLDER",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A perfectly round shape with no corners",
-      "answer": "CIRCLE",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 2,
       "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "A dull yellow-brown, like army uniforms",
-      "answer": "KHAKI",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
     }
   ],
   "dayNumber": 592

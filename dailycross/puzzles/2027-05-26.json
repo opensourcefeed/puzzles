@@ -4,74 +4,74 @@
   "title": "2027-05-26",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
       "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A tool that makes faraway things look close",
-      "answer": "TELESCOPE",
-      "row": 0,
-      "col": 6,
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 0,
-      "col": 3,
+      "clue": "You write with it, and it can be erased",
+      "answer": "PENCIL",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The part that makes a car go",
+      "answer": "ENGINE",
+      "row": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The place where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 3,
+      "clue": "A long-eared pet that hops and nibbles carrots",
+      "answer": "RABBIT",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "An animal that swings from tree branches",
+      "answer": "MONKEY",
+      "row": 4,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A tray on a desk for incoming papers",
-      "answer": "INBOX",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who flies an airplane",
-      "answer": "PILOT",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
+      "clue": "A robot spacecraft sent to explore far-off planets",
+      "answer": "PROBE",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The color of grass and leaves",
-      "answer": "GREEN",
+      "clue": "The opposite of back",
+      "answer": "FRONT",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A group that plays instruments together",
+      "answer": "BAND",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The tiny thing a new plant grows from",
+      "answer": "SEED",
       "row": 8,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "The joint that connects your foot to your leg",
-      "answer": "ANKLE",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The bright object that circles Earth at night",
-      "answer": "MOON",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
     }
   ],
   "dayNumber": 348

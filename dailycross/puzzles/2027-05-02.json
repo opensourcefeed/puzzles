@@ -4,73 +4,73 @@
   "title": "2027-05-02",
   "words": [
     {
-      "clue": "A person who runs a shop and sells things",
-      "answer": "SHOPKEEPER",
-      "row": 4,
+      "clue": "You use it with paste to clean your teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A plank on four little wheels for tricks at the park",
+      "answer": "SKATEBOARD",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The planet famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small oval nut with a mild, sweet flavor",
+      "answer": "ALMOND",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "How you feel when something good happens; full of smiles",
+      "answer": "HAPPY",
+      "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A shape with eight sides, like a stop sign",
-      "answer": "OCTAGON",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
+      "clue": "The row of bones running down your back",
+      "answer": "SPINE",
       "row": 4,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A yellow food made from milk",
-      "answer": "CHEESE",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 2,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 6,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "To find and fix the mistakes in a program",
-      "answer": "DEBUG",
-      "row": 9,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
+      "clue": "To say numbers in order: one, two, three...",
+      "answer": "COUNT",
       "row": 4,
-      "col": 2,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The top part of your body that holds your brain",
-      "answer": "HEAD",
-      "row": 6,
+      "clue": "You pick up food with this pronged tool",
+      "answer": "FORK",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A light red color, like bubblegum",
-      "answer": "PINK",
+      "clue": "One of two equal parts",
+      "answer": "HALF",
       "row": 0,
-      "col": 9,
+      "col": 0,
       "direction": "down"
     }
   ],

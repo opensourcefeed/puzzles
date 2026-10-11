@@ -4,59 +4,60 @@
   "title": "Level 24",
   "words": [
     {
-      "clue": "It hops around and carries its baby in a pouch",
-      "answer": "KANGAROO",
-      "row": 4,
-      "col": 0,
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A coat you wear to stay dry in the rain",
-      "answer": "RAINCOAT",
-      "row": 4,
-      "col": 5,
+      "clue": "It hops around and carries its baby in a pouch",
+      "answer": "KANGAROO",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "How you feel when something frightens you",
-      "answer": "SCARED",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft cushion you rest your head on",
-      "answer": "PILLOW",
-      "row": 6,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A sport where two people fight with padded gloves",
-      "answer": "BOXING",
+      "clue": "It turns slices of bread brown and crunchy",
+      "answer": "TOASTER",
       "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Weather when snow is falling",
-      "answer": "SNOWY",
-      "row": 3,
+      "clue": "A warm cover you sleep under",
+      "answer": "BLANKET",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A shiny brass instrument with three valves",
+      "answer": "TRUMPET",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A stick of colored wax for drawing",
+      "answer": "CRAYON",
+      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A person whose job is to protect a place",
-      "answer": "GUARD",
-      "row": 10,
-      "col": 3,
+      "clue": "You taste your food with this",
+      "answer": "TONGUE",
+      "row": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A farm animal with horns and a little beard",
-      "answer": "GOAT",
-      "row": 1,
-      "col": 1,
+      "clue": "A person who works on a ship out at sea",
+      "answer": "SAILOR",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     }
   ],

@@ -4,59 +4,74 @@
   "title": "2027-05-01",
   "words": [
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 3,
-      "col": 0,
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The distance all the way across a circle",
-      "answer": "DIAMETER",
-      "row": 2,
-      "col": 3,
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 0,
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A black woodwind instrument with a reed and silver keys",
+      "answer": "CLARINET",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling completely full of happiness",
-      "answer": "JOYFUL",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A cloud of gas and dust where new stars are born",
-      "answer": "NEBULA",
+      "clue": "A part of a whole, like one-half",
+      "answer": "FRACTION",
       "row": 6,
-      "col": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 4,
-      "col": 9,
+      "clue": "A long orange vegetable that rabbits love",
+      "answer": "CARROT",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A small juicy fruit often used in jam",
-      "answer": "BERRY",
-      "row": 8,
-      "col": 2,
+      "clue": "You use it to change the TV channel from your seat",
+      "answer": "REMOTE",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A thin, white layer of ice on cold mornings",
+      "answer": "FROST",
+      "row": 4,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "Unhappy and bothered when things go wrong",
+      "answer": "UPSET",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     }
   ],

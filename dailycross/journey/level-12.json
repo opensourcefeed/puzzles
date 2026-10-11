@@ -4,42 +4,49 @@
   "title": "Level 12",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright pinkish-purple",
-      "answer": "MAGENTA",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The spots where two bones meet and bend",
-      "answer": "JOINTS",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A device you use to call people far away",
-      "answer": "PHONE",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Pleasant sounds put together for us to enjoy",
-      "answer": "MUSIC",
-      "row": 8,
+      "clue": "You stand on it and push along with one foot",
+      "answer": "SCOOTER",
+      "row": 1,
       "col": 1,
       "direction": "across"
+    },
+    {
+      "clue": "A device that plays sound out loud",
+      "answer": "SPEAKER",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The cold cupboard that keeps your food fresh",
+      "answer": "FRIDGE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "To look something up on the internet",
+      "answer": "SEARCH",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of after",
+      "answer": "BEFORE",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The green plant that covers a lawn",
+      "answer": "GRASS",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

@@ -4,66 +4,73 @@
   "title": "2028-04-23",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
       "row": 5,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Wireless tech that connects nearby devices",
-      "answer": "BLUETOOTH",
-      "row": 2,
-      "col": 8,
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 4,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person who builds things out of wood",
-      "answer": "CARPENTER",
-      "row": 2,
-      "col": 6,
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who plays music or sings",
-      "answer": "MUSICIAN",
-      "row": 5,
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
+      "row": 3,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
-      "row": 8,
+      "clue": "A person who lays bricks and puts up houses",
+      "answer": "BUILDER",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Finding something funny",
+      "answer": "AMUSED",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A baby plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 0,
-      "col": 2,
+      "clue": "A race where teammates take turns and pass a baton",
+      "answer": "RELAY",
+      "row": 5,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A small string instrument played with a bow",
-      "answer": "VIOLIN",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Weather that feels damp and sticky",
-      "answer": "HUMID",
+      "clue": "A hot liquid meal you eat with a spoon",
+      "answer": "SOUP",
       "row": 10,
-      "col": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The opposite of clean",
-      "answer": "DIRTY",
-      "row": 7,
-      "col": 0,
+      "clue": "The paved path that cars drive along",
+      "answer": "ROAD",
+      "row": 0,
+      "col": 7,
       "direction": "down"
     }
   ],

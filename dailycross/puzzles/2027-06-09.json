@@ -4,60 +4,74 @@
   "title": "2027-06-09",
   "words": [
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 4,
+      "clue": "You use it with paste to clean your teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who brings mail to your house",
-      "answer": "MAILMAN",
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A bushy-tailed animal that hides nuts for winter",
+      "answer": "SQUIRREL",
       "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who serves in an army",
+      "answer": "SOLDIER",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The referee blows this to stop play",
+      "answer": "WHISTLE",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
+      "clue": "A dark brownish-red",
+      "answer": "MAROON",
       "row": 9,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Where a computer keeps what it's working on right now",
-      "answer": "MEMORY",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
+      "clue": "The bony case that protects your brain",
+      "answer": "SKULL",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "A book full of maps",
-      "answer": "ATLAS",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling that you need rest or sleep",
-      "answer": "TIRED",
+      "clue": "Facing danger without running away",
+      "answer": "BRAVE",
       "row": 7,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The biggest animal in the ocean",
-      "answer": "WHALE",
+      "clue": "The opposite of hard",
+      "answer": "SOFT",
       "row": 0,
-      "col": 7,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A tree with needle leaves and cones",
-      "answer": "PINE",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
+      "clue": "A green plant with feathery leaves and no flowers",
+      "answer": "FERN",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 362

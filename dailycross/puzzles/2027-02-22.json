@@ -4,73 +4,74 @@
   "title": "2027-02-22",
   "words": [
     {
-      "clue": "A phone you can also browse the internet on",
-      "answer": "SMARTPHONE",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "An event where you jump as far forward as you can",
-      "answer": "LONGJUMP",
+      "clue": "A sweet frozen treat you lick from a cone",
+      "answer": "ICECREAM",
+      "enumeration": "3,5",
       "row": 4,
-      "col": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A bushy-tailed animal that hides nuts for winter",
+      "answer": "SQUIRREL",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
-      "row": 5,
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A thousand thousands",
+      "answer": "MILLION",
+      "row": 3,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The spots where two bones meet and bend",
-      "answer": "JOINTS",
-      "row": 8,
+      "clue": "The shiny metal of a second-place medal",
+      "answer": "SILVER",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A hard hat that protects your head while riding",
+      "answer": "HELMET",
+      "row": 1,
       "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The two organs that help you breathe",
-      "answer": "LUNGS",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A baked food made from flour, sliced for sandwiches",
-      "answer": "BREAD",
-      "row": 0,
-      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 0,
-      "col": 5,
+      "clue": "A shooting star that zooms across the sky",
+      "answer": "METEOR",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "An animal that builds dams out of wood",
+      "answer": "BEAVER",
+      "row": 1,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The color halfway between black and white",
-      "answer": "GRAY",
+      "clue": "A large stream of water flowing across the land to the sea",
+      "answer": "RIVER",
       "row": 7,
-      "col": 5,
+      "col": 6,
       "direction": "down"
     }
   ],

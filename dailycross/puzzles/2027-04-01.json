@@ -4,67 +4,74 @@
   "title": "2027-04-01",
   "words": [
     {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
-      "row": 4,
+      "clue": "A curvy metal instrument played with a reed, popular in jazz",
+      "answer": "SAXOPHONE",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "It hops around and carries its baby in a pouch",
-      "answer": "KANGAROO",
+      "clue": "A pink bird that often stands on one leg",
+      "answer": "FLAMINGO",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with three straight sides",
+      "answer": "TRIANGLE",
       "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet that spins on its side",
-      "answer": "URANUS",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
-      "row": 6,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Where a computer keeps what it's working on right now",
-      "answer": "MEMORY",
-      "row": 11,
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A book full of maps",
-      "answer": "ATLAS",
-      "row": 0,
+      "clue": "A secret code that unlocks your account",
+      "answer": "PASSWORD",
+      "row": 7,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A small round fruit that grows in bunches",
-      "answer": "GRAPE",
-      "row": 0,
-      "col": 2,
+      "clue": "Gliding along on ice or on wheels",
+      "answer": "SKATING",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
-      "row": 2,
-      "col": 0,
+      "clue": "The natural home of an animal or plant",
+      "answer": "HABITAT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A glass opening in a wall that lets in light and air",
+      "answer": "WINDOW",
+      "row": 11,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "A yellow citrus fruit with a very sour taste",
+      "answer": "LEMON",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep, narrow valley with steep rocky sides",
+      "answer": "GORGE",
+      "row": 8,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 293

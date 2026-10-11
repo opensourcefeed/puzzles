@@ -4,67 +4,74 @@
   "title": "2027-10-14",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
-      "row": 5,
-      "col": 1,
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A long green vegetable, cool and crunchy",
-      "answer": "CUCUMBER",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling that good things are coming",
-      "answer": "HOPEFUL",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A place where trains stop to pick up passengers",
-      "answer": "STATION",
-      "row": 5,
+      "clue": "The worldwide network that connects computers",
+      "answer": "INTERNET",
+      "row": 6,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
       "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A place on a computer for keeping files together",
-      "answer": "FOLDER",
+      "clue": "Riding ocean waves on a board",
+      "answer": "SURFING",
       "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
+      "row": 12,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
+      "clue": "A small metal cupboard at school for your things",
+      "answer": "LOCKER",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The dark shape made when something blocks the light",
+      "answer": "SHADOW",
       "row": 3,
-      "col": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Any one of the numbers 0 to 9",
+      "answer": "DIGIT",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A sandy shore where you build sandcastles",
+      "answer": "BEACH",
+      "row": 4,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The short, thick finger that helps you grip",
+      "answer": "THUMB",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 489

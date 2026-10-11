@@ -4,66 +4,67 @@
   "title": "2028-01-13",
   "words": [
     {
-      "clue": "A bag you wear on your back to carry books",
-      "answer": "BACKPACK",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of computers linked to share information",
-      "answer": "NETWORK",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who is really good at sports",
-      "answer": "ATHLETE",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
-      "row": 0,
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The person who steers a vehicle",
-      "answer": "DRIVER",
-      "row": 10,
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Any flat shape made only of straight sides",
+      "answer": "POLYGON",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A spinning funnel of wind that touches the ground",
+      "answer": "TORNADO",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The smallest finger on your hand",
-      "answer": "PINKY",
-      "row": 9,
-      "col": 3,
+      "clue": "A leafy green used to make salad",
+      "answer": "LETTUCE",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
+      "clue": "A vehicle that blasts off into space",
+      "answer": "ROCKET",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who sews and alters clothes",
+      "answer": "TAILOR",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Unhappy and bothered when things go wrong",
+      "answer": "UPSET",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "One of two equal parts",
+      "answer": "HALF",
       "row": 4,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The outer layer that covers your whole body",
-      "answer": "SKIN",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of web pages that share one name",
-      "answer": "SITE",
-      "row": 5,
-      "col": 7,
       "direction": "across"
     }
   ],

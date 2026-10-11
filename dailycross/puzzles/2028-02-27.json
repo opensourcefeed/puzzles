@@ -4,59 +4,74 @@
   "title": "2028-02-27",
   "words": [
     {
-      "clue": "A very tall, steep, rocky peak",
-      "answer": "MOUNTAIN",
-      "row": 2,
-      "col": 0,
+      "clue": "A bright flash in the sky during a storm",
+      "answer": "LIGHTNING",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A passage that goes through a mountain or under a river",
+      "answer": "TUNNEL",
       "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 6,
-      "col": 3,
+      "clue": "A machine that sucks up dust from the floor",
+      "answer": "VACUUM",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The longest finger, right in the center of your hand",
-      "answer": "MIDDLE",
-      "row": 2,
+      "clue": "A fluffy farm animal that gives us wool",
+      "answer": "SHEEP",
+      "row": 10,
       "col": 0,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who plays roles in movies and plays",
-      "answer": "ACTOR",
+      "clue": "Vibrations that travel through the air to your ears",
+      "answer": "SOUND",
       "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Information stored on a computer",
+      "answer": "DATA",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Melted rock that flows out of a volcano",
+      "answer": "LAVA",
+      "row": 3,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A light red color, like bubblegum",
+      "answer": "PINK",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A climbing plant that covers old walls",
+      "answer": "IVY",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     }
   ],

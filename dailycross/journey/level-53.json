@@ -4,70 +4,91 @@
   "title": "Level 53",
   "words": [
     {
-      "clue": "A big pile of snow blown together by the wind",
-      "answer": "SNOWDRIFT",
-      "row": 2,
+      "clue": "A device that does sums for you",
+      "answer": "CALCULATOR",
+      "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A four-sided shape with just one pair of parallel sides",
-      "answer": "TRAPEZOID",
-      "row": 1,
+      "clue": "A test a scientist does to find something out",
+      "answer": "EXPERIMENT",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Wireless tech, named after a Viking king, that links nearby devices",
+      "answer": "BLUETOOTH",
+      "row": 6,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A big white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The fuel that most cars run on",
-      "answer": "GASOLINE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 5,
+      "clue": "A person who gives emergency care in an ambulance",
+      "answer": "PARAMEDIC",
+      "row": 3,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Feeling confused by something tricky",
-      "answer": "PUZZLED",
-      "row": 0,
-      "col": 11,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A round citrus fruit you peel and eat in slices",
-      "answer": "ORANGE",
+      "clue": "A solid with two round ends, like a can",
+      "answer": "CYLINDER",
       "row": 7,
-      "col": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A tool with two blades for cutting paper",
+      "answer": "SCISSORS",
+      "row": 2,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 12,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 0,
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
+      "row": 8,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A shooting star that zooms across the sky",
-      "answer": "METEOR",
-      "row": 7,
+      "clue": "A person who creates paintings and drawings",
+      "answer": "ARTIST",
+      "row": 14,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You look into it to see yourself",
+      "answer": "MIRROR",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "An object that pulls iron and steel toward it",
+      "answer": "MAGNET",
+      "row": 0,
+      "col": 7,
       "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 12,
   "targetWords": 12,
   "difficulty": "medium"
 }

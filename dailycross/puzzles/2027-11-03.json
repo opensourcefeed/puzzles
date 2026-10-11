@@ -4,72 +4,65 @@
   "title": "2027-11-03",
   "words": [
     {
-      "clue": "Very, very surprised or amazed",
-      "answer": "ASTONISHED",
-      "row": 3,
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A long stretch of time with no rain",
-      "answer": "DROUGHT",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A jug with a handle and spout for pouring drinks",
-      "answer": "PITCHER",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
       "row": 4,
-      "col": 10,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
+      "clue": "A person who lays bricks and puts up houses",
+      "answer": "BUILDER",
       "row": 0,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The opposite of open",
-      "answer": "CLOSED",
-      "row": 10,
-      "col": 5,
+      "clue": "A person who works on a ship out at sea",
+      "answer": "SAILOR",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Moving air you can feel but not see",
-      "answer": "WIND",
-      "row": 1,
+      "clue": "A machine that sucks up dust from the floor",
+      "answer": "VACUUM",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A photo you take of yourself",
+      "answer": "SELFIE",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "You cut your food with this",
+      "answer": "KNIFE",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A doctor who takes care of sick animals",
+      "answer": "VET",
+      "row": 9,
       "col": 0,
       "direction": "across"
     }

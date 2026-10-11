@@ -4,105 +4,140 @@
   "title": "Level 106",
   "words": [
     {
-      "clue": "A thick, wet forest that gets lots of rain",
-      "answer": "RAINFOREST",
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
       "row": 7,
-      "col": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The special suit an astronaut wears in space",
-      "answer": "SPACESUIT",
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
       "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A brass instrument with a sliding tube",
+      "answer": "TROMBONE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten hundreds",
+      "answer": "THOUSAND",
+      "row": 7,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A space rock that circles the Sun; many lie between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 6,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A person who travels into space",
-      "answer": "ASTRONAUT",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small rocky object that circles the Sun",
-      "answer": "ASTEROID",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 6,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling super eager about something fun",
-      "answer": "EXCITED",
-      "row": 14,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The force that pulls things down to the ground",
-      "answer": "GRAVITY",
+      "clue": "A pink bird that often stands on one leg",
+      "answer": "FLAMINGO",
       "row": 5,
-      "col": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A spot where water flows out of the ground",
-      "answer": "SPRING",
-      "row": 0,
+      "clue": "A person who designs machines, bridges and roads",
+      "answer": "ENGINEER",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A sport where you hit a ball over a net with a racket",
-      "answer": "TENNIS",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A round red fruit used in sauces and salads",
-      "answer": "TOMATO",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The × sign, used for multiplying",
-      "answer": "TIMES",
-      "row": 9,
+      "clue": "The biggest ape, a gentle giant of the forest",
+      "answer": "GORILLA",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
-      "row": 1,
-      "col": 5,
+      "clue": "The smallest planet, closest to the Sun",
+      "answer": "MERCURY",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A long stretch of time with no rain",
+      "answer": "DROUGHT",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
+      "row": 3,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A cold, treeless land where the ground stays frozen",
+      "answer": "TUNDRA",
+      "row": 13,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 1,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A crunchy breakfast food you eat with milk",
+      "answer": "CEREAL",
+      "row": 0,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A tiny dried seed often cooked into soup or dal",
+      "answer": "LENTIL",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A hanging spike of ice that forms when dripping water freezes",
+      "answer": "ICICLE",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A small green or black fruit, and its dull green color",
+      "answer": "OLIVE",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 19,
   "targetWords": 19,
   "difficulty": "hard"
 }

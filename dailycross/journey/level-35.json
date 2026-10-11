@@ -4,70 +4,77 @@
   "title": "Level 35",
   "words": [
     {
-      "clue": "A sweet frozen treat made from milk",
-      "answer": "ICECREAM",
-      "row": 3,
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who repairs cars and machines",
-      "answer": "MECHANIC",
-      "row": 2,
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Many days in a row of very hot weather",
-      "answer": "HEATWAVE",
-      "row": 2,
+      "clue": "It shows pictures big on a screen or wall",
+      "answer": "PROJECTOR",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The room where your lessons happen",
+      "answer": "CLASSROOM",
+      "row": 5,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 2,
-      "col": 7,
+      "clue": "It makes a blunt pencil pointy again",
+      "answer": "SHARPENER",
+      "row": 5,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The instrument family that includes the violin, cello, and guitar",
-      "answer": "STRINGS",
+      "clue": "The world's biggest sports event, held every four years",
+      "answer": "OLYMPICS",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A bird that fans out a huge tail covered in eye patterns",
+      "answer": "PEACOCK",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten times ten",
+      "answer": "HUNDRED",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "It stores power for toys, torches and remote controls",
+      "answer": "BATTERY",
       "row": 0,
-      "col": 0,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that sucks up dirt from the floor",
-      "answer": "VACUUM",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A tiny animal that loves cheese",
-      "answer": "MOUSE",
-      "row": 3,
+      "clue": "A white stick for writing on a blackboard",
+      "answer": "CHALK",
+      "row": 1,
       "col": 7,
       "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 10,
   "targetWords": 10,
   "difficulty": "medium"
 }

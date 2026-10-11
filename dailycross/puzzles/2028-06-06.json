@@ -4,66 +4,73 @@
   "title": "2028-06-06",
   "words": [
     {
-      "clue": "It makes holes in paper for a binder",
-      "answer": "HOLEPUNCH",
-      "row": 3,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 1,
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A very dry place that gets little rain",
-      "answer": "DESERT",
-      "row": 6,
-      "col": 3,
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The tallest animal, with a super long neck",
+      "answer": "GIRAFFE",
+      "row": 9,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A colorful bird that can copy your words",
-      "answer": "PARROT",
-      "row": 4,
+      "clue": "A thick, hot, steamy forest full of plants and animals",
+      "answer": "JUNGLE",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "One tiny dot in a picture on the screen",
-      "answer": "PIXEL",
-      "row": 1,
-      "col": 0,
+      "clue": "A deep purple, the last color of the rainbow",
+      "answer": "VIOLET",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A dull yellow-brown, like army uniforms",
+      "answer": "KHAKI",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
+      "clue": "A thin, white layer of ice on cold mornings",
+      "answer": "FROST",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "A single musical sound",
-      "answer": "NOTE",
-      "row": 8,
-      "col": 6,
+      "clue": "The opposite of buy",
+      "answer": "SELL",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A fuzzy brown fruit that is bright green inside",
+      "answer": "KIWI",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     }
   ],

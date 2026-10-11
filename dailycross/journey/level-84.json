@@ -4,70 +4,119 @@
   "title": "Level 84",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 3,
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Furniture with shelves for holding your books",
-      "answer": "BOOKSHELF",
-      "row": 2,
-      "col": 6,
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A car the police use to chase and catch criminals",
-      "answer": "POLICECAR",
+      "clue": "A line joining two opposite corners",
+      "answer": "DIAGONAL",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
       "row": 0,
-      "col": 9,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A bright flash in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 9,
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
+      "row": 1,
       "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 8,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "It makes holes in paper for a binder",
-      "answer": "HOLEPUNCH",
-      "row": 0,
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
+      "row": 6,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The little hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 1,
-      "col": 11,
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 4,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A sport where you hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A black-and-white bird that waddles on the ice",
-      "answer": "PENGUIN",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The season when flowers bloom after winter",
-      "answer": "SPRING",
-      "row": 9,
+      "clue": "A sweet, juicy tropical fruit with a big flat seed; India's national fruit",
+      "answer": "MANGO",
+      "row": 4,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A pretty flower with thorns on its stem",
+      "answer": "ROSE",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A small light for a table or the floor",
+      "answer": "LAMP",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A small vessel for traveling on water",
+      "answer": "BOAT",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A doctor who takes care of sick animals",
+      "answer": "VET",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The big space above you where clouds float",
+      "answer": "SKY",
+      "row": 4,
+      "col": 12,
+      "direction": "across"
+    },
+    {
+      "clue": "A climbing plant that covers old walls",
+      "answer": "IVY",
+      "row": 2,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A big vehicle that carries many passengers along a route",
+      "answer": "BUS",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 16,
   "targetWords": 16,
   "difficulty": "medium"
 }

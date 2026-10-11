@@ -4,60 +4,74 @@
   "title": "2027-01-10",
   "words": [
     {
-      "clue": "A scientist who studies animals",
-      "answer": "ZOOLOGIST",
-      "row": 4,
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 1,
+      "clue": "A person who repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A sea animal with eight arms",
+      "answer": "OCTOPUS",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 3,
+      "clue": "The opposite of open",
+      "answer": "CLOSED",
+      "row": 4,
       "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A small round red fruit that grows in pairs on a stem",
+      "answer": "CHERRY",
+      "row": 6,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The smallest planet, closest to the Sun",
-      "answer": "MERCURY",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
       "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who makes music with their voice",
+      "answer": "SINGER",
+      "row": 12,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Carriages pulled along railway tracks by an engine",
+      "answer": "TRAIN",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A plant that climbs up walls and trees",
+      "answer": "VINE",
+      "row": 8,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The tiny thing a new plant grows from",
-      "answer": "SEED",
-      "row": 6,
-      "col": 6,
+      "clue": "The + sign, used for adding",
+      "answer": "PLUS",
+      "row": 10,
+      "col": 3,
       "direction": "across"
-    },
-    {
-      "clue": "Moving something on screen by holding and pulling it",
-      "answer": "DRAG",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
     }
   ],
   "dayNumber": 212

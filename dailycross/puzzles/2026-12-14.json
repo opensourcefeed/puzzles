@@ -4,74 +4,75 @@
   "title": "2026-12-14",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 2,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of moving a boat with oars",
-      "answer": "ROWING",
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
       "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A desert animal with humps on its back",
-      "answer": "CAMEL",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling that you need rest or sleep",
-      "answer": "TIRED",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft white food made from soybeans",
-      "answer": "TOFU",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A grain with yellow kernels on a cob",
-      "answer": "CORN",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A big body of water with land all around it",
-      "answer": "LAKE",
-      "row": 6,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 3,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A bat-and-ball game hugely popular in India and England",
+      "answer": "CRICKET",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who works on a ship out at sea",
+      "answer": "SAILOR",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The Sun and its planets: the solar ___",
+      "answer": "SYSTEM",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A round red fruit that is made into ketchup",
+      "answer": "TOMATO",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The yellow dust that bees carry from flower to flower",
+      "answer": "POLLEN",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A large area of flat land, or not fancy at all",
+      "answer": "PLAIN",
+      "row": 5,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A metal disc on a ribbon given to winners",
+      "answer": "MEDAL",
+      "row": 7,
+      "col": 10,
+      "direction": "across"
     }
   ],
   "dayNumber": 185

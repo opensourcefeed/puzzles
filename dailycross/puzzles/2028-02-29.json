@@ -4,66 +4,73 @@
   "title": "2028-02-29",
   "words": [
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
       "row": 2,
-      "col": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Feeling worried and uneasy inside",
-      "answer": "ANXIOUS",
+      "clue": "The sport of racing on a bicycle",
+      "answer": "CYCLING",
       "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
+      "clue": "A hard, hairy fruit with white flesh and water inside",
+      "answer": "COCONUT",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A woven container for carrying things",
+      "answer": "BASKET",
       "row": 7,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 0,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The open ground where a sport is played",
-      "answer": "FIELD",
-      "row": 5,
-      "col": 8,
+      "clue": "A perfectly round solid, like a ball",
+      "answer": "SPHERE",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A green, watery spot in the middle of a desert",
-      "answer": "OASIS",
+      "clue": "A soft orange-pink, like the fuzzy fruit",
+      "answer": "PEACH",
       "row": 6,
-      "col": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A small vehicle for traveling on water",
-      "answer": "BOAT",
-      "row": 1,
+      "clue": "Three or more notes played at the same time",
+      "answer": "CHORD",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A white stick for writing on a blackboard",
+      "answer": "CHALK",
+      "row": 10,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of grass and leaves",
+      "answer": "GREEN",
+      "row": 3,
+      "col": 0,
       "direction": "down"
     }
   ],

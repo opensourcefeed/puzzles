@@ -4,67 +4,74 @@
   "title": "2027-09-04",
   "words": [
     {
-      "clue": "Sports like running, jumping, and throwing",
-      "answer": "ATHLETICS",
-      "row": 4,
+      "clue": "The world's biggest sports event, held every four years",
+      "answer": "OLYMPICS",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "It stores power for toys, torches and remote controls",
+      "answer": "BATTERY",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A number with a point in it, like 2.5",
+      "answer": "DECIMAL",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 0,
+      "clue": "A computer that folds shut so you can carry it",
+      "answer": "LAPTOP",
+      "row": 7,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "Feeling thankful for something you were given",
-      "answer": "GRATEFUL",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
+      "clue": "The opposite of awake",
+      "answer": "ASLEEP",
       "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "How loud or soft the music is",
-      "answer": "VOLUME",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A shiny cup you win as a prize",
-      "answer": "TROPHY",
-      "row": 4,
-      "col": 1,
+      "clue": "The distance from a circle's middle to its edge",
+      "answer": "RADIUS",
+      "row": 0,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The short stick runners pass in a relay race",
-      "answer": "BATON",
+      "clue": "A silver pipe you blow across, held out sideways",
+      "answer": "FLUTE",
       "row": 10,
-      "col": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A pale, fresh green",
-      "answer": "MINT",
-      "row": 6,
-      "col": 3,
-      "direction": "across"
+      "clue": "The part between your head and shoulders",
+      "answer": "NECK",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A ball game played on horseback with long mallets",
+      "answer": "POLO",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 449

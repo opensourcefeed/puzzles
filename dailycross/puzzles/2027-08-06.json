@@ -4,66 +4,73 @@
   "title": "2027-08-06",
   "words": [
     {
-      "clue": "A phone call where you can see each other",
-      "answer": "VIDEOCALL",
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
       "row": 2,
-      "col": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
+      "clue": "A brass instrument with a sliding tube",
+      "answer": "TROMBONE",
       "row": 1,
-      "col": 8,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 1,
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Feeling bad about something you did wrong",
-      "answer": "ASHAMED",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 0,
-      "col": 11,
+      "clue": "The strap you click across you before the car moves",
+      "answer": "SEATBELT",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A doctor who looks after your teeth",
+      "answer": "DENTIST",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small red beetle with black spots",
+      "answer": "LADYBUG",
       "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "You use it to tidy and smooth your hair",
+      "answer": "COMB",
+      "row": 4,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A deep valley with steep sides and a river below",
-      "answer": "CANYON",
-      "row": 5,
-      "col": 0,
+      "clue": "The opposite of first",
+      "answer": "LAST",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The color you get by mixing red and blue",
-      "answer": "PURPLE",
-      "row": 0,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 2,
-      "col": 0,
+      "clue": "A hot liquid meal you eat with a spoon",
+      "answer": "SOUP",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     }
   ],

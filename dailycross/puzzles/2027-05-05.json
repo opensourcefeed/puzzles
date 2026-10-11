@@ -4,73 +4,73 @@
   "title": "2027-05-05",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
       "row": 5,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
+      "clue": "A person who gives emergency care in an ambulance",
+      "answer": "PARAMEDIC",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A slow animal that carries its shell around",
+      "answer": "TURTLE",
       "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "It turns paper pages into computer files",
-      "answer": "SCANNER",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who fixes water pipes and taps",
-      "answer": "PLUMBER",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of gliding along on ice",
-      "answer": "SKATING",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A big round object that circles a star",
-      "answer": "PLANET",
-      "row": 3,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where water flows out of a lake",
-      "answer": "OUTLET",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
+      "clue": "A crunchy green vegetable with long stalks",
+      "answer": "CELERY",
       "row": 8,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 0,
-      "col": 1,
+      "clue": "The organ inside your skull that you think with",
+      "answer": "BRAIN",
+      "row": 7,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A giant ball of burning gas that twinkles at night",
+      "answer": "STAR",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The hard covering at the tip of a finger or toe",
+      "answer": "NAIL",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A blue-green color named after a duck",
+      "answer": "TEAL",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid shape with six square faces, like a dice",
+      "answer": "CUBE",
       "row": 10,
-      "col": 4,
+      "col": 0,
       "direction": "across"
     }
   ],

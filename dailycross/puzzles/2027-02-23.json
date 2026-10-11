@@ -4,59 +4,73 @@
   "title": "2027-02-23",
   "words": [
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 1,
-      "col": 2,
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A school book for learning a subject",
+      "clue": "The main printed guide your class learns a subject from",
       "answer": "TEXTBOOK",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 0,
+      "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 0,
-      "col": 7,
+      "clue": "The rainy season that brings heavy rain to India each summer",
+      "answer": "MONSOON",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
-      "row": 5,
-      "col": 8,
+      "clue": "You use it to rub out pencil marks",
+      "answer": "ERASER",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A dark brownish-red",
-      "answer": "MAROON",
+      "clue": "A seat with a back and four legs, for one person",
+      "answer": "CHAIR",
       "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "What we hear with our ears",
-      "answer": "SOUND",
-      "row": 7,
-      "col": 3,
+      "clue": "A thin, white layer of ice on cold mornings",
+      "answer": "FROST",
+      "row": 8,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "You open it to go in and out of a room",
-      "answer": "DOOR",
-      "row": 4,
+      "clue": "A crunchy red or green fruit; one a day keeps the doctor away",
+      "answer": "APPLE",
+      "row": 2,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Carriages pulled along railway tracks by an engine",
+      "answer": "TRAIN",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The curved bones that cage your heart and lungs",
+      "answer": "RIBS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A thick cloud near the ground that's hard to see through",
+      "answer": "FOG",
+      "row": 8,
+      "col": 3,
       "direction": "across"
     }
   ],

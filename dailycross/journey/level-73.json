@@ -4,91 +4,112 @@
   "title": "Level 73",
   "words": [
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 4,
-      "col": 3,
+      "clue": "Where you go on the swings and slide at break time",
+      "answer": "PLAYGROUND",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A dark cloud that brings rain",
-      "answer": "RAINCLOUD",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 2,
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Feeling thankful for something you were given",
-      "answer": "GRATEFUL",
-      "row": 2,
-      "col": 7,
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
+      "row": 13,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 10,
-      "col": 7,
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint that connects your arm to your body",
+      "answer": "SHOULDER",
+      "row": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 4,
+      "clue": "A person who gathers and tells the news",
+      "answer": "REPORTER",
+      "row": 7,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A giant bird that runs fast but can't fly",
-      "answer": "OSTRICH",
+      "clue": "A huge, slow-moving river of ice",
+      "answer": "GLACIER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A long stretch of time with no rain",
+      "answer": "DROUGHT",
+      "row": 7,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "The stony remains of an animal or plant from long ago",
+      "answer": "FOSSIL",
       "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A jug with a handle and spout for pouring drinks",
-      "answer": "PITCHER",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
+      "clue": "A person who brings food to your table at a restaurant",
+      "answer": "WAITER",
       "row": 0,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, smooth stone",
-      "answer": "PEBBLE",
-      "row": 6,
-      "col": 6,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
+      "clue": "In a bad mood, cross and complaining",
+      "answer": "GRUMPY",
+      "row": 9,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The front of your neck, where your voice comes from",
+      "answer": "THROAT",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of people who sing together",
+      "answer": "CHOIR",
       "row": 11,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A wheeled robot that drives around on Mars",
+      "answer": "ROVER",
+      "row": 12,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 6,
-      "col": 14,
+      "clue": "A narrow boat you move with a paddle",
+      "answer": "CANOE",
+      "row": 9,
+      "col": 1,
       "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 15,
   "targetWords": 15,
   "difficulty": "medium"
 }

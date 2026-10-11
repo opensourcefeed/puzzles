@@ -4,66 +4,73 @@
   "title": "2027-11-22",
   "words": [
     {
-      "clue": "Sports like running, jumping, and throwing",
-      "answer": "ATHLETICS",
-      "row": 2,
+      "clue": "The blanket of air around the Earth",
+      "answer": "ATMOSPHERE",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 1,
-      "col": 2,
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A soft, pale yellow",
-      "answer": "BUTTER",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A small, crunchy root with a peppery taste",
-      "answer": "RADISH",
+      "clue": "A person who repairs cars and engines",
+      "answer": "MECHANIC",
       "row": 5,
-      "col": 7,
-      "direction": "across"
+      "col": 4,
+      "direction": "down"
     },
     {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge group of stars held together in space",
-      "answer": "GALAXY",
+      "clue": "A hanging spike of ice that forms when dripping water freezes",
+      "answer": "ICICLE",
       "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "How things are arranged on a screen or page",
-      "answer": "LAYOUT",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The tiny points of light in the night sky",
-      "answer": "STARS",
-      "row": 7,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel when something good happens; full of smiles",
+      "answer": "HAPPY",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The five lines that music is written on",
+      "answer": "STAFF",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A white drink that comes from cows",
+      "answer": "MILK",
+      "row": 0,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The shiny yellow metal that first-place medals are made of",
+      "answer": "GOLD",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A furry pet that purrs and says meow",
+      "answer": "CAT",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     }
   ],

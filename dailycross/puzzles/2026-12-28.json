@@ -4,66 +4,73 @@
   "title": "2026-12-28",
   "words": [
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
       "row": 6,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 5,
-      "col": 7,
+      "clue": "It turns paper pages into computer files",
+      "answer": "SCANNER",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 6,
-      "col": 9,
+      "clue": "A two-wheeled ride you pedal",
+      "answer": "BICYCLE",
+      "row": 0,
+      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
     },
     {
       "clue": "A win in a game or contest",
       "answer": "VICTORY",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A large flat dish for serving food",
-      "answer": "PLATTER",
-      "row": 10,
-      "col": 8,
+      "row": 1,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A tilted square with four equal sides",
-      "answer": "RHOMBUS",
-      "row": 0,
+      "clue": "A small, crunchy red root with a peppery taste",
+      "answer": "RADISH",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Steps that take you from one floor to another",
+      "answer": "STAIRS",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Body tissue that tightens to move your bones",
+      "answer": "MUSCLE",
+      "row": 2,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round shape with no corners",
-      "answer": "CIRCLE",
-      "row": 0,
-      "col": 7,
+      "clue": "A sweet, sticky food made by bees",
+      "answer": "HONEY",
+      "row": 8,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 8,
-      "col": 8,
+      "clue": "A fine powder made from wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Bright weather with no clouds at all",
+      "answer": "CLEAR",
+      "row": 5,
+      "col": 9,
       "direction": "across"
     }
   ],

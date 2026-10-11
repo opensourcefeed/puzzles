@@ -4,59 +4,73 @@
   "title": "2028-02-20",
   "words": [
     {
-      "clue": "Very, very surprised or amazed",
-      "answer": "ASTONISHED",
-      "row": 5,
-      "col": 0,
+      "clue": "A small animal covered in spines that curls into a ball",
+      "answer": "HEDGEHOG",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 0,
+      "clue": "A device that plays sound out loud",
+      "answer": "SPEAKER",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The fuel that most cars run on",
-      "answer": "GASOLINE",
-      "row": 2,
+      "clue": "A small concert by music students",
+      "answer": "RECITAL",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A round citrus fruit you peel and eat in slices",
-      "answer": "ORANGE",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep purple, like the flower",
-      "answer": "VIOLET",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft yellow spread made from cream",
-      "answer": "BUTTER",
-      "row": 5,
-      "col": 10,
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
+      "row": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A long animal with no legs that slithers",
-      "answer": "SNAKE",
+      "clue": "The opposite of a question",
+      "answer": "ANSWER",
+      "row": 4,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A vehicle that blasts off into space",
+      "answer": "ROCKET",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of chocolate and tree bark",
+      "answer": "BROWN",
       "row": 1,
-      "col": 8,
-      "direction": "down"
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "The open ground where a sport is played",
-      "answer": "FIELD",
+      "clue": "Bright weather with no clouds at all",
+      "answer": "CLEAR",
       "row": 9,
-      "col": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Very cross; how you feel when something is unfair",
+      "answer": "ANGRY",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The skin on top of your head where hair grows",
+      "answer": "SCALP",
+      "row": 11,
+      "col": 0,
       "direction": "across"
     }
   ],

@@ -4,59 +4,66 @@
   "title": "2027-05-21",
   "words": [
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
+      "clue": "A giant reptile that lived millions of years ago, like T. rex",
+      "answer": "DINOSAUR",
       "row": 3,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 1,
-      "col": 8,
+      "clue": "A bat-and-ball game hugely popular in India and England",
+      "answer": "CRICKET",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A scientist who studies animals",
-      "answer": "ZOOLOGIST",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A four-sided shape with just one pair of parallel sides",
-      "answer": "TRAPEZOID",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "How much rain has fallen",
-      "answer": "RAINFALL",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
-      "row": 4,
+      "clue": "A round vegetable made of tightly packed leaves",
+      "answer": "CABBAGE",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A string instrument you strum or pluck",
-      "answer": "GUITAR",
+      "clue": "Able to wait calmly without complaining",
+      "answer": "PATIENT",
+      "row": 8,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A passage that goes through a mountain or under a river",
+      "answer": "TUNNEL",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A woven container for carrying things",
+      "answer": "BASKET",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A long chain of mountains, like the Himalayas",
+      "answer": "RANGE",
       "row": 0,
-      "col": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The rough outer covering of a tree trunk",
+      "answer": "BARK",
+      "row": 0,
+      "col": 8,
       "direction": "across"
     }
   ],

@@ -4,66 +4,74 @@
   "title": "2027-01-04",
   "words": [
     {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A scientist who studies plants",
-      "answer": "BOTANIST",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A coat you wear to stay dry in the rain",
-      "answer": "RAINCOAT",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ that breaks down the food you eat",
-      "answer": "STOMACH",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool for measuring how long something is",
-      "answer": "RULER",
-      "row": 0,
-      "col": 10,
-      "direction": "across"
-    },
-    {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
-      "row": 0,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your hand to your arm",
-      "answer": "WRIST",
+      "clue": "A zip-up pouch that holds everything you write with",
+      "answer": "PENCILCASE",
+      "enumeration": "6,4",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You use it to tidy and smooth your hair",
-      "answer": "COMB",
-      "row": 5,
+      "clue": "A spacecraft that could fly to space again and again",
+      "answer": "SHUTTLE",
+      "row": 4,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A small round fastener on a shirt, or a thing you click on screen",
+      "answer": "BUTTON",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You dry yourself with this after a bath",
+      "answer": "TOWEL",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint between your hand and your arm",
+      "answer": "WRIST",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A push or a pull",
+      "answer": "FORCE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A vegetable with layers that makes you cry when you cut it",
+      "answer": "ONION",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Our galaxy is the ___ Way",
+      "answer": "MILKY",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A thin, light fog close to the ground",
+      "answer": "MIST",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the straight edges of a shape",
+      "answer": "SIDE",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     }
   ],

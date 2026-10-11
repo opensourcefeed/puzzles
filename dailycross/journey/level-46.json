@@ -4,77 +4,85 @@
   "title": "Level 46",
   "words": [
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Furniture with shelves for holding your books",
-      "answer": "BOOKSHELF",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A space rock that survives and lands on the ground",
-      "answer": "METEORITE",
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
       "row": 6,
-      "col": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 4,
-      "col": 3,
+      "clue": "The sport of racing through the water in a pool",
+      "answer": "SWIMMING",
+      "row": 0,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The season when leaves turn color and fall",
-      "answer": "AUTUMN",
-      "row": 4,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 2,
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
+      "row": 6,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A deep, dark green like trees in the woods",
-      "answer": "FOREST",
+      "clue": "You open it over your head when it pours",
+      "answer": "UMBRELLA",
       "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A desert animal with humps on its back",
-      "answer": "CAMEL",
-      "row": 10,
+      "clue": "A bushy-tailed animal that hides nuts for winter",
+      "answer": "SQUIRREL",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Someone who delivers parcels to your door",
+      "answer": "COURIER",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A round citrus fruit that shares its name with its color",
+      "answer": "ORANGE",
+      "row": 11,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who speaks for you in court",
+      "answer": "LAWYER",
+      "row": 2,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Another word for a tap",
+      "answer": "FAUCET",
+      "row": 13,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of full",
-      "answer": "EMPTY",
-      "row": 6,
-      "col": 0,
+      "clue": "A small, crunchy red root with a peppery taste",
+      "answer": "RADISH",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The stony remains of an animal or plant from long ago",
+      "answer": "FOSSIL",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

@@ -4,77 +4,126 @@
   "title": "Level 91",
   "words": [
     {
-      "clue": "Very, very surprised or amazed",
-      "answer": "ASTONISHED",
-      "row": 2,
-      "col": 1,
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 0,
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You slip it between pages to save your place",
+      "answer": "BOOKMARK",
+      "row": 13,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Kind and easy to get along with",
+      "answer": "FRIENDLY",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge grey animal with a long trunk",
+      "answer": "ELEPHANT",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 2,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
+      "clue": "A bag with two straps that you carry your books in",
+      "answer": "BACKPACK",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A bat-and-ball game hugely popular in India and England",
+      "answer": "CRICKET",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Connected to the internet",
+      "answer": "ONLINE",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a banana or a school bus",
+      "answer": "YELLOW",
+      "row": 7,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The middle color of a traffic light; also hardened tree resin",
+      "answer": "AMBER",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The part between your head and shoulders",
+      "answer": "NECK",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A vehicle that rushes sick people to the hospital",
-      "answer": "AMBULANCE",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool that makes faraway things look close",
-      "answer": "TELESCOPE",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 1,
+      "clue": "A giant ball of burning gas that twinkles at night",
+      "answer": "STAR",
+      "row": 13,
       "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A hard, solid lump of stone",
+      "answer": "ROCK",
+      "row": 10,
+      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
+      "clue": "Kicking or throwing the ball to a teammate",
+      "answer": "PASS",
       "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
-      "row": 0,
-      "col": 12,
+      "col": 10,
       "direction": "down"
-    },
-    {
-      "clue": "How loud or soft the music is",
-      "answer": "VOLUME",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "An animal that swings from tree branches",
-      "answer": "MONKEY",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 17,
   "targetWords": 17,
   "difficulty": "medium"
 }

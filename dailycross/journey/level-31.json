@@ -4,63 +4,71 @@
   "title": "Level 31",
   "words": [
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 2,
-      "col": 1,
+      "clue": "A four-sided shape with just one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
       "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 1,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
-      "row": 9,
+      "clue": "A racket sport played with a feathery shuttlecock",
+      "answer": "BADMINTON",
+      "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A safe spot along the coast where boats stay",
-      "answer": "HARBOR",
+      "clue": "A person who looks after plants, lawns and flowerbeds",
+      "answer": "GARDENER",
+      "row": 1,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
       "row": 8,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The gas in the air that we need to breathe",
+      "answer": "OXYGEN",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The arrow that shows where your mouse is pointing",
-      "answer": "CURSOR",
-      "row": 3,
-      "col": 2,
+      "clue": "How loud or soft the music is",
+      "answer": "VOLUME",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The number of points in a game",
-      "answer": "SCORE",
-      "row": 7,
-      "col": 9,
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 0,
+      "col": 7,
       "direction": "across"
     }
   ],
-  "wordCount": 8,
+  "wordCount": 9,
   "targetWords": 9,
   "difficulty": "medium"
 }

@@ -4,67 +4,74 @@
   "title": "2027-12-09",
   "words": [
     {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
-      "row": 4,
+      "clue": "A four-sided shape with just one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies stars and planets",
-      "answer": "ASTRONOMER",
-      "row": 2,
+      "clue": "The panel of keys you type on",
+      "answer": "KEYBOARD",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A small stick that plugs in to store your files",
-      "answer": "FLASHDRIVE",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The place where deleted files go on a computer",
-      "answer": "RECYCLEBIN",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
       "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A passage that goes through a mountain or under a river",
+      "answer": "TUNNEL",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The yellow dust that bees carry from flower to flower",
+      "answer": "POLLEN",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A book full of maps",
+      "answer": "ATLAS",
+      "row": 1,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
-      "row": 0,
+      "clue": "A baked loaf made from flour, sliced for sandwiches",
+      "answer": "BREAD",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A flying vehicle with wings",
-      "answer": "AIRPLANE",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You carry water to school in this",
-      "answer": "BOTTLE",
-      "row": 2,
-      "col": 12,
+      "clue": "A hard, solid lump of stone",
+      "answer": "ROCK",
+      "row": 4,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A giant ball of burning gas that twinkles at night",
+      "answer": "STAR",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
     }
   ],
   "dayNumber": 545

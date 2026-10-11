@@ -4,84 +4,119 @@
   "title": "Level 81",
   "words": [
     {
-      "clue": "A scientist who studies stars and planets",
-      "answer": "ASTRONOMER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The big board in class that teachers write on with markers",
-      "answer": "WHITEBOARD",
-      "row": 2,
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 6,
       "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A person watching a game from the stands",
-      "answer": "SPECTATOR",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A four-sided shape with just one pair of parallel sides",
-      "answer": "TRAPEZOID",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge grey animal with a long trunk",
-      "answer": "ELEPHANT",
-      "row": 8,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A shape with five straight sides",
-      "answer": "PENTAGON",
-      "row": 5,
-      "col": 10,
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A small rocky object that circles the Sun",
-      "answer": "ASTEROID",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "You sweep dirt into it using a broom",
-      "answer": "DUSTPAN",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The gas in the air that we need to breathe",
-      "answer": "OXYGEN",
-      "row": 12,
+      "clue": "An appliance that heats food really fast",
+      "answer": "MICROWAVE",
+      "row": 10,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "You hang clothes on it in the wardrobe",
-      "answer": "HANGER",
-      "row": 0,
-      "col": 3,
+      "clue": "Soft shoes made for running and sports",
+      "answer": "SNEAKERS",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who is really good at sports",
+      "answer": "ATHLETE",
+      "row": 4,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The opposite of correct",
-      "answer": "WRONG",
-      "row": 10,
-      "col": 6,
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
+      "row": 5,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A doctor who looks after your teeth",
+      "answer": "DENTIST",
+      "row": 12,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
+      "row": 2,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The rainy season that brings heavy rain to India each summer",
+      "answer": "MONSOON",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A hook-topped frame for keeping clothes in a wardrobe",
+      "answer": "HANGER",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, curved yellow fruit you peel",
+      "answer": "BANANA",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "You use this to eat, talk, and smile",
+      "answer": "MOUTH",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A big instrument with black and white keys",
+      "answer": "PIANO",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The land right along the edge of the sea",
+      "answer": "COAST",
+      "row": 8,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A stretched-out circle, shaped like an egg",
+      "answer": "OVAL",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A basin with taps for washing hands and dishes",
+      "answer": "SINK",
+      "row": 10,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 16,
   "targetWords": 16,
   "difficulty": "medium"
 }

@@ -4,67 +4,75 @@
   "title": "2028-05-31",
   "words": [
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
+      "clue": "The room where your lessons happen",
+      "answer": "CLASSROOM",
       "row": 2,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
+      "clue": "A squeezebox instrument with buttons or keys",
+      "answer": "ACCORDION",
       "row": 1,
-      "col": 8,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The rest break in the middle of a game",
-      "answer": "HALFTIME",
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
       "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
+      "row": 7,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A doctor who looks after your teeth",
+      "answer": "DENTIST",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cuts men's hair and trims beards",
+      "answer": "BARBER",
+      "row": 1,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
+      "clue": "A big area covered with lots of trees",
+      "answer": "FOREST",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The colored ring in your eye",
+      "answer": "IRIS",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 4,
-      "col": 1,
+      "clue": "A short typed message sent from a phone",
+      "answer": "TEXT",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A breakfast food you eat with milk",
-      "answer": "CEREAL",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "To find and fix the mistakes in a program",
-      "answer": "DEBUG",
-      "row": 0,
-      "col": 1,
+      "clue": "One of the straight edges of a shape",
+      "answer": "SIDE",
+      "row": 6,
+      "col": 0,
       "direction": "down"
-    },
-    {
-      "clue": "A deep, narrow valley with steep rocky sides",
-      "answer": "GORGE",
-      "row": 3,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The bright object that circles Earth at night",
-      "answer": "MOON",
-      "row": 4,
-      "col": 9,
-      "direction": "across"
     }
   ],
   "dayNumber": 719

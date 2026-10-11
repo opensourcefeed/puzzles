@@ -4,98 +4,126 @@
   "title": "Level 87",
   "words": [
     {
-      "clue": "A person who writes computer code",
-      "answer": "PROGRAMMER",
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
       "row": 7,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The tree that grows apples",
-      "answer": "APPLETREE",
-      "row": 6,
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "An electronic machine that runs programs",
+      "answer": "COMPUTER",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The answer you get when you multiply",
+      "answer": "PRODUCT",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
+      "row": 7,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Very light rain falling in fine drops",
+      "answer": "DRIZZLE",
+      "row": 7,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "It makes a pencil pointy again",
-      "answer": "SHARPENER",
-      "row": 5,
-      "col": 6,
+      "clue": "The matching clothes a team wears",
+      "answer": "UNIFORM",
+      "row": 2,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "Sports like running, jumping, and throwing",
-      "answer": "ATHLETICS",
-      "row": 10,
-      "col": 2,
+      "clue": "How you feel watching a spooky movie",
+      "answer": "SCARED",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "An electronic instrument with piano-like keys",
-      "answer": "KEYBOARD",
-      "row": 13,
+      "clue": "A person who grows crops and raises animals",
+      "answer": "FARMER",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when leaves turn color and fall",
+      "answer": "AUTUMN",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Soft, wet land that is often flooded",
+      "answer": "MARSH",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Any one of the numbers 0 to 9",
+      "answer": "DIGIT",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 5,
-      "col": 3,
+      "clue": "A book full of maps",
+      "answer": "ATLAS",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
+      "clue": "A big orange cat with black stripes",
+      "answer": "TIGER",
+      "row": 4,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "___ panels turn sunshine into electricity",
+      "answer": "SOLAR",
       "row": 0,
-      "col": 9,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The color of a carrot; red mixed with yellow",
-      "answer": "ORANGE",
-      "row": 3,
-      "col": 4,
+      "clue": "A creature from another planet, in stories",
+      "answer": "ALIEN",
+      "row": 12,
+      "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A spiky desert plant that stores water",
-      "answer": "CACTUS",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A round red fruit used in salads and sauces",
-      "answer": "TOMATO",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
-      "row": 3,
-      "col": 9,
-      "direction": "across"
-    },
-    {
-      "clue": "The body part you think with",
-      "answer": "BRAIN",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 17,
   "targetWords": 17,
   "difficulty": "medium"
 }

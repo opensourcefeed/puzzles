@@ -4,74 +4,74 @@
   "title": "2026-11-25",
   "words": [
     {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 4,
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who repairs cars and machines",
-      "answer": "MECHANIC",
+      "clue": "A ship that can travel deep underwater",
+      "answer": "SUBMARINE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
       "row": 3,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A very tall, steep, rocky peak",
-      "answer": "MOUNTAIN",
-      "row": 3,
+      "clue": "Able to wait calmly without complaining",
+      "answer": "PATIENT",
+      "row": 9,
       "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the two holes in your nose",
+      "answer": "NOSTRIL",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A team game where you kick a ball into a goal",
+      "answer": "SOCCER",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
+      "clue": "A small light for a table or the floor",
+      "answer": "LAMP",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
     },
     {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
+      "clue": "A white drink that comes from cows",
+      "answer": "MILK",
       "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny grains of rock found on a beach",
+      "answer": "SAND",
+      "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of a device that shows pictures and words",
-      "answer": "SCREEN",
+      "clue": "Small white grains that many people eat every day",
+      "answer": "RICE",
       "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The path one object takes as it circles another",
-      "answer": "ORBIT",
-      "row": 7,
-      "col": 0,
+      "col": 9,
       "direction": "down"
-    },
-    {
-      "clue": "The soft side of your face below your eye",
-      "answer": "CHEEK",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
     }
   ],
   "dayNumber": 166

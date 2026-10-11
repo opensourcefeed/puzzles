@@ -4,73 +4,73 @@
   "title": "2027-01-12",
   "words": [
     {
-      "clue": "A big white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "It makes a blunt pencil pointy again",
+      "answer": "SHARPENER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The sport of racing on a bicycle",
+      "answer": "CYCLING",
+      "row": 7,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who helps students learn at school",
+      "answer": "TEACHER",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A nut that grows underground and is made into butter",
+      "answer": "PEANUT",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A long, curved yellow fruit you peel",
+      "answer": "BANANA",
+      "row": 3,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The shiny metal of a second-place medal",
+      "answer": "SILVER",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who plays music or sings for a living",
-      "answer": "MUSICIAN",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You use it to control the TV from your seat",
-      "answer": "REMOTE",
+      "clue": "A robot spacecraft sent to explore far-off planets",
+      "answer": "PROBE",
       "row": 0,
-      "col": 6,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The place where water flows out of a lake",
-      "answer": "OUTLET",
-      "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A long, curved yellow fruit you peel",
-      "answer": "BANANA",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
+      "clue": "The opposite of tall",
+      "answer": "SHORT",
       "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that lets your arm bend",
-      "answer": "ELBOW",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
-      "row": 7,
-      "col": 7,
+      "col": 0,
       "direction": "across"
     }
   ],

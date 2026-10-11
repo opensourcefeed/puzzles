@@ -4,66 +4,66 @@
   "title": "2026-11-06",
   "words": [
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
+      "clue": "Where a river drops straight down over a cliff",
+      "answer": "WATERFALL",
       "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who gives emergency care in an ambulance",
+      "answer": "PARAMEDIC",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Two slices of bread with a filling in between",
+      "answer": "SANDWICH",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 1,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A round dent on the Moon made by a crashing space rock",
+      "answer": "CRATER",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A stick used to hit the ball in golf",
+      "answer": "CLUB",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "You wash your hands with this and it makes bubbles",
+      "answer": "SOAP",
+      "row": 0,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "It clips sheets of paper together",
-      "answer": "STAPLER",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The instrument family that includes the violin, cello, and guitar",
-      "answer": "STRINGS",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The distance from a circle's center to its edge",
-      "answer": "RADIUS",
-      "row": 7,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The planet that spins on its side",
-      "answer": "URANUS",
+      "clue": "The color of a stop sign and strawberries",
+      "answer": "RED",
       "row": 4,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The green plant that covers a lawn",
-      "answer": "GRASS",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
-      "row": 4,
-      "col": 8,
       "direction": "across"
     }
   ],

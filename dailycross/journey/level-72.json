@@ -4,91 +4,113 @@
   "title": "Level 72",
   "words": [
     {
-      "clue": "A half-circle tool for measuring angles",
-      "answer": "PROTRACTOR",
-      "row": 6,
-      "col": 2,
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
+      "row": 7,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A red truck that carries firefighters and hoses",
-      "answer": "FIRETRUCK",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A cabinet for storing food and dishes",
-      "answer": "CUPBOARD",
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
       "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A curved band of colors after the rain",
-      "answer": "RAINBOW",
-      "row": 11,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A long stretch of time with no rain",
-      "answer": "DROUGHT",
-      "row": 5,
+      "clue": "The main printed guide your class learns a subject from",
+      "answer": "TEXTBOOK",
+      "row": 7,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A person who cuts hair, mostly for men",
-      "answer": "BARBER",
-      "row": 9,
-      "col": 8,
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
+      "row": 12,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The part of a song that repeats each time",
-      "answer": "CHORUS",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The open ground where a sport is played",
-      "answer": "FIELD",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small juicy fruit often used in jam",
-      "answer": "BERRY",
+      "clue": "A thousand thousands",
+      "answer": "MILLION",
       "row": 6,
-      "col": 13,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The finger you point with",
-      "answer": "INDEX",
-      "row": 13,
-      "col": 6,
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
+      "row": 9,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "You cut your food with this",
-      "answer": "KNIFE",
-      "row": 0,
-      "col": 8,
+      "clue": "The planet that spins on its side",
+      "answer": "URANUS",
+      "row": 9,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "To find and fix the mistakes in a program",
-      "answer": "DEBUG",
-      "row": 8,
+      "clue": "A person who helps sick people get better",
+      "answer": "DOCTOR",
+      "row": 9,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that takes photos",
+      "answer": "CAMERA",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A machine that can do jobs by itself",
+      "answer": "ROBOT",
+      "row": 14,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A wet mix of rain and snow",
+      "answer": "SLEET",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
+      "row": 3,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A silver pipe you blow across, held out sideways",
+      "answer": "FLUTE",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The soft side of your face below your eye",
+      "answer": "CHEEK",
+      "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The path one object takes as it circles another",
+      "answer": "ORBIT",
+      "row": 10,
+      "col": 14,
+      "direction": "down"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 15,
   "targetWords": 15,
   "difficulty": "medium"
 }

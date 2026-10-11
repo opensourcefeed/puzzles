@@ -4,74 +4,74 @@
   "title": "2028-05-08",
   "words": [
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 5,
+      "clue": "A plank on four little wheels for tricks at the park",
+      "answer": "SKATEBOARD",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling sure that you can do it",
-      "answer": "CONFIDENT",
+      "clue": "How you feel when something unexpected happens",
+      "answer": "SURPRISED",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
       "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "You use it to save your place in a book",
-      "answer": "BOOKMARK",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A very long-distance running race",
-      "answer": "MARATHON",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A colorful bird that can copy your words",
-      "answer": "PARROT",
-      "row": 3,
       "col": 5,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A machine that makes copies of pages",
-      "answer": "COPIER",
-      "row": 8,
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The finger you point with",
-      "answer": "INDEX",
-      "row": 7,
-      "col": 10,
+      "clue": "A passage that goes through a mountain or under a river",
+      "answer": "TUNNEL",
+      "row": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The opposite of tidy",
-      "answer": "MESSY",
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The soft side of your face below your eye",
+      "answer": "CHEEK",
       "row": 0,
-      "col": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A boat that carries people and cars across water",
+      "answer": "FERRY",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
+      "clue": "A green animal that hops and says ribbit",
+      "answer": "FROG",
       "row": 8,
-      "col": 1,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "The part of a plant that grows underground and drinks water",
+      "answer": "ROOT",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 696

@@ -4,74 +4,74 @@
   "title": "2027-12-14",
   "words": [
     {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 6,
+      "clue": "A person who designs machines, bridges and roads",
+      "answer": "ENGINEER",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A space rock that survives and lands on the ground",
-      "answer": "METEORITE",
+      "clue": "A device that plays sound out loud",
+      "answer": "SPEAKER",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright green gemstone",
+      "answer": "EMERALD",
       "row": 5,
-      "col": 10,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A group of computers linked to share information",
-      "answer": "NETWORK",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that keeps planets circling the Sun",
-      "answer": "GRAVITY",
+      "clue": "A sport where two people fight with padded gloves",
+      "answer": "BOXING",
       "row": 2,
-      "col": 8,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A big round object that circles a star",
-      "answer": "PLANET",
-      "row": 4,
-      "col": 6,
+      "clue": "A computer that folds shut so you can carry it",
+      "answer": "LAPTOP",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 13,
-      "col": 6,
+      "clue": "A long orange vegetable that rabbits love",
+      "answer": "CARROT",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Soft, wet land that is often flooded",
-      "answer": "MARSH",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
+      "clue": "The low land between hills or mountains",
+      "answer": "VALLEY",
       "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A dull yellow-brown, like army uniforms",
+      "answer": "KHAKI",
+      "row": 7,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
+      "row": 4,
       "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "The soft side of your face below your eye",
+      "answer": "CHEEK",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 550

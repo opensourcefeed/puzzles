@@ -4,67 +4,74 @@
   "title": "2027-05-30",
   "words": [
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
-      "row": 3,
-      "col": 1,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
+      "clue": "A person who plays an instrument or sings",
+      "answer": "MUSICIAN",
       "row": 0,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who designs machines and structures",
-      "answer": "ENGINEER",
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
       "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A smart, playful sea mammal that loves to leap and click",
+      "answer": "DOLPHIN",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The biggest bird in the world; it runs fast but can't fly",
+      "answer": "OSTRICH",
+      "row": 2,
       "col": 4,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of tidy",
-      "answer": "MESSY",
-      "row": 0,
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
+      "clue": "The dark shape made when something blocks the light",
+      "answer": "SHADOW",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The planet that spins on its side",
+      "answer": "URANUS",
+      "row": 6,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The red liquid that your heart pumps around",
+      "answer": "BLOOD",
       "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Water in the form of a gas",
-      "answer": "VAPOR",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "It hangs on the wall and tells you the time",
-      "answer": "CLOCK",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
+      "clue": "The colored ring in your eye",
+      "answer": "IRIS",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 352

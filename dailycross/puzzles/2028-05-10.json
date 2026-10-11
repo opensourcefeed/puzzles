@@ -4,67 +4,75 @@
   "title": "2028-05-10",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A big pile of snow blown together by the wind",
-      "answer": "SNOWDRIFT",
+      "clue": "A small hand drum with jingling metal discs",
+      "answer": "TAMBOURINE",
       "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of your face above your eyes",
-      "answer": "FOREHEAD",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
-      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A long, soft seat for several people",
-      "answer": "SOFA",
-      "row": 2,
-      "col": 5,
+      "clue": "The curved shape of a thin new moon",
+      "answer": "CRESCENT",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "It turns paper pages into computer files",
+      "answer": "SCANNER",
+      "row": 4,
+      "col": 6,
       "direction": "across"
+    },
+    {
+      "clue": "A collection of pages you visit online",
+      "answer": "WEBSITE",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "To do with the Moon, as in a ___ eclipse",
+      "answer": "LUNAR",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A straight mark between two points",
+      "answer": "LINE",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A blue-green color named after a duck",
+      "answer": "TEAL",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Where you throw your rubbish",
+      "answer": "BIN",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 698

@@ -4,67 +4,74 @@
   "title": "2028-04-10",
   "words": [
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 7,
-      "col": 0,
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 6,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 0,
+      "clue": "Ten hundreds",
+      "answer": "THOUSAND",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A person who designs machines and structures",
-      "answer": "ENGINEER",
+      "clue": "The place where planes take off and land",
+      "answer": "AIRPORT",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "You write with it, and it can be erased",
+      "answer": "PENCIL",
       "row": 2,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat touchscreen device, bigger than a phone; also a pill",
+      "answer": "TABLET",
+      "row": 2,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The opposite of deep",
-      "answer": "SHALLOW",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You use it to rub out pencil marks",
-      "answer": "ERASER",
+      "clue": "The person who steers a vehicle",
+      "answer": "DRIVER",
       "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A sport where you hit a ball over a net with a racket",
-      "answer": "TENNIS",
-      "row": 7,
-      "col": 6,
+      "clue": "A small metal cupboard at school for your things",
+      "answer": "LOCKER",
+      "row": 6,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 0,
-      "col": 5,
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The organ in your chest that pumps blood",
-      "answer": "HEART",
+      "clue": "The opposite of neat and tidy",
+      "answer": "MESSY",
       "row": 10,
-      "col": 7,
+      "col": 9,
       "direction": "across"
+    },
+    {
+      "clue": "The round underground part that tulips and onions grow from",
+      "answer": "BULB",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 668

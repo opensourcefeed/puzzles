@@ -4,66 +4,73 @@
   "title": "2027-02-15",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
+      "clue": "Feeling sure that you can do it",
+      "answer": "CONFIDENT",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a whole, like one-half",
-      "answer": "FRACTION",
+      "clue": "A secret code that unlocks your account",
+      "answer": "PASSWORD",
       "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A spot where water flows out of the ground",
-      "answer": "SPRING",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A shiny light gray, like the metal",
-      "answer": "SILVER",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A large stream of water flowing across the land",
-      "answer": "RIVER",
-      "row": 4,
+      "clue": "The biggest bird in the world; it runs fast but can't fly",
+      "answer": "OSTRICH",
+      "row": 2,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A round object used in many different sports",
-      "answer": "BALL",
-      "row": 3,
-      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A green animal that hops and says ribbit",
-      "answer": "FROG",
-      "row": 8,
-      "col": 6,
+      "clue": "The biggest ape, a gentle giant of the forest",
+      "answer": "GORILLA",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A shape with eight sides, like a stop sign",
+      "answer": "OCTAGON",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The × sign, used for multiplying",
+      "answer": "TIMES",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Bright weather with no clouds at all",
+      "answer": "CLEAR",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of back",
+      "answer": "FRONT",
+      "row": 1,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "To do with the Moon, as in a ___ eclipse",
+      "answer": "LUNAR",
+      "row": 10,
+      "col": 5,
       "direction": "across"
     }
   ],

@@ -4,66 +4,73 @@
   "title": "2027-11-30",
   "words": [
     {
-      "clue": "A person who writes computer code",
-      "answer": "PROGRAMMER",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Land with water on almost every side",
-      "answer": "PENINSULA",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A scientist who studies animals",
-      "answer": "ZOOLOGIST",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Many days in a row of very hot weather",
-      "answer": "HEATWAVE",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling super eager about something fun",
-      "answer": "EXCITED",
-      "row": 9,
+      "clue": "The flowers on a fruit tree in spring",
+      "answer": "BLOSSOM",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The sport of moving fast on your feet",
-      "answer": "RUNNING",
+      "clue": "Steps that take you from one floor to another",
+      "answer": "STAIRS",
       "row": 5,
-      "col": 8,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, crunchy red root with a peppery taste",
+      "answer": "RADISH",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "You use it to control the TV from your seat",
-      "answer": "REMOTE",
-      "row": 5,
+      "clue": "A sport where you hit a ball over a net with a racket",
+      "answer": "TENNIS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A line that bends smoothly, like a smile",
+      "answer": "CURVE",
+      "row": 9,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "You carry water to school in this",
-      "answer": "BOTTLE",
-      "row": 4,
+      "clue": "The opposite of back",
+      "answer": "FRONT",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A chart that shows numbers as bars or lines",
+      "answer": "GRAPH",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "What water does at 100 degrees Celsius",
+      "answer": "BOIL",
+      "row": 5,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "To find and fix the mistakes in a program",
-      "answer": "DEBUG",
-      "row": 4,
-      "col": 2,
+      "clue": "A group who play together against another group",
+      "answer": "TEAM",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "Instructions written for a computer",
+      "answer": "CODE",
+      "row": 9,
+      "col": 1,
       "direction": "down"
     }
   ],

@@ -4,66 +4,74 @@
   "title": "2027-05-22",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 3,
+      "clue": "What a forecast on the news tells you about",
+      "answer": "WEATHER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A spiky tropical fruit, sweet and yellow inside",
-      "answer": "PINEAPPLE",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
+      "clue": "The natural home of an animal or plant",
+      "answer": "HABITAT",
       "row": 5,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A strong farm vehicle that pulls heavy loads",
-      "answer": "TRACTOR",
-      "row": 4,
-      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
+      "clue": "A set of instructions that tells a computer what to do",
+      "answer": "PROGRAM",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
       "row": 10,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A shape with four equal sides and four right-angle corners",
-      "answer": "SQUARE",
+      "clue": "Body tissue that tightens to move your bones",
+      "answer": "MUSCLE",
       "row": 0,
-      "col": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A day when the sky is full of clouds",
-      "answer": "CLOUDY",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The place where water flows out of a lake",
-      "answer": "OUTLET",
+      "clue": "You sweep the floor with it",
+      "answer": "BROOM",
       "row": 8,
-      "col": 0,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 4,
+      "clue": "A sea animal with claws that walks sideways",
+      "answer": "CRAB",
+      "row": 7,
       "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of an elephant or a stormy sky",
+      "answer": "GRAY",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A pink farm animal with a curly tail that says oink",
+      "answer": "PIG",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Air and steam are both in this state of matter",
+      "answer": "GAS",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     }
   ],

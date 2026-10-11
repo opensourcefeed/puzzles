@@ -4,67 +4,74 @@
   "title": "2027-01-30",
   "words": [
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A book of blank pages for your notes",
-      "answer": "NOTEBOOK",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The farthest planet, a cold blue world",
-      "answer": "NEPTUNE",
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
       "row": 7,
-      "col": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 5,
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
+      "row": 3,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
+      "clue": "The person who stamps your books and helps you find the next one",
+      "answer": "LIBRARIAN",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The blinking line or arrow that shows where you are on screen",
+      "answer": "CURSOR",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Feeling sad because you have no one to play with",
+      "answer": "LONELY",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The planet that spins on its side",
+      "answer": "URANUS",
       "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Where a computer keeps what it's working on right now",
-      "answer": "MEMORY",
+      "clue": "You look into it to see yourself",
+      "answer": "MIRROR",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A photo you take of yourself",
+      "answer": "SELFIE",
       "row": 9,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The coldest, snowiest season",
-      "answer": "WINTER",
-      "row": 0,
-      "col": 3,
+      "clue": "A white or grey puff floating in the sky",
+      "answer": "CLOUD",
+      "row": 8,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The opposite of hard",
-      "answer": "SOFT",
-      "row": 3,
-      "col": 0,
+      "clue": "A big instrument with black and white keys",
+      "answer": "PIANO",
+      "row": 1,
+      "col": 3,
       "direction": "across"
-    },
-    {
-      "clue": "A pause of silence in a piece of music",
-      "answer": "REST",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
     }
   ],
   "dayNumber": 232

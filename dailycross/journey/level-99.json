@@ -4,91 +4,119 @@
   "title": "Level 99",
   "words": [
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 7,
-      "col": 3,
+      "clue": "A test a scientist does to find something out",
+      "answer": "EXPERIMENT",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 5,
+      "clue": "Instruments you hit or shake, like drums",
+      "answer": "PERCUSSION",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 5,
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 5,
+      "clue": "What an astronaut wears to stay alive outside the ship",
+      "answer": "SPACESUIT",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
+      "row": 0,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "An object that circles a planet to send signals",
-      "answer": "SATELLITE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
-      "row": 13,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling super eager about something fun",
-      "answer": "EXCITED",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A yellow food made from milk",
-      "answer": "CHEESE",
-      "row": 1,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A round red fruit used in sauces and salads",
-      "answer": "TOMATO",
-      "row": 5,
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The metal rails that a train runs on",
-      "answer": "TRACK",
-      "row": 10,
+      "clue": "A cardboard cover that keeps loose papers together",
+      "answer": "FOLDER",
+      "row": 5,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who cuts men's hair and trims beards",
+      "answer": "BARBER",
+      "row": 1,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "A tiny picture, like a smiley face, that you add to messages",
+      "answer": "EMOJI",
+      "row": 7,
       "col": 10,
       "direction": "across"
     },
     {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
+      "clue": "How you feel after doing something really well",
+      "answer": "PROUD",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The top part of your body, where your face is",
+      "answer": "HEAD",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A tiny round green vegetable from a pod",
+      "answer": "PEA",
       "row": 0,
-      "col": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "How a summer day at the beach feels",
+      "answer": "HOT",
+      "row": 4,
+      "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "A small container with a handle for drinking tea",
+      "answer": "CUP",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The light brown your skin can turn in the summer sun",
+      "answer": "TAN",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "wordCount": 12,
+  "wordCount": 16,
   "targetWords": 18,
   "difficulty": "medium"
 }

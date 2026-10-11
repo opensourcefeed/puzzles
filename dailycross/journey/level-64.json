@@ -4,77 +4,98 @@
   "title": "Level 64",
   "words": [
     {
-      "clue": "A sport where you hit a shuttlecock over a net",
-      "answer": "BADMINTON",
-      "row": 2,
-      "col": 3,
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
+      "row": 6,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Furniture with shelves for holding your books",
-      "answer": "BOOKSHELF",
-      "row": 1,
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet brown treat made from cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 3,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A small rocky object that circles the Sun",
-      "answer": "ASTEROID",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A safe spot along the coast where boats stay",
-      "answer": "HARBOR",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of a banana or the sun",
-      "answer": "YELLOW",
-      "row": 5,
+      "clue": "A pretty insect with colorful wings that used to be a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 12,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
-      "row": 2,
+      "clue": "Soft shoes made for running and sports",
+      "answer": "SNEAKERS",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A giant reptile that lived millions of years ago, like T. rex",
+      "answer": "DINOSAUR",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Extremely, red-faced mad",
+      "answer": "FURIOUS",
+      "row": 0,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The sweet liquid squeezed out of fruit",
-      "answer": "JUICE",
-      "row": 0,
-      "col": 7,
+      "clue": "The part of a song that repeats after each verse",
+      "answer": "CHORUS",
+      "row": 1,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
+      "row": 1,
+      "col": 14,
       "direction": "down"
     },
     {
-      "clue": "A big body of water with land all around it",
-      "answer": "LAKE",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
+      "clue": "The bony case that protects your brain",
+      "answer": "SKULL",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "A tall tropical tree with big leaves, seen on beaches",
-      "answer": "PALM",
-      "row": 6,
-      "col": 1,
-      "direction": "down"
+      "clue": "A chart that shows numbers as bars or lines",
+      "answer": "GRAPH",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
     }
   ],
-  "wordCount": 10,
+  "wordCount": 13,
   "targetWords": 13,
   "difficulty": "medium"
 }

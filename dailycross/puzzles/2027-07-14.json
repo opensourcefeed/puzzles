@@ -4,66 +4,73 @@
   "title": "2027-07-14",
   "words": [
     {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You use it to rub out pencil marks",
-      "answer": "ERASER",
+      "clue": "A bag with two straps that you carry your books in",
+      "answer": "BACKPACK",
       "row": 6,
-      "col": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A small round fruit that grows in bunches",
-      "answer": "GRAPE",
-      "row": 5,
-      "col": 10,
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A large string instrument played sitting down",
-      "answer": "CELLO",
-      "row": 9,
-      "col": 5,
+      "clue": "The flowers on a fruit tree in spring",
+      "answer": "BLOSSOM",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The matching clothes a team wears",
+      "answer": "UNIFORM",
+      "row": 1,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
+      "clue": "A smart, playful sea mammal that loves to leap and click",
+      "answer": "DOLPHIN",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of after",
+      "answer": "BEFORE",
       "row": 8,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 0,
-      "col": 8,
+      "clue": "The joint between your hand and your arm",
+      "answer": "WRIST",
+      "row": 4,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The back part of your foot",
+      "answer": "HEEL",
+      "row": 6,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Bright weather with no clouds at all",
-      "answer": "CLEAR",
-      "row": 1,
-      "col": 4,
+      "clue": "The stalk that holds a plant up",
+      "answer": "STEM",
+      "row": 10,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of up",
+      "answer": "DOWN",
+      "row": 3,
+      "col": 7,
       "direction": "across"
     }
   ],

@@ -4,74 +4,60 @@
   "title": "2027-12-07",
   "words": [
     {
-      "clue": "A vehicle that rushes sick people to the hospital",
-      "answer": "AMBULANCE",
-      "row": 6,
-      "col": 0,
+      "clue": "How you feel when something unexpected happens",
+      "answer": "SURPRISED",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A small, sweet orange fruit that peels easily",
-      "answer": "TANGERINE",
-      "row": 5,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried and uneasy inside",
-      "answer": "ANXIOUS",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
       "row": 1,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The low land between hills or mountains",
-      "answer": "VALLEY",
-      "row": 2,
+      "clue": "A person who plays an instrument or sings",
+      "answer": "MUSICIAN",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The bony case that protects your brain",
+      "answer": "SKULL",
+      "row": 4,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The place where a river begins",
-      "answer": "SOURCE",
-      "row": 13,
-      "col": 0,
+      "clue": "The round part that turns under a car",
+      "answer": "WHEEL",
+      "row": 9,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A seat with a back and legs, for one person",
-      "answer": "CHAIR",
-      "row": 0,
-      "col": 6,
+      "clue": "A tree whose sap is boiled into a sweet syrup for pancakes",
+      "answer": "MAPLE",
+      "row": 5,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "A pale sandy color, like milky coffee",
+      "answer": "BEIGE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 543

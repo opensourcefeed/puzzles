@@ -4,73 +4,74 @@
   "title": "2027-03-17",
   "words": [
     {
-      "clue": "A scientist who studies stars and planets",
-      "answer": "ASTRONOMER",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
+      "clue": "Someone riding in a vehicle but not driving",
+      "answer": "PASSENGER",
       "row": 2,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A blue-green color, like the gemstone",
-      "answer": "TURQUOISE",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A secret word that unlocks your account",
-      "answer": "PASSWORD",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 5,
-      "col": 12,
+      "clue": "An event where athletes leap over a raised bar",
+      "answer": "HIGHJUMP",
+      "enumeration": "4,4",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A race where teammates take turns and pass a baton",
-      "answer": "RELAY",
-      "row": 3,
-      "col": 9,
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The biggest planet, with a giant red spot",
+      "answer": "JUPITER",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 3,
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Wanting what someone else has; green with envy",
+      "answer": "JEALOUS",
+      "row": 0,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of rough",
+      "answer": "SMOOTH",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Facing danger without running away",
+      "answer": "BRAVE",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A light red color, like bubblegum",
+      "answer": "PINK",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of polite",
+      "answer": "RUDE",
+      "row": 5,
+      "col": 0,
       "direction": "across"
     }
   ],

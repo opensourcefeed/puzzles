@@ -4,59 +4,73 @@
   "title": "2027-12-26",
   "words": [
     {
-      "clue": "A curved band of colors after the rain",
-      "answer": "RAINBOW",
-      "row": 5,
-      "col": 3,
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The repeating pattern of beats in music",
-      "answer": "RHYTHM",
+      "clue": "A person who builds things out of wood",
+      "answer": "CARPENTER",
       "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The main tune of a song",
-      "answer": "MELODY",
-      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who leads tourists around",
-      "answer": "GUIDE",
-      "row": 0,
-      "col": 6,
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 0,
-      "col": 3,
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 4,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
-      "row": 8,
+      "clue": "The opposite of awake",
+      "answer": "ASLEEP",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The middle color of a traffic light; also hardened tree resin",
+      "answer": "AMBER",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, sticky food made by bees",
+      "answer": "HONEY",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A dish of raw leafy vegetables",
+      "answer": "SALAD",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The muscle at the back of your lower leg",
-      "answer": "CALF",
-      "row": 6,
-      "col": 1,
+      "clue": "The red liquid that your heart pumps around",
+      "answer": "BLOOD",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     }
   ],

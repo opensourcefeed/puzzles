@@ -4,67 +4,74 @@
   "title": "2028-03-08",
   "words": [
     {
-      "clue": "A shape like a door: two long sides and two short",
-      "answer": "RECTANGLE",
-      "row": 4,
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 4,
-      "col": 3,
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
+      "row": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
+      "clue": "A shape with five straight sides",
+      "answer": "PENTAGON",
       "row": 6,
-      "col": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who makes music with their voice",
-      "answer": "SINGER",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 3,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "To find and fix the mistakes in a program",
-      "answer": "DEBUG",
+      "clue": "A container that carries your midday meal to school",
+      "answer": "LUNCHBOX",
       "row": 0,
-      "col": 6,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The joint that lets your leg bend",
-      "answer": "KNEE",
-      "row": 1,
+      "clue": "A solid with two round ends, like a can",
+      "answer": "CYLINDER",
+      "row": 0,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A two-wheeled ride you pedal",
+      "answer": "BICYCLE",
+      "row": 8,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The top part of your body that holds your brain",
-      "answer": "HEAD",
-      "row": 11,
-      "col": 2,
+      "clue": "Water in the form of a gas",
+      "answer": "VAPOR",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The net you try to get the ball into",
+      "answer": "GOAL",
+      "row": 8,
+      "col": 8,
       "direction": "across"
+    },
+    {
+      "clue": "The round underground part that tulips and onions grow from",
+      "answer": "BULB",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the five little digits on your foot",
+      "answer": "TOE",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
     }
   ],
   "dayNumber": 635

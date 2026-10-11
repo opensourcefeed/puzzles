@@ -4,39 +4,39 @@
   "title": "Level 1",
   "words": [
     {
-      "clue": "A cabinet for storing food and dishes",
-      "answer": "CUPBOARD",
-      "row": 5,
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A sweet frozen treat made from milk",
-      "answer": "ICECREAM",
+      "clue": "An appliance that heats food really fast",
+      "answer": "MICROWAVE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A waterproof coat for wet days",
+      "answer": "RAINCOAT",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
       "row": 4,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "A green fruit with a big pit inside",
-      "answer": "AVOCADO",
-      "row": 5,
-      "col": 5,
+      "clue": "The part of a device that shows pictures and words",
+      "answer": "SCREEN",
+      "row": 1,
+      "col": 7,
       "direction": "down"
-    },
-    {
-      "clue": "The coldest, snowiest season",
-      "answer": "WINTER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sad because you are all alone",
-      "answer": "LONELY",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
     }
   ],
   "wordCount": 5,

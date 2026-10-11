@@ -4,66 +4,73 @@
   "title": "2027-09-16",
   "words": [
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A spiky tropical fruit, sweet and yellow inside",
-      "answer": "PINEAPPLE",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "An event where you jump as far forward as you can",
-      "answer": "LONGJUMP",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Cloth hung over a window for privacy",
-      "answer": "CURTAIN",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The darkest color, like the night sky",
-      "answer": "BLACK",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A dull yellow-brown, like army uniforms",
-      "answer": "KHAKI",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A pretty flower with thorns on its stem",
-      "answer": "ROSE",
-      "row": 8,
-      "col": 6,
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Really wanting to find out more",
+      "answer": "CURIOUS",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who works on a ship out at sea",
+      "answer": "SAILOR",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who speaks for you in court",
+      "answer": "LAWYER",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of a song that repeats after each verse",
+      "answer": "CHORUS",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A wire that charges or connects your devices",
+      "answer": "CABLE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Moving air you can feel but not see",
+      "answer": "WIND",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of an elephant or a stormy sky",
+      "answer": "GRAY",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of polite",
+      "answer": "RUDE",
+      "row": 3,
+      "col": 5,
       "direction": "across"
     }
   ],

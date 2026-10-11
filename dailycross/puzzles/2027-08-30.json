@@ -4,59 +4,73 @@
   "title": "2027-08-30",
   "words": [
     {
-      "clue": "A flying vehicle with wings",
+      "clue": "A squeezebox instrument with buttons or keys",
+      "answer": "ACCORDION",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A flying vehicle with wings and jet engines",
       "answer": "AIRPLANE",
-      "row": 4,
+      "row": 0,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The Sun and its planets: the solar ___",
+      "answer": "SYSTEM",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A shape with a flat base and sides meeting at a point",
-      "answer": "PYRAMID",
+      "clue": "The coldest, snowiest season",
+      "answer": "WINTER",
       "row": 4,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 3,
+      "clue": "A person who plays roles in movies and plays",
+      "answer": "ACTOR",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A cup-shaped spring flower that is famous in Holland",
+      "answer": "TULIP",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A dish of raw leafy vegetables",
+      "answer": "SALAD",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A deep purple, like the flower",
-      "answer": "VIOLET",
-      "row": 9,
+      "clue": "Kicking or throwing the ball to a teammate",
+      "answer": "PASS",
+      "row": 1,
       "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, gentle wind",
-      "answer": "BREEZE",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of big",
-      "answer": "SMALL",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A round vegetable with layers that makes you cry",
-      "answer": "ONION",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A green, watery spot in the middle of a desert",
-      "answer": "OASIS",
-      "row": 2,
-      "col": 3,
       "direction": "across"
     }
   ],

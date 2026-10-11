@@ -4,112 +4,147 @@
   "title": "Level 123",
   "words": [
     {
-      "clue": "A scientist who studies animals",
-      "answer": "ZOOLOGIST",
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
       "row": 7,
-      "col": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
       "row": 6,
-      "col": 10,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "How much rain has fallen",
-      "answer": "RAINFALL",
+      "clue": "A tube with lenses that makes faraway stars look close",
+      "answer": "TELESCOPE",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A curvy metal instrument played with a reed, popular in jazz",
+      "answer": "SAXOPHONE",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
       "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The world's biggest sports event, held every four years",
+      "answer": "OLYMPICS",
+      "row": 12,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 10,
-      "col": 5,
+      "clue": "A black woodwind instrument with a reed and silver keys",
+      "answer": "CLARINET",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The place where airplanes take off and land",
-      "answer": "AIRPORT",
-      "row": 3,
-      "col": 5,
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Only caring about yourself",
+      "answer": "SELFISH",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark leafy green that made Popeye strong",
+      "answer": "SPINACH",
+      "row": 6,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
-      "row": 4,
+      "clue": "The sport of moving a boat with oars",
+      "answer": "ROWING",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The rainbow color between blue and violet",
+      "answer": "INDIGO",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
+      "row": 8,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A small boat for one, with a double-ended paddle",
+      "answer": "KAYAK",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Our galaxy is the ___ Way",
+      "answer": "MILKY",
+      "row": 7,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The joint between your hand and your arm",
+      "answer": "WRIST",
+      "row": 6,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A shape with a flat base and sides meeting at a point",
-      "answer": "PYRAMID",
-      "row": 13,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The planet famous for its beautiful rings",
-      "answer": "SATURN",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A big orange cat with black stripes",
-      "answer": "TIGER",
-      "row": 10,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A small flower with white petals and a yellow middle",
-      "answer": "DAISY",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The square area where a boxing match takes place",
-      "answer": "RING",
-      "row": 12,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of fast",
-      "answer": "SLOW",
-      "row": 9,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Wireless internet you connect to without any cables",
-      "answer": "WIFI",
+      "clue": "A hot tool that presses wrinkles out of clothes",
+      "answer": "IRON",
       "row": 0,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A fuzzy brown fruit that is bright green inside",
+      "answer": "KIWI",
+      "row": 2,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "A climbing plant that covers old walls",
+      "answer": "IVY",
+      "row": 3,
+      "col": 10,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 20,
   "targetWords": 21,
   "difficulty": "hard"
 }

@@ -4,67 +4,74 @@
   "title": "2027-04-04",
   "words": [
     {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport with pitchers, catchers and home runs",
+      "answer": "BASEBALL",
       "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Kind and easy to get along with",
+      "answer": "FRIENDLY",
+      "row": 4,
       "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 2,
-      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The part of your face above your eyes",
-      "answer": "FOREHEAD",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The force that keeps planets circling the Sun",
-      "answer": "GRAVITY",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 7,
+      "clue": "A tall cupboard for hanging up your clothes",
+      "answer": "WARDROBE",
+      "row": 3,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A city bird once used to carry messages",
-      "answer": "PIGEON",
-      "row": 0,
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The sport of racing on a bicycle",
+      "answer": "CYCLING",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A pale yellow-white, like the top of fresh milk",
+      "answer": "CREAM",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Vibrations that travel through the air to your ears",
+      "answer": "SOUND",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A big vehicle for carrying goods by road",
+      "answer": "TRUCK",
+      "row": 9,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
-      "row": 5,
-      "col": 11,
+      "clue": "A small, still body of water where ducks swim",
+      "answer": "POND",
+      "row": 0,
+      "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "The opposite of long",
-      "answer": "SHORT",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 296

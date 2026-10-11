@@ -4,66 +4,73 @@
   "title": "2027-03-29",
   "words": [
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic machine that runs programs",
-      "answer": "COMPUTER",
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The instrument family that includes the violin, cello, and guitar",
-      "answer": "STRINGS",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A black-and-white bird that waddles on the ice",
-      "answer": "PENGUIN",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A place on a computer for keeping files together",
-      "answer": "FOLDER",
-      "row": 11,
+      "clue": "A small hand drum with jingling metal discs",
+      "answer": "TAMBOURINE",
+      "row": 4,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
+      "row": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A striped animal that looks like a horse",
-      "answer": "ZEBRA",
+      "clue": "What a forecast on the news tells you about",
+      "answer": "WEATHER",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A Japanese martial art with kicks, chops and colored belts",
+      "answer": "KARATE",
       "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when leaves turn color and fall",
+      "answer": "AUTUMN",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A sport where you hit a ball over a net with a racket",
+      "answer": "TENNIS",
+      "row": 6,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The opposite of push",
-      "answer": "PULL",
-      "row": 5,
-      "col": 4,
+      "clue": "A tall tropical tree with big fan-like leaves, seen on beaches",
+      "answer": "PALM",
+      "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The joint in the middle of your leg",
+      "answer": "KNEE",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A hard, solid lump of stone",
+      "answer": "ROCK",
+      "row": 2,
+      "col": 10,
       "direction": "down"
     }
   ],

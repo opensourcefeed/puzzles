@@ -4,49 +4,63 @@
   "title": "Level 22",
   "words": [
     {
-      "clue": "A box you carry your lunch to school in",
-      "answer": "LUNCHBOX",
-      "row": 4,
+      "clue": "The sport with hoops, dribbling and slam dunks",
+      "answer": "BASKETBALL",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The planet that spins on its side",
-      "answer": "URANUS",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The blast-off when a rocket lifts into the sky",
-      "answer": "LAUNCH",
+      "clue": "A sweet brown treat made from cocoa beans",
+      "answer": "CHOCOLATE",
       "row": 0,
-      "col": 3,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A small round fruit that grows in bunches",
-      "answer": "GRAPE",
-      "row": 1,
-      "col": 1,
+      "clue": "A part of a whole, like one-half",
+      "answer": "FRACTION",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The planet famous for its beautiful rings",
+      "answer": "SATURN",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The two organs that help you breathe",
-      "answer": "LUNGS",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The place where a river flows into the sea",
-      "answer": "MOUTH",
+      "clue": "A narrow boat you move with a paddle",
+      "answer": "CANOE",
       "row": 3,
-      "col": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall, steep rock face",
+      "answer": "CLIFF",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A sandy shore where you build sandcastles",
+      "answer": "BEACH",
+      "row": 7,
+      "col": 0,
       "direction": "down"
     }
   ],
-  "wordCount": 6,
+  "wordCount": 8,
   "targetWords": 8,
   "difficulty": "easy"
 }

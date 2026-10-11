@@ -4,80 +4,81 @@
   "title": "Level 44",
   "words": [
     {
-      "clue": "A sport where you throw a ball through a high hoop",
-      "answer": "BASKETBALL",
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
       "row": 7,
-      "col": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 2,
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who draws the plans for buildings",
+      "answer": "ARCHITECT",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
+      "row": 10,
       "col": 4,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "An electronic instrument with piano-like keys",
-      "answer": "KEYBOARD",
+      "clue": "A pink bird that often stands on one leg",
+      "answer": "FLAMINGO",
       "row": 5,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 10,
-      "col": 6,
+      "clue": "The person who takes your money at the checkout",
+      "answer": "CASHIER",
+      "row": 6,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A warm cover you sleep under",
+      "answer": "BLANKET",
+      "row": 13,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "Being kind and nice to other people",
-      "answer": "FRIENDLY",
-      "row": 7,
+      "clue": "A tall, hollow grass that pandas love to eat",
+      "answer": "BAMBOO",
+      "row": 0,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A person who brings mail to your house",
-      "answer": "MAILMAN",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling worried and uneasy inside",
-      "answer": "ANXIOUS",
-      "row": 10,
+      "clue": "A person who grows crops and raises animals",
+      "answer": "FARMER",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The color of a carrot; red mixed with yellow",
-      "answer": "ORANGE",
-      "row": 7,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The short, thick finger that helps you grip",
-      "answer": "THUMB",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The planet we live on",
-      "answer": "EARTH",
-      "row": 3,
-      "col": 4,
+      "clue": "The season when leaves turn color and fall",
+      "answer": "AUTUMN",
+      "row": 2,
+      "col": 8,
       "direction": "across"
     }
   ],

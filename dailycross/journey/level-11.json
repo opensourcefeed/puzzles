@@ -4,46 +4,46 @@
   "title": "Level 11",
   "words": [
     {
-      "clue": "A sport where you hit a ball over a net with your hands",
-      "answer": "VOLLEYBALL",
+      "clue": "The worldwide network that connects computers",
+      "answer": "INTERNET",
       "row": 4,
-      "col": 1,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The matching clothes a team wears",
-      "answer": "UNIFORM",
-      "row": 0,
+      "clue": "It turns slices of bread brown and crunchy",
+      "answer": "TOASTER",
+      "row": 4,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A dark brownish-red",
-      "answer": "MAROON",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who cuts hair, mostly for men",
-      "answer": "BARBER",
+      "clue": "A perfectly round solid, like a ball",
+      "answer": "SPHERE",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A person who helps sick people get better",
-      "answer": "DOCTOR",
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
       "row": 6,
-      "col": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The sweet liquid squeezed out of fruit",
-      "answer": "JUICE",
+      "clue": "A hard hat that protects your head while riding",
+      "answer": "HELMET",
       "row": 2,
-      "col": 0,
+      "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "Good weather for flying a kite",
+      "answer": "WINDY",
+      "row": 6,
+      "col": 6,
+      "direction": "down"
     }
   ],
   "wordCount": 6,

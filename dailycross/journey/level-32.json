@@ -4,66 +4,66 @@
   "title": "Level 32",
   "words": [
     {
-      "clue": "A person who runs a shop and sells things",
-      "answer": "SHOPKEEPER",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A flying vehicle with spinning blades on top",
-      "answer": "HELICOPTER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that plays sound out loud",
-      "answer": "SPEAKER",
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
       "row": 6,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A squeezebox instrument with buttons or keys",
+      "answer": "ACCORDION",
+      "row": 5,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
-      "row": 2,
+      "clue": "A person who travels into space",
+      "answer": "ASTRONAUT",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A space rock that circles the Sun; many lie between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 12,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten hundreds",
+      "answer": "THOUSAND",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "An arc of seven colors after a shower",
+      "answer": "RAINBOW",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A room full of books you can borrow",
+      "answer": "LIBRARY",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 0,
-      "col": 9,
+      "clue": "A bright green gemstone",
+      "answer": "EMERALD",
+      "row": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The five lines that music is written on",
-      "answer": "STAFF",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A round fruit with red or green skin, crunchy inside",
-      "answer": "APPLE",
-      "row": 1,
-      "col": 6,
+      "clue": "A large stream of water flowing across the land to the sea",
+      "answer": "RIVER",
+      "row": 0,
+      "col": 5,
       "direction": "down"
     }
   ],

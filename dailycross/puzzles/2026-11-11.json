@@ -4,66 +4,74 @@
   "title": "2026-11-11",
   "words": [
     {
-      "clue": "A small pouch that holds your pens and pencils",
-      "answer": "PENCILCASE",
-      "row": 3,
+      "clue": "Annoyed because something keeps going wrong",
+      "answer": "FRUSTRATED",
+      "row": 4,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 2,
+      "clue": "The matching clothes a team wears",
+      "answer": "UNIFORM",
+      "row": 4,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat touchscreen device, bigger than a phone; also a pill",
+      "answer": "TABLET",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A shiny cup you win as a prize",
-      "answer": "TROPHY",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A device you use to call people far away",
-      "answer": "PHONE",
-      "row": 7,
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 10,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A piece of data saved under one name",
-      "answer": "FILE",
+      "clue": "A small, crunchy red root with a peppery taste",
+      "answer": "RADISH",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The part that makes a car go",
+      "answer": "ENGINE",
+      "row": 10,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The darkest color, like the night sky",
+      "answer": "BLACK",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft orange-pink, like the fuzzy fruit",
+      "answer": "PEACH",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The × sign, used for multiplying",
+      "answer": "TIMES",
       "row": 0,
-      "col": 10,
+      "col": 4,
       "direction": "down"
     }
   ],

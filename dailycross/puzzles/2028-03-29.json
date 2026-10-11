@@ -4,74 +4,67 @@
   "title": "2028-03-29",
   "words": [
     {
-      "clue": "A long, wiggly animal that lives in the soil",
-      "answer": "EARTHWORM",
-      "row": 5,
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
-      "row": 4,
-      "col": 0,
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A coat you wear to stay dry in the rain",
-      "answer": "RAINCOAT",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of your face above your eyes",
-      "answer": "FOREHEAD",
-      "row": 4,
+      "clue": "A black-and-white bird that waddles on the ice and can't fly",
+      "answer": "PENGUIN",
+      "row": 1,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "You stand on it and push along with one foot",
-      "answer": "SCOOTER",
-      "row": 9,
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 1,
       "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A machine that makes copies of pages",
-      "answer": "COPIER",
-      "row": 0,
-      "col": 2,
       "direction": "down"
     },
     {
       "clue": "A city bird once used to carry messages",
       "answer": "PIGEON",
-      "row": 2,
-      "col": 2,
+      "row": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The tiny thing a new plant grows from",
-      "answer": "SEED",
-      "row": 0,
-      "col": 5,
+      "clue": "An object that pulls iron and steel toward it",
+      "answer": "MAGNET",
+      "row": 3,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A stretched-out circle, shaped like an egg",
-      "answer": "OVAL",
-      "row": 9,
-      "col": 4,
+      "clue": "The opposite of a question",
+      "answer": "ANSWER",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A wheeled robot that drives around on Mars",
+      "answer": "ROVER",
+      "row": 1,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "The opposite of strong",
+      "answer": "WEAK",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 656

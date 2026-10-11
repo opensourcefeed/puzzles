@@ -4,67 +4,74 @@
   "title": "2027-06-08",
   "words": [
     {
-      "clue": "Wireless tech that connects nearby devices",
-      "answer": "BLUETOOTH",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
       "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A light, bright blue like the daytime sky",
-      "answer": "SKYBLUE",
-      "row": 4,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A slow animal that leaves a slimy trail",
-      "answer": "SNAIL",
-      "row": 4,
-      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The huge empty area beyond Earth's sky",
-      "answer": "SPACE",
-      "row": 11,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 5,
-      "col": 2,
+      "clue": "A person who gathers and tells the news",
+      "answer": "REPORTER",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Weather that feels damp and sticky",
-      "answer": "HUMID",
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
       "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A yellow citrus fruit with a very sour taste",
-      "answer": "LEMON",
+      "clue": "A bird that fans out a huge tail covered in eye patterns",
+      "answer": "PEACOCK",
       "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Land with water all around it",
+      "answer": "ISLAND",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A board game with kings, queens and knights",
+      "answer": "CHESS",
+      "row": 5,
       "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "It circles Earth and seems to change shape each night",
+      "answer": "MOON",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A ball game played on horseback with long mallets",
+      "answer": "POLO",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A fuzzy brown fruit that is bright green inside",
+      "answer": "KIWI",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 361

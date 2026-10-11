@@ -4,73 +4,59 @@
   "title": "2027-12-13",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A purple flower known for its calming smell",
-      "answer": "LAVENDER",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The fuel that most cars run on",
-      "answer": "GASOLINE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
+      "clue": "A bird that fans out a huge tail covered in eye patterns",
+      "answer": "PEACOCK",
       "row": 1,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 7,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A light, gentle wind",
-      "answer": "BREEZE",
-      "row": 4,
-      "col": 7,
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 0,
+      "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "The distance from a circle's middle to its edge",
+      "answer": "RADIUS",
+      "row": 3,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A wet mix of rain and snow",
+      "answer": "SLEET",
+      "row": 3,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "One colorful piece of a flower",
+      "answer": "PETAL",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cares for patients in a hospital",
+      "answer": "NURSE",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
     },
     {
       "clue": "One tiny dot in a picture on the screen",
       "answer": "PIXEL",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The tiny points of light in the night sky",
-      "answer": "STARS",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Wireless internet you connect to without any cables",
-      "answer": "WIFI",
       "row": 5,
-      "col": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Moving something on screen by holding and pulling it",
-      "answer": "DRAG",
-      "row": 9,
-      "col": 0,
+      "clue": "A short piece of music with words you sing",
+      "answer": "SONG",
+      "row": 3,
+      "col": 11,
       "direction": "across"
     }
   ],

@@ -4,74 +4,74 @@
   "title": "2027-08-16",
   "words": [
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
-      "row": 5,
-      "col": 0,
+      "clue": "The screen you watch cartoons and movies on",
+      "answer": "TELEVISION",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 1,
-      "col": 6,
+      "clue": "A four-sided shape with just one pair of parallel sides",
+      "answer": "TRAPEZOID",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
       "clue": "A tool with two blades for cutting paper",
       "answer": "SCISSORS",
-      "row": 7,
-      "col": 3,
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Soft shoes made for running and sports",
+      "answer": "SNEAKERS",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A cloud of gas and dust where new stars are born",
-      "answer": "NEBULA",
+      "clue": "The fastest runner on land, covered in spots",
+      "answer": "CHEETAH",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The season when leaves turn color and fall",
-      "answer": "AUTUMN",
-      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 7,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A dull yellow-green, like the fruit",
-      "answer": "OLIVE",
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
       "row": 3,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A device you use to call people far away",
-      "answer": "PHONE",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "White flakes that fall in cold weather",
-      "answer": "SNOW",
-      "row": 7,
-      "col": 10,
+      "col": 2,
       "direction": "down"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Soft, wet land that is often flooded",
+      "answer": "MARSH",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "To say numbers in order: one, two, three...",
+      "answer": "COUNT",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You hear with this",
+      "answer": "EAR",
+      "row": 7,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 430

@@ -4,74 +4,75 @@
   "title": "2027-06-25",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
-      "row": 6,
-      "col": 1,
+      "clue": "Where you go on the swings and slide at break time",
+      "answer": "PLAYGROUND",
+      "row": 2,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 3,
+      "clue": "A plank on four little wheels for tricks at the park",
+      "answer": "SKATEBOARD",
+      "row": 0,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
-      "row": 3,
-      "col": 5,
+      "clue": "You press it down to make two neat circles in pages for a binder",
+      "answer": "HOLEPUNCH",
+      "enumeration": "4,5",
+      "row": 1,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You stand on it and push along with one foot",
-      "answer": "SCOOTER",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who catches fish for a living",
-      "answer": "FISHER",
-      "row": 11,
+      "clue": "It shows pictures big on a screen or wall",
+      "answer": "PROJECTOR",
+      "row": 8,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A woven container for carrying things",
-      "answer": "BASKET",
-      "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A game between two players or two teams",
-      "answer": "MATCH",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that lets your leg bend",
-      "answer": "KNEE",
+      "clue": "A strong farm vehicle that pulls heavy loads",
+      "answer": "TRACTOR",
       "row": 3,
-      "col": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
+      "row": 0,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "A crunchy red or green fruit; one a day keeps the doctor away",
+      "answer": "APPLE",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall machine with an arm that lifts heavy things",
+      "answer": "CRANE",
+      "row": 4,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A flat surface of a solid shape",
+      "answer": "FACE",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You smell with this",
+      "answer": "NOSE",
+      "row": 4,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 378

@@ -4,67 +4,67 @@
   "title": "2026-12-03",
   "words": [
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 3,
-      "col": 0,
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 3,
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A bright green gemstone",
+      "answer": "EMERALD",
+      "row": 4,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Connected to the internet",
+      "answer": "ONLINE",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The front of your neck, where your voice comes from",
+      "answer": "THROAT",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 2,
+      "clue": "A food made from milk that cartoon mice love",
+      "answer": "CHEESE",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A line that bends smoothly, like a smile",
+      "answer": "CURVE",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The gas in the air that we need to breathe",
-      "answer": "OXYGEN",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An icy space object with a long, glowing tail",
-      "answer": "COMET",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A round vegetable with layers that makes you cry",
-      "answer": "ONION",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A stretched-out circle, shaped like an egg",
-      "answer": "OVAL",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The table where a student sits and works",
-      "answer": "DESK",
+      "clue": "The land right along the edge of the sea",
+      "answer": "COAST",
       "row": 5,
-      "col": 6,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "How a summer day at the beach feels",
+      "answer": "HOT",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 174

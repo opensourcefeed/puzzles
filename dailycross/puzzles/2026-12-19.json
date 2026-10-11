@@ -4,59 +4,73 @@
   "title": "2026-12-19",
   "words": [
     {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 4,
+      "clue": "The big wipe-clean surface teachers write on with markers",
+      "answer": "WHITEBOARD",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The color you get by mixing red and blue",
-      "answer": "PURPLE",
-      "row": 2,
+      "clue": "The person who stamps your books and helps you find the next one",
+      "answer": "LIBRARIAN",
+      "row": 1,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 6,
-      "col": 4,
+      "clue": "Soft shoes made for running and sports",
+      "answer": "SNEAKERS",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
+      "row": 9,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
+      "clue": "Only caring about yourself",
+      "answer": "SELFISH",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who is really good at sports",
+      "answer": "ATHLETE",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The repeating pattern of beats in music",
+      "answer": "RHYTHM",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Furniture with a flat top, for eating or working",
+      "answer": "TABLE",
       "row": 1,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
-      "row": 1,
-      "col": 1,
+      "clue": "It travels faster than anything else and lets us see",
+      "answer": "LIGHT",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Pleasant sounds put together for us to enjoy",
-      "answer": "MUSIC",
-      "row": 8,
-      "col": 5,
+      "clue": "You hear with this",
+      "answer": "EAR",
+      "row": 6,
+      "col": 3,
       "direction": "across"
     }
   ],

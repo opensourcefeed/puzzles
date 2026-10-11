@@ -4,67 +4,74 @@
   "title": "2026-12-18",
   "words": [
     {
-      "clue": "The panel of keys you type on",
-      "answer": "KEYBOARD",
-      "row": 5,
+      "clue": "A huge, thick-skinned animal with a horn on its nose",
+      "answer": "RHINOCEROS",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 4,
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
+      "row": 2,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A tall cupboard for hanging up your clothes",
-      "answer": "WARDROBE",
-      "row": 0,
+      "clue": "The winner of a competition",
+      "answer": "CHAMPION",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A strong farm vehicle that pulls heavy loads",
+      "answer": "TRACTOR",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A green fruit with a big pit, mashed into guacamole",
+      "answer": "AVOCADO",
+      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
+      "clue": "The bag-like organ that breaks down the food you eat",
+      "answer": "STOMACH",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The words of a song",
+      "answer": "LYRICS",
       "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 4,
-      "col": 1,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A person who makes music with their voice",
-      "answer": "SINGER",
-      "row": 7,
-      "col": 0,
+      "clue": "Good weather for flying a kite",
+      "answer": "WINDY",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A person who leads tourists around",
-      "answer": "GUIDE",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "You use these to hear",
-      "answer": "EARS",
+      "clue": "Drops of water that fall from the clouds",
+      "answer": "RAIN",
       "row": 1,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A big body of water with land all around it",
-      "answer": "LAKE",
-      "row": 10,
-      "col": 5,
-      "direction": "across"
+      "clue": "The soft edges of your mouth that you pucker for a kiss",
+      "answer": "LIPS",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
   "dayNumber": 189

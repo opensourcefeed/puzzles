@@ -4,73 +4,59 @@
   "title": "2027-02-06",
   "words": [
     {
-      "clue": "A person watching a game from the stands",
-      "answer": "SPECTATOR",
-      "row": 5,
-      "col": 0,
+      "clue": "The bag-like organ that breaks down the food you eat",
+      "answer": "STOMACH",
+      "row": 3,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A little bit of water in the air",
-      "answer": "MOISTURE",
-      "row": 4,
+      "clue": "The place where a river begins",
+      "answer": "SOURCE",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 3,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A big ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
+      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling confused by something tricky",
-      "answer": "PUZZLED",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A round red fruit used in sauces and salads",
-      "answer": "TOMATO",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
+      "clue": "A straight strip for measuring and drawing lines",
+      "answer": "RULER",
       "row": 8,
-      "col": 4,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
-      "row": 3,
-      "col": 2,
+      "clue": "One of the straight edges of a shape",
+      "answer": "SIDE",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A shape with a round base and a pointy top",
-      "answer": "CONE",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The + sign, used for adding",
-      "answer": "PLUS",
-      "row": 2,
+      "clue": "The tiny building block that everything is made of",
+      "answer": "ATOM",
+      "row": 5,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A colorful underwater ridge built by tiny sea animals",
+      "answer": "REEF",
+      "row": 0,
+      "col": 10,
       "direction": "down"
     }
   ],

@@ -4,66 +4,73 @@
   "title": "2026-10-12",
   "words": [
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
+      "clue": "A test a scientist does to find something out",
+      "answer": "EXPERIMENT",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "It clips sheets of paper together with little metal pins",
+      "answer": "STAPLER",
       "row": 4,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "You plug your phone into this when its battery is low",
+      "answer": "CHARGER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten times ten",
+      "answer": "HUNDRED",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The small nut of an oak tree that squirrels collect",
+      "answer": "ACORN",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 4,
+      "clue": "A sharp point on the stem of a rose or a bramble",
+      "answer": "THORN",
+      "row": 8,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A big place with rows of seats for watching sports",
-      "answer": "STADIUM",
-      "row": 6,
-      "col": 4,
+      "clue": "A pale sandy color, like milky coffee",
+      "answer": "BEIGE",
+      "row": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The Sun and its planets: the solar ___",
-      "answer": "SYSTEM",
+      "clue": "A wet mix of rain and snow",
+      "answer": "SLEET",
       "row": 6,
-      "col": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A cloud of gas and dust where new stars are born",
-      "answer": "NEBULA",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A place on a computer for keeping files together",
-      "answer": "FOLDER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who flies an airplane",
-      "answer": "PILOT",
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
       "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A boat that carries people and cars across water",
-      "answer": "FERRY",
-      "row": 0,
-      "col": 4,
+      "col": 6,
       "direction": "across"
     }
   ],

@@ -4,66 +4,59 @@
   "title": "2028-01-22",
   "words": [
     {
-      "clue": "It hops around and carries its baby in a pouch",
-      "answer": "KANGAROO",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The fastest runner on land, covered in spots",
-      "answer": "CHEETAH",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
-      "row": 4,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
       "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Showing that you care about others",
-      "answer": "CARING",
-      "row": 0,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 1,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The number of points in a game",
-      "answer": "SCORE",
-      "row": 3,
+      "clue": "A machine that puts your work onto paper",
+      "answer": "PRINTER",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The referee blows this to stop play",
+      "answer": "WHISTLE",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "___ panels turn sunshine into electricity",
+      "answer": "SOLAR",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "One tiny dot in a picture on the screen",
+      "answer": "PIXEL",
+      "row": 0,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A thin, light fog close to the ground",
-      "answer": "MIST",
-      "row": 7,
+      "clue": "A cup-shaped spring flower that is famous in Holland",
+      "answer": "TULIP",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Three or more notes played at the same time",
+      "answer": "CHORD",
+      "row": 8,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A very dark blue",
-      "answer": "NAVY",
-      "row": 0,
-      "col": 9,
+      "clue": "The table where a student sits and works",
+      "answer": "DESK",
+      "row": 4,
+      "col": 0,
       "direction": "down"
     }
   ],

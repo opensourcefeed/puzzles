@@ -4,74 +4,74 @@
   "title": "2028-05-23",
   "words": [
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
+      "clue": "A ship that can travel deep underwater",
+      "answer": "SUBMARINE",
       "row": 6,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
-      "row": 0,
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
+      "row": 4,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who is really good at sports",
+      "answer": "ATHLETE",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "One of the two holes in your nose",
+      "answer": "NOSTRIL",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A spiky desert plant that stores water",
+      "answer": "CACTUS",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of never",
+      "answer": "ALWAYS",
+      "row": 8,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You sweep dirt into it using a broom",
-      "answer": "DUSTPAN",
-      "row": 3,
-      "col": 6,
+      "clue": "A pass you buy before you ride a train or bus",
+      "answer": "TICKET",
+      "row": 4,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A person who creates paintings and drawings",
-      "answer": "ARTIST",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A soft, pale yellow",
-      "answer": "BUTTER",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The colorful, sweet-smelling part of a plant",
-      "answer": "FLOWER",
-      "row": 4,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 8,
+      "clue": "A building where cars are parked or repaired",
+      "answer": "GARAGE",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The smallest finger on your hand",
-      "answer": "PINKY",
-      "row": 7,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A small juicy fruit often used in jam",
-      "answer": "BERRY",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A tall machine with an arm that lifts heavy things",
-      "answer": "CRANE",
+      "clue": "A desert animal with humps on its back",
+      "answer": "CAMEL",
       "row": 0,
-      "col": 9,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "The paved path that cars drive along",
+      "answer": "ROAD",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 711

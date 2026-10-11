@@ -4,67 +4,75 @@
   "title": "2027-01-05",
   "words": [
     {
-      "clue": "A two-wheeled vehicle with an engine",
-      "answer": "MOTORCYCLE",
-      "row": 3,
-      "col": 2,
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
+      "clue": "A test a scientist does to find something out",
+      "answer": "EXPERIMENT",
       "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A bag you wear on your back to carry books",
-      "answer": "BACKPACK",
-      "row": 0,
-      "col": 4,
+      "clue": "Wooden bars you hit with mallets to play notes",
+      "answer": "XYLOPHONE",
+      "row": 2,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 9,
+      "clue": "The sport of racing through the water in a pool",
+      "answer": "SWIMMING",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape with five straight sides",
+      "answer": "PENTAGON",
+      "row": 7,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A big storm of winds spinning around a center",
-      "answer": "CYCLONE",
-      "row": 3,
-      "col": 9,
+      "clue": "Feeling confused by something tricky",
+      "answer": "PUZZLED",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A person who puts up buildings",
-      "answer": "BUILDER",
-      "row": 7,
+      "clue": "Someone who delivers parcels to your door",
+      "answer": "COURIER",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
-      "row": 0,
-      "col": 3,
+      "clue": "A sheltered spot on the coast where boats stay",
+      "answer": "HARBOR",
+      "row": 6,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A soft orange-pink, like the fruit",
-      "answer": "PEACH",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
+      "clue": "A dwarf planet once called the ninth planet",
+      "answer": "PLUTO",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A raised piece of land, smaller than a mountain",
+      "answer": "HILL",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 207

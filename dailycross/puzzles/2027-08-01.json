@@ -4,67 +4,67 @@
   "title": "2027-08-01",
   "words": [
     {
-      "clue": "A person who runs a shop and sells things",
-      "answer": "SHOPKEEPER",
-      "row": 3,
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
+      "clue": "The sport with pitchers, catchers and home runs",
+      "answer": "BASEBALL",
       "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 1,
       "col": 4,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "A leafy green used to make salad",
-      "answer": "LETTUCE",
-      "row": 2,
-      "col": 8,
+      "clue": "A tall pipe that carries smoke out through the roof",
+      "answer": "CHIMNEY",
+      "row": 0,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "A thousand thousands",
+      "answer": "MILLION",
+      "row": 8,
+      "col": 2,
+      "direction": "across"
     },
     {
       "clue": "The blast-off when a rocket lifts into the sky",
       "answer": "LAUNCH",
-      "row": 6,
-      "col": 6,
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
-      "row": 3,
-      "col": 10,
+      "clue": "A group of people who sing together",
+      "answer": "CHOIR",
+      "row": 0,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You dry yourself with this after washing",
-      "answer": "TOWEL",
-      "row": 6,
-      "col": 0,
+      "clue": "The middle color of a traffic light; also hardened tree resin",
+      "answer": "AMBER",
+      "row": 2,
+      "col": 2,
       "direction": "across"
+    },
+    {
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A group who play together against another group",
+      "answer": "TEAM",
+      "row": 5,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 415

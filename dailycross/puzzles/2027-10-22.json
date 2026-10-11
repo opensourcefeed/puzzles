@@ -4,67 +4,75 @@
   "title": "2027-10-22",
   "words": [
     {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A long green vegetable, cool and crunchy",
-      "answer": "CUCUMBER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The skin that covers your eye when you blink",
-      "answer": "EYELID",
-      "row": 4,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The soft side of your face below your eye",
-      "answer": "CHEEK",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "Pressing and releasing a mouse button",
-      "answer": "CLICK",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Drops of water that fall from the clouds",
-      "answer": "RAIN",
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
       "row": 1,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Ten hundreds",
+      "answer": "THOUSAND",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel watching a spooky movie",
+      "answer": "SCARED",
+      "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small flower with white petals and a yellow middle",
+      "answer": "DAISY",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You chew your food with these",
+      "answer": "TEETH",
+      "row": 4,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The opposite of buy",
-      "answer": "SELL",
+      "clue": "A dwarf planet once called the ninth planet",
+      "answer": "PLUTO",
       "row": 4,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A soft green carpet-like plant that grows on rocks",
+      "answer": "MOSS",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A small container with a handle for drinking tea",
+      "answer": "CUP",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
     }
   ],
   "dayNumber": 497

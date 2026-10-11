@@ -4,67 +4,74 @@
   "title": "2028-05-13",
   "words": [
     {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The little hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that plays sound out loud",
-      "answer": "SPEAKER",
-      "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
       "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep, dark green like trees in the woods",
-      "answer": "FOREST",
-      "row": 10,
-      "col": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "How loud or soft the music is",
-      "answer": "VOLUME",
-      "row": 0,
-      "col": 7,
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A crunchy green vegetable with long stalks",
-      "answer": "CELERY",
+      "clue": "A dark leafy green that made Popeye strong",
+      "answer": "SPINACH",
       "row": 2,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat touchscreen device, bigger than a phone; also a pill",
+      "answer": "TABLET",
+      "row": 7,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The part of your face below your mouth",
-      "answer": "CHIN",
-      "row": 10,
+      "clue": "A team game where you kick a ball into a goal",
+      "answer": "SOCCER",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who makes music with their voice",
+      "answer": "SINGER",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Very cross; how you feel when something is unfair",
+      "answer": "ANGRY",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A wheeled robot that drives around on Mars",
+      "answer": "ROVER",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The part of a plant that grows underground",
-      "answer": "ROOT",
-      "row": 2,
-      "col": 9,
+      "clue": "Unhappy and bothered when things go wrong",
+      "answer": "UPSET",
+      "row": 4,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 701

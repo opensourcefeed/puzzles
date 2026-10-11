@@ -4,74 +4,74 @@
   "title": "2027-08-03",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 5,
-      "col": 0,
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
+      "row": 3,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person watching a game from the stands",
-      "answer": "SPECTATOR",
-      "row": 1,
-      "col": 2,
+      "clue": "How you feel the night before your birthday party",
+      "answer": "EXCITED",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A very long-distance running race",
-      "answer": "MARATHON",
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "When the Moon passes in front of the Sun and blocks its light",
+      "answer": "ECLIPSE",
       "row": 5,
       "col": 7,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A person who plays music or sings",
-      "answer": "MUSICIAN",
+      "clue": "A round dent on the Moon made by a crashing space rock",
+      "answer": "CRATER",
       "row": 1,
-      "col": 0,
-      "direction": "across"
+      "col": 3,
+      "direction": "down"
     },
     {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
+      "clue": "The five lines that music is written on",
+      "answer": "STAFF",
       "row": 7,
-      "col": 5,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The color you get by mixing red and blue",
-      "answer": "PURPLE",
-      "row": 9,
-      "col": 0,
+      "clue": "Unhappy and bothered when things go wrong",
+      "answer": "UPSET",
+      "row": 3,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of true",
+      "answer": "FALSE",
+      "row": 0,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
+      "clue": "Rough weather with strong wind and heavy rain",
+      "answer": "STORM",
       "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
-      "row": 0,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A big orange cat with black stripes",
-      "answer": "TIGER",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The bright object that circles Earth at night",
-      "answer": "MOON",
-      "row": 11,
-      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "The opposite of loud",
+      "answer": "QUIET",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
     }
   ],
   "dayNumber": 417

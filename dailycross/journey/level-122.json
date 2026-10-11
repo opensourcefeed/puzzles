@@ -4,98 +4,126 @@
   "title": "Level 122",
   "words": [
     {
-      "clue": "You use it to clean your teeth",
-      "answer": "TOOTHBRUSH",
-      "row": 4,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A purple flower known for its calming smell",
-      "answer": "LAVENDER",
+      "clue": "The blanket of air around the Earth",
+      "answer": "ATMOSPHERE",
       "row": 7,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A big storm of winds spinning around a center",
-      "answer": "CYCLONE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A page you visit online in a browser",
-      "answer": "WEBSITE",
-      "row": 9,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A place where trains stop to pick up passengers",
-      "answer": "STATION",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 3,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "It browns your slices of bread",
-      "answer": "TOASTER",
-      "row": 11,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The smallest planet, closest to the Sun",
-      "answer": "MERCURY",
-      "row": 2,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The top part of your body that holds your brain",
-      "answer": "HEAD",
-      "row": 5,
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The opposite of early",
-      "answer": "LATE",
+      "clue": "A scientist who studies animals",
+      "answer": "ZOOLOGIST",
       "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of kind",
-      "answer": "MEAN",
-      "row": 8,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "You use these to hear",
-      "answer": "EARS",
-      "row": 0,
-      "col": 6,
+      "clue": "A prediction of tomorrow's weather",
+      "answer": "FORECAST",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall cupboard for hanging up your clothes",
+      "answer": "WARDROBE",
+      "row": 5,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A long spear that athletes throw as far as they can",
+      "answer": "JAVELIN",
+      "row": 8,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "The bag-like organ that breaks down the food you eat",
+      "answer": "STOMACH",
+      "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The flowers on a fruit tree in spring",
+      "answer": "BLOSSOM",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
+      "row": 0,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A long stretch of time with no rain",
+      "answer": "DROUGHT",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A tiny dried seed often cooked into soup or dal",
+      "answer": "LENTIL",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark brownish-red",
+      "answer": "MAROON",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of back",
+      "answer": "FRONT",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The red liquid that your heart pumps around",
+      "answer": "BLOOD",
+      "row": 10,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft white food made from soybeans",
+      "answer": "TOFU",
+      "row": 9,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "The curved bones that cage your heart and lungs",
+      "answer": "RIBS",
+      "row": 12,
+      "col": 3,
+      "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 17,
   "targetWords": 21,
   "difficulty": "hard"
 }

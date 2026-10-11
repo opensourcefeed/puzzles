@@ -4,67 +4,74 @@
   "title": "2028-05-07",
   "words": [
     {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "It turns paper pages into computer files",
-      "answer": "SCANNER",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling worried about what might happen",
-      "answer": "NERVOUS",
+      "clue": "A device that does sums for you",
+      "answer": "CALCULATOR",
       "row": 5,
       "col": 1,
-      "direction": "down"
+      "direction": "across"
     },
     {
-      "clue": "A slow animal that carries its shell around",
-      "answer": "TURTLE",
-      "row": 0,
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
+      "row": 4,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A book full of maps",
-      "answer": "ATLAS",
-      "row": 0,
-      "col": 1,
+      "clue": "The natural home of an animal or plant",
+      "answer": "HABITAT",
+      "row": 4,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "You pick up food with this pronged tool",
-      "answer": "FORK",
-      "row": 5,
+      "clue": "In a bad mood, cross and complaining",
+      "answer": "GRUMPY",
+      "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A single musical sound",
-      "answer": "NOTE",
+      "clue": "Good weather for flying a kite",
+      "answer": "WINDY",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A big orange cat with black stripes",
+      "answer": "TIGER",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The part at the end of your leg that you stand on",
+      "answer": "FOOT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A group that plays instruments together",
+      "answer": "BAND",
       "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The part of your face below your mouth",
+      "answer": "CHIN",
+      "row": 7,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "The roped square where a boxing match takes place",
+      "answer": "RING",
+      "row": 5,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 695

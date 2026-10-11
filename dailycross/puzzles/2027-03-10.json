@@ -4,52 +4,66 @@
   "title": "2027-03-10",
   "words": [
     {
-      "clue": "It browns your slices of bread",
-      "answer": "TOASTER",
-      "row": 4,
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 3,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "Glad that a worry is finally over",
+      "answer": "RELIEVED",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Any flat shape made only of straight sides",
+      "answer": "POLYGON",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "Riding ocean waves on a board",
+      "answer": "SURFING",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "You look into it to see yourself",
+      "answer": "MIRROR",
+      "row": 6,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
+      "row": 9,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A slow animal that carries its shell around",
-      "answer": "TURTLE",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A thick, creamy food made from milk",
-      "answer": "YOGURT",
+      "clue": "A vegetable with layers that makes you cry when you cut it",
+      "answer": "ONION",
       "row": 3,
-      "col": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of a plant that holds the seeds",
-      "answer": "FRUIT",
+      "clue": "You hit it with sticks to keep the beat",
+      "answer": "DRUM",
       "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A tool for measuring and drawing straight lines",
-      "answer": "RULER",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Wireless internet you connect to without any cables",
-      "answer": "WIFI",
-      "row": 0,
-      "col": 2,
+      "clue": "A very dark blue, like a sailor's uniform",
+      "answer": "NAVY",
+      "row": 8,
+      "col": 7,
       "direction": "across"
     }
   ],

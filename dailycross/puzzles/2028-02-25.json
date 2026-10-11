@@ -4,52 +4,66 @@
   "title": "2028-02-25",
   "words": [
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
-      "row": 2,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling sure that you can do it",
-      "answer": "CONFIDENT",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you hit a ball with a bat and run bases",
-      "answer": "BASEBALL",
-      "row": 1,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
+      "clue": "A repeating order, like red, blue, red, blue",
+      "answer": "PATTERN",
       "row": 5,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A closed train car that carries goods",
-      "answer": "BOXCAR",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The skin that covers your eye when you blink",
-      "answer": "EYELID",
+      "clue": "The colorful, sweet-smelling part of a plant",
+      "answer": "FLOWER",
       "row": 1,
-      "col": 9,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where two people fight with padded gloves",
+      "answer": "BOXING",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of tall",
+      "answer": "SHORT",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A dull yellow-brown, like army uniforms",
+      "answer": "KHAKI",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The row of bones running down your back",
+      "answer": "SPINE",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of below",
+      "answer": "ABOVE",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A group who play together against another group",
+      "answer": "TEAM",
+      "row": 5,
+      "col": 6,
       "direction": "down"
     }
   ],

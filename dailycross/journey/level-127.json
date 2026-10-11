@@ -4,119 +4,147 @@
   "title": "Level 127",
   "words": [
     {
-      "clue": "A scientist who studies stars and planets",
-      "answer": "ASTRONOMER",
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 6,
+      "clue": "A ship that can travel deep underwater",
+      "answer": "SUBMARINE",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A big reptile with powerful jaws that lurks in rivers",
+      "answer": "CROCODILE",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
+      "row": 7,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "An object that circles a planet to send signals",
-      "answer": "SATELLITE",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A curvy metal instrument played with a reed",
-      "answer": "SAXOPHONE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Glad that a worry is finally over",
-      "answer": "RELIEVED",
-      "row": 7,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A part of a whole, like one-half",
-      "answer": "FRACTION",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The tallest animal, with a super long neck",
-      "answer": "GIRAFFE",
-      "row": 14,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 0,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A person whose job is to clean buildings",
-      "answer": "CLEANER",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A cup-shaped spring flower grown from a bulb",
-      "answer": "TULIP",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Weather when snow is falling",
-      "answer": "SNOWY",
-      "row": 3,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The black dot in the middle of your eye",
-      "answer": "PUPIL",
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
       "row": 10,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "You drink water from this",
-      "answer": "GLASS",
-      "row": 0,
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
+      "row": 12,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
+      "row": 5,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The rainy season that brings heavy rain to India each summer",
+      "answer": "MONSOON",
+      "row": 5,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The tiny thing a new plant grows from",
-      "answer": "SEED",
-      "row": 13,
-      "col": 8,
+      "clue": "A cold, treeless land where the ground stays frozen",
+      "answer": "TUNDRA",
+      "row": 10,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A passage that goes through a mountain or under a river",
+      "answer": "TUNNEL",
+      "row": 2,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A strong-smelling bulb used to flavor cooking",
+      "answer": "GARLIC",
+      "row": 4,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "The blinking line or arrow that shows where you are on screen",
+      "answer": "CURSOR",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance from a circle's middle to its edge",
+      "answer": "RADIUS",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The low land between hills or mountains",
+      "answer": "VALLEY",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The planet that spins on its side",
+      "answer": "URANUS",
+      "row": 14,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Do, re, mi, fa, so, la, ti, do",
+      "answer": "SCALE",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of true",
+      "answer": "FALSE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A dish of raw leafy vegetables",
+      "answer": "SALAD",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A blue-green color named after a duck",
+      "answer": "TEAL",
+      "row": 11,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Part of the sea that curves into the land",
+      "answer": "BAY",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 20,
   "targetWords": 22,
   "difficulty": "hard"
 }

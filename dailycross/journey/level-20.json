@@ -4,59 +4,59 @@
   "title": "Level 20",
   "words": [
     {
-      "clue": "A giant, spinning storm that forms over the ocean",
-      "answer": "HURRICANE",
-      "row": 4,
-      "col": 2,
+      "clue": "Where you go on the swings and slide at break time",
+      "answer": "PLAYGROUND",
+      "row": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A bright flash in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "It turns paper pages into computer files",
-      "answer": "SCANNER",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A shooting star that zooms across the sky",
-      "answer": "METEOR",
-      "row": 7,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "The color you get by mixing red and blue",
-      "answer": "PURPLE",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The airless empty space between the stars",
-      "answer": "VACUUM",
+      "clue": "A person who travels into space",
+      "answer": "ASTRONAUT",
       "row": 0,
       "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel when something unexpected happens",
+      "answer": "SURPRISED",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A cabinet with doors for storing food and dishes",
+      "answer": "CUPBOARD",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The skin on top of your head where hair grows",
-      "answer": "SCALP",
-      "row": 7,
+      "clue": "An electronic machine that runs programs",
+      "answer": "COMPUTER",
+      "row": 0,
       "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A sparkly precious stone, and a card suit",
+      "answer": "DIAMOND",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who serves in an army",
+      "answer": "SOLDIER",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The shiny metal of a second-place medal",
+      "answer": "SILVER",
+      "row": 9,
+      "col": 3,
       "direction": "across"
     }
   ],

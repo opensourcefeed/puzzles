@@ -4,67 +4,74 @@
   "title": "2028-05-02",
   "words": [
     {
-      "clue": "A device that plays sound out loud",
-      "answer": "SPEAKER",
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
       "row": 3,
-      "col": 3,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The sport of moving fast on your feet",
-      "answer": "RUNNING",
+      "clue": "A shape like a door: two long sides and two short",
+      "answer": "RECTANGLE",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A huge, slow-moving river of ice",
+      "answer": "GLACIER",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A spinning funnel of wind that touches the ground",
+      "answer": "TORNADO",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who serves in an army",
+      "answer": "SOLDIER",
       "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A baby plant just starting to grow",
-      "answer": "SPROUT",
-      "row": 0,
-      "col": 5,
+      "clue": "The gas in the air that we need to breathe",
+      "answer": "OXYGEN",
+      "row": 8,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A green, watery spot in the middle of a desert",
-      "answer": "OASIS",
-      "row": 7,
-      "col": 6,
+      "clue": "A silver pipe you blow across, held out sideways",
+      "answer": "FLUTE",
+      "row": 5,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A soft white food made from soybeans",
-      "answer": "TOFU",
-      "row": 0,
-      "col": 10,
+      "clue": "A colorful underwater ridge built by tiny sea animals",
+      "answer": "REEF",
+      "row": 3,
+      "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A grain used to make porridge",
-      "answer": "OATS",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
+      "clue": "A flat surface of a solid shape",
+      "answer": "FACE",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 690

@@ -4,46 +4,46 @@
   "title": "Level 6",
   "words": [
     {
-      "clue": "A clock that beeps to wake you up in the morning",
-      "answer": "ALARMCLOCK",
-      "row": 3,
+      "clue": "Where you go on the swings and slide at break time",
+      "answer": "PLAYGROUND",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The special suit an astronaut wears in space",
-      "answer": "SPACESUIT",
+      "clue": "Where a river drops straight down over a cliff",
+      "answer": "WATERFALL",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid with two round ends, like a can",
+      "answer": "CYLINDER",
       "row": 0,
-      "col": 5,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A place where trains stop to pick up passengers",
-      "answer": "STATION",
-      "row": 5,
-      "col": 5,
+      "clue": "A person who repairs cars and engines",
+      "answer": "MECHANIC",
+      "row": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A flat touchscreen device, bigger than a phone",
-      "answer": "TABLET",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
+      "clue": "The strap you click across you before the car moves",
+      "answer": "SEATBELT",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "An orange vegetable that grows underground",
-      "answer": "CARROT",
+      "clue": "The opposite of rough",
+      "answer": "SMOOTH",
       "row": 2,
-      "col": 2,
+      "col": 6,
       "direction": "down"
-    },
-    {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
     }
   ],
   "wordCount": 6,

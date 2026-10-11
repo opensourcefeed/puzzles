@@ -4,66 +4,74 @@
   "title": "2027-09-18",
   "words": [
     {
-      "clue": "A person who runs a shop and sells things",
-      "answer": "SHOPKEEPER",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 3,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The loud boom after a flash of lightning",
-      "answer": "THUNDER",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling calm and not worried at all",
-      "answer": "RELAXED",
-      "row": 4,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The colorful, sweet-smelling part of a plant",
-      "answer": "FLOWER",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A shiny cup you win as a prize",
-      "answer": "TROPHY",
-      "row": 6,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 12,
+      "clue": "A zip-up pouch that holds everything you write with",
+      "answer": "PENCILCASE",
+      "enumeration": "6,4",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A tray on a desk for incoming papers",
-      "answer": "INBOX",
-      "row": 0,
-      "col": 10,
+      "clue": "A kitchen machine that cleans plates and cups",
+      "answer": "DISHWASHER",
+      "row": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The second planet from the Sun, and the hottest one",
-      "answer": "VENUS",
+      "clue": "A sudden, very heavy fall of rain",
+      "answer": "DOWNPOUR",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A farm bird that lays eggs and says cluck",
+      "answer": "CHICKEN",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A baby plant just starting to grow",
+      "answer": "SPROUT",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The main tune of a song",
+      "answer": "MELODY",
+      "row": 3,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The hot cloud that rises from boiling water",
+      "answer": "STEAM",
       "row": 9,
       "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The black dot in the middle of your eye, or a student",
+      "answer": "PUPIL",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A big test at the end of term",
+      "answer": "EXAM",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A white drink that comes from cows",
+      "answer": "MILK",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     }
   ],

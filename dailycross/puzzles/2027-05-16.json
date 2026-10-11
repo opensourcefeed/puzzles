@@ -4,67 +4,53 @@
   "title": "2027-05-16",
   "words": [
     {
-      "clue": "A thick, wet forest that gets lots of rain",
-      "answer": "RAINFOREST",
+      "clue": "A soft cushion you rest your head on in bed",
+      "answer": "PILLOW",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
+      "clue": "A nut that grows underground and is made into butter",
+      "answer": "PEANUT",
+      "row": 2,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "How you feel after doing something really well",
+      "answer": "PROUD",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft orange-pink, like the fuzzy fruit",
+      "answer": "PEACH",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall machine with an arm that lifts heavy things",
+      "answer": "CRANE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "An unwanted plant growing in a garden",
+      "answer": "WEED",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a clear daytime sky",
+      "answer": "BLUE",
       "row": 1,
       "col": 2,
       "direction": "down"
-    },
-    {
-      "clue": "A big white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 3,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "The season when flowers bloom after winter",
-      "answer": "SPRING",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The skin on top of your head where hair grows",
-      "answer": "SCALP",
-      "row": 0,
-      "col": 0,
-      "direction": "across"
     }
   ],
   "dayNumber": 338

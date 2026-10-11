@@ -4,59 +4,73 @@
   "title": "2028-01-29",
   "words": [
     {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 3,
-      "col": 1,
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A phone call where you can see each other",
-      "answer": "VIDEOCALL",
-      "row": 0,
-      "col": 5,
+      "clue": "The smallest planet, closest to the Sun",
+      "answer": "MERCURY",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
+      "clue": "The opposite of deep",
+      "answer": "SHALLOW",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 6,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A small round fastener on a shirt, or a thing you click on screen",
+      "answer": "BUTTON",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "An icy space object with a long, glowing tail",
+      "answer": "COMET",
+      "row": 2,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
       "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 1,
+      "clue": "A message sent to someone's electronic inbox",
+      "answer": "EMAIL",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
+      "clue": "A wild cousin of the dog that howls and lives in a pack",
+      "answer": "WOLF",
       "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The limb between your hip and your foot",
+      "answer": "LEG",
+      "row": 3,
       "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Practicing to get better at a sport",
-      "answer": "TRAINING",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 6,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who grows crops and raises animals",
-      "answer": "FARMER",
-      "row": 4,
-      "col": 10,
       "direction": "down"
     }
   ],

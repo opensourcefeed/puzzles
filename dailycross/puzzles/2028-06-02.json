@@ -4,67 +4,74 @@
   "title": "2028-06-02",
   "words": [
     {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
       "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 5,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "You click it on screen to make something happen",
-      "answer": "BUTTON",
-      "row": 2,
-      "col": 6,
+      "clue": "A giant reptile that lived millions of years ago, like T. rex",
+      "answer": "DINOSAUR",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A machine that sucks up dirt from the floor",
-      "answer": "VACUUM",
-      "row": 8,
+      "clue": "A space rock that circles the Sun; many lie between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who designs machines, bridges and roads",
+      "answer": "ENGINEER",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "What a forecast on the news tells you about",
+      "answer": "WEATHER",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A round citrus fruit that shares its name with its color",
+      "answer": "ORANGE",
+      "row": 5,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of turn between two lines that meet",
+      "answer": "ANGLE",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of hard",
+      "answer": "SOFT",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a clear daytime sky",
+      "answer": "BLUE",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A green plant with feathery leaves and no flowers",
+      "answer": "FERN",
+      "row": 7,
       "col": 7,
       "direction": "across"
-    },
-    {
-      "clue": "Weather when rain is falling",
-      "answer": "RAINY",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The part of your face below your mouth",
-      "answer": "CHIN",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A pale, fresh green",
-      "answer": "MINT",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
     }
   ],
   "dayNumber": 721

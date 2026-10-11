@@ -4,105 +4,168 @@
   "title": "Level 133",
   "words": [
     {
-      "clue": "Music printed on paper with notes",
-      "answer": "SHEETMUSIC",
+      "clue": "You wear these over your ears to listen privately",
+      "answer": "HEADPHONES",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
       "row": 4,
-      "col": 3,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "Believing that good things are going to happen",
-      "answer": "OPTIMISTIC",
-      "row": 3,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 3,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 13,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling bitter about being treated unfairly",
-      "answer": "RESENTFUL",
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
       "row": 5,
-      "col": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "It makes holes in paper for a binder",
-      "answer": "HOLEPUNCH",
-      "row": 0,
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A see-through sea creature that can sting",
+      "answer": "JELLYFISH",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
-      "row": 1,
+      "clue": "Happy to share and give to others",
+      "answer": "GENEROUS",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall cupboard for hanging up your clothes",
+      "answer": "WARDROBE",
+      "row": 6,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The bag-like organ that breaks down the food you eat",
+      "answer": "STOMACH",
+      "row": 9,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 9,
-      "col": 5,
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
+      "row": 14,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 4,
+      "clue": "The official who makes sure players follow the rules",
+      "answer": "REFEREE",
+      "row": 8,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 1,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "A thin layer of ice on cold surfaces",
-      "answer": "FROST",
-      "row": 10,
-      "col": 9,
+      "clue": "Another word for a tap",
+      "answer": "FAUCET",
+      "row": 3,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A box that shares the internet around your home",
+      "answer": "ROUTER",
+      "row": 0,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The person who flies an airplane",
-      "answer": "PILOT",
+      "clue": "A tiny dried seed often cooked into soup or dal",
+      "answer": "LENTIL",
+      "row": 3,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A pale purple, like the spring flower of the same name",
+      "answer": "LILAC",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A chart that shows numbers as bars or lines",
+      "answer": "GRAPH",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of back",
+      "answer": "FRONT",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A wire that charges or connects your devices",
+      "answer": "CABLE",
+      "row": 1,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A big test at the end of term",
+      "answer": "EXAM",
+      "row": 1,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A wild cousin of the dog that howls and lives in a pack",
+      "answer": "WOLF",
       "row": 11,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
-      "row": 1,
+      "clue": "Instructions written for a computer",
+      "answer": "CODE",
+      "row": 11,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A curved part of a circle's edge",
+      "answer": "ARC",
+      "row": 8,
+      "col": 12,
+      "direction": "across"
+    },
+    {
+      "clue": "A container with a handle and spout for pouring water",
+      "answer": "JUG",
+      "row": 12,
+      "col": 6,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 23,
   "targetWords": 23,
   "difficulty": "hard"
 }

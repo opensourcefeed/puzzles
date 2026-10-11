@@ -4,112 +4,127 @@
   "title": "Level 92",
   "words": [
     {
-      "clue": "A yellow flower you blow to make a wish",
-      "answer": "DANDELION",
-      "row": 6,
-      "col": 3,
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
+      "row": 7,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Feeling sure that you can do it",
-      "answer": "CONFIDENT",
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A shape like a door: two long sides and two short",
+      "answer": "RECTANGLE",
       "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The room where your lessons happen",
+      "answer": "CLASSROOM",
+      "row": 12,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "To bring a file from the internet onto your device",
+      "answer": "DOWNLOAD",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A long green vegetable, cool and crunchy, sliced into salads",
+      "answer": "CUCUMBER",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The force that pulls things down and keeps planets circling the Sun",
+      "answer": "GRAVITY",
+      "row": 14,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Wanting what someone else has; green with envy",
+      "answer": "JEALOUS",
+      "row": 4,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A secret word that unlocks your account",
-      "answer": "PASSWORD",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
-      "row": 0,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A curved band of colors after the rain",
-      "answer": "RAINBOW",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who is really good at sports",
-      "answer": "ATHLETE",
+      "clue": "Different notes that sound nice played together",
+      "answer": "HARMONY",
       "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Land with water all around it",
-      "answer": "ISLAND",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A perfectly round shape with no corners",
-      "answer": "CIRCLE",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "You sweep the floor with it",
-      "answer": "BROOM",
-      "row": 9,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "The opposite of bendy",
-      "answer": "STIFF",
-      "row": 8,
+      "clue": "The total divided by how many numbers there are",
+      "answer": "AVERAGE",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A doctor who looks after your teeth",
+      "answer": "DENTIST",
+      "row": 4,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A round citrus fruit that shares its name with its color",
+      "answer": "ORANGE",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The blinking line or arrow that shows where you are on screen",
+      "answer": "CURSOR",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Steps that take you from one floor to another",
+      "answer": "STAIRS",
+      "row": 3,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The planet we live on",
-      "answer": "EARTH",
-      "row": 9,
-      "col": 4,
-      "direction": "down"
+      "clue": "Three or more notes played at the same time",
+      "answer": "CHORD",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Information stored on a computer",
+      "answer": "DATA",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 17,
   "targetWords": 17,
   "difficulty": "medium"
 }

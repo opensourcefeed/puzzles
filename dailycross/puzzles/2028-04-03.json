@@ -4,60 +4,67 @@
   "title": "2028-04-03",
   "words": [
     {
-      "clue": "You wear these on your ears to listen",
-      "answer": "HEADPHONES",
-      "row": 4,
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 0,
+      "clue": "A round dent on the Moon made by a crashing space rock",
+      "answer": "CRATER",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Nice weather with a gentle breeze",
-      "answer": "PLEASANT",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 8,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A hard, hairy fruit with white flesh and water inside",
-      "answer": "COCONUT",
+      "clue": "The gas in the air that we need to breathe",
+      "answer": "OXYGEN",
       "row": 1,
-      "col": 6,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The color of a banana or the sun",
-      "answer": "YELLOW",
-      "row": 2,
+      "clue": "A baked loaf made from flour, sliced for sandwiches",
+      "answer": "BREAD",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of clean",
+      "answer": "DIRTY",
       "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A sea animal with claws that walks sideways",
+      "answer": "CRAB",
+      "row": 6,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 0,
+      "clue": "The tiny building block that everything is made of",
+      "answer": "ATOM",
+      "row": 1,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A fuzzy brown fruit that is bright green inside",
+      "answer": "KIWI",
+      "row": 0,
+      "col": 2,
+      "direction": "down"
     }
   ],
   "dayNumber": 661

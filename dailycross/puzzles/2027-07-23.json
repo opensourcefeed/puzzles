@@ -4,66 +4,73 @@
   "title": "2027-07-23",
   "words": [
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 4,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "An electronic machine that runs programs",
-      "answer": "COMPUTER",
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
       "row": 3,
-      "col": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 2,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A round red fruit used in salads and sauces",
-      "answer": "TOMATO",
-      "row": 4,
-      "col": 8,
+      "clue": "A pushed-over square: four equal sides but no right angles",
+      "answer": "RHOMBUS",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The spots where two bones meet and bend",
-      "answer": "JOINTS",
-      "row": 8,
+      "clue": "A green fruit with a big pit, mashed into guacamole",
+      "answer": "AVOCADO",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The low land between hills or mountains",
-      "answer": "VALLEY",
-      "row": 0,
-      "col": 6,
+      "clue": "A soft orange-pink, like the fuzzy fruit",
+      "answer": "PEACH",
+      "row": 4,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 10,
+      "clue": "A person who cares for patients in a hospital",
+      "answer": "NURSE",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The metal rails that a train runs on",
-      "answer": "TRACK",
-      "row": 7,
-      "col": 6,
+      "clue": "Ice, wood and rock are all in this state of matter",
+      "answer": "SOLID",
+      "row": 5,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A large bowl used for washing",
-      "answer": "BASIN",
+      "clue": "One of two equal parts",
+      "answer": "HALF",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Music performed by just one person",
+      "answer": "SOLO",
       "row": 5,
       "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, thin stick from a tree",
+      "answer": "TWIG",
+      "row": 3,
+      "col": 11,
       "direction": "down"
     }
   ],

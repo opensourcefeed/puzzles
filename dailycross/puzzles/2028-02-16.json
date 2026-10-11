@@ -4,53 +4,74 @@
   "title": "2028-02-16",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 5,
+      "clue": "Wireless tech, named after a Viking king, that links nearby devices",
+      "answer": "BLUETOOTH",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "How much rain has fallen",
-      "answer": "RAINFALL",
+      "clue": "You open it over your head when it pours",
+      "answer": "UMBRELLA",
       "row": 4,
-      "col": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A bright pinkish-purple",
-      "answer": "MAGENTA",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
+      "clue": "Land with water all around it",
+      "answer": "ISLAND",
       "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The front of your neck, where your voice comes from",
+      "answer": "THROAT",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The × sign, used for multiplying",
+      "answer": "TIMES",
+      "row": 4,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who trains and directs a sports team",
+      "answer": "COACH",
+      "row": 7,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The land right along the edge of the sea",
+      "answer": "COAST",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The organ in your chest that pumps blood",
+      "answer": "HEART",
+      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A group of computers linked to share information",
-      "answer": "NETWORK",
+      "clue": "A pale purple, like the spring flower of the same name",
+      "answer": "LILAC",
+      "row": 3,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A plant like basil or parsley used to flavor food",
+      "answer": "HERB",
       "row": 7,
-      "col": 3,
+      "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A small, crunchy root with a peppery taste",
-      "answer": "RADISH",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The biggest animal in the ocean",
-      "answer": "WHALE",
-      "row": 8,
-      "col": 6,
-      "direction": "down"
     }
   ],
   "dayNumber": 614

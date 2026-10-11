@@ -4,105 +4,126 @@
   "title": "Level 93",
   "words": [
     {
-      "clue": "A phone you can also browse the internet on",
-      "answer": "SMARTPHONE",
+      "clue": "A device that does sums for you",
+      "answer": "CALCULATOR",
       "row": 7,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "You use it to save your place in a book",
-      "answer": "BOOKMARK",
-      "row": 6,
-      "col": 8,
+      "clue": "Wooden bars you hit with mallets to play notes",
+      "answer": "XYLOPHONE",
+      "row": 5,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A small stick you plug in to store your files",
-      "answer": "USBDRIVE",
+      "clue": "A spiky tropical fruit, sweet and yellow inside",
+      "answer": "PINEAPPLE",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
       "row": 6,
-      "col": 1,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 7,
+      "clue": "A vehicle that rushes sick people to the hospital",
+      "answer": "AMBULANCE",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A machine that puts text and pictures onto paper",
-      "answer": "PRINTER",
-      "row": 12,
-      "col": 7,
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 0,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 6,
+      "clue": "A pad of blank pages for your notes",
+      "answer": "NOTEBOOK",
+      "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A team sport where players hit a puck with sticks",
-      "answer": "HOCKEY",
-      "row": 8,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A long orange vegetable that grows underground",
-      "answer": "CARROT",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The coldest, snowiest season",
-      "answer": "WINTER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A round citrus fruit you peel and eat in slices",
-      "answer": "ORANGE",
-      "row": 4,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The color of chocolate and tree bark",
-      "answer": "BROWN",
-      "row": 2,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A striped animal that looks like a horse",
-      "answer": "ZEBRA",
-      "row": 13,
+      "clue": "A space rock that circles the Sun; many lie between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 14,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A book full of maps",
-      "answer": "ATLAS",
-      "row": 11,
-      "col": 2,
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
+      "row": 2,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A device you use to call people far away",
-      "answer": "PHONE",
-      "row": 0,
+      "clue": "Ten hundreds",
+      "answer": "THOUSAND",
+      "row": 10,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A hard hat that protects your head while riding",
+      "answer": "HELMET",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A crunchy breakfast food you eat with milk",
+      "answer": "CEREAL",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You flip it to turn a light on or off",
+      "answer": "SWITCH",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A big body of fresh water with land all around it",
+      "answer": "LAKE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of buy",
+      "answer": "SELL",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The amount of space inside a flat shape",
+      "answer": "AREA",
+      "row": 1,
+      "col": 13,
       "direction": "down"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 17,
   "targetWords": 17,
   "difficulty": "medium"
 }

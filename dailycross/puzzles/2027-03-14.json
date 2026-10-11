@@ -4,73 +4,74 @@
   "title": "2027-03-14",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 5,
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A shape with three straight sides",
-      "answer": "TRIANGLE",
-      "row": 5,
-      "col": 2,
+      "clue": "You use it with paste to clean your teeth",
+      "answer": "TOOTHBRUSH",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A huge, slow-moving river of ice",
-      "answer": "GLACIER",
-      "row": 3,
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
+      "row": 1,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 12,
+      "clue": "A tool with two blades for cutting paper",
+      "answer": "SCISSORS",
+      "row": 10,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A big area covered with lots of trees",
-      "answer": "FOREST",
-      "row": 4,
-      "col": 4,
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Feeling safe and protected",
-      "answer": "SECURE",
-      "row": 8,
-      "col": 4,
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 6,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of grass and leaves",
-      "answer": "GREEN",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The outer layer that covers your whole body",
-      "answer": "SKIN",
+      "clue": "A person who brings food to your table at a restaurant",
+      "answer": "WAITER",
       "row": 0,
-      "col": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A string instrument you strum or pluck",
+      "answer": "GUITAR",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     },
     {
       "clue": "The table where a student sits and works",
       "answer": "DESK",
-      "row": 0,
-      "col": 2,
+      "row": 2,
+      "col": 6,
       "direction": "across"
     }
   ],

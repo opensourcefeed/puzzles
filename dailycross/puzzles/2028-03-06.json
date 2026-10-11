@@ -4,74 +4,75 @@
   "title": "2028-03-06",
   "words": [
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 4,
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person whose job is to drive a bus",
-      "answer": "BUSDRIVER",
-      "row": 2,
+      "clue": "A zip-up pouch that holds everything you write with",
+      "answer": "PENCILCASE",
+      "enumeration": "6,4",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 3,
+      "clue": "The person who waves a baton to lead an orchestra",
+      "answer": "CONDUCTOR",
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Feeling thankful for something you were given",
-      "answer": "GRATEFUL",
-      "row": 6,
+      "clue": "The main printed guide your class learns a subject from",
+      "answer": "TEXTBOOK",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The sport of riding a bicycle",
-      "answer": "CYCLING",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A long stretch of time with no rain",
-      "answer": "DROUGHT",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A colorful bird that can copy your words",
-      "answer": "PARROT",
-      "row": 0,
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A fish that swims upstream to lay its eggs",
-      "answer": "SALMON",
-      "row": 1,
-      "col": 6,
+      "clue": "A small, smooth stone",
+      "answer": "PEBBLE",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The muscle at the back of your lower leg",
-      "answer": "CALF",
+      "clue": "A cold, treeless land where the ground stays frozen",
+      "answer": "TUNDRA",
+      "row": 9,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A round red fruit that is made into ketchup",
+      "answer": "TOMATO",
       "row": 8,
-      "col": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who creates paintings and drawings",
+      "answer": "ARTIST",
+      "row": 12,
+      "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "The short, thick finger that helps you grip",
+      "answer": "THUMB",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "dayNumber": 633

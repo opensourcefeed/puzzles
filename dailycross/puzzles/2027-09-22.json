@@ -4,66 +4,73 @@
   "title": "2027-09-22",
   "words": [
     {
-      "clue": "The low land between hills or mountains",
-      "answer": "VALLEY",
-      "row": 1,
-      "col": 1,
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
+      "clue": "A vehicle that rushes sick people to the hospital",
+      "answer": "AMBULANCE",
+      "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who is really good at sports",
+      "answer": "ATHLETE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A light, gentle wind",
+      "answer": "BREEZE",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A shaker filled with beads that rattles",
-      "answer": "MARACA",
+      "clue": "The power to make things move, heat up, or light up",
+      "answer": "ENERGY",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A photo you take of yourself",
+      "answer": "SELFIE",
       "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A large area of flat land",
-      "answer": "PLAIN",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A game between two players or two teams",
-      "answer": "MATCH",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A seat with a back and legs, for one person",
-      "answer": "CHAIR",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A shiny black bird with a loud caw",
-      "answer": "CROW",
-      "row": 4,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A ball game played on horseback with a long stick",
-      "answer": "POLO",
-      "row": 1,
       "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
+      "row": 5,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The ___ finger is the one you point with",
+      "answer": "INDEX",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A large hole in a rock or hillside where bats may live",
+      "answer": "CAVE",
+      "row": 1,
+      "col": 12,
       "direction": "down"
     }
   ],

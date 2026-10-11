@@ -4,67 +4,74 @@
   "title": "2027-09-05",
   "words": [
     {
-      "clue": "You use it to clean your teeth",
-      "answer": "TOOTHBRUSH",
-      "row": 5,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A box you carry your lunch to school in",
-      "answer": "LUNCHBOX",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A round red fruit used in sauces and salads",
-      "answer": "TOMATO",
-      "row": 5,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 3,
+      "clue": "A plastic pipe many children learn to play at school",
+      "answer": "RECORDER",
+      "row": 6,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A grain that is ground into flour for bread",
-      "answer": "WHEAT",
-      "row": 1,
-      "col": 0,
+      "clue": "The bag-like organ that breaks down the food you eat",
+      "answer": "STOMACH",
+      "row": 4,
+      "col": 4,
       "direction": "down"
+    },
+    {
+      "clue": "A group of computers linked to share information",
+      "answer": "NETWORK",
+      "row": 5,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The biggest bird in the world; it runs fast but can't fly",
+      "answer": "OSTRICH",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A hanging spike of ice that forms when dripping water freezes",
+      "answer": "ICICLE",
+      "row": 9,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The shiny metal of a second-place medal",
+      "answer": "SILVER",
+      "row": 8,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A cloud of gas and dust where new stars are born",
+      "answer": "NEBULA",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
+      "row": 1,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Bright weather with no clouds at all",
+      "answer": "CLEAR",
+      "row": 0,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A basin with taps for washing hands and dishes",
+      "answer": "SINK",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 450

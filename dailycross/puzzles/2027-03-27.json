@@ -4,73 +4,74 @@
   "title": "2027-03-27",
   "words": [
     {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 3,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A big pile of snow blown together by the wind",
-      "answer": "SNOWDRIFT",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Many days in a row of very hot weather",
-      "answer": "HEATWAVE",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "To look something up on the internet",
-      "answer": "SEARCH",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "An object that pulls iron toward it",
-      "answer": "MAGNET",
-      "row": 1,
-      "col": 8,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of moving a boat with oars",
-      "answer": "ROWING",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The organ in your chest that pumps blood",
-      "answer": "HEART",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who cares for patients and helps doctors",
-      "answer": "NURSE",
-      "row": 6,
+      "clue": "A plank on four little wheels for tricks at the park",
+      "answer": "SKATEBOARD",
+      "row": 4,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
+      "row": 3,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A strong farm vehicle that pulls heavy loads",
+      "answer": "TRACTOR",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Light exercises you do before a game",
+      "answer": "WARMUP",
+      "enumeration": "4,2",
+      "row": 5,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A shiny cup you win as a prize",
+      "answer": "TROPHY",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A long chain of mountains, like the Himalayas",
+      "answer": "RANGE",
+      "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A robot spacecraft sent to explore far-off planets",
+      "answer": "PROBE",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "A black-and-white bear that munches on leafy stalks in China",
+      "answer": "PANDA",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A tiny picture, like a smiley face, that you add to messages",
+      "answer": "EMOJI",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Drops of water that fall from the clouds",
+      "answer": "RAIN",
+      "row": 2,
+      "col": 4,
       "direction": "across"
     }
   ],

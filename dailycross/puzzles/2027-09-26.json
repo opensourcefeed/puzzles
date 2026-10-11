@@ -4,67 +4,74 @@
   "title": "2027-09-26",
   "words": [
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 5,
-      "col": 2,
+      "clue": "The person who stamps your books and helps you find the next one",
+      "answer": "LIBRARIAN",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "You carry water to school in this",
-      "answer": "BOTTLE",
-      "row": 5,
-      "col": 8,
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
+      "row": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
-      "row": 10,
-      "col": 3,
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A cabinet with doors for storing food and dishes",
+      "answer": "CUPBOARD",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A flat touchscreen device, bigger than a phone",
-      "answer": "TABLET",
-      "row": 1,
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who sews and alters clothes",
+      "answer": "TAILOR",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "You dry yourself with this after a bath",
+      "answer": "TOWEL",
+      "row": 3,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The yellow dust made by flowers",
-      "answer": "POLLEN",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The biggest animal in the ocean",
-      "answer": "WHALE",
-      "row": 2,
-      "col": 8,
+      "clue": "A green, watery spot in the middle of a desert",
+      "answer": "OASIS",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "What we hear with our ears",
-      "answer": "SOUND",
-      "row": 5,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "Instruments you buzz your lips into, like a trumpet",
-      "answer": "BRASS",
-      "row": 1,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A tough vehicle for driving over rough ground",
-      "answer": "JEEP",
-      "row": 0,
+      "clue": "A big vehicle for carrying goods by road",
+      "answer": "TRUCK",
+      "row": 7,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "You use it to tidy and smooth your hair",
+      "answer": "COMB",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 471

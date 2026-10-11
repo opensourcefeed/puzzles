@@ -4,66 +4,73 @@
   "title": "2028-01-30",
   "words": [
     {
-      "clue": "A big juicy fruit, green outside and red inside",
-      "answer": "WATERMELON",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who designs machines and structures",
-      "answer": "ENGINEER",
-      "row": 2,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who is really good at sports",
-      "answer": "ATHLETE",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A shape with six straight sides",
-      "answer": "HEXAGON",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A spiky desert plant that stores water",
-      "answer": "CACTUS",
-      "row": 0,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The × sign, used for multiplying",
-      "answer": "TIMES",
+      "clue": "A sweet brown treat made from cocoa beans",
+      "answer": "CHOCOLATE",
       "row": 6,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "When the Moon passes in front of the Sun and blocks its light",
+      "answer": "ECLIPSE",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A very dry place that gets little rain, like the Sahara",
+      "answer": "DESERT",
+      "row": 5,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A cold, treeless land where the ground stays frozen",
+      "answer": "TUNDRA",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "An object that pulls iron and steel toward it",
+      "answer": "MAGNET",
+      "row": 11,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
+      "clue": "The Sun and its planets: the solar ___",
+      "answer": "SYSTEM",
+      "row": 6,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A hanging spike of ice that forms when dripping water freezes",
+      "answer": "ICICLE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You use it to tidy and smooth your hair",
+      "answer": "COMB",
       "row": 0,
-      "col": 10,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A large Australian bird that cannot fly",
+      "answer": "EMU",
+      "row": 6,
+      "col": 9,
       "direction": "across"
     }
   ],

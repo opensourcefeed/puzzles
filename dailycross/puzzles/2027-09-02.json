@@ -4,73 +4,73 @@
   "title": "2027-09-02",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
       "row": 3,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A collection of pages you visit online",
+      "answer": "WEBSITE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "In a bad mood, cross and complaining",
+      "answer": "GRUMPY",
+      "row": 2,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of after",
+      "answer": "BEFORE",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep purple, the last color of the rainbow",
+      "answer": "VIOLET",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The planet we live on",
+      "answer": "EARTH",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 1,
+      "clue": "The row of bones running down your back",
+      "answer": "SPINE",
+      "row": 6,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A black-and-white bear that munches on leafy stalks in China",
+      "answer": "PANDA",
+      "row": 0,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 5,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A pen with a thick tip for whiteboards",
-      "answer": "MARKER",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You use it to rub out pencil marks",
-      "answer": "ERASER",
-      "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft, wet land that is often flooded",
-      "answer": "MARSH",
+      "clue": "One colorful piece of a flower",
+      "answer": "PETAL",
       "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "How high or low a sound is",
-      "answer": "PITCH",
-      "row": 1,
-      "col": 7,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The tiny points of light in the night sky",
-      "answer": "STARS",
-      "row": 6,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Connected cars that run along railway tracks",
-      "answer": "TRAIN",
-      "row": 4,
-      "col": 3,
+      "clue": "A tall machine with an arm that lifts heavy things",
+      "answer": "CRANE",
+      "row": 3,
+      "col": 12,
       "direction": "down"
     }
   ],

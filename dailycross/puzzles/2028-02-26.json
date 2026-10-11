@@ -4,66 +4,74 @@
   "title": "2028-02-26",
   "words": [
     {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
+      "clue": "A huge vessel that carries containers across the ocean",
+      "answer": "CARGOSHIP",
+      "enumeration": "5,4",
       "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
       "row": 3,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "Extremely, red-faced mad",
+      "answer": "FURIOUS",
+      "row": 0,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "An event where you jump over a high bar",
-      "answer": "HIGHJUMP",
-      "row": 3,
+      "clue": "Steps that take you from one floor to another",
+      "answer": "STAIRS",
+      "row": 6,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A sharp point on the stem of a rose or a bramble",
+      "answer": "THORN",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "Carriages pulled along railway tracks by an engine",
+      "answer": "TRAIN",
+      "row": 5,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The top part of your body, where your face is",
+      "answer": "HEAD",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 4,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The sport of moving fast on your feet",
-      "answer": "RUNNING",
+      "clue": "Wireless internet you connect to without any cables",
+      "answer": "WIFI",
       "row": 8,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A soft yellow spread made from cream",
-      "answer": "BUTTER",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A big instrument with black and white keys",
-      "answer": "PIANO",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "You use this to eat, talk, and smile",
-      "answer": "MOUTH",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
-      "row": 6,
-      "col": 5,
+      "clue": "The part of a plant that grows underground and drinks water",
+      "answer": "ROOT",
+      "row": 11,
+      "col": 4,
       "direction": "across"
     }
   ],

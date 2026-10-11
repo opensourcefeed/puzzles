@@ -4,66 +4,73 @@
   "title": "2027-06-13",
   "words": [
     {
-      "clue": "The person who stands in front and leads an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 7,
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person watching a game from the stands",
-      "answer": "SPECTATOR",
-      "row": 4,
-      "col": 5,
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 2,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "It hops around and carries its baby in a pouch",
-      "answer": "KANGAROO",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of moving through the water",
-      "answer": "SWIMMING",
-      "row": 1,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A bird that spreads a huge, colorful tail",
-      "answer": "PEACOCK",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The finger you point with",
-      "answer": "INDEX",
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
       "row": 3,
-      "col": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "You flip it to turn a light on or off",
+      "answer": "SWITCH",
+      "row": 7,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "The opposite of early",
-      "answer": "LATE",
+      "clue": "A machine that can do jobs by itself",
+      "answer": "ROBOT",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "The middle color of a traffic light; also hardened tree resin",
+      "answer": "AMBER",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A sport where you hit a small ball into holes with clubs",
+      "answer": "GOLF",
+      "row": 4,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The back part of your foot",
+      "answer": "HEEL",
+      "row": 7,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Tiny grains of rock found on a beach",
+      "answer": "SAND",
+      "row": 2,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Caring and gentle toward others",
+      "answer": "KIND",
       "row": 0,
-      "col": 5,
+      "col": 10,
       "direction": "down"
     }
   ],

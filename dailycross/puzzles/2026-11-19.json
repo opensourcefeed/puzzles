@@ -4,67 +4,74 @@
   "title": "2026-11-19",
   "words": [
     {
-      "clue": "A big, dark cloud that brings a storm",
-      "answer": "STORMCLOUD",
-      "row": 6,
-      "col": 0,
+      "clue": "An appliance that heats food really fast",
+      "answer": "MICROWAVE",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who builds things out of wood",
-      "answer": "CARPENTER",
-      "row": 4,
+      "clue": "A yellow weed whose fluffy seed head you blow on to make a wish",
+      "answer": "DANDELION",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A chart showing which lesson comes when",
+      "answer": "TIMETABLE",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A dark cloud that brings rain",
-      "answer": "RAINCLOUD",
-      "row": 2,
-      "col": 5,
+      "clue": "An electronic machine that runs programs",
+      "answer": "COMPUTER",
+      "row": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The fuel that most cars run on",
-      "answer": "GASOLINE",
-      "row": 3,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A warm cover you sleep under",
-      "answer": "BLANKET",
-      "row": 6,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "Furniture with drawers for storing things",
-      "answer": "CABINET",
-      "row": 11,
+      "clue": "A shape with five straight sides",
+      "answer": "PENTAGON",
+      "row": 8,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A string instrument you strum or pluck",
-      "answer": "GUITAR",
-      "row": 3,
-      "col": 1,
+      "clue": "Any flat shape made only of straight sides",
+      "answer": "POLYGON",
+      "row": 2,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "Weather that feels damp and sticky",
-      "answer": "HUMID",
-      "row": 0,
-      "col": 9,
+      "clue": "Riding ocean waves on a board",
+      "answer": "SURFING",
+      "row": 2,
+      "col": 11,
       "direction": "down"
+    },
+    {
+      "clue": "The short stick runners pass in a relay race",
+      "answer": "BATON",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The soft side of your face below your eye",
+      "answer": "CHEEK",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The flat green part of a plant that soaks up sunlight",
+      "answer": "LEAF",
+      "row": 5,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 160

@@ -4,67 +4,74 @@
   "title": "2027-05-13",
   "words": [
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
-      "row": 4,
-      "col": 0,
+      "clue": "A half-circle tool for measuring angles",
+      "answer": "PROTRACTOR",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "An electronic machine that runs programs",
-      "answer": "COMPUTER",
-      "row": 3,
+      "clue": "A yellow weed whose fluffy seed head you blow on to make a wish",
+      "answer": "DANDELION",
+      "row": 1,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling sure that you can do it",
+      "answer": "CONFIDENT",
+      "row": 1,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 0,
-      "col": 5,
+      "clue": "The bag-like organ that breaks down the food you eat",
+      "answer": "STOMACH",
+      "row": 1,
+      "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The tap that water comes out of",
-      "answer": "FAUCET",
-      "row": 0,
+      "clue": "You plug your phone into this when its battery is low",
+      "answer": "CHARGER",
+      "row": 7,
       "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
-      "row": 1,
-      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The Sun and its planets: the solar ___",
-      "answer": "SYSTEM",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "Weather that feels damp and sticky",
-      "answer": "HUMID",
-      "row": 6,
+      "clue": "A thick, hot, steamy forest full of plants and animals",
+      "answer": "JUNGLE",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A soft orange-pink, like the fruit",
-      "answer": "PEACH",
-      "row": 3,
-      "col": 9,
+      "clue": "A glass opening in a wall that lets in light and air",
+      "answer": "WINDOW",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A sheltered spot on the coast where boats stay",
+      "answer": "HARBOR",
+      "row": 0,
+      "col": 10,
       "direction": "down"
+    },
+    {
+      "clue": "A pale purple, like the spring flower of the same name",
+      "answer": "LILAC",
+      "row": 5,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft green carpet-like plant that grows on rocks",
+      "answer": "MOSS",
+      "row": 4,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 335

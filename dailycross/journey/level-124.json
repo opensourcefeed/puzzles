@@ -4,112 +4,147 @@
   "title": "Level 124",
   "words": [
     {
-      "clue": "A tiny chip that stores photos inside a camera",
-      "answer": "MEMORYCARD",
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
-      "row": 4,
-      "col": 3,
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
+      "row": 6,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The blanket of gases around the Earth",
-      "answer": "ATMOSPHERE",
-      "row": 4,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you hit a shuttlecock over a net",
-      "answer": "BADMINTON",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of safe",
-      "answer": "DANGEROUS",
-      "row": 13,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Glad that a worry is finally over",
-      "answer": "RELIEVED",
-      "row": 7,
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
+      "row": 6,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The distance all the way across a circle",
-      "answer": "DIAMETER",
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
       "row": 11,
-      "col": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A number with a dot in it, like 2.5",
-      "answer": "DECIMAL",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A cold, flat land where the ground stays frozen",
-      "answer": "TUNDRA",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A shooting star that zooms across the sky",
-      "answer": "METEOR",
-      "row": 8,
+      "clue": "Feeling sure that you can do it",
+      "answer": "CONFIDENT",
+      "row": 3,
       "col": 12,
       "direction": "down"
     },
     {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
-      "row": 9,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A group of people who sing together",
-      "answer": "CHOIR",
-      "row": 8,
+      "clue": "A space rock that circles the Sun; many lie between Mars and Jupiter",
+      "answer": "ASTEROID",
+      "row": 4,
       "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "Tasks your teacher sets for you to finish after school",
+      "answer": "HOMEWORK",
+      "row": 7,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A single musical sound",
-      "answer": "NOTE",
+      "clue": "A very dark gray, like burnt wood",
+      "answer": "CHARCOAL",
+      "row": 13,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "When the Moon passes in front of the Sun and blocks its light",
+      "answer": "ECLIPSE",
       "row": 5,
       "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A group of computers linked to share information",
+      "answer": "NETWORK",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "Where a computer keeps what it's working on; also your power to remember",
+      "answer": "MEMORY",
+      "row": 13,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The break between lessons when you go outside to play",
+      "answer": "RECESS",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A city bird once used to carry messages",
+      "answer": "PIGEON",
+      "row": 9,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "Body tissue that tightens to move your bones",
+      "answer": "MUSCLE",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A sheltered spot on the coast where boats stay",
+      "answer": "HARBOR",
+      "row": 0,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Ice, wood and rock are all in this state of matter",
+      "answer": "SOLID",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall machine with an arm that lifts heavy things",
+      "answer": "CRANE",
+      "row": 6,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Weather that feels damp and sticky",
+      "answer": "HUMID",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A thin, light fog close to the ground",
+      "answer": "MIST",
+      "row": 2,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "wordCount": 15,
+  "wordCount": 20,
   "targetWords": 22,
   "difficulty": "hard"
 }

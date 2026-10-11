@@ -4,66 +4,73 @@
   "title": "2027-05-15",
   "words": [
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 6,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 9,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The part of your face above your eyes",
-      "answer": "FOREHEAD",
+      "clue": "The main printed guide your class learns a subject from",
+      "answer": "TEXTBOOK",
       "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A brass instrument with a sliding tube",
-      "answer": "TROMBONE",
-      "row": 5,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Different notes that sound nice played together",
-      "answer": "HARMONY",
-      "row": 2,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A black-and-white bird that waddles on the ice",
-      "answer": "PENGUIN",
-      "row": 12,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A soft, pale yellow",
-      "answer": "BUTTER",
-      "row": 0,
-      "col": 4,
+      "clue": "A spacecraft that could fly to space again and again",
+      "answer": "SHUTTLE",
+      "row": 1,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Feeling that you need rest or sleep",
-      "answer": "TIRED",
+      "clue": "A box that slides in and out of a desk or dresser",
+      "answer": "DRAWER",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Steps that take you from one floor to another",
+      "answer": "STAIRS",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A round red fruit that is made into ketchup",
+      "answer": "TOMATO",
       "row": 3,
-      "col": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A pink-fleshed fish that swims upstream to lay its eggs",
+      "answer": "SALMON",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge body of salty water, like the Pacific",
+      "answer": "OCEAN",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The five lines that music is written on",
+      "answer": "STAFF",
+      "row": 1,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "White flakes that fall in cold weather",
+      "answer": "SNOW",
+      "row": 1,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "Weather that's not too hot and not too cold",
+      "answer": "MILD",
+      "row": 0,
+      "col": 0,
       "direction": "across"
     }
   ],

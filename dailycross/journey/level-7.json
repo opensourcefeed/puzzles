@@ -4,46 +4,46 @@
   "title": "Level 7",
   "words": [
     {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
       "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling thankful for something you were given",
-      "answer": "GRATEFUL",
+      "clue": "The matching clothes a team wears",
+      "answer": "UNIFORM",
       "row": 1,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A soft cushion you rest your head on in bed",
+      "answer": "PILLOW",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling calm and not worried at all",
-      "answer": "RELAXED",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling safe and protected",
-      "answer": "SECURE",
-      "row": 5,
-      "col": 2,
+      "clue": "You look into it to see yourself",
+      "answer": "MIRROR",
+      "row": 6,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person who trains and directs a sports team",
-      "answer": "COACH",
-      "row": 0,
-      "col": 6,
+      "clue": "You flip it to turn a light on or off",
+      "answer": "SWITCH",
+      "row": 4,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The place where a river flows into the sea",
-      "answer": "MOUTH",
-      "row": 2,
-      "col": 0,
-      "direction": "down"
+      "clue": "A device that takes photos",
+      "answer": "CAMERA",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
     }
   ],
   "wordCount": 6,

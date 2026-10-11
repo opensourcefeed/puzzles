@@ -4,67 +4,74 @@
   "title": "2026-12-10",
   "words": [
     {
-      "clue": "The fuel that most cars run on",
-      "answer": "GASOLINE",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 7,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A perfectly round shape with no corners",
-      "answer": "CIRCLE",
-      "row": 6,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 11,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A thick, creamy food made from milk",
-      "answer": "YOGURT",
-      "row": 14,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The little seed hidden inside a shell, like in a nut",
-      "answer": "KERNEL",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of wide",
-      "answer": "NARROW",
-      "row": 3,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Soft, wet land that is often flooded",
-      "answer": "MARSH",
-      "row": 4,
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 2,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Instruments you buzz your lips into, like a trumpet",
-      "answer": "BRASS",
-      "row": 0,
-      "col": 6,
+      "clue": "A flying vehicle with wings and jet engines",
+      "answer": "AIRPLANE",
+      "row": 2,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "The opposite of rough",
+      "answer": "SMOOTH",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Always wanting more than your share",
+      "answer": "GREEDY",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A big round world that circles a star",
+      "answer": "PLANET",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of day",
+      "answer": "NIGHT",
+      "row": 8,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall machine with an arm that lifts heavy things",
+      "answer": "CRANE",
+      "row": 4,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of back",
+      "answer": "FRONT",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A grain with yellow kernels on a cob",
+      "answer": "CORN",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "You smell with this",
+      "answer": "NOSE",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
     }
   ],
   "dayNumber": 181

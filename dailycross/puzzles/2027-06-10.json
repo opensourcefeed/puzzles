@@ -4,74 +4,75 @@
   "title": "2027-06-10",
   "words": [
     {
-      "clue": "The place where deleted files go on a computer",
-      "answer": "RECYCLEBIN",
-      "row": 5,
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
-      "row": 2,
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
+      "row": 6,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
+      "row": 6,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "A giant, spinning storm that forms over the ocean",
-      "answer": "HURRICANE",
-      "row": 7,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A sea animal with eight arms",
-      "answer": "OCTOPUS",
+      "clue": "The opposite of deep",
+      "answer": "SHALLOW",
       "row": 1,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "It clips sheets of paper together",
-      "answer": "STAPLER",
-      "row": 2,
-      "col": 10,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 9,
-      "col": 2,
+      "clue": "A shiny cup you win as a prize",
+      "answer": "TROPHY",
+      "row": 13,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "You look into it to see yourself",
-      "answer": "MIRROR",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "How you feel when something good happens",
-      "answer": "HAPPY",
+      "clue": "A wheeled robot that drives around on Mars",
+      "answer": "ROVER",
       "row": 8,
-      "col": 6,
-      "direction": "down"
+      "col": 1,
+      "direction": "across"
     },
     {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
-      "row": 3,
-      "col": 0,
+      "clue": "The − sign, used for taking away",
+      "answer": "MINUS",
+      "row": 11,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "The small nut of an oak tree that squirrels collect",
+      "answer": "ACORN",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A chart that shows numbers as bars or lines",
+      "answer": "GRAPH",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "The big cat with a shaggy mane, called king of the jungle",
+      "answer": "LION",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 363

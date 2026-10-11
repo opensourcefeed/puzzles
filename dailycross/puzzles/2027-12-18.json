@@ -4,67 +4,74 @@
   "title": "2027-12-18",
   "words": [
     {
-      "clue": "Instruments you hit or shake, like drums",
-      "answer": "PERCUSSION",
-      "row": 6,
-      "col": 2,
+      "clue": "A person who writes computer code",
+      "answer": "PROGRAMMER",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A scientist who studies stars and planets",
-      "answer": "ASTRONOMER",
-      "row": 3,
-      "col": 4,
+      "clue": "Feeling thankful for a kind gift or favor",
+      "answer": "GRATEFUL",
+      "row": 7,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A pretty insect that used to be a caterpillar",
-      "answer": "BUTTERFLY",
-      "row": 5,
+      "clue": "A tall pipe that carries smoke out through the roof",
+      "answer": "CHIMNEY",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A line joining two opposite corners",
-      "answer": "DIAGONAL",
-      "row": 5,
-      "col": 9,
-      "direction": "down"
+      "clue": "A collection of pages you visit online",
+      "answer": "WEBSITE",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
     },
     {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
+      "clue": "The gas in the air that we need to breathe",
+      "answer": "OXYGEN",
       "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A big storm of winds spinning around a center",
-      "answer": "CYCLONE",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A small cupboard at school for your stuff",
-      "answer": "LOCKER",
-      "row": 9,
       "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A very deep valley carved by a river, like the Grand one in Arizona",
+      "answer": "CANYON",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A building where cars are parked or repaired",
-      "answer": "GARAGE",
-      "row": 7,
-      "col": 13,
+      "clue": "The darkest color, like the night sky",
+      "answer": "BLACK",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A famous telescope that takes pictures of deep space",
-      "answer": "HUBBLE",
+      "clue": "The opposite of below",
+      "answer": "ABOVE",
       "row": 0,
-      "col": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The organ in your chest that pumps blood",
+      "answer": "HEART",
+      "row": 4,
+      "col": 1,
       "direction": "down"
+    },
+    {
+      "clue": "The net you try to get the ball into",
+      "answer": "GOAL",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
     }
   ],
   "dayNumber": 554

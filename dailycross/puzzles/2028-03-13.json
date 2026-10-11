@@ -4,67 +4,74 @@
   "title": "2028-03-13",
   "words": [
     {
-      "clue": "Looking up to someone with respect",
-      "answer": "ADMIRING",
-      "row": 5,
-      "col": 0,
+      "clue": "A bat-and-ball game hugely popular in India and England",
+      "answer": "CRICKET",
+      "row": 4,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who helps students learn at school",
-      "answer": "TEACHER",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A vehicle that blasts off into space",
-      "answer": "ROCKET",
-      "row": 5,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sad because you are all alone",
-      "answer": "LONELY",
-      "row": 9,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
+      "clue": "A shape with four equal sides and four right angles",
+      "answer": "SQUARE",
       "row": 0,
-      "col": 6,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A big instrument with black and white keys",
-      "answer": "PIANO",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "Furniture with a flat top, for eating or working",
-      "answer": "TABLE",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep, narrow valley with steep rocky sides",
-      "answer": "GORGE",
-      "row": 5,
+      "clue": "The flap of skin that closes when you blink",
+      "answer": "EYELID",
+      "row": 4,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "The organ in your chest that pumps blood",
-      "answer": "HEART",
+      "clue": "The corner point where two lines meet",
+      "answer": "VERTEX",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, creamy food made from milk",
+      "answer": "YOGURT",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The dark shape made when something blocks the light",
+      "answer": "SHADOW",
       "row": 0,
       "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "The short stick runners pass in a relay race",
+      "answer": "BATON",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of rich",
+      "answer": "POOR",
+      "row": 1,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An unwanted plant growing in a garden",
+      "answer": "WEED",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A stick used to hit the ball in golf",
+      "answer": "CLUB",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 640

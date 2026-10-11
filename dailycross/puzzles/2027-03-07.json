@@ -4,74 +4,74 @@
   "title": "2027-03-07",
   "words": [
     {
-      "clue": "A scientist who studies stars and planets",
-      "answer": "ASTRONOMER",
-      "row": 5,
+      "clue": "A sport of flips, cartwheels and balance beams",
+      "answer": "GYMNASTICS",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
+      "clue": "The sport of racing through the water in a pool",
+      "answer": "SWIMMING",
       "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright flash in the sky during a storm",
-      "answer": "LIGHTNING",
-      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "Glad that a worry is finally over",
-      "answer": "RELIEVED",
-      "row": 9,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
+      "clue": "The place where planes take off and land",
+      "answer": "AIRPORT",
       "row": 3,
-      "col": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Feeling a little worried or uncomfortable",
-      "answer": "UNEASY",
-      "row": 7,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A small, crunchy root with a peppery taste",
-      "answer": "RADISH",
+      "clue": "An animal that swings from tree branches",
+      "answer": "MONKEY",
       "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "A pen with a thick tip for whiteboards",
-      "answer": "MARKER",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft orange-pink, like the fruit",
-      "answer": "PEACH",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The stalk that holds a plant up",
-      "answer": "STEM",
-      "row": 12,
-      "col": 6,
+      "clue": "The distance from a circle's middle to its edge",
+      "answer": "RADIUS",
+      "row": 8,
+      "col": 7,
       "direction": "across"
+    },
+    {
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A flat dish you eat your dinner off",
+      "answer": "PLATE",
+      "row": 6,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A device you use to call people far away",
+      "answer": "PHONE",
+      "row": 2,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "It circles Earth and seems to change shape each night",
+      "answer": "MOON",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
     }
   ],
   "dayNumber": 268

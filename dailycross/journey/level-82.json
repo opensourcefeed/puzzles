@@ -4,70 +4,121 @@
   "title": "Level 82",
   "words": [
     {
-      "clue": "A yellow flower you blow to make a wish",
-      "answer": "DANDELION",
-      "row": 6,
-      "col": 1,
+      "clue": "A red emergency vehicle with ladders and hoses",
+      "answer": "FIREENGINE",
+      "enumeration": "4,6",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A wide open area covered in wild grass",
-      "answer": "GRASSLAND",
-      "row": 4,
+      "clue": "A big reptile with powerful jaws that lurks in rivers",
+      "answer": "CROCODILE",
+      "row": 6,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "The part of your arm between the elbow and wrist",
-      "answer": "FOREARM",
-      "row": 3,
+      "clue": "Wooden bars you hit with mallets to play notes",
+      "answer": "XYLOPHONE",
+      "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "You use this to taste your food",
-      "answer": "TONGUE",
-      "row": 4,
+      "clue": "A sweet frozen treat you lick from a cone",
+      "answer": "ICECREAM",
+      "enumeration": "3,5",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The curved shape of a thin new moon",
+      "answer": "CRESCENT",
+      "row": 9,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 11,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person who catches fish for a living",
-      "answer": "FISHER",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "You hang clothes on it in the wardrobe",
-      "answer": "HANGER",
-      "row": 0,
+      "clue": "Able to wait calmly without complaining",
+      "answer": "PATIENT",
+      "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 2,
-      "col": 5,
+      "clue": "It stores power for toys, torches and remote controls",
+      "answer": "BATTERY",
+      "row": 5,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A flat touchscreen device, bigger than a phone",
-      "answer": "TABLET",
-      "row": 10,
+      "clue": "A shape with four equal sides and four right angles",
+      "answer": "SQUARE",
+      "row": 13,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A very deep valley carved by a river, like the Grand one in Arizona",
+      "answer": "CANYON",
+      "row": 3,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The opposite of hard",
-      "answer": "SOFT",
-      "row": 6,
-      "col": 0,
+      "clue": "A cold, treeless land where the ground stays frozen",
+      "answer": "TUNDRA",
+      "row": 0,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "Unhappy and bothered when things go wrong",
+      "answer": "UPSET",
+      "row": 3,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "To say numbers in order: one, two, three...",
+      "answer": "COUNT",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You eat soup and cereal with this",
+      "answer": "SPOON",
+      "row": 1,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The × sign, used for multiplying",
+      "answer": "TIMES",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A sandy shore where you build sandcastles",
+      "answer": "BEACH",
+      "row": 5,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 16,
   "targetWords": 16,
   "difficulty": "medium"
 }

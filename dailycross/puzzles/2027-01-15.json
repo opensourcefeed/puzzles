@@ -4,74 +4,74 @@
   "title": "2027-01-15",
   "words": [
     {
-      "clue": "A four-sided shape with just one pair of parallel sides",
-      "answer": "TRAPEZOID",
-      "row": 7,
+      "clue": "A sweet brown treat made from cocoa beans",
+      "answer": "CHOCOLATE",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
-      "row": 6,
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall pipe that carries smoke out through the roof",
+      "answer": "CHIMNEY",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Any flat shape made only of straight sides",
+      "answer": "POLYGON",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A strong-smelling bulb used to flavor cooking",
+      "answer": "GARLIC",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "One colorful piece of a flower",
+      "answer": "PETAL",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A crunchy red or green fruit; one a day keeps the doctor away",
+      "answer": "APPLE",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet, juicy tropical fruit with a big flat seed; India's national fruit",
+      "answer": "MANGO",
+      "row": 7,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
-      "row": 5,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 5,
-      "col": 3,
+      "clue": "The opposite of strong",
+      "answer": "WEAK",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A big, strong ape from the forest",
-      "answer": "GORILLA",
-      "row": 6,
-      "col": 6,
+      "clue": "A pretty flower with thorns on its stem",
+      "answer": "ROSE",
+      "row": 2,
+      "col": 8,
       "direction": "down"
-    },
-    {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling bad about something you did wrong",
-      "answer": "ASHAMED",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A famous telescope that takes pictures of deep space",
-      "answer": "HUBBLE",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The organ in your chest that pumps blood",
-      "answer": "HEART",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You sit on this in class",
-      "answer": "CHAIR",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
     }
   ],
   "dayNumber": 217

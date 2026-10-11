@@ -4,119 +4,105 @@
   "title": "Level 107",
   "words": [
     {
-      "clue": "A small pouch that holds your pens and pencils",
-      "answer": "PENCILCASE",
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
       "row": 7,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
+      "row": 5,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A small hand drum with jingling metal discs",
+      "answer": "TAMBOURINE",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
+      "row": 5,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A spiky tropical fruit, sweet and yellow inside",
-      "answer": "PINEAPPLE",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
     },
     {
       "clue": "Many days in a row of very hot weather",
       "answer": "HEATWAVE",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The strap that keeps you safe in a car seat",
-      "answer": "SEATBELT",
-      "row": 10,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A light, bright blue like the daytime sky",
-      "answer": "SKYBLUE",
-      "row": 6,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A bean used to make tofu and soy milk",
-      "answer": "SOYBEAN",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A page you visit online in a browser",
-      "answer": "WEBSITE",
-      "row": 14,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "You boil water in this",
-      "answer": "KETTLE",
-      "row": 12,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "Feeling unhappy when things don't go your way",
-      "answer": "UPSET",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The smallest finger on your hand",
-      "answer": "PINKY",
-      "row": 9,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The tiny points of light in the night sky",
-      "answer": "STARS",
       "row": 2,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "The opposite of clean",
-      "answer": "DIRTY",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
+      "clue": "A tall cupboard for hanging up your clothes",
+      "answer": "WARDROBE",
+      "row": 3,
+      "col": 3,
+      "direction": "across"
     },
     {
-      "clue": "A person whose job is to protect a place",
-      "answer": "GUARD",
-      "row": 2,
+      "clue": "The answer you get when you multiply",
+      "answer": "PRODUCT",
+      "row": 4,
       "col": 0,
       "direction": "down"
     },
     {
-      "clue": "The color of chocolate and tree bark",
-      "answer": "BROWN",
+      "clue": "Water in the form of a gas",
+      "answer": "VAPOR",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of true",
+      "answer": "FALSE",
       "row": 1,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
+      "row": 8,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The paved path that cars drive along",
-      "answer": "ROAD",
+      "clue": "The seat where substitutes wait to play",
+      "answer": "BENCH",
+      "row": 8,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A streetcar that runs on rails along city roads",
+      "answer": "TRAM",
       "row": 2,
-      "col": 6,
-      "direction": "across"
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A container with a handle and spout for pouring water",
+      "answer": "JUG",
+      "row": 11,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 14,
   "targetWords": 19,
   "difficulty": "hard"
 }

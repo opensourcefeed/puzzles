@@ -4,67 +4,74 @@
   "title": "2027-04-03",
   "words": [
     {
-      "clue": "It clips sheets of paper together",
-      "answer": "STAPLER",
-      "row": 7,
+      "clue": "A line joining two opposite corners",
+      "answer": "DIAGONAL",
+      "row": 4,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Feeling that good things are coming",
-      "answer": "HOPEFUL",
-      "row": 5,
+      "clue": "The opposite of wide",
+      "answer": "NARROW",
+      "row": 4,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A shooting star that zooms across the sky",
+      "answer": "METEOR",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "You stand under its spray to wash",
+      "answer": "SHOWER",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A structure that carries a road over water",
+      "answer": "BRIDGE",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "The farthest planet, a cold blue world",
-      "answer": "NEPTUNE",
-      "row": 6,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
-      "row": 11,
-      "col": 4,
+      "clue": "The opposite of top",
+      "answer": "BOTTOM",
+      "row": 0,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
-      "row": 8,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A perfectly round solid, like a ball",
-      "answer": "SPHERE",
+      "clue": "A tiny dried seed often cooked into soup or dal",
+      "answer": "LENTIL",
       "row": 5,
       "col": 1,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 0,
+      "clue": "A small, crunchy red root with a peppery taste",
+      "answer": "RADISH",
+      "row": 6,
       "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The stalk that holds a plant up",
-      "answer": "STEM",
-      "row": 9,
-      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A plant with lots of woody stems",
-      "answer": "BUSH",
-      "row": 5,
-      "col": 0,
+      "clue": "A slow animal that leaves a slimy trail",
+      "answer": "SNAIL",
+      "row": 3,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "Not wanting to do any work",
+      "answer": "LAZY",
+      "row": 10,
+      "col": 1,
+      "direction": "across"
     }
   ],
   "dayNumber": 295

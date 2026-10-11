@@ -4,67 +4,75 @@
   "title": "2027-08-02",
   "words": [
     {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
-      "row": 1,
+      "clue": "A red emergency vehicle with ladders and hoses",
+      "answer": "FIREENGINE",
+      "enumeration": "4,6",
+      "row": 5,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A spinning column of wind that touches the ground",
-      "answer": "TORNADO",
-      "row": 1,
+      "clue": "A thick, wet tropical forest, like the Amazon",
+      "answer": "RAINFOREST",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
+      "row": 5,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A two-wheeled ride you pedal with your feet",
-      "answer": "BICYCLE",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A jug with a handle and spout for pouring drinks",
-      "answer": "PITCHER",
-      "row": 4,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A perfectly round shape with no corners",
-      "answer": "CIRCLE",
+      "clue": "Different notes that sound nice played together",
+      "answer": "HARMONY",
       "row": 3,
       "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
+      "row": 1,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A computer that folds up so you can carry it",
-      "answer": "LAPTOP",
-      "row": 7,
+      "clue": "The opposite of awake",
+      "answer": "ASLEEP",
+      "row": 10,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The joint that connects your foot to your leg",
-      "answer": "ANKLE",
-      "row": 8,
-      "col": 2,
+      "clue": "A small pool of water on the ground after a shower",
+      "answer": "PUDDLE",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A hard hat that protects your head while riding",
+      "answer": "HELMET",
+      "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
+      "row": 1,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The color of chocolate and tree bark",
-      "answer": "BROWN",
-      "row": 4,
+      "clue": "The person in charge of a courtroom",
+      "answer": "JUDGE",
+      "row": 10,
       "col": 0,
       "direction": "across"
-    },
-    {
-      "clue": "A small, narrow stream",
-      "answer": "CREEK",
-      "row": 2,
-      "col": 10,
-      "direction": "down"
     }
   ],
   "dayNumber": 416

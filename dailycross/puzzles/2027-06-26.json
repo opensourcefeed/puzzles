@@ -4,60 +4,74 @@
   "title": "2027-06-26",
   "words": [
     {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
-      "row": 3,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
-      "row": 1,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 1,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet frozen treat made from milk",
-      "answer": "ICECREAM",
+      "clue": "You sing into it to make your voice louder",
+      "answer": "MICROPHONE",
       "row": 5,
-      "col": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 4,
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
+      "row": 0,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A loss in a game or contest",
-      "answer": "DEFEAT",
-      "row": 8,
+      "clue": "A spiky tropical fruit, sweet and yellow inside",
+      "answer": "PINEAPPLE",
+      "row": 3,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "One colorful piece of a flower",
-      "answer": "PETAL",
-      "row": 5,
-      "col": 9,
+      "clue": "A secret code that unlocks your account",
+      "answer": "PASSWORD",
+      "row": 9,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A spacecraft that could fly to space again and again",
+      "answer": "SHUTTLE",
+      "row": 4,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A shiny brass instrument with three valves",
+      "answer": "TRUMPET",
+      "row": 5,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A long-eared pet that hops and nibbles carrots",
+      "answer": "RABBIT",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "How high or low a sound is",
+      "answer": "PITCH",
+      "row": 0,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A desert animal with humps on its back",
+      "answer": "CAMEL",
+      "row": 0,
+      "col": 13,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of right",
+      "answer": "LEFT",
+      "row": 9,
+      "col": 8,
+      "direction": "across"
     }
   ],
   "dayNumber": 379

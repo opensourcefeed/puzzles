@@ -4,66 +4,73 @@
   "title": "2027-01-21",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 3,
-      "col": 0,
+      "clue": "Someone riding in a vehicle but not driving",
+      "answer": "PASSENGER",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "Very, very surprised or amazed",
-      "answer": "ASTONISHED",
-      "row": 0,
+      "clue": "A person who does experiments to learn how the world works",
+      "answer": "SCIENTIST",
+      "row": 4,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
+      "clue": "An animal that hunts other animals for food",
+      "answer": "PREDATOR",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
     },
     {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
-      "row": 0,
+      "clue": "You open it over your head when it pours",
+      "answer": "UMBRELLA",
+      "row": 4,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 14,
       "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A thick, hot forest full of plants and animals",
-      "answer": "JUNGLE",
-      "row": 0,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 9,
-      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 1,
-      "col": 5,
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "One of the straight edges of a shape",
-      "answer": "SIDE",
-      "row": 6,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A tiny insect that works in a big colony",
-      "answer": "ANT",
-      "row": 1,
+      "clue": "A device that plays sound out loud",
+      "answer": "SPEAKER",
+      "row": 7,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who is really good at sports",
+      "answer": "ATHLETE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of rough",
+      "answer": "SMOOTH",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A very deep valley carved by a river, like the Grand one in Arizona",
+      "answer": "CANYON",
+      "row": 0,
+      "col": 2,
       "direction": "down"
     }
   ],

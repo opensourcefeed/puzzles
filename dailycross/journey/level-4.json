@@ -4,39 +4,39 @@
   "title": "Level 4",
   "words": [
     {
-      "clue": "A clock that beeps to wake you up in the morning",
-      "answer": "ALARMCLOCK",
-      "row": 1,
+      "clue": "A big juicy fruit, green outside and red inside",
+      "answer": "WATERMELON",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A big white bear that lives in the Arctic",
-      "answer": "POLARBEAR",
+      "clue": "A person who travels into space",
+      "answer": "ASTRONAUT",
       "row": 0,
-      "col": 7,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
+      "clue": "To bring a file from the internet onto your device",
+      "answer": "DOWNLOAD",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
       "row": 1,
-      "col": 5,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "What the sky and air are doing outside",
-      "answer": "WEATHER",
-      "row": 6,
-      "col": 6,
+      "clue": "A strong farm vehicle that pulls heavy loads",
+      "answer": "TRACTOR",
+      "row": 0,
+      "col": 2,
       "direction": "across"
-    },
-    {
-      "clue": "You use this to taste your food",
-      "answer": "TONGUE",
-      "row": 1,
-      "col": 11,
-      "direction": "down"
     }
   ],
   "wordCount": 5,

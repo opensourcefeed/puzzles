@@ -4,67 +4,75 @@
   "title": "2027-04-29",
   "words": [
     {
-      "clue": "The opposite of visible",
-      "answer": "INVISIBLE",
+      "clue": "A flying machine with spinning blades on top",
+      "answer": "HELICOPTER",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Glad that a worry is finally over",
-      "answer": "RELIEVED",
+      "clue": "A zip-up pouch that holds everything you write with",
+      "answer": "PENCILCASE",
+      "enumeration": "6,4",
       "row": 2,
-      "col": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 5,
-      "col": 6,
+      "clue": "A sport where you hit a ball over a high net with your hands",
+      "answer": "VOLLEYBALL",
+      "row": 3,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A large flat dish for serving food",
-      "answer": "PLATTER",
-      "row": 11,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "You stand on it and push along with one foot",
-      "answer": "SCOOTER",
-      "row": 7,
+      "clue": "A very tall yellow flower whose seeds make a crunchy snack",
+      "answer": "SUNFLOWER",
+      "row": 10,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A person who is really good at sports",
-      "answer": "ATHLETE",
-      "row": 6,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
+      "clue": "Land almost surrounded by water but still joined to the mainland",
+      "answer": "PENINSULA",
       "row": 2,
-      "col": 1,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The color of a stop sign and strawberries",
-      "answer": "RED",
-      "row": 7,
-      "col": 10,
+      "clue": "A tube with lenses that makes faraway stars look close",
+      "answer": "TELESCOPE",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A flying animal that sleeps hanging upside down",
-      "answer": "BAT",
-      "row": 0,
-      "col": 6,
+      "clue": "A live show where musicians perform",
+      "answer": "CONCERT",
+      "row": 8,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The biggest bird in the world; it runs fast but can't fly",
+      "answer": "OSTRICH",
+      "row": 3,
+      "col": 7,
       "direction": "down"
+    },
+    {
+      "clue": "A smart, playful sea mammal that loves to leap and click",
+      "answer": "DOLPHIN",
+      "row": 1,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of early",
+      "answer": "LATE",
+      "row": 0,
+      "col": 9,
+      "direction": "across"
     }
   ],
   "dayNumber": 321

@@ -4,66 +4,73 @@
   "title": "2027-05-17",
   "words": [
     {
-      "clue": "Believing that good things are going to happen",
-      "answer": "OPTIMISTIC",
+      "clue": "How you feel when something unexpected happens",
+      "answer": "SURPRISED",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
-      "row": 1,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Having a strong reason to get something done",
-      "answer": "MOTIVATED",
+      "clue": "A very dark gray, like burnt wood",
+      "answer": "CHARCOAL",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A shape with five straight sides",
-      "answer": "PENTAGON",
+      "clue": "To make something look bigger than it is",
+      "answer": "MAGNIFY",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A dark leafy green that made Popeye strong",
+      "answer": "SPINACH",
       "row": 3,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A desert animal with humps on its back",
+      "answer": "CAMEL",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A fluffy farm animal that gives us wool",
+      "answer": "SHEEP",
+      "row": 3,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of full",
+      "answer": "EMPTY",
+      "row": 2,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A push or a pull",
+      "answer": "FORCE",
+      "row": 8,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A soft white food made from soybeans",
+      "answer": "TOFU",
+      "row": 0,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "Showing that you care about others",
-      "answer": "CARING",
-      "row": 7,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A small cupboard at school for your stuff",
-      "answer": "LOCKER",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A large stream of water flowing across the land",
-      "answer": "RIVER",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A tray on a desk for incoming papers",
-      "answer": "INBOX",
+      "clue": "What water does at 100 degrees Celsius",
+      "answer": "BOIL",
       "row": 1,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "Instruments you buzz your lips into, like a trumpet",
-      "answer": "BRASS",
-      "row": 5,
-      "col": 6,
+      "col": 0,
       "direction": "across"
     }
   ],

@@ -4,84 +4,112 @@
   "title": "Level 79",
   "words": [
     {
-      "clue": "A vehicle that rushes sick people to the hospital",
-      "answer": "AMBULANCE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Someone riding in a vehicle but not driving",
-      "answer": "PASSENGER",
-      "row": 3,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "An event where you jump as far forward as you can",
-      "answer": "LONGJUMP",
-      "row": 1,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "An electronic machine that runs programs",
-      "answer": "COMPUTER",
-      "row": 2,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 3,
-      "col": 13,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who puts up buildings",
-      "answer": "BUILDER",
-      "row": 10,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A round red fruit used in salads and sauces",
-      "answer": "TOMATO",
+      "clue": "A device that does sums for you",
+      "answer": "CALCULATOR",
       "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The color you get by mixing red and blue",
-      "answer": "PURPLE",
+      "clue": "The sport with hoops, dribbling and slam dunks",
+      "answer": "BASKETBALL",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
       "row": 6,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
+      "row": 4,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A bag with two straps that you carry your books in",
+      "answer": "BACKPACK",
+      "row": 5,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who serves in an army",
+      "answer": "SOLDIER",
+      "row": 11,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A two-wheeled ride you pedal",
+      "answer": "BICYCLE",
+      "row": 14,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "Land with water all around it",
+      "answer": "ISLAND",
+      "row": 5,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A fine powder made from wheat, used for baking",
+      "answer": "FLOUR",
+      "row": 7,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The clear liquid that all living things need",
-      "answer": "WATER",
-      "row": 5,
-      "col": 0,
+      "clue": "The opposite of neat and tidy",
+      "answer": "MESSY",
+      "row": 2,
+      "col": 12,
       "direction": "down"
+    },
+    {
+      "clue": "A large stream of water flowing across the land to the sea",
+      "answer": "RIVER",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The short stick runners pass in a relay race",
+      "answer": "BATON",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The green plant that covers a lawn",
+      "answer": "GRASS",
+      "row": 0,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A crunchy red or green fruit; one a day keeps the doctor away",
+      "answer": "APPLE",
+      "row": 3,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "wordCount": 11,
+  "wordCount": 15,
   "targetWords": 15,
   "difficulty": "medium"
 }

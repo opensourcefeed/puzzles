@@ -4,74 +4,74 @@
   "title": "2027-01-11",
   "words": [
     {
-      "clue": "It shows pictures big on a screen or wall",
-      "answer": "PROJECTOR",
+      "clue": "A bright flash in the sky during a storm",
+      "answer": "LIGHTNING",
       "row": 4,
-      "col": 0,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A place where ships are built and repaired",
-      "answer": "DOCKYARD",
+      "clue": "A flat breakfast treat served in a stack with syrup",
+      "answer": "PANCAKE",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "Out of a hundred, shown with the % sign",
+      "answer": "PERCENT",
+      "row": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A thousand thousands",
+      "answer": "MILLION",
       "row": 3,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The color of a carrot; red mixed with yellow",
-      "answer": "ORANGE",
-      "row": 4,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A colorful bird that can copy your words",
-      "answer": "PARROT",
+      "clue": "The opposite of a question",
+      "answer": "ANSWER",
       "row": 6,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "You flip it to turn a light on or off",
-      "answer": "SWITCH",
-      "row": 11,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "You write with it, and it can be erased",
-      "answer": "PENCIL",
-      "row": 4,
-      "col": 0,
+      "clue": "A grain that is ground into flour for bread",
+      "answer": "WHEAT",
+      "row": 3,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A dwarf planet once called the ninth planet",
-      "answer": "PLUTO",
+      "clue": "The two organs that fill with air when you breathe",
+      "answer": "LUNGS",
       "row": 0,
-      "col": 7,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The person who flies an airplane",
-      "answer": "PILOT",
-      "row": 1,
-      "col": 5,
+      "clue": "The soft side of your face below your eye",
+      "answer": "CHEEK",
+      "row": 8,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "A very dark blue",
-      "answer": "NAVY",
+      "clue": "A short piece of music with words you sing",
+      "answer": "SONG",
       "row": 9,
-      "col": 3,
+      "col": 0,
       "direction": "across"
+    },
+    {
+      "clue": "A plant like basil or parsley used to flavor food",
+      "answer": "HERB",
+      "row": 8,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 213

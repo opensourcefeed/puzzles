@@ -4,53 +4,74 @@
   "title": "2027-02-25",
   "words": [
     {
-      "clue": "A phone call where you can see each other",
-      "answer": "VIDEOCALL",
-      "row": 1,
+      "clue": "A book that tells you what words mean",
+      "answer": "DICTIONARY",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "It makes holes in paper for a binder",
-      "answer": "HOLEPUNCH",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A very tall, steep, rocky peak",
-      "answer": "MOUNTAIN",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A woodwind instrument with a reed and keys",
-      "answer": "CLARINET",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "How loud or soft the music is",
-      "answer": "VOLUME",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
+      "clue": "Running, jumping and throwing events on a track and field",
+      "answer": "ATHLETICS",
       "row": 2,
-      "col": 2,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "How you feel when something good happens",
-      "answer": "HAPPY",
-      "row": 8,
+      "clue": "The curved shape of a thin new moon",
+      "answer": "CRESCENT",
+      "row": 2,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Many days in a row of very hot weather",
+      "answer": "HEATWAVE",
+      "row": 9,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
+      "row": 5,
       "col": 4,
       "direction": "across"
+    },
+    {
+      "clue": "How you feel the night before your birthday party",
+      "answer": "EXCITED",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A big area covered with lots of trees",
+      "answer": "FOREST",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A very dry place that gets little rain, like the Sahara",
+      "answer": "DESERT",
+      "row": 0,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who makes music with their voice",
+      "answer": "SINGER",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "White flakes that fall in cold weather",
+      "answer": "SNOW",
+      "row": 1,
+      "col": 5,
+      "direction": "down"
     }
   ],
   "dayNumber": 258

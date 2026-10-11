@@ -4,67 +4,74 @@
   "title": "2027-12-04",
   "words": [
     {
-      "clue": "A person who designs buildings",
-      "answer": "ARCHITECT",
-      "row": 3,
-      "col": 0,
+      "clue": "Wireless tech, named after a Viking king, that links nearby devices",
+      "answer": "BLUETOOTH",
+      "row": 1,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Wireless tech that connects nearby devices",
-      "answer": "BLUETOOTH",
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
       "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
-      "row": 1,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The huge empty area beyond Earth's sky",
-      "answer": "SPACE",
+      "clue": "A sudden, very heavy fall of rain",
+      "answer": "DOWNPOUR",
       "row": 0,
-      "col": 2,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A deep, narrow valley with steep rocky sides",
-      "answer": "GORGE",
-      "row": 5,
-      "col": 5,
+      "clue": "Bright and full of good spirits",
+      "answer": "CHEERFUL",
+      "row": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who serves in an army",
+      "answer": "SOLDIER",
+      "row": 4,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of long",
-      "answer": "SHORT",
+      "clue": "A pass you buy before you ride a train or bus",
+      "answer": "TICKET",
       "row": 8,
-      "col": 5,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A hot tool that presses wrinkles out of clothes",
-      "answer": "IRON",
-      "row": 6,
-      "col": 1,
+      "clue": "A shaker filled with beads that rattles",
+      "answer": "MARACA",
+      "row": 4,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "The finger next to your little finger, where jewelry is often worn",
-      "answer": "RING",
-      "row": 6,
-      "col": 2,
+      "clue": "A flat Italian bread topped with tomato and cheese",
+      "answer": "PIZZA",
+      "row": 0,
+      "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A pale blue-green, like water",
-      "answer": "AQUA",
-      "row": 3,
+      "clue": "The × sign, used for multiplying",
+      "answer": "TIMES",
+      "row": 0,
       "col": 0,
       "direction": "down"
+    },
+    {
+      "clue": "Not wanting to do any work",
+      "answer": "LAZY",
+      "row": 6,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 540

@@ -4,74 +4,74 @@
   "title": "2028-01-12",
   "words": [
     {
-      "clue": "A person who gives emergency care before the hospital",
-      "answer": "PARAMEDIC",
-      "row": 5,
-      "col": 0,
+      "clue": "A running race of about 42 kilometers",
+      "answer": "MARATHON",
+      "row": 4,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A nut that grows underground and is made into butter",
-      "answer": "PEANUT",
-      "row": 4,
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "You fill it with water and soak in it",
+      "answer": "BATHTUB",
+      "row": 2,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A breakfast food you eat with milk",
-      "answer": "CEREAL",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A place on a computer for keeping files together",
-      "answer": "FOLDER",
-      "row": 0,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "Three or more notes played at the same time",
-      "answer": "CHORD",
-      "row": 7,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A small round fruit that grows in bunches",
-      "answer": "GRAPE",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "How you feel after doing something really well",
-      "answer": "PROUD",
-      "row": 5,
-      "col": 0,
+      "clue": "A small oval nut with a mild, sweet flavor",
+      "answer": "ALMOND",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
       "clue": "A fluffy farm animal that gives us wool",
       "answer": "SHEEP",
+      "row": 2,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A small flower with white petals and a yellow middle",
+      "answer": "DAISY",
       "row": 6,
-      "col": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The short, thick finger that helps you grip",
+      "answer": "THUMB",
+      "row": 1,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "You use this to eat, talk, and smile",
-      "answer": "MOUTH",
-      "row": 1,
-      "col": 1,
+      "clue": "A group that plays instruments together",
+      "answer": "BAND",
+      "row": 8,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "The opposite of right",
+      "answer": "LEFT",
+      "row": 2,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The red planet, fourth from the Sun",
+      "answer": "MARS",
+      "row": 3,
+      "col": 10,
+      "direction": "down"
     }
   ],
   "dayNumber": 579

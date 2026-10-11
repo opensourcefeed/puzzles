@@ -4,74 +4,75 @@
   "title": "2028-06-10",
   "words": [
     {
-      "clue": "The opposite of possible",
-      "answer": "IMPOSSIBLE",
+      "clue": "A little bent wire that holds pages together",
+      "answer": "PAPERCLIP",
+      "enumeration": "5,4",
       "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 1,
+      "clue": "A purple flower known for its calming smell",
+      "answer": "LAVENDER",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 2,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The official who makes sure players follow the rules",
-      "answer": "REFEREE",
-      "row": 4,
-      "col": 9,
+      "clue": "The distance straight across a circle through its middle",
+      "answer": "DIAMETER",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "An animal that builds dams out of wood",
-      "answer": "BEAVER",
-      "row": 8,
-      "col": 4,
+      "clue": "A big round world that circles a star",
+      "answer": "PLANET",
+      "row": 9,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A small group of trees",
-      "answer": "GROVE",
-      "row": 3,
+      "clue": "A structure that carries a road over water",
+      "answer": "BRIDGE",
+      "row": 0,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "You use these to see",
-      "answer": "EYES",
-      "row": 5,
-      "col": 9,
+      "clue": "It travels faster than anything else and lets us see",
+      "answer": "LIGHT",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "Information that is stored on a computer",
-      "answer": "DATA",
-      "row": 0,
-      "col": 8,
+      "clue": "A small green or black fruit, and its dull green color",
+      "answer": "OLIVE",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A straight mark between two points",
+      "answer": "LINE",
+      "row": 9,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A bright blue-green used in printing",
-      "answer": "CYAN",
-      "row": 10,
+      "clue": "A flower before it opens up",
+      "answer": "BUD",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The limb between your shoulder and your hand",
+      "answer": "ARM",
+      "row": 12,
       "col": 5,
       "direction": "across"
-    },
-    {
-      "clue": "Tiny grains of rock found on a beach",
-      "answer": "SAND",
-      "row": 5,
-      "col": 12,
-      "direction": "down"
     }
   ],
   "dayNumber": 729

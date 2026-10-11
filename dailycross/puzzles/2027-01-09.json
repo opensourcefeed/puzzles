@@ -4,66 +4,73 @@
   "title": "2027-01-09",
   "words": [
     {
-      "clue": "The little hairs on the edge of your eyelids",
-      "answer": "EYELASHES",
+      "clue": "The person who hands out medicine at a chemist's",
+      "answer": "PHARMACIST",
       "row": 5,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "It makes a pencil pointy again",
-      "answer": "SHARPENER",
+      "clue": "A tube with lenses that makes faraway stars look close",
+      "answer": "TELESCOPE",
+      "row": 0,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The loud boom that follows a flash in a storm",
+      "answer": "THUNDER",
+      "row": 5,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A wire that charges or connects your devices",
+      "answer": "CABLE",
+      "row": 2,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The darkest color, like the night sky",
+      "answer": "BLACK",
       "row": 3,
       "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The program you use to visit websites",
-      "answer": "BROWSER",
+      "clue": "The five lines that music is written on",
+      "answer": "STAFF",
+      "row": 0,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who shows tourists around",
+      "answer": "GUIDE",
+      "row": 7,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of fresh snow and milk",
+      "answer": "WHITE",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The short, thick finger that helps you grip",
+      "answer": "THUMB",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
+      "clue": "A big test at the end of term",
+      "answer": "EXAM",
       "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who makes music with their voice",
-      "answer": "SINGER",
-      "row": 5,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A famous telescope that takes pictures of deep space",
-      "answer": "HUBBLE",
-      "row": 0,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 7,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 9,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "A small group of trees",
-      "answer": "GROVE",
-      "row": 1,
-      "col": 2,
+      "col": 6,
       "direction": "down"
     }
   ],

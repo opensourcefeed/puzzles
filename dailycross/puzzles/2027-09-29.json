@@ -4,60 +4,74 @@
   "title": "2027-09-29",
   "words": [
     {
-      "clue": "Where a river drops straight down over the edge of a cliff",
-      "answer": "WATERFALL",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "It turns paper pages into computer files",
-      "answer": "SCANNER",
-      "row": 3,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling sad because you are all alone",
-      "answer": "LONELY",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The tap that water comes out of",
-      "answer": "FAUCET",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet syrup from tree sap, poured on pancakes",
-      "answer": "MAPLE",
-      "row": 2,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The seat where players wait when not playing",
-      "answer": "BENCH",
+      "clue": "Wide open country like the prairie or savanna",
+      "answer": "GRASSLAND",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The + sign, used for adding",
-      "answer": "PLUS",
-      "row": 4,
-      "col": 9,
+      "clue": "A brass instrument with a sliding tube",
+      "answer": "TROMBONE",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A small, crunchy red root with a peppery taste",
+      "answer": "RADISH",
+      "row": 2,
+      "col": 6,
+      "direction": "down"
+    },
+    {
+      "clue": "A sailing boat used for racing or holidays",
+      "answer": "YACHT",
+      "row": 7,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A person who makes bread and cakes to sell",
+      "answer": "BAKER",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Pressing and letting go of a mouse button",
+      "answer": "CLICK",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A group of people who sing together",
+      "answer": "CHOIR",
+      "row": 10,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A thin, white layer of ice on cold mornings",
+      "answer": "FROST",
+      "row": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "Carriages pulled along railway tracks by an engine",
+      "answer": "TRAIN",
+      "row": 1,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A tall plant with a thick, wooden trunk",
+      "answer": "TREE",
+      "row": 7,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 474

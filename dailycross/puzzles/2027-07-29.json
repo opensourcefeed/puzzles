@@ -4,60 +4,74 @@
   "title": "2027-07-29",
   "words": [
     {
-      "clue": "Furniture with shelves for holding your books",
-      "answer": "BOOKSHELF",
+      "clue": "A two-wheeled vehicle with an engine",
+      "answer": "MOTORCYCLE",
       "row": 3,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
-      "row": 2,
-      "col": 4,
+      "clue": "A plastic pipe many children learn to play at school",
+      "answer": "RECORDER",
+      "row": 3,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Feeling grateful for something",
-      "answer": "THANKFUL",
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
       "row": 2,
-      "col": 7,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
       "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who raises cattle on a ranch",
-      "answer": "RANCHER",
-      "row": 1,
+      "clue": "Sliding down snowy mountains on two long boards",
+      "answer": "SKIING",
+      "row": 5,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A person whose job is to clean buildings",
-      "answer": "CLEANER",
-      "row": 9,
-      "col": 6,
+      "clue": "The short stick runners pass in a relay race",
+      "answer": "BATON",
+      "row": 5,
+      "col": 8,
       "direction": "across"
     },
     {
-      "clue": "A spot where water flows out of the ground",
-      "answer": "SPRING",
-      "row": 5,
-      "col": 10,
+      "clue": "The color of fresh snow and milk",
+      "answer": "WHITE",
+      "row": 0,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "The joint that connects your foot to your leg",
-      "answer": "ANKLE",
-      "row": 0,
+      "clue": "A glass shape that splits light into a rainbow",
+      "answer": "PRISM",
+      "row": 8,
       "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "A very dark blue, like a sailor's uniform",
+      "answer": "NAVY",
+      "row": 0,
+      "col": 8,
       "direction": "down"
+    },
+    {
+      "clue": "A bird that stays up at night and hoots",
+      "answer": "OWL",
+      "row": 0,
+      "col": 3,
+      "direction": "across"
     }
   ],
   "dayNumber": 412

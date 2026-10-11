@@ -4,60 +4,74 @@
   "title": "2028-01-20",
   "words": [
     {
-      "clue": "A phone you can also browse the internet on",
-      "answer": "SMARTPHONE",
-      "row": 3,
+      "clue": "The elected leader of some countries",
+      "answer": "PRESIDENT",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 2,
-      "col": 3,
+      "clue": "The part of your face above your eyebrows",
+      "answer": "FOREHEAD",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A sport where you throw a long spear as far as you can",
-      "answer": "JAVELIN",
-      "row": 0,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of deep",
-      "answer": "SHALLOW",
-      "row": 2,
+      "clue": "A small animal covered in spines that curls into a ball",
+      "answer": "HEDGEHOG",
+      "row": 4,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 3,
-      "col": 0,
+      "clue": "A bird that fans out a huge tail covered in eye patterns",
+      "answer": "PEACOCK",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 5,
+      "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Feeling completely full of happiness",
-      "answer": "JOYFUL",
-      "row": 7,
+      "clue": "Steps that take you from one floor to another",
+      "answer": "STAIRS",
+      "row": 0,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of a question",
+      "answer": "ANSWER",
+      "row": 2,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of neat and tidy",
+      "answer": "MESSY",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A small, still body of water where ducks swim",
+      "answer": "POND",
+      "row": 10,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A message you send to someone over the internet",
-      "answer": "EMAIL",
-      "row": 1,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "The + sign, used for adding",
-      "answer": "PLUS",
-      "row": 5,
-      "col": 5,
-      "direction": "across"
+      "clue": "Information stored on a computer",
+      "answer": "DATA",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
     }
   ],
   "dayNumber": 587

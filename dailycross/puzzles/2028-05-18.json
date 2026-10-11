@@ -4,59 +4,73 @@
   "title": "2028-05-18",
   "words": [
     {
-      "clue": "A big pile of snow blown together by the wind",
-      "answer": "SNOWDRIFT",
-      "row": 4,
-      "col": 2,
+      "clue": "A half-circle tool for measuring angles",
+      "answer": "PROTRACTOR",
+      "row": 7,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Really interested and involved in something",
-      "answer": "ENGAGED",
-      "row": 3,
-      "col": 3,
+      "clue": "A red, heart-shaped fruit with seeds on the outside",
+      "answer": "STRAWBERRY",
+      "row": 5,
+      "col": 4,
       "direction": "down"
     },
     {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 4,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "When the Moon or Sun is blocked and goes dark",
-      "answer": "ECLIPSE",
-      "row": 8,
+      "clue": "Where a river drops straight down over a cliff",
+      "answer": "WATERFALL",
+      "row": 9,
       "col": 4,
       "direction": "across"
     },
     {
-      "clue": "You use it to control the TV from your seat",
-      "answer": "REMOTE",
-      "row": 0,
-      "col": 10,
+      "clue": "The person who stamps your books and helps you find the next one",
+      "answer": "LIBRARIAN",
+      "row": 4,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "A person who creates paintings and drawings",
-      "answer": "ARTIST",
-      "row": 1,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The program you use to visit websites",
+      "answer": "BROWSER",
+      "row": 8,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The biggest animal in the ocean",
-      "answer": "WHALE",
-      "row": 1,
-      "col": 6,
+      "clue": "A number with a point in it, like 2.5",
+      "answer": "DECIMAL",
+      "row": 0,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "A small flower with white petals and a yellow middle",
+      "answer": "DAISY",
+      "row": 12,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "Another name for a bicycle",
-      "answer": "BIKE",
+      "clue": "A sweet, juicy tropical fruit with a big flat seed; India's national fruit",
+      "answer": "MANGO",
       "row": 8,
-      "col": 0,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep red gemstone",
+      "answer": "RUBY",
+      "row": 14,
+      "col": 8,
       "direction": "across"
     }
   ],

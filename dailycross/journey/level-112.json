@@ -4,105 +4,141 @@
   "title": "Level 112",
   "words": [
     {
-      "clue": "A large group of musicians who play together",
-      "answer": "ORCHESTRA",
+      "clue": "A tool that makes tiny things look big",
+      "answer": "MICROSCOPE",
       "row": 7,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "An object that circles a planet to send signals",
-      "answer": "SATELLITE",
-      "row": 4,
+      "clue": "A person who runs a small store",
+      "answer": "SHOPKEEPER",
+      "row": 5,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A sudden, very heavy fall of rain",
-      "answer": "DOWNPOUR",
-      "row": 6,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "An event where you jump as far forward as you can",
-      "answer": "LONGJUMP",
-      "row": 9,
-      "col": 6,
-      "direction": "across"
-    },
-    {
-      "clue": "A bushy-tailed animal that hides nuts",
-      "answer": "SQUIRREL",
-      "row": 12,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
-      "row": 6,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A set of instructions that tells a computer what to do",
-      "answer": "PROGRAM",
-      "row": 6,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A long stretch of time with no rain",
-      "answer": "DROUGHT",
+      "clue": "The distance all the way around a shape",
+      "answer": "PERIMETER",
       "row": 6,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A person whose job is to clean buildings",
-      "answer": "CLEANER",
-      "row": 5,
+      "clue": "A tube with lenses that makes faraway stars look close",
+      "answer": "TELESCOPE",
+      "row": 11,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Wanting what someone else has",
-      "answer": "JEALOUS",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A small group of trees",
-      "answer": "GROVE",
-      "row": 1,
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
+      "row": 2,
       "col": 8,
       "direction": "down"
     },
     {
-      "clue": "The color of chocolate and tree bark",
-      "answer": "BROWN",
+      "clue": "Missing your family while you're away",
+      "answer": "HOMESICK",
       "row": 3,
-      "col": 6,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "A black-and-white bear that loves bamboo",
-      "answer": "PANDA",
+      "clue": "A precious blue gemstone",
+      "answer": "SAPPHIRE",
+      "row": 14,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A black woodwind instrument with a reed and silver keys",
+      "answer": "CLARINET",
       "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "A small animal covered in spines that curls into a ball",
+      "answer": "HEDGEHOG",
+      "row": 5,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "The outer layer that covers your whole body",
-      "answer": "SKIN",
+      "clue": "The person who takes your money at the checkout",
+      "answer": "CASHIER",
       "row": 0,
-      "col": 10,
+      "col": 3,
       "direction": "down"
+    },
+    {
+      "clue": "Only caring about yourself",
+      "answer": "SELFISH",
+      "row": 5,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The fastest runner on land, covered in spots",
+      "answer": "CHEETAH",
+      "row": 8,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
+      "row": 0,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance from a circle's middle to its edge",
+      "answer": "RADIUS",
+      "row": 9,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "The sport of moving a boat with oars",
+      "answer": "ROWING",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
+      "row": 13,
+      "col": 8,
+      "direction": "across"
+    },
+    {
+      "clue": "Harmful software that spreads between computers; also a germ",
+      "answer": "VIRUS",
+      "row": 1,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "Instructions written for a computer",
+      "answer": "CODE",
+      "row": 11,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Air and steam are both in this state of matter",
+      "answer": "GAS",
+      "row": 5,
+      "col": 4,
+      "direction": "across"
     }
   ],
-  "wordCount": 14,
+  "wordCount": 19,
   "targetWords": 20,
   "difficulty": "hard"
 }

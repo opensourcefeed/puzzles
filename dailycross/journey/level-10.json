@@ -4,42 +4,50 @@
   "title": "Level 10",
   "words": [
     {
-      "clue": "A tool with two blades for cutting paper",
-      "answer": "SCISSORS",
-      "row": 0,
+      "clue": "The big wipe-clean surface teachers write on with markers",
+      "answer": "WHITEBOARD",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "It clips sheets of paper together",
-      "answer": "STAPLER",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "Really wanting to learn or find out more",
-      "answer": "CURIOUS",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who works on a ship out at sea",
-      "answer": "SAILOR",
-      "row": 2,
+      "clue": "A pretty insect with colorful wings that used to be a caterpillar",
+      "answer": "BUTTERFLY",
+      "row": 3,
       "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A container that carries your midday meal to school",
+      "answer": "LUNCHBOX",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A sweet frozen treat you lick from a cone",
+      "answer": "ICECREAM",
+      "enumeration": "3,5",
+      "row": 3,
+      "col": 4,
       "direction": "across"
     },
     {
-      "clue": "The spots where two bones meet and bend",
-      "answer": "JOINTS",
-      "row": 1,
-      "col": 7,
+      "clue": "The panel of keys you type on",
+      "answer": "KEYBOARD",
+      "row": 11,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "A machine that puts your work onto paper",
+      "answer": "PRINTER",
+      "row": 4,
+      "col": 8,
       "direction": "down"
     }
   ],
-  "wordCount": 5,
+  "wordCount": 6,
   "targetWords": 6,
   "difficulty": "easy"
 }

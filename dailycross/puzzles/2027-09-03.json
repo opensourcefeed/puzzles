@@ -4,73 +4,74 @@
   "title": "2027-09-03",
   "words": [
     {
-      "clue": "The 'brain' chip of a computer",
-      "answer": "PROCESSOR",
-      "row": 5,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who puts up buildings",
-      "answer": "BUILDER",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A small nut with a mild, sweet flavor",
-      "answer": "ALMOND",
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
       "row": 3,
-      "col": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The little seed hidden inside a shell, like in a nut",
-      "answer": "KERNEL",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of clean",
-      "answer": "DIRTY",
-      "row": 3,
+      "clue": "A person watching a game from the stands",
+      "answer": "SPECTATOR",
+      "row": 1,
       "col": 10,
       "direction": "down"
     },
     {
-      "clue": "A soft orange-pink, like the fruit",
-      "answer": "PEACH",
-      "row": 9,
-      "col": 0,
+      "clue": "An object that pulls iron and steel toward it",
+      "answer": "MAGNET",
+      "row": 5,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A group of web pages that share one name",
-      "answer": "SITE",
-      "row": 5,
-      "col": 8,
+      "clue": "The opposite of start",
+      "answer": "FINISH",
+      "row": 3,
+      "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The bright object that circles Earth at night",
-      "answer": "MOON",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A pale blue-green, like water",
-      "answer": "AQUA",
-      "row": 1,
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 3,
       "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A nut that grows underground and is made into butter",
+      "answer": "PEANUT",
+      "row": 7,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The small nut of an oak tree that squirrels collect",
+      "answer": "ACORN",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of rich",
+      "answer": "POOR",
+      "row": 2,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "The top covering of a house",
+      "answer": "ROOF",
+      "row": 0,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "Caring and gentle toward others",
+      "answer": "KIND",
+      "row": 6,
+      "col": 0,
       "direction": "across"
     }
   ],

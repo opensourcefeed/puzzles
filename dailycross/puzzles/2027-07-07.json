@@ -4,73 +4,73 @@
   "title": "2027-07-07",
   "words": [
     {
-      "clue": "A phone you can also browse the internet on",
-      "answer": "SMARTPHONE",
+      "clue": "The science of stars, planets, and space",
+      "answer": "ASTRONOMY",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A long, wiggly animal that lives in the soil",
+      "answer": "EARTHWORM",
+      "row": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The part of your face above your eyebrows",
+      "answer": "FOREHEAD",
+      "row": 4,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling bad about something wrong you did",
+      "answer": "ASHAMED",
+      "row": 7,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
       "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A green fruit with a big pit inside",
-      "answer": "AVOCADO",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A dark brownish-red",
-      "answer": "MAROON",
+      "clue": "Where a computer keeps what it's working on; also your power to remember",
+      "answer": "MEMORY",
       "row": 0,
-      "col": 7,
+      "col": 10,
       "direction": "down"
     },
     {
-      "clue": "You flip it to turn a light on or off",
-      "answer": "SWITCH",
-      "row": 0,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A cloud of gas and dust where new stars are born",
-      "answer": "NEBULA",
-      "row": 5,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A warm yellow-brown",
-      "answer": "AMBER",
+      "clue": "A flat dish you eat your dinner off",
+      "answer": "PLATE",
       "row": 1,
-      "col": 7,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "A long chain of mountains",
-      "answer": "RANGE",
-      "row": 7,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of day",
-      "answer": "NIGHT",
-      "row": 5,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A ball game played on horseback with a long stick",
-      "answer": "POLO",
+      "clue": "The part of your face below your mouth",
+      "answer": "CHIN",
       "row": 3,
-      "col": 11,
+      "col": 0,
       "direction": "down"
     },
     {
-      "clue": "To move through water using your arms and legs",
-      "answer": "SWIM",
-      "row": 0,
-      "col": 4,
+      "clue": "A tall plant with a thick, wooden trunk",
+      "answer": "TREE",
+      "row": 9,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep red gemstone",
+      "answer": "RUBY",
+      "row": 4,
+      "col": 10,
       "direction": "across"
     }
   ],

@@ -4,73 +4,73 @@
   "title": "2027-11-01",
   "words": [
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
-      "row": 4,
-      "col": 0,
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 3,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A long, wiggly animal that lives in the soil",
-      "answer": "EARTHWORM",
-      "row": 1,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "The sloping side of a hill",
-      "answer": "HILLSIDE",
+      "clue": "A spinning funnel of wind that touches the ground",
+      "answer": "TORNADO",
       "row": 3,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A room full of books you can borrow",
-      "answer": "LIBRARY",
-      "row": 6,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The sport of moving fast on your feet",
-      "answer": "RUNNING",
-      "row": 8,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A passage that goes through or under something",
-      "answer": "TUNNEL",
+      "clue": "The season when flowers bloom after winter",
+      "answer": "SPRING",
       "row": 5,
       "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The flap of skin that closes when you blink",
+      "answer": "EYELID",
+      "row": 8,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The distance from a circle's middle to its edge",
+      "answer": "RADIUS",
+      "row": 2,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "You move it to point the arrow on the screen",
-      "answer": "MOUSE",
+      "clue": "The person in charge of a courtroom",
+      "answer": "JUDGE",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "You hit it with sticks to keep the beat",
+      "answer": "DRUM",
       "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A seat with a back and legs, for one person",
-      "answer": "CHAIR",
-      "row": 1,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A huge brass instrument with a deep, low sound",
-      "answer": "TUBA",
-      "row": 2,
-      "col": 2,
+      "clue": "You bake cakes and roast food inside this",
+      "answer": "OVEN",
+      "row": 9,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A thin, light fog close to the ground",
-      "answer": "MIST",
+      "clue": "A short typed message sent from a phone",
+      "answer": "TEXT",
       "row": 0,
-      "col": 3,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "The piece of furniture you sleep on",
+      "answer": "BED",
+      "row": 1,
+      "col": 4,
       "direction": "across"
     }
   ],

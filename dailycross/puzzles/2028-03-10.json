@@ -4,73 +4,74 @@
   "title": "2028-03-10",
   "words": [
     {
-      "clue": "The place where deleted files go on a computer",
-      "answer": "RECYCLEBIN",
-      "row": 5,
-      "col": 0,
+      "clue": "The big white hunter of the Arctic, which swims after seals",
+      "answer": "POLARBEAR",
+      "enumeration": "5,4",
+      "row": 1,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "A machine with a big blade that pushes earth",
-      "answer": "BULLDOZER",
-      "row": 10,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "Instruments you blow air through, like a flute",
-      "answer": "WOODWIND",
+      "clue": "A scientist who studies animals",
+      "answer": "ZOOLOGIST",
       "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "White or grey puffs floating in the sky",
-      "answer": "CLOUDS",
-      "row": 5,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A shiny light gray, like the metal",
-      "answer": "SILVER",
-      "row": 12,
       "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A card with your name and photo on it",
-      "answer": "IDCARD",
-      "row": 3,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A wet mix of rain and snow",
-      "answer": "SLEET",
-      "row": 3,
-      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A very pale yellow, like the top of milk",
-      "answer": "CREAM",
-      "row": 4,
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
+      "row": 1,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Feeling confused by something tricky",
+      "answer": "PUZZLED",
+      "row": 3,
       "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
+      "row": 1,
+      "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A tall tropical tree with big leaves, seen on beaches",
-      "answer": "PALM",
-      "row": 8,
-      "col": 7,
+      "clue": "The coldest, snowiest season",
+      "answer": "WINTER",
+      "row": 7,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of leave",
+      "answer": "ARRIVE",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "A sound that bounces back to you",
+      "answer": "ECHO",
+      "row": 5,
+      "col": 11,
+      "direction": "across"
+    },
+    {
+      "clue": "Drops of water that fall from the clouds",
+      "answer": "RAIN",
+      "row": 1,
+      "col": 11,
+      "direction": "across"
+    },
+    {
+      "clue": "A mistake in a program, or a tiny insect",
+      "answer": "BUG",
+      "row": 2,
+      "col": 1,
       "direction": "down"
     }
   ],

@@ -4,66 +4,74 @@
   "title": "2027-10-18",
   "words": [
     {
-      "clue": "A huge ship that carries goods across the ocean",
-      "answer": "CARGOSHIP",
-      "row": 3,
+      "clue": "Talking on a screen while you see each other's faces",
+      "answer": "VIDEOCALL",
+      "enumeration": "5,4",
+      "row": 5,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 1,
-      "col": 5,
+      "clue": "A yellow weed whose fluffy seed head you blow on to make a wish",
+      "answer": "DANDELION",
+      "row": 4,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A green vegetable that looks like a tiny tree",
-      "answer": "BROCCOLI",
-      "row": 2,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "The joint that connects your arm to your body",
-      "answer": "SHOULDER",
-      "row": 5,
+      "clue": "A bright, fiery red",
+      "answer": "SCARLET",
+      "row": 0,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "It browns your slices of bread",
-      "answer": "TOASTER",
+      "clue": "A person who fixes leaky pipes and taps",
+      "answer": "PLUMBER",
       "row": 9,
       "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A small juicy fruit often used in jam",
-      "answer": "BERRY",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "A green, watery spot in the middle of a desert",
-      "answer": "OASIS",
-      "row": 0,
-      "col": 7,
-      "direction": "down"
-    },
-    {
-      "clue": "A boat that carries people and cars across water",
-      "answer": "FERRY",
-      "row": 7,
-      "col": 4,
+      "clue": "A computer that folds shut so you can carry it",
+      "answer": "LAPTOP",
+      "row": 2,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A thin layer of ice on cold surfaces",
-      "answer": "FROST",
+      "clue": "Feeling sad because you have no one to play with",
+      "answer": "LONELY",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "Where a computer keeps what it's working on; also your power to remember",
+      "answer": "MEMORY",
+      "row": 7,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of day",
+      "answer": "NIGHT",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of buy",
+      "answer": "SELL",
       "row": 0,
-      "col": 5,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "The roped square where a boxing match takes place",
+      "answer": "RING",
+      "row": 12,
+      "col": 4,
       "direction": "across"
     }
   ],

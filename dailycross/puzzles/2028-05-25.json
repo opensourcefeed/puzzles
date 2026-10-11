@@ -4,60 +4,74 @@
   "title": "2028-05-25",
   "words": [
     {
-      "clue": "A person who gives emergency care before the hospital",
-      "answer": "PARAMEDIC",
-      "row": 2,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Feeling confused by something tricky",
-      "answer": "PUZZLED",
-      "row": 2,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A long stick used to point at the board",
-      "answer": "POINTER",
-      "row": 6,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "You stand on it and push along with one foot",
-      "answer": "SCOOTER",
-      "row": 4,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A round vegetable made of tightly packed leaves",
-      "answer": "CABBAGE",
-      "row": 0,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A structure that carries a road over water",
-      "answer": "BRIDGE",
-      "row": 8,
+      "clue": "A scientist who studies animals",
+      "answer": "ZOOLOGIST",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Showing lots of love and affection",
-      "answer": "LOVING",
-      "row": 3,
+      "clue": "You open it over your head when it pours",
+      "answer": "UMBRELLA",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A solid with two round ends, like a can",
+      "answer": "CYLINDER",
+      "row": 4,
       "col": 6,
       "direction": "down"
+    },
+    {
+      "clue": "A person who cuts and sells meat",
+      "answer": "BUTCHER",
+      "row": 4,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "You write with it, and it can be erased",
+      "answer": "PENCIL",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The blinking line or arrow that shows where you are on screen",
+      "answer": "CURSOR",
+      "row": 3,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "An eight-legged creature that spins a web",
+      "answer": "SPIDER",
+      "row": 8,
+      "col": 9,
+      "direction": "down"
+    },
+    {
+      "clue": "Any one of the numbers 0 to 9",
+      "answer": "DIGIT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A tiny squeaky animal, or the thing you click a computer with",
+      "answer": "MOUSE",
+      "row": 12,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A pink farm animal with a curly tail that says oink",
+      "answer": "PIG",
+      "row": 1,
+      "col": 4,
+      "direction": "across"
     }
   ],
   "dayNumber": 713

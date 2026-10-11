@@ -4,73 +4,74 @@
   "title": "2026-10-17",
   "words": [
     {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 6,
-      "col": 0,
+      "clue": "A ship that can travel deep underwater",
+      "answer": "SUBMARINE",
+      "row": 5,
+      "col": 3,
       "direction": "across"
     },
     {
-      "clue": "The big board in class that teachers write on with markers",
-      "answer": "WHITEBOARD",
-      "row": 4,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The little hairs above your eyes",
-      "answer": "EYEBROWS",
-      "row": 8,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who makes music with their voice",
-      "answer": "SINGER",
-      "row": 4,
+      "clue": "An electronic machine that runs programs",
+      "answer": "COMPUTER",
+      "row": 3,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The yellow dust made by flowers",
-      "answer": "POLLEN",
-      "row": 7,
+      "clue": "The break in the middle of a game",
+      "answer": "HALFTIME",
+      "row": 0,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
-      "row": 4,
-      "col": 6,
+      "clue": "An event where you run and leap into a sandpit",
+      "answer": "LONGJUMP",
+      "enumeration": "4,4",
+      "row": 7,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "The row of bones running down your back",
-      "answer": "SPINE",
-      "row": 11,
-      "col": 5,
+      "clue": "Only caring about yourself",
+      "answer": "SELFISH",
+      "row": 2,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A small round fruit that grows in bunches",
-      "answer": "GRAPE",
-      "row": 8,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Pleasant sounds put together for us to enjoy",
-      "answer": "MUSIC",
+      "clue": "A hard, hairy fruit with white flesh and water inside",
+      "answer": "COCONUT",
       "row": 6,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
+      "row": 10,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The color of a banana or a school bus",
+      "answer": "YELLOW",
+      "row": 4,
       "col": 11,
       "direction": "down"
     },
     {
-      "clue": "The person who flies an airplane",
-      "answer": "PILOT",
-      "row": 0,
-      "col": 11,
+      "clue": "The opposite of top",
+      "answer": "BOTTOM",
+      "row": 12,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A big trumpet-shaped flower; its flat pads float on ponds",
+      "answer": "LILY",
+      "row": 8,
+      "col": 8,
       "direction": "down"
     }
   ],

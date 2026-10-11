@@ -4,70 +4,84 @@
   "title": "Level 45",
   "words": [
     {
-      "clue": "A scientist who studies stars and planets",
-      "answer": "ASTRONOMER",
-      "row": 4,
+      "clue": "Annoyed because something keeps going wrong",
+      "answer": "FRUSTRATED",
+      "row": 7,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A screen that shows shows and movies",
-      "answer": "TELEVISION",
-      "row": 1,
-      "col": 8,
+      "clue": "A person who builds things out of wood",
+      "answer": "CARPENTER",
+      "row": 6,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "A boat that can travel underwater",
-      "answer": "SUBMARINE",
-      "row": 6,
+      "clue": "The panel of keys you type on",
+      "answer": "KEYBOARD",
+      "row": 10,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who gathers and tells the news",
+      "answer": "REPORTER",
+      "row": 7,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The smallest planet, closest to the Sun",
+      "answer": "MERCURY",
+      "row": 13,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who sells bunches of flowers",
+      "answer": "FLORIST",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Wishing and expecting that good things will happen",
+      "answer": "HOPEFUL",
+      "row": 4,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A dark cloud that brings rain",
-      "answer": "RAINCLOUD",
-      "row": 3,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A bright blue, like the gemstone",
-      "answer": "SAPPHIRE",
-      "row": 8,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A board where students' work is shown off",
-      "answer": "DISPLAY",
-      "row": 11,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "Really interested and involved in something",
-      "answer": "ENGAGED",
-      "row": 1,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A short race run as fast as you can",
-      "answer": "SPRINT",
+      "clue": "The hottest season of the year",
+      "answer": "SUMMER",
       "row": 0,
       "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A perfectly round shape with no corners",
-      "answer": "CIRCLE",
+      "clue": "The main tune of a song",
+      "answer": "MELODY",
       "row": 2,
-      "col": 3,
+      "col": 5,
       "direction": "across"
+    },
+    {
+      "clue": "A loss in a game or contest",
+      "answer": "DEFEAT",
+      "row": 6,
+      "col": 10,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who cuts men's hair and trims beards",
+      "answer": "BARBER",
+      "row": 2,
+      "col": 1,
+      "direction": "down"
     }
   ],
-  "wordCount": 9,
+  "wordCount": 11,
   "targetWords": 11,
   "difficulty": "medium"
 }

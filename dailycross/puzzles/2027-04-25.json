@@ -4,53 +4,74 @@
   "title": "2027-04-25",
   "words": [
     {
-      "clue": "Able to feel what other people are feeling",
-      "answer": "EMPATHETIC",
-      "row": 1,
+      "clue": "Where you go on the swings and slide at break time",
+      "answer": "PLAYGROUND",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "The opposite of patient",
-      "answer": "IMPATIENT",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A person who gives emergency care before the hospital",
-      "answer": "PARAMEDIC",
-      "row": 0,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A school book for learning a subject",
-      "answer": "TEXTBOOK",
+      "clue": "Instruments you hit or shake, like drums",
+      "answer": "PERCUSSION",
       "row": 1,
-      "col": 7,
+      "col": 5,
       "direction": "down"
     },
     {
-      "clue": "A group of stars pulled together by gravity",
-      "answer": "CLUSTER",
-      "row": 1,
+      "clue": "Very light rain falling in fine drops",
+      "answer": "DRIZZLE",
+      "row": 3,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A round red fruit used in salads and sauces",
-      "answer": "TOMATO",
-      "row": 4,
-      "col": 1,
+      "clue": "A small string instrument tucked under your chin and played with a bow",
+      "answer": "VIOLIN",
+      "row": 8,
+      "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The place where a river begins",
-      "answer": "SOURCE",
-      "row": 7,
-      "col": 6,
+      "clue": "A wax stick with a wick that you light",
+      "answer": "CANDLE",
+      "row": 2,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "You taste your food with this",
+      "answer": "TONGUE",
+      "row": 10,
+      "col": 3,
       "direction": "across"
+    },
+    {
+      "clue": "A flat dish you eat your dinner off",
+      "answer": "PLATE",
+      "row": 1,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "How fast or slow the music is played",
+      "answer": "TEMPO",
+      "row": 0,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A tall instrument you play by plucking its strings",
+      "answer": "HARP",
+      "row": 1,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A furry pet that purrs and says meow",
+      "answer": "CAT",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
     }
   ],
   "dayNumber": 317

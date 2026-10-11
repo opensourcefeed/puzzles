@@ -4,66 +4,73 @@
   "title": "2028-04-08",
   "words": [
     {
-      "clue": "The worldwide network that connects computers",
-      "answer": "INTERNET",
-      "row": 4,
-      "col": 0,
+      "clue": "A blue-green gemstone and color",
+      "answer": "TURQUOISE",
+      "row": 5,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A bright green, like the gemstone",
-      "answer": "EMERALD",
-      "row": 4,
+      "clue": "To turn old things into new ones instead of throwing them away",
+      "answer": "RECYCLE",
+      "row": 5,
       "col": 3,
       "direction": "down"
     },
     {
-      "clue": "Light exercises you do before a game",
-      "answer": "WARMUP",
-      "row": 8,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A deep blue-purple",
-      "answer": "INDIGO",
+      "clue": "A box that shares the internet around your home",
+      "answer": "ROUTER",
       "row": 4,
-      "col": 0,
+      "col": 6,
       "direction": "down"
     },
     {
-      "clue": "The sport of moving a boat with oars",
-      "answer": "ROWING",
-      "row": 0,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The exact middle point of a circle",
-      "answer": "CENTER",
-      "row": 6,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "A person who cuts hair, mostly for men",
-      "answer": "BARBER",
-      "row": 0,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of wide",
-      "answer": "NARROW",
+      "clue": "A person who brings food to your table at a restaurant",
+      "answer": "WAITER",
       "row": 2,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "The color of a banana or a school bus",
+      "answer": "YELLOW",
+      "row": 8,
+      "col": 5,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of true",
+      "answer": "FALSE",
+      "row": 3,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "Tiny grains of rock found on a beach",
-      "answer": "SAND",
+      "clue": "A straight strip for measuring and drawing lines",
+      "answer": "RULER",
+      "row": 6,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "Facing danger without running away",
+      "answer": "BRAVE",
+      "row": 10,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "The opposite of loud",
+      "answer": "QUIET",
       "row": 0,
-      "col": 0,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "White flakes that fall in cold weather",
+      "answer": "SNOW",
+      "row": 5,
+      "col": 10,
       "direction": "down"
     }
   ],

@@ -4,73 +4,66 @@
   "title": "2028-03-19",
   "words": [
     {
-      "clue": "Helping others and cheering them on",
-      "answer": "SUPPORTIVE",
-      "row": 5,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "The yellow bus that takes kids to school",
-      "answer": "SCHOOLBUS",
-      "row": 2,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of honest",
-      "answer": "DISHONEST",
-      "row": 4,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A bin for holding garbage",
-      "answer": "TRASHCAN",
-      "row": 2,
-      "col": 2,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of generous",
-      "answer": "SELFISH",
-      "row": 5,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A device that sends the internet to your devices",
-      "answer": "ROUTER",
-      "row": 8,
-      "col": 7,
-      "direction": "across"
-    },
-    {
-      "clue": "A famous telescope that takes pictures of deep space",
-      "answer": "HUBBLE",
+      "clue": "It shows pictures big on a screen or wall",
+      "answer": "PROJECTOR",
       "row": 3,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "The front of your neck, where your voice comes from",
-      "answer": "THROAT",
-      "row": 12,
-      "col": 8,
+      "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A person who plays roles in movies and plays",
-      "answer": "ACTOR",
-      "row": 0,
+      "clue": "Fidgety and unable to sit still",
+      "answer": "RESTLESS",
+      "row": 2,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A person who designs machines, bridges and roads",
+      "answer": "ENGINEER",
+      "row": 7,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "A team game where you kick a ball into a goal",
+      "answer": "SOCCER",
+      "row": 2,
       "col": 2,
       "direction": "down"
     },
     {
-      "clue": "It hangs on the wall and tells you the time",
-      "answer": "CLOCK",
-      "row": 7,
-      "col": 0,
+      "clue": "Weather that feels damp and sticky",
+      "answer": "HUMID",
+      "row": 4,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "Rough weather with strong wind and heavy rain",
+      "answer": "STORM",
+      "row": 9,
+      "col": 4,
+      "direction": "across"
+    },
+    {
+      "clue": "The number that means nothing at all",
+      "answer": "ZERO",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "The opposite of dry",
+      "answer": "WET",
+      "row": 1,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A buzzing insect that makes honey",
+      "answer": "BEE",
+      "row": 6,
+      "col": 1,
       "direction": "across"
     }
   ],

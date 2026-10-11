@@ -4,73 +4,73 @@
   "title": "2027-07-10",
   "words": [
     {
-      "clue": "Pleased that things turned out well",
-      "answer": "SATISFIED",
-      "row": 4,
-      "col": 0,
+      "clue": "A scientist who studies plants",
+      "answer": "BOTANIST",
+      "row": 2,
+      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A long purple vegetable with shiny skin",
-      "answer": "EGGPLANT",
-      "row": 4,
+      "clue": "The main printed guide your class learns a subject from",
+      "answer": "TEXTBOOK",
+      "row": 2,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "A live show where musicians perform",
+      "answer": "CONCERT",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A device that plays sound out loud",
+      "answer": "SPEAKER",
+      "row": 2,
       "col": 7,
       "direction": "down"
     },
     {
-      "clue": "A person who helps students learn at school",
-      "answer": "TEACHER",
+      "clue": "The farthest planet, a cold blue world",
+      "answer": "NEPTUNE",
       "row": 4,
-      "col": 2,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "Where trains stop to pick up passengers",
+      "answer": "STATION",
+      "row": 3,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A huge group of stars held together in space",
-      "answer": "GALAXY",
-      "row": 8,
-      "col": 5,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of light (in weight)",
-      "answer": "HEAVY",
-      "row": 6,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "A pinkish-orange color",
-      "answer": "CORAL",
-      "row": 10,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "The red liquid that flows through your body",
-      "answer": "BLOOD",
-      "row": 0,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "Moving something on screen by holding and pulling it",
-      "answer": "DRAG",
+      "clue": "A person who makes bowls and vases from clay",
+      "answer": "POTTER",
       "row": 5,
-      "col": 5,
-      "direction": "down"
+      "col": 0,
+      "direction": "across"
     },
     {
-      "clue": "A pale blue-green, like water",
-      "answer": "AQUA",
-      "row": 1,
+      "clue": "The two organs that fill with air when you breathe",
+      "answer": "LUNGS",
+      "row": 9,
+      "col": 7,
+      "direction": "across"
+    },
+    {
+      "clue": "You sweep the floor with it",
+      "answer": "BROOM",
+      "row": 2,
       "col": 1,
       "direction": "down"
     },
     {
-      "clue": "The opposite of hard",
-      "answer": "SOFT",
-      "row": 3,
-      "col": 7,
+      "clue": "A large string instrument played sitting down",
+      "answer": "CELLO",
+      "row": 0,
+      "col": 5,
       "direction": "across"
     }
   ],

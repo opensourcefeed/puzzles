@@ -4,73 +4,73 @@
   "title": "2027-04-22",
   "words": [
     {
-      "clue": "The person who leads and directs an orchestra",
-      "answer": "CONDUCTOR",
-      "row": 3,
+      "clue": "The frame of bones inside your body",
+      "answer": "SKELETON",
+      "row": 4,
+      "col": 1,
+      "direction": "across"
+    },
+    {
+      "clue": "The sport of racing through the water in a pool",
+      "answer": "SWIMMING",
+      "row": 4,
+      "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A green fruit with a big pit, mashed into guacamole",
+      "answer": "AVOCADO",
+      "row": 2,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A perfectly round shape with no corners",
+      "answer": "CIRCLE",
+      "row": 6,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A spacecraft that can be used again and again",
-      "answer": "SHUTTLE",
-      "row": 1,
-      "col": 4,
-      "direction": "down"
-    },
-    {
-      "clue": "The farthest planet, a cold blue world",
-      "answer": "NEPTUNE",
-      "row": 3,
-      "col": 2,
-      "direction": "down"
-    },
-    {
-      "clue": "A win in a game or contest",
-      "answer": "VICTORY",
-      "row": 0,
-      "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "The opposite of brave",
-      "answer": "AFRAID",
-      "row": 1,
-      "col": 8,
-      "direction": "down"
-    },
-    {
-      "clue": "A sweet dried grape",
-      "answer": "RAISIN",
-      "row": 5,
-      "col": 6,
+      "clue": "A message sent to someone's electronic inbox",
+      "answer": "EMAIL",
+      "row": 2,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A soft cushion you rest your head on",
-      "answer": "PILLOW",
-      "row": 4,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "Totally calm and peaceful",
-      "answer": "SERENE",
-      "row": 7,
+      "clue": "A pinkish-orange color, like the reefs it is named after",
+      "answer": "CORAL",
+      "row": 6,
       "col": 3,
-      "direction": "across"
+      "direction": "down"
     },
     {
-      "clue": "Weather when snow is falling",
-      "answer": "SNOWY",
-      "row": 9,
-      "col": 7,
-      "direction": "across"
+      "clue": "A big test at the end of term",
+      "answer": "EXAM",
+      "row": 6,
+      "col": 5,
+      "direction": "down"
     },
     {
-      "clue": "The finger next to your little finger, where jewelry is often worn",
-      "answer": "RING",
-      "row": 3,
-      "col": 8,
+      "clue": "One of the straight edges of a shape",
+      "answer": "SIDE",
+      "row": 1,
+      "col": 3,
+      "direction": "down"
+    },
+    {
+      "clue": "Petrol or diesel that makes an engine go",
+      "answer": "FUEL",
+      "row": 0,
+      "col": 5,
+      "direction": "down"
+    },
+    {
+      "clue": "A cook in charge of a restaurant kitchen",
+      "answer": "CHEF",
+      "row": 0,
+      "col": 2,
       "direction": "across"
     }
   ],

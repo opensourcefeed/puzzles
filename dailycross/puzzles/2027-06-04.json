@@ -4,74 +4,75 @@
   "title": "2027-06-04",
   "words": [
     {
-      "clue": "The study of stars, planets, and space",
-      "answer": "ASTRONOMY",
-      "row": 7,
-      "col": 0,
-      "direction": "across"
-    },
-    {
-      "clue": "An appliance that heats up food really fast",
-      "answer": "MICROWAVE",
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
       "row": 4,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A little bent wire that holds papers together",
-      "answer": "PAPERCLIP",
-      "row": 6,
-      "col": 0,
-      "direction": "down"
-    },
-    {
-      "clue": "A little bit of water in the air",
-      "answer": "MOISTURE",
-      "row": 4,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "A line joining two opposite corners",
-      "answer": "DIAGONAL",
-      "row": 10,
-      "col": 1,
-      "direction": "across"
-    },
-    {
-      "clue": "A small show of music or dance",
-      "answer": "RECITAL",
-      "row": 4,
-      "col": 9,
-      "direction": "down"
-    },
-    {
-      "clue": "Really interested and involved in something",
-      "answer": "ENGAGED",
-      "row": 12,
-      "col": 3,
-      "direction": "across"
-    },
-    {
-      "clue": "Showing that you care about others",
-      "answer": "CARING",
-      "row": 1,
-      "col": 5,
-      "direction": "down"
-    },
-    {
-      "clue": "One colorful piece of a flower",
-      "answer": "PETAL",
-      "row": 2,
       "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A small round fruit that grows in bunches",
-      "answer": "GRAPE",
-      "row": 0,
-      "col": 10,
+      "clue": "The sport with hoops, dribbling and slam dunks",
+      "answer": "BASKETBALL",
+      "row": 2,
+      "col": 5,
       "direction": "down"
+    },
+    {
+      "clue": "The head of a school",
+      "answer": "PRINCIPAL",
+      "row": 3,
+      "col": 8,
+      "direction": "down"
+    },
+    {
+      "clue": "The main chip, or \"brain\", of a computer",
+      "answer": "PROCESSOR",
+      "row": 0,
+      "col": 11,
+      "direction": "down"
+    },
+    {
+      "clue": "Glad that a worry is finally over",
+      "answer": "RELIEVED",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A deep purple, the last color of the rainbow",
+      "answer": "VIOLET",
+      "row": 2,
+      "col": 9,
+      "direction": "across"
+    },
+    {
+      "clue": "You taste your food with this",
+      "answer": "TONGUE",
+      "row": 6,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who creates paintings and drawings",
+      "answer": "ARTIST",
+      "row": 4,
+      "col": 0,
+      "direction": "down"
+    },
+    {
+      "clue": "A big ocean fish with rows of sharp teeth",
+      "answer": "SHARK",
+      "row": 9,
+      "col": 3,
+      "direction": "across"
+    },
+    {
+      "clue": "A black-and-white bear that munches on leafy stalks in China",
+      "answer": "PANDA",
+      "row": 6,
+      "col": 6,
+      "direction": "across"
     }
   ],
   "dayNumber": 357

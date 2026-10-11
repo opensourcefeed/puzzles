@@ -4,119 +4,147 @@
   "title": "Level 143",
   "words": [
     {
-      "clue": "A person who gives emergency care before the hospital",
-      "answer": "PARAMEDIC",
+      "clue": "A big reptile with powerful jaws that lurks in rivers",
+      "answer": "CROCODILE",
       "row": 7,
       "col": 3,
       "direction": "across"
     },
     {
-      "clue": "Sports like running, jumping, and throwing",
-      "answer": "ATHLETICS",
-      "row": 3,
-      "col": 8,
+      "clue": "An object that circles a planet; the Moon is Earth's natural one",
+      "answer": "SATELLITE",
+      "row": 4,
+      "col": 11,
       "direction": "down"
     },
     {
-      "clue": "A person who takes care of plants and gardens",
-      "answer": "GARDENER",
-      "row": 6,
+      "clue": "A person who writes new music, like Mozart",
+      "answer": "COMPOSER",
+      "row": 7,
       "col": 6,
       "direction": "down"
     },
     {
-      "clue": "Feeling confused by something tricky",
-      "answer": "PUZZLED",
-      "row": 7,
-      "col": 3,
+      "clue": "A bushy-tailed animal that hides nuts for winter",
+      "answer": "SQUIRREL",
+      "row": 4,
+      "col": 9,
       "direction": "down"
     },
     {
-      "clue": "The instrument family that includes the violin, cello, and guitar",
-      "answer": "STRINGS",
-      "row": 4,
+      "clue": "A small animal covered in spines that curls into a ball",
+      "answer": "HEDGEHOG",
+      "row": 12,
       "col": 7,
       "direction": "across"
     },
     {
-      "clue": "The sport of moving a boat with oars",
-      "answer": "ROWING",
-      "row": 13,
+      "clue": "A pink bird that often stands on one leg",
+      "answer": "FLAMINGO",
+      "row": 0,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A heavy snowstorm with strong winds",
+      "answer": "BLIZZARD",
+      "row": 1,
       "col": 6,
       "direction": "across"
     },
     {
-      "clue": "The spots where two bones meet and bend",
-      "answer": "JOINTS",
-      "row": 5,
-      "col": 10,
-      "direction": "down"
-    },
-    {
-      "clue": "A spot where water flows out of the ground",
-      "answer": "SPRING",
-      "row": 11,
-      "col": 8,
+      "clue": "A tool with a point for drawing perfect circles",
+      "answer": "COMPASS",
+      "row": 3,
+      "col": 5,
       "direction": "across"
     },
     {
-      "clue": "A shiny light gray, like the metal",
-      "answer": "SILVER",
-      "row": 4,
+      "clue": "You sweep dirt into it using a broom",
+      "answer": "DUSTPAN",
+      "row": 10,
+      "col": 2,
+      "direction": "across"
+    },
+    {
+      "clue": "A huge, slow-moving river of ice",
+      "answer": "GLACIER",
+      "row": 1,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "A thousand thousands",
+      "answer": "MILLION",
+      "row": 7,
       "col": 13,
       "direction": "down"
     },
     {
-      "clue": "A very pale yellow, like the top of milk",
-      "answer": "CREAM",
-      "row": 12,
+      "clue": "The exact middle point of a circle",
+      "answer": "CENTER",
+      "row": 14,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A dull yellow-brown, like army uniforms",
-      "answer": "KHAKI",
-      "row": 0,
-      "col": 10,
+      "clue": "A small, crunchy red root with a peppery taste",
+      "answer": "RADISH",
+      "row": 8,
+      "col": 2,
       "direction": "down"
     },
     {
-      "clue": "Bright weather with no clouds at all",
-      "answer": "CLEAR",
-      "row": 2,
-      "col": 7,
+      "clue": "A tree whose sap is boiled into a sweet syrup for pancakes",
+      "answer": "MAPLE",
+      "row": 5,
+      "col": 10,
       "direction": "across"
     },
     {
-      "clue": "The tiny points of light in the night sky",
-      "answer": "STARS",
-      "row": 0,
-      "col": 13,
-      "direction": "down"
+      "clue": "A small green or black fruit, and its dull green color",
+      "answer": "OLIVE",
+      "row": 5,
+      "col": 2,
+      "direction": "across"
     },
     {
-      "clue": "How you feel when something is really unfair; very mad",
-      "answer": "ANGRY",
-      "row": 10,
-      "col": 12,
-      "direction": "down"
-    },
-    {
-      "clue": "A soft white food made from soybeans",
-      "answer": "TOFU",
-      "row": 8,
+      "clue": "The bony case that protects your brain",
+      "answer": "SKULL",
+      "row": 2,
       "col": 0,
       "direction": "across"
     },
     {
-      "clue": "A shape with a round base and a pointy top",
-      "answer": "CONE",
-      "row": 7,
+      "clue": "A tall machine with an arm that lifts heavy things",
+      "answer": "CRANE",
+      "row": 1,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "A dull yellow-brown, like army uniforms",
+      "answer": "KHAKI",
+      "row": 2,
       "col": 1,
+      "direction": "down"
+    },
+    {
+      "clue": "A deep red gemstone",
+      "answer": "RUBY",
+      "row": 14,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A grain cooked into porridge",
+      "answer": "OATS",
+      "row": 0,
+      "col": 11,
       "direction": "down"
     }
   ],
-  "wordCount": 16,
+  "wordCount": 20,
   "targetWords": 24,
   "difficulty": "hard"
 }

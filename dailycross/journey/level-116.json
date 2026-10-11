@@ -4,98 +4,120 @@
   "title": "Level 116",
   "words": [
     {
-      "clue": "A person who drives passengers in a taxi",
-      "answer": "TAXIDRIVER",
+      "clue": "A small stick that plugs into a USB port to carry files",
+      "answer": "FLASHDRIVE",
+      "enumeration": "5,5",
       "row": 7,
-      "col": 0,
+      "col": 2,
       "direction": "across"
     },
     {
-      "clue": "A flying vehicle with spinning blades on top",
-      "answer": "HELICOPTER",
+      "clue": "A machine with a big blade that pushes earth around",
+      "answer": "BULLDOZER",
+      "row": 3,
+      "col": 7,
+      "direction": "down"
+    },
+    {
+      "clue": "A large group of musicians led by a conductor",
+      "answer": "ORCHESTRA",
+      "row": 11,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A person who gives emergency care in an ambulance",
+      "answer": "PARAMEDIC",
+      "row": 6,
+      "col": 4,
+      "direction": "down"
+    },
+    {
+      "clue": "It shows pictures big on a screen or wall",
+      "answer": "PROJECTOR",
+      "row": 5,
+      "col": 12,
+      "direction": "down"
+    },
+    {
+      "clue": "A giant, spinning storm that forms over the ocean",
+      "answer": "HURRICANE",
       "row": 4,
       "col": 6,
-      "direction": "down"
-    },
-    {
-      "clue": "A book that tells you what words mean",
-      "answer": "DICTIONARY",
-      "row": 3,
-      "col": 3,
-      "direction": "down"
-    },
-    {
-      "clue": "A sport where you hit a shuttlecock over a net",
-      "answer": "BADMINTON",
-      "row": 3,
-      "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A person who writes brand-new music",
-      "answer": "COMPOSER",
-      "row": 9,
-      "col": 5,
+      "clue": "The rubbing force that slows a sliding object down",
+      "answer": "FRICTION",
+      "row": 7,
+      "col": 2,
+      "direction": "down"
+    },
+    {
+      "clue": "The arches of hair above your eyes",
+      "answer": "EYEBROWS",
+      "row": 2,
+      "col": 14,
+      "direction": "down"
+    },
+    {
+      "clue": "Everything that exists, all of space and time",
+      "answer": "UNIVERSE",
+      "row": 2,
+      "col": 7,
       "direction": "across"
     },
     {
-      "clue": "A board where notices are pinned up",
-      "answer": "BULLETIN",
+      "clue": "Where you wait for a train at the station",
+      "answer": "PLATFORM",
+      "row": 13,
+      "col": 6,
+      "direction": "across"
+    },
+    {
+      "clue": "A sweet dried grape",
+      "answer": "RAISIN",
       "row": 5,
-      "col": 11,
-      "direction": "down"
-    },
-    {
-      "clue": "A very dark gray, like burnt wood",
-      "answer": "CHARCOAL",
-      "row": 4,
       "col": 9,
       "direction": "down"
     },
     {
-      "clue": "A device that plays sound out loud",
-      "answer": "SPEAKER",
-      "row": 12,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "The opposite of wide",
-      "answer": "NARROW",
-      "row": 6,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "A grain that is ground into flour for bread",
-      "answer": "WHEAT",
-      "row": 5,
-      "col": 4,
-      "direction": "across"
-    },
-    {
-      "clue": "A robot spacecraft sent to explore space",
-      "answer": "PROBE",
-      "row": 0,
-      "col": 1,
-      "direction": "down"
-    },
-    {
-      "clue": "The black dot in the middle of your eye",
-      "answer": "PUPIL",
-      "row": 0,
+      "clue": "A pale purple, like the spring flower of the same name",
+      "answer": "LILAC",
+      "row": 9,
       "col": 1,
       "direction": "across"
     },
     {
-      "clue": "A pause of silence in a piece of music",
-      "answer": "REST",
+      "clue": "The colored ring in your eye",
+      "answer": "IRIS",
       "row": 0,
-      "col": 7,
+      "col": 9,
       "direction": "down"
+    },
+    {
+      "clue": "Information stored on a computer",
+      "answer": "DATA",
+      "row": 11,
+      "col": 0,
+      "direction": "across"
+    },
+    {
+      "clue": "The back part of your foot",
+      "answer": "HEEL",
+      "row": 9,
+      "col": 10,
+      "direction": "across"
+    },
+    {
+      "clue": "A clever wild animal with a bushy red tail",
+      "answer": "FOX",
+      "row": 13,
+      "col": 1,
+      "direction": "across"
     }
   ],
-  "wordCount": 13,
+  "wordCount": 16,
   "targetWords": 20,
   "difficulty": "hard"
 }
