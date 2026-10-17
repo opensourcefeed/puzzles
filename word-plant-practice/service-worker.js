@@ -11,7 +11,8 @@ const APP = '/puzzles/word-plant/';
 // Every puzzle on the site shares the origin's caches, so names carry the
 // page and only this page's old caches are removed
 const CACHE_PREFIX = `word-plant:${SCOPE}:`;
-const CACHE_VERSION = 'v2';
+// Bump to replace cached icons and images, which are served cache-first
+const CACHE_VERSION = 'v3';
 const STATIC_CACHE = `${CACHE_PREFIX}static-${CACHE_VERSION}`;
 const DICT_CACHE = `${CACHE_PREFIX}dict-${CACHE_VERSION}`;
 const DYNAMIC_CACHE = `${CACHE_PREFIX}dynamic-${CACHE_VERSION}`;
