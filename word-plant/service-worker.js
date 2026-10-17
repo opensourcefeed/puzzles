@@ -1,20 +1,32 @@
 /* eslint-disable */
 /* Service Worker for Word Plant - Enables offline play and installability */
 
-const CACHE_VERSION = 'v1';
-const STATIC_CACHE = `word-plant-static-${CACHE_VERSION}`;
-const DICT_CACHE = `word-plant-dict-${CACHE_VERSION}`;
-const DYNAMIC_CACHE = `word-plant-dynamic-${CACHE_VERSION}`;
+// The same worker serves both pages: the daily page at /puzzles/word-plant/
+// and the practice page at /puzzles/word-plant-practice/. Each page
+// registers the copy next to it, which controls that page only.
+const SCOPE = new URL('./', self.location).pathname;
+// Icons and the built assets of both pages live here
+const APP = '/puzzles/word-plant/';
+
+// Every puzzle on the site shares the origin's caches, so names carry the
+// page and only this page's old caches are removed
+const CACHE_PREFIX = `word-plant:${SCOPE}:`;
+const CACHE_VERSION = 'v2';
+const STATIC_CACHE = `${CACHE_PREFIX}static-${CACHE_VERSION}`;
+const DICT_CACHE = `${CACHE_PREFIX}dict-${CACHE_VERSION}`;
+const DYNAMIC_CACHE = `${CACHE_PREFIX}dynamic-${CACHE_VERSION}`;
+// Caches of the first version, which both pages shared
+const LEGACY_CACHE = /^word-plant-(static|dict|dynamic)-v1$/;
 
 const STATIC_ASSETS = [
-  '/puzzles/word-plant/',
-  '/puzzles/word-plant/index.html',
-  '/puzzles/word-plant/manifest.json',
-  '/puzzles/word-plant/favicon.ico',
-  '/puzzles/word-plant/logo192.png',
-  '/puzzles/word-plant/logo512.png',
-  '/puzzles/word-plant/logo192-maskable.png',
-  '/puzzles/word-plant/logo512-maskable.png',
+  SCOPE,
+  `${SCOPE}index.html`,
+  `${SCOPE}manifest.json`,
+  `${APP}favicon.ico`,
+  `${APP}logo192.png`,
+  `${APP}logo512.png`,
+  `${APP}logo192-maskable.png`,
+  `${APP}logo512-maskable.png`,
 ];
 
 // Install event - pre-cache app shell
@@ -34,7 +46,8 @@ self.addEventListener('activate', (event) => {
     caches.keys().then((cacheNames) => {
       return Promise.all(
         cacheNames
-          .filter((name) => !validCaches.includes(name))
+          .filter((name) => LEGACY_CACHE.test(name) ||
+            (name.startsWith(CACHE_PREFIX) && !validCaches.includes(name)))
           .map((name) => caches.delete(name))
       );
     })
@@ -48,7 +61,7 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(request.url);
 
   // Dictionary API: Cache-first with 7-day expiry
-  if (url.hostname === 'api.dictionaryapi.dev') {
+  if (url.hostname === 'api.datamuse.com') {
     event.respondWith(cacheFirstDict(request));
     return;
   }
@@ -69,9 +82,12 @@ self.addEventListener('fetch', (event) => {
     request.destination === 'document' ||
     request.destination === 'script' ||
     request.destination === 'style' ||
-    url.pathname.includes('/static/')
+    url.pathname.startsWith(`${APP}assets/`)
   ) {
-    event.respondWith(staleWhileRevalidate(request));
+    // Pages are cached without their query, so every archive day
+    // (?day=YYYY-MM-DD) shares one copy of the page and opens offline
+    const key = request.destination === 'document' ? `${url.origin}${url.pathname}` : request;
+    event.respondWith(staleWhileRevalidate(request, key));
     return;
   }
 
@@ -126,13 +142,13 @@ async function cacheFirstDict(request) {
 }
 
 // Stale-while-revalidate for JS/CSS
-async function staleWhileRevalidate(request) {
+async function staleWhileRevalidate(request, key = request) {
   const cache = await caches.open(DYNAMIC_CACHE);
-  const cachedResponse = await cache.match(request);
+  const cachedResponse = await cache.match(key);
 
   const fetchPromise = fetch(request).then((networkResponse) => {
     if (networkResponse && networkResponse.ok) {
-      cache.put(request, networkResponse.clone());
+      cache.put(key, networkResponse.clone());
     }
     return networkResponse;
   }).catch(() => cachedResponse);
