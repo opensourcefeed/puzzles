@@ -63,6 +63,17 @@
     }
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Puzzles", "item": "https://www.opensourcefeed.org/puzzles/"},
+      {"@type": "ListItem", "position": 2, "name": "Word Gridle", "item": "https://www.opensourcefeed.org/word-gridle/"},
+      {"@type": "ListItem", "position": 3, "name": "Unlimited", "item": "https://www.opensourcefeed.org/puzzles/gridle-unlimited/"}
+    ]
+  }
+  </script>
 
   <link rel="apple-touch-icon" href="/puzzles/word-gridle/logo.png" />
   <!-- The Unlimited page gets its own manifest (see vite.config.js) -->
@@ -71,7 +82,7 @@
        Gridle has no dark theme, so the light tiles stay even when another
        game on the site saved a dark theme. -->
   <meta name="boot-loader-word" content="GRIDLE">
-  <style>:root{--boot-loader-bg:#f2d0b8}html.boot-loading body .boot-loader{--boot-loader-surface:#f2d0b8;--boot-loader-border:#c9a27a;--boot-loader-fill:#6bbf6e;--boot-loader-ink:#35210c;--boot-loader-glow:#388e3c47}html{height:100%;height:-webkit-fill-available;background-color:#f2d0b8;height:stretch}body{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;font-family:ComicFont}@media screen and (height<=700px){body{padding-bottom:200px!important}}.ad-container{text-align:center;margin-bottom:20px}</style>
+  <style>:root{--boot-loader-bg:#f2d0b8}html.boot-loading body .boot-loader{--boot-loader-surface:#f2d0b8;--boot-loader-border:#c9a27a;--boot-loader-fill:#6bbf6e;--boot-loader-ink:#35210c;--boot-loader-glow:#388e3c47}html{height:100%;height:-webkit-fill-available;background-color:#f2d0b8;height:stretch}body{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;font-family:ComicFont}.ad-container{text-align:center;margin-bottom:20px}</style>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-KD5NJYRYD3"></script>
   <script>
@@ -105,24 +116,52 @@
   })();
 </script>
 <!-- /boot-loader:head -->
-  <script type="module" crossorigin src="/puzzles/word-gridle/assets/index-DxGPeWtk.js"></script>
-  <link rel="stylesheet" crossorigin href="/puzzles/word-gridle/assets/index-CcNxmExt.css">
+  <script type="module" crossorigin src="/puzzles/word-gridle/assets/index-DLCFdaTh.js"></script>
+  <link rel="stylesheet" crossorigin href="/puzzles/word-gridle/assets/index-C9F70oia.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many levels does Word Gridle Unlimited have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There's no last level. From level 512 every grid has ten words of up to ten letters, and the levels keep going."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does a level always have the same words?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The words are picked at random each time you open a level, so replaying it or pressing Restart gives a new grid of the same size."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are some keys greyed out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The keyboard lights only the letters the remaining words use. As you find words, the letters they needed go dark, which narrows down what's left."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Unlimited change my daily streak?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Unlimited keeps its own progress, the levels you've cleared on this device, and leaves the daily stats and streak alone."
+      }
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
-  <noscript>
-    <h1>Word Gridle Unlimited – Word Puzzle Levels</h1>
-    <p>
-      Word Gridle Unlimited is a free word puzzle with as many levels as you
-      can clear. Find the hidden words with the letters on the keyboard to fill
-      the grid, and every cleared level unlocks a bigger one.
-    </p>
-    <p>
-      Each level gives four guesses for every hidden word. Valid words that
-      aren't hidden count as bonus words and still reveal matching letters.
-    </p>
-    <p>You need to enable JavaScript to play.</p>
-  </noscript>
+  <noscript><p class="noscript">Word Gridle needs JavaScript to play. How to play and the FAQ are below.</p></noscript>
 
   <div id="root"></div>
 <!-- boot-loader:body -->
@@ -252,6 +291,93 @@
   })();
 </script>
 <!-- /boot-loader:body -->
+
+  <!--
+    Text under the game, for players and search. The landing page
+    /word-gridle/ (site repository) introduces Word Gridle as a whole; these
+    sections cover playing each page, with the exact rules and numbers, and
+    must not repeat the landing page's wording. The FAQPage JSON-LD is built
+    from the FAQ below (see vite.config.js), so the two always match.
+  -->
+  <section class="about" aria-labelledby="about-title">
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <a href="/puzzles/">Puzzles</a> ›
+      <a href="/word-gridle/">Word Gridle</a> ›
+      <span aria-current="page">Unlimited</span>
+    </nav>
+
+    <h1 id="about-title">Word Gridle Unlimited: word grid levels with no daily limit</h1>
+    <p class="about-lead">
+      Climb a map of levels at your own pace. Every level hides a fresh set of random words, and clearing one
+      unlocks the next. Grids grow as you climb, from two words of two letters at level 1 to ten words of up to ten
+      letters. For one shared grid a day with streaks, <a href="/puzzles/word-gridle/">play Word Gridle Daily</a>.
+    </p>
+
+    <h2>How to play</h2>
+    <ol>
+      <li><strong>Pick a green level</strong> on the map. Cleared levels stay open for another go.</li>
+      <li><strong>Type a word</strong> with the lit keys. The keyboard offers only the letters the grid still
+        needs, as many times as it needs them.</li>
+      <li><strong>Submit it.</strong> A hidden word fills its row. A word that isn't in the dictionary is free: it
+        doesn't use a guess.</li>
+      <li><strong>Any other real word</strong> is a bonus word. It uses a guess, and each of its letters that
+        matches a hidden word's letter in the same position appears in the grid.</li>
+      <li><strong>Reveal every letter of a row</strong> and that word counts as found, even if you never typed it.</li>
+      <li><strong>Find every word</strong> with four guesses for each hidden word to clear the level, or press
+        Restart for new words.</li>
+    </ol>
+
+    <h2>How the levels grow</h2>
+    <table class="levels">
+      <thead>
+        <tr><th scope="col">Levels</th><th scope="col">Hidden words</th><th scope="col">Longest word</th><th scope="col">Guesses</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1–3</td><td>2</td><td>2 letters</td><td>8</td></tr>
+        <tr><td>4–7</td><td>3</td><td>3 letters</td><td>12</td></tr>
+        <tr><td>8–15</td><td>4</td><td>4 letters</td><td>16</td></tr>
+        <tr><td>16–31</td><td>5</td><td>5 letters</td><td>20</td></tr>
+        <tr><td>32–63</td><td>6</td><td>6 letters</td><td>24</td></tr>
+        <tr><td>64–127</td><td>7</td><td>7 letters</td><td>28</td></tr>
+        <tr><td>128–255</td><td>8</td><td>8 letters</td><td>32</td></tr>
+        <tr><td>256–511</td><td>9</td><td>9 letters</td><td>36</td></tr>
+        <tr><td>512 and up</td><td>10</td><td>10 letters</td><td>40</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Frequently asked questions</h2>
+    <div class="faq">
+      <details>
+        <summary>How many levels does Word Gridle Unlimited have?</summary>
+        <p>There's no last level. From level 512 every grid has ten words of up to ten letters, and the levels keep going.</p>
+      </details>
+      <details>
+        <summary>Does a level always have the same words?</summary>
+        <p>No. The words are picked at random each time you open a level, so replaying it or pressing Restart gives a new grid of the same size.</p>
+      </details>
+      <details>
+        <summary>Why are some keys greyed out?</summary>
+        <p>The keyboard lights only the letters the remaining words use. As you find words, the letters they needed go dark, which narrows down what's left.</p>
+      </details>
+      <details>
+        <summary>Does Unlimited change my daily streak?</summary>
+        <p>No. Unlimited keeps its own progress, the levels you've cleared on this device, and leaves the daily stats and streak alone.</p>
+      </details>
+    </div>
+
+    <h2>More word games</h2>
+    <ul class="more-games">
+      <li><a href="/puzzles/word-gridle/">Word Gridle Daily</a>: one shared grid a day</li>
+      <li><a href="/puzzles/word-plant/">Word Plant</a>: guess the hidden word a letter at a time</li>
+      <li><a href="/puzzles/hidden-words/">Hidden Words</a>: spot the words in a letter grid</li>
+      <li><a href="/puzzles/word-tail/">Word Tail</a>: a daily word chain, each word starting with the last letter of the one before</li>
+      <li><a href="/puzzles/dordle/">Dordle</a>: solve two Wordles at once</li>
+    </ul>
+    <p class="about-footer">
+      New to the game? Read <a href="/word-gridle/">about Word Gridle</a>, or browse
+      <a href="/puzzles/">all puzzles</a>.
+    </p>
+  </section>
 
   <!-- Microsoft clarity -->
   <script type="text/javascript">

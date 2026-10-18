@@ -62,6 +62,17 @@
     }
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Puzzles", "item": "https://www.opensourcefeed.org/puzzles/"},
+      {"@type": "ListItem", "position": 2, "name": "Word Gridle", "item": "https://www.opensourcefeed.org/word-gridle/"},
+      {"@type": "ListItem", "position": 3, "name": "Daily", "item": "https://www.opensourcefeed.org/puzzles/word-gridle/"}
+    ]
+  }
+  </script>
 
 
   <link rel="apple-touch-icon" href="/puzzles/word-gridle/logo.png" />
@@ -71,7 +82,7 @@
        Gridle has no dark theme, so the light tiles stay even when another
        game on the site saved a dark theme. -->
   <meta name="boot-loader-word" content="GRIDLE">
-  <style>:root{--boot-loader-bg:#f2d0b8}html.boot-loading body .boot-loader{--boot-loader-surface:#f2d0b8;--boot-loader-border:#c9a27a;--boot-loader-fill:#6bbf6e;--boot-loader-ink:#35210c;--boot-loader-glow:#388e3c47}html{height:100%;height:-webkit-fill-available;background-color:#f2d0b8;height:stretch}body{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;font-family:ComicFont}@media screen and (height<=700px){body{padding-bottom:200px!important}}.ad-container{text-align:center;margin-bottom:20px}</style>
+  <style>:root{--boot-loader-bg:#f2d0b8}html.boot-loading body .boot-loader{--boot-loader-surface:#f2d0b8;--boot-loader-border:#c9a27a;--boot-loader-fill:#6bbf6e;--boot-loader-ink:#35210c;--boot-loader-glow:#388e3c47}html{height:100%;height:-webkit-fill-available;background-color:#f2d0b8;height:stretch}body{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;font-family:ComicFont}.ad-container{text-align:center;margin-bottom:20px}</style>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-KD5NJYRYD3"></script>
   <script>
@@ -105,25 +116,52 @@
   })();
 </script>
 <!-- /boot-loader:head -->
-  <script type="module" crossorigin src="/puzzles/word-gridle/assets/index-DxGPeWtk.js"></script>
-  <link rel="stylesheet" crossorigin href="/puzzles/word-gridle/assets/index-CcNxmExt.css">
+  <script type="module" crossorigin src="/puzzles/word-gridle/assets/index-DLCFdaTh.js"></script>
+  <link rel="stylesheet" crossorigin href="/puzzles/word-gridle/assets/index-C9F70oia.css">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does the next Word Gridle Daily start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At midnight in your own time zone. Each grid has a number, counted from puzzle #1 on 27 June 2022, so you can compare results with friends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do wrong words use up my guesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only real words do. A word that isn't in the dictionary is free, and so is a word you have already found. A real word that isn't hidden uses a guess but still reveals any letters it shares, in the same position, with the hidden words."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get a hint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After three guesses in a row that don't find a hidden word, a hint button appears at the top. Watch a short ad to see one of the words you still need, then tap it to enter it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I play a grid I missed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Open the Word Gridle archive and pick any day since 27 June 2022. Past grids are saved separately and don't change your stats or streak."
+      }
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
-  <noscript>
-    <h1>Word Gridle – Daily Word Puzzle</h1>
-    <p>
-      Word Gridle is a free daily word puzzle where you uncover hidden words to
-      complete a letter grid. Each day brings one focused challenge designed for
-      quick play on mobile or desktop.
-    </p>
-    <p>
-      Use the available letters, submit valid words, and reveal more of the
-      board with every correct answer. Build your streak, track your progress,
-      and return tomorrow for a fresh puzzle.
-    </p>
-    <p>You need to enable JavaScript to play.</p>
-  </noscript>
+  <noscript><p class="noscript">Word Gridle needs JavaScript to play. How to play and the FAQ are below.</p></noscript>
 
   <div id="root"></div>
 <!-- boot-loader:body -->
@@ -253,6 +291,84 @@
   })();
 </script>
 <!-- /boot-loader:body -->
+
+  <!--
+    Text under the game, for players and search. The landing page
+    /word-gridle/ (site repository) introduces Word Gridle as a whole; these
+    sections cover playing each page, with the exact rules and numbers, and
+    must not repeat the landing page's wording. The FAQPage JSON-LD is built
+    from the FAQ below (see vite.config.js), so the two always match.
+  -->
+  <section class="about" aria-labelledby="about-title">
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <a href="/puzzles/">Puzzles</a> ›
+      <a href="/word-gridle/">Word Gridle</a> ›
+      <span aria-current="page">Daily</span>
+    </nav>
+
+    <h1 id="about-title">Word Gridle Daily: today's word grid puzzle</h1>
+    <p class="about-lead">
+      Today's grid hides six words of two to six letters, and everyone gets the same six. Fill every row within
+      20 guesses, using only the letters lit on the keyboard. The next grid starts at midnight in your local time.
+      Not enough for one day? <a href="/puzzles/gridle-unlimited/">Play Word Gridle Unlimited</a>.
+    </p>
+
+    <h2>How to play</h2>
+    <ol>
+      <li><strong>Type a word</strong> with the lit keys. The keyboard offers only the letters the grid still
+        needs, as many times as it needs them.</li>
+      <li><strong>Submit it.</strong> A hidden word fills its row. A word that isn't in the dictionary is free: it
+        doesn't use a guess.</li>
+      <li><strong>Any other real word</strong> is a bonus word. It uses a guess, and each of its letters that
+        matches a hidden word's letter in the same position appears in the grid.</li>
+      <li><strong>Reveal every letter of a row</strong> and that word counts as found, even if you never typed it.</li>
+      <li><strong>Find all six words</strong> before your 20 guesses run out.</li>
+    </ol>
+
+    <h2>Stars, streaks and past grids</h2>
+    <ul>
+      <li><strong>Stars:</strong> solve in 6 guesses or fewer for three stars, in 13 or fewer for two, and in any
+        more for one.</li>
+      <li><strong>Streak:</strong> counts the daily grids you win in a row. A lost grid sets it back to zero.</li>
+      <li><strong>Share:</strong> post your result as a grid of green and black squares, without giving away
+        the words.</li>
+      <li><strong>Past grids:</strong> every grid since puzzle #1 on 27 June 2022 is in the
+        <a href="/puzzles/word-gridle/archive/">Word Gridle archive</a>.</li>
+    </ul>
+
+    <h2>Frequently asked questions</h2>
+    <div class="faq">
+      <details>
+        <summary>When does the next Word Gridle Daily start?</summary>
+        <p>At midnight in your own time zone. Each grid has a number, counted from puzzle #1 on 27 June 2022, so you can compare results with friends.</p>
+      </details>
+      <details>
+        <summary>Do wrong words use up my guesses?</summary>
+        <p>Only real words do. A word that isn't in the dictionary is free, and so is a word you have already found. A real word that isn't hidden uses a guess but still reveals any letters it shares, in the same position, with the hidden words.</p>
+      </details>
+      <details>
+        <summary>How do I get a hint?</summary>
+        <p>After three guesses in a row that don't find a hidden word, a hint button appears at the top. Watch a short ad to see one of the words you still need, then tap it to enter it.</p>
+      </details>
+      <details>
+        <summary>Can I play a grid I missed?</summary>
+        <p>Yes. Open the Word Gridle archive and pick any day since 27 June 2022. Past grids are saved separately and don't change your stats or streak.</p>
+      </details>
+    </div>
+
+    <h2>More word games</h2>
+    <ul class="more-games">
+      <li><a href="/puzzles/gridle-unlimited/">Word Gridle Unlimited</a>: level after level, no daily limit</li>
+      <li><a href="/puzzles/word-plant/">Word Plant</a>: guess the hidden word a letter at a time</li>
+      <li><a href="/puzzles/hidden-words/">Hidden Words</a>: spot the words in a letter grid</li>
+      <li><a href="/puzzles/word-tail/">Word Tail</a>: a daily word chain, each word starting with the last letter of the one before</li>
+      <li><a href="/puzzles/dordle/">Dordle</a>: solve two Wordles at once</li>
+    </ul>
+    <p class="about-footer">
+      New to the game? Read <a href="/word-gridle/">about Word Gridle</a>, or browse
+      <a href="/puzzles/">all puzzles</a>.
+    </p>
+  </section>
 
   <!-- Microsoft clarity -->
   <script type="text/javascript">
