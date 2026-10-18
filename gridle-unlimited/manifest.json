@@ -1,20 +1,17 @@
 {
-  "short_name": "Word Gridle Unlimited",
-  "name": "Find the secret words to fill the grid",
+  "short_name": "Gridle Unlimited",
+  "name": "Word Gridle Unlimited - Word Puzzle Levels",
+  "description": "Find the hidden words to fill the grid, level after level.",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "/puzzles/word-gridle/logo.png",
       "type": "image/png",
       "sizes": "192x192"
-    },
-    {
-      "src": "logo.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/puzzles/gridle-unlimited/",
+  "scope": "/puzzles/gridle-unlimited/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#f2d0b8",
+  "background_color": "#f2d0b8"
 }

@@ -1,20 +1,17 @@
 {
   "short_name": "Word Gridle",
-  "name": "Find the secret words to fill the grid",
+  "name": "Word Gridle - Daily Word Puzzle",
+  "description": "Find the hidden words to fill the grid. A new puzzle every day.",
   "icons": [
     {
       "src": "logo.png",
       "type": "image/png",
       "sizes": "192x192"
-    },
-    {
-      "src": "logo.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/puzzles/word-gridle/",
+  "scope": "/puzzles/word-gridle/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#f2d0b8",
+  "background_color": "#f2d0b8"
 }
