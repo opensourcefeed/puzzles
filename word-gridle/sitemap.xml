@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Both Word Gridle pages. The site's own sitemap (built by Jekyll in the
+     site repository) doesn't list the puzzles, so submit this one in Search
+     Console: https://www.opensourcefeed.org/puzzles/word-gridle/sitemap.xml -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.opensourcefeed.org/puzzles/word-gridle/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://www.opensourcefeed.org/puzzles/gridle-unlimited/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
