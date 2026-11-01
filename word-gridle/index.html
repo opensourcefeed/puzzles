@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <link rel="icon" href="/puzzles/word-gridle/logo.png" />
+  <link rel="icon" href="/puzzles/word-gridle/favicon.ico" sizes="16x16 32x32 48x48 64x64" />
   <meta name="viewport"
     content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover" />
   <meta name="theme-color" content="#f2d0b8" />
@@ -11,10 +11,13 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Open Source Feed Puzzles" />
   <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
   <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com">
   <!-- The game font and background are needed for the first frame -->
-  <link rel="preload" href="/puzzles/word-gridle/Fresca-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/puzzles/word-gridle/fonts/nunito-latin-wght.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/puzzles/word-gridle/bg.webp" as="image" type="image/webp">
 
   <!--
@@ -27,24 +30,24 @@
   <title>Word Gridle – Free Daily Word Puzzle Game</title>
   <meta name="description" content="Improve your vocabulary skills with Word Gridle! Find words by filling missing fields in the grid using given letters. Get daily challenges and play for free now!" />
   <link rel="canonical" href="https://www.opensourcefeed.org/puzzles/word-gridle/">
-  <meta name="image" content="https://www.opensourcefeed.org/puzzles/word-gridle/preview.jpg" />
+  <meta name="image" content="https://www.opensourcefeed.org/puzzles/word-gridle/og-image-daily.png" />
   <meta property="og:title" content="Word Gridle - Daily word finding challenge" />
-  <meta property="og:image" content="https://www.opensourcefeed.org/puzzles/word-gridle/preview.jpg" />
-  <meta property="og:image:alt" content="Word Gridle daily puzzle board preview" />
+  <meta property="og:image" content="https://www.opensourcefeed.org/puzzles/word-gridle/og-image-daily.png" />
+  <meta property="og:image:alt" content="Word Gridle: a board of wooden letter tiles, two words found in gold, and the words “A new grid every day”" />
   <meta property="og:description" content="Improve your vocabulary skills with Word Gridle! Find words by filling missing fields in the grid using given letters. Get daily challenges and play for free now!" />
   <meta property="og:url" content="https://www.opensourcefeed.org/puzzles/word-gridle/">
   <meta name="twitter:title" content="Word Gridle - Daily word finding challenge">
   <meta name="twitter:description" content="Improve your vocabulary with daily Word Gridle challenges.">
   <meta name="twitter:url" content="https://www.opensourcefeed.org/puzzles/word-gridle/">
-  <meta name="twitter:image" content="https://www.opensourcefeed.org/puzzles/word-gridle/preview.jpg">
-  <meta name="twitter:image:alt" content="Word Gridle daily puzzle board preview">
+  <meta name="twitter:image" content="https://www.opensourcefeed.org/puzzles/word-gridle/og-image-daily.png">
+  <meta name="twitter:image:alt" content="Word Gridle: a board of wooden letter tiles, two words found in gold, and the words “A new grid every day”">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Game",
     "name": "Word Gridle",
     "url": "https://www.opensourcefeed.org/puzzles/word-gridle/",
-    "image": "https://www.opensourcefeed.org/puzzles/word-gridle/preview.jpg",
+    "image": "https://www.opensourcefeed.org/puzzles/word-gridle/og-image-daily.png",
     "description": "Daily word puzzle game to improve vocabulary by filling missing grid letters.",
     "applicationCategory": "GameApplication",
     "genre": ["Word Game", "Puzzle Game"],
@@ -75,14 +78,14 @@
   </script>
 
 
-  <link rel="apple-touch-icon" href="/puzzles/word-gridle/logo.png" />
+  <link rel="apple-touch-icon" href="/puzzles/word-gridle/apple-touch-icon.png" sizes="180x180" />
   <!-- The Unlimited page gets its own manifest (see vite.config.js) -->
   <link rel="manifest" href="/puzzles/word-gridle/manifest.json" />
   <!-- The shared boot loader spells this over the game's background. Word
        Gridle has no dark theme, so the light tiles stay even when another
        game on the site saved a dark theme. -->
   <meta name="boot-loader-word" content="GRIDLE">
-  <style>:root{--boot-loader-bg:#f2d0b8}html.boot-loading body .boot-loader{--boot-loader-surface:#f2d0b8;--boot-loader-border:#c9a27a;--boot-loader-fill:#6bbf6e;--boot-loader-ink:#35210c;--boot-loader-glow:#388e3c47}html{height:100%;height:-webkit-fill-available;background-color:#f2d0b8;height:stretch}body{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;font-family:ComicFont}.ad-container{text-align:center;margin-bottom:20px}</style>
+  <style>:root{--boot-loader-bg:#f2d0b8}html.boot-loading body .boot-loader{--boot-loader-surface:#f2d0b8;--boot-loader-border:#c9a27a;--boot-loader-fill:#6bbf6e;--boot-loader-ink:#35210c;--boot-loader-glow:#388e3c47}html{height:100%;height:-webkit-fill-available;background-color:#f2d0b8;height:stretch}body{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none;font-family:Nunito,ui-rounded,system-ui,sans-serif}.ad-container{text-align:center;margin-bottom:20px}</style>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-KD5NJYRYD3"></script>
   <script>
@@ -116,8 +119,8 @@
   })();
 </script>
 <!-- /boot-loader:head -->
-  <script type="module" crossorigin src="/puzzles/word-gridle/assets/index-Cpp7O_qo.js"></script>
-  <link rel="stylesheet" crossorigin href="/puzzles/word-gridle/assets/index-Bs8K5ULE.css">
+  <script type="module" crossorigin src="/puzzles/word-gridle/assets/index-Bl2B-Mod.js"></script>
+  <link rel="stylesheet" crossorigin href="/puzzles/word-gridle/assets/index-DjRIRCGE.css">
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
