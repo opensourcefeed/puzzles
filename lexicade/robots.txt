@@ -1,0 +1,6 @@
+# Crawlers only read robots.txt at the site root
+# (https://www.opensourcefeed.org/robots.txt), so this file has no effect.
+# The pages are listed in sitemap.xml next to it.
+User-agent: *
+Disallow:
+Sitemap: https://www.opensourcefeed.org/puzzles/lexicade/sitemap.xml

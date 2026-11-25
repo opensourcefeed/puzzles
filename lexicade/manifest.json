@@ -1,0 +1,39 @@
+{
+  "short_name": "Lexicade",
+  "name": "Lexicade - Daily Word Cascade Puzzle",
+  "description": "Make words in straight lines, watch the tiles cascade, and learn every word's meaning.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "logo192-maskable.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/puzzles/lexicade/",
+  "scope": "/puzzles/lexicade/",
+  "display": "standalone",
+  "theme_color": "#fff1fa",
+  "background_color": "#fff1fa"
+}

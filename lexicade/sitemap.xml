@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The three Lexicade pages. The site's own sitemap doesn't list the puzzles,
+     so submit this one in Search Console:
+     https://www.opensourcefeed.org/puzzles/lexicade/sitemap.xml -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.opensourcefeed.org/puzzles/lexicade/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://www.opensourcefeed.org/puzzles/lexicade/journey/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.opensourcefeed.org/puzzles/lexicade/how-to-play/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
