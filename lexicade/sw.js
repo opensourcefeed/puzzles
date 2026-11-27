@@ -8,18 +8,20 @@
 // - Hashed assets (scripts, styles) and fonts: cache first, since their
 //   names change whenever their content does.
 
-const CACHE = 'lexicade-d3814f3b618a';
+const CACHE = 'lexicade-c06054d84d72';
 const PRECACHE = [
   "/puzzles/lexicade/",
   "/puzzles/lexicade/journey/",
   "/puzzles/lexicade/how-to-play/",
-  "/puzzles/lexicade/assets/index-BNW_kE5x.js",
-  "/puzzles/lexicade/assets/tutorial-zHTCuyqu.js",
-  "/puzzles/lexicade/assets/index-BX9w1fUo.css",
-  "/puzzles/lexicade/assets/par.worker-BpAo-_sJ.js",
+  "/puzzles/lexicade/assets/index-B8_yQWc_.js",
+  "/puzzles/lexicade/assets/tutorial-Cod6pimh.js",
+  "/puzzles/lexicade/assets/index-BMSXrK1o.css",
+  "/puzzles/lexicade/assets/par.worker-n5fHeSDc.js",
   "/puzzles/lexicade/apple-touch-icon.png",
   "/puzzles/lexicade/dict/blocked.txt",
   "/puzzles/lexicade/dict/common.tsv",
+  "/puzzles/lexicade/dict/rare.tsv",
+  "/puzzles/lexicade/dict/rare.txt",
   "/puzzles/lexicade/dict/words.txt",
   "/puzzles/lexicade/favicon.ico",
   "/puzzles/lexicade/favicon.svg",

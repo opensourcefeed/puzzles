@@ -358,6 +358,7 @@ afraid		adjective	Filled with fear or apprehension
 aft		adverb	At or near or toward the stern of a ship or tail of an airplane
 after		adverb	Happening at a time subsequent to a reference time
 again		adverb	Anew
+against		preposition	In opposition to; touching and leaning on
 age		noun	How long something has existed
 aged		adjective	Advanced in years; (`aged' is pronounced as two syllables)
 ageing	age	verb	Begin to seem older; get older
@@ -438,7 +439,7 @@ airs	air
 airspace		noun	The space in the atmosphere immediately above the earth
 airstrip		noun	An airfield without normal airport facilities
 airtight		adjective	Having no weak points
-airwaves	airwave	noun	Medium for radio and television broadcasting
+airwaves	airwave
 airway		noun	A duct that provides ventilation (as in mines)
 airways	airway
 airy		adjective	Open to or abounding in fresh air
@@ -567,6 +568,7 @@ alter		verb	Cause to change; make different; cause a transformation
 altered	alter
 altering	alter
 alters	alter
+although		conjunction	In spite of the fact that
 altitude		noun	Elevation especially above sea level or above the earth's surface
 altruism		noun	The quality of unselfish concern for the welfare of others
 alum		noun	A white crystalline double sulfate of aluminum
@@ -611,6 +613,8 @@ amiable		adjective	Disposed to please
 amiably		adverb	In an affable manner
 amicable		adjective	Characterized by friendship and good will
 amicably		adverb	In an amicable manner
+amid		preposition	In the middle of; surrounded by
+amidst		preposition	In the middle of; surrounded by
 amiss		adjective	Not functioning properly
 ammo		noun	Projectiles to be fired from a gun
 ammonia		noun	A water solution of ammonia
@@ -620,6 +624,8 @@ amnesia		noun	Partial or total loss of memory
 amnesias	amnesia
 amnesty		noun	A period during which offenders are exempt from punishment
 amok		adjective	Wildly frenzied and out of control
+among		preposition	Surrounded by; in the group of
+amongst		preposition	Surrounded by; in the group of
 amorous		adjective	Inclined toward or displaying love
 amount		noun	A quantity of money
 amounted	amount	verb	Be tantamount or equivalent to
@@ -667,6 +673,7 @@ anchored	anchor	verb	Fix firmly and stably
 anchors	anchor
 anchovy		noun	Tiny fishes usually canned or salted; used for hors d'oeuvres or as seasoning in sauces
 ancient		adjective	Belonging to times long past especially of the historical period before the fall of the Western Roman Empire
+and		conjunction	Joins words or ideas together; also
 android		noun	An automaton that resembles a human being
 androids	android
 anecdote		noun	Short account of an incident (especially a biographical one)
@@ -768,9 +775,12 @@ anvils	anvil
 anxiety		noun	(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental…
 anxious		adjective	Eagerly desirous
 any		adjective	One or some or every or all without specification
+anybody		pronoun	Any person at all
 anyhow		adverb	Used to indicate that a statement explains or supports a previous statement
 anymore		adverb	At the present or from now on; usually used with a negative
+anyone		pronoun	Any person at all
 anyplace		adverb	At or in or to any place
+anything		pronoun	Any thing at all
 anyway		adverb	Used to indicate that a statement explains or supports a previous statement
 anyways		adverb	Used to indicate that a statement explains or supports a previous statement
 anywhere		adverb	At or in or to any place
@@ -870,7 +880,7 @@ arctics	arctic
 ardent		adjective	Characterized by intense emotion
 ardently		adverb	In an ardent manner
 arduous		adjective	Characterized by effort to the point of exhaustion; especially physical effort
-are		noun	A unit of surface area equal to 100 square meters
+are		verb	Present form of be, used with you, we and they
 area		noun	A particular geographical region of indefinite boundary (usually serving some special purpose or…
 areas	area
 arena		noun	A particular environment or walk of life
@@ -1086,7 +1096,7 @@ atone		verb	Make amends for
 atoned	atone
 atones	atone
 atoning	atone
-atop		adverb	On, to, or at the top
+atop		preposition	On the top of
 atrium		noun	Any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of…
 atriums	atrium
 atrocity		noun	The quality of being shockingly cruel and inhumane
@@ -1481,7 +1491,7 @@ baron		noun	A nobleman (in various countries) of varying rank
 barons	baron
 baroque		adjective	Having elaborate symmetrical ornamentation
 baroques	baroque	noun	The historic period from about 1600 until 1750 when the baroque style of art, architecture, and music…
-barracks	barrack	noun	A building or group of buildings used to house military personnel
+barracks	barrack
 barrage		noun	The rapid and continuous delivery of linguistic communication (spoken or written)
 barraged	barrage	verb	Address with continuously or persistently, as if with a barrage
 barrages	barrage	verb	Address with continuously or persistently, as if with a barrage
@@ -1639,6 +1649,7 @@ beauty		noun	The qualities that give pleasure to the senses
 beaver		noun	The soft brown fur of the beaver
 beavered	beaver	verb	Work hard on something
 beavers	beaver
+because		conjunction	For the reason that
 beckon		verb	Signal with the hands or nod
 beckoned	beckon
 beckons	beckon
@@ -1787,7 +1798,7 @@ bender		noun	A tool for bending
 benders	bender
 bending	bend
 bends	bend
-beneath		adverb	In or to a place that is lower
+beneath		preposition	Under; lower than
 benefit		noun	Financial assistance in time of need
 benefits	benefit
 benign		adjective	Not dangerous to health; not recurrent or progressive (especially of a tumor)
@@ -1820,6 +1831,7 @@ berthing	berth	verb	Provide with a berth
 berths	berth
 beset		verb	Annoy continually or chronically
 besets	beset
+beside		preposition	At the side of; next to
 besides		adverb	Making an additional point; anyway
 besiege		verb	Surround so as to force to give up
 besieged	besiege
@@ -2356,7 +2368,7 @@ botch		noun	An embarrassing mistake
 botched		adjective	Spoiled through incompetence or clumsiness
 botches	botch
 botching	botch	verb	Make a mess of, destroy or ruin
-both		adjective	(used with count nouns) two considered together; the two
+both		determiner	The two together
 bother		verb	Take the trouble to do something; concern oneself
 bothered	bother
 bothers	bother
@@ -2932,7 +2944,7 @@ bustling		adjective	Full of energetic and noisy activity
 busts	bust
 busy		adjective	Actively or fully engaged or occupied
 busying	busy	verb	Keep busy with
-but		adverb	And nothing more
+but		conjunction	On the other hand; however
 butcher		verb	Kill (animals) usually for food consumption
 butchers	butcher
 butler		noun	A manservant (usually the head servant of a household) who has charge of wines and the table
@@ -3087,7 +3099,7 @@ campsite		noun	A site where people on holiday can pitch a tent
 campus		noun	A field on which the buildings of a university are situated
 campuses	campus
 cams	cam
-can		verb	Preserve in a can or tin
+can		verb	Be able to; be allowed to
 canal		noun	(astronomy) an indistinct surface feature of Mars once thought to be a system of channels
 canaled	canal	verb	Provide (a city) with a canal
 canaling	canal	verb	Provide (a city) with a canal
@@ -3117,13 +3129,13 @@ caned	cane	verb	Beat with a cane
 canes	cane	verb	Beat with a cane
 canine		noun	One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars
 canines	canine
-caning	can
+caning	can	verb	Preserve in a can or tin
 canister		noun	A metallic cylinder packed with shot and used as ammunition in a firearm
 cannabis		noun	Any plant of the genus Cannabis; a coarse bushy annual with palmate leaves and clusters of small green flowers
-canned	can
+canned	can	verb	Preserve in a can or tin
 cannier	canny
 canniest	canny
-canning	can
+canning	can	verb	Preserve in a can or tin
 cannon		noun	A large artillery gun that is usually on wheels
 cannoned	cannon	verb	Make a cannon
 cannons	cannon
@@ -3137,7 +3149,7 @@ canon		noun	A rule or especially body of rules or principles generally establish
 canons	canon
 canopies	canopy
 canopy		noun	The transparent covering of an aircraft cockpit
-cans	can
+cans	can	verb	Preserve in a can or tin
 canteen		noun	A flask for carrying water; used by soldiers or travelers
 canteens	canteen
 canvas		noun	A heavy, closely woven fabric (used for clothing or chairs or sails or tents)
@@ -4605,6 +4617,7 @@ cough		verb	Exhale abruptly, as when one has a chest cold or congestion
 coughed	cough
 coughing	cough
 coughs	cough
+could		verb	Was able to; might be able to
 council		noun	A body serving in an administrative capacity
 councils	council
 counsel		noun	A lawyer who pleads cases in court
@@ -5699,8 +5712,8 @@ despatch		verb	Send away towards a designated goal
 despise		verb	Look down on with disdain
 despised		adjective	Treated with dislike or contempt
 despises	despise
-despite		noun	Lack of respect accompanied by a feeling of intense dislike
-despites	despite
+despite		preposition	Without being stopped by; in spite of
+despites	despite	noun	Lack of respect accompanied by a feeling of intense dislike
 dessert		noun	A dish served as the last course of a meal
 desserts	dessert
 destine		verb	Decree or designate beforehand
@@ -6519,6 +6532,7 @@ durable		adjective	Existing for a long time
 duration		noun	The period of time during which something continues
 duress		noun	Compulsory force or threat
 duresses	duress
+during		preposition	All through a period of time; at some point in it
 dusk		noun	The time of day immediately following sunset
 dusked	dusk	verb	Become dusk
 duskier	dusky
@@ -6568,7 +6582,7 @@ dynamo		noun	Generator consisting of a coil (the armature) that rotates between 
 dynamos	dynamo
 dynasty		noun	A sequence of powerful leaders in the same family
 dyslexia		noun	Impaired ability to learn to read
-each		adjective	(used of count nouns) every one considered individually
+each		determiner	Every one of two or more, taken one at a time
 eager		adjective	Having or showing keen interest or intense desire or impatient expectancy
 eagerer	eager
 eagerest	eager
@@ -6710,7 +6724,7 @@ eighths	eighth	noun	Position eight in a countable series of things
 eighties		noun	The decade from 1880 to 1889
 eights	eight	noun	The cardinal number that is the sum of seven and one
 eighty		adjective	Being ten more than seventy
-either		adverb	After a negative statement used as an intensive meaning something like `likewise' or `also'
+either		determiner	One or the other of two
 eject		verb	Put out or expel from a place
 ejected	eject
 ejecting	eject
@@ -7248,8 +7262,9 @@ eventful		adjective	Full of events or incidents
 events	event
 eventual		adjective	Expected to follow in the indefinite future from causes already operating
 ever		adverb	At any time
-every		adjective	(used of count nouns) each and all of the members of a group considered singly and without exception
+every		determiner	All of a group, with none left out
 everyday		adjective	Found in the ordinary course of events
+everyone		pronoun	Every person
 eves	eve
 evict		verb	Expel or eject without recourse to legal process
 evicted	evict
@@ -7304,9 +7319,9 @@ exceeds	exceed
 excel		verb	Distinguish oneself
 excelled	excel
 excels	excel
-except		verb	Take exception to
-excepted	except
-excepts	except
+except		preposition	Not including; other than
+excepted	except	verb	Take exception to
+excepts	except	verb	Take exception to
 excerpt		noun	A passage selected from a larger work
 excerpts	excerpt
 excess		noun	A quantity much larger than is needed
@@ -8378,6 +8393,7 @@ footpath		noun	A trodden path
 foots	foot
 footstep		noun	The sound of a step of someone walking
 footwear		noun	Clothing worn on a person's feet
+for		preposition	Meant to be given to or used by; because of
 forage		noun	Bulky food like grass or hay for browsing or grazing horses or cattle
 foraged	forage	verb	Collect or look around for (food)
 forages	forage	verb	Collect or look around for (food)
@@ -8640,6 +8656,7 @@ frogging	frog	verb	Hunt frogs for food
 frogs	frog
 frolic		noun	Gay or light-hearted recreational activity for diversion or amusement
 frolics	frolic
+from		preposition	Starting at a place, time or source
 frond		noun	Compound leaf of a fern or palm or cycad
 fronds	frond
 front		noun	The side that is forward or prominent
@@ -10153,12 +10170,13 @@ hemp		noun	A plant fiber
 hemps	hemp
 hems	hem
 hen		noun	Adult female chicken
-hence		adverb	(used to introduce a logical conclusion) from that fact or reason or as a result
+hence		adverb	For this reason; from here
 henchman		noun	Someone who assists in a plot
 henchmen	henchman
 hens	hen
 hepatic		noun	Any of numerous small green nonvascular plants of the class Hepaticopsida growing in wet places and…
 hepatics	hepatic
+her		pronoun	That woman or girl; belonging to her
 herald		verb	Foreshadow or presage
 heralded	herald
 heralds	herald
@@ -10172,7 +10190,7 @@ herder		noun	German philosopher who advocated intuition over reason (1744-1803)
 herders	herder
 herding	herd	verb	Cause to herd, drive, or crowd together
 herds	herd
-here		adverb	In or at this place; where the speaker or writer is
+here		adverb	In or to this place
 hereby		adverb	(formal) by means of this
 heredity		noun	The biological process whereby genetic factors are transmitted from one generation to the next
 herein		adverb	In this place or thing or document
@@ -10199,6 +10217,8 @@ heros	hero
 herpes		noun	Viral diseases causing eruptions of the skin or mucous membrane
 herring		noun	Valuable flesh of fatty fish from shallow waters of northern Atlantic or Pacific; usually salted or pickled
 herrings	herring
+hers		pronoun	The one or ones belonging to her
+herself		pronoun	Her, used when she is both the subject and the object
 hesitant		adjective	Lacking decisiveness of character; unable to act or decide quickly or firmly
 hesitate		verb	Pause or hold back in uncertainty or unwillingness
 hew		verb	Make or shape as with an axe
@@ -10255,6 +10275,8 @@ hilltops	hilltop
 hilly		adjective	Having hills and crags
 hilt		noun	The handle of a sword or dagger
 hilts	hilt
+him		pronoun	That man or boy
+himself		pronoun	Him, used when he is both the subject and the object
 hind		noun	Any of several mostly spotted fishes that resemble groupers
 hinder		verb	Be a hindrance or obstacle to
 hindered	hinder
@@ -10279,6 +10301,7 @@ hire		verb	Engage or hire for work
 hired	hire
 hires	hire
 hiring	hire
+his		pronoun	Belonging to him; the one or ones belonging to him
 hiss		verb	Make a sharp hissing sound, as if to show disapproval
 hissed	hiss
 hisses	hiss	noun	A fricative sound (especially as an expression of disapproval)
@@ -10520,6 +10543,7 @@ hover		verb	Be undecided about something; waver between conflicting positions or
 hovered	hover
 hovering	hover
 hovers	hover
+how		adverb	In what way; to what amount
 howdies	howdy
 howdy		noun	An expression of greeting
 however		adverb	Despite anything to the contrary (usually preceding a concession)
@@ -11125,6 +11149,7 @@ inters	inter
 interval		noun	A definite length of time marked off by two instants
 intimacy		noun	Close or warm friendship
 intimate		adjective	Marked by close acquaintance, association, or familiarity
+into		preposition	To the inside of
 intone		verb	Utter monotonously and repetitively and rhythmically
 intoned	intone
 intones	intone
@@ -11246,6 +11271,8 @@ itemize		verb	Specify individually
 itemized	itemize
 itemizes	itemize
 items	item
+its		pronoun	Belonging to it
+itself		pronoun	It, used when it is both the subject and the object
 ivies	ivy
 ivories	ivory
 ivory		noun	A hard smooth ivory colored dentine that makes up most of the tusks of elephants and walruses
@@ -12109,6 +12136,7 @@ lessens	lessen
 lesser		adjective	Of less size or importance
 lesson		noun	A unit of instruction
 lessons	lesson
+lest		conjunction	So as to prevent; for fear that
 let		verb	Make it possible through a specific action or lack of action for something to happen
 letdown		noun	A feeling of dissatisfaction that results when your expectations are not realized
 letdowns	letdown
@@ -13018,14 +13046,14 @@ maximize		verb	Make as big or large as possible
 maxims	maxim
 maximum		noun	The largest possible quantity
 maximums	maximum
-may		noun	The month following April and preceding June
+may		verb	Be allowed to; might possibly
 maybe		adverb	By chance
 mayhem		noun	The willful and unlawful crippling or mutilation of another person
 mayhems	mayhem
 mayor		noun	The head of a city government
 mayoral		adjective	Of or relating to a mayor or the office of mayor
 mayors	mayor
-mays	may
+mays	may	noun	The month following April and preceding June
 maze		noun	Complex system of paths or tunnels in which it is easy to get lost
 mazes	maze
 mead		noun	United States anthropologist noted for her claims about adolescence and sexual behavior in Polynesian…
@@ -13253,10 +13281,10 @@ midweek		noun	The fourth day of the week; the third working day
 midweeks	midweek
 midwife		noun	A woman skilled in aiding the delivery of babies
 midwifes	midwife
-might		noun	Physical strength
+might		verb	Could possibly
 mightier	mighty
 mightily		adverb	Powerfully or vigorously
-mights	might
+mights	might	noun	Physical strength
 mighty		adjective	Having or showing great strength or force or intensity
 migraine		noun	A severe recurring vascular headache; occurs more frequently in women than men
 migrant		noun	Traveler who moves from one region or country to another
@@ -13320,7 +13348,7 @@ mindless		adjective	Lacking the thinking capacity characteristic of a conscious 
 minds	mind
 mindset		noun	A habitual or characteristic mental attitude that determines how you will interpret and respond to situations
 mindsets	mindset
-mine		noun	Excavation in the earth from which ores and minerals are extracted
+mine		pronoun	The one or ones belonging to me
 mined	mine	verb	Get from the earth by excavation
 miner		noun	Laborer who works in a mine
 mineral		noun	Solid homogeneous inorganic substances occurring in nature having a definite chemical composition
@@ -13826,7 +13854,7 @@ muskets	musket
 musks	musk
 mussel		noun	Black marine bivalves usually steamed in wine
 mussels	mussel
-must		noun	A necessary or essential thing
+must		verb	Have to; be sure to
 mustache		noun	An unshaved growth of hair on the upper lip
 mustang		noun	Small hardy range horse of the western plains descended from horses brought by the Spanish
 mustangs	mustang
@@ -13837,7 +13865,7 @@ mustered	muster
 musters	muster
 mustier	musty
 mustiest	musty
-musts	must
+musts	must	noun	A necessary or essential thing
 musty		adjective	Covered with or smelling of mold
 mutant		noun	(biology) an organism that has characteristics resulting from chromosomal alteration
 mutants	mutant
@@ -13871,6 +13899,7 @@ myriad		noun	A large indefinite number
 myriads	myriad
 myrtle		noun	Widely cultivated as a groundcover for its dark green shiny leaves and usually blue-violet flowers
 myrtles	myrtle
+myself		pronoun	Me, used when I am both the subject and the object
 mystery		noun	Something that baffles understanding and cannot be explained
 mystic		adjective	Having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding
 mystical		adjective	Relating to or characteristic of mysticism
@@ -14013,7 +14042,7 @@ negative		adjective	Characterized by or displaying negation or denial or opposit
 neglect		verb	Leave undone or leave out
 neglects	neglect
 neighbor		noun	A person who lives (or is located) near another
-neither		adjective	Not either; not one or the other
+neither		determiner	Not one and not the other of two
 nematode		noun	Unsegmented worms with elongated rounded body pointed at both ends; mostly free-living but some are parasitic
 nemesis		noun	(Greek mythology) the goddess of divine retribution and vengeance
 neon		noun	A colorless odorless gaseous element that give a red glow in a vacuum tube; one of the six inert gasses
@@ -14165,7 +14194,7 @@ nominals	nominal	noun	A phrase that can function as the subject or object of a v
 nominate		verb	Propose as a candidate for some honor
 nominee		noun	A politician who is running for public office
 nominees	nominee
-none		adverb	Not at all or in no way
+none		pronoun	Not any; not one
 nonfat		adjective	Without fat or fat solids
 nonhuman		adjective	Not human; not belonging to or produced by or appropriate to human beings
 nonsense		noun	A message that seems to convey no meaning
@@ -14183,6 +14212,7 @@ noose		noun	A trap for birds or small mammals; often has a slip noose
 noosed	noose	verb	Make a noose in or of
 nooses	noose	verb	Make a noose in or of
 noosing	noose	verb	Make a noose in or of
+nor		conjunction	And not; used after neither or not
 norm		noun	A standard or model or pattern regarded as typical
 normal		adjective	Conforming with or constituting a norm or standard or level or type or social norm; not abnormal
 normalcy		noun	Being within certain limits that define the range of normal functioning
@@ -14488,6 +14518,7 @@ one		adjective	Used of a single unit or thing; not two or more
 oneness		noun	The quality of being united into one
 onerous		adjective	Not easily borne; wearing
 ones	one	noun	The smallest whole number or a numeral representing this number
+oneself		pronoun	One's own self
 onetime		adjective	Belonging to some prior time
 ongoing		adjective	Currently happening
 onion		noun	The bulb of an onion plant
@@ -14498,6 +14529,7 @@ onset		noun	The beginning or early stages
 onsets	onset
 onshore		adjective	(of winds) coming from the sea toward the land
 onstage		adjective	Situated or taking place on the area of a stage visible to the audience
+onto		preposition	To a position on top of
 onus		noun	An onerous or difficult concern
 onuses	onus
 onward		adverb	Forward in time or order or degree
@@ -14639,6 +14671,8 @@ ottoman		noun	A Turk (especially a Turk who is a member of the tribe of Osman I)
 ottomans	ottoman
 ounce		noun	A unit of apothecary weight equal to 480 grains or one twelfth of a troy pound
 ounces	ounce
+our		pronoun	Belonging to us
+ours		pronoun	The one or ones belonging to us
 oust		verb	Remove from a position or office
 ousted	oust
 ouster		noun	A person who ousts or supplants someone else
@@ -15337,6 +15371,7 @@ peppers	pepper
 peps	pep
 peptide		noun	Amide combining the amino group of one amino acid with the carboxyl group of another
 peptides	peptide
+per		preposition	For each
 perceive		verb	To become aware of through the senses
 percent		noun	A proportion in relation to a whole (which is usually the amount per hundred)
 percents	percent
@@ -15701,7 +15736,7 @@ plated	plate	verb	Coat with a layer of metal
 platelet		noun	Tiny bits of protoplasm found in vertebrate blood; essential for blood clotting
 plates	plate	verb	Coat with a layer of metal
 platform		noun	A raised horizontal surface
-plating	plat	verb	Make a plat of
+plating	plat
 platings	plating	noun	A thin coating of metal deposited on a surface
 platinum		noun	A heavy precious metallic element; grey-white and resistant to corroding
 platonic		adjective	Of or relating to or characteristic of Plato or his philosophy
@@ -19124,6 +19159,7 @@ shaking	shake
 shaky		adjective	Inclined to shake as from weakness or defect
 shale		noun	A sedimentary rock formed by the deposition of successive layers of clay
 shales	shale
+shall		verb	Will (used to talk about the future or to offer)
 shallot		noun	Aggregate bulb of the multiplier onion
 shallots	shallot
 shallow		adjective	Lacking physical depth; having little spatial extension downward or inward from an outer surface or backward…
@@ -19181,6 +19217,7 @@ shaven		adjective	Having the beard or hair cut off close to the skin
 shaves	shave
 shawl		noun	Cloak consisting of an oblong piece of cloth used to cover the head and shoulders
 shawls	shawl
+she		pronoun	The woman or girl being talked about
 sheaf		noun	A package of several things tied together for carrying or storing
 sheafs	sheaf
 shear		noun	(physics) a deformation of an object in which parallel planes remain parallel but are shifted in a direction…
@@ -19322,6 +19359,7 @@ shotgun		noun	Firearm that is a double-barreled smoothbore shoulder weapon for f
 shotguns	shotgun
 shots	shot
 shotts	shot
+should		verb	Ought to
 shoulder		verb	Lift onto one's shoulders
 shout		verb	Utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking)
 shouted	shout
@@ -19533,6 +19571,7 @@ simplify		verb	Make simpler or easier or reduce in complexity or extent
 simply		adverb	And nothing more
 simulate		verb	Reproduce someone's behavior or looks
 sin		noun	Estrangement from god
+since		conjunction	From a time in the past until now; because
 sincere		adjective	Open and genuine; not deceitful
 sincerer	sincere
 sine		noun	Ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled…
@@ -20273,8 +20312,8 @@ some		adjective	(quantifier) used with either mass nouns or plural count nouns t
 somebody		noun	A human being
 someday		adverb	Some unspecified time in the future
 somehow		adverb	In some unspecified way or manner; or by some unspecified means
-someone		noun	A human being
-someones	someone
+someone		pronoun	A person not named or not known
+someones	someone	noun	A human being
 sometime		adverb	At some indefinite or unstated time
 somewhat		adverb	To a small degree or extent
 son		noun	A male human offspring
@@ -21334,7 +21373,7 @@ success		noun	An event that accomplishes its intended purpose
 succinct		adjective	Briefly giving the gist of something
 succumb		verb	Consent reluctantly
 succumbs	succumb
-such		adjective	Of so extreme a degree or extent
+such		determiner	Of the kind already mentioned; so great
 sucker		noun	A person who is gullible and easy to take advantage of
 suckers	sucker
 suction		noun	A force over an area produced by a pressure difference
@@ -22101,23 +22140,30 @@ textual		adjective	Of or relating to or based on a text
 texture		noun	The feel of a surface or a fabric
 textured		adjective	Having surface roughness
 textures	texture
+than		conjunction	Used to compare two things
 thank		verb	Express gratitude or show appreciation to
 thanked	thank
 thankful		adjective	Feeling or showing gratitude
 thanking	thank
 thanks		noun	An acknowledgment of appreciation
+that		pronoun	The one there; used to point to something
 thatch		noun	Hair resembling thatched roofing material
 thatched	thatch	verb	Cover with thatch
 thatches	thatch
 thaw		noun	The process whereby heat changes something from a solid to a liquid
 thawed	thaw	verb	Become or cause to become soft or liquid
 thaws	thaw
+the		article	Points to a particular person or thing already known
 theater		noun	A building where theatrical performances or motion-picture shows can be presented
 theaters	theater
 theatre		noun	A building where theatrical performances or motion-picture shows can be presented
 theatres	theatre
+thee		pronoun	You (old use, as an object)
 theft		noun	The act of taking something from someone unlawfully
 thefts	theft
+their		pronoun	Belonging to them
+theirs		pronoun	The one or ones belonging to them
+them		pronoun	Those people or things
 thematic		adjective	Relating to or constituting a topic of discourse
 theme		noun	The subject matter of a conversation or discussion
 themed	theme	verb	Provide with a particular theme or motive
@@ -22133,7 +22179,7 @@ theorist		noun	Someone who theorizes (especially in science or art)
 theorize		verb	To believe especially on uncertain or tentative grounds
 theory		noun	A well-substantiated explanation of some aspect of the natural world
 therapy		noun	(medicine) the act of caring for someone (as by medication or remedial training etc.)
-there		adverb	In or at that place or location
+there		adverb	In or to that place
 thereby		adverb	By that means or because of that
 therein		adverb	(formal) in or into that thing or place
 thereof		adverb	Of or concerning this or that
@@ -22141,7 +22187,9 @@ theres	there	noun	A location other than here; that place
 thermal		adjective	Relating to or associated with heat
 thermals	thermal	noun	Rising current of warm air
 thermos		noun	Vacuum flask that preserves temperature of hot or cold drinks
+these		pronoun	The ones here
 thesis		noun	An unproved statement put forward as a premise in an argument
+they		pronoun	The people or things being talked about
 thick		adjective	Not thin; of a specific thickness or of relatively great extent from one surface to the opposite usually in…
 thicken		verb	Make thick or thicker
 thickens	thicken
@@ -22156,6 +22204,7 @@ thieves	thief
 thigh		noun	The part of the leg between the hip and the knee
 thighs	thigh
 thin		adjective	Of relatively small extent from one surface to the opposite or in cross section
+thine		pronoun	Yours (old use)
 thing		noun	A special situation
 things	thing
 think		verb	Judge or regard; look upon; judge
@@ -22180,6 +22229,7 @@ thirsty		adjective	Needing moisture
 thirteen		noun	The cardinal number that is the sum of twelve and one
 thirties		noun	The time of life between 30 and 40
 thirty		noun	The cardinal number that is the product of ten and three
+this		pronoun	The one here; used to point to something near
 thistle		noun	Any of numerous plants of the family Compositae and especially of the genera Carduus and Cirsium and…
 thistles	thistle
 thong		noun	Leather strip that forms the flexible part of a whip
@@ -22189,11 +22239,12 @@ thornier	thorny
 thorns	thorn
 thorny		adjective	Bristling with perplexities
 thorough		adjective	Painstakingly careful and accurate
-thou		noun	The cardinal number that is the product of 10 and 100
-though		adverb	(postpositive) however
+those		pronoun	The ones there
+thou		pronoun	You (old use)
+though		conjunction	In spite of the fact that
 thought	think
 thoughts	thought	noun	The content of cognition; the main thing you are thinking about
-thous	thou
+thous	thou	noun	The cardinal number that is the product of 10 and 100
 thousand		noun	The cardinal number that is the product of 10 and 100
 thrash		verb	Give a thrashing to; beat hard
 thrashed	thrash
@@ -22255,10 +22306,11 @@ thumping	thump
 thumps	thump
 thunder		noun	A deep prolonged loud noise
 thunders	thunder
-thus		adverb	(used to introduce a logical conclusion) from that fact or reason or as a result
+thus		adverb	In this way; so
 thwart		noun	A crosspiece spreading the gunnels of a boat; used as a seat in a rowboat
 thwarted	thwart	verb	Hinder or prevent (the efforts, plans, or desires) of
 thwarts	thwart
+thy		pronoun	Your (old use)
 thyme		noun	Any of various mints of the genus Thymus
 thymes	thyme
 thyroid		noun	Located near the base of the neck
@@ -22310,11 +22362,11 @@ tights		noun	Skintight knit hose covering the body from the waist to the feet wo
 tile		noun	A flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces
 tiled		adjective	Covered or furnished with tiles
 tiles	tile	verb	Cover with tiles
-till		noun	Unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together
+till		conjunction	Up to the time when
 tiller		noun	A shoot that sprouts from the base of a grass
 tillered	tiller	verb	Grow shoots in the form of stools or tillers
 tillers	tiller
-tills	till
+tills	till	noun	Unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together
 tilt		verb	To incline or bend from a vertical position
 tilted	tilt
 tilting	tilt
@@ -22566,6 +22618,8 @@ touted	tout	verb	Advertize in strongly positive terms
 touting	tout	verb	Advertize in strongly positive terms
 touts	tout
 tow		noun	The act of hauling something (as a vehicle) by means of a hitch or rope
+toward		preposition	In the direction of
+towards		preposition	In the direction of
 towed	tow	verb	Drag behind
 towel		noun	A rectangular piece of absorbent cloth (or paper) for drying or wiping
 toweled	towel	verb	Wipe with a towel
@@ -23187,6 +23241,7 @@ unknown		adjective	Not known
 unknowns	unknown	noun	An unknown and unexplored region
 unlawful		adjective	Not conforming to legality, moral law, or social convention
 unleash		verb	Release or vent
+unless		conjunction	Except if
 unlike		adjective	Marked by dissimilarity
 unlikely		adjective	Not likely to be true or to occur or to have occurred
 unlit		adjective	Not set afire or burning
@@ -23248,8 +23303,10 @@ untidy		adjective	Not neat and tidy
 untie		verb	Undo the ties of
 untied	untie
 unties	untie
+until		conjunction	Up to the time when
 untimely		adjective	Badly timed
 untitled		adjective	Not of the nobility
+unto		preposition	To (old use)
 untold		adjective	Too much to be measured
 untrue		adjective	Not according with the facts
 untruer	untrue
@@ -23302,6 +23359,7 @@ uplifts	uplift
 upload		verb	Transfer a file or program to a central computer from a smaller computer or a computer at a remote location
 uploaded	upload
 uploads	upload
+upon		preposition	On; on top of
 upper		adjective	The topmost one of two
 uppers	upper	noun	The higher of two berths
 upright		adjective	In a vertical position; not sloping
@@ -23582,6 +23640,7 @@ verses	verse	verb	Compose verses or put into verse
 versing	verse	verb	Compose verses or put into verse
 version		noun	An interpretation of a matter from a particular viewpoint
 versions	version
+versus		preposition	Against, as in a contest
 vertebra		noun	One of the bony segments of the spinal column
 vertical		adjective	At right angles to the plane of the horizon or a base line
 vertigo		noun	A reeling sensation; a feeling that you are about to fall
@@ -23609,6 +23668,7 @@ vex		verb	Cause annoyance in; disturb, especially by minor irritations
 vexed	vex
 vexes	vex
 vexing	vex
+via		preposition	By way of; through
 viable		adjective	Capable of being done with means at hand and circumstances as they are
 vial		noun	A small bottle that contains a drug (especially a sealed sterile container for injection by needle)
 vials	vial
@@ -24181,7 +24241,8 @@ wharf		noun	A platform built out from the shore into the water and supported by 
 wharfed	wharf	verb	Provide with a wharf
 wharfing	wharf	verb	Provide with a wharf
 wharfs	wharf
-whatever		adjective	One or some or every or all without specification
+what		pronoun	Which thing; the thing that
+whatever		pronoun	Anything that; no matter what
 whatnot		noun	Miscellaneous curios
 whatnots	whatnot
 wheat		noun	Annual or biennial grass having erect flower spikes and light brown grains
@@ -24193,8 +24254,13 @@ wheels	wheel
 wheeze		noun	Breathing with a husky or whistling sound
 wheezed	wheeze	verb	Breathe with difficulty
 wheezes	wheeze	verb	Breathe with difficulty
-whence		adverb	From what place, source, or cause
+when		adverb	At what time; at the time that
+whence		adverb	From where (old use)
+where		adverb	In or to what place
+whereas		conjunction	While on the other hand
 wherever		adverb	Where in the world
+whether		conjunction	Used to show a choice between possibilities; if
+which		pronoun	What one of a set; the one that
 whiff		noun	A short light gust of air
 whiffed	whiff	verb	Perceive by inhaling through the nose
 whiffing	whiff	verb	Perceive by inhaling through the nose
@@ -24243,15 +24309,18 @@ whitens	whiten
 whiter	white	adjective	Being of the achromatic color of maximum lightness
 whites	white	verb	Turn white
 whitest	white	adjective	Being of the achromatic color of maximum lightness
+whither		adverb	To where (old use)
 whitish		adjective	Resembling milk in color; not clear
 whittle		noun	English aeronautical engineer who invented the jet aircraft engine (1907-1996)
 whittled	whittle	verb	Cut small bits or pare shavings from
 whittles	whittle	verb	Cut small bits or pare shavings from
 whiz		noun	Someone who is dazzlingly skilled in any field
-who		noun	A United Nations agency to coordinate international health activities and to help governments improve health…
+who		pronoun	Which person or people; the person that
+whoever		pronoun	Any person who; no matter who
 whole		noun	All of something including all its component elements or parts
 wholes	whole
 wholly		adverb	To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')
+whom		pronoun	Which person; the person that (as an object)
 whoop		verb	Shout, as if with joy or enthusiasm
 whooped	whoop
 whooping	whoop
@@ -24260,8 +24329,9 @@ whoosh		noun	The noise produced by the sudden rush of a fluid (a gas or liquid)
 whooshed	whoosh	verb	Move with a sibilant sound
 whooshes	whoosh
 whopping		adjective	(used informally) very large
-why		noun	The cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'
-whys	why
+whose		pronoun	Belonging to which person
+why		adverb	For what reason
+whys	why	noun	The cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'
 wick		noun	Any piece of cord that conveys liquid by capillary action
 wicked		adjective	Morally bad in principle or practice
 wickeder	wicked
@@ -24311,13 +24381,13 @@ wildness		noun	A feeling of extreme emotional intensity
 wilds	wild	noun	A wild primitive state untouched by civilization
 wilier	wily
 wiliest	wily
-will		noun	The capability of conscious choice and decision and intention
+will		verb	Used to talk about the future; be willing to
 willed	will	verb	Decree or ordain
 willful		adjective	Done by design
 willing	will	verb	Decree or ordain
 willow		noun	Any of numerous deciduous trees and shrubs of the genus Salix
 willows	willow
-wills	will
+wills	will	noun	The capability of conscious choice and decision and intention
 wilt		verb	Lose strength
 wilted	wilt
 wilting	wilt
@@ -24413,12 +24483,14 @@ wit		noun	A message whose ingenuity or verbal skill or incongruity has the power
 witch		noun	A female sorcerer or magician
 witched	witch	verb	Cast a spell over someone or something; put a hex on someone or something
 witches	witch
+with		preposition	In the company of; using
 withdraw		verb	Pull back or move away or backward
 wither		verb	Wither, as with a loss of moisture
 withered		adjective	Lean and wrinkled by shrinkage as from age or illness
 withers	wither
 withhold		verb	Hold back; refuse to hand over or share
-within		adverb	On the inside
+within		preposition	Inside; not further than
+without		preposition	Not having; in the absence of
 witness		noun	Someone who sees an event and reports what happened
 wits	wit
 wittier	witty
@@ -24529,6 +24601,7 @@ worthier	worthy
 worthies	worthy	noun	An important, honorable person (word is often used humorously)
 worths	worth
 worthy		adjective	Having worth or merit or value; being honorable or admirable
+would		verb	Used to talk about something imagined or wished for
 wound		noun	An injury to living tissue (especially an injury involving a cut or break in the skin)
 wounded		noun	People who are wounded
 wounding	wound	verb	Cause injuries or bodily harm to
@@ -24673,7 +24746,7 @@ yenning	yen	verb	Have a desire for something or someone who is not present
 yens	yen
 yes		noun	An affirmative
 yeses	yes
-yet		adverb	Up to the present time
+yet		conjunction	But even so; nevertheless
 yew		noun	Wood of a yew; especially the durable fine-grained light brown or red wood of the English yew valued for…
 yews	yew
 yield		verb	Be the cause or source of
@@ -24693,10 +24766,14 @@ yoking	yoke	verb	Become joined or linked together
 yolk		noun	The yellow spherical part of an egg that is surrounded by the albumen
 yolks	yolk
 yonder		adjective	Distant but within sight (`yon' is dialectal)
+you		pronoun	The person or people being spoken to
 young		adjective	(used of living things especially persons) in an early period of life or development or growth
 younger	young
 youngest	young
 youngs	young	noun	Any immature animal
+your		pronoun	Belonging to you
+yours		pronoun	The one or ones belonging to you
+yourself		pronoun	You, used when you are both the subject and the object
 youth		noun	A young person (especially a young man or boy)
 youthful		adjective	Suggestive of youth; vigorous and fresh
 youths	youth

@@ -358,6 +358,7 @@ afraid
 aft
 after
 again
+against
 age
 aged
 ageing
@@ -567,6 +568,7 @@ alter
 altered
 altering
 alters
+although
 altitude
 altruism
 alum
@@ -611,6 +613,8 @@ amiable
 amiably
 amicable
 amicably
+amid
+amidst
 amiss
 ammo
 ammonia
@@ -620,6 +624,8 @@ amnesia
 amnesias
 amnesty
 amok
+among
+amongst
 amorous
 amount
 amounted
@@ -667,6 +673,7 @@ anchored
 anchors
 anchovy
 ancient
+and
 android
 androids
 anecdote
@@ -768,9 +775,12 @@ anvils
 anxiety
 anxious
 any
+anybody
 anyhow
 anymore
+anyone
 anyplace
+anything
 anyway
 anyways
 anywhere
@@ -1639,6 +1649,7 @@ beauty
 beaver
 beavered
 beavers
+because
 beckon
 beckoned
 beckons
@@ -1820,6 +1831,7 @@ berthing
 berths
 beset
 besets
+beside
 besides
 besiege
 besieged
@@ -4605,6 +4617,7 @@ cough
 coughed
 coughing
 coughs
+could
 council
 councils
 counsel
@@ -6519,6 +6532,7 @@ durable
 duration
 duress
 duresses
+during
 dusk
 dusked
 duskier
@@ -7250,6 +7264,7 @@ eventual
 ever
 every
 everyday
+everyone
 eves
 evict
 evicted
@@ -8378,6 +8393,7 @@ footpath
 foots
 footstep
 footwear
+for
 forage
 foraged
 forages
@@ -8640,6 +8656,7 @@ frogging
 frogs
 frolic
 frolics
+from
 frond
 fronds
 front
@@ -10159,6 +10176,7 @@ henchmen
 hens
 hepatic
 hepatics
+her
 herald
 heralded
 heralds
@@ -10199,6 +10217,8 @@ heros
 herpes
 herring
 herrings
+hers
+herself
 hesitant
 hesitate
 hew
@@ -10255,6 +10275,8 @@ hilltops
 hilly
 hilt
 hilts
+him
+himself
 hind
 hinder
 hindered
@@ -10279,6 +10301,7 @@ hire
 hired
 hires
 hiring
+his
 hiss
 hissed
 hisses
@@ -10520,6 +10543,7 @@ hover
 hovered
 hovering
 hovers
+how
 howdies
 howdy
 however
@@ -11125,6 +11149,7 @@ inters
 interval
 intimacy
 intimate
+into
 intone
 intoned
 intones
@@ -11246,6 +11271,8 @@ itemize
 itemized
 itemizes
 items
+its
+itself
 ivies
 ivories
 ivory
@@ -12109,6 +12136,7 @@ lessens
 lesser
 lesson
 lessons
+lest
 let
 letdown
 letdowns
@@ -13871,6 +13899,7 @@ myriad
 myriads
 myrtle
 myrtles
+myself
 mystery
 mystic
 mystical
@@ -14183,6 +14212,7 @@ noose
 noosed
 nooses
 noosing
+nor
 norm
 normal
 normalcy
@@ -14488,6 +14518,7 @@ one
 oneness
 onerous
 ones
+oneself
 onetime
 ongoing
 onion
@@ -14498,6 +14529,7 @@ onset
 onsets
 onshore
 onstage
+onto
 onus
 onuses
 onward
@@ -14639,6 +14671,8 @@ ottoman
 ottomans
 ounce
 ounces
+our
+ours
 oust
 ousted
 ouster
@@ -15337,6 +15371,7 @@ peppers
 peps
 peptide
 peptides
+per
 perceive
 percent
 percents
@@ -19124,6 +19159,7 @@ shaking
 shaky
 shale
 shales
+shall
 shallot
 shallots
 shallow
@@ -19181,6 +19217,7 @@ shaven
 shaves
 shawl
 shawls
+she
 sheaf
 sheafs
 shear
@@ -19322,6 +19359,7 @@ shotgun
 shotguns
 shots
 shotts
+should
 shoulder
 shout
 shouted
@@ -19533,6 +19571,7 @@ simplify
 simply
 simulate
 sin
+since
 sincere
 sincerer
 sine
@@ -22101,23 +22140,30 @@ textual
 texture
 textured
 textures
+than
 thank
 thanked
 thankful
 thanking
 thanks
+that
 thatch
 thatched
 thatches
 thaw
 thawed
 thaws
+the
 theater
 theaters
 theatre
 theatres
+thee
 theft
 thefts
+their
+theirs
+them
 thematic
 theme
 themed
@@ -22141,7 +22187,9 @@ theres
 thermal
 thermals
 thermos
+these
 thesis
+they
 thick
 thicken
 thickens
@@ -22156,6 +22204,7 @@ thieves
 thigh
 thighs
 thin
+thine
 thing
 things
 think
@@ -22180,6 +22229,7 @@ thirsty
 thirteen
 thirties
 thirty
+this
 thistle
 thistles
 thong
@@ -22189,6 +22239,7 @@ thornier
 thorns
 thorny
 thorough
+those
 thou
 though
 thought
@@ -22259,6 +22310,7 @@ thus
 thwart
 thwarted
 thwarts
+thy
 thyme
 thymes
 thyroid
@@ -22566,6 +22618,8 @@ touted
 touting
 touts
 tow
+toward
+towards
 towed
 towel
 toweled
@@ -23187,6 +23241,7 @@ unknown
 unknowns
 unlawful
 unleash
+unless
 unlike
 unlikely
 unlit
@@ -23248,8 +23303,10 @@ untidy
 untie
 untied
 unties
+until
 untimely
 untitled
+unto
 untold
 untrue
 untruer
@@ -23302,6 +23359,7 @@ uplifts
 upload
 uploaded
 uploads
+upon
 upper
 uppers
 upright
@@ -23582,6 +23640,7 @@ verses
 versing
 version
 versions
+versus
 vertebra
 vertical
 vertigo
@@ -23609,6 +23668,7 @@ vex
 vexed
 vexes
 vexing
+via
 viable
 vial
 vials
@@ -24181,6 +24241,7 @@ wharf
 wharfed
 wharfing
 wharfs
+what
 whatever
 whatnot
 whatnots
@@ -24193,8 +24254,13 @@ wheels
 wheeze
 wheezed
 wheezes
+when
 whence
+where
+whereas
 wherever
+whether
+which
 whiff
 whiffed
 whiffing
@@ -24243,15 +24309,18 @@ whitens
 whiter
 whites
 whitest
+whither
 whitish
 whittle
 whittled
 whittles
 whiz
 who
+whoever
 whole
 wholes
 wholly
+whom
 whoop
 whooped
 whooping
@@ -24260,6 +24329,7 @@ whoosh
 whooshed
 whooshes
 whopping
+whose
 why
 whys
 wick
@@ -24413,12 +24483,14 @@ wit
 witch
 witched
 witches
+with
 withdraw
 wither
 withered
 withers
 withhold
 within
+without
 witness
 wits
 wittier
@@ -24529,6 +24601,7 @@ worthier
 worthies
 worths
 worthy
+would
 wound
 wounded
 wounding
@@ -24693,10 +24766,14 @@ yoking
 yolk
 yolks
 yonder
+you
 young
 younger
 youngest
 youngs
+your
+yours
+yourself
 youth
 youthful
 youths
