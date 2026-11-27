@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Play Wordle Variations Online – Free Brain-Training Games</title>
   <meta name="description"
-    content="Free Wordle-style word games that build vocabulary, memory and focus: Wordle Unlimited, Dordle, Pentordle, Decordle, Lexicade and DailyCross. No signup.">
+    content="Free word games that build vocabulary, memory and focus: Wordle Unlimited, Dordle, Decordle, Lexicade, DailyCross, Word Tail and more. No signup.">
 
   <link rel="canonical" href="https://www.opensourcefeed.org/puzzles/" />
   <link rel="icon" type="image/svg+xml"
@@ -383,6 +383,11 @@
       background: var(--surface-hover);
       border-color: rgba(255, 255, 255, 0.18);
       box-shadow: var(--shadow-md);
+    }
+
+    /* An odd last card fills its row instead of leaving a gap */
+    .featured-grid>.game-tile:last-child:nth-child(odd) {
+      grid-column: 1 / -1;
     }
 
     .game-tile.is-top {
@@ -1127,9 +1132,27 @@
     }
 
     @media (max-width: 420px) {
+      .topbar {
+        gap: 8px;
+      }
+
+      .brand {
+        gap: 8px;
+        font-size: 0.98rem;
+        white-space: nowrap;
+      }
+
+      .brand small {
+        display: none;
+      }
+
+      .topnav {
+        gap: 0;
+      }
+
       .topnav a {
-        padding: 8px 8px;
-        font-size: 0.85rem;
+        padding: 8px 6px;
+        font-size: 0.82rem;
       }
 
       .hero h1 {
@@ -1168,17 +1191,18 @@
             { "@type": "ListItem", "position": 2, "item": { "@type": "Game", "name": "Wordle Daily", "url": "https://www.opensourcefeed.org/puzzles/jotto-daily/" } },
             { "@type": "ListItem", "position": 3, "item": { "@type": "Game", "name": "Dordle Daily", "url": "https://www.opensourcefeed.org/puzzles/dordle/" } },
             { "@type": "ListItem", "position": 4, "item": { "@type": "Game", "name": "Dordle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/dordle-unlimited/" } },
-            { "@type": "ListItem", "position": 5, "item": { "@type": "Game", "name": "Pentordle", "url": "https://www.opensourcefeed.org/puzzles/pentordle/" } },
-            { "@type": "ListItem", "position": 6, "item": { "@type": "Game", "name": "Decordle Daily", "url": "https://www.opensourcefeed.org/puzzles/decordle/" } },
-            { "@type": "ListItem", "position": 7, "item": { "@type": "Game", "name": "Decordle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/decordle-unlimited/" } },
-            { "@type": "ListItem", "position": 8, "item": { "@type": "Game", "name": "Word Gridle", "url": "https://www.opensourcefeed.org/puzzles/word-gridle/" } },
-            { "@type": "ListItem", "position": 9, "item": { "@type": "Game", "name": "Word Gridle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/gridle-unlimited/" } },
-            { "@type": "ListItem", "position": 10, "item": { "@type": "Game", "name": "DailyCross", "url": "https://www.opensourcefeed.org/puzzles/dailycross/" } },
-            { "@type": "ListItem", "position": 11, "item": { "@type": "Game", "name": "Word Plant Daily", "url": "https://www.opensourcefeed.org/puzzles/word-plant/" } },
-            { "@type": "ListItem", "position": 12, "item": { "@type": "Game", "name": "Word Plant Practice", "url": "https://www.opensourcefeed.org/puzzles/word-plant-practice/" } },
-            { "@type": "ListItem", "position": 13, "item": { "@type": "Game", "name": "Word Tail Daily", "url": "https://www.opensourcefeed.org/puzzles/word-tail/" } },
-            { "@type": "ListItem", "position": 14, "item": { "@type": "Game", "name": "Word Tail Unlimited", "url": "https://www.opensourcefeed.org/puzzles/word-tail/unlimited/" } },
-            { "@type": "ListItem", "position": 15, "item": { "@type": "Game", "name": "Lexicade", "url": "https://www.opensourcefeed.org/puzzles/lexicade/" } }
+            { "@type": "ListItem", "position": 5, "item": { "@type": "Game", "name": "Pentordle Daily", "url": "https://www.opensourcefeed.org/puzzles/pentordle/" } },
+            { "@type": "ListItem", "position": 6, "item": { "@type": "Game", "name": "Pentordle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/pentordle-unlimited/" } },
+            { "@type": "ListItem", "position": 7, "item": { "@type": "Game", "name": "Decordle Daily", "url": "https://www.opensourcefeed.org/puzzles/decordle/" } },
+            { "@type": "ListItem", "position": 8, "item": { "@type": "Game", "name": "Decordle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/decordle-unlimited/" } },
+            { "@type": "ListItem", "position": 9, "item": { "@type": "Game", "name": "Word Gridle", "url": "https://www.opensourcefeed.org/puzzles/word-gridle/" } },
+            { "@type": "ListItem", "position": 10, "item": { "@type": "Game", "name": "Word Gridle Unlimited", "url": "https://www.opensourcefeed.org/puzzles/gridle-unlimited/" } },
+            { "@type": "ListItem", "position": 11, "item": { "@type": "Game", "name": "DailyCross", "url": "https://www.opensourcefeed.org/puzzles/dailycross/" } },
+            { "@type": "ListItem", "position": 12, "item": { "@type": "Game", "name": "Word Plant Daily", "url": "https://www.opensourcefeed.org/puzzles/word-plant/" } },
+            { "@type": "ListItem", "position": 13, "item": { "@type": "Game", "name": "Word Plant Practice", "url": "https://www.opensourcefeed.org/puzzles/word-plant-practice/" } },
+            { "@type": "ListItem", "position": 14, "item": { "@type": "Game", "name": "Word Tail Daily", "url": "https://www.opensourcefeed.org/puzzles/word-tail/" } },
+            { "@type": "ListItem", "position": 15, "item": { "@type": "Game", "name": "Word Tail Unlimited", "url": "https://www.opensourcefeed.org/puzzles/word-tail/unlimited/" } },
+            { "@type": "ListItem", "position": 16, "item": { "@type": "Game", "name": "Lexicade", "url": "https://www.opensourcefeed.org/puzzles/lexicade/" } }
           ]
         }
       },
@@ -1188,7 +1212,7 @@
           {
             "@type": "Question",
             "name": "Are these word games free to play?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Yes. Every game in the collection is free to play in your browser, and you do not need an account to start." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes. Every game in the collection is free to play in your browser, and you don't need an account to start." }
           },
           {
             "@type": "Question",
@@ -1203,7 +1227,7 @@
           {
             "@type": "Question",
             "name": "Which game should I play first?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Start with Wordle Unlimited to learn the colour clues, then move to Dordle. When two boards feel easy, try Pentordle and then Decordle." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Start with Wordle Unlimited to learn the colour clues, then move to Dordle Unlimited. When two boards feel easy, try Pentordle and then Decordle." }
           },
           {
             "@type": "Question",
@@ -1228,7 +1252,7 @@
           {
             "@type": "Question",
             "name": "Are these games good for kids and English learners?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Yes. They are free, need no account, and use everyday words. Lexicade accepts only common words and shows each one's meaning." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes. They are free, need no account and take a few minutes a day. The answers are everyday words, so they suit young players and English learners, and the beginner games (Wordle Unlimited, Word Plant, DailyCross) are a gentle start." }
           }
         ]
       }
@@ -1315,7 +1339,7 @@
             <span class="skill-icon violet"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3h7v7H3zM14 3h7v7h-7zM14 14h7v7h-7zM3 14h7v7H3z"/></svg></span>
             <h3>Spelling and patterns</h3>
             <p>Spot letter patterns and plan a move ahead.</p>
-            <p class="skill-games"><a href="/puzzles/word-gridle/">Word Gridle</a> · <a href="/puzzles/word-tail/">Word Tail</a> · <a href="/puzzles/lexicade/">Lexicade</a></p>
+            <p class="skill-games"><a href="/puzzles/word-gridle/">Word Gridle</a> · <a href="/puzzles/word-tail/">Word Tail</a></p>
           </article>
         </div>
       </section>
@@ -1385,10 +1409,21 @@
           <a class="game-tile" href="/puzzles/pentordle/">
             <span class="game-icon yellow" aria-hidden="true">5</span>
             <div class="game-body">
-              <h3>Pentordle</h3>
-              <p>Five hidden five-letter words, one set of guesses. Play Pentordle daily or unlimited: a solid step up from Dordle.</p>
+              <h3>Pentordle Daily</h3>
+              <p>Five hidden five-letter words, one set of guesses, the same for everyone each day. A solid step up from
+                Dordle.</p>
               <p class="trains">Trains: memory, focus · Advanced</p>
-              <span class="chips"><span class="chip accent">5 words</span><span class="chip">Daily</span><span class="chip">Unlimited</span></span>
+              <span class="chips"><span class="chip accent">5 words</span><span class="chip">Daily</span></span>
+            </div>
+          </a>
+
+          <a class="game-tile" href="/puzzles/pentordle-unlimited/">
+            <span class="game-icon yellow" aria-hidden="true">5</span>
+            <div class="game-body">
+              <h3>Pentordle Unlimited</h3>
+              <p>Five words at once, then start a new set straight away. No daily limit.</p>
+              <p class="trains">Trains: memory, focus · Advanced</p>
+              <span class="chips"><span class="chip accent">5 words</span><span class="chip">Unlimited</span></span>
             </div>
           </a>
 
@@ -1548,23 +1583,6 @@
         </div>
       </section>
 
-      <section class="section">
-        <div class="section-header">
-          <h2>Discover More</h2>
-          <p>Try one more word puzzle from our collection.</p>
-        </div>
-
-        <div class="card-grid single">
-          <a href="/word-plant/">
-            <figure class="game-card">
-              <img src="/puzzles/word-plant/logo192.png" alt="Word Plant game logo" width="200"
-                height="200" loading="lazy" decoding="async">
-              <figcaption>About Word Plant</figcaption>
-            </figure>
-          </a>
-        </div>
-      </section>
-
       <section class="content-block section" id="guide">
         <h2>Which Word Puzzle Should You Play?</h2>
         <p>
@@ -1586,13 +1604,8 @@
           </div>
           <div class="guide-item">
             <h3>Prefer a daily ritual</h3>
-            <p><a href="/puzzles/jotto-daily/">Wordle Daily</a>, <a href="/puzzles/dordle/">Dordle Daily</a>,
-              <a href="/puzzles/decordle/">Decordle Daily</a>,
-              <a href="/puzzles/word-gridle/">Word Gridle</a>,
-              <a href="/puzzles/dailycross/">DailyCross</a>, <a href="/puzzles/lexicade/">Lexicade</a>,
-              <a href="/puzzles/word-tail/">Word Tail</a> and
-              <a href="/puzzles/word-plant/">Word Plant</a> give you one fresh puzzle each day. Come back tomorrow for
-              the next one.</p>
+            <p>Start with the <a href="#workout-title">10-minute daily workout</a> at the top of the page. Every game
+              tagged Daily gives you one fresh puzzle each day, the same for everyone, and many keep a streak.</p>
           </div>
           <div class="guide-item">
             <h3>Bored of guessing letters</h3>
@@ -1693,8 +1706,10 @@
           </details>
           <details class="faq-item">
             <summary>Are these games good for kids and English learners?</summary>
-            <p>Yes. They are free, need no account, and use everyday words. Lexicade accepts only common words and shows
-              each one's meaning.</p>
+            <p>Yes. They are free, need no account and take a few minutes a day. The answers are everyday words, so they
+              suit young players and English learners, and the beginner games
+              (<a href="/puzzles/wordle-unlimited/">Wordle Unlimited</a>, <a href="/puzzles/word-plant/">Word Plant</a>,
+              <a href="/puzzles/dailycross/">DailyCross</a>) are a gentle start.</p>
           </details>
         </div>
       </section>
